@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+*.pdf
+*.html
+.idea/
+__pycache__/
+.venv/
+*.pyc
+sp_1500_list.xlsx
