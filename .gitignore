@@ -1,0 +1,17 @@
+#Files with raw data
+raw_filings/
+sec-edgar-filings/
+extracted_data/
+*.xlsx
+
+.idea/
+.venv/
+__pycache__/
+*.pyc
+
+/shelf/
+/workspace.xml
+/queries/
+/dataSources/
+/dataSources.local.xml
+/httpRequests/

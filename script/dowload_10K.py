@@ -43,8 +43,6 @@ for row_index, row in raw_data.iterrows():
     print(f'\n----[{row_index}] Searching the CIK for the company: {company_name}, tk: {tk} in year: {year} ----')
     cik = ticker_to_cik.get(tk)
 
-
-
     if cik:
 
         # Target file name and path
