@@ -29,7 +29,8 @@ for data in data_sec.values():
 #Extract information from the Excel and renaming the files if cik found
 raw_data = pd.read_excel('/home/aicha/Documents/TSP/2A/Cassiopée/sp1500_list.xls')
 
-max_companies = 2
+max_companies = 11
+
 companies_count = set() #Created to limit the number of companies downloaded
 for row_index, row in raw_data.iterrows():
     year = int(row['fyear'])
