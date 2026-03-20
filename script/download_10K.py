@@ -3,7 +3,7 @@ import shutil
 from sec_edgar_downloader import Downloader
 import pandas as pd
 import requests
-
+import csv
 #SEC User-Agent identification and downloader object
 dl_folder = '/home/aicha/PycharmProjects/AI-Infrastructure-investment-project/raw_filings'
 dl = Downloader('Koureich Aïcha', 'aicha.koureich@telecom-sudparis.eu', download_folder=dl_folder)
@@ -18,6 +18,9 @@ data_sec = cik_find.json()
 #Transform the ticker in cik for renaming purpose
 ticker_to_cik = {}
 
+#List for the company which cik wasnt found
+missing_cik = []
+
 for data in data_sec.values():
     tk = data['ticker']
     cik = str(data['cik_str']).zfill(10) #CIK standard format
@@ -26,9 +29,8 @@ for data in data_sec.values():
 #Extract information from the Excel and renaming the files if cik found
 raw_data = pd.read_excel('/home/aicha/Documents/TSP/2A/Cassiopée/sp1500_list.xls')
 
-max_companies = 200
+max_companies = 2
 companies_count = set() #Created to limit the number of companies downloaded
-
 for row_index, row in raw_data.iterrows():
     year = int(row['fyear'])
     tk = row['tic']
@@ -75,6 +77,8 @@ for row_index, row in raw_data.iterrows():
             shutil.rmtree(os.path.join(dl_folder, 'sec-edgar-filings'))
     else:
         print(f'[{row_index}] Error CIK not found for ticker {tk}')
-print('\nVerify raw filings file' )
-
-
+        missing_cik.append({'ticker':tk, 'company': company_name})
+if missing_cik:
+    missing = pd.DataFrame(missing_cik)
+    missing.to_csv('missingCIK.csv', index = False)
+    print(f"List of missing CIKs. Total: {len(missing_cik)}")

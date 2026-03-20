@@ -1,17 +1,16 @@
-#Files with raw data
-raw_filings/
-sec-edgar-filings/
-extracted_data/
-*.xlsx
-
-.idea/
-.venv/
-__pycache__/
-*.pyc
-
+# Default ignored files
 /shelf/
 /workspace.xml
+# Ignored default folder with query files
 /queries/
+# Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+# Editor-based HTTP Client requests
 /httpRequests/
+
+.venv/
+__pycache__/
+raw_filings/
+extracted_data/
+*.xlsx
