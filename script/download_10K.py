@@ -78,7 +78,7 @@ for row_index, row in raw_data.iterrows():
             shutil.rmtree(os.path.join(dl_folder, 'sec-edgar-filings'))
     else:
         print(f'[{row_index}] Error CIK not found for ticker {tk}')
-        missing_cik.append({'ticker':tk, 'company': company_name})
+        missing_cik.append({'ticker':tk, 'company': company_name, 'year': year})
 if missing_cik:
     missing = pd.DataFrame(missing_cik)
     missing.to_csv('missingCIK.csv', index = False)
