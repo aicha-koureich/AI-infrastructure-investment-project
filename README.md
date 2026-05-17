@@ -1,36 +1,78 @@
-🛠 Script d'Extraction de Données (v4)
+AI Infrastructure Investment Project - SEC 10-K Extractor
 
-Ce script est conçu pour automatiser l'extraction de données financières et textuelles à partir des rapports annuels SEC Form 10-K (format iXBRL). Il répond spécifiquement aux exigences du AI Infrastructure Data Construction Handbook.
-Fonctions principales :
+Ce dépôt contient les outils d'extraction automatisée pour le projet de recherche sur l'investissement dans les infrastructures IA, basé sur le AI Infrastructure Data Construction Handbook.
+###Fonctionnalités
 
-    Tâche 2 (Useful-Life) : Extraction "chirurgicale" des durées de vie des actifs IT (serveurs, software, matériel réseau).
+Le script extract_10k_v5.py traite les rapports SEC Form 10-K (iXBRL) à grande échelle :
 
-    Tâche 3 (Policy Changes) : Détection automatique des changements de méthodes d'amortissement.
+    Useful-Life (Task 2) : Durées de vie des actifs IT (serveurs, hardware, software).
 
-    Tâche 5 (AI Infrastructure) : Extraction des paragraphes entiers mentionnant l'infrastructure IA, les GPU et le Machine Learning.
+    Policy Changes (Task 3) : Détection des changements de méthodes d'amortissement.
 
-    Robustesse : Gestion des nombres en lettres, filtrage du "bruit" (ignore les données liées aux acquisitions/goodwill) et gestion des tableaux HTML complexes.
+    AI Infrastructure (Task 5) : Verbatims sur les GPU, le Machine Learning et les Data Centers.
 
-Utilisation :
-
-Le script s'exécute depuis le terminal. Assurez-vous d'avoir installé les dépendances (pandas, beautifulsoup4, lxml).
-
-Pour traiter un seul fichier :
+###Installation et Prérequis
+1. Dépendances Python
 Bash
 
-python script/extraction_aar_v4.py --input raw_filings/nom_du_fichier.html
+pip install pandas beautifulsoup4 lxml
 
-Pour traiter tout un dossier (recommandé) :
+2. Configuration Rclone
+
+Le script utilise directement l'outil système rclone pour communiquer avec Google Drive.
+
+    Assurez-vous que rclone est installé et configuré (nom du remote conseillé : gdrive).
+
+    Plus besoin de monter le Drive (rclone mount), le script gère les transferts un par un.
+
+###Utilisation
+
+Le script propose trois modes d'exécution. Le mode Production est optimisé pour éviter de saturer l'espace disque local.
+1. Mode Test (Fichier unique)
 Bash
 
-python script/extraction_aar_v4.py --folder raw_filings/ --output logs_and_tracking/
+python extract_10k_v5.py --input 0000001750_AIR_FY2025_10K.html
 
-Fichiers de sortie :
+2. Mode Local (Dossier HTML)
+Bash
 
-    extraction_results.csv : Données structurées par entreprise/année.
+python extract_10k_v5.py --folder ./filings/ --output ./results/
 
-    replication_log.csv : Journal des ambiguïtés et erreurs pour le contrôle qualité.
+3. Mode Production (Auto-Download & Checkpoint)
 
-    extraction_verbatim.txt : Texte intégral extrait pour vérification manuelle.
+C'est le mode recommandé pour traiter les 68 batches du S&P 1500. Le script télécharge un ZIP, le traite, puis le supprime avant de passer au suivant.
 
+    Exécution globale :
 
+Bash
+
+python extract_10k_v5.py --drive "gdrive:AI_Infrastructure_Investment_Project/raw_filings" --output ./results/
+
+    Reprise après interruption (Checkpoint) :
+    Si le script s'arrête (coupure internet, crash), relancez simplement la même commande. Le script détecte les fichiers extraction_results_batch_X.csv déjà présents et ne traite que les batches manquants.
+
+    Batch spécifique :
+
+Bash
+
+python extract_10k_v5.py --drive "gdrive:..." --batch batch_12.zip --output ./results/
+
+###Structure des sorties
+
+Le dossier ./results/ est organisé pour garantir l'intégrité des données :
+
+    extraction_results_global.csv : Fusion finale de tous les batches.
+
+    extraction_results_batch_X.csv : Données brutes par batch (sert de checkpoint).
+
+    replication_log_global.csv : Journal centralisant les erreurs (Task 13).
+
+    verbatims/ : Un fichier .txt par firme-année (ex: 0000002488_AMD_FY2024.txt) pour vérification manuelle.
+
+###Robustesse et Sécurité
+
+    Gestion de l'espace disque : Chaque fichier ZIP est supprimé immédiatement après traitement.
+
+    Tolérance aux pannes : Utilisation de --retries 3 via rclone pour les téléchargements.
+
+    Mémoire optimisée : Les fichiers HTML sont lus directement depuis l'archive locale sans extraction massive sur le disque.
