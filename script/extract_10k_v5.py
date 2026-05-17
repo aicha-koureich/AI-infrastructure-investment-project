@@ -95,6 +95,49 @@ AI_KW = [
     r"\bhigh[- ]performance computing\b",
 ]
 
+# v5 : Patterns de hardware spécifique (Task 7 — Hardware timeline)
+# Permet la détection "early adopter" vs "late adopter"
+HARDWARE_MODELS = {
+    # NVIDIA
+    "NVIDIA": r"\bnvidia\b",
+    "H100": r"\bh100\b",
+    "H200": r"\bh200\b",
+    "A100": r"\ba100\b",
+    "V100": r"\bv100\b",
+    "B100": r"\bb100\b",
+    "B200": r"\bb200\b",
+    "GB200": r"\bgb200\b",
+    "Blackwell": r"\bblackwell\b",
+    "Hopper": r"\bhopper\b",
+    "DGX": r"\bdgx\b",
+    "HGX": r"\bhgx\b",
+    # AMD
+    "AMD_Instinct": r"\binstinct\b",
+    "AMD_Radeon": r"\bradeon\b",
+    "AMD_EPYC": r"\bepyc\b",
+    "AMD_Ryzen": r"\bryzen\b",
+    "MI300": r"\bmi300\b",
+    "MI325": r"\bmi325\b",
+    "MI350": r"\bmi350\b",
+    # Intel
+    "Intel_Xeon": r"\bxeon\b",
+    "Intel_Gaudi": r"\bgaudi\s*\d?\b",
+    # Google
+    "TPU": r"\btpu(s)?\b|\btensor processing unit\b",
+    # AWS
+    "Trainium": r"\btrainium\b",
+    "Inferentia": r"\binferentia\b",
+}
+
+# v5 : Mots-clés Task 6 (Segment-level computing/AI mentions)
+SEGMENT_AI_KW = [
+    r"\bcloud (?:segment|business|services|computing|platform)\b",
+    r"\bai (?:segment|business|services|solutions|platform|products)\b",
+    r"\bdata center (?:segment|business|services)\b",
+    r"\b(?:azure|aws|gcp|google cloud)\b",
+    r"\bcomputing (?:segment|business)\b",
+]
+
 # Exclusions strictes (Section 2.3 du manuel)
 HARD_EXCLUSIONS = [
     r"\bvehicle(s)?\b",
@@ -176,20 +219,28 @@ class ExtractionResult:
     firm_ticker: str
     fiscal_year: str
     filename: str
+    # Task 1 : Chronologie (v5)
+    filing_date: str = ""                        # v5 : date de publication
+    period_end_date: str = ""                    # v5 : fin d'exercice fiscal
     # Task 2 : durée de vie
-    asset_category: str = "Not disclosed"       # v4 : catégorie d'actif
+    asset_category: str = "Not disclosed"
     useful_life_text: str = "Not disclosed"
     useful_life_min_years: Optional[float] = None
     useful_life_max_years: Optional[float] = None
     # Task 3 : changement de politique
-    policy_change: str = "Not disclosed"        # v4 : "Yes" / "No" / "Not disclosed"
-    policy_change_text: str = ""                 # v4 : verbatim si changement détecté
+    policy_change: str = "Not disclosed"
+    policy_change_text: str = ""
     # Task 5 : infrastructure IA
     ai_infra_text: str = "Not disclosed"
-    ai_infra_source: str = ""                    # v4 : "Item 8" ou "MD&A" ou ""
+    ai_infra_source: str = ""
+    # Task 6 : Segment-level (v5)
+    segment_ai_text: str = "Not disclosed"       # v5 : mentions de segments cloud/IA
+    # Task 7 : Hardware timeline (v5)
+    hardware_mentions: str = ""                  # v5 : liste séparée par ; des modèles trouvés
+    hardware_count: int = 0                      # v5 : nombre de modèles distincts
     # Méta-qualité
     source_section: str = "unknown"
-    section_title: str = ""                      # v4 : titre de section verbatim
+    section_title: str = ""
     confidence: int = 0
     ambiguity_flag: bool = False
     ambiguity_detail: str = ""
@@ -792,6 +843,44 @@ def extract_asset_category(text: str) -> str:
     if m:
         return m.group(1).strip()
 
+    # v5 : Fallback élargi — chercher des noun phrases IT-related dans le texte
+    # Cas DXYN : "property, plant and equipment have been computed for ...
+    #            useful lives of the related assets, ranging from..."
+    # Extraire les noms d'actifs concrets mentionnés autour de la durée.
+    it_noun_phrases = re.findall(
+        r'(?i)\b('
+        r'computer (?:equipment|hardware|software|systems?)|'
+        r'(?:office\s+)?equipment(?:\s+and\s+furniture)?|'
+        r'machinery(?:\s+and\s+equipment)?|'
+        r'furniture(?:\s+and\s+fixtures)?|'
+        r'capitalized software|'
+        r'(?:information\s+)?technology(?:\s+equipment)?|'
+        r'data center (?:equipment|hardware|infrastructure)|'
+        r'servers?(?:\s+and\s+(?:storage|networking))?|'
+        r'(?:network|networking)\s+equipment|'
+        r'leasehold improvements|'
+        r'building(?:s)?(?:\s+and\s+improvements)?'
+        r')\b',
+        normalized
+    )
+
+    if it_noun_phrases:
+        # Garder uniquement les phrases IT (exclure buildings, leasehold purs)
+        it_only = [
+            p for p in it_noun_phrases
+            if not re.match(r'(?i)^(?:building|leasehold)', p.strip())
+        ]
+        if it_only:
+            # Déduplication en gardant l'ordre
+            seen = set()
+            unique = []
+            for p in it_only:
+                key = p.lower().strip()
+                if key not in seen:
+                    seen.add(key)
+                    unique.append(p.strip())
+            return ", ".join(unique[:4])  # Max 4 catégories
+
     return "Not disclosed"
 
 
@@ -904,6 +993,199 @@ def detect_policy_change(segments: list[dict]) -> tuple[str, str]:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
+# v5 : NOUVELLES EXTRACTIONS (Tasks 1, 6, 7)
+# ─────────────────────────────────────────────────────────────────────────────
+
+def extract_filing_dates(soup: BeautifulSoup, content: str) -> tuple[str, str]:
+    """
+    v5 : Task 1 — Date de publication et fin d'exercice.
+
+    Cherche dans :
+    1. Balises iXBRL DocumentPeriodEndDate (texte ISO ou "Month DD, YYYY")
+    2. Texte de couverture "For the fiscal year ended..."
+    3. En-tête EDGAR "FILED AS OF DATE: YYYYMMDD"
+    """
+    filing_date = ""
+    period_end = ""
+
+    # Tentative 1a : DocumentPeriodEndDate (texte natif, format ISO)
+    m = re.search(
+        r'(?i)DocumentPeriodEndDate[^>]*>(?:<[^>]+>)*(\d{4}-\d{2}-\d{2})',
+        content[:500000]
+    )
+    if m:
+        period_end = m.group(1)
+
+    # Tentative 1b : DocumentPeriodEndDate (texte natif, format "Month DD, YYYY")
+    if not period_end:
+        m = re.search(
+            r'(?i)DocumentPeriodEndDate[^>]*>(?:<[^>]+>)*([A-Z][a-z]+\s+\d{1,2},?\s+\d{4})',
+            content[:500000]
+        )
+        if m:
+            period_end = m.group(1).strip()
+
+    # Tentative 2 : "For the fiscal year ended..." (US: "December 31, 2024")
+    if not period_end:
+        # Normaliser &nbsp; et &#160; en espaces pour le matching
+        normalized = re.sub(r'&nbsp;|&#160;|\xa0', ' ', content[:200000])
+        m = re.search(
+            r'(?i)for the fiscal year ended[\s,]+(\w+\s+\d{1,2},?\s+\d{4})',
+            normalized
+        )
+        if m:
+            period_end = m.group(1).strip()
+
+    # Tentative 3 : format britannique "30 September 2020"
+    if not period_end:
+        normalized = re.sub(r'&nbsp;|&#160;|\xa0', ' ', content[:200000])
+        m = re.search(
+            r'(?i)fiscal year ended[\s,]+(\d{1,2}\s+\w+\s+\d{4})',
+            normalized
+        )
+        if m:
+            period_end = m.group(1).strip()
+
+    # Filing date : EDGAR header "FILED AS OF DATE: YYYYMMDD"
+    m = re.search(
+        r'(?i)filed as of date[\s:]+(\d{8})',
+        content[:50000]
+    )
+    if m:
+        d = m.group(1)
+        filing_date = f"{d[:4]}-{d[4:6]}-{d[6:8]}"
+    else:
+        # Tentative bis : DocumentFilingDate iXBRL
+        m = re.search(
+            r'(?i)(?:DocumentFiling|FilingDate)[^>]*>(?:<[^>]+>)*(\d{4}-\d{2}-\d{2})',
+            content[:500000]
+        )
+        if m:
+            filing_date = m.group(1)
+
+    # Tentative 4 : xbrli:endDate (anciens formats iXBRL comme APD)
+    # On prend la date la plus récente (= fin d'exercice fiscal le plus probable)
+    if not period_end:
+        end_dates = re.findall(
+            r'<xbrli:endDate>(\d{4}-\d{2}-\d{2})</xbrli:endDate>',
+            content[:500000]
+        )
+        if end_dates:
+            # La date max est le plus probable period_end
+            period_end = max(end_dates)
+
+    return filing_date, period_end
+
+
+def extract_hardware_mentions(segments: list[dict],
+                                full_content: Optional[str] = None) -> tuple[str, int]:
+    """
+    v5 : Task 7 — Détecte les modèles de hardware spécifiques.
+
+    Scanne d'abord les segments (Item 7+8), puis le document complet si fourni
+    (les mentions de hardware sont souvent dans Item 1 Business, hors scope
+    pour la comptabilité mais valide pour la timeline hardware).
+
+    Retourne (liste séparée par ';', count).
+    """
+    found = set()
+
+    # 1) Scan des segments structurés
+    for seg in segments:
+        text = seg["text"]
+        for label, pat in HARDWARE_MODELS.items():
+            if re.search(pat, text, re.IGNORECASE):
+                found.add(label)
+
+    # 2) Scan du document complet pour les mentions Item 1 / partout
+    if full_content and len(found) < len(HARDWARE_MODELS):
+        for label, pat in HARDWARE_MODELS.items():
+            if label in found:
+                continue
+            if re.search(pat, full_content, re.IGNORECASE):
+                found.add(label)
+
+    if not found:
+        return "", 0
+    return ";".join(sorted(found)), len(found)
+
+
+def extract_segment_info(segments: list[dict]) -> str:
+    """
+    v5 : Task 6 — Extrait les mentions de segments cloud/IA.
+
+    Cherche les paragraphes parlant de segments business (Microsoft Cloud,
+    AWS, Azure, AI products, etc.).
+    """
+    matches = []
+    seen = set()
+    cyber_re = re.compile(r"(?i)cybers(ecurity|attack|breach)|vulnerabilit")
+
+    for seg in segments:
+        text = seg["text"]
+        if cyber_re.search(text):
+            continue
+
+        # Cherche au moins un mot-clé segment
+        for pat in SEGMENT_AI_KW:
+            if re.search(pat, text, re.IGNORECASE):
+                # Déduplication
+                key = text[:150]
+                if key in seen:
+                    break
+                seen.add(key)
+                matches.append(text)
+                break
+
+        if len(matches) >= 3:  # Limite pour ne pas exploser le CSV
+            break
+
+    if not matches:
+        return "Not disclosed"
+    # Concatène les paragraphes avec séparateur clair
+    return " ||| ".join(matches[:3])
+
+
+def merge_verbatim_with_neighbors(best_seg: dict, all_segments: list[dict],
+                                   max_extra_chars: int = 500) -> str:
+    """
+    v5 : Si le verbatim choisi est tronqué (pas de durée numérique),
+    cherche dans les 5 segments voisins pour récupérer les nombres
+    manquants. Cas DXYN : "ranging from" → ajouter le segment suivant
+    qui contient "5 to 40 years".
+    """
+    base_text = best_seg["text"]
+
+    # Si le texte contient déjà des nombres + "year", c'est bon
+    if re.search(r'\d+.*years?', base_text):
+        return base_text
+
+    # Sinon, chercher dans les voisins (avant/après dans la liste)
+    try:
+        idx = all_segments.index(best_seg)
+    except ValueError:
+        return base_text
+
+    # Regarder les 5 segments suivants pour trouver les chiffres
+    extras = []
+    chars_added = 0
+    for i in range(idx + 1, min(idx + 6, len(all_segments))):
+        neighbor = all_segments[i]
+        ntext = neighbor["text"]
+        if re.search(r'\d+\s*(?:to\s+|[-–—]\s*)?\d*\s*years?', ntext, re.I):
+            # Limiter la taille pour éviter d'absorber un gros bloc
+            if len(ntext) <= 300:
+                extras.append(ntext)
+                chars_added += len(ntext)
+                if chars_added >= max_extra_chars:
+                    break
+
+    if extras:
+        return base_text + " " + " ".join(extras)
+    return base_text
+
+
+# ─────────────────────────────────────────────────────────────────────────────
 # ÉTAPE 7 : PIPELINE PRINCIPAL
 # ─────────────────────────────────────────────────────────────────────────────
 
@@ -936,6 +1218,13 @@ def process_html(content: str, filename: str) -> ExtractionResult:
         logging.info(f"[{filename}] Parsing...")
 
         soup = BeautifulSoup(content, "html.parser")
+
+        # v5 : Task 1 — Date de publication / fin d'exercice
+        # (faire AVANT clean_ixbrl pour ne pas perdre les balises dei:)
+        filing_date, period_end = extract_filing_dates(soup, content)
+        result.filing_date = filing_date
+        result.period_end_date = period_end
+
         soup = clean_ixbrl(soup)
 
         # ── 1. Isolation Item 8 ──
@@ -961,19 +1250,24 @@ def process_html(content: str, filename: str) -> ExtractionResult:
         if ul_candidates:
             best = ul_candidates[0]
             raw_text = best["text"]
-            result.useful_life_text = trim_verbatim(raw_text)
+
+            # v5 : si le segment choisi est tronqué (pas de nombre),
+            # fusionner avec les segments voisins pour récupérer les durées
+            merged_text = merge_verbatim_with_neighbors(best, segments_item8)
+
+            result.useful_life_text = trim_verbatim(merged_text)
             result.source_section = best["section_hint"]
             result.section_title = best.get("section_title", "")
             result.confidence = best["confidence"]
 
-            # Extraction numérique
-            duration = extract_it_relevant_duration(raw_text)
+            # Extraction numérique (sur le texte fusionné)
+            duration = extract_it_relevant_duration(merged_text)
             if duration:
                 result.useful_life_min_years = duration["min"]
                 result.useful_life_max_years = duration.get("max")
 
-            # Catégorie d'actif
-            result.asset_category = extract_asset_category(raw_text)
+            # Catégorie d'actif (sur le texte fusionné aussi)
+            result.asset_category = extract_asset_category(merged_text)
 
             # Ambiguïté (v4 : filtrée IT-only)
             ambig, detail = detect_ambiguity(ul_candidates)
@@ -1036,6 +1330,32 @@ def process_html(content: str, filename: str) -> ExtractionResult:
                         result.ai_infra_text = relevant_mda[0]["text"]
                         result.ai_infra_source = "MD&A (Item 7)"
 
+        # ── 7. Task 6 : Segment-level (v5) ──
+        # Cherche dans Item 7 (MD&A) en priorité, puis Item 8
+        item7_soup_for_seg, _ = isolate_item7(soup)
+        if item7_soup_for_seg is not None:
+            segments_item7_seg = extract_text_segments(item7_soup_for_seg, "item_7")
+            seg_text = extract_segment_info(segments_item7_seg)
+            if seg_text == "Not disclosed":
+                seg_text = extract_segment_info(segments_item8)
+            result.segment_ai_text = seg_text
+        else:
+            result.segment_ai_text = extract_segment_info(segments_item8)
+
+        # ── 8. Task 7 : Hardware timeline (v5) ──
+        # Cherche dans tous les segments disponibles (Item 7 + Item 8)
+        all_segments_for_hw = list(segments_item8)
+        if item7_soup_for_seg is not None:
+            try:
+                all_segments_for_hw.extend(segments_item7_seg)
+            except NameError:
+                pass
+        hw_mentions, hw_count = extract_hardware_mentions(
+            all_segments_for_hw, full_content=content
+        )
+        result.hardware_mentions = hw_mentions
+        result.hardware_count = hw_count
+
         logging.info(
             f"[{filename}] Terminé. "
             f"Durée: {result.useful_life_min_years}-{result.useful_life_max_years} ans | "
@@ -1093,12 +1413,15 @@ def export_results(results: list[ExtractionResult], output_dir: str,
         with open(vpath, "w", encoding="utf-8") as f:
             f.write(f"FIRM         : {r.firm_ticker} (CIK {r.firm_cik}) | FY{r.fiscal_year}\n")
             f.write(f"FILE         : {r.filename}\n")
+            f.write(f"FILING DATE  : {r.filing_date or 'N/A'}\n")
+            f.write(f"PERIOD END   : {r.period_end_date or 'N/A'}\n")
             f.write(f"STATUS       : {r.extraction_status} | Confiance : {r.confidence}/3\n")
             f.write(f"SECTION      : {r.source_section}\n")
             f.write(f"SECTION TITLE: {r.section_title}\n")
             f.write(f"ASSET CAT.   : {r.asset_category}\n")
             f.write(f"DURÉE        : {r.useful_life_min_years}-{r.useful_life_max_years} ans\n")
             f.write(f"POLICY CHANGE: {r.policy_change}\n")
+            f.write(f"HARDWARE     : {r.hardware_mentions or 'None'} ({r.hardware_count} modèle(s))\n")
             if r.ambiguity_flag:
                 f.write(f"⚠ AMBIGUÏTÉ  : {r.ambiguity_detail}\n")
             if r.error_message:
@@ -1109,7 +1432,7 @@ def export_results(results: list[ExtractionResult], output_dir: str,
             f.write(f"\n[VERBATIM — Infrastructure IA]\n{r.ai_infra_text}")
             if r.ai_infra_source:
                 f.write(f"  [Source: {r.ai_infra_source}]")
-            f.write("\n")
+            f.write(f"\n\n[VERBATIM — Segments (Task 6)]\n{r.segment_ai_text}\n")
 
     # Replication log (Section 13 du manuel)
     log_mask = (
@@ -1378,10 +1701,16 @@ def _print_result(r: ExtractionResult, indent: str = "  "):
     print(f"{indent}→ {r.filename}")
     print(f"{indent}  {icon} Durée : {r.useful_life_min_years}-{r.useful_life_max_years} ans | "
           f"Section : {r.source_section} | Confiance : {r.confidence}/3")
+    if r.period_end_date or r.filing_date:
+        print(f"{indent}  Date : period_end={r.period_end_date or 'N/A'}, filing={r.filing_date or 'N/A'}")
     print(f"{indent}  Asset category : {r.asset_category}")
     print(f"{indent}  Policy change  : {r.policy_change}")
     ai_status = f"Found ({r.ai_infra_source})" if r.ai_infra_text != "Not disclosed" else "Not disclosed"
     print(f"{indent}  AI infra       : {ai_status}")
+    if r.hardware_count > 0:
+        print(f"{indent}  Hardware       : {r.hardware_mentions} ({r.hardware_count} modèle(s))")
+    if r.segment_ai_text != "Not disclosed":
+        print(f"{indent}  Segments       : ✓ ({len(r.segment_ai_text)} chars)")
     if r.ambiguity_flag:
         print(f"{indent}  ⚠  Ambiguïté   : {r.ambiguity_detail}")
     if r.extraction_status != "OK":
