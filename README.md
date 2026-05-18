@@ -1,7 +1,7 @@
 AI Infrastructure Investment Project - SEC 10-K Extractor
 
 Ce dépôt contient les outils d'extraction automatisée pour le projet de recherche sur l'investissement dans les infrastructures IA, basé sur le AI Infrastructure Data Construction Handbook.
-###Fonctionnalités
+### Fonctionnalités
 
 Le script extract_10k_v5.py traite les rapports SEC Form 10-K (iXBRL) à grande échelle :
 
@@ -11,7 +11,7 @@ Le script extract_10k_v5.py traite les rapports SEC Form 10-K (iXBRL) à grande 
 
     AI Infrastructure (Task 5) : Verbatims sur les GPU, le Machine Learning et les Data Centers.
 
-###Installation et Prérequis
+### Installation et Prérequis
 1. Dépendances Python
 Bash
 
@@ -25,7 +25,7 @@ Le script utilise directement l'outil système rclone pour communiquer avec Goog
 
     Plus besoin de monter le Drive (rclone mount), le script gère les transferts un par un.
 
-###Utilisation
+### Utilisation
 
 Le script propose trois modes d'exécution. Le mode Production est optimisé pour éviter de saturer l'espace disque local.
 1. Mode Test (Fichier unique)
@@ -57,7 +57,7 @@ Bash
 
 python extract_10k_v5.py --drive "gdrive:..." --batch batch_12.zip --output ./results/
 
-###Structure des sorties
+### Structure des sorties
 
 Le dossier ./results/ est organisé pour garantir l'intégrité des données :
 
@@ -69,7 +69,7 @@ Le dossier ./results/ est organisé pour garantir l'intégrité des données :
 
     verbatims/ : Un fichier .txt par firme-année (ex: 0000002488_AMD_FY2024.txt) pour vérification manuelle.
 
-###Robustesse et Sécurité
+### Robustesse et Sécurité
 
     Gestion de l'espace disque : Chaque fichier ZIP est supprimé immédiatement après traitement.
 
