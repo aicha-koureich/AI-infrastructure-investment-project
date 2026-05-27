@@ -1,8 +1,22 @@
-
+# Dossiers systèmes et environnements
 .venv/
+.env/
 __pycache__/
+.idea/
+
+# Dossiers de travail et données (non versionnés)
 script/temp_download/
 extracted_data/
+raw_filings/
+logs_and_tracking/
+~/google_drive/
+
+# Fichiers temporaires et logs
+*.log
+*.csv
+*.txt
 *.xlsx
 *.xls
-.idea/
+
+# Variables d'environnement
+.env
