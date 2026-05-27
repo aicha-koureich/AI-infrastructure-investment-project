@@ -1,0 +1,23 @@
+FIRM         : PAHC (CIK 0001069899) | FY2022
+FILE         : 0001069899_PAHC_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-07-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies and New Accounting Standards Principles of Consolidation and Basis of Presentation
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in property, plant and equipment on the consolidated balance sheets and are amortized on a straight-line basis over three to seven years.
+
+[VERBATIM — Changement de politique]
+We periodically review our long-lived and amortizable intangible assets for impairment and assess whether significant events or changes in business circumstances indicate that the carrying value of the assets may not be recoverable. Such circumstances may include a significant decrease in the market price of an asset, a significant adverse change in the manner in which the asset is being used or in its physical condition or a history of operating or cash flow losses associated with the use of an asset. We recognize an impairment loss when the carrying amount of an asset exceeds the anticipated future undiscounted cash flows expected to result from the use of the asset and its eventual disposition. The amount of the impairment loss is the excess of the asset’s carrying value over its fair value. In addition, we periodically reassess the estimated remaining useful lives of our long-lived and amortizable intangible assets. Changes to estimated useful lives would affect the amount of depreciation and amortization recorded in the consolidated statements of operations.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

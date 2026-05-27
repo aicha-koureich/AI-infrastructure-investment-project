@@ -1,0 +1,21 @@
+FIRM         : CARS (CIK 0001683606) | FY2024
+FILE         : 0001683606_CARS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2036-06-30
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Significant Accounting Policies
+ASSET CAT.   : Technology, Capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Internally Developed Technology . The Company capitalizes costs associated with customized internal-use software systems and website development that have reached the application development stage. Such capitalized costs include external direct costs utilized in developing or obtaining the applications and payroll and payroll-related expenses for employees who are directly associated with the applications. Capitalization of such costs begins when the preliminary project stage is complete and ceases at the point in which the project is substantially complete and ready for its intended purpose. The Company reviews the carrying amount of internally developed technology for impairment and useful lives whenever events or changes in circumstances indicate that the carrying amount may not be recoverable. Capitalized software costs, excluding cloud computing arrangements, for the years ended December 31, 2024, 2023 and 2022 were $ 21.8 million, $ 20.0 million and $ 18.1 million, respectively. Capitalized costs, excluding those for cloud computing arrangements, are included in Property and equipment, net on the Consolidated Balance Sheets. Research and development costs are expensed as incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

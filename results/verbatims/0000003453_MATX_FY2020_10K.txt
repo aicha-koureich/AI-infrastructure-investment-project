@@ -1,0 +1,20 @@
+FIRM         : MATX (CIK 0000003453) | FY2020
+FILE         : 0000003453_MATX_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud computing software costs ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract (“ASU 2018-15”): In August 2018, FASB issued ASU 2018-15 which aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing costs incurred to develop or obtain internal-use software. The Company adopted ASU 2018-15 on a prospective basis effective January 1, 2020. During the year ended December 31, 2020, the Company capitalized costs of $2.4 million related to cloud computing arrangements and which were included in other long-term assets on the Company’s Consolidated Balance Sheets as of December 31, 2020. ||| (“ASU 2018-15”): In August 2018, FASB issued ASU 2018-15 which aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing costs incurred to develop or obtain internal-use software. The Company adopted ASU 2018-15 on a prospective basis effective January 1, 2020. During the year ended December 31, 2020, the Company capitalized costs of $2.4 million related to cloud computing arrangements and which were included in other long-term assets on the Company’s Consolidated Balance Sheets as of December 31, 2020.

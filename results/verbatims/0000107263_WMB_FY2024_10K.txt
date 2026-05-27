@@ -1,0 +1,23 @@
+FIRM         : WMB (CIK 0000107263) | FY2024
+FILE         : 0000107263_WMB_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 20 – Subsequent Events
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Year Ended December 31, 2024 2023 2022 (Millions) OPERATING ACTIVITIES: Net income (loss) $ 1,313 $ 1,247 $ 1,100 Adjustments to reconcile net cash provided (used) by operating activities: Depreciation and amortization 545 519 513 Allowance for equity funds used during construction (equity AFUDC) (71) (63) (23) Cash provided (used) by changes in current assets and liabilities: Affiliate receivables (14) (1) (1) Trade and other accounts receivable — 6 (20) Inventories 2 10 (39) Regulatory assets 13 37 (10) Other current assets and deferred charges (10) 27 (17) Trade accounts payable (4) (18) 21 Affiliate payables — 1 (15) Other current liabilities (63) 72 (31) Other, including changes in noncurrent assets and liabilities (15) (122) 38 Net cash provided (used) by operating activities 1,696 1,715 1,516 FINANCING ACTIVITIES: Proceeds from other financing obligations 2 7 9 Payments on other financing obligations (32) (29) (26) Cash distributions to parent (1,145) (1,220) (838) Cash contributions from parent — — 128 Net cash provided (used) by financing activities (1,175) (1,242) (727) INVESTING ACTIVITIES: Property, plant, and equipment: Capital expenditures (1) (1,140) (894) (603) Contributions and advances for construction costs 16 21 1 Dispositions - net (110) (51) (33) Advances to affiliate - net 715 460 (143) Purchase of asset retirement obligations trust investments (23) (22) (21) Proceeds from sale of asset retirement obligations trust investments 21 13 10 Net cash provided (used) by investing activities (521) (473) (789) Increase (decrease) in cash and cash equivalents — — — Cash and cash equivalents at beginning of year — — — Cash and cash equivalents at end of year $ — $ — $ — ____________________________ (1) Increase to property, plant and equipment, exclusive of equity AFUDC $ (1,112) $ (991) $ (587) Changes in related accounts payable and accrued liabilities (28) 97 (16) Capital expenditures $ (1,140) $ (894) $ (603)
+
+[VERBATIM — Changement de politique]
+As regulated entities, Transco, NWP and MountainWest provide for depreciation primarily under the composite (group) method using straight-line FERC-prescribed rates. Under this method, assets with similar lives and characteristics are grouped and depreciated as one asset. These regulated entities’ depreciation rates are subject to change each time these regulated entities file a general rate case with the FERC. Included in Transco’s and NWP’s depreciation rates is a negative salvage component (net cost of removal) that Transco and NWP currently collect in rates that is recorded as a regulatory liability in the Balance Sheets (see Note 10 – Regulatory Assets and Liabilities).
+
+[VERBATIM — Infrastructure IA]
+Data Center Power Projects  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

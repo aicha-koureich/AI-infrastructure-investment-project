@@ -1,0 +1,21 @@
+FIRM         : AZO (CIK 0000866787) | FY2020
+FILE         : 0000866787_AZO_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-08-30
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization are computed principally using the straight-line method over the following estimated useful lives: buildings, 40 to 50 years; building improvements, 5 to 15 years; equipment, including software, 3 to 10 years; and leasehold improvements, over the shorter of the asset’s estimated useful life or the remaining lease term, which includes any reasonably assured renewal periods.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles – Goodwill and Other Internal Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . The amendments in this update align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. ASU 2018-15 is effective for fiscal years beginning after December 15, 2019, including interim periods within those fiscal years. Early adoption is permitted. The Company will adopt this standard beginning with its first quarter ending November 21, 2020. The Company does not expect a material effect on its Condensed Consolidated Statements of Income, Condensed Consolidated Balance Sheets or Condensed Consolidated Statements of Cash Flows.

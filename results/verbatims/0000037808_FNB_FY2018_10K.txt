@@ -1,0 +1,20 @@
+FIRM         : FNB (CIK 0000037808) | FY2018
+FILE         : 0000037808_FNB_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment are stated at cost less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| e evaluate fees paid for cloud computing arrangements to determine if those arrangements include the purchase of or license to use software that should be accounted for separately as internal-use software. If a contract includes the purchase or license to use software that should be accounted for separately as internal-use software, the contract is amortized over the software’s identified useful life in amortization of intangibles. For contracts that do not include a software license, the contract is accounted for as a service contract with fees paid recorded in other non-interest expense. ||| In the third quarter of 2018, we early adopted, on a prospective basis, ASU 2018-15 (See Note 2) which allows for implementation costs for activities performed in cloud computing arrangements that are a service contract to be accounted for under the internal-use software guidance which allows for certain implementation costs to be capitalized depending on the nature of the costs and the project stage. Prior to the adoption of ASU 2018-15 all implementation costs for cloud computing arrangements that were a service contract were expensed as incurred.

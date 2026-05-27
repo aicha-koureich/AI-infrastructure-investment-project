@@ -1,0 +1,23 @@
+FIRM         : CC (CIK 0001627223) | FY2017
+FILE         : 0001627223_CC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Adjusted Net Income, Adjusted EPS, FCF, and ROIC are non-GAAP financial measures. Adjusted Net Income is defined as our net income, adjusted for items excluded from Adjusted EBITDA, except interest expense, depreciation and amortization, and certain provision for (benefit from) income tax amounts. Adjusted EPS is presented on a diluted basis and is calculated by dividing our Adjusted Net Income by the weighted-average number of our common shares outstanding, accounting for the dilutive impact of our stock-based compensation awards. FCF is defined as our cash flows provided by operating activities, less purchases of property, plant, and equipment as shown in our consolidated statements of cash flows. ROIC is defined as Adjusted EBITDA, less depreciation and amortization (Adjusted EBIT), divided by the average of our invested capital, which amounts to our net debt plus equity. For further discussion regarding the risks associated with our failure to meet these key financial targets for 2020, see Item 1A – Risk Factors . For further discussion regarding our use of non-GAAP financial measures and reconciliations to their closest GAAP financial measures, see “Non-GAAP Financial Measures” within Item 7 – Management ’ s Discussion and Analysis of Financial Condition and Results of Operations .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

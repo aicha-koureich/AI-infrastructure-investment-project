@@ -1,0 +1,23 @@
+FIRM         : GPMT (CIK 0001703644) | FY2019
+FILE         : 0001703644_GPMT_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Year Ended December 31, 2019 2018 2017 Cash Flows From Operating Activities: Net income $ 70,214 $ 63,075 $ 53,305 Adjustments to reconcile net income to net cash provided by operating activities: Accretion of discounts and net deferred fees on loans held-for-investment (15,417 ) (12,852 ) (7,963 ) Amortization of deferred debt issuance costs on convertible senior notes and securitized debt obligations 7,588 3,785 4,573 Equity based compensation 4,782 3,496 1,087 Depreciation of fixed assets 266 19 — Net change in assets and liabilities: Increase in accrued interest receivable (1,055 ) (3,163 ) (3,360 ) Decrease (increase) in prepaid expenses 172 (665 ) (390 ) Increase in other assets (9,799 ) (3,203 ) (5,072 ) Increase in accrued interest payable 891 3,275 2,464 (Decrease) increase in unearned interest income (282 ) 313 54 Decrease in other payables to affiliates — — (21,460 ) Increase in other liabilities 6,822 3,339 6,258 Increase in 10% cumulative redeemable preferred stock — — 1,000 Net cash provided by operating activities 64,182 57,419 30,496 Cash Flows From Investing Activities: Originations, acquisitions and additional fundings of loans held-for-investment, net of deferred fees (1,812,698 ) (1,319,529 ) (1,032,478 ) Proceeds from repayment of loans held-for-investment 769,816 468,734 100,466 Principal payments on held-to-maturity securities 8,620 15,473 6,083 Decrease in due from counterparties — — 249 Net cash used in investing activities (1,034,262 ) (835,322 ) $ (925,680 )
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

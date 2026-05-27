@@ -1,0 +1,20 @@
+FIRM         : GOOGL (CIK 0001652044) | FY2019
+FILE         : 0001652044_GOOGL_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We continue to make significant R&D investments in areas of strategic focus such as advertising, cloud, machine learning, and search, as well as in new products and services. In addition, our capital expenditures have grown over the last several years. We expect this trend to continue in the long term as we invest heavily in land and buildings for data centers and offices, and information technology infrastructure, which includes servers and network equipment .  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Number of employees was 118,899 as of December 31, 2019 . The majority of new hires during the year were engineers and product managers. By product area, the largest headcount additions were in Google Cloud and Search. ||| Google – Google includes our main products such as ads, Android, Chrome, hardware, Google Cloud, Google Maps, Google Play, Search, and YouTube. Our technical infrastructure is also included in Google. Google generates revenues primarily from advertising; sales of apps, in-app purchases, digital content products, and hardware; and licensing and service fees, including fees received for Google Cloud offerings and subscription-based products. ||| Google Cloud revenues as a percentage of Google segment revenues

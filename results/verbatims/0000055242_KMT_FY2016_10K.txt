@@ -1,0 +1,21 @@
+FIRM         : KMT (CIK 0000055242) | FY2016
+FILE         : 0000055242_KMT_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 21 — SELECTED QUARTERLY FINANCIAL DATA (UNAUDITED)
+ASSET CAT.   : equipment over
+DURÉE        : 4.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 4.0-15.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation for financial reporting purposes is computed using the straight-line method over the following estimated useful lives: building and improvements over 15 - 40 years; machinery and equipment over 4 - 15 years; furniture and fixtures over 5 - 10 years and computer hardware and software over 3 - 5 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued guidance on accounting for fees paid in a cloud computing arrangement. The amendments in this update provide guidance to customers about whether a cloud computing arrangement includes a software license and accounting for the arrangement as capitalized and amortized as an intangible asset or expensed as incurred as a service contract. This standard is effective for Kennametal beginning July 1, 2016. The provisions of the guidance may be applied prospectively or retrospectively. We plan to adopt this guidance prospectively, and adoption of this ASU is not expected to have a material impact on our consolidated financial position, results of operations and cash flows.

@@ -1,0 +1,23 @@
+FIRM         : GMED (CIK 0001237831) | FY2018
+FILE         : 0001237831_GMED_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. BACKGROUND AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost less accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+During fourth quarter of 2017, we completed a review of the estimated useful life of our Instruments and Modules and cases. Based on historical useful life information, forecasted product life cycles and demand expectations, the useful life of Instruments and Modules and cases were extended from three to five years. This was accounted for as a change in accounting estimate and was made on a prospective basis effective October 1, 2017. For the three months ended
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

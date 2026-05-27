@@ -1,0 +1,34 @@
+FIRM         : AVAV (CIK 0001368622) | FY2014
+FILE         : 0001368622_AVAV_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : April 30, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 20. Restatement of Previously Issued Consolidated Financial Statements
+ASSET CAT.   : Machinery and equipment, Computer equipment, Furniture and fixtures
+DURÉE        : 2.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 2.0-7.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Machinery and equipment 2 to 7 years Computer equipment and software 2 to 5 years Furniture and fixtures 3 to 7 years Leasehold improvements Lesser of useful life or term of lease
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In
+April 2015, the FASB issued ASU No. 2015-05, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer's
+Accounting for Fees Paid in a Cloud Computing Arrangement. This ASU adds explicit guidance into U.S. GAAP regarding a customer's accounting for fees paid in a cloud
+computing arrangement. The ASU provides guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license,
+then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a
+software license, the customer should account for the arrangement as a service contract. This update is effective for fiscal years, and interim periods within those fiscal years, beginning after
+December 15, 2015. Early adoption is permitted. A reporting entity should apply the amendments either (1) prospectively to all arrangements entered into or materially modified after the
+effective date or (2) retrospectively. We are evaluating the potential impact of this adoption on our consolidated financial statements. ||| Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer's
+Accounting for Fees Paid in a Cloud Computing Arrangement. ||| This ASU adds explicit guidance into U.S. GAAP regarding a customer's accounting for fees paid in a cloud
+computing arrangement. The ASU provides guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license,
+then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a
+software license, the customer should account for the arrangement as a service contract. This update is effective for fiscal years, and interim periods within those fiscal years, beginning after
+December 15, 2015. Early adoption is permitted. A reporting entity should apply the amendments either (1) prospectively to all arrangements entered into or materially modified after the
+effective date or (2) retrospectively. We are evaluating the potential impact of this adoption on our consolidated financial statements.

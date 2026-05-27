@@ -1,0 +1,24 @@
+FIRM         : SCL (CIK 0000094049) | FY2014
+FILE         : 0000094049_SCL_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : computer equipment and software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 5.0-10.0 ans | 10.0-15.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation of property, plant and equipment is provided on a straight-line basis over the estimated useful lives of the assets. For assets classified as machinery and equipment, lives generally used for calculating depreciation expense range from 10 to 15 years for manufacturing equipment, five to 10 years for furniture and fixtures, three to five years for vehicles and three to 10 years for computer equipment and software.
+
+[VERBATIM — Changement de politique]
+It should be noted that in addition to the restructuring costs, the Company reduced the useful lives of the manufacturing assets in the affected areas of the Canada plant. As a result, the Company recognized $0.3 million of additional depreciation expense in the fourth quarter of 2013. The expense was included in the cost of sales line of the consolidated statement of income. The change in the useful lives of the assets will add about $1.8 million of depreciation expense in the first half of 2014.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

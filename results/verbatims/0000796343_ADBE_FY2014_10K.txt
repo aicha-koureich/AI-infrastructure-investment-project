@@ -1,0 +1,20 @@
+FIRM         : ADBE (CIK 0000796343) | FY2014
+FILE         : 0000796343_ADBE_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 19. SELECTED QUARTERLY FINANCIAL DATA (unaudited)
+ASSET CAT.   : equipment, Furniture and fixtures, Server
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2014 2013 Computers and equipment $ 855,218 $ 731,767 Furniture and fixtures 82,385 82,904 Server hardware under capital lease 25,703 61,007 Capital projects in-progress 68,652 54,593 Leasehold improvements 240,506 235,859 Land 106,283 106,283 Buildings 320,410 175,325 Total 1,699,157 1,447,738 Less accumulated depreciation and amortization (914,034 ) (787,964 ) Property and equipment, net $ 785,123 $ 659,774
+
+[VERBATIM — Infrastructure IA]
+% Change 2014-2013 % Change 2013-2012 Data center cost 10 % 11 % Compensation cost and related benefits associated with headcount 4 5 Depreciation expense 3 3 Royalty cost 3 4 Amortization of purchased intangibles — 4 Various individually insignificant items 1 — Total change 21 % 27 %  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Our Digital Media segment also includes our Document Services products and solutions, including Acrobat, Acrobat cloud services and EchoSign e-signing solution. In fiscal 2014 we continued to drive solid adoption of our Acrobat family of products primarily through license agreements with enterprise customers. We also drove strong adoption of subscription-based services including our Acrobat cloud services. Combined, adoption of Acrobat through ETLAs and our Document Services subscription offerings helped grow Document Services ARR to ||| Our total deferred revenue of $1.16 billion as of November 28, 2014 increased by $326.5 million , or 39% from $828.8 million as of November 29, 2013 , primarily due to increases in Creative Cloud subscriptions and ETLAs. To a lesser extent, new contracts and existing contract renewals for our Adobe Marketing Cloud services contributed to this increase as our retention rates for Adobe Marketing Cloud services have been improving slightly over time. ||| , primarily due to increases in Creative Cloud subscriptions and ETLAs. To a lesser extent, new contracts and existing contract renewals for our Adobe Marketing Cloud services contributed to this increase as our retention rates for Adobe Marketing Cloud services have been improving slightly over time.

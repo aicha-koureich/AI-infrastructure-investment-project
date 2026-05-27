@@ -1,0 +1,23 @@
+FIRM         : DOW (CIK 0001751788) | FY2019
+FILE         : 0001751788_DOW_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company has lease agreements with lease and non-lease components, which are accounted for as a single lease component for all classes of leased assets for which the Company is the lessee. Additionally, for certain equipment leases, the portfolio approach is applied to account for the operating lease ROU assets and lease liabilities. In the consolidated statements of income, lease expense for operating lease payments is recognized on a straight-line basis over the lease term. For finance leases, interest expense is recognized on the lease liability and the ROU asset is amortized over the lease term.
+
+[VERBATIM — Changement de politique]
+The Company tests goodwill for impairment annually (in the fourth quarter), or more frequently when events or changes in circumstances indicate it is more likely than not that the fair value of a reporting unit has declined below its carrying value. The Company utilizes a discounted cash flow methodology to calculate the fair value of its reporting units, which requires management to make significant estimates and assumptions related to projected revenue growth rates, discount rates, and earnings before interest, taxes, depreciation and amortization (“EBITDA”). Changes in these assumptions could have a significant impact on the fair value
+
+[VERBATIM — Infrastructure IA]
+for other miscellaneous asset write-downs and write-offs, including the shutdown of several small manufacturing facilities and the write-off of non-manufacturing assets, certain corporate facilities and data centers. The charge related to Packaging & Specialty Plastics (  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract," which requires a customer in a cloud computing arrangement that is a service contract to follow the internal-use software guidance in Topic 350, "Intangibles - Goodwill and Other" to determine which implementation costs to capitalize as assets or expense as incurred. The new standard is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019. Early adoption is permitted and an entity can elect to apply the new guidance on a prospective or retrospective basis. The Company expects to adopt the new guidance in the first quarter of 2020 and the adoption of this guidance is not expected to have a material impact on the consolidated financial statements.

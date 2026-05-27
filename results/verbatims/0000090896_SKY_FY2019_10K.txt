@@ -1,0 +1,20 @@
+FIRM         : SKY (CIK 0000090896) | FY2019
+FILE         : 0000090896_SKY_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-03-27
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

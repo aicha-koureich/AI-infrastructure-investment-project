@@ -1,0 +1,21 @@
+FIRM         : PANW (CIK 0001327567) | FY2015
+FILE         : 0001327567_PANW_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 16. Selected Quarterly Financial Data (Unaudited)
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+July 31, 2015 2014 Computers, equipment, and software $ 62,599 $ 38,147 Leasehold improvements 25,461 21,258 Demonstration units 15,971 14,832 Furniture and fixtures 6,631 5,129 Total property and equipment 110,662 79,366 Less: accumulated depreciation (47,784 ) (30,622 ) Total property and equipment, net $ 62,878 $ 48,744
+
+[VERBATIM — Infrastructure IA]
+We continue to invest in innovation and strengthening our product portfolio, which resulted in several new product offerings and announcements during fiscal 2015. These new product offerings include: Traps, our Advanced Endpoint Protection service; the PA-3060 appliance, which is aimed at mid-sized datacenters; the M-500 management appliance, which is aimed at data centers and large enterprise deployments; and the AutoFocus cyber threat intelligence service, which provides prioritized actionable intelligence on targeted cyber attacks and is expected to be generally available in fiscal 2016. In August 2015, we announced the launch of the PA-7080 appliance, which is our top-of-the-line chassis-based appliance ideally suited for service provider customers. Additionally, in May 2015, we acquired CirroSecure, which expands the functionality of our platform by providing additional security for SaaS applications. The CirroSecure technology will be the foundation for a new subscription service called Aperture, which we expect to launch in fiscal 2016.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the Financial Accounting Standards Board (FASB) issued new authoritative guidance on fees paid in a cloud computing arrangement. The standard requires customers in a cloud computing arrangement to evaluate whether the arrangement includes a software license. If the arrangement includes a software license, the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If the arrangement does not include a software license, the customer should account for the arrangement as a service contract. The standard is effective for us for our first quarter of fiscal 2017, although early adoption is permitted, and will be applied on either a prospective or retrospective basis. We are currently evaluating adoption methods and whether this standard will have a material impact on our consolidated financial statements.

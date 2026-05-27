@@ -1,0 +1,20 @@
+FIRM         : LEN (CIK 0000920760) | FY2015
+FILE         : 0000920760_LEN_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+At the time operating properties and equipment are disposed of, the asset and related accumulated depreciation are removed from the accounts and any resulting gain or loss is credited or charged to earnings.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customers' Accounting for Fees Paid in a Cloud Computing Arrangement ||| (“ASU 2015-05”). ASU 2015-05 provides guidance for a customer to determine whether a cloud computing arrangement contains a software license or should be accounted for as a service contract. ASU 2015-05 will be effective for the Company’s fiscal year beginning December 1, 2016 and subsequent interim periods. As permitted, the Company has elected early adoption. The adoption of ASU 2015-05 will not have a material effect on the Company’s consolidated financial statements. ||| In April 2015, the FASB issued ASU 2015-05, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customers' Accounting for Fees Paid in a Cloud Computing Arrangement (“ASU 2015-05”). ASU 2015-05 provides guidance for a customer to determine whether a cloud computing arrangement contains a software license or should be accounted for as a service contract. ASU 2015-05 will be effective for the Company’s fiscal year beginning December 1, 2016 and subsequent interim periods. As permitted, the Company has elected early adoption. The adoption of ASU 2015-05 will not have a material effect on the Company’s consolidated financial statements.

@@ -1,0 +1,20 @@
+FIRM         : PRSU (CIK 0000884219) | FY2024
+FILE         : 0000884219_PRSU_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-03
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. OVERVIEW AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 3.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, net of accumulated depreciation. Property and equipment are depreciated using the straight-line method over the estimated useful lives of the assets: building s, 20 to 40 years; equipment, 3 to 40 years; and leasehold improvements, over the shorter of the lease term or useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

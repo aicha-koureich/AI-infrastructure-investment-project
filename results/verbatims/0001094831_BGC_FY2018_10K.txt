@@ -1,0 +1,23 @@
+FIRM         : BGC (CIK 0001094831) | FY2018
+FILE         : 0001094831_BGC_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 16. Fixed Assets, Net
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2018 December 31, 2017 Computer and communications equipment $ 140,451 $ 135,622 Software, including software development costs 194,470 146,615 Leasehold improvements and other fixed assets 127,349 101,866 462,270 384,103 Less: accumulated depreciation and amortization (305,101 ) (259,577 ) Fixed assets, net $ 157,169 $ 124,526
+
+[VERBATIM — Changement de politique]
+The Company also provides software customization services contracted through work orders that each represent a separate performance obligation. Revenue is recognized over-time using an output method as a measure of progress. As circumstances change over time, the Company updates its measure of progress to reflect any changes in the outcome of the performance obligation. Such updates are accounted for as a change in accounting estimate. As a practical expedient, when the work-order period is less than 12 months, the Company recognizes revenue upon acceptance from the customer after work is completed. The contract price is fixed and billed to the customer as combination of an upfront fee, progress fees, and a post-delivery fee.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force) . The guidance on the accounting for implementation, setup, and other upfront costs (collectively referred to as implementation costs) applies to entities that are a customer in a hosting arrangement that is a service contract. The amendments align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). The accounting for the service element of a hosting arrangement that is a service contract is not affected by the guidance in this ASU. The new standard will become effective for the Company beginning January 1, 2020, should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption, and early adoption is permitted. Management is currently evaluating the impact of the new guidance on the Company’s consolidated financial statements. ||| Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force)

@@ -1,0 +1,23 @@
+FIRM         : SMTC (CIK 0000088941) | FY2014
+FILE         : 0000088941_SMTC_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4: Investments
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The following is a summary of property and equipment, at cost less accumulated depreciation:
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment are stated at cost less depreciation and impairments.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

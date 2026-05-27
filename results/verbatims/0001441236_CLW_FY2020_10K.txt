@@ -1,0 +1,20 @@
+FIRM         : CLW (CIK 0001441236) | FY2020
+FILE         : 0001441236_CLW_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 4 Leases
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In millions) Classification December 31, 2020 December 31, 2019 Lease ROU Assets Operating lease assets Operating lease right-of-use assets $ 63.5 73.1 Finance lease assets Property, plant and equipment, net 26.7 26.5 Accumulated Depreciation (12.7) (11.1) Total lease ROU assets $ 77.5 88.5 Lease Liabilities Current operating lease liabilities Other accrued liabilities $ 15.3 13.9 Current finance lease liabilities Short-term debt 1.7 1.4 Total current lease liabilities 17.0 15.3 Non-current operating lease liabilities Long-term operating lease liabilities 54.3 65.6 Non-current finance lease liabilities Long-term debt 19.1 20.6 Total non-current lease liabilities 73.4 86.2 Total operating lease liabilities 69.5 79.5 Total finance lease liabilities 20.8 22.0 Total lease liabilities $ 90.3 101.5
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) . This ASU requires capitalization of certain implementation costs incurred in a cloud computing arrangement that is a service contract. This ASU was adopted as of January 1, 2020 and did not have a material impact on our consolidated financial statements. ||| . This ASU requires capitalization of certain implementation costs incurred in a cloud computing arrangement that is a service contract. This ASU was adopted as of January 1, 2020 and did not have a material impact on our consolidated financial statements.

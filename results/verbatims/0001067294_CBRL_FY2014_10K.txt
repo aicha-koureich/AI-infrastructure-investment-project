@@ -1,0 +1,20 @@
+FIRM         : CBRL (CIK 0001067294) | FY2014
+FILE         : 0001067294_CBRL_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 1, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment – Property and equipment are stated at cost. For financial reporting purposes, depreciation and amortization on these assets are computed by use of the straight‑line and double‑declining balance methods over the estimated useful lives of the respective assets, as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : UVV (CIK 0000102037) | FY2019
+FILE         : 0000102037_UVV_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : MARCH 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. NATURE OF OPERATIONS AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, Machinery and equipment, machinery, computer equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 3.0-11.0 ans | 3.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation of property, plant and equipment is based upon historical cost and the estimated useful lives of the assets. Estimated useful lives range as follows: buildings - 15 to 40 years; processing and packing machinery - 3 to 11 years; transport equipment - 3 to 10 years; and office and computer equipment - 3 to 12 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued Accounting Standards Update No. 2018-15, “Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) - Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of FASB Emerging Issues Task Force)" ("ASU 2018-15"). ASU 2018-15 aligns the requirements for capitalizing implementation costs in a cloud computing arrangement service contract with the requirements for capitalizing implementation costs incurred for an internal-use software license. Under that model, implementation costs are capitalized or expensed depending on the nature of the costs and the project stage during which they are incurred. Capitalized implementation costs are amortized over the term of the associated hosted cloud computing arrangement service contract on a straight-line basis, unless another systematic and rational basis is more representative of the pattern in which the entity expects to benefit from its right to access the hosted software. Capitalized implementation costs would then be assessed for impairment in a manner similar to long-lived assets. The new guidance is effective for fiscal years beginning after December 15, 2019. Entities can choose to adopt the new guidance either prospectively to eligible costs incurred on or after the date the guidance is first applied or retrospectively. The Company will be required to adopt ASU 2018-15 effective April 1, 2020, which is the beginning of its fiscal year ending March 31, 2021, although early adoption is permitted. The Company is currently evaluating the impact of adopting this standard on its consolidated financial statements.

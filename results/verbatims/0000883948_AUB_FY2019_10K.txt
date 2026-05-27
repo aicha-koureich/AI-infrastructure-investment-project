@@ -1,0 +1,20 @@
+FIRM         : AUB (CIK 0000883948) | FY2019
+FILE         : 0000883948_AUB_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, "Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract." This ASU amends the Intangibles—Goodwill and Other Topic of the Accounting Standards Codification to align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. This ASU is effective for fiscal years beginning after December 15, 2019; however, early adoption is permitted. The Company adopted this standard in the first quarter of 2019 using the prospective approach. The adoption of ASU 2018-15 did not have a material impact on the Company’s consolidated financial statements.

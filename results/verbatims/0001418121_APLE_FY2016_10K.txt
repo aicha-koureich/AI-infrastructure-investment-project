@@ -1,0 +1,21 @@
+FIRM         : APLE (CIK 0001418121) | FY2016
+FILE         : 0001418121_APLE_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : buildings
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is computed using the straight-line method over average estimated useful lives of the assets, which are generally 39 years for buildings, 10 to 20 years for franchise fees, 10 years for major improvements and three to seven years for furniture and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

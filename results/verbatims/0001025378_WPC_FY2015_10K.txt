@@ -1,0 +1,24 @@
+FIRM         : WPC (CIK 0001025378) | FY2015
+FILE         : 0001025378_WPC_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 16
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized costs are amortized on a straight-line basis over the software’s estimated useful life, which is
+
+[VERBATIM — Changement de politique]
+. Periodically, we reassess the useful life considering technology, obsolescence, and other factors.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

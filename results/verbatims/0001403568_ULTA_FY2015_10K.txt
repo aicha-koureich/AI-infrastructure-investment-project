@@ -1,0 +1,24 @@
+FIRM         : ULTA (CIK 0001403568) | FY2015
+FILE         : 0001403568_ULTA_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 30, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU
+No. 2015-05, Customers’ Accounting for Fees Paid in a Cloud Computing Arrangement. This standard provides guidance to determine whether a cloud-based computing arrangement includes a software license. If a cloud-based computing arrangement
+includes a software license, the customer must account for the software element of the arrangement consistent with the acquisition of other software licenses. Otherwise, the customer must account for the arrangement as a service contract. The
+standard will take effect for public companies for annual reporting periods beginning after December 15, 2015, including interim reporting periods. Early adoption is permitted. We do not believe that the adoption of this ASU will have a
+material impact on our consolidated financial position, results of operations and cash flows.

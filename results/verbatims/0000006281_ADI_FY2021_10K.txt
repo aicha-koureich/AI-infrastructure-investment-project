@@ -1,0 +1,20 @@
+FIRM         : ADI (CIK 0000006281) | FY2021
+FILE         : 0000006281_ADI_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-11-22
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment (PP&E) is recorded at cost, less allowances for depreciation. Depreciation is based on the following ranges of estimated useful lives: Buildings Up to 30 years Machinery & equipment 3-10 years Office equipment 3-10 years Leasehold improvements 7-20 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

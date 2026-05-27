@@ -1,0 +1,20 @@
+FIRM         : AMD (CIK 0000002488) | FY2020
+FILE         : 0000002488_AMD_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-26
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 – Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 2.0-6.0 ans
+POLICY CHANGE: No
+HARDWARE     : AMD_EPYC;AMD_Instinct;AMD_Radeon;AMD_Ryzen;B100;NVIDIA (6 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated useful lives are as follows: equipment uses two to six years, and leasehold improvements are measured by the shorter of the remaining terms of the leases or the estimated useful economic lives of the improvements.
+
+[VERBATIM — Infrastructure IA]
+• the Computing and Graphics segment, which primarily includes desktop and notebook processors and chipsets, discrete and integrated graphics processing units (GPUs), data center and professional GPUs and development services. From time to time, the Company may also sell or license portions of its IP portfolio.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We expanded our EPYC server family during the year. In April 2020, we announced the extension of the 2nd Gen AMD EPYC processor family with three new processors: AMD EPYC 7F32 (8 cores), AMD EPYC 7F52 (16 cores) and AMD EPYC 7F72 (24 cores). These new processors leverage up to 500 MHz of additional base frequency and large amounts of cache. In October 2020, we announced the AMD EPYC™ processor based Azure Dav4, Eav4,

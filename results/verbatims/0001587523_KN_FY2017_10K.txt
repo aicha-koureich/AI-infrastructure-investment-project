@@ -1,0 +1,21 @@
+FIRM         : KN (CIK 0001587523) | FY2017
+FILE         : 0001587523_KN_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Disposed and Discontinued Operations
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+When property or equipment is sold or otherwise disposed of, the related cost and accumulated depreciation is removed from the respective accounts, and the gain or loss realized on disposition is reflected in earnings.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

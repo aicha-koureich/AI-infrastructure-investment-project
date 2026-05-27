@@ -1,0 +1,20 @@
+FIRM         : ICUI (CIK 0000883984) | FY2020
+FILE         : 0000883984_ICUI_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Machinery and equipment, Computer equipment, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B100 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31, 2020 2019 Machinery and equipment $ 291,331 $ 219,057 Land, building and building improvements 241,199 230,454 Molds 60,381 60,155 Computer equipment and software 98,311 83,217 Furniture and fixtures 7,767 7,498 Instruments placed with customers 1 90,383 74,434 Construction in progress 53,724 101,425 Total property, plant and equipment, cost 843,096 776,240 Accumulated depreciation (376,468) (320,155) Property, plant and equipment, net $ 466,628 $ 456,085
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Topic 350): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. The amendments in this update align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software and hosting arrangements that include an internal use software license. Costs to develop or obtain internal-use software that cannot be capitalized under subtopic 350-40, such as training costs and certain data conversion costs, also cannot be capitalized for a hosting arrangement that is a service contract. Therefore, an entity in a hosting arrangement that is a service contract determines which project stage (that is, preliminary project stage, application development stage, or post-implementation stage) an implementation activity relates to. Costs for implementation activities in the application development stage are capitalized depending on the nature of the costs, while costs incurred during the preliminary project and post-implementation stages are expensed as the activities are performed. The amendments in this update require the entity to expense the capitalized implementation costs of a hosting arrangement that is a service contract over the term of the hosting arrangement. The amendments in this update are effective for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years. The amendments in this update should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. We adopted this ASU effective January 1, 2020. This ASU did not have a material impact on our consolidated financial statements or related disclosures.

@@ -1,0 +1,21 @@
+FIRM         : SHC (CIK 0001822479) | FY2022
+FILE         : 0001822479_SHC_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-23
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : 1.0-5.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Property, Plant, and Equipment – Property, plant, and equipment is carried at cost, or initially at fair value if acquired in an acquisition, less accumulated depreciation and amortization. Except for Cobalt 60 (“Co-60”), a radioactive isotope used in gamma radiation sterilization, all property, plant, and equipment depreciation is computed using the straight-line method over estimated useful lives. Expenditures for major software purchases and software developed for internal use are capitalized and depreciated using the straight-line method over the estimated useful lives of the related assets, which are generally one to five years. We recognized $2.2 million, $2.6 million a nd $2.4 million, of depreciation expense related to software costs for the years ending December 31, 2022, 2021 and 2020, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

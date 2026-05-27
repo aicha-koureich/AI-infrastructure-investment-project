@@ -1,0 +1,20 @@
+FIRM         : ALRM (CIK 0001459200) | FY2015
+FILE         : 0001459200_ALRM_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 5. Property and Equipment, net
+ASSET CAT.   : Furniture and fixtures, computer software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Furniture and fixtures, computer software and equipment and leasehold improvements are recorded at cost and presented net of depreciation. Furniture and fixtures and computer software and equipment are depreciated straight-line over lives ranging from
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We were founded in 2000 to revolutionize home security and improve the way people secure and interact with their homes and businesses. We identified an opportunity to apply new technology - in this case two-way wireless data transmission, cloud computing technologies and the rapid growth of Internet usage - to disrupt legacy security applications. We believe we were the first company to launch a SaaS platform providing an interactive home security solution. ||| Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement,” ||| which clarifies the accounting for fees paid by a customer in a cloud computing arrangement by providing guidance as to whether an arrangement includes the sale or license of software. The amendment requires a customer to determine whether a cloud computing arrangement contains a

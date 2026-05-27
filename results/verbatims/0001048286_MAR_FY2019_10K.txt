@@ -1,0 +1,20 @@
+FIRM         : MAR (CIK 0001048286) | FY2019
+FILE         : 0001048286_MAR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 8.
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+In the 2019 fourth quarter, we recorded impairment charges of $78 million and $21 million in the “Depreciation, amortization, and other” caption of our Income Statements to reduce the carrying amount of the Renaissance New York Times Square Hotel lease right-of-use asset and property and equipment, including leasehold improvements, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

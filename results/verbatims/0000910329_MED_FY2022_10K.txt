@@ -1,0 +1,20 @@
+FIRM         : MED (CIK 0000910329) | FY2022
+FILE         : 0000910329_MED_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 4. PROPERTY, PLANT AND EQUIPMENT
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2022 December 31, 2021 Land $ 565 $ 565 Building and leasehold improvements 25,905 23,518 Equipment and fixtures 49,260 42,708 Software 21,278 21,894 Vehicles 118 145 Property, plant and equipment - gross 97,126 88,830 Less: accumulated depreciation (39,941) (32,699) Property, plant and equipment - net $ 57,185 $ 56,131
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

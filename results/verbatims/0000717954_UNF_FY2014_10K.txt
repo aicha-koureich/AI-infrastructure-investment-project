@@ -1,0 +1,20 @@
+FIRM         : UNF (CIK 0000717954) | FY2014
+FILE         : 0000717954_UNF_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 30, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are recorded at cost. Expenditures for maintenance and repairs are expensed as incurred, while expenditures for renewals and betterments are capitalized. The Company provides for depreciation on the straight-line method based on the following estimated useful lives:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

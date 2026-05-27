@@ -1,0 +1,20 @@
+FIRM         : TKR (CIK 0000098362) | FY2019
+FILE         : 0000098362_TKR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Significant Accounting Policies (continued)
+ASSET CAT.   : computer software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, net on the Consolidated Balance Sheets is valued at cost less accumulated depreciation. The useful lives are approximately 30 years for buildings, three to 10 years for computer software and three to 20 years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

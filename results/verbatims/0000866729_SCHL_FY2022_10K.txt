@@ -1,0 +1,21 @@
+FIRM         : SCHL (CIK 0000866729) | FY2022
+FILE         : 0000866729_SCHL_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : May 31, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF THE BUSINESS, BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment are depreciated over periods not exceeding
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software, net of accumulated amortization, was $60.3 and $59.4 at May 31, 2022 and 2021, respectively. Capitalized software is amortized over a period of three to seven years. Amortization expense for capitalized software was $26.4, $27.6 and $27.3 for the fiscal years ended May 31, 2022, 2021 and 2020, respectively. Furniture, fixtures and equipment are depreciated over periods not exceeding ten years. The Company evaluates the depreciation periods of property, plant and equipment to determine whether events or circumstances indicate that the asset’s carrying value is not recoverable or warrant revised estimates of useful lives.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Depreciation and amortization expenses for the fiscal year ended May 31, 2022 were $56.8 million, compared to $60.5 million in the prior fiscal year. The $3.7 million decrease primarily relates to the Company's shift to cloud computing arrangements (e.g. software as a service) which results in capitalized software being amortized through Selling, general and administrative expenses rather than Depreciation and amortization. Amortization of capitalized cloud software increased $3.2 million when compared to the prior fiscal year which partially offset the decrease in Depreciation and amortization. Management expects this trend to continue as more cloud based software tools are utilized by the Company, ||| Cash used in investing activities was $43.2 million for the fiscal year ended May 31, 2022, compared to cash used in investing activities of $50.5 million for the prior fiscal year, representing a decrease in cash used in investing activities of $7.3 million. The decrease in cash used was primarily driven by lower property, plant and equipment spending and lower prepublication and production spending of $5.2 million and $3.5 million, respectively, as the Company continued to limit spending to strategic investments in key growth areas of the business and in technology, both internal and customer-facing, to allow it to operate with greater efficiency. Lower capitalized software spending within Property, plant and equipment was partially offset by higher spending on capitalized cloud computing arrangements recognized in Other assets as the Company continues to shift to cloud based systems. The Company also received $1.4 million less in proceeds from the sale of assets relating to the current fiscal year sale of the U.S. Lake Mary facility and the UK distribution facility located in Witney, resulting in proceeds of $10.4 million and $5.6 million, respectively, and the prior fiscal year sale of the Danbury, Connecticut facility and the UK distribution center located in Southam, resulting in proceeds of $12.3 million and $5.1 million, respectively.

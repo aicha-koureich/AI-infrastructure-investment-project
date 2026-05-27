@@ -1,0 +1,26 @@
+FIRM         : PPL (CIK 0000922224) | FY2015
+FILE         : 0000922224_PPL_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Effective January 1, 2015, after completing a review of the
+useful lives of its distribution network assets, WPD extended the weighted average useful lives of these assets to 69 years from
+55 years for GAAP reporting of depreciation expense. For 2015, this change in useful lives resulted in lower depreciation expense
+of $84 million ($66 million after-tax or $0.10 per share).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

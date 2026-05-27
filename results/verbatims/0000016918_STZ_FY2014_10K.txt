@@ -1,0 +1,20 @@
+FIRM         : STZ (CIK 0000016918) | FY2014
+FILE         : 0000016918_STZ_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 23. SELECTED QUARTERLY FINANCIAL INFORMATION (UNAUDITED):
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+For Fiscal 2015 , we recorded certain unusual items consisting of: product recall costs, net of recoveries, associated with a voluntary product recall of select packages in the U.S. and Guam containing 12-ounce clear glass bottles of our Corona Extra beer that may contain small particles of glass; net (gain) loss from the changes in fair value of undesignated commodity derivative contracts, partially offset by settlements of undesignated commodity derivative contracts; amortization of a favorable interim supply agreement associated with the Beer Business Acquisition; other cost of product sold associated with a loss on certain assets in connection with an earthquake in Napa, California; transaction, integration and other acquisition-related costs associated primarily with the Beer Business Acquisition; other selling, general and administrative expenses associated with a gain from an adjustment to a certain guarantee originally recorded in connection with a prior divestiture and a net gain on the sale of and the write-down of certain property, plant and equipment; and loss on the write-off of financing fees.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

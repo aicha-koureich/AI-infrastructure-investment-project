@@ -1,0 +1,21 @@
+FIRM         : OFG (CIK 0001030469) | FY2017
+FILE         : 0001030469_OFG_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 29
+– OFG BANCORP (HOLDING COMPANY ONLY) FINANCIAL INFORMATION
+ASSET CAT.   : Furniture and fixtures, Information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Useful Life December 31, (Years) 2017 2016 (In thousands) Land — $ 5,638 $ 5,638 Buildings and improvements 40 64,277 64,048 Leasehold improvements 5 — 10 20,647 20,414 Furniture and fixtures 3 — 7 16,242 14,479 Information technology and other 3 — 7 28,783 26,003 135,587 130,582 Less: accumulated depreciation and amortization (67,727) (60,175) $ 67,860 $ 70,407
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

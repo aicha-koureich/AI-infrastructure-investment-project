@@ -1,0 +1,20 @@
+FIRM         : LKQ (CIK 0001065696) | FY2018
+FILE         : 0001065696_LKQ_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 18. Condensed Consolidating Financial Information
+ASSET CAT.   : Machinery and equipment, Computer equipment, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2018 2017 Land and improvements $ 177,998 $ 137,790 Buildings and improvements 378,490 233,078 Machinery and equipment 626,615 521,526 Computer equipment and software 143,547 133,753 Vehicles and trailers 176,186 161,269 Furniture and fixtures 58,919 31,794 Leasehold improvements 278,687 257,506 1,840,442 1,476,716 Less—Accumulated depreciation (685,751 ) (606,112 ) Construction in progress 65,471 42,485 Total property, plant and equipment, net $ 1,220,162 $ 913,089
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+During 2018, the FASB issued ASU No. 2018-15, "Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract" ("ASU 2018-15"). This update requires an entity (customer) in a hosting arrangement that is a service contract to follow the guidance in Subtopic 350-40 to determine which implementation costs to capitalize as an asset related to the service contract and which costs to expense. ASU 2018-15 is effective for fiscal years and interim periods beginning after December 15, 2019; early adoption is permitted. We adopted ASU 2018-15 in the third quarter of 2018 as we believe that our existing policy is consistent with the new guidance and thus no adjustments were required to be in compliance with this update.

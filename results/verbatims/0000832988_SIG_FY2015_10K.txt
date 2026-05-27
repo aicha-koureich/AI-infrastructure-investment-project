@@ -1,0 +1,23 @@
+FIRM         : SIG (CIK 0000832988) | FY2015
+FILE         : 0000832988_SIG_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 30, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 12. Property, plant and equipment, net (in millions) January 30, 2016 January 31, 2015 Land and buildings $ 34.7 $ 36.0 Leasehold improvements 591.7 5
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, net (in millions) January 30, 2016 January 31, 2015 Land and buildings $ 34.7 $ 36.0 Leasehold improvements 591.7 556.4 Furniture and fixtures 688.7 596.6 Equipment, including software 315.5 278.6 Construction in progress 46.2 50.4 Total $ 1,676.8 $ 1,518.0 Accumulated depreciation and amortization (949.2 ) (852.1 ) Property, plant and equipment, net $ 727.6 $ 665.9
+
+[VERBATIM — Changement de politique]
+The Company recognizes revenue related to lifetime warranty sales in proportion to when the expected costs will be incurred. The deferral period for lifetime warranty sales in each division is determined from patterns of claims costs, including estimates of future claims costs expected to be incurred. Management reviews the trends in claims to assess whether changes are required to the revenue and cost recognition rates utilized. A significant change in estimates related to the time period or pattern in which warranty-related costs are expected to be incurred could materially impact revenues. All direct costs associated with the sale of these plans are deferred and amortized in proportion to the revenue recognized and disclosed as either other current assets or other assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

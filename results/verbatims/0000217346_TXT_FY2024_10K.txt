@@ -1,0 +1,23 @@
+FIRM         : TXT (CIK 0000217346) | FY2024
+FILE         : 0000217346_TXT_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-06-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 8 .
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, less accumulated amortization of $9 million and $8 million, respectively
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment are recorded at cost and are depreciated primarily using the straight-line method.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

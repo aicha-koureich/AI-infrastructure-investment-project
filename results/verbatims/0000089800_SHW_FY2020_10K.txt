@@ -1,0 +1,20 @@
+FIRM         : SHW (CIK 0000089800) | FY2020
+FILE         : 0000089800_SHW_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-03-21
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 – SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment (including leasehold improvements) is stated on the basis of cost. Depreciation is provided by the straight-line method. Depreciation and amortization are included in the appropriate Cost of goods sold or Selling, general and administrative expenses caption on the Statements of Consolidated Income. The major classes of assets and ranges of annual depreciation rates are:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : GKOS (CIK 0001192448) | FY2018
+FILE         : 0001192448_GKOS_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 13. Subsequent events
+ASSET CAT.   : equipment, Furniture and fixtures, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment, net Property and equipment consisted of the following (in thousands): December 31, 2018 2017 Buildings $ 874 $ 874 Equipment 10,306 8,311 Furniture and fixtures 1,570 1,382 Leasehold improvements 4,792 4,568 Computer equipment and software 2,232 1,980 Land 7,068 — Construction in progress 1,231 1,134 28,073 18,249 Less accumulated depreciation and amortization (8,920) (6,455) $ 19,153 $ 11,794 Depreciation and amortization expense related to property and equipment was $3.1 million, $2.1 million and $1.1 million for the years ended December 31, 2018, December 31, 2017 and December 31, 2016, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15 , Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (ASU 2018-15) which clarifies the accounting for implementation costs in cloud computing arrangements. ASU 2018-15 is effective for fiscal years beginning after December 15, 2019, including interim periods within those fiscal years, and early adoption is permitted. The Company is assessing the potential impacts of the standard. ||| , Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| (ASU 2018-15) which clarifies the accounting for implementation costs in cloud computing arrangements. ASU 2018-15 is effective for fiscal years beginning after December 15, 2019, including interim periods within those fiscal years, and early adoption is permitted. The Company is assessing the potential impacts of the standard.

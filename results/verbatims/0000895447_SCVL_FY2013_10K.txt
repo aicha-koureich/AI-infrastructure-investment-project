@@ -1,0 +1,22 @@
+FIRM         : SCVL (CIK 0000895447) | FY2013
+FILE         : 0000895447_SCVL_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 – Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 2.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation
+and amortization of property, equipment and leasehold improvements are taken on the straight-line method over the shorter of the
+estimated useful lives of the assets or the applicable lease terms.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

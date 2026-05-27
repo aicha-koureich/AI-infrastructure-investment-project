@@ -1,0 +1,20 @@
+FIRM         : KTOS (CIK 0001069258) | FY2013
+FILE         : 0001069258_KTOS_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 29, 2013
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Our KGS segment provides C5ISR products, solutions and services primarily for strategic mission critical national security programs and priorities. Our primary end customers in the KGS segment are U.S. Government agencies, including the Department of Defense ("DoD"), classified agencies, intelligence agencies, civilian agencies, other national security agencies and homeland security related agencies. Our work includes electronic warfare/attack and intelligence, reconnaissance and surveillance; satellite command and control, satellite communications support, signal monitoring, interference detection and geolocation; unmanned aerial systems and unmanned ground systems; ballistic missile defense test and evaluation; cyber and IT; learning, performance and training solutions; missile range operations and technical services; weapon systems lifecycle sustainment, support and extension; manufacturing of specialized tactical combat products, shelters and enclosures for C5ISR systems, UAVs, modular data centers and critical infrastructure shelters, weapons systems and warfighters.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

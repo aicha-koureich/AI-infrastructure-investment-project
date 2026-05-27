@@ -1,0 +1,20 @@
+FIRM         : VIAV (CIK 0000912093) | FY2024
+FILE         : 0000912093_VIAV_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-06-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Basis of Presentation
+ASSET CAT.   : equipment, machinery and equipment, furniture, office equipment
+DURÉE        : 3.0-30.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost, net of accumulated depreciation. Depreciation is computed using a straight-line method, over the estimated useful lives of the assets: building and improvements 5 to 50 years; machinery and equipment 3 to 30 years; and furniture, fixtures, software and office equipment 2 to 10 years.
+
+[VERBATIM — Infrastructure IA]
+SE net revenue decreased $7.7 million, or 8.2%, during fiscal 2024 when compared to fiscal 2023, primarily due to lower Assurance and Data Center revenue.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

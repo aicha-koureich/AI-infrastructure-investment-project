@@ -1,0 +1,24 @@
+FIRM         : CNA (CIK 0000021175) | FY2022
+FILE         : 0000021175_CNA_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment is depreciated over
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : B100;Hopper (2 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans | 7.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are carried at cost less accumulated depreciation. Depreciation is based on the estimated useful lives of the various classes of property and equipment and is determined principally on the straight-line method. Office equipment is depreciated over five years. The estimated lives for data processing equipment and software generally range from three to five years, but can be as long as ten years.
+
+[VERBATIM — Changement de politique]
+Years ended December 31 (In millions) 2022 2021 2020 Cash Flows from Operating Activities Net income $ 894 $ 1,202 $ 690 Adjustments to reconcile net income to net cash flows provided by operating activities: Deferred income tax (benefit) expense (34) 47 (49) Trading portfolio activity 6 20 (5) Net investment losses (gains) 199 (120) 54 Equity method investees 250 (127) (8) Net amortization of investments (129) (81) (67) Depreciation and amortization 51 54 60 Changes in: Receivables, net (226) (1,358) (409) Accrued investment income (29) 3 16 Deferred acquisition costs (79) (30) (43) Insurance reserves 1,791 2,463 1,681 Other, net (192) (76) (145) Net cash flows provided by operating activities 2,502 1,997 1,775 Cash Flows from Investing Activities Dispositions: Fixed maturity securities - sales 5,909 3,816 5,904 Fixed maturity securities - maturities, calls and redemptions 2,358 4,464 3,760 Equity securities 509 316 355 Limited partnerships 138 246 373 Mortgage loans 125 190 74 Purchases: Fixed maturity securities (9,821) (9,307) (10,269) Equity securities (294) (304) (452) Limited partnerships (337) (440) (224) Mortgage loans (200) (95) (172) Change in other investments 8 (6) (8) Change in short term investments 155 (83) (39) Purchases of property and equipment (52) (26) (23) Other, net (10) 1 16 Net cash flows used by investing activities (1,512) (1,228) (705) Cash Flows from Financing Activities Dividends paid to common stockholders (982) (621) (950) Proceeds from the issuance of debt — — 495 Repayment of debt — — (419) Purchase of treasury stock (39) (18) (18) Other, net (11) (9) (10) Net cash flows used by financing activities (1,032) (648) (902) Effect of foreign exchange rate changes on cash (19) (4) 9 Net change in cash (61) 117 177 Cash, beginning of year 536 419 242 Cash, end of period $ 475 $ 536 $ 419
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

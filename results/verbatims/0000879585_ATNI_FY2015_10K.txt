@@ -1,0 +1,20 @@
+FIRM         : ATNI (CIK 0000879585) | FY2015
+FILE         : 0000879585_ATNI_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU 2015-05, “Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement”, which provides guidance about whether a cloud computing arrangement includes software and how to account for that software license. The new guidance does not change the accounting for a customer’s accounting for service contracts. The standard is effective beginning January 1, 2017, with early adoption permitted, and may be applied prospectively or retrospectively. We do not expect ASU 2015-05 to have a material impact on our consolidated financial position, results of operations or cash flows.

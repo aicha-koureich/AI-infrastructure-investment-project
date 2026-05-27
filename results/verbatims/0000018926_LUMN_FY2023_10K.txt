@@ -1,0 +1,20 @@
+FIRM         : LUMN (CIK 0000018926) | FY2023
+FILE         : 0000018926_LUMN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software, less accumulated amortization of $4,045 (4) and $3,895
+
+[VERBATIM — Infrastructure IA]
+(3) Support assets consist of buildings, data centers, computers and other administrative and support equipment.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+◦ Wholesale: Under our wholesale sales channel, we provide our products and services to a wide range of other communication companies providing wireline, wireless, cable, voice and data center services. ||| Wholesale: Under our wholesale sales channel, we provide our products and services to a wide range of other communication companies providing wireline, wireless, cable, voice and data center services. ||| • Grow , which includes products and services that we anticipate will grow, including our dark fiber, Edge Cloud services, IP, managed security, software-defined wide area networks ("SD WAN"), secure access service edge ("SASE"), Unified Communications and Collaboration ("UC&C") and wavelengths services;

@@ -1,0 +1,29 @@
+FIRM         : MYRG (CIK 0000700923) | FY2013
+FILE         : 0000700923_MYRG_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Organization, Business and Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Revenues
+from the Company's construction services are performed under fixed-price, time-and-equipment, time-and-materials, unit-price, and cost-plus fee contracts. For fixed-price
+contracts, the Company uses the ratio of cost incurred to date on the contract (excluding uninstalled direct materials) to management's estimate of the contract's total cost, to determine the
+percentage of completion on each contract. This method is used as management considers expended costs to be the best available measure of progression of these contracts. Contract cost includes all
+direct costs on contracts, including labor and material, subcontractor costs and those indirect costs related to contract performance, such as supplies, fuel, tool repairs and depreciation. The
+Company recognizes revenues from construction services with fees based on time-and-materials, unit prices, or cost-plus fee as the services are performed and amounts are earned.
+
+[VERBATIM — Infrastructure IA]
+Commercial and Industrial: The C&I segment provides services such as the design, installation, maintenance and repair of commercial
+and industrial
+wiring, installation of traffic networks and the installation of bridge, roadway and tunnel lighting. Typical C&I contracts cover electrical contracting services for airports, hospitals, data centers,
+hotels, stadiums, convention centers, manufacturing plants, processing facilities, waste-water treatment facilities, mining facilities and transportation control and management systems. C&I segment
+services are generally focused on the Arizona and Colorado regional markets.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

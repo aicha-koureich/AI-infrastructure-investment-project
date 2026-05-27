@@ -1,0 +1,21 @@
+FIRM         : WWD (CIK 0000108312) | FY2020
+FILE         : 0000108312_WWD_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-11-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Operations and summary of significant accounting policies
+ASSET CAT.   : computer equipment and software is generally depreciated over
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Included in computer equipment and software are Woodward’s enterprise resource planning (“ERP”) systems, which have an estimated useful life of 10 years. All other computer equipment and software is generally depreciated over three years to five years.
+
+[VERBATIM — Infrastructure IA]
+Reciprocating Engines – Woodward’s key markets for engine control technologies are power generation, transportation (including compressed natural gas (“CNG”) trucks in Asia, mining, and marine shipping), and oil and gas. We continue to expect the market demand for natural gas trucks to remain favorable as the Chinese government continues to implement more stringent emissions standards and encourage natural gas usage under its initiative on air quality improvement. The demand for large reciprocating engines used in marine, oil and gas , and prime power generation applications was impacted by the COVID-19 pandemic and the drop in oil prices in the second half of fiscal year 2020. The demand for internet traffic and data storage is also driving demand for data center power generation. We anticipate some softening and stabilization of the large reciprocating engine market in fiscal year 202 1 due to a more stable market environment . Government emissions requirements across many regions and new engine applications are driving demand for more sophisticated control systems, as is customer demand for improved engine efficiencies and increased reliability. We expect share gains by our customers and increased scope on the latest generation reciprocating engines as energy policies in some countries encourage the use of natural gas and other alternative fuels over carbon-rich petroleum fuels, which we expect will drive increased demand for our alternative fuel clean engine control technologies.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

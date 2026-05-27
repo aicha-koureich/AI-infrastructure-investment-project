@@ -1,0 +1,20 @@
+FIRM         : ACIW (CIK 0000935036) | FY2020
+FILE         : 0000935036_ACIW_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+ACI On Demand serves the needs of banks, merchants, and billers who use payments to facilitate their core business. These on-demand solutions are maintained and delivered through the cloud via our global data centers and are available in either a single-tenant environment for SaaS offerings, or in a multi-tenant environment for PaaS offerings.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Adoption of cloud technology . To leverage lower-cost computing technologies, increase time to market, accelerate innovation, and ensure scalability and resiliency, banks, intermediaries, merchants, and billers are seeking to transition their systems to make use of cloud technology. Our investments and partnerships, as demonstrated by our product enablement and initial optimization onto Microsoft Azure, enable us to leverage the hybrid cloud technology benefits of automation and rapid deployment and delivery, while preserving the ACI fundamentals of resiliency and scalability, to deliver cloud capabilities now and in the future. Market sizing data from Ovum (now Omdia) indicates that spend on SaaS and PaaS payment systems is growing faster than spend on installed applications. ||| To leverage lower-cost computing technologies, increase time to market, accelerate innovation, and ensure scalability and resiliency, banks, intermediaries, merchants, and billers are seeking to transition their systems to make use of cloud technology. Our investments and partnerships, as demonstrated by our product enablement and initial optimization onto Microsoft Azure, enable us to leverage the hybrid cloud technology benefits of automation and rapid deployment and delivery, while preserving the ACI fundamentals of resiliency and scalability, to deliver cloud capabilities now and in the future. Market sizing data from Ovum (now Omdia) indicates that spend on SaaS and PaaS payment systems is growing faster than spend on installed applications.

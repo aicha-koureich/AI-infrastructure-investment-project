@@ -1,0 +1,20 @@
+FIRM         : ZBRA (CIK 0000877212) | FY2018
+FILE         : 0000877212_ZBRA_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 7 Property, Plant and Equipment
+ASSET CAT.   : Machinery and equipment, Furniture, office equipment, computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2018 2017 Buildings $ 57 $ 54 Land 7 8 Machinery and equipment 204 233 Furniture and office equipment 18 19 Software and computer equipment 161 235 Leasehold improvements 75 69 Projects in progress 24 23 546 641 Less accumulated depreciation (297 ) (377 ) Property, plant and equipment, net $ 249 $ 264
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| . This ASU clarifies existing guidance related to implementation costs incurred in cloud computing arrangements, including the recognition, subsequent measurement, and financial statement presentation of such costs. The standard will be effective for the Company in the first quarter of 2020, with earlier adoption permitted. Management is still assessing the impact of adoption on its consolidated financial statements. ||| In August 2018, the FASB issued ASU 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . This ASU clarifies existing guidance related to implementation costs incurred in cloud computing arrangements, including the recognition, subsequent measurement, and financial statement presentation of such costs. The standard will be effective for the Company in the first quarter of 2020, with earlier adoption permitted. Management is still assessing the impact of adoption on its consolidated financial statements.

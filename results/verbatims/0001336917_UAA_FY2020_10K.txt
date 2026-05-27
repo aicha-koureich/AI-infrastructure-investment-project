@@ -1,0 +1,23 @@
+FIRM         : UAA (CIK 0001336917) | FY2020
+FILE         : 0001336917_UAA_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 6. Property and Equipment, Net
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, including the cost of internal labor for software customized for internal use, less accumulated depreciation and amortization. Property and equipment is depreciated using the straight-line method over the estimated useful lives of the assets, as follows:
+
+[VERBATIM — Changement de politique]
+The Company periodically reviews assets’ estimated useful lives based upon actual experience and expected future utilization. A change in useful life is treated as a change in accounting estimate and is applied prospectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

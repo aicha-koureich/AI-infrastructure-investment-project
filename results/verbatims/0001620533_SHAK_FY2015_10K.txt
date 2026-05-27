@@ -1,0 +1,20 @@
+FIRM         : SHAK (CIK 0001620533) | FY2015
+FILE         : 0001620533_SHAK_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 30, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 20
+ASSET CAT.   : equipment, furniture and fixtures, and computer equipment and software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment is stated at historical cost less accumulated depreciation. Property and equipment is depreciated based on the straight-line method over the estimated useful lives of the assets, generally ranging from three to seven years for equipment, furniture and fixtures, and computer equipment and software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued Accounting Standards Update No. 2015-05, Customers' Accounting for Fees Paid in a Cloud Computing Arrangement ("ASU 2015-05"). ASU 2015-05 provides guidance in evaluating whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the software license element of the arrangement should be accounted for as an acquisition of a software license. If the arrangement does not contain a software license, it should be accounted for as a service contract. ASU 2015-05 is effective for reporting periods beginning after December 15, 2015 and may be adopted either retrospectively or prospectively. The adoption of ASU 2015-05 will not have a significant impact on our consolidated financial statements.

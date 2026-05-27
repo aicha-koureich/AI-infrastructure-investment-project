@@ -1,0 +1,21 @@
+FIRM         : ALGN (CIK 0001097149) | FY2022
+FILE         : 0001097149_ALGN_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-27
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5
+ASSET CAT.   : equipment, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 3.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+These costs primarily include personnel-related costs, including payroll and stock-based compensation, equipment, material and maintenance costs, outside consulting expenses, depreciation and amortization expense and allocations of corporate overhead expenses including facilities and information technology (“IT”).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+On December 9, 2022, we entered into a cloud services agreement to support our production operations and research and development efforts for clinical applications which requires us to make minimum purchases totaling $145.0 million from 2023 through 2027.

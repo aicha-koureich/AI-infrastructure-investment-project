@@ -1,0 +1,20 @@
+FIRM         : FBNC (CIK 0000811589) | FY2019
+FILE         : 0000811589_FBNC_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 25.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+SBA Loan Originations – Through its SBA Lending Division, the Company offers loans guaranteed by the Small Business Administration (“SBA”) for the purchase of businesses, business startups, business expansion, equipment, and working capital. All SBA loans are underwritten and documented as prescribed by the SBA. SBA loans are generally fully amortizing and have maturity dates and amortizations of up to 25 years. The portion of SBA loans originated that are guaranteed and intended for sale on the secondary market are classified as held for sale and are carried at the lower of cost or fair value - there were an insignificant amount of these loans held for sale at December 31, 2019 and 2018 . The Company generally sells the guaranteed portion of the SBA loan soon as soon as it is eligible to be sold and retains the servicing right. When the guaranteed portion of an SBA loan is sold, the Company allocates the carrying basis of the loan between the guaranteed portion of the loan sold, the unguaranteed portion of the loans retained, and the servicing asset based on their relative fair values. A gain is recorded for the difference between the proceeds received from the sale and the basis allocated to the sold portion. The relative fair value allocation results in a discount that is recorded on the unguaranteed portion of the loan that is retained. The discount is amortized as a yield adjustment over the life of the loan, so long as the loan performs. In the event of default, the remaining discount is available to offset the write-off of the remaining servicing asset and deferred origination costs, with any remaining discount available to offset any loan charge-off.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : DLR (CIK 0001297996) | FY2024
+FILE         : 0001297996_DLR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 10. Acquired Intangible Assets and Liabilities
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amortization of these assets will begin once the data centers associated with the power grid rights are placed into service.
+
+[VERBATIM — Infrastructure IA]
+In January 2024, we acquired a 16-acre site in Paris for $80 million. Prior to the acquisition, we leased the land, which consisted of two completed data centers and two data centers under construction. As a result of the land acquisition, we derecognized the right-of-use assets and lease liabilities of $145 million and $150 million, respectively.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : GKOS (CIK 0001192448) | FY2020
+FILE         : 0001192448_GKOS_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of property and equipment is generally provided using the straight-line method over the estimated useful lives of the assets, which range from three to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15 , Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (ASU 2018-15), which clarifies the accounting for implementation costs in cloud computing ||| arrangements, and requires a customer in a cloud computing arrangement to determine which implementation costs to capitalize as fixed assets or expense as incurred. Capitalized implementation costs related to a hosting arrangement that is a service contract are amortized over the term of the hosting arrangement, beginning when the module or component of the hosting arrangement is ready for its intended use. The Company adopted ASU 2018-15 on a prospective basis as of January 1, 2020 and as a result, capitalized certain costs related to its global enterprise systems implementation of approximately $2.3 million, of which $0.4 million was amortized during the year ended December 31, 2020 with a remaining unamortized amount of $1.9 million in prepaid expenses and other current assets on the consolidated balance sheets as of December 31, 2020.

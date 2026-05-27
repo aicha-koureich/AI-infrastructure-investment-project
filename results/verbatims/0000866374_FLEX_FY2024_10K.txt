@@ -1,0 +1,20 @@
+FIRM         : FLEX (CIK 0000866374) | FY2024
+FILE         : 0000866374_FLEX_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-04-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF ACCOUNTING POLICIES Basis of Presentation and Principles of Consolidation
+ASSET CAT.   : Machinery and equipment, Furniture, computer equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciable Life (In Years) As of March 31, 2025 2024 (In millions) Machinery and equipment 2 - 10 $ 3,978 $ 3,960 Buildings 30 1,342 1,212 Leasehold improvements Shorter of lease term or useful life of the improvement 669 651 Furniture, fixtures, computer equipment and software, and other 3 - 7 564 549 Land — 126 123 Construction-in-progress — 271 214 6,950 6,709 Accumulated depreciation and amortization (4,620) (4,440) Property and equipment, net $ 2,330 $ 2,269
+
+[VERBATIM — Infrastructure IA]
+On November 14, 2024, the Company acquired 100% ownership of JetCool, a provider of liquid cooling solutions tailored for the data center market, for approximately $43 million in cash, a deemed settled pre-existing loan from Flex of approximately $5 million, and $5 million of contingent consideration for a total estimated purchase price of $53 million. JetCool is included in the Communications, Enterprise and Cloud reporting unit within the FAS segment. The following represents the Company's preliminary allocation of the total purchase price to the acquired assets and liabilities of JetCool (in millions):  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

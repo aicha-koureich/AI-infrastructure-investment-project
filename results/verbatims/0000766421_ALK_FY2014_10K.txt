@@ -1,0 +1,21 @@
+FIRM         : ALK (CIK 0000766421) | FY2014
+FILE         : 0000766421_ALK_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 13. OPERATING SEGMENT INFORMATION
+ASSET CAT.   : Computer hardware and software
+DURÉE        : 400.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-10.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost and depreciated using the straight-line method over their estimated useful lives less an estimated salvage value, which are as follows: Aircraft and related flight equipment: Boeing 737 aircraft 20 years Bombardier Q400 15 years Buildings 25-30 years Minor building and land improvements 10 years Capitalized leases and leasehold improvements Shorter of lease term or estimated useful life Computer hardware and software 3-5 years Other furniture and equipment 5-10 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,26 @@
+FIRM         : SPXC (CIK 0000088205) | FY2013
+FILE         : 0000088205_SPXC_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 19
+for the impact of the above changes on our consolidated financial statements for the years ended December 31, 2013, 2012 and 2011.
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Research and Development Costs — We expense research and development costs as incurred. We charge costs incurred in the
+research and development of new software included in products to expense until technological feasibility is established. After technological feasibility is established, additional eligible costs are
+capitalized until the product is available for general release. We amortize these costs over the economic lives of the related products and include the amortization in cost of products sold. We
+perform periodic reviews of the recoverability of these capitalized software costs. At the time we determine that capitalized amounts are not recoverable based on the estimated cash flows to be
+generated from the applicable software, we write off any unrecoverable capitalized amounts. We expensed research activities relating to the development and improvement of our products of $44.7, $46.0
+and $41.1 in 2013, 2012 and 2011, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

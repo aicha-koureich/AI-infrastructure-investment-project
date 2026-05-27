@@ -1,0 +1,20 @@
+FIRM         : MTZ (CIK 0000015615) | FY2016
+FILE         : 0000015615_MTZ_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Business, Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : equipment, furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment under capital leases are depreciated over their estimated useful lives.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : XNCR (CIK 0001326732) | FY2024
+FILE         : 0001326732_XNCR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2029-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 11
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost and depreciated using the straight-line method over the estimated useful lives of the assets.
+
+[VERBATIM — Changement de politique]
+The Company determined that $29.5 million of the upfront payment is for a recorded receivable for royalties and a milestone payment earned in the third quarter of 2023 and $163.0 million is for the sale of future royalties. The Company evaluated the arrangement and determined that the proceeds from the sale of future royalties should be classified as debt according to ASC 470. As of December 31, 2024, the estimated effective rate under the agreement was 21.1%. The Company periodically reassesses the estimate of total future royalty payments and prospectively adjusts the imputed interest rate and related amortization if the estimate is materially different. For the years ended December 31, 2024 and 2023, the Company recognized $58.2 million and $12.5 million of non-cash royalty revenue, respectively. For the years ended December 31, 2024 and 2023, the Company recorded $33.2 million and $5.5 million of non-cash interest expense, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

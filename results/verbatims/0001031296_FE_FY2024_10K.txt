@@ -1,0 +1,20 @@
+FIRM         : FE (CIK 0001031296) | FY2024
+FILE         : 0001031296_FE_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Economic conditions have stabilized across numerous material categories, but not all lead times have returned to pre-pandemic levels. Several key suppliers have seen improvements with capacity, but FirstEnergy continues to monitor the situation as demand increases across the industry, including due to data center usage. Inflationary pressures have moderated, which has improved the cost of materials, but certain categories have remained elevated. FirstEnergy continues to implement mitigation strategies to address supply constraints and does not expect any corresponding service disruptions or any material impact on its capital investment plan. However, the situation remains fluid and a prolonged continuation or further increase in demand, or the continuation of uncertain or adverse macroeconomic conditions, including inflationary pressures and new or increased existing tariffs, could lead to an increase in supply chain disruptions that could, in turn, have an adverse effect on FirstEnergy’s results of operations, cash flow and financial condition.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

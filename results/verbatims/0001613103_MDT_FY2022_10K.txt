@@ -1,0 +1,20 @@
+FIRM         : MDT (CIK 0001613103) | FY2022
+FILE         : 0001613103_MDT_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-06-07
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 10. Property, Plant, and Equipment
+ASSET CAT.   : Equipment, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(in millions) April 28, 2023 April 29, 2022 Estimated Useful Lives (in years) Equipment $ 6,707 $ 6,489 Generally 2-7, up to 15 Computer software 2,952 2,617 Up to 5 Land and land improvements 162 170 Up to 20 Buildings and leasehold improvements 2,487 2,351 Up to 40 Construction in progress 1,754 1,737 — Property, plant, and equipment 14,062 13,365 Less: Accumulated depreciation (8,493) (7,952) Property, plant, and equipment, net $ 5,569 $ 5,413
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• Continued acceptance and growth from the Azure XT and S SureScan pacing systems and the 3830 lead. Azure pacemakers feature Medtronic-exclusive BlueSync technology, which enables automatic, secure wireless remote monitoring with increased device longevity. The 3830 lead, previously labeled for His-bundle pacing, has now been expanded to include left bundle branch area pacing. ||| Continued acceptance and growth from the Azure XT and S SureScan pacing systems and the 3830 lead. Azure pacemakers feature Medtronic-exclusive BlueSync technology, which enables automatic, secure wireless remote monitoring with increased device longevity. The 3830 lead, previously labeled for His-bundle pacing, has now been expanded to include left bundle branch area pacing.

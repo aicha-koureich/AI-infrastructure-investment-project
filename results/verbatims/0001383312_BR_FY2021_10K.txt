@@ -1,0 +1,20 @@
+FIRM         : BR (CIK 0001383312) | FY2021
+FILE         : 0001383312_BR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-08-11
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Costs directly related to the activities necessary to make the data center usable for its intended purpose are deferred and amortized over the life of the contract on a straight-line basis commencing on the date the data center has achieved full functionality.
+
+[VERBATIM — Infrastructure IA]
+J. Deferred Data Center Costs. Data center costs relate to conversion costs associated with our principal data center systems and applications. Costs directly related to the activities necessary to make the data center usable for its intended purpose are deferred and amortized over the life of the contract on a straight-line basis commencing on the date the data center has achieved full functionality. These deferred costs are reflected in Other non-current assets in the Consolidated Balance Sheets at June 30, 2021 and 2020, respectively. Refer to Note 11, “Other Non-Current Assets” for a further description of the Company’s Deferred data center costs.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In March 2014, the Company and IBM UK entered into the EU IT Services Agreement, under which IBM UK provides data center services supporting the Company’s technology outsourcing services for certain clients in Europe and Asia. The EU IT Services Agreement would have expired in October 2023. In December 2019, the Company amended the existing EU IT Services Agreement and entered into the Amended EU IT Services Agreement whereby the Company will migrate from the existing dedicated on-premise solution to a managed Broadridge private cloud environment provided by IBM, as well as extended the term of the EU IT Services Agreement to June 2029. The Company has the right to renew the term of the Amended EU IT Services Agreement for up to one additional 12-month period or one additional 24-month period. Fixed minimum commitments remaining under the Amended EU IT Services Agreement at June 30, 2021 are $30.8 million through fiscal year 2029, the final year of the contract.

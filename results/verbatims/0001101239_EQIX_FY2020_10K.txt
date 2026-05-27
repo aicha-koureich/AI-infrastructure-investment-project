@@ -1,0 +1,20 @@
+FIRM         : EQIX (CIK 0001101239) | FY2020
+FILE         : 0001101239_EQIX_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-06-30
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+During the last three years, we have completed a number of business combinations, including the acquisition of Bell Data Centers in Canada in the fourth quarter of 2020, Packet in March 2020, Axtel in Mexico in January 2020, Switch Datacenters' AMS1 data center business in Amsterdam, Netherlands in April 2019, and the Metronode Acquisition and the Infomart Dallas Acquisition in April 2018. The purchase price allocation for these acquisitions has been finalized, except for the Bell acquisition. As of December 31, 2020 and 2019, we had net intangible assets of $2.2 billion and $2.1 billion, respectively. We recorded amortization expense for intangible assets of $199.0 million, $196.3 million and $203.4 million for the years ended December 31, 2020, 2019 and 2018, respectively. We do not believe there is a reasonable likelihood that there will be a material change in the estimates or assumptions we used to complete the purchase price allocations and the fair value of assets acquired and liabilities assumed. However, if actual results are not consistent with our estimates or assumptions, we may be exposed to losses or gains that could be material, which would be recorded in our consolidated statements of operations in 2020 or beyond.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+During the last three years, we have completed a number of business combinations, including the acquisition of Bell Data Centers in Canada in the fourth quarter of 2020, Packet in March 2020, Axtel in Mexico in January 2020, Switch Datacenters' AMS1 data center business in Amsterdam, Netherlands in April 2019, and the Metronode Acquisition and the Infomart Dallas Acquisition in April 2018. The purchase price allocation for these acquisitions has been finalized, except for the Bell acquisition. As of December 31, 2020 and 2019, we had net intangible assets of $2.2 billion and $2.1 billion, respectively. We recorded amortization expense for intangible assets of $199.0 million, $196.3 million and $203.4 million for the years ended December 31, 2020, 2019 and 2018, respectively. We do not believe there is a reasonable likelihood that there will be a material change in the estimates or assumptions we used to complete the purchase price allocations and the fair value of assets acquired and liabilities assumed. However, if actual results are not consistent with our estimates or assumptions, we may be exposed to losses or gains that could be material, which would be recorded in our consolidated statements of operations in 2020 or beyond.

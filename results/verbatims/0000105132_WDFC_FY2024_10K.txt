@@ -1,0 +1,20 @@
+FIRM         : WDFC (CIK 0000105132) | FY2024
+FILE         : 0000105132_WDFC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 31, 2024
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The increase in SG&A expenses was primarily due to increases in employee-related costs of $16.1 million primarily due to an increase in accrued incentive compensation of $8.8 million, as well as annual compensation increases and higher headcount. Professional services fees increased $6.1 million in support of our strategic initiatives in the Americas and EIMEA segments. The increase in professional service costs includes a $2.7 million increase in computer-related costs, primarily associated with the ERP system we recently implemented in the U.S. and the amortization of cloud computing implementation costs associated with this system. In addition, professional services fees increased due to costs associated with the development of a direct market in Brazil. Travel and meeting expense increased SG&A expense by $2.5 million primarily as a result of increased travel related to geographic expansion and other initiatives aligned with our strategic framework. Unfavorable changes in foreign currency exchange rates increased SG&A expenses by $2.1 million from period to period. ||| In managing our business operations and assessing our financial performance, we supplement the information provided by our financial statements with certain non-GAAP performance measures. These performance measures are part of our current 55/30/25 business model, which includes gross margin, cost of doing business, and earnings before interest, income taxes, depreciation and amortization (“Adjusted EBITDA”), the latter two of which are non-GAAP performance measures. Cost of doing business is defined as total operating expenses less amortization of definite-lived intangible assets, impairment charges related to intangible assets, amortization of implementation costs associated with cloud computing arrangements (“cloud computing amortization”) and depreciation in operating departments. Adjusted EBITDA is defined as net income before interest, income taxes, depreciation, amortization of definite-lived intangible assets, and cloud computing amortization. Beginning in fiscal year 2024, cloud computing amortization is included in our of cost of doing business and Adjusted EBITDA calculations. We have placed a new cloud-based enterprise resource planning system into service in the U.S., which we began to amortize in the second quarter of fiscal year 2024. Implementation of such systems is related to initiatives associated with our strategic framework to help us achieve greater operational efficiencies. Cloud computing amortization is recognized in selling, general and administrative expenses in our consolidated statements of operations. ||| (1) Includes amortization of definite-lived intangible assets and cloud computing amortization.

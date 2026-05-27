@@ -1,0 +1,20 @@
+FIRM         : BWXT (CIK 0001486957) | FY2013
+FILE         : 0001486957_BWXT_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 – BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We carry our property, plant and equipment at depreciated cost, less any impairment provisions.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

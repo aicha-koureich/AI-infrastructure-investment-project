@@ -1,0 +1,20 @@
+FIRM         : SNX (CIK 0001177394) | FY2023
+FILE         : 0001177394_SNX_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-26
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 8—BALANCE SHEET COMPONENTS:
+ASSET CAT.   : Equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of November 30, 2023 2022 (currency in thousands) Land $ 27,871 $ 27,311 Equipment, computers and software 513,030 414,359 Furniture and fixtures 64,429 59,349 Buildings, building improvements and leasehold improvements 236,479 219,859 Construction-in-progress 17,681 6,859 Total property and equipment, gross $ 859,490 $ 727,737 Total accumulated depreciation (409,466) (306,673) Property and equipment, net $ 450,024 $ 421,064
+
+[VERBATIM — Infrastructure IA]
+We are highly dependent on the end-market demand for IT products, and on our partners' strategic initiatives and business models. This end-market demand is influenced by many factors including the introduction of new IT products and software by OEM suppliers, replacement cycles for existing IT products, trends toward cloud computing, overall economic growth and general business activity. A difficult and challenging economic environment due to the continued persistence of inflation, elevated interest rates, and market volatility as a result of military conflicts in certain countries may also lead to consolidation or decline in the IT distribution industry and increased price-based competition. Our results in fiscal 2023 were also negatively impacted by post-pandemic declines in demand for personal computing ecosystem products. Our systems design and integration solutions business is highly dependent on the demand for cloud infrastructure, and the number of key customers and suppliers in the market. Our business includes operations in the Americas, Europe and APJ, so we are affected by demand for our products in those regions, as well as the impact of fluctuations in foreign currency exchange rates compared to the U.S. dollar.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+We are highly dependent on the end-market demand for IT products, and on our partners' strategic initiatives and business models. This end-market demand is influenced by many factors including the introduction of new IT products and software by OEM suppliers, replacement cycles for existing IT products, trends toward cloud computing, overall economic growth and general business activity. A difficult and challenging economic environment due to the continued persistence of inflation, elevated interest rates, and market volatility as a result of military conflicts in certain countries may also lead to consolidation or decline in the IT distribution industry and increased price-based competition. Our results in fiscal 2023 were also negatively impacted by post-pandemic declines in demand for personal computing ecosystem products. Our systems design and integration solutions business is highly dependent on the demand for cloud infrastructure, and the number of key customers and suppliers in the market. Our business includes operations in the Americas, Europe and APJ, so we are affected by demand for our products in those regions, as well as the impact of fluctuations in foreign currency exchange rates compared to the U.S. dollar. ||| We recognize revenue on a net basis on certain contracts, where our performance obligation is to arrange for the products or services to be provided by another party or the rendering of logistics services for the delivery of inventory for which we do not assume the risks and rewards of ownership, by recognizing the margins earned in revenue with no associated cost of revenue. Such arrangements include supplier service contracts, post-contract software support services, cloud computing and software as a service arrangements, certain fulfillment contracts, extended warranty contracts and certain of our systems design and integration solutions arrangements which operate under a customer-owned procurement model.

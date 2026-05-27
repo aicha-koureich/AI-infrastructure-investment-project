@@ -1,0 +1,21 @@
+FIRM         : CPF (CIK 0000701347) | FY2022
+FILE         : 0000701347_CPF_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 6 - Subsequent Events
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-7.0 ans | 30.0-9.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization of premises and equipment
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

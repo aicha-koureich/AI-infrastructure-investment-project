@@ -1,0 +1,20 @@
+FIRM         : AZTA (CIK 0000933974) | FY2018
+FILE         : 0000933974_AZTA_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 6. Property, Plant and Equipment Property, plant and equipment were as follows as of September 30, 2018 and 2017 (in thousands): September 30, 2018 20
+ASSET CAT.   : Computer equipment, Machinery and equipment, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+September 30, 2018 2017 Buildings and land $ 47,745 $ 46,608 Computer equipment and software 56,982 55,352 Machinery and equipment 55,794 48,647 Furniture and fixtures 4,842 4,034 Leasehold improvements 19,433 18,045 Capital projects in progress 5,796 2,761 190,592 175,447 Less: accumulated depreciation and amortization (130,604) (118,466) Property, plant and equipment, net $ 59,988 $ 56,981
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

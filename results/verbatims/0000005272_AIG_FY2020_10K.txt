@@ -1,0 +1,20 @@
+FIRM         : AIG (CIK 0000005272) | FY2020
+FILE         : 0000005272_AIG_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 22. Income Taxes
+ASSET CAT.   : buildings
+DURÉE        : 10.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The cost of buildings and furniture and equipment is depreciated principally on the straight-line basis over their estimated useful lives (maximum of 40 years for buildings and 10 years for furniture and equipment). Capitalized software costs, which represent costs directly related to obtaining, developing or upgrading internal use software, are capitalized and amortized using the straight-line method over a period generally not exceeding ten years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| In August 2018, the FASB issued an accounting standard that aligns the requirements for capitalizing implementation costs incurred in a cloud computing (or hosting) arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). Capitalized implementation costs must be amortized over the term of the hosting arrangement. The accounting for the service element is not affected by the amendments in this update.

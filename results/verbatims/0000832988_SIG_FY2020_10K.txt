@@ -1,0 +1,23 @@
+FIRM         : SIG (CIK 0000832988) | FY2020
+FILE         : 0000832988_SIG_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 15. Property, plant and equipment, net
+ASSET CAT.   : Furniture and fixtures, Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(in millions) January 30, 2021 February 1, 2020 Land and buildings $ 21.8 $ 23.4 Leasehold improvements 616.9 640.7 Furniture and fixtures 669.9 601.2 Equipment 122.4 199.1 Software 334.2 246.9 Construction in progress 38.4 95.3 Total $ 1,803.6 $ 1,806.6 Accumulated depreciation and amortization (1,198.1) (1,064.7) Property, plant and equipment, net $ 605.5 $ 741.9
+
+[VERBATIM — Changement de politique]
+The Company recognizes revenue related to ESP sales in proportion to when the expected costs will be incurred. The deferral period for ESP sales is determined from patterns of claims costs, including estimates of future claims costs expected to be incurred. Management reviews the trends in claims to assess whether changes are required to the revenue and cost recognition rates utilized. A significant change in estimates related to the time period or pattern in which warranty-related costs are expected to be incurred could materially impact revenues. All direct costs associated with the sale of these plans are deferred and amortized in proportion to the revenue recognized and disclosed as either other current assets or other assets in the consolidated balance sheets. These direct costs primarily include sales commissions and credit card fees. Amortization of deferred ESP selling costs is included within selling, general and administrative expenses in the consolidated statements of operations. Amortization of deferred ESP selling costs was $26.3 million, $29.5 million and $52.4 million in Fiscal 2021, and Fiscal 2020 and Fiscal 2019, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software: Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract, issued July 2018. ||| Aligns the requirements for capitalizing implementation costs in cloud computing arrangements with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The adoption of this ASU did not have a material impact on the Company’s financial position or results of operations.

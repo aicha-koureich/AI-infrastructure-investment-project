@@ -1,0 +1,23 @@
+FIRM         : BKH (CIK 0001130464) | FY2019
+FILE         : 0001130464_BKH_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 22. Quarterly Historical Data (unaudited)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Due to the changes in our segment disclosures discussed in Note 5 , Total electric plant in service, Accumulated depreciation and amortization, and Electric plant net of accumulated depreciation and amortization were revised as of December 31, 2018 which resulted in an increase (decrease) of ($261) million , $91 million and ($170) million , respectively. There was no impact on our consolidated Plant, property and equipment.
+
+[VERBATIM — Changement de politique]
+Due to the changes in our segment disclosures discussed in Note 5 , Total electric plant in service, Accumulated depreciation and amortization, and Electric plant net of accumulated depreciation and amortization were revised as of December 31, 2018 which resulted in an increase (decrease) of ($261) million , $91 million and ($170) million , respectively. There was no impact on our consolidated Plant, property and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract, ASU 2018-15 ||| In August 2018, the FASB issued ASU 2018-15, Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract , which aligns the requirements for recording implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. As a result, certain categories of implementation costs that previously would have been charged to expense as incurred are now capitalized as prepayments and amortized over the term of the arrangement. The new guidance is effective for annual periods beginning after December 15, 2019, and interim periods within those fiscal years. The new guidance can be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. Early adoption is permitted. We adopted this standard prospectively on January 1, 2020. Adoption of this guidance did not have a material impact on our financial position, results of operations or cash flows. ||| Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

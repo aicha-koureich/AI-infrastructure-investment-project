@@ -1,0 +1,20 @@
+FIRM         : BNED (CIK 0001634117) | FY2022
+FILE         : 0001634117_BNED_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-06-07
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Basis of Presentation
+ASSET CAT.   : equipment, Machinery, Computer hardware, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of Useful Life April 30, 2022 May 1, 2021 Property and equipment: Leasehold improvements (a) $ 125,462 $ 131,784 Machinery, equipment and display fixtures 3 - 5 252,582 247,979 Computer hardware and capitalized software costs (b) 163,963 152,941 Office furniture and other 2 - 7 64,375 62,031 Content development costs 3 - 5 34,867 25,526 Construction in progress 3,710 4,444 Total property and equipment 644,959 624,705 Less accumulated depreciation and amortization 550,887 535,533 Total property and equipment, net $ 94,072 $ 89,172
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| Implementation costs incurred in a cloud computing arrangement (or hosting arrangement) that is a service contract are amortized to hosting expense over the term of the arrangement, beginning when the module or component of the hosting arrangement is ready for its intended use. Implementation costs are included in prepaid expenses and other assets in the consolidated balance sheets and amortized to selling and administrative expense in the consolidated statement of operations. Implementation costs incurred in cloud computing arrangements reflected in prepaid and other assets in the consolidated

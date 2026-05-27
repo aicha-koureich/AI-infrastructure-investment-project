@@ -1,0 +1,20 @@
+FIRM         : REZI (CIK 0001740332) | FY2019
+FILE         : 0001740332_REZI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 23. Unaudited Quarterly Financial Information
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Years Ended December 31, 2019 2018 2017 Cash flows provided by operating activities: Net income (loss) $ 36 $ 405 $ (394 ) Adjustments to reconcile net income (loss) to net cash provided by operating activities: Depreciation and amortization 80 66 67 Restructuring charges, net of payments 6 (4 ) 6 Stock compensation expense 25 20 16 Deferred income taxes (25 ) (323 ) 297 Other 18 22 19 Changes in assets and liabilities: Accounts receivables 7 (62 ) (31 ) Inventories – net (44 ) (172 ) (17 ) Other current assets (53 ) (27 ) (17 ) Other assets (15 ) (4 ) - Accounts payable (38 ) 231 11 Accrued liabilities 22 65 (5 ) Obligations payable to Honeywell (35 ) 24 - Other liabilities 39 221 85 Net cash provided by operating activities 23 462 37 Cash flows used for investing activities: Expenditures for property, plant, equipment and software (95 ) (81 ) (51 ) Cash paid for acquisitions, net of cash acquired (17 ) - - Other - 7 - Net cash used for investing activities (112 ) (74 ) (51 ) Cash flows (used for) provided by financing activities: Proceeds from long-term debt - 1,225 - Payment of debt facility issuance and modification costs (4 ) (29 ) - Repayment of long-term debt (22 ) - - Distribution to Honeywell in connection with Spin-Off - (1,415 ) - Net increase in invested equity - 39 19 Non-operating obligations from Honeywell, net (24 ) 26 - Other (3 ) (13 ) 2 Net cash (used for) provided by financing activities (53 ) (167 ) 21 Effect of foreign exchange rate changes on cash and cash equivalents (1 ) (12 ) 2 Net (decrease) increase in cash and cash equivalents (143 ) 209 9 Cash and cash equivalents at beginning of period 265 56 47 Cash and cash equivalents at end of period $ 122 $ 265 $ 56 Supplemental cash flow information: Interest paid $ 72 $ - $ - Income taxes paid (net of refunds) $ 86 $ 28 $ 261 Capital expenditures in accounts payable $ 16 $ 23 $ 14
+
+[VERBATIM — Infrastructure IA]
+We are a leading global provider of products, software solutions and technologies that help homeowners stay connected and in control of their comfort, security and energy use. We manage our business operations through two segments, Products & Solutions and ADI Global Distribution. Our Products & Solutions segment consists of solutions in Comfort, Residential Thermal Solutions (“RTS”) and Security categories and includes temperature and humidity control, thermal, water and air solutions as well as security panels, sensors, peripherals, wire and cable, communications devices, video cameras, awareness solutions, cloud infrastructure, installation and maintenance tools and related software. Our ADI Global Distribution business is the leading wholesale distributor of low-voltage electronic and security products which include intrusion and smart home, fire, video surveillance, access control, power, audio and video, Pro AV, networking, communications, wire and cable, enterprise connectivity and structured wiring.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : DIN (CIK 0000049754) | FY2022
+FILE         : 0000049754_DIN_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-06
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. Property and Equipment
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2022 2021 (In millions) Leaseholds and improvements $ 211.5 $ 221.1 Properties under finance leases 56.7 94.6 Equipment and fixtures 41.5 52.5 Buildings and improvements 51.3 54.2 Land 47.8 51.3 Internal-use software 52.6 55.7 Construction in progress 17.6 5.5 Property and equipment, gross 479.0 534.9 Less: accumulated depreciation and amortization (333.7) (355.5) Property and equipment, net $ 145.3 $ 179.4
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

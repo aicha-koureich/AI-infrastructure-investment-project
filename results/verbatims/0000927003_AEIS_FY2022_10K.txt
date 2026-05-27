@@ -1,0 +1,20 @@
+FIRM         : AEIS (CIK 0000927003) | FY2022
+FILE         : 0000927003_AEIS_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF OPERATIONS AND SIGNIFICANT ACCOUNTING POLICIES AND ESTIMATES Advanced Energy Industries, Inc., a Delaware corporation, and its cons
+ASSET CAT.   : EQUIPMENT, machinery, Computer equipment, furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+PROPERTY AND EQUIPMENT, NET Property and equipment, net is comprised of the following: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Estimated Useful ​ December 31, ​ December 31, ​ Life (in years) 2022 2021 Buildings, machinery, and equipment ​ 5 to 25 ​ $ 165,673 ​ $ 134,635 Computer equipment, furniture, fixtures, and vehicles ​ 3 to 5 ​ 36,281 ​ 33,490 Leasehold improvements ​ 2 to 10 ​ 63,103 ​ 48,370 Construction in process ​ ​ ​ 18,226 ​ 5,914 ​ ​ ​ ​ 283,283 ​ 222,409 Less: Accumulated depreciation ​ ​ ​ (134,821) ​ (107,579) Property and equipment, net ​ ​ ​ $ 148,462 ​ $ 114,830 ​ 72
+
+[VERBATIM — Infrastructure IA]
+Our plasma power solutions enable innovation in complex semiconductor and thin film plasma processes such as dry etch and deposition. Our broad portfolio of high and low voltage power products are used in a wide range of applications, such as semiconductor equipment, industrial production, medical and life science equipment, data centers computing, networking, and telecommunications. We also supply related sensing, controls, and instrumentation products primarily for advanced measurement and calibration of power and temperature for multiple industrial markets. Our network of global service support centers provides repair services, calibration, conversions, upgrades, refurbishments, and used equipment to companies using our products.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Advanced Energy serves the Data Center Computing market with industry leading power conversion products and technologies, which we sell to OEMs and original design manufacturers (“ODMs”) of data center server and storage systems, as well as cloud service providers and their partners. Driven by the growing adoption of cloud computing, market demand for server and storage equipment has shifted from traditional enterprise on-premises computing to the data center, driving investments in data center infrastructure. Beyond the cloud, demand for edge computing is also growing, driven by the need for faster processing, lower latency, and higher data security at edge applications. In addition, the data center industry has begun transitioning from 12 Volt to 48 Volt infrastructure in data center server racks to improve overall power efficiency. Advanced Energy benefits from these trends by being an industry leader in providing high-efficiency 48 Volt server power solutions to the data center industry. Further, the rapid growth and adoption of artificial intelligence and machine learning are driving accelerated demand for server and storage racks with increased power density and higher efficiency, which complements Advanced Energy’s strengths. With a growing presence at both cloud service providers and industry-leading data center server and storage vendors, our strategy in the Data Center and Computing market is to penetrate selected customers and applications based on our differentiated capability and competitive strengths in power density, efficiency, and controls.

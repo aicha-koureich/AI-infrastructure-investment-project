@@ -1,0 +1,20 @@
+FIRM         : IRM (CIK 0001020569) | FY2017
+FILE         : 0001020569_IRM_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+On December 11, 2017, we entered into a purchase agreement to acquire IODC, a leading data center colocation space and solutions provider based in Phoenix, Arizona, including the land and buildings associated with four data centers in Phoenix and Scottsdale, Arizona; Edison, New Jersey; and Columbus, Ohio, for an aggregate cash purchase of the Initial IODC Consideration, plus up to $60.0 million of additional proceeds (including the IODC Contingent Consideration) and (ii) $35.0 million of contingent payments associated with the execution of future customer contracts), subject to certain adjustments as set forth in the purchase agreement for the IODC Transaction.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Global Data Center Business ||| Additionally, during the fourth quarter of 2017, we determined that our global data center business was now being managed as a separate reportable operating segment, rather than as a component of our Adjacent Businesses operating segment. We now present our Global Data Center Business operating segment as a separate reportable operating segment. ||| For the year ended December 31, 2017, reported revenue in our Global Data Center Business segment increased

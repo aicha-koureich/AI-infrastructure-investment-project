@@ -1,0 +1,22 @@
+FIRM         : TTD (CIK 0001671933) | FY2016
+FILE         : 0001671933_TTD_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+On an on-going basis, management evaluates its
+estimates, primarily those related to: (1) revenue recognition criteria, including the determination of revenue reporting as net versus gross in the Company’s revenue arrangements, (2) allowances for doubtful accounts, (3) the
+useful lives of property and equipment and capitalized software development costs, (4) income taxes, (5) the valuation of common and preferred stock for periods prior to the completion of the IPO, (6) assumptions used in the Black-Scholes option pricing model to determine the fair value of stock-based compensation and (7) the recognition and disclosure of contingent liabilities.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

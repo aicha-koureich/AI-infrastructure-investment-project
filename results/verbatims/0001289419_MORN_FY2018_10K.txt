@@ -1,0 +1,20 @@
+FIRM         : MORN (CIK 0001289419) | FY2018
+FILE         : 0001289419_MORN_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 5. Recognize revenue when (or as) performance obligations are satisfied.
+ASSET CAT.   : Capitalized software, equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31 (in millions) 2018 2017 Capitalized software $ 294.8 $ 239.2 Capitalized equipment 83.5 81.6 Furniture and fixtures 29.6 27.6 Leasehold improvements 77.3 72.5 Telephone equipment 2.1 2.3 Construction in progress 7.9 8.9 Property, equipment, and capitalized software, at cost 495.2 432.1 Less accumulated depreciation (351.7 ) (284.7 ) Property, equipment, and capitalized software, net $ 143.5 $ 147.4
+
+[VERBATIM — Infrastructure IA]
+, primarily for computer hardware and software provided by third parties, internally developed software, and leasehold improvements for new and existing office locations. We continue to adopt more public cloud and software as a service applications for new initiatives and are in the process of migrating relevant parts of our data center to the public cloud over the next several years. During this migration, we expect to run certain applications and infrastructure in parallel. These actions will have some transitional effects on our level of capital expenditures and operating expenses.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+associated with software development activities, mainly related to enhanced capabilities in our products, internal infrastructure, and software, including PitchBook, Morningstar Cloud Platform, and Morningstar Enterprise Components. In comparison, we capitalized $ ||| Customer's Accounting for Fees Paid in a Cloud Computing Arrangement ||| , which helps entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement (CCA) by providing guidance for determining when an arrangement includes a software license and when an arrangement is solely a hosted CCA service. Under the new standard, customers will apply the same criteria for capitalizing implementation costs as they would for an arrangement that has a software license. The new guidance also prescribes the balance sheet, income statement, and cash flow classification of the capitalized implementation costs and related amortization expense and requires additional quantitative and qualitative disclosures. The new standard is effective for us on January 1, 2020. Early adoption is permitted, including adoption in any interim period for which financial statements have not been issued. Entities can choose to adopt the new guidance prospectively to eligible costs incurred on or after the date this guidance is first applied or retrospectively. We are evaluating the effect that the new standard will have on our consolidated financial statements and related disclosures.

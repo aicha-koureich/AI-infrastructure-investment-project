@@ -1,0 +1,20 @@
+FIRM         : MRNA (CIK 0001682852) | FY2021
+FILE         : 0001682852_MRNA_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-25
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 9. Property and Equipment
+ASSET CAT.   : equipment, Furniture, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment, net as of December 31, 2021 and 2020 consisted of the following (in millions): December 31, 2021 2020 Laboratory equipment $ 175 $ 121 Leasehold improvements 313 180 Furniture, fixtures and other 11 5 Computer equipment and software 16 13 Internally developed software 9 7 Right-of-use asset, financing 857 56 Construction in progress 212 35 1,593 417 Less: Accumulated depreciation (352) (120) Property and equipment, net $ 1,241 $ 297
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

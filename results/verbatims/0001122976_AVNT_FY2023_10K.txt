@@ -1,0 +1,23 @@
+FIRM         : AVNT (CIK 0001122976) | FY2023
+FILE         : 0001122976_AVNT_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : machinery and equipment and up to 40 years for buildings
+DURÉE        : 40.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is carried at cost, net of depreciation and amortization that is computed using the straight-line method over the estimated useful lives of the assets, which generally ranges from three to 15 years for machinery and equipment and up to 40 years for buildings.
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment is carried at cost, net of depreciation and amortization that is computed using the straight-line method over the estimated useful lives of the assets, which generally ranges from three to 15 years for machinery and equipment and up to 40 years for buildings.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : OSK (CIK 0000775158) | FY2015
+FILE         : 0000775158_OSK_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+years for capitalized software and related costs. The Company capitalizes interest on borrowings during the active construction period of major capital projects. Capitalized interest is immaterial for all periods presented. All capitalized interest has been added to the cost of the underlying assets and is amortized over the useful lives of the assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

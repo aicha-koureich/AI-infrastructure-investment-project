@@ -1,0 +1,23 @@
+FIRM         : MTN (CIK 0000812011) | FY2024
+FILE         : 0000812011_MTN_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-10-24
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 8. Supplementary Balance Sheet Information
+ASSET CAT.   : Machinery and equipment, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+July 31, 2024 2023 Land and land improvements $ 804,287 $ 796,730 Buildings and building improvements 1,682,734 1,643,517 Machinery and equipment 1,984,549 1,792,378 Furniture and fixtures 316,510 298,725 Software 161,502 152,033 Vehicles 91,951 87,298 Construction in progress 116,872 134,113 Gross property, plant and equipment 5,158,405 4,904,794 Accumulated depreciation (2,735,770) (2,533,237) Property, plant and equipment, net $ 2,422,635 $ 2,371,557
+
+[VERBATIM — Changement de politique]
+Year Ended July 31, 2024 2023 2022 Net revenue: Mountain and Lodging services and other $ 2,388,227 $ 2,372,175 $ 2,116,547 Mountain and Lodging retail and dining 492,260 509,124 408,657 Resort net revenue 2,880,487 2,881,299 2,525,204 Real Estate 4,704 8,065 708 Total net revenue 2,885,191 2,889,364 2,525,912 Operating expense (exclusive of depreciation and amortization shown separately below): Mountain and Lodging operating expense 1,458,369 1,454,324 1,180,963 Mountain and Lodging retail and dining cost of products sold 188,054 203,278 162,414 General and administrative 410,027 389,465 347,493 Resort operating expense 2,056,450 2,047,067 1,690,870 Real Estate 9,514 10,635 5,911 Total segment operating expense 2,065,964 2,057,702 1,696,781 Other operating (expense) income: Depreciation and amortization (276,493) (268,501) (252,391) Gain on sale of real property 6,285 842 1,276 Change in estimated fair value of contingent consideration (Note 9) (47,957) (49,836) (20,280) (Loss) gain on disposal of fixed assets and other, net (9,633) (9,070) 43,992 Income from operations 491,429 505,097 601,728 Interest expense, net (161,839) (153,022) (148,183) Mountain equity investment income, net 1,053 605 2,580 Investment income and other, net 18,592 23,744 3,718 Foreign currency loss on intercompany loans (Note 6) (4,140) (2,907) (2,682) Income before provision for income taxes 345,095 373,517 457,161 Provision for income taxes (Note 10) (98,816) (88,414) (88,824) Net income 246,279 285,103 368,337 Net income attributable to noncontrolling interests (15,874) (16,955) (20,414) Net income attributable to Vail Resorts, Inc. $ 230,405 $ 268,148 $ 347,923 Per share amounts (Note 5): Basic net income per share attributable to Vail Resorts, Inc. $ 6.08 $ 6.76 $ 8.60 Diluted net income per share attributable to Vail Resorts, Inc. $ 6.07 $ 6.74 $ 8.55 Cash dividends declared per share $ 8.56 $ 7.94 $ 5.58
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : FMCC (CIK 0001026214) | FY2014
+FILE         : 0001026214_FMCC_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We continue to strengthen operational controls. During 2014, we improved our operational risk framework to focus on high risk activities and reduced our outstanding control issues to relatively low levels. Additionally, we improved our out-of-region disaster recovery capabilities. In 2014, our out-of-region data center became operational, which improved our ability to recover our business systems in the event of a catastrophic regional business event (e.g., a disaster that affects our Northern Virginia production data centers).  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

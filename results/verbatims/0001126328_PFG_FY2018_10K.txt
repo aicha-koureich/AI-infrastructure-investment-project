@@ -1,0 +1,23 @@
+FIRM         : PFG (CIK 0001126328) | FY2018
+FILE         : 0001126328_PFG_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 12. Contingencies, Guarantees and Indemnifications — (continued)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We lease buildings and hardware storage equipment under capital leases. As of December 31, 2018 and 2017, these leases had a gross asset
+balance of $67.9 million and $60.8 million and accumulated depreciation of $35.3 million and $32.8 million, respectively. Depreciation expense for the years ended
+December 31, 2018, 2017 and 2016 was $12.9 million, $13.4 million and $14.8 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Implementation costs in a cloud computing arrangement that is a service contract This authoritative guidance aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain
+internal-use software. This guidance can be applied either retrospectively or prospectively and early adoption is permitted. ||| Implementation costs in a cloud computing arrangement that is a service contract

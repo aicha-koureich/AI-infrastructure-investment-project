@@ -1,0 +1,20 @@
+FIRM         : FNMA (CIK 0000310522) | FY2016
+FILE         : 0000310522_FNMA_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+, facilities, technology and personnel) in the event of a business interruption. Our program includes corporate governance, awareness and training, as well as strategic and tactical initiatives aimed to ensure that risks are properly identified, assessed and managed. Our enterprise resiliency program aligns to the Federal Emergency Management Agency’s emergency management lifecycle, as well as other industry standards from the International Organization for Standardization, ASIS International and the National Fire Protection Association. This program has evolved based on the changing needs of our business, the evolving internal and external technical environment, and FHFA regulatory guidance. We have established comprehensive tracking and reporting of resiliency plans in order to proactively anticipate and manage various potential disruptive circumstances, such as severe weather and flooding, technology and communications outages, cyber incidents, mass transit shutdowns and terrorist threats, among others. The resiliency measures we have deployed include backup infrastructure for data centers, dedicated recovery facilities, providing technological capabilities to support remote work capacity for displaced staff and accommodation of employees at alternate locations. Our program includes out-of-region data center capabilities for disaster recovery, as well as local resilience for recovery of individual applications.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : MKC (CIK 0000063754) | FY2022
+FILE         : 0000063754_MKC_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : November 30, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 17. SUPPLEMENTAL FINANCIAL STATEMENT DATA
+ASSET CAT.   : equipment, Machinery
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-13.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+At November 30 (millions) 2022 2021 Trade accounts receivable allowance for doubtful accounts $ 7.3 $ 5.2 Inventories Finished products $ 649.0 $ 556.2 Raw materials and work-in-process 691.1 626.1 $ 1,340.1 $ 1,182.3 Prepaid expenses $ 61.7 $ 41.7 Other current assets 77.2 70.6 $ 138.9 $ 112.3 Property, plant and equipment Land and improvements $ 90.1 $ 95.1 Buildings (including finance leases) 738.8 694.7 Machinery, equipment and other 1,265.4 1,200.5 Construction-in-progress 238.7 211.9 Accumulated depreciation (1,135.0) (1,061.9) $ 1,198.0 $ 1,140.3 Other long-term assets Investments in affiliates $ 167.9 $ 164.0 Long-term investments 115.1 137.3 Right of use asset 218.9 136.8 Software, net of accumulated amortization of $251.6 for 2022 and $248.5 for 2021 160.6 141.1 Pension asset 123.5 61.6 Other 153.4 140.6 $ 939.4 $ 781.4 Other accrued liabilities Payroll and employee benefits $ 141.9 $ 229.4 Sales allowances 181.0 189.3 Dividends payable 104.6 99.0 Other 326.6 332.5 $ 754.1 $ 850.2 Other long-term liabilities Pension $ 92.0 $ 179.4 Postretirement benefits 47.6 60.8 Operating lease liability 176.1 106.1 Unrecognized tax benefits 29.6 31.0 Other 139.4 113.6 $ 484.7 $ 490.9
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

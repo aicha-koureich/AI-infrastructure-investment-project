@@ -1,0 +1,20 @@
+FIRM         : SMCI (CIK 0001375365) | FY2016
+FILE         : 0001375365_SMCI_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 16. Prior Period Adjustment Recorded in Current Period
+ASSET CAT.   : Machinery and equipment, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Intel_Xeon;NVIDIA (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+June 30, 2016 2015 Land (1) $ 70,454 $ 63,962 Buildings (1) 71,665 51,959 Building and leasehold improvements (1) 10,941 8,323 Buildings construction in progress (1) 15,803 25,572 Machinery and equipment 53,282 40,689 Furniture and fixtures 10,364 7,421 Purchased software (2) 13,920 3,343 Purchased software construction in progress (2) 532 8,567 246,961 209,836 Accumulated depreciation and amortization (59,012 ) (46,798 ) Property, plant and equipment, net $ 187,949 $ 163,038
+
+[VERBATIM — Infrastructure IA]
+We are a global leader in high performance, high efficiency server technology and innovation. We develop and provide end-to-end green computing solutions to the cloud computing, data center, enterprise IT, big data, HPC and IoT/embedded markets. Our solutions range from complete server, storage, blade and workstations to full racks, networking devices, server management software and technology support and services. For fiscal years  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+We are a global leader in high performance, high efficiency server technology and innovation. We develop and provide end-to-end green computing solutions to the cloud computing, data center, enterprise IT, big data, HPC and IoT/embedded markets. Our solutions range from complete server, storage, blade and workstations to full racks, networking devices, server management software and technology support and services. For fiscal years ||| was primarily due to continued increased sales of our products optimized for OEM, internet data center cloud computing and enterprise verticals. The year-over-year growth in net sales of our server systems in fiscal year ||| The increase in our net sales in fiscal year 2015 compared with fiscal year 2014 was primarily due to continued increased sales of our products optimized for OEM, internet data center cloud computing and enterprise verticals. The year-over-year growth in net sales of our server systems in fiscal year 2015 was due primarily to an increase in the average selling price of our server systems and to a lesser extent an increase in unit volumes of server systems. The average selling prices of our server systems increased primarily due to an increase in average selling prices of our complete server systems which offer higher density computing and more memory and hard disk drive capacity. The increase in the sales of these complete systems include our storage servers and our Twin family of servers and to a lesser extent our GPU/Xeon Phi servers. Net sales also increased as a result of an increase in customers purchasing our software and service together with our complete systems as total solution packages.

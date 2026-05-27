@@ -1,0 +1,28 @@
+FIRM         : NEM (CIK 0001164727) | FY2013
+FILE         : 0001164727_NEM_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Expenditures for new facilities or equipment and expenditures that
+extend the useful lives of existing facilities or equipment are capitalized and recorded at cost. The facilities and equipment are amortized using the straight-line method at rates sufficient to amortize such costs over the estimated productive
+lives of such facilities.
+
+[VERBATIM — Changement de politique]
+Beginning in 2013, the Company grants strategic stock units (“SSUs”) to eligible
+executives, based upon certain measures of adjusted earnings before income tax, depreciation and amortization (“Adjusted EBITDA”), based on a targeted number of shares at the beginning of each performance period. At the end of the
+performance period, one third of the SSUs are issued without restriction in the form of common stock, and two-thirds of the bonus is paid in restricted stock units that vest in equal annual increments at the second and third anniversaries of the
+start of the performance period. In
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

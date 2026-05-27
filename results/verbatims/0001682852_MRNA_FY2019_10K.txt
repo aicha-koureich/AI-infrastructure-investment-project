@@ -1,0 +1,23 @@
+FIRM         : MRNA (CIK 0001682852) | FY2019
+FILE         : 0001682852_MRNA_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 16. Subsequent Event
+ASSET CAT.   : equipment, Furniture, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2019 2018 Building (1) $ — $ 140,442 Laboratory equipment 108,257 96,907 Leasehold improvements (1) 152,426 13,741 Furniture, fixtures and other 3,316 2,122 Computer equipment and software 11,985 11,513 Internally developed software 7,020 7,020 Right-of-use asset, financing 9,853 — Construction in progress 3,222 4,688 296,079 276,433 Less: Accumulated depreciation (94,584 ) (64,456 ) Property and equipment, net $ 201,495 $ 211,977
+
+[VERBATIM — Changement de politique]
+capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). This standard should be applied either retrospectively or prospectively, and will be effective for us on January 2020. We will adopt this standard in the first quarter of 2020 using the prospective adoption method. The adoption of this standard is not expected to have a material impact on our consolidated financial statements and disclosure.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles—Goodwill and Other—Internal-Use Software (Topic 350): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. ||| In August 2018, the FASB issued ASU 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Topic 350): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. This standard requires

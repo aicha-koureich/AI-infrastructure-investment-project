@@ -1,0 +1,23 @@
+FIRM         : LAMR (CIK 0001090425) | FY2020
+FILE         : 0001090425_LAMR_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+As of December 31, 2019, we finalized our fair value allocation of the assets acquired and liabilities assumed from Fairway on December 21, 2018. Our updated fair value allocation of Fairway during 2019 includes property, plant and equipment, intangibles and goodwill of $96,840, $188,400 and $145,534, respectively. During the period ended December 31, 2019, goodwill was adjusted $36,583 due to updates from the original preliminary purchase price allocation provided as of December 31, 2018. The updated allocation resulted in prior and current period changes to depreciation and amortization. These changes were considered immaterial and recorded during the year ended December 31, 2019. During the year ended December 31, 2019, assets purchased from Fairway, which were initially placed into our taxable REIT subsidiary, were transferred to our qualifying REIT subsidiary. As a result, the Company recorded an income tax benefit of $17,031 in deferred tax liabilities assumed from our purchase.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : IDCC (CIK 0001405495) | FY2018
+FILE         : 0001405495_IDCC_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 12. LITIGATION AND LEGAL PROCEEDINGS
+ASSET CAT.   : Computer equipment, equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2018 2017 Computer equipment and software $ 20,876 $ 20,003 Engineering and test equipment 4,168 4,034 Building and improvements 3,711 3,624 Leasehold improvements 11,364 9,711 Furniture and fixtures 1,549 1,279 Property and equipment, gross 41,668 38,651 Less: accumulated depreciation (31,617 ) (27,978 ) Property and equipment, net $ 10,051 $ 10,673
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Accounting Standards Update: Cloud Computing Arrangements ||| Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract ||| In August 2018, the FASB issued ASU No. 2018-15 “ Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract ”. The amendments in this ASU align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The guidance is effective for fiscal years beginning after December 15, 2019, including interim periods within those fiscal years, and early adoption is permitted. We are in the process of determining the effect the adoption will have on our consolidated financial statements.

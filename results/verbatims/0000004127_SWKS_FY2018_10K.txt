@@ -1,0 +1,23 @@
+FIRM         : SWKS (CIK 0000004127) | FY2018
+FILE         : 0000004127_SWKS_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are carried at cost less accumulated depreciation, with significant renewals and betterments being capitalized and retired equipment written off in the respective periods.
+
+[VERBATIM — Changement de politique]
+In June 2016, the FASB issued ASU 2016-13, Measurement of Credit Losses on Financial Instruments (Topic 320), (“ASU 2016-13”). This ASU requires a financial asset (or a group of financial assets) measured on the basis of amortized cost to be presented at the net amount expected to be collected. This ASU requires that the income statement reflect the measurement of credit losses for newly recognized financial assets as well as the expected increases or decreases of expected credit losses that have taken place during the period. This ASU requires that credit losses of debt securities designated as available-for-sale be recorded through an allowance for credit losses. The ASU also limits the credit loss to the amount by which fair value is below amortized cost. This ASU will be effective for the Company in the first quarter of 2021, with early adoption permitted. This ASU requires modified retrospective adoption, with prospective adoption for debt securities for which an other-than-temporary impairment had been recognized before the effective date. The Company is currently evaluating the effect ASU 2016-13 will have on the consolidated financial statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

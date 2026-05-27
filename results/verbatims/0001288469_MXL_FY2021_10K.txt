@@ -1,0 +1,20 @@
+FIRM         : MXL (CIK 0001288469) | FY2021
+FILE         : 0001288469_MXL_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We are a provider of communications systems-on-chip solutions used in broadband, mobile and wireline infrastructure, data center, and industrial and multi-market applications. We are a fabless integrated circuit design company whose products integrate all or substantial portions of a high-speed communication system, including radio frequency (RF), high-performance analog, mixed-signal, digital signal processing, security engines, data compression and networking layers, and power management. In most cases, these products are designed on a single silicon-die, using standard digital complementary metal oxide semiconductor (CMOS) processes and conventional packaging technologies. We believe this approach enables our  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

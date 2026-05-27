@@ -1,0 +1,21 @@
+FIRM         : SABR (CIK 0001597033) | FY2018
+FILE         : 0001597033_SABR_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 16. Segment Information
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization of property and equipment includes software developed for internal use.
+
+[VERBATIM — Infrastructure IA]
+We maintain and make enhancements to our products, services, technologies and systems in response to technological developments, industry standards and trends and customer demands. We deploy resources in research and development in order to help maintain a competitive advantage and deliver innovation to the marketplace. Software developed for internal use includes costs incurred to enhance our infrastructure, software applications and reservation systems. Additionally, we rely on other third-party providers, including DXC, Amazon Web Services, Inc. ("AWS"), and Microsoft Corporation, to operate computer data centers and network systems and provide hosting services. The aggregation of these costs represents our total technology expenditures of  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+We maintain and make enhancements to our products, services, technologies and systems in response to technological developments, industry standards and trends and customer demands. We deploy resources in research and development in order to help maintain a competitive advantage and deliver innovation to the marketplace. Software developed for internal use includes costs incurred to enhance our infrastructure, software applications and reservation systems. Additionally, we rely on other third-party providers, including DXC, Amazon Web Services, Inc. ("AWS"), and Microsoft Corporation, to operate computer data centers and network systems and provide hosting services. The aggregation of these costs represents our total technology expenditures of

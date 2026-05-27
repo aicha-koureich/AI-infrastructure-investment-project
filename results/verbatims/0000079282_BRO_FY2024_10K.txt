@@ -1,0 +1,23 @@
+FIRM         : BRO (CIK 0000079282) | FY2024
+FILE         : 0000079282_BRO_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-22
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 6 Fi xed Assets Fixed assets at December 31 consisted of the following: (in millions) 2024 2023 Furniture, fixtures, equipment and software $ 382
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+NOTE 6 Fi xed Assets Fixed assets at December 31 consisted of the following: (in millions) 2024 2023 Furniture, fixtures, equipment and software $ 382 $ 345 Leasehold improvements 73 62 Land, buildings and improvements 136 117 Total cost 591 524 Less accumulated depreciation and amortization ( 272 ) ( 254 ) Total $ 319 $ 270 Depreciation expense for fixed assets amounted to $ 44 million in 2024, $ 40 million in 2023 and $ 39 million in 2022 .
+
+[VERBATIM — Changement de politique]
+The Company's chief operating decision maker ("CODM"), the president and chief executive officer, regularly receives total revenue, income before income taxes and earnings before interest, income taxes, depreciation, amortization and change in estimated acquisition earn-out payables ("EBITDAC"). The metrics are used to review operating trends, to perform analytical comparisons between periods and to monitor budget to actual variances. The Company's CODM does not use segment assets to make resource allocation decisions, therefore it has not been presented.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

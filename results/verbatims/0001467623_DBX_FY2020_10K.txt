@@ -1,0 +1,24 @@
+FIRM         : DBX (CIK 0001467623) | FY2020
+FILE         : 0001467623_DBX_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of the Business and Summary of Significant Accounting Policies
+ASSET CAT.   : servers, equipment, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+These costs, which are referred to as infrastructure costs, include depreciation of servers located in co-location facilities that the Company leases and operates, rent and facilities expense for those datacenters, network and bandwidth costs, support and maintenance costs for infrastructure equipment, and payments to third-party datacenter service providers. Other non-employee costs included in cost of revenue include credit card fees related to processing customer transactions and allocated overhead, such as facilities, including rent, utilities, depreciation on leasehold improvements and other equipment shared by all departments, and shared information technology costs.
+
+[VERBATIM — Changement de politique]
+Acquired property and equipment and finite-lived intangible assets are amortized over their useful lives.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. The amendments in ASU No. 2018-15 amend the definition of a hosting arrangement and requires a customer in a hosting arrangement that is a service contract to capitalize certain costs as if the arrangement were an internal-use software project. The Company adopted ASU No. 2018-15 on January 1, 2020. The adoption of the standard did not have a material impact on the Company's consolidated financial statements. ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.

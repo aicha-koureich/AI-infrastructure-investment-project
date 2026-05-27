@@ -1,0 +1,20 @@
+FIRM         : TREX (CIK 0001069878) | FY2019
+FILE         : 0001069878_TREX_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, “Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of FASB Emerging Issues Task Force)”. The new guidance aligns the requirements for capitalizing implementation costs in a cloud computing arrangement service contract with the requirements for capitalizing implementation costs incurred for an internal-use software license. Under that model, implementation costs are capitalized or expensed depending on the nature of the costs and the project stage during which they are incurred. Capitalized implementation costs are amortized over the term of the associated hosted cloud computing arrangement service contract on a straight-line basis, unless another systematic and rational basis is more representative of the pattern in which the entity expects to benefit from its right to access the hosted software. Capitalized implementation costs would then be assessed for impairment in a manner similar to long-lived assets. The new guidance is effective for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years. Early adoption is permitted. Entities can choose to adopt the new guidance either prospectively to eligible costs incurred on or after the date the guidance is first applied or retrospectively. The Company will adopt the guidance on January 1, 2020, and has determined that adoption will not have a material impact on its financial condition or results of operations.

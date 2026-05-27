@@ -1,0 +1,24 @@
+FIRM         : HLT (CIK 0001585689) | FY2020
+FILE         : 0001585689_HLT_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2: Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-8.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost. Costs of improvements that extend the economic life or improve service potential are also capitalized. Capitalized costs are depreciated over their estimated useful lives. Costs for normal repairs and maintenance are expensed as incurred. Refer to "Leases" below for information on right-of-use ("ROU") assets of finance leases, which are included in property and equipment, net in our consolidated balance sheets.
+
+[VERBATIM — Changement de politique]
+• Performance shares are settled at the end of the defined performance period, and the grant date fair value per share is equal to the closing stock price on the date of grant. During the year ended December 31, 2020, the terms of all outstanding performance shares were modified such that participants would receive the greater of the payout under the original award or the modified award, with the exception of certain executives who will receive the number of shares achieved under the modified award, based on the fact that the performance conditions applicable to the original awards were no longer expected to be achieved due to the significant and unforeseen challenges related to the COVID-19 pandemic. Under the terms of the original awards: (i) 50 percent of the awards are subject to achievement based on the three-year compound annual growth rate ("CAGR") of the Company's earnings before interest expense, a provision for income tax benefit (expense) and depreciation and amortization ("EBITDA"), adjusted to exclude certain items ("Adjusted EBITDA"), referred to as EBITDA CAGR, and (ii) 50 percent of the awards are subject to achievement based on the Company’s three-year free cash flow ("FCF") per share CAGR, referred to as FCF CAGR. Under the terms of the modified awards, the outstanding 2018 awards and a portion of the outstanding 2019 awards were modified to vest based on performance prior to the pandemic and continued service, and the remaining portion of the outstanding 2019 awards and the outstanding 2020 awards were converted to performance awards that will vest based
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

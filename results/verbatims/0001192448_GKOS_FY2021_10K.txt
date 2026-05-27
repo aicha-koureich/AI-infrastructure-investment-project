@@ -1,0 +1,20 @@
+FIRM         : GKOS (CIK 0001192448) | FY2021
+FILE         : 0001192448_GKOS_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3.
+ASSET CAT.   : Equipment, Furniture and fixtures, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Table of Contents Accounts Receivable, Net Accounts receivable consisted of the following (in thousands): ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ December 31, ​ ​ 2021 2020 ​ ​ ​ ​ ​ ​ ​ ​ Accounts receivable $ 34,805 ​ $ 37,729 ​ Allowance for credit losses ​ (1,367) ​ (1,670) ​ ​ $ 33,438 ​ $ 36,059 ​ ​ Inventory Inventory consisted of the following (in thousands): ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ December 31, ​ ​ 2021 2020 ​ ​ ​ ​ ​ ​ ​ ​ Finished goods $ 6,495 ​ $ 5,346 ​ Work in process ​ ​ 7,010 ​ 3,584 ​ Raw material ​ ​ 9,506 ​ 6,879 ​ ​ $ 23,011 ​ $ 15,809 ​ ​ Property and Equipment, Net Property and equipment consisted of the following (in thousands): ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ December 31, ​ ​ ​ 2021 ​ 2020 ​ ​ ​ ​ ​ ​ ​ ​ Buildings $ 874 ​ $ 874 ​ Equipment ​ ​ 19,280 ​ ​ 15,737 ​ Furniture and fixtures ​ ​ 1,706 ​ 1,820 ​ Leasehold improvements ​ ​ 6,152 ​ 5,851 ​ Computer equipment and software ​ ​ 3,333 ​ ​ 2,754 ​ Land ​ ​ 7,068 ​ ​ 7,068 ​ Construction in progress ​ ​ 51,208 ​ 5,825 ​ ​ ​ ​ 89,621 ​ 39,929 ​ Less accumulated depreciation and amortization ​ (20,652) ​ (15,921) ​ ​ $ 68,969 ​ $ 24,008 ​ ​ Depreciation and amortization expense related to property and equipment was $4.8 million, $6.1 million and $3.7 million for the years ended December 31, 2021, December 31, 2020 and December 31, 2019, respectively. 71
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : TDY (CIK 0001094285) | FY2020
+FILE         : 0001094285_TDY_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-26
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Design and test engineers use our protocol analysis solutions to monitor accurately and reliably high data-rate communication interfaces and diagnose operational problems in a wide range of systems and devices to ensure that they comply with industry standards, including the area of cloud computing and networks. Our product lines, along with our leadership in USB technology, provide a unique base to service the mobile, internet of things, automotive and consumer electronics test market. Our most recent acquisition of OakGate Technology, Inc. (“OakGate”) during 2020 provides protocol validation and test tools for disk drives, both spinning and solid state, and servers used for cloud-based storage.

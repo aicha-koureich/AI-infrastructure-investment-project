@@ -1,0 +1,23 @@
+FIRM         : RDNT (CIK 0000790526) | FY2020
+FILE         : 0000790526_RDNT_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-10-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+SOFTWARE DEVELOPMENT COSTS – When we develop our own software and artificial intelligence solutions we capitalize and amortize those costs over their useful life.
+
+[VERBATIM — Changement de politique]
+We define Adjusted EBITDA as earnings before interest, taxes, depreciation and amortization, as adjusted to exclude losses or gains on the disposal of equipment, other income or loss, loss on debt extinguishment, bargain purchase gains, loss on de-consolidation of joint ventures and non-cash equity compensation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15 (“ASU 2018-15”), Intangibles-Goodwill and Other-Internal-Use Software. ASU 2018-15 aligns the requirements for deferring implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. This ASU was effective in the first quarter of 2020 with early adoption permitted and can be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. The adoption of this standard did not have a material impact on our consolidated balance sheet. ||| ASU 2018-15 aligns the requirements for deferring implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. This ASU was effective in the first quarter of 2020 with early adoption permitted and can be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. The adoption of this standard did not have a material impact on our consolidated balance sheet.

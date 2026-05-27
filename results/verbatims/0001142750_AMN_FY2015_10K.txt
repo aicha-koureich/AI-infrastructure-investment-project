@@ -1,0 +1,20 @@
+FIRM         : AMN (CIK 0001142750) | FY2015
+FILE         : 0001142750_AMN_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : furniture, equipment, technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company records furniture, equipment, leasehold improvements and internal-use software at cost less accumulated amortization and depreciation. The Company calculates depreciation on furniture, equipment and technology and software using the straight-line method based on the estimated useful lives of the related assets (
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued Accounting Standard Update (“ASU”) 2015-05, “Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement.” This standard provides guidance about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the software license element of the arrangement should be accounted for by the ||| customer consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. ASU 2015-05 is effective for fiscal years beginning after December 15, 2015, and interim periods within those years. This standard can be adopted either prospectively to all arrangements entered into or materially modified after the effective date or retrospectively. We are currently evaluating the effect that adopting this new standard will have on our financial statements and related disclosures.

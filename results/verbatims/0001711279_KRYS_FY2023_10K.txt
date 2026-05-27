@@ -1,0 +1,24 @@
+FIRM         : KRYS (CIK 0001711279) | FY2023
+FILE         : 0001711279_KRYS_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Computer equipment and software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Buildings and building improvements 7 - 47 years Computer equipment and software 3 - 7 years Manufacturing equipment 3 - 20 years Laboratory equipment 3 - 15 years Furniture and fixtures 3 - 7 years Leasehold improvements lesser of remaining useful life or remaining life of lease
+
+[VERBATIM — Changement de politique]
+The Company reviews the estimated useful lives of its property and equipment on a continuing basis.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

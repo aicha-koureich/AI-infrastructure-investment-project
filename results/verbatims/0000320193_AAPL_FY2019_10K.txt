@@ -1,0 +1,21 @@
+FIRM         : AAPL (CIK 0000320193) | FY2019
+FILE         : 0000320193_AAPL_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 28, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : machinery and equipment, including product tooling and manufacturing process equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation on property, plant and equipment is recognized on a straight-line basis over the estimated useful lives of the assets, which for buildings is the lesser of 30 years or the remaining life of the underlying building; between one and five years for machinery and equipment, including product tooling and manufacturing process equipment; and the shorter of lease term or useful life for leasehold improvements. Capitalized costs related to internal-use software are amortized on a straight-line basis over the estimated useful lives of the assets, which range from three to five years . Depreciation and amortization expense on property and equipment was $11.3 billion , $9.3 billion and $8.2 billion during 2019 , 2018 and 2017 , respectively.
+
+[VERBATIM — Infrastructure IA]
+The Company’s capital expenditures were $7.6 billion during 2019 , which included product tooling and manufacturing process equipment; data centers; corporate facilities and infrastructure, including information systems hardware, software and enhancements; and retail store facilities.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

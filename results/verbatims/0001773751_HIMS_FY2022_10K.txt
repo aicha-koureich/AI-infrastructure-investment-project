@@ -1,0 +1,20 @@
+FIRM         : HIMS (CIK 0001773751) | FY2022
+FILE         : 0001773751_HIMS_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, furniture
+DURÉE        : 2.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost, less accumulated depreciation and amortization. Property and equipment are depreciated or amortized using the straight-line method over the estimated useful lives ranging from two to five years and consist primarily of facility equipment, computers, equipment, furniture, and fixtures.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

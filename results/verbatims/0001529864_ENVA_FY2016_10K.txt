@@ -1,0 +1,20 @@
+FIRM         : ENVA (CIK 0001529864) | FY2016
+FILE         : 0001529864_ENVA_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies Basis of Presentation
+ASSET CAT.   : computer software, equipment, capitalized software
+DURÉE        : 2.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+When a software application is placed in service, the Company begins amortizing the related capitalized software costs using the straight-line method based on its estimated useful life, which currently ranges from two to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU 2015‑05, Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement (“ASU 2015-05”), which amends Accounting Standards Codification (“ASC”) 350‑40, Internal-Use Software , by providing customers with guidance on determining whether a cloud computing arrangement contains a software license that should be accounted for as internal-use software. The Company adopted ASU 2015-05 on January 1, 2016. The adoption of ASU 2015-05 did not materially affect the Company’s financial position or results of operations. ||| Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement

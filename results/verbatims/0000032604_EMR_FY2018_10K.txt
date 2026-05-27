@@ -1,0 +1,23 @@
+FIRM         : EMR (CIK 0000032604) | FY2018
+FILE         : 0000032604_EMR_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Years ended September 30 (Dollars in millions) 2016 2017 2018 Operating activities Net earnings $ 1,664 1,550 2,224 (Earnings) Loss from discontinued operations, net of tax (45 ) 125 — Adjustments to reconcile net earnings to net cash provided by operating activities: Depreciation and amortization 568 636 758 Changes in operating working capital 93 160 (83 ) Pension funding (66 ) (45 ) (61 ) Other, net 285 264 54 Cash from continuing operations 2,499 2,690 2,892 Cash from discontinued operations 382 (778 ) — Cash provided by operating activities 2,881 1,912 2,892 Investing activities Capital expenditures (447 ) (476 ) (617 ) Purchases of businesses, net of cash and equivalents acquired (132 ) (2,990 ) (2,203 ) Divestitures of businesses — 39 201 Other, net 30 (106 ) (101 ) Cash from continuing operations (549 ) (3,533 ) (2,720 ) Cash from discontinued operations (77 ) 5,047 — Cash provided by (used in) investing activities (626 ) 1,514 (2,720 ) Financing activities Net increase (decrease) in short-term borrowings (34 ) (1,635 ) 343 Proceeds from short-term borrowings greater than three months 1,264 — — Payments of short-term borrowings greater than three months (1,174 ) (90 ) — Payments of long-term debt (254 ) (254 ) (241 ) Dividends paid (1,227 ) (1,239 ) (1,229 ) Purchases of common stock (601 ) (400 ) (1,000 ) Other, net (19 ) 27 35 Cash used in financing activities (2,045 ) (3,591 ) (2,092 ) Effect of exchange rate changes on cash and equivalents (82 ) 45 (49 ) Increase (Decrease) in cash and equivalents 128 (120 ) (1,969 ) Beginning cash and equivalents 3,054 3,182 3,062 Ending cash and equivalents $ 3,182 3,062 1,093 Changes in operating working capital Receivables $ 162 (25 ) (189 ) Inventories 58 32 17 Other current assets (4 ) (12 ) (28 ) Accounts payable (22 ) 135 115 Accrued expenses (57 ) 74 17 Income taxes (44 ) (44 ) (15 ) Total changes in operating working capital $ 93 160 (83 )
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : ENOV (CIK 0001420800) | FY2016
+FILE         : 0001420800_ENOV_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 17. Selected Quarterly Data—(unaudited)
+ASSET CAT.   : Machinery and equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, Depreciable Life 2016 2015 (In years) (In thousands) Land n/a $ 42,779 $ 44,746 Buildings and improvements 5-40 323,279 327,122 Machinery and equipment 3-15 540,617 546,052 Software 3-5 95,928 95,556 1,002,603 1,013,476 Accumulated depreciation (398,389 ) (368,940 ) Property, plant and equipment, net $ 604,214 $ 644,536
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

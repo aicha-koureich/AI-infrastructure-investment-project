@@ -1,0 +1,20 @@
+FIRM         : NXPI (CIK 0001413447) | FY2019
+FILE         : 0001413447_NXPI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5 - Supplemental Financial Information
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2019 2018 2017 Depreciation of property, plant and equipment 518 478 611 Amortization of internal use software 8 8 21 Amortization of other identified intangible assets (*) 1,521 1,501 1,541 2,047 1,987 2,173
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. ASU 2018-15 requires a customer in a hosting arrangement that is a service contract to follow the guidance in Subtopic 350-40 to determine which implementation costs to capitalize as an asset related to the service contract and which costs to expense. Therefore, a customer in a hosting arrangement that is a service contract determines which project stage an implementation activity relates to. Costs for implementation activities in the application development stage are capitalized depending on the nature of the costs, while costs incurred during the preliminary project and post-implementation stages are expensed as the activities are performed. ASU 2018-15 also requires the customer to expense the capitalized implementation costs over the term of the hosting arrangement, and to apply the existing impairment guidance in Subtopic 350-40 to the capitalized implementation costs as if the costs were long-lived assets. ASU 2018-15 can be applied either retrospectively or prospectively and is effective for annual reporting periods beginning after December 15, 2019, and interim periods therein, with early adoption permitted. The Company does not expect the adoption of this guidance to have a material impact on our financial position or results of operations.

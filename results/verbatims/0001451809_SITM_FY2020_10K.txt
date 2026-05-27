@@ -1,0 +1,20 @@
+FIRM         : SITM (CIK 0001451809) | FY2020
+FILE         : 0001451809_SITM_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. The Company and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Cost of revenue also includes depreciation of production equipment, inventory write-downs, amortization of internally developed software, shipping and handling costs, and allocation of overhead and facility costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract , which aligns the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use-software. The standard is effective for public companies for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019. Early adoption is permitted. The adoption of this standard on January 1, 2020 did not have any impact on the Company's consolidated financial position, results of operations and cash flows. ||| Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

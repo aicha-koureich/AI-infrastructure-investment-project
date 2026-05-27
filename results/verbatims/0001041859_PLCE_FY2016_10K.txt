@@ -1,0 +1,20 @@
+FIRM         : PLCE (CIK 0001041859) | FY2016
+FILE         : 0001041859_PLCE_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued guidance relating to accounting for fees paid in connection with cloud-based software arrangements. This guidance provides clarification on whether a cloud computing arrangement includes a software license. If a software license is included, the customer should account for the license consistent with its accounting for other software licenses. If a software license is not included, the arrangement should be accounted for as a service contract. The adoption of this guidance did not have a material effect on the Company's financial position, results of operations, or cash flows.

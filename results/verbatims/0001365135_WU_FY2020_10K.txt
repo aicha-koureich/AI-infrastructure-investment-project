@@ -1,0 +1,21 @@
+FIRM         : WU (CIK 0001365135) | FY2020
+FILE         : 0001365135_WU_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : information technology, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Expenses within these functions include personnel, software, equipment, telecommunications, bank fees, credit losses, depreciation, amortization, and other expenses incurred in connection with providing money transfer and other payment services.
+
+[VERBATIM — Infrastructure IA]
+In the first quarter of 2020, the Company changed its expense allocation method so that its corporate data center and network engineering information technology expenses are allocated based on a percentage of relative revenue. In 2019, these costs had been allocated based in part on a percentage of relative transactions. The Company believes that an allocation method based fully on relative revenue presents a more representative view of segment profitability, as certain of the Company’s services, particularly some of its bill payment services and its money order services, have much lower revenues per transaction than the Company’s other services. Further, these technology expenses are becoming increasingly based on data storage utilized and less based on the number of transactions processed. For the year ended December 31, 2019, this change would have decreased Consumer-to-Consumer operating income and increased Other operating income by $49.6 million. Business Solutions was not materially impacted by the change in the allocation method.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

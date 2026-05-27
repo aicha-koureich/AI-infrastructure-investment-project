@@ -1,0 +1,30 @@
+FIRM         : VZ (CIK 0000732712) | FY2016
+FILE         : 0000732712_VZ_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Wireline’s voice, data and video communications products and enhanced services include broadband video and data, corporate networking solutions, data center
+and cloud services, security and managed network services and local and long distance voice services. We provide these products and services to consumers in the United States, as well as to carriers, businesses and government customers both in the
+United States and around the world.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Wireline’s voice, data and video communications products and enhanced services include broadband video and data, corporate networking solutions, data center
+and cloud services, security and managed network services and local and long distance voice services. We provide these products and services to consumers in the United States, as well as to carriers, businesses and government customers both in the
+United States and around the world. ||| We have the largest fourth-generation (4G) Long-Term Evolution (LTE)
+technology and third-generation (3G) Evolution - Data Optimized (EV-DO) networks of any U.S. wireless service provider. Our 4G LTE network is available to over 98% of the U.S. population in more than 500
+markets covering approximately 314 million people, including those in areas served by our LTE in Rural America partners. Under this program, we are working with wireless carriers in rural areas to collaboratively build and operate a 4G LTE
+network using each carrier’s network assets and our core 4G LTE equipment and 700 MHz C Block and Advanced Wireless Services (AWS) spectrum. ||| We design and deploy our network in an efficient manner that we believe maximizes the number of successful data sessions, including video, permitting the completion of large file downloads and uploads
+while delivering on our advertised throughput speeds, and maximizes the number of calls that are connected on the first attempt and completed without being dropped. We plan to continue to upgrade our network, primarily to increase its capacity
+and density, by utilizing small cell technology, in-building solutions and distributed antennae systems in addition to deploying existing AWS spectrum. We are also exploring strategic opportunities to increase
+our network capacity and efficiency through selective acquisitions of spectrum licenses.

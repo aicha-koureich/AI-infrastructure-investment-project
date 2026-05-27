@@ -1,0 +1,20 @@
+FIRM         : DHX (CIK 0001393883) | FY2013
+FILE         : 0001393883_DHX_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, furniture and fixtures, computer software
+DURÉE        : 2.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of equipment, furniture and fixtures, computer software and capitalized website development costs are provided under the straight-line method over estimated useful lives ranging from two to five years.
+
+[VERBATIM — Infrastructure IA]
+Depreciation expense for the year ended December 31, 2012 was $5.7 million compared to $4.7 million for the same period of 2011, an increase of $918,000 or 19.4%. The increase was primarily related to increased depreciation on assets purchased for a data center conversion that occurred in the third quarter of 2011, as well as the addition of Slashdot Media assets and related depreciation and other capital additions to hardware, software, and web development costs at the Tech & Clearance segment.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

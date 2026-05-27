@@ -1,0 +1,23 @@
+FIRM         : CCOI (CIK 0001158324) | FY2024
+FILE         : 0001158324_CCOI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of the business and summary of significant accounting policies:
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+A net increase to historical depreciation expense based on the fair value of property and equipment and the impact of the finance lease adjustment of $58.0 million,
+
+[VERBATIM — Changement de politique]
+Change in estimated useful life - owned fiber
+
+[VERBATIM — Infrastructure IA]
+The Company is a facilities-based provider of low-cost, high-speed Internet access, private network services, optical wavelength and optical transport services and data center colocation space and power. The Company’s network is specifically designed and optimized to transmit packet routed data. The Company delivers its services primarily to businesses, large and small, communications service providers and other bandwidth-intensive organizations in 56 countries across North America, Europe, South America, Oceania and Africa. The Company is a Delaware corporation and is headquartered in Washington, DC.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

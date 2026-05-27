@@ -1,0 +1,23 @@
+FIRM         : R (CIK 0000085961) | FY2022
+FILE         : 0000085961_R_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Revenue Earning Equipment, Operating Property and Equipment, and Depreciation
+
+[VERBATIM — Changement de politique]
+Depreciation expense related to estimate changes
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

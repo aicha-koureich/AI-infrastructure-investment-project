@@ -1,0 +1,23 @@
+FIRM         : APAM (CIK 0001517302) | FY2017
+FILE         : 0001517302_APAM_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 21. Subsequent Events
+ASSET CAT.   : equipment, Computer software, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+The composition of property and equipment at December 31, 2017 and 2016 are as follows: As of December 31, 2017 2016 Computers and equipment $ 7,770 $ 8,197 Computer software 4,372 5,366 Furniture and fixtures 8,658 7,920 Leasehold improvements 27,357 23,207 Total Cost 48,157 44,690 Less: Accumulated depreciation (27,132 ) (24,672 ) Property and equipment, net of accumulated depreciation $ 21,025 $ 20,018
+
+[VERBATIM — Changement de politique]
+Deferred Tax Asset - Amortizable Basis Amounts Payable Under Tax Receivable Agreements December 31, 2015 $ 660,254 $ 589,101 2016 Holdings Common Unit Exchanges 29,977 25,480 Amortization (35,953 ) — Payments under TRAs (1) — (27,685 ) Change in estimate (336 ) (650 ) December 31, 2016 $ 653,942 $ 586,246 2017 Follow-On Offering 113,419 96,406 2017 Holdings Common Unit Exchanges 28,134 23,914 Amortization (42,891 ) — Payments under TRAs (1) — (30,234 ) Tax Reform - change in federal corporate tax rate (341,669 ) (290,418 ) Change in estimate (245 ) (501 ) December 31, 2017 $ 410,690 $ 385,413 (1) Interest payments of $85 thousand and $127 thousand were paid in addition to these TRA payments for the years ended December 31, 2017 and 2016, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

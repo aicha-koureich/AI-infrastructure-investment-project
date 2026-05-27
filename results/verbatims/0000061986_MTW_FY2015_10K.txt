@@ -1,0 +1,23 @@
+FIRM         : MTW (CIK 0000061986) | FY2015
+FILE         : 0000061986_MTW_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 27. Subsequent Events
+ASSET CAT.   : Machinery, equipment, Furniture and fixtures, Computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+(in millions) 2015 2014 Land $ 31.0 $ 31.2 Building and improvements 313.0 344.2 Machinery, equipment and tooling 490.2 509.1 Furniture and fixtures 22.8 24.5 Computer hardware and software 183.5 169.7 Rental cranes 99.5 111.2 Construction in progress 90.9 104.2 Total cost 1,230.9 1,294.1 Less accumulated depreciation (703.9 ) (703.1 ) Property, plant and equipment-net $ 527.0 $ 591.0
+
+[VERBATIM — Changement de politique]
+The Senior Credit Facility contains financial covenants including (a) a Consolidated Interest Coverage Ratio, which measures the ratio of (i) consolidated earnings before interest, taxes, depreciation and amortization, and other adjustments (Adjusted EBITDA), as defined in the credit agreement to (ii) consolidated cash interest expense, each for the most recent four fiscal quarters; and (b) a Consolidated Senior Secured Leverage Ratio, which measures the ratio of (i) consolidated senior secured indebtedness to (ii) consolidated EBITDA for the most recent four fiscal quarters. The covenant levels of the financial covenants under the New Senior Credit Facility are as set forth below:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05, “Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement.” This ASU provides guidance on accounting for a software license in a cloud computing arrangement. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. Further, all software licenses are within the scope of Accounting Standards Codification Subtopic 350-40 and will be accounted for consistent with other licenses of

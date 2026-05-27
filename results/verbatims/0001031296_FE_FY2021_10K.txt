@@ -1,0 +1,20 @@
+FIRM         : FE (CIK 0001031296) | FY2021
+FILE         : 0001031296_FE_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-04-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 12. REGULATORY MATTERS
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+On April 6, 2020, JCP&L signed an asset purchase agreement with Yards Creek Energy, LLC, a subsidiary of LS Power to sell its 50% interest in the Yards Creek pumped-storage hydro generation facility. Subject to terms and conditions of the agreement, the base purchase price is $155 million. As of December 31, 2020, assets held for sale on FirstEnergy’s Consolidated Balance Sheets associated with the transaction consist of property, plant and equipment of $45 million, which is included in the regulated distribution segment. On July 31, 2020, FERC approved the transfer of JCP&L’s interest in the hydroelectric operating license. On October 8, 2020, FERC issued an order authorizing the transfer of JCP&L’s ownership interest in the hydroelectric facilities. On October 28, 2020, the NJBPU approved the sale of Yards Creek. With the receipt of all required regulatory approvals, the transaction was consummated on March 5, 2021 and resulted in a $109 million gain within the regulated distribution segment. As further discussed above, the gain from the transaction was applied against and reduced JCP&L’s existing regulatory asset for previously deferred storm costs and, as a result, was offset by expense in the “Amortization of regulatory assets, net”, line on the Consolidated Statements of Income, resulting in no earnings impact to FirstEnergy or JCP&L.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

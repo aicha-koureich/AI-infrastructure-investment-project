@@ -1,0 +1,20 @@
+FIRM         : ENPH (CIK 0001463101) | FY2016
+FILE         : 0001463101_ENPH_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 4. PROPERTY AND EQUIPMENT, NET
+ASSET CAT.   : Equipment, machinery, Furniture and fixtures, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful Life (Years) December 31, 2016 2015 Equipment and machinery 7-10 $ 38,486 $ 34,694 Furniture and fixtures 5–7 2,635 3,556 Computer equipment 3–5 2,913 2,699 Capitalized software costs 3–5 11,324 11,041 Leasehold improvements 4–10 9,477 8,643 Construction in process 6,275 2,994 Total 71,110 63,627 Less accumulated depreciation and amortization (39,670 ) (31,509 ) Property and equipment, net $ 31,440 $ 32,118
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

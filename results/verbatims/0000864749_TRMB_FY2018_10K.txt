@@ -1,0 +1,20 @@
+FIRM         : TRMB (CIK 0000864749) | FY2018
+FILE         : 0000864749_TRMB_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 18: SELECTED QUARTERLY FINANCIAL DATA (UNAUDITED)
+ASSET CAT.   : equipment, Machinery and equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+At the End of Fiscal Year 2018 2017 (In millions) Property and equipment, net: Machinery and equipment $ 134.2 $ 130.6 Software and licenses 135.9 124.4 Furniture and fixtures 31.4 29.3 Leasehold improvements 40.7 36.6 Construction in progress 16.4 32.9 Buildings 106.5 60.9 Land 9.9 10.0 475.0 424.7 Less: accumulated depreciation (262.1 ) (250.7 ) Total property and equipment, net $ 212.9 $ 174.0
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued new guidance that clarifies the customer's accounting for implementation costs incurred in a cloud computing arrangement that is a service contract. This guidance aligns the accounting for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the accounting for implementation costs incurred to develop or obtain internal-use software. The Company is required to adopt the guidance in the first quarter of fiscal year 2020. Early adoption is permitted. The Company is currently evaluating the effect of the new guidance on its Consolidated Financial Statements.

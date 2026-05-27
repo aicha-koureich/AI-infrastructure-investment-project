@@ -1,0 +1,20 @@
+FIRM         : ROIV (CIK 0001635088) | FY2021
+FILE         : 0001635088_ROIV_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment, consisting primarily of computers, laboratory and other equipment, furniture and fixtures, software, and leasehold improvements, is recorded at cost, less accumulated depreciation. Depreciation of property and equipment is recorded using the straight-line method over the estimated useful lives of the related assets once the asset has been placed in service.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

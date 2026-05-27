@@ -1,0 +1,20 @@
+FIRM         : INTU (CIK 0000896878) | FY2018
+FILE         : 0000896878_INTU_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-07-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 15. Selected Quarterly Financial Data (Unaudited)
+ASSET CAT.   : Equipment, Computer software, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Life in July 31, (Dollars in millions) Years 2018 2017 Equipment 3-5 $ 479 $ 579 Computer software 2-6 812 749 Furniture and fixtures 5 88 82 Leasehold improvements 3-16 325 310 Land NA 79 81 Buildings 5-30 363 547 Capital in progress NA 48 71 2,194 2,419 Less accumulated depreciation and amortization (1,382 ) (1,389 ) Total property and equipment, net $ 812 $ 1,030
+
+[VERBATIM — Infrastructure IA]
+The decrease in the total net property and equipment balance as of July 31, 2018 is primarily due to the sale of our data center in Quincy, Washington during fiscal 2018.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : LPX (CIK 0000060519) | FY2022
+FILE         : 0000060519_LPX_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 18
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Year Ended December 31, 2022 2021 2020 CASH FLOWS FROM OPERATING ACTIVITIES Net income $ 1,083 $ 1,373 $ 497 Adjustments to net income: Depreciation and amortization 132 119 111 Loss on impairment 1 6 16 Gain on sale of assets, net (157) — — Pension loss due to settlement 82 2 — Loss on early debt extinguishment — 11 — Deferred taxes 1 7 2 Other adjustments, net 33 11 18 Changes in assets and liabilities (net of acquisitions and divestitures): Receivables 22 (14) (53) Inventories (66) (71) (12) Prepaid expenses and other current assets (7) — (4) Accounts payable and accrued liabilities 15 46 30 Income taxes payable, net of receivables 6 (5) 54 Net cash provided by operating activities 1,144 1,484 659 CASH FLOWS FROM INVESTING ACTIVITIES Property, plant, and equipment additions (414) (254) (77) Proceeds from business divestiture 268 — 15 Redemption of insurance cash surrender value — — 10 Other investing activities, net — 5 3 Net cash used in investing activities (146) (247) (49) CASH FLOWS FROM FINANCING ACTIVITIES Repayment of long-term debt — (359) (350) Borrowing of long-term debt — 350 350 Payment of cash dividends (69) (66) (65) Purchase of stock (900) (1,300) (200) Other financing activities, net (13) (13) (7) Net cash used in financing activities (982) (1,388) (272) EFFECT OF EXCHANGE RATE ON CASH, CASH EQUIVALENTS, AND RESTRICTED CASH (5) (14) 2 Net increase (decrease) in cash, cash equivalents, and restricted cash 12 (164) 340 Cash, cash equivalents, and restricted cash at the beginning of the year 371 535 195 Cash, cash equivalents, and restricted cash at the end of the year $ 383 $ 371 $ 535 Supplemental cash flow information: Cash paid for income taxes, net $ (320) $ (421) $ (70) Tax authority deposit applied to income taxes $ — $ — $ (32) Cash paid for interest, net $ (14) $ (16) $ (18) Unpaid capital expenditures $ 48 $ 46 $ 16
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

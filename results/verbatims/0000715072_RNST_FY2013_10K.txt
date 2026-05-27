@@ -1,0 +1,23 @@
+FIRM         : RNST (CIK 0000715072) | FY2013
+FILE         : 0000715072_RNST_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+, management did not, and does not currently, believe such securities will be settled at a price less than the amortized cost of the investment. The Company did conclude in 2011 that it was probable that there had been an adverse change in estimated cash flows for two of the
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

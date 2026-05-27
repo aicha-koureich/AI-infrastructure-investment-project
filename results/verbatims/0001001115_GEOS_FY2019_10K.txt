@@ -1,0 +1,20 @@
+FIRM         : GEOS (CIK 0001001115) | FY2019
+FILE         : 0001001115_GEOS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Due to its proximity to the Texas Gulf Coast, our facilities in Houston, Texas are annually subject to the threat of hurricanes, and the aftermath that follows. Hurricanes may cause, among other types of damage, the loss of electrical power for extended periods of time. If we lost electrical power at our Pinemont facility, or if a fire or other natural disaster occurred, we would be unable to continue our manufacturing operations during the power outage because we do not own a generator or any other back-up power source large enough to provide for our manufacturing power consumption needs. Additionally, we do not have an alternative manufacturing or operating location in the United States. Therefore, a significant disruption in our manufacturing operations could materially and adversely affect our business operations during an extended period of a power outage, fire or other natural disaster. We have a back-up generator to provide power for our information technology operations. We store our back-up data offsite and we replicate our mission critical data to an alternative cloud-based data center on a real-time basis. In the event of a major service interruption in our data center, we believe we would be able to activate our mission critical applications within less than 24 hours.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

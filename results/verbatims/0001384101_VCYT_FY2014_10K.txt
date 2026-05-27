@@ -1,0 +1,33 @@
+FIRM         : VCYT (CIK 0001384101) | FY2014
+FILE         : 0001384101_VCYT_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies (Continued)
+ASSET CAT.   : equipment, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Cost of revenue is expensed as incurred and includes material and service costs, cytopathology testing services performed by a
+third-party pathology group, stock-based compensation expense, direct labor costs, equipment and infrastructure expenses associated with testing samples, shipping charges to transport samples, and
+allocated overhead including rent, information technology, equipment depreciation and utilities.
+
+[VERBATIM — Changement de politique]
+On
+August 12, 2014, the Company signed a binding Letter of Agreement with Genzyme to amend terms of the co-promotion agreement. On November 7, 2014, the Company signed an
+Amended and Restated U.S. Co-Promotion Agreement ("Amended Agreement") with Genzyme. Under the Amended Agreement, the co-promotion fees Genzyme will receive as a percentage of U.S. cash receipts were
+reduced from 32% to 15% beginning January 1, 2015. Through August 11, 2014, the Company amortized the $10.0 million upfront co-promotion fee over a four-year period, which was
+management's best estimate of the life of the agreement, in part because after that period either party could have terminated the agreement without penalty. Effective August 12, 2014, the
+Company extended the amortization period from January 2016 to June 2016, the modified earliest period either party could terminate the agreement without penalty. The Company accounted for the change
+in accounting estimate prospectively. Either party may terminate the agreement with six months prior notice, however, under the Amended Agreement, neither party can terminate the agreement for
+convenience prior to June 30, 2016. The agreement with Genzyme expires in 2027.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

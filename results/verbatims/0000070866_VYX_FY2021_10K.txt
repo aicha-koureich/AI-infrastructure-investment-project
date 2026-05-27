@@ -1,0 +1,21 @@
+FIRM         : VYX (CIK 0000070866) | FY2021
+FILE         : 0000070866_VYX_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-05
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Capitalized Software
+DURÉE        : 4.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 4.0-7.0 ans | 5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized Software Certain direct development costs associated with internal-use software are capitalized within Other assets and amortized over the estimated useful lives of the resulting software. NCR typically amortizes capitalized internal-use software on a straight-line basis over four to seven years beginning when the asset is substantially ready for use, as this is considered to approximate the usage pattern of the software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• Telecommunications & Technology - We offer managed network and infrastructure services to enterprise clients across all industries via direct relationships with communications service providers and technology manufacturers. Our customers rely on us as a strategic partner to help them reduce complexity, improve cost efficiency, and enable global geographical reach. We deliver expert professional, field, and remote services for modern network technologies including Software-Defined Wide Area Networking, Network Functions Virtualization, Wireless Local Area Networks, Optical Networking, and Cloud Computing. ||| We offer managed network and infrastructure services to enterprise clients across all industries via direct relationships with communications service providers and technology manufacturers. Our customers rely on us as a strategic partner to help them reduce complexity, improve cost efficiency, and enable global geographical reach. We deliver expert professional, field, and remote services for modern network technologies including Software-Defined Wide Area Networking, Network Functions Virtualization, Wireless Local Area Networks, Optical Networking, and Cloud Computing.

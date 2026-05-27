@@ -1,0 +1,20 @@
+FIRM         : DAL (CIK 0000027904) | FY2022
+FILE         : 0000027904_DAL_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 25.0-34.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment by classification December 31, (in millions, except for estimated useful life) Estimated Useful Life 2022 2021 Flight equipment 25-34 years $ 38,091 $ 33,368 Ground property and equipment 3-40 years 8,996 7,758 Information technology-related assets 3-15 years 3,375 3,389 Flight and ground equipment under finance leases Shorter of lease term or estimated useful life 1,950 2,052 Advance payments for equipment 1,067 853 Less: accumulated depreciation and amortization (1) (20,370) (18,671) Total property and equipment, net $ 33,109 $ 28,749
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

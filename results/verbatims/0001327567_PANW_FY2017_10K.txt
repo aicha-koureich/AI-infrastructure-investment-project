@@ -1,0 +1,20 @@
+FIRM         : PANW (CIK 0001327567) | FY2017
+FILE         : 0001327567_PANW_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 17. Selected Quarterly Financial Data (Unaudited)
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+July 31, 2017 2016 Computers, equipment, and software $ 156.6 $ 102.7 Leasehold improvements 110.1 58.0 Demonstration units 26.3 20.1 Furniture and fixtures 20.4 14.6 Total property and equipment 313.4 195.4 Less: accumulated depreciation (102.3 ) (78.2 ) Total property and equipment, net $ 211.1 $ 117.2
+
+[VERBATIM — Infrastructure IA]
+We continue to invest in and extend our platform, as we believe that innovation and timely development of new features and products is essential to meeting the needs of our end-customers and improving our competitive position. In February 2017, we expanded our family of firewalls with the launch of several new appliances: our PA-220, which is designed for small branch offices and remote locations; our PA-800 series, which are ideal for medium-sized networks and branch and remote office environments; our PA-5200 series, which deliver security for high throughput environments in a compact form factor; and three new VM-Series virtual firewall models, which support cloud and virtualization initiatives ranging from virtualized branch offices to data center and service provider deployments. We also delivered PAN-OS 8.0, an important software release that expands security for public and private clouds, provides new SaaS application security functionality, and also provides the capabilities to prevent the theft and abuse of stolen credentials. Additionally, in February 2017, we acquired  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| In April 2015, the FASB issued new authoritative guidance on fees paid in a cloud computing arrangement. The standard requires customers in a cloud computing arrangement to evaluate whether the arrangement includes a software license. If the arrangement includes a software license, the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If the arrangement does not include a software license, the customer should account for the arrangement as a service contract. We adopted the standard in our first quarter of fiscal 2017 on a prospective basis. Our adoption of this standard did not have a material impact on our consolidated financial statements.

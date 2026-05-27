@@ -1,0 +1,20 @@
+FIRM         : CAL (CIK 0000014707) | FY2022
+FILE         : 0000014707_CAL_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 28, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Other assets on the consolidated balance sheets include $16.0 million and $14.1 million of computer software costs as of January 28, 2023 and January 29, 2022, respectively, which are net of accumulated amortization of $88.5 million and $130.3 million as of the end of the respective periods. In addition, other assets on the consolidated balance sheets include $5.6 million and $7.7 million of implementation costs for software as a service as of January 28, 2023 and January 29, 2022, respectively, which are net of accumulated amortization of $4.7 million and $2.7 million as of the end of the respective periods.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

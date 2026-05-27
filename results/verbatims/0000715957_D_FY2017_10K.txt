@@ -1,0 +1,25 @@
+FIRM         : D (CIK 0000715957) | FY2017
+FILE         : 0000715957_D_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+In the first quarter of 2017, Virginia Power revised the depreciation rates for its assets to reflect the
+results of a new depreciation study. This change resulted in an increase in annual depreciation expense of $40 million ($25 million after-tax) for 2017. Additionally, Dominion Energy revised the
+depreciable lives for its merchant generation assets, excluding Millstone, which resulted in a decrease in annual depreciation expense of $26 million ($16 million after-tax) for 2017.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

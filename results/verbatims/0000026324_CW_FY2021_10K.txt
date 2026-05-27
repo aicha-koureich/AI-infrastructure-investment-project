@@ -1,0 +1,21 @@
+FIRM         : CW (CIK 0000026324) | FY2021
+FILE         : 0000026324_CW_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 7.7 ans | 8.3 ans | 8.6 ans | 8.7 ans
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment are carried at cost less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

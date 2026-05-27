@@ -1,0 +1,23 @@
+FIRM         : AGO (CIK 0001273813) | FY2024
+FILE         : 0001273813_AGO_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+An allowance for credit losses is established upon initial recognition for available-for-sale PCD securities. On the date of acquisition, the amortized cost of a PCD security is equal to its purchase price plus the allowance for credit losses, with no credit loss expense recognized in the consolidated statements of operations. After the date of acquisition, deterioration (or improvement) in credit will result in an increase (or decrease) to the allowance and an offsetting credit loss expense (or benefit). To measure this, the Company performs a discounted cash flow analysis. For PCD securities that are also beneficial interests, favorable or adverse changes in expected cash flows are recognized as a change in the allowance for credit losses. Changes in expected cash flows that are not captured through the allowance are reflected as a prospective adjustment to the security’s yield within “net investment income” in the consolidated statements of operations.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

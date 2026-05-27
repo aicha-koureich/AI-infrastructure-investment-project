@@ -1,0 +1,28 @@
+FIRM         : GEO (CIK 0000923796) | FY2016
+FILE         : 0000923796_GEO_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+continually evaluated based on the period over which services are expected to be rendered by the asset. If the assessment indicates that assets will be used for a longer or shorter period than
+previously anticipated, the useful lives of the assets are revised, resulting in a change in estimate. The Company has not made any such changes in estimates during the years ended December 31, 2016, 2015 and 2014, respectively. Maintenance and
+repairs are expensed as incurred. Interest is capitalized in connection with the construction of company-owned correctional and detention facilities. Cost for self-constructed correctional and detention facilities includes direct materials and
+labor, capitalized interest and certain other indirect costs associated with construction of the facility, such as property taxes, other indirect labor and related benefits and payroll taxes. The Company begins the capitalization of costs during the pre-construction phase, which is the period during which costs are incurred to evaluate the site, and continues until the facility is substantially complete and ready for occupancy. Labor costs capitalized for
+the years ended December 31, 2016, 2015 and 2014 were not significant. Capitalized interest is recorded as part of the asset to which it relates and is amortized over the asset’s estimated useful life. Refer to Note 6 — Property and
+Equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

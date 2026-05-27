@@ -1,0 +1,20 @@
+FIRM         : TDC (CIK 0000816761) | FY2015
+FILE         : 0000816761_TDC_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 Description of Business, Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+These costs are included within capitalized software and are amortized over the estimated useful lives of
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Revenue decreased $16 million or 8% in 2015 from 2014. The revenue decrease included a 7% adverse impact from foreign currency fluctuations. The overall gross margin decrease in 2015 from 2014 is primarily driven by investments in the cloud business as well as lower professional services margins, which were impacted by investments to help better position the Company to go broader in the market and drive long-term growth in this business. ||| Marketing Applications: Revenue decreased $16 million or 8% in 2015 from 2014. The revenue decrease included a 7% adverse impact from foreign currency fluctuations. The overall gross margin decrease in 2015 from 2014 is primarily driven by investments in the cloud business as well as lower professional services margins, which were impacted by investments to help better position the Company to go broader in the market and drive long-term growth in this business.

@@ -1,0 +1,20 @@
+FIRM         : STRA (CIK 0001013934) | FY2017
+FILE         : 0001013934_STRA_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. Property and Equipment
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Construction in progress includes costs associated with the construction and renovation of campuses and the development of information technology applications. In 2016 and 2017, the Company recorded leasehold improvements of $0.3 million and $1.2 million, respectively, which were reimbursed by lessors as lease incentives. In 2016 and 2017, the Company wrote off $3.2 million and $5.3 million, respectively, in fixed assets that were fully depreciated and no longer in service.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

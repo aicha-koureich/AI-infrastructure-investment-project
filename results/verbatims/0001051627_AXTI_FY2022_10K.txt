@@ -1,0 +1,20 @@
+FIRM         : AXTI (CIK 0001051627) | FY2022
+FILE         : 0001051627_AXTI_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Revenue increased $3.7 million, or 2.7%, in 2022 from $137.4 million in 2021. The $8.1 million increase in wafer substrate sales was led by strong demand for InP wafer substrates for 5G applications, data center upgrades (silicon photonics) and consumer related applications, partially offset by lower demand for our GaAs wafer substrates as the result of decreased demand for LED products, industrial lasers and other applications requiring low defect densities in the wafer substrate and Ge wafer substrates decreased primarily as a result of lower demand from our customers in China. The $4.3 million raw materials revenue decrease as compared to the same period in 2021 was primarily the result  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

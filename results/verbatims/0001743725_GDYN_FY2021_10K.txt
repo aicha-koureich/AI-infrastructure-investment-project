@@ -1,0 +1,21 @@
+FIRM         : GDYN (CIK 0001743725) | FY2021
+FILE         : 0001743725_GDYN_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 — Basis of presentation and summary of significant accounting policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Significant estimates include useful lives and recoverability of property and equipment, determination of fair value, useful lives and recoverability of intangible assets and goodwill, allowances for receivables, calculation of accrued liabilities, capitalization of internally developed software, stock-based compensation, contingent consideration payable, determination of provision for income taxes, deferred tax assets and liabilities and uncertain tax positions.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

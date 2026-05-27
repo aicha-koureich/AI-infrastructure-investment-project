@@ -1,0 +1,20 @@
+FIRM         : STWD (CIK 0001465128) | FY2021
+FILE         : 0001465128_STWD_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+◦ €457.8 million ($517.4 million) first mortgage and mezzanine loan to a global data center infrastructure developer for the development of four pre-leased centers in Ireland, of which the Company funded $31.7 million.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

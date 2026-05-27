@@ -1,0 +1,20 @@
+FIRM         : MDLZ (CIK 0001103982) | FY2018
+FILE         : 0001103982_MDLZ_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 17,
+ASSET CAT.   : software, which do not exceed
+DURÉE        : 7.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in property, plant and equipment and amortized on a straight-line basis over the estimated useful lives of the software, which do not exceed seven years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

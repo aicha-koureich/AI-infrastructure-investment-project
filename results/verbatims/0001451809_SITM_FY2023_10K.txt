@@ -1,0 +1,21 @@
+FIRM         : SITM (CIK 0001451809) | FY2023
+FILE         : 0001451809_SITM_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. The Company and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Cost of revenue also includes depreciation of production equipment, inventory write-downs, amortization of internally developed software, shipping and handling costs, and allocation of overhead and facility costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

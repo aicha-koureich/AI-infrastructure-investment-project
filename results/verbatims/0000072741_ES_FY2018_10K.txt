@@ -1,0 +1,20 @@
+FIRM         : ES (CIK 0000072741) | FY2018
+FILE         : 0000072741_ES_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. REGULATORY ACCOUNTING
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The costs associated with the depreciation of the regulated companies' ARO assets and accretion of the ARO liabilities are recorded as regulatory assets in accordance with regulatory accounting guidance. The regulated companies' ARO assets, regulatory assets and liabilities offset and are excluded from rate base. These costs are being recovered over the life of the underlying property, plant and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

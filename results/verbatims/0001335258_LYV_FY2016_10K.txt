@@ -1,0 +1,20 @@
+FIRM         : LYV (CIK 0001335258) | FY2016
+FILE         : 0001335258_LYV_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB amended its guidance on internal-use software providing clarification to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The Company adopted this guidance prospectively on January 1, 2016 and it did not have a material effect on the Company’s financial position or results of operations.

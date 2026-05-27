@@ -1,0 +1,20 @@
+FIRM         : NVDA (CIK 0001045810) | FY2023
+FILE         : 0001045810_NVDA_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-16
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;DGX;H100;Hopper;NVIDIA (5 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+NVIDIA pioneered accelerated computing to help solve the most challenging computational problems. Since our original focus on PC graphics, we have expanded to several other large and important computationally intensive fields. NVIDIA has leveraged its GPU architecture to create platforms for accelerated computing, AI solutions, scientific computing, data science, AV, robotics, metaverse and 3D internet applications.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+NVIDIA pioneered accelerated computing to help solve the most challenging computational problems. Since our original focus on PC graphics, we have expanded to several other large and important computationally intensive fields. NVIDIA has leveraged its GPU architecture to create platforms for accelerated computing, AI solutions, scientific computing, data science, AV, robotics, metaverse and 3D internet applications. ||| We build technology and introduce products for new and innovative use cases and applications such as our NVIDIA DGX Cloud services, Omniverse platform, LLMs, and generative AI models. Our demand estimates for new use cases, applications, and services can be incorrect and create volatility in our revenue or supply levels, and we may not be able to generate significant revenue from these use cases, applications, and services. Recent technologies, such as generative AI models, have emerged, and while they have driven increased demand for Data Center, the long-term trajectory is unknown. ||| Professional Visualization revenue for fiscal year 2024 was $1.6 billion, up 1% from fiscal year 2023. In Professional Visualization, we announced new GPUs based on the NVIDIA RTX Ada Lovelace architecture, and announced NVIDIA Omniverse Cloud, a fully managed service running in Microsoft Azure, for the development and deployment of industrial metaverse applications.

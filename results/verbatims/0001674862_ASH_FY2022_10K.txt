@@ -1,0 +1,23 @@
+FIRM         : ASH (CIK 0001674862) | FY2022
+FILE         : 0001674862_ASH_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-10-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : B100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+The EBITDA and Adjusted EBITDA amounts presented within this business section are provided as a means to enhance the understanding of financial measurements that Ashland has internally determined to be relevant measures of comparison for each segment. Each of these non-GAAP measures is defined as follows: EBITDA (operating income plus depreciation and amortization), Adjusted EBITDA (EBITDA adjusted for key items as applicable), and Adjusted EBITDA margin (Adjusted EBITDA divided by sales). Ashland does not allocate items to each reportable segment below operating income, such as interest expense and income taxes. As a result, reportable segment EBITDA and Adjusted EBITDA are reconciled directly to operating income since it is the most directly comparable Statements of Consolidated Comprehensive Income (Loss) caption.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

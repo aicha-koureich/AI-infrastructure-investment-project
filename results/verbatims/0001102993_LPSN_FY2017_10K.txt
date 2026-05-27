@@ -1,0 +1,23 @@
+FIRM         : LPSN (CIK 0001102993) | FY2017
+FILE         : 0001102993_LPSN_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of Business and Summary of Accounting Policies (Continued)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense, which includes depreciation of internal use software totaled
+
+[VERBATIM — Changement de politique]
+years. The effect of this change in estimate was to reduce depreciation expense and net loss by
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

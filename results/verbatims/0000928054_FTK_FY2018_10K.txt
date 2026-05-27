@@ -1,0 +1,21 @@
+FIRM         : FTK (CIK 0000928054) | FY2018
+FILE         : 0000928054_FTK_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 — Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 7.0-10.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Depreciation or amortization of property and equipment, including assets held under capital leases, is calculated using the straight-line method over the asset’s estimated useful life as follows: Buildings and leasehold improvements 2-30 years Machinery and equipment 7-10 years Furniture and fixtures 3 years Transportation equipment 2-5 years Computer equipment and software 3-7 years Property and equipment are reviewed for impairment on an annual basis or whenever events or changes in circumstances
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

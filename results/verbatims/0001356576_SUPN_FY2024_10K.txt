@@ -1,0 +1,21 @@
+FIRM         : SUPN (CIK 0001356576) | FY2024
+FILE         : 0001356576_SUPN_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies (Continued)
+ASSET CAT.   : Computer equipment
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Computer equipment 3 years - 5 years Software 3 years - 5 years Lab equipment and furniture 5 years - 10 years Leasehold improvements Shorter of lease term or useful life
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

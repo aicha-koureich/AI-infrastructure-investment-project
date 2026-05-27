@@ -1,0 +1,21 @@
+FIRM         : CRWD (CIK 0001535527) | FY2024
+FILE         : 0001535527_CRWD_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of Business and Significant Accounting Policies
+ASSET CAT.   : Data center and other computer equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Data center and other computer equipment 3 – 5 years Furniture and equipment 5 years Purchased software 3 – 5 years Capitalized internal-use software and website development 3 years Leasehold improvements Estimated useful life or term of the lease, whichever is shorter
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : GME (CIK 0001326380) | FY2021
+FILE         : 0001326380_GME_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 6
+ASSET CAT.   : equipment, technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are carried at cost less accumulated depreciation and amortization. Depreciation on fixtures and equipment is computed using the straight-line method over their estimated useful lives.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

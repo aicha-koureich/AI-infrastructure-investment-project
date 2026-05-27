@@ -1,0 +1,25 @@
+FIRM         : FLEX (CIK 0000866374) | FY2013
+FILE         : 0000866374_FLEX_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 22. QUARTERLY FINANCIAL DATA (UNAUDITED) (Continued)
+ASSET CAT.   : Machinery and equipment, Furniture, computer equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of March 31, Depreciable Life (In Years) 2014 2013 (In thousands) Machinery and equipment 3 - 10 $ 2,929,449 $ 2,668,996 Buildings 30 1,069,376 1,032,595 Leasehold improvements up to 30 470,960 384,519 Furniture, fixtures, computer equipment and software 3 - 7 427,038 399,368 Land — 127,567 127,241 Construction-in-progress — 88,687 139,032 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 5,113,077 4,751,751 Accumulated depreciation and amortization (2,824,421 ) (2,577,163 ) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Property and equipment, net $ 2,288,656 $ 2,174,588 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We are a globally-recognized leading provider of supply chain solutions that span from concept through consumption. We design, build,
+ship and service a complete packaged electronic product for original equipment manufacturers ("OEMs") in the following business groups: High Reliability Solutions ("HRS"), which is comprised of our
+medical, automotive, and defense and aerospace businesses; High Velocity Solutions ("HVS"), which includes our mobile devices business, including smart phones; our consumer electronics business,
+including game consoles and wearable electronics; and our high-volume computing business, including various supply chain solutions for notebook personal computing ("PC"), tablets and printers;
+Industrial and Emerging Industries ("IEI"), which is comprised of our household appliances, semi-cap equipment, kiosks, energy and emerging industries businesses; and Integrated Network Solutions
+("INS"), which includes our telecommunications infrastructure, data networking, connected home, and server and storage businesses.

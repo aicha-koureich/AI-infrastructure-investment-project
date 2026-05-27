@@ -1,0 +1,21 @@
+FIRM         : CPF (CIK 0000701347) | FY2014
+FILE         : 0000701347_CPF_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-7.0 ans | 5.0 ans | 30.0-9.0 ans
+
+[VERBATIM — Durée de vie]
+We provide equipment financing to our customers through a variety of lease arrangements. Direct financing leases are carried at the aggregate of lease payments receivable plus estimated residual value of the leased property, less unearned income. Unearned income on direct financing leases is amortized over the lease terms by methods that approximate the interest method. Our lease portfolio has declined over the last five years and had an outstanding balance of $3.1 million and $6.2 million at December 31, 2014 and 2013, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

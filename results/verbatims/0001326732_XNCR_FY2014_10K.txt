@@ -1,0 +1,20 @@
+FIRM         : XNCR (CIK 0001326732) | FY2014
+FILE         : 0001326732_XNCR_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 13. Condensed Quarterly Financial Data (unaudited)
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2014 2013 Assets Current assets Cash and cash equivalents $ 54,649 $ 77,975 Accounts receivable 2,966 59 Prepaid expenses and other current assets 134 60 Total current assets 57,749 78,094 Property and equipment Computers, software and equipment 4,270 3,514 Furniture and fixtures 97 89 Leasehold improvements 3,086 3,081 Less accumulated depreciation and amortization (6,554) (6,377) Property and equipment, net 899 307 Other assets Patents, licenses, and other intangible assets, net 9,116 8,814 Other assets 59 100 Total other assets 9,175 8,914 Total assets $ 67,823 $ 87,315 Liabilities and stockholders’ equity Current liabilities Accounts payable $ 1,691 $ 2,633 Accrued expenses 2,251 1,393 Current portion of deferred revenue 2,254 3,444 Current portion of capital lease obligations — 9 Total current liabilities 6,196 7,479 Deferred revenue, less current portion 2,337 6,302 Capital lease obligations, less current portion — 1 Total liabilities 8,533 13,782 Commitments and contingencies (see note 7) Stockholders’ equity Common stock, $0.01 par value: 200,000,000 authorized shares; 31,434,272 issued and outstanding shares at December 31, 2014 and 31,354,467 issued and outstanding at December 31, 2013 314 314 Additional paid-in capital 302,969 300,790 Accumulated deficit (243,993) (227,571) Total stockholders’ equity 59,290 73,533 Total liabilities and stockholders’ equity $ 67,823 $ 87,315
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

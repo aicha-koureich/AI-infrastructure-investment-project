@@ -1,0 +1,20 @@
+FIRM         : TSCO (CIK 0000916365) | FY2016
+FILE         : 0000916365_TSCO_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Significant Accounting Policies:
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are carried at cost. Depreciation is recorded using the straight-line method over the estimated useful lives of the assets. Improvements to leased premises are amortized using the straight-line method over the initial term of the lease or the useful life of the improvement, whichever is less. The following estimated useful lives are generally applied:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

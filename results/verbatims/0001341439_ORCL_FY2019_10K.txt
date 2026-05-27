@@ -1,0 +1,20 @@
+FIRM         : ORCL (CIK 0001341439) | FY2019
+FILE         : 0001341439_ORCL_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-06-15
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Oracle provides products and services that address enterprise information technology (IT) environments. Our products and services include applications and infrastructure offerings that are delivered worldwide through a variety of flexible and interoperable IT deployment models. These models include on‑premise deployments, cloud‑based deployments, and hybrid deployments (an approach that combines both on-premise and cloud‑based deployment) such as our Oracle Cloud at Customer offering (an instance of Oracle Cloud in a customer’s own data center). Accordingly, we offer choice and flexibility to our customers and facilitate the product, service and deployment combinations that best suit our customers’ needs. Through our worldwide sales force and Oracle Partner Network, we sell to customers all over the world including businesses of many sizes, government agencies, educational institutions and resellers.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Cloud services and license support revenues include: ||| cloud services revenues, which provide customers access to Oracle Cloud applications and infrastructure technologies via cloud-based deployment models that Oracle develops, provides unspecified updates and enhancements for, hosts, manages and supports and that customers access by entering into a subscription agreement with us for a stated period. The majority of our Oracle Cloud Services ||| arrangements are generally billed in advance of the cloud services being performed; have durations of one to three years; are generally renewed at the customer’s option ; and are generally recognized as revenues ratably over the contractual period of the cloud contract or, in the case of usage model contracts, as the cloud services are consumed over time .

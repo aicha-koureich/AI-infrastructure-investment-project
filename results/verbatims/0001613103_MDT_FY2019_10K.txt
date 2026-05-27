@@ -1,0 +1,20 @@
+FIRM         : MDT (CIK 0001613103) | FY2019
+FILE         : 0001613103_MDT_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-06-03
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

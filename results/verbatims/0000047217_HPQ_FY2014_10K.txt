@@ -1,0 +1,22 @@
+FIRM         : HPQ (CIK 0000047217) | FY2014
+FILE         : 0000047217_HPQ_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2014
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1: Summary of Significant Accounting Policies (Continued)
+ASSET CAT.   : software for resale is generally
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+HP amortizes capitalized software development costs using the greater of the straight-line amortization method or the ratio that current gross revenues for a product bear to
+the total current and anticipated future gross revenues for that product. The estimated useful life for capitalized software for resale is generally three years or less.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

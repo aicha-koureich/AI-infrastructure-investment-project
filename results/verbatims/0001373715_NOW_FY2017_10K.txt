@@ -1,0 +1,20 @@
+FIRM         : NOW (CIK 0001373715) | FY2017
+FILE         : 0001373715_NOW_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+. Cost of subscription revenues consists primarily of expenses related to hosting our services and providing support to our customers. These expenses are comprised of data center capacity costs, which include facility costs associated with our data centers as well as interconnectivity between data centers, depreciation related to our infrastructure hardware equipment dedicated for customer use, amortization of intangible assets and personnel-related costs directly associated with data center operations and customer support, including salaries, benefits, bonuses and stock-based compensation and allocated overhead.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+ServiceNow is a leading provider of enterprise cloud computing solutions that define, structure, manage and automate services for global enterprises. We help our customers improve service quality and reduce costs while scaling and automating their businesses.

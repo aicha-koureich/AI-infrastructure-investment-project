@@ -1,0 +1,24 @@
+FIRM         : EBS (CIK 0001367644) | FY2022
+FILE         : 0001367644_EBS_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of significant accounting policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Land Not depreciated Buildings 31-39 years Building improvements 10-39 years Furniture and equipment 3-15 years Software 3-7 years Leasehold improvements Lesser of the asset life or lease term
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment, net is stated at cost, less accumulated depreciation and amortization. During the year ended December 31, 2022, the Company recorded accelerated depreciation of $12.7 million reflecting a shortening of the useful life of certain property, plant and equipment which were to be used in the manufacturing process to fulfill the Agreement with Janssen.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : OLN (CIK 0000074303) | FY2023
+FILE         : 0000074303_OLN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 9. PROPERTY, PLANT AND EQUIPMENT
+ASSET CAT.   : machinery and equipment
+DURÉE        : 11.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The weighted-average useful life of machinery and equipment at December 31, 2023, was 11 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

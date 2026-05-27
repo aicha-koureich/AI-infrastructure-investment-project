@@ -1,0 +1,20 @@
+FIRM         : WDC (CIK 0000106040) | FY2013
+FILE         : 0000106040_WDC_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 28, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 2.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The cost of property, plant and equipment is depreciated over the estimated useful lives of the respective assets. The majority of the Company’s equipment is depreciated over periods of two to seven years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

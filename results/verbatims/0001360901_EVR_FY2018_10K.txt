@@ -1,0 +1,20 @@
+FIRM         : EVR (CIK 0001360901) | FY2018
+FILE         : 0001360901_EVR_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 – Significant Accounting Policies Basis of Presentation
+ASSET CAT.   : equipment, Furniture, computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+– Fixed assets, including equipment, hardware and software and leasehold improvements, are stated at cost, net of accumulated depreciation and amortization. Furniture, equipment and computer hardware and software are depreciated using the straight-line method over the estimated useful lives of the assets, primarily ranging from
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+years. Leasehold improvements are amortized over the shorter of the term of the lease or the useful life of the asset. Certain costs associated with the acquisition or development of internal-use software and cloud computing arrangements are also capitalized. Once the software is ready for its intended use, the capitalized costs are amortized using the straight-line method over the estimated useful life of the software or hosting arrangement. ||| "Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract" ||| ("ASU 2018-15"). ASU 2018-15 aligns the requirements for capitalizing implementation costs in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs incurred for internal-use software as prescribed by ASC 350,

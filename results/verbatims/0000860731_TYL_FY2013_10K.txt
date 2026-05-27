@@ -1,0 +1,29 @@
+FIRM         : TYL (CIK 0000860731) | FY2013
+FILE         : 0000860731_TYL_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+This document
+contains “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 that are not historical in nature and typically address future or
+anticipated events, trends, expectations or beliefs with respect to our financial condition, results of operations or business. Forward-looking statements often contain words such as “believes,” “expects,”
+“anticipates,” “foresees,” “forecasts,” “estimates,” “plans,” “intends,” “continues,” “may,” “will,” “should,” “projects,”
+“might,” “could” or other similar words or phrases. Similarly, statements that describe our business strategy, outlook, objectives, plans, intentions or goals also are forward-looking statements. We believe there is a
+reasonable basis for our forward-looking statements, but they are inherently subject to risks and uncertainties and actual results could differ materially from the expectations and beliefs reflected in the forward-looking statements. We presently
+consider the following to be among the important factors that could cause actual results to differ materially from our expectations and beliefs: (1) changes in the budgets or regulatory environments of our customers, primarily local and state
+governments, that could negatively impact information technology spending; (2) our ability to protect client information from security breaches and provide uninterrupted operations of data centers; (3) material portions of our business
+require the Internet infrastructure to be further developed or adequately maintained; (4) our ability to achieve our financial forecasts due to various factors, including project delays by our customers, reductions in transaction size, fewer
+transactions, delays in delivery of new products or releases or a decline in our renewal rates for service agreements; (5) economic, political and market conditions, including the global economic and financial crisis, and the general  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

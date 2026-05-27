@@ -1,0 +1,20 @@
+FIRM         : TKR (CIK 0000098362) | FY2014
+FILE         : 0000098362_TKR_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 7 - Property, Plant and Equipment
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense for capitalized software was
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

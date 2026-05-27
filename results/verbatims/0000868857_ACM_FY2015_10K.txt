@@ -1,0 +1,21 @@
+FIRM         : ACM (CIK 0000868857) | FY2015
+FILE         : 0000868857_ACM_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : SEPTEMBER 30, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Significant Accounting Policies (Continued)
+ASSET CAT.   : equipment, furniture and fixtures
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment —Property and equipment are recorded at cost and are depreciated over their estimated useful lives using the straight-line
+method. Typically, estimated useful lives range from three to ten years for equipment, furniture and fixtures.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

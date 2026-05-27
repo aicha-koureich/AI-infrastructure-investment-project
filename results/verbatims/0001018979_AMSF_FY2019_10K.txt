@@ -1,0 +1,20 @@
+FIRM         : AMSF (CIK 0001018979) | FY2019
+FILE         : 0001018979_AMSF_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-02-18
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. Property and Equipment
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2019 2018 (in thousands) Land and office building $ 7,819 $ 7,798 Furniture and equipment 6,097 6,150 Software 7,366 7,339 Automobiles 74 74 Finance lease right-of-use assets 185 — 21,541 21,361 Accumulated depreciation and amortization (15,210 ) (15,103 ) Property and equipment, net $ 6,331 $ 6,258
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

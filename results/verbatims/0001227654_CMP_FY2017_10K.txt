@@ -1,0 +1,20 @@
+FIRM         : CMP (CIK 0001227654) | FY2017
+FILE         : 0001227654_CMP_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 17. SUBSEQUENT EVENT
+ASSET CAT.   : computer software, equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company recorded $4.7 million , $3.1 million and $2.2 million of amortization expense related to capitalized computer software for 2017 , 2016 and 2015 , respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

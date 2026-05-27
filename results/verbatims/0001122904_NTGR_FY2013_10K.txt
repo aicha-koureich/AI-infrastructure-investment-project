@@ -1,0 +1,20 @@
+FIRM         : NTGR (CIK 0001122904) | FY2013
+FILE         : 0001122904_NTGR_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+During the fourth quarter of 2013, we incurred a restructuring charge of appropriately $3.2 million related to the consolidation of certain teams and locations to drive efficiencies and realign resources to better focus on key growth markets. As always, we remain focused on long term growth driven by our mission to connect everyone to the high speed Internet. We will continue to invest in the growth markets of the Smart Home, access networks for cloud computing and LTE gateways.

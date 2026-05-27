@@ -1,0 +1,23 @@
+FIRM         : WMB (CIK 0000107263) | FY2019
+FILE         : 0000107263_WMB_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 6 – Investing Activities
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Transco and Northwest Pipeline are regulated by the Federal Energy Regulatory Commission (FERC). Their rates, which are established by the FERC, are designed to recover the costs of providing the regulated services, and their competitive environment makes it probable that such rates can be charged and collected. Therefore, we have determined that it is appropriate under Accounting Standards Codification (ASC) Topic 980, “Regulated Operations,” (ASC 980) to account for and report regulatory assets and liabilities related to these operations consistent with the economic effect of the way in which their rates are established. Accounting for these operations that are regulated can differ from the accounting requirements for nonregulated operations. For example, for regulated operations, allowance for funds used during construction (AFUDC) represents the estimated cost of debt and equity funds applicable to utility plant in the process of construction and is capitalized as a cost of property, plant, and equipment because it constitutes an actual cost of construction under established regulatory practices; nonregulated operations are only allowed to capitalize the cost of debt funds related to construction activities, while a component for equity is prohibited. The components of our regulatory assets and liabilities relate to the effects of deferred taxes on equity funds used during construction, asset retirement obligations, fuel cost differentials, levelized incremental depreciation, negative salvage, pension and other postretirement benefits, and rate allowances for deferred income taxes at a historically higher federal income tax rate.
+
+[VERBATIM — Changement de politique]
+Several factors are considered in the annual review process, including inflation rates, current estimates for removal cost, market risk premiums, discount rates, and the estimated remaining useful life of the assets. The 2019 revisions reflect changes in removal cost estimates, decreases in the estimated remaining useful life of certain assets, increases in inflation rates, and decreases in the discount rates used in the annual review process. The 2018 revisions reflect changes in removal cost estimates, decreases in the estimated remaining useful life of certain assets, and increases in the discount rates used in the annual review process.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

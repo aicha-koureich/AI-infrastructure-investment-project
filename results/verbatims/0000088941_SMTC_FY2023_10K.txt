@@ -1,0 +1,24 @@
+FIRM         : SMTC (CIK 0000088941) | FY2023
+FILE         : 0000088941_SMTC_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 7: Property, Plant and Equipment
+ASSET CAT.   : Machinery and equipment, Computer hardware, Furniture, office equipment
+DURÉE        : 3.0-8.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 3.0-8.0 ans | 3.0-13.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+(in thousands) Estimated Useful Lives January 28, 2024 January 29, 2023 Land $ 13,577 $ 13,577 Buildings 7 to 39 years 49,897 46,596 Leasehold improvements 2 to 10 years 13,742 13,980 Machinery and equipment 3 to 8 years 271,215 250,838 Computer hardware and software 3 to 13 years 76,483 75,224 Furniture and office equipment 5 to 7 years 7,753 8,174 Construction in progress 4,676 18,882 Property, plant and equipment, gross 437,343 427,271 Less: accumulated depreciation and amortization (283,725) (257,978) Property, plant and equipment, net $ 153,618 $ 169,293
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment are stated at cost or at fair market value at the time of acquisition. Depreciation is computed over the estimated useful lives of the related asset type or term of the operating lease using the straight-line method for financial statement purposes. Maintenance and repairs are charged to expense as incurred and the costs of additions and betterments that increase the useful lives of the assets are capitalized.
+
+[VERBATIM — Infrastructure IA]
+We are a high-performance semiconductor, IoT systems and cloud connectivity service provider and were incorporated in Delaware in 1960. We design, develop, manufacture and market a wide range of products for commercial applications, the majority of which are sold into the infrastructure, high-end consumer and industrial end markets. Infrastructure end market includes data centers, PON, base stations, optical networks, servers, carrier networks, switches and routers, cable modems, wireless LAN and other communication infrastructure equipment. High-end consumer end market includes smartphones, tablets, wearables, desktops, notebooks, and other handheld products, wireless charging, set-top boxes, digital televisions, monitors and displays, digital video recorders and other consumer equipment. Industrial end market includes IoT applications, analog and digital video broadcast equipment, video-over-IP solutions, automated meter reading, smart grid, wireless charging, medical, security systems, automotive, industrial and home automation and other industrial equipment. Our end customers for our silicon solutions are primarily OEMs that produce and sell technology solutions. Our IoT module, router, gateway and managed connectivity solutions ship to IoT device makers and enterprises to provide IoT connectivity to end devices.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+The Company derives its revenue primarily from the sale of its products and services into various end markets. Recurring and other services revenue includes sales from cloud services, cellular connectivity services, managed connectivity and application services, software licenses, technical support services, extended warranty services, solution design and consulting services. Revenue is recognized in accordance with ASC 606, "Revenue from Contracts with Customers," when control of products is transferred to the Company’s customers, in an amount that reflects the consideration the Company expects to be entitled to in exchange for these products. Control is generally transferred when products are shipped and, to a lesser extent, when the products are delivered. Recovery of costs associated with product design and engineering services are recognized during the period in which services are performed and are reported as a reduction to product development and engineering expense. Historically, these recoveries have not exceeded the cost of the related development efforts. Recurring and other services revenue is recognized over time as the service is rendered or at a point in time upon completion of a service. The Company includes revenue related to granted technology licenses as part of "Net sales" in the Statements of Operations. Historically, revenue from these arrangements has not been significant though they are part of its recurring ordinary business.

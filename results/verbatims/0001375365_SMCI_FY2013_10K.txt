@@ -1,0 +1,20 @@
+FIRM         : SMCI (CIK 0001375365) | FY2013
+FILE         : 0001375365_SMCI_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 15. Quarterly Financial Data (Unaudited)
+ASSET CAT.   : Machinery and equipment, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Intel_Xeon;NVIDIA (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+June 30, 2013 2012 Land $ 41,774 $ 41,709 Buildings 43,979 43,983 Building and leasehold improvements 7,483 6,780 Machinery and equipment 26,941 22,629 Furniture and fixtures 4,731 4,449 Purchased software 5,380 4,794 130,288 124,344 Accumulated depreciation and amortization (34,376 ) (26,925 ) Property, plant and equipment, net $ 95,912 $ 97,419
+
+[VERBATIM — Infrastructure IA]
+We are a global leader in high-performance, high-efficiency server technology and green computing innovation. We develop and provide advanced server Building Block Solutions to Data Center, Cloud Computing, Enterprise, Hadoop/Big Data, HPC and Embedded markets. Our solutions range from complete server, storage, blade, workstation, and full rack solutions to networking devices and server management software, which can be used by distributors, OEMs and end customers. For fiscal years  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+We are a global leader in high-performance, high-efficiency server technology and green computing innovation. We develop and provide advanced server Building Block Solutions to Data Center, Cloud Computing, Enterprise, Hadoop/Big Data, HPC and Embedded markets. Our solutions range from complete server, storage, blade, workstation, and full rack solutions to networking devices and server management software, which can be used by distributors, OEMs and end customers. For fiscal years

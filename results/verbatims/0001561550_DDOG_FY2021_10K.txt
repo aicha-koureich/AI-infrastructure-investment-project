@@ -1,0 +1,21 @@
+FIRM         : DDOG (CIK 0001561550) | FY2021
+FILE         : 0001561550_DDOG_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0 ans | 3.0 ans | 4.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Such estimates include the fair value of marketable securities, the allowance for credit losses , the fair value of acquired assets and assumed liabilities from business combinations, useful lives of property, equipment, software, and finite lived intangibles, stock-based compensation, stock-based compensation including the determination of the fair value of the Company’s stock prior to its IPO, fair value of common stock and redeemable convertible preferred stock prior to the IPO, valuation of long-lived assets and their recoverability, including goodwill, the incremental borrowing rate for operating leases, estimated expected period of benefit period for deferred contract costs, fair value of the liability component of the convertible debt, realization of deferred tax assets and uncertain tax positions, revenue recognition and the allocation of overhead costs between cost of revenue and operating expenses.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue consists primarily of costs related to providing subscription services to paying customers, including data center and networking expenses, employee compensation (including stock-based compensation) and other employee-related expenses for customer experience and technical operations staff, payments to outside service providers, payment processing fees, amortization of capitalized internally developed software costs and acquired developed technology, and allocated overhead costs.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The Company capitalizes qualifying internal use software development costs related to its cloud platform. The costs consist of personnel costs (including related benefits and stock-based compensation) that are incurred during the application development stage. Capitalization of costs begins when two criteria are met: (1)the preliminary project stage is completed, and (2) it is probable that the software will be completed and used for its intended function. Capitalization ceases when the software is substantially complete and ready for its intended use, including the completion of all significant testing. Costs related to preliminary project activities and post implementation operating activities are expensed as incurred. ||| In August 2018, the FASB issued ASU No. 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (“ASU No. 2018-15”), which aligns the accounting for implementation costs incurred in a hosting arrangement that is a service contract with the accounting for implementation costs incurred to develop or obtain internal-use software under Accounting Standard Codification (“ASC”) 350-40, Internal-Use Software , in order to determine which costs to capitalize and recognize as an asset and which costs to expense. The Company adopted ASU No. 2018-15 on January 1, 2020 and applied it prospectively to implementation costs incurred after the date of adoption. The Company’s adoption of ASU No. 2018-15 had no material impact on the Company's consolidated financial statements. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

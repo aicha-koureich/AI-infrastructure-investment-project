@@ -1,0 +1,21 @@
+FIRM         : MCK (CIK 0000927653) | FY2013
+FILE         : 0000927653_MCK_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-10.0 ans | 3.0 ans
+
+[VERBATIM — Durée de vie]
+At each balance sheet date, or earlier if an indicator of an impairment exists, we evaluate the recoverability of unamortized capitalized software costs based on estimated future undiscounted revenues net of estimated related costs over the remaining amortization period.
+
+[VERBATIM — Infrastructure IA]
+We also offer certain products on an application service provider basis, making our software functionality available on a remote hosting basis from our data centers. The data centers provide system and administrative support, as well as hosting services. Revenue on products sold on an application service provider basis is recognized on a monthly basis over the term of the contract beginning on the service start date of products hosted.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

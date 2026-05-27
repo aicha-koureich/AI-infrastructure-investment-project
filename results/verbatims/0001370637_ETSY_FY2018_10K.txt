@@ -1,0 +1,21 @@
+FIRM         : ETSY (CIK 0001370637) | FY2018
+FILE         : 0001370637_ETSY_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Revenue
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-3.0 ans | 2.0-4.0 ans | 3.0 ans
+
+[VERBATIM — Durée de vie]
+Cost of revenue also includes expenses associated with the operation and maintenance of the Company’s platform and its data centers, including employee-related costs, hosting and bandwidth costs, and depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue primarily consists of the cost of interchange and other fees for credit card processing services, credit card verification service fees, and credit card chargebacks to support Etsy Payments revenue, and costs of refunds made to Etsy buyers that the Company is not able to collect from Etsy sellers. Cost of revenue also includes expenses associated with the operation and maintenance of the Company’s platform and its data centers, including employee-related costs, hosting and bandwidth costs, and depreciation and amortization.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We have also focused on growth investments, such as our migration to Google Cloud. In 2018, we achieved a significant milestone in the process by successfully migrating our website and mobile apps to Google Cloud. We expect to complete the migration by the beginning of 2020, and anticipate spending approximately ||| on cloud migration in 2019. Additionally, during the migration we will maintain some of our existing data center infrastructure to ensure the reliability of our platform. We believe that moving to Google Cloud is positioning us well for growth by allowing us to focus on strategic initiatives, enhance site performance, and improve engineering efficiency. ||| Our technology infrastructure allows us to scale our efforts across the platform. In the fourth quarter of 2017, we began working on an initiative to migrate our data centers to the cloud. We believe that moving to Google Cloud will enable us to focus on growing our core Etsy.com marketplace, prioritizing the buyer and seller experience, improving our search and discovery effectiveness, and increasing the pace of launching new features. In the third quarter of 2018, we achieved a significant milestone in the process by successfully migrating our website and mobile apps to Google Cloud. While this initiative is underway, we will incur implementation costs in addition to costs associated with maintaining our current infrastructure. We expect to complete the migration by the beginning of 2020.

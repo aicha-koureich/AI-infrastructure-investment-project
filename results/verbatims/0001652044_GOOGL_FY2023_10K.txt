@@ -1,0 +1,24 @@
+FIRM         : GOOGL (CIK 0001652044) | FY2023
+FILE         : 0001652044_GOOGL_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies
+ASSET CAT.   : servers and network equipment and adjusted the estimated useful life of our servers from
+DURÉE        : 4.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 4.0 ans | 5.0 ans | 6.0 ans
+
+[VERBATIM — Durée de vie]
+In January 2023, we completed an assessment of the useful lives of our servers and network equipment and adjusted the estimated useful life of our servers from four years to six years and the estimated useful life of certain network equipment from five years to six years. Based on the carrying value of servers and certain network equipment as of December 31, 2022, and those placed in service during the year ended December 31, 2023, the effect of this change in estimate was a reduction in depreciation expense of $3.9 billion and an increase in net income of $3.0 billion, or $0.24 per basic and $0.24 per diluted share, for the year ended December 31, 2023.
+
+[VERBATIM — Changement de politique]
+In January 2023, we completed an assessment of the useful lives of our servers and network equipment and adjusted the estimated useful life of our servers from four years to six years and the estimated useful life of certain network equipment from five years to six years. Based on the carrying value of servers and certain network equipment as of December 31, 2022, and those placed in service during the year ended December 31, 2023, the effect of this change in estimate was a reduction in depreciation expense of $3.9 billion and an increase in net income of $3.0 billion, or $0.24 per basic and $0.24 per diluted share, for the year ended December 31, 2023.
+
+[VERBATIM — Infrastructure IA]
+◦ compensation expense related to our data centers and other operations such as content review and customer and product support;  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Alphabet is a collection of businesses — the largest of which is Google. We report Google in two segments, Google Services and Google Cloud; we also report all non-Google businesses collectively as Other Bets. For additional information on our segments, see Part I, Item 1 Business and Note 15 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. ||| We continue to make significant research and development investments in areas of strategic focus as we seek to develop new, innovative offerings, improve our existing offerings, and rapidly and responsibly deploy AI across our businesses. We also expect to increase, relative to 2023, our investment in our technical infrastructure, including servers, network equipment, and data centers, to support the growth of our business and our long-term initiatives, in particular in support of AI products and services. In addition, acquisitions and strategic investments contribute to the breadth and depth of our offerings, expand our expertise in engineering and other functional areas, and build strong partnerships around strategic initiatives. ||| Additionally, fluctuations in our revenues generated from advertising ("Google advertising"), revenues from other sources ("Google subscriptions, platforms, and devices revenues"), Google Cloud, and Other Bets revenues have been, and may continue to be, affected by other factors unique to each set of revenues, as described below.

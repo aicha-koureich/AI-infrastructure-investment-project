@@ -1,0 +1,20 @@
+FIRM         : NBTB (CIK 0000790359) | FY2021
+FILE         : 0000790359_NBTB_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment are stated at cost, less accumulated depreciation. Depreciation of premises and equipment is determined using the straight-line method over the estimated useful lives of the respective assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

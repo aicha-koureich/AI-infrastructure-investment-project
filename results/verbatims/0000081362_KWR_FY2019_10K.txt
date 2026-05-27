@@ -1,0 +1,24 @@
+FIRM         : KWR (CIK 0000081362) | FY2019
+FILE         : 0000081362_KWR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-15.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software: The Company capitalizes certain costs in connection with developing or obtaining software for internal use, depending on the associated project. These costs are amortized over a period of 3 to 5 years once the assets are ready for their intended use. In connection with the implementations and upgrades to the Company’s global transaction, consolidation and other related systems, approximately $2.6 million and $1.1 million of net costs were capitalized in PP&E on the Company’s December 31, 2019 and 2018 Consolidated Balance Sheets, respectively.
+
+[VERBATIM — Changement de politique]
+Long-lived assets: Property, plant and equipment (“PP&E”) are stated at gross cost, less accumulated depreciation. Depreciation is computed using the straight-line method on an individual asset basis over the following estimated useful lives: buildings and improvements, 10 to 45 years; and machinery and equipment, 1 to 15 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The FASB also issued an accounting standard update in August 2018 that clarifies the accounting for implementation costs incurred in a cloud computing arrangement under a service contract. This guidance generally aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement under a service contract with the requirements for capitalizing implementation costs related to internal-use software. The guidance within this accounting standard update is effective for annual periods beginning after December 15, 2019 and may be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. Early adoption is permitted. The Company has not early adopted the guidance, is currently working through the implementation of this guidance and does not currently expect the guidance to have a material impact to its financial statements.

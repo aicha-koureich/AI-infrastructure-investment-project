@@ -1,0 +1,30 @@
+[
+  {
+    "firm_cik": "0001281761",
+    "firm_ticker": "RF",
+    "fiscal_year": "2017",
+    "filename": "0001281761_RF_FY2017_10K.html",
+    "filing_date": "",
+    "period_end_date": "December 31, 2017",
+    "asset_category": "Furniture, equipment",
+    "useful_life_text": "2017 2016 (In millions) Land $ 484 $ 490 Premises and improvements 1,751 1,730 Furniture and equipment 982 1,025 Software 624 597 Leasehold improvements 388 387 Construction in progress 249 214 4,478 4,443 Accumulated depreciation and amortization (2,414 ) (2,347 ) $ 2,064 $ 2,096",
+    "useful_life_min_years": null,
+    "useful_life_max_years": null,
+    "policy_change": "Unclear",
+    "policy_change_text": "Regions sponsors stock plans which most commonly include restricted stock (i.e., unvested common stock), restricted stock units, performance stock units and stock options. The Company accounts for share-based payments under the fair value recognition provisions whereby compensation cost is measured based on the estimated fair value of the award at the grant date and is recognized in the consolidated financial statements on a straight-line basis over the requisite service period for service-based awards. The fair value of restricted stock, restricted stock units or performance stock units is determined based on the closing price of Regions common stock on the date of grant. Historical data is also used to estimate future employee attrition, which is considered in calculating estimated forfeitures. Estimated forfeitures are adjusted when actual forfeitures differ from estimates, resulting in the recognition of compensation cost only for awards that vest. The effect of a change in estimated forfeitures is recognized through a cumulative catch-up adjustment that is included in compensation cost in the period of the change in estimate. The fair value of stock options where vesting is based on service is estimated at the date of grant using a Black-Scholes option pricing model and related assumptions. As compensation cost is recognized, a deferred tax asset is recorded that represents an estimate of the future tax deduction from exercise or release of restrictions. At the time the share-based awards are exercised, cancelled, have expired, or restrictions are released, the Company may be required to recognize an adjustment to tax expense depending on the market price of the Company’s common stock.",
+    "ai_infra_text": "Not disclosed",
+    "ai_infra_source": "",
+    "segment_ai_text": "Not disclosed",
+    "hardware_mentions": "",
+    "hardware_count": 0,
+    "source_section": "significant_accounting_policies",
+    "section_title": "NOTE 25. PARENT COMPANY ONLY FINANCIAL STATEMENTS",
+    "confidence": 3,
+    "ambiguity_flag": false,
+    "ambiguity_detail": "",
+    "item8_method": "score=4,idx=39475,zone=62610",
+    "item8_segment_count": 1550,
+    "extraction_status": "OK",
+    "error_message": ""
+  }
+]

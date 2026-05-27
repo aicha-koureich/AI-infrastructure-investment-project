@@ -1,0 +1,20 @@
+FIRM         : TR (CIK 0000098677) | FY2019
+FILE         : 0000098677_TR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1—SIGNIFICANT ACCOUNTING POLICIES:
+ASSET CAT.   : buildings
+DURÉE        : 20.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is computed for financial reporting purposes by use of the straight-line method based on useful lives of 20 to 40 years for buildings and 5 to 20 years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

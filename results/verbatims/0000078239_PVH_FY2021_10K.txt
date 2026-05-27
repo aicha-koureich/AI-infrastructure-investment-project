@@ -1,0 +1,20 @@
+FIRM         : PVH (CIK 0000078239) | FY2021
+FILE         : 0000078239_PVH_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-09-30
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+enhancements to our warehouse and distribution network. The capital expenditures in 2021 primarily related to continued investments for these projects in progress and investments in store renovations. We currently expect that capital expenditures for 2022 will increase to approximately $400 million and will primarily consist of investments in (i) new stores and store renovations, (ii) investments in our information technology infrastructure worldwide, including data centers and information security, (iii) continued investments in upgrades and enhancements to platforms and systems worldwide, including our digital commerce platforms, and (iv) enhancements to our warehouse and distribution network in Europe and North America.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

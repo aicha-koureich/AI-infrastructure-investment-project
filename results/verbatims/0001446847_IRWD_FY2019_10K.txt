@@ -1,0 +1,20 @@
+FIRM         : IRWD (CIK 0001446847) | FY2019
+FILE         : 0001446847_IRWD_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Our lease portfolio for the year ended December 31, 2019 includes: leases for our prior and current headquarters locations, a data center colocation lease, vehicle leases for our salesforce representatives, and leases for computer and office equipment. We determine if an arrangement is a lease at the inception of the contract. The asset component of our operating leases is recorded as the operating lease right-of-use asset, and the liability component is recorded as the current portion of operating lease liabilities and operating lease liabilities, net of current portion in our consolidated balance sheet. As of December 31, 2019, we did not record any finance leases.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

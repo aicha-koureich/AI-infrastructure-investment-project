@@ -1,0 +1,20 @@
+FIRM         : WDAY (CIK 0001327811) | FY2018
+FILE         : 0001327811_WDAY_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 12. Commitments and Contingencies
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We have entered into non-cancelable agreements for certain of our offices and data centers with various expiration dates. Certain of our office leases are with an affiliate of our Chairman, David Duffield, who is also a significant stockholder (see Note 18). Our operating lease agreements generally provide for rental payments on a graduated basis and for options to renew, which could increase future minimum lease payments if exercised. This includes payments for office and data center square footage as well as data center power capacity for certain data centers. We generally recognize these expenses on a straight-line basis over the period in which we benefit from the lease. Total rent expense was
+
+[VERBATIM — Infrastructure IA]
+In order to reduce the risk of down-time of our cloud applications, we have established data centers in various geographic regions. We have internal procedures to restore services in the event of disaster at one of our current data center facilities. We serve our customers and users from data center facilities operated by third parties, located in the United States, Europe, and Canada. Even with these procedures for disaster recovery in place, our cloud applications could be significantly interrupted during the implementation of the procedures to restore services.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

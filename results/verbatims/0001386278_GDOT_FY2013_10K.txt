@@ -1,0 +1,21 @@
+FIRM         : GDOT (CIK 0001386278) | FY2013
+FILE         : 0001386278_GDOT_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Summary of Significant Accounting Policies (continued)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+We carry our property and equipment at cost less accumulated depreciation and amortization. We generally compute depreciation on property and equipment using the straight-line method over the estimated useful lives of the assets, except for internal-use software in development and land, which are not depreciated.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

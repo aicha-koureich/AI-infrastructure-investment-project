@@ -1,0 +1,20 @@
+FIRM         : AXON (CIK 0001069183) | FY2021
+FILE         : 0001069183_AXON_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 - Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Internal-use software development costs are amortized on a straight line basis over the estimated useful life of the software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Axon Evidence and cloud services ||| increased unit sales. Consumer devices revenue decreased $2.3 million or 24.2% driven by a decrease in retail sales due to a shift in consumer shopping behaviors, as well as lower average selling prices, and higher sales during the prior year due to civil unrest. We continue to see a shift to purchases of our latest generation device, TASER 7, from legacy devices, especially X26P devices. Sales of our TASER 7 device also drove the increase in revenue from Axon Evidence and cloud services. Revenue was also impacted by higher average selling prices for TASER devices other than TASER consumer devices. TASER 7 revenue for 2021 was impacted by approximately $35.0 million for orders that were scheduled to ship prior to December 31, 2021, but could not be fulfilled due to the delayed receipt of a manufacturing component for our TASER 7 devices. We expect to recognize this revenue during the first half of 2022. ||| Net sales for the Software and Sensors segment increased $112.0 million, or 35.6%. Revenue from Axon Evidence and cloud services increased $69.2 million as we continued to add users and associated devices to our network during the year ended December 31, 2021. The increase in the aggregate number of users and devices also resulted in increased extended warranty revenues of $9.3 million. Sales of our Axon Body 3 camera drove most of the $18.3 million increase in Axon Body revenue and the $4.7 million increase in Axon Dock revenue. Other revenue increased $6.2 million or 50.7% due to increases in signal sidearm and signal performance power magazine (SPPM) attributable to increased sales of our TASER 7 devices. Axon Body revenue was impacted by approximately $15.5 million for orders that were scheduled to ship prior to December 31, 2021, but could not be fulfilled due to supply chain constraints for our Axon Body 3 devices. We expect to recognize this revenue during the first half of 2022.

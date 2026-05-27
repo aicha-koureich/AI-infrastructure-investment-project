@@ -1,0 +1,20 @@
+FIRM         : AEE (CIK 0001002910) | FY2014
+FILE         : 0001002910_AEE_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+If environmental expenditures are related to assets currently in use, as in the case of the installation of pollution control equipment, the cost is capitalized and depreciated over the expected life of the asset.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

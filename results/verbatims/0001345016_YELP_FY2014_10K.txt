@@ -1,0 +1,31 @@
+FIRM         : YELP (CIK 0001345016) | FY2014
+FILE         : 0001345016_YELP_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Investing Activities. Our primary investing activities in
+the year ended December 31, 2014 consisted of purchases of marketable
+securities, acquisitions, as well as the continued purchases of property and
+equipment to support the build out of our data centers, leasehold improvements
+for our headquarters in San Francisco and other locations, the purchase
+of technology hardware to support our growth in headcount and software to
+support website and mobile app development, website operations and our corporate
+infrastructure. Purchases of property and equipment, as well as leasehold
+improvements, may vary from period to period due to the timing of the expansion
+of our offices, operations and website and internal-use software and
+development. We expect to continue to invest in property and equipment,
+leaseholds and the development of software in 2015.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

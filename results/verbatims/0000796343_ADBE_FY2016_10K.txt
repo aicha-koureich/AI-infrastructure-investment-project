@@ -1,0 +1,20 @@
+FIRM         : ADBE (CIK 0000796343) | FY2016
+FILE         : 0000796343_ADBE_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We record property and equipment at cost less accumulated depreciation and amortization. Property and equipment are depreciated using the straight-line method over their estimated useful lives ranging from
+
+[VERBATIM — Infrastructure IA]
+% Change 2016-2015 % Change 2015-2014 Data center costs 9 % 4 % Amortization of purchased intangibles (4 ) 3 Compensation and related benefits associated with headcount 2 4 Depreciation expense 2 3 Royalty costs 2 4 Various individually insignificant items 2 4 Total change 13 % 22 %  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Our subscription revenue is comprised primarily of fees we charge for our subscription and hosted service offerings including Creative Cloud and certain of our Adobe Marketing Cloud and Document Cloud services. We recognize subscription revenue ratably over the term of agreements with our customers, beginning with commencement of the service. ||| Our services and support revenue is comprised of consulting, training and maintenance and support, primarily related to the licensing of our enterprise, developer and platform products and the sale of our hosted Adobe Marketing Cloud services. Our support revenue also includes technical support and developer support to partners and developer organizations related to our desktop products. Our maintenance and support offerings, which entitle customers to receive desktop product upgrades and enhancements or technical support, depending on the offering, are generally recognized ratably over the term of the arrangement. ||| Data center costs increased during fiscal 2016 compared to fiscal 2015 primarily due to the continued increase in transaction volumes in our Adobe Marketing Cloud and Creative Cloud services. Increases in data center costs were partially offset by decreases in amortization of purchased intangibles driven by the decrease in amortization expense associated with intangible assets purchased through our acquisitions of Omniture and Efficient Frontier that became fully amortized in the latter part of fiscal 2015.

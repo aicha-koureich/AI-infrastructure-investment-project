@@ -1,0 +1,20 @@
+FIRM         : TXNM (CIK 0001108426) | FY2022
+FILE         : 0001108426_TXNM_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+In September 2017, PNMR Development and AEP OnSite Partners created NMRD to pursue the acquisition, development, and ownership of renewable energy generation projects, primarily in the state of New Mexico. PNMR Development and AEP OnSite Partners each have a 50% ownership interest in NMRD. At December 31, 2022, NMRD’s renewable energy capacity in operation is 135.1 MW, which includes 130 MW of solar-PV facilities to supply energy to the Meta data center located within PNM’s service territory, 1.9 MW to supply energy to Columbus Electric Cooperative located in southwest New Mexico, 2.0 MW to supply energy to the Central New Mexico Electric Cooperative, and 1.2 MW of solar-PV facilities to supply energy to the City of Rio Rancho, New Mexico. PNMR accounts for its investment in NMRD using the equity method of accounting because PNMR’s ownership interest results in significant influence, but not control, over NMRD and its operations. PNMR records as income its percentage share of earnings or loss of NMRD and carries its investment at cost, adjusted for its share of undistributed earnings or losses.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

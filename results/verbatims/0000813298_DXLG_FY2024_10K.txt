@@ -1,0 +1,21 @@
+FIRM         : DXLG (CIK 0000813298) | FY2024
+FILE         : 0000813298_DXLG_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-01
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Equipment, Furniture and fixtures
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100;B200 (2 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is computed on the straight-line method over the assets’ estimated useful lives as follows: Furniture and fixtures Five to ten years Equipment Five to ten years Leasehold improvements Lesser of useful lives or related lease term Hardware and software Three to seven years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : FCX (CIK 0000831259) | FY2022
+FILE         : 0000831259_FCX_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : buildings
+DURÉE        : 50.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Other assets are depreciated on a straight-line basis over estimated useful lives for the related assets of up to 50 years for buildings and 3 to 50 years for machinery and equipment, and mobile equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

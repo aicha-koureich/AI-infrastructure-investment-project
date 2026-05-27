@@ -1,0 +1,20 @@
+FIRM         : CMI (CIK 0000026172) | FY2023
+FILE         : 0000026172_CMI_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Lease expense for operating leases is recognized on a straight-line basis over the lease term. Lease expense for finance leases is generally front-loaded as the finance lease ROU asset is depreciated on a straight-line basis, but interest expense on the liability is recognized utilizing the interest method that results in more expense during the early years of the lease. We have lease agreements with lease and non-lease components, primarily related to real estate, vehicle and information technology (IT) assets. For vehicle and real estate leases, we account for the lease and non-lease components as a single lease component. For IT leases, we allocate the payment between the lease and non-lease components based on the relative value of each component. See NOTE 9, "LEASES," for additional information.
+
+[VERBATIM — Infrastructure IA]
+Distribution segment sales increased $1.3 billion. The primary driver was an increase in North American sales of $1.1 billion due to higher demand in all product lines, especially in power generation markets due to commercial and data center demand. The increase was partially offset by unfavorable foreign currency fluctuations, primarily the Australian dollar, Canadian dollar, Chinese renminbi and South African rand.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

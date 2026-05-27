@@ -1,0 +1,20 @@
+FIRM         : CAT (CIK 0000018230) | FY2018
+FILE         : 0000018230_CAT_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Power Generation - Sales improved across all regions, with the largest increase in North America, primarily for reciprocating engine applications including data centers, and for aftermarket parts. In addition, sales increased in EAME from reciprocating engine projects, turbines and turbine-related services and favorable currency.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

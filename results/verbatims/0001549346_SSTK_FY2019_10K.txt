@@ -1,0 +1,20 @@
+FIRM         : SSTK (CIK 0001549346) | FY2019
+FILE         : 0001549346_SSTK_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Our investing activities have consisted primarily of capital expenditures for internal-use software and website development costs and purchases of software and equipment related to our data centers. Our investing activities have also included content acquisitions, as well as investments, acquisitions and disposals. Cash used in investing activities totaled $27.2 million , $12.8 million and $57.4 million for the years ended December 31, 2019 , 2018 and 2017 , respectively.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

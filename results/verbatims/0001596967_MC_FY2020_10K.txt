@@ -1,0 +1,20 @@
+FIRM         : MC (CIK 0001596967) | FY2020
+FILE         : 0001596967_MC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-24
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Office equipment and furniture
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+—Office equipment and furniture and fixtures are stated at cost less accumulated depreciation, which is determined using the straight‑line method over the estimated useful lives of the assets, ranging from three to seven years, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Software — Costs related to implementation of cloud computing arrangements that qualify for capitalization are stated at cost less accumulated amortization within prepaid and other assets on the Company’s consolidated statement of financial condition. Such capitalized costs are amortized using the straight-line method over the term of the cloud computing service contract or another rational basis, beginning when the cloud computing arrangement is substantially complete and ready for its intended use. All costs not directly related to the implementation of cloud computing arrangements, including overhead costs and costs of service agreements, will be expensed in the period they are incurred. The amortization expense of such capitalized costs will be presented under communication, technology and information services on the consolidated statement of operations. ||| Effective January 1, 2020, the Company adopted ASU 2018-15, “Goodwill and Other —Internal Use Software” using a prospective approach (“ASU 2018-15”). ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in cloud computing arrangements with the requirements for capitalizing costs to develop or obtain internal-use software. See Note 4—Fixed and Intangible Assets below for further details on the Company’s capitalized cloud computing arrangements. ||| As of December 31, 2020, there were $2,759 of costs capitalized within prepaid expenses and other assets on our consolidated statement of financial position related to the implementation of cloud computing arrangements. The amortization expense of the capitalized costs was $256 for the twelve months ended December 31, 2020, and was recorded within communication, technology and information services on the consolidated statement of operations.

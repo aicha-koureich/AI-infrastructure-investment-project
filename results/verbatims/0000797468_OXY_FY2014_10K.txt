@@ -1,0 +1,23 @@
+FIRM         : OXY (CIK 0000797468) | FY2014
+FILE         : 0000797468_OXY_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The carrying value of Occidental’s property, plant and equipment (PP&E) represents the cost incurred to acquire or develop the asset, including any asset retirement obligations and capitalized interest, net of accumulated depreciation, depletion and amortization (DD&A) and any impairment charges.
+
+[VERBATIM — Changement de politique]
+Without these continued expenditures, the useful lives of these assets could decrease significantly. Other factors that could change the estimated useful lives of Occidental’s chemical assets include sustained higher or lower product prices, which are particularly affected by both domestic and foreign competition, demand, feedstock costs, energy prices, environmental regulations and technological changes.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

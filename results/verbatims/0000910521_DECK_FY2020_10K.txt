@@ -1,0 +1,23 @@
+FIRM         : DECK (CIK 0000910521) | FY2020
+FILE         : 0000910521_DECK_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-05-13
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. General Basis of Presentation.
+ASSET CAT.   : equipment are stated at cost less accumulated depreciation and amortization, and generally have a useful life of at least
+DURÉE        : 1.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment, Depreciation and Amortization . Property and equipment are stated at cost less accumulated depreciation and amortization, and generally have a useful life of at least one year.
+
+[VERBATIM — Changement de politique]
+Depreciation of property and equipment is calculated using the straight-line method based on the estimated useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Amortization on cloud computing arrangements ||| Cloud Computing Arrangements . The Company enters into various cloud computing arrangements (CCAs) that are governed by service contracts (hosting arrangements) to support operations. Application development stage implementation costs (implementation costs) of a hosting arrangement are deferred and recorded to prepaid expenses and other assets in the consolidated balance sheets. Implementation costs are expensed on a straight-line basis and recorded in SG&A expenses in the consolidated statements of comprehensive income over the term of the hosting arrangement, including reasonably certain renewals, which are generally one to three years. ||| Cloud Computing Arrangements

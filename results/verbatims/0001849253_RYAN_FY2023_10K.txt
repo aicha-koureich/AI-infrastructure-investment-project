@@ -1,0 +1,20 @@
+FIRM         : RYAN (CIK 0001849253) | FY2023
+FILE         : 0001849253_RYAN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 8. LEAS ES The Company has various non-cancelable operating leases with various terms through September 2038, primarily for office space and office eq
+ASSET CAT.   : office equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+8. LEAS ES The Company has various non-cancelable operating leases with various terms through September 2038, primarily for office space and office equipment. The following table provides additional information about the Company’s leases: Year Ended December 31, 2023 2022 2021 Lease costs Operating lease costs $ 36,907 $ 32,834 $ 24,069 Finance lease costs — 31 147 Short-term lease costs Operating lease costs 870 598 536 Finance lease costs — 10 10 Sublease income ( 642 ) ( 488 ) ( 382 ) Lease costs – net $ 37,135 $ 32,985 $ 24,380 Cash paid for amounts included in the measurement of lease liabilities Operating cash flows used for operating leases $ 32,933 $ 25,569 $ 27,550 Non-cash related activities Right-of-use assets obtained in exchange for new operating lease liabilities 11,771 93,029 11,714 Amortization of right-of-use assets for operating lease activity 24,664 23,051 20,000 Weighted average discount rate (percent) Operating leases 5.1 % 4.8 % 3.9 % Finance leases — 3.2 % 3.2 % Weighted average remaining lease term (years) Operating leases 8.2 8.5 6.0 Finance leases — 1.9 2.7 The estimated future minimum payments of operating leases as of December 31, 2023 were as follows: 2024 $ 29,375 2025 29,152 2026 27,453 2027 24,369 2028 20,442 Thereafter 89,710 Total undiscounted future lease payments $ 220,501 Less imputed interest ( 44,675 ) Present value lease liabilities $ 175,826
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

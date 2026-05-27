@@ -1,0 +1,22 @@
+FIRM         : HWC (CIK 0000750577) | FY2013
+FILE         : 0000750577_HWC_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies and Recent Accounting Pronouncements (continued)
+ASSET CAT.   : buildings
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost, less accumulated depreciation and amortization. Depreciation is charged to expense over the estimated useful
+lives of the assets, which are up to 39 years for buildings and three to seven years for furniture and equipment. Amortization expense for software is charged over three years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

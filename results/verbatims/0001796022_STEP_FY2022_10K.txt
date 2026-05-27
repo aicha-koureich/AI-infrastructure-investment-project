@@ -1,0 +1,20 @@
+FIRM         : STEP (CIK 0001796022) | FY2022
+FILE         : 0001796022_STEP_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, furniture, computer hardware
+DURÉE        : 5.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment primarily consist of leasehold improvements, furniture, equipment, computer hardware and software and are stated at cost, less accumulated depreciation and amortization, with the net carrying amount included in other assets and receivables in the consolidated balance sheets. Property and equipment are depreciated over their estimated useful lives using the straight-line method, and the corresponding depreciation expense is included in general, administrative and other expenses in the consolidated statements of income. Property and equipment are depreciated over a period of five to seven years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

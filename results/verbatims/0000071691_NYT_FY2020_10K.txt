@@ -1,0 +1,20 @@
+FIRM         : NYT (CIK 0000071691) | FY2020
+FILE         : 0000071691_NYT_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-25
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 20. Subsequent Events
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In thousands) December 27, 2020 December 29, 2019 Assets Current assets Cash and cash equivalents $ 286,079 $ 230,431 Short-term marketable securities 309,080 201,785 Accounts receivable (net of allowances of $13,797 in 2020 and $14,358 in 2019) 183,692 213,402 Prepaid expenses 29,487 29,089 Other current assets 27,497 42,124 Total current assets 835,835 716,831 Long-term marketable securities 286,831 251,696 Property, plant and equipment: Equipment 470,505 498,299 Buildings, building equipment and improvements 722,122 718,194 Software 173,046 237,326 Land 105,710 105,710 Assets in progress 9,282 18,473 Total, at cost 1,480,665 1,578,002 Less: accumulated depreciation and amortization (886,149) (950,881) Property, plant and equipment, net 594,516 627,121 Goodwill 171,657 138,674 Deferred income taxes 99,518 115,229 Miscellaneous assets 319,332 239,587 Total assets $ 2,307,689 $ 2,089,138
+
+[VERBATIM — Infrastructure IA]
+We currently utilize third-party subscription-based software services as well as public cloud infrastructure services to provide solutions for many of our computing and bandwidth needs. Any interruptions to these services generally, including as a result of the effects of the Covid-19 pandemic, could result in interruptions in service to our subscribers and advertisers and/or the Company’s critical business functions, notwithstanding any business continuity or disaster recovery plans or agreements that may currently be in place with some of these providers. This could result in unanticipated downtime and/or harm to our reputation and operating results.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Clarifies the accounting for implementation costs in cloud computing arrangements. The standard provides that implementation costs be evaluated for capitalization using the same criteria as that used for internal-use software development costs, with amortization expense being recorded in the same income statement expense line as the hosted service costs and over the expected term of the hosting arrangement. The Company adopted this ASU prospectively on December 30, 2019, and includes capitalized implementation costs in Miscellaneous assets in the Company’s Consolidated Balance Sheet and within Total operating costs in the Consolidated Statement of Operations. The adoption did not have a material impact on the Company’s consolidated financial statements.

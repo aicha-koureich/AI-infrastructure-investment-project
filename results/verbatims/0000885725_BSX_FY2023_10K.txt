@@ -1,0 +1,20 @@
+FIRM         : BSX (CIK 0000885725) | FY2023
+FILE         : 0000885725_BSX_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-08
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment, furniture and fixtures
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : AMD_Instinct (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+We depreciate buildings over a maximum life of 40 years; building improvements over the remaining useful life of the building structure; equipment, furniture and fixtures over a three to seven year life; and leasehold improvements over the shorter of the useful life of the improvement or the term of the related lease.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,39 @@
+FIRM         : SLAB (CIK 0001038074) | FY2013
+FILE         : 0001038074_SLAB_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 28, 2013
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+family
+of universal digital video broadcast (DVB) demodulators that support the latest worldwide DVB standards for cable, terrestrial and satellite reception; a low-jitter, low-power and
+frequency-flexible timing solution for high-speed networking equipment based on the Synchronous Ethernet (SyncE) standard; a new family of silicon TV tuners offering high performance, integration and
+low system cost while supporting all worldwide terrestrial and cable TV standards; highly integrated, feature-rich 8-bit MCUs optimized for cost-sensitive motor control applications; highly integrated
+microelectromechanical system (MEMS) oscillators based on our CMEMS (CMOS+MEMS) technology and designed to replace general-purpose crystal oscillators (XOs) in cost-sensitive, low-power and
+high-volume industrial, embedded and consumer electronics applications; ultra-small and low-power PCI Express (PCIe) clock generators; XOs that meet ultra-low jitter requirements for cloud computing
+and networking equipment; digital CMOS-based drop-in replacement solutions for opto-drivers; a single-chip digital radio receiver developed for the global portable and consumer electronics markets;
+next-generation analog-tuned, analog/digital-display (ATxD) multiband radio ICs; and a high-performance, ultra-low-power sub-GHz wireless transceiver optimized for China's smart metering market. We
+plan to continue to introduce products that increase the content we provide for existing applications, thereby enabling us to serve markets we do not currently address and expanding our total
+available market opportunity. ||| Recent
+development projects include a new family of sub-GHz wireless MCUs optimized for power-sensitive, battery-powered systems with RF connectivity; a high-performance bridge
+controller for USB connectivity applications; RH and temperature sensors that simplify RH sensing designs while providing power efficiency and ease of use; the EFM32 Zero Gecko MCU family designed to
+achieve low system energy consumption for a wide range of battery-powered applications; a family of universal DVB demodulators that support the latest worldwide DVB standards for cable, terrestrial
+and satellite reception; a low-jitter, low-power and frequency-flexible timing solution for high-speed networking equipment based on the SyncE standard; a new family of silicon TV tuners offering high
+performance, integration and low system cost while supporting all worldwide terrestrial and cable TV standards; highly integrated, feature-rich 8-bit MCUs optimized for cost-sensitive motor control
+applications;
+highly integrated MEMS oscillators based on our CMEMS technology and designed to replace general-purpose XOs in cost-sensitive, low-power and high-volume industrial, embedded and consumer electronics
+applications; ultra-small and low-power PCIe clock generators; XOs that meet ultra-low jitter requirements for cloud computing and networking equipment; digital CMOS-based drop-in replacement
+solutions for opto-drivers; a single-chip digital radio receiver developed for the global portable and consumer electronics markets; next-generation analog-tuned, analog/digital-display (ATxD)
+multiband radio ICs; and a high-performance, ultra-low-power sub-GHz wireless transceiver optimized for China's smart metering market.

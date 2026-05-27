@@ -1,0 +1,20 @@
+FIRM         : ALGT (CIK 0001362468) | FY2018
+FILE         : 0001362468_ALGT_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 14 — Subsequent Events
+ASSET CAT.   : equipment, Computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31, 2018 As of December 31, 2017 Flight equipment, including pre-delivery deposits $ 1,905,157 $ 1,539,433 Computer hardware and software 140,385 123,675 Land and buildings/leasehold improvements 85,925 77,409 Other property and equipment 89,778 48,446 Total property and equipment 2,221,245 1,788,963 Less accumulated depreciation and amortization (373,977 ) (276,548 ) Property and equipment, net $ 1,847,268 $ 1,512,415
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,24 @@
+FIRM         : KWR (CIK 0000081362) | FY2023
+FILE         : 0000081362_KWR_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 4.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software: The Company capitalizes certain costs in connection with developing or obtaining software for internal use, depending on the associated project. These costs are amortized over a period of 3 to 5 years once the assets are ready for their intended use. In connection with the implementations and upgrades to the Company’s global transaction, consolidation and other related systems, approximately $4.5 million and $3.5 million of net costs were capitalized in PP&E on the Company’s Consolidated Balance Sheets as of December 31, 2023 and 2022, respectively.
+
+[VERBATIM — Changement de politique]
+Depreciation is computed using the straight-line method on an individual asset basis over the following estimated useful lives: buildings and improvements, 10 to 33 years, or the remaining term of the lease; and machinery and equipment, 4 to 10 years, or the remaining term of the lease.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

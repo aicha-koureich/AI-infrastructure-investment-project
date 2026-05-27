@@ -1,0 +1,20 @@
+FIRM         : UCTT (CIK 0001275014) | FY2019
+FILE         : 0001275014_UCTT_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. ORGANIZATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, computer equipment
+DURÉE        : 10.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Direct costs incurred to develop software for internal use are capitalized and amortized over an estimated useful life of three or ten years.
+
+[VERBATIM — Infrastructure IA]
+Over the long-term, we believe the semiconductor market we serve will continue to grow based on demand from a broad range of drivers, including applications such as autonomous vehicles, the Internet of Things, high performance computing, artificial intelligence, and technology to support the data sharing economy. We also believe that semiconductor equipment OEMs are increasingly relying on partners like UCT to fulfill their expanding capacity requirements.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

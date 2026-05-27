@@ -1,0 +1,23 @@
+FIRM         : TDC (CIK 0000816761) | FY2013
+FILE         : 0000816761_TDC_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 Description of Business, Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : Capitalized Software, computer software
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : Intel_Xeon (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 4.0 ans
+
+[VERBATIM — Durée de vie]
+Direct development costs associated with internal-use software are capitalized and amortized over the estimated useful lives
+of the resulting software. Teradata typically amortizes capitalized
+internal-use software on a straight-line basis over three years beginning when the asset is substantially ready for use.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

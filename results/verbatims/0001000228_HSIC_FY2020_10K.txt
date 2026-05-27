@@ -1,0 +1,20 @@
+FIRM         : HSIC (CIK 0001000228) | FY2020
+FILE         : 0001000228_HSIC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 26, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 –Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amortization of leasehold improvements is computed using the straight-line method over the lesser of the useful life of the assets or the lease term. Capitalized software costs consist of costs to purchase and develop software. Costs incurred during the application development stage for software bought and further customized by outside suppliers for our use and software developed by a supplier for our proprietary use are capitalized. Costs incurred for our own personnel who are directly associated with software development are capitalized.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

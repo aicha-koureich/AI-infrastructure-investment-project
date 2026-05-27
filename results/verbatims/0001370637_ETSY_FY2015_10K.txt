@@ -1,0 +1,21 @@
+FIRM         : ETSY (CIK 0001370637) | FY2015
+FILE         : 0001370637_ETSY_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1—Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-3.0 ans | 2.0-4.0 ans | 3.0 ans
+
+[VERBATIM — Durée de vie]
+Cost of revenue consists primarily of expenses associated with the operation and maintenance of the Company’s platform and data centers, including depreciation and amortization, employee-related costs, including stock-based compensation expense, and hosting and bandwidth costs.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue consists primarily of expenses associated with the operation and maintenance of the Company’s platform and data centers, including depreciation and amortization, employee-related costs, including stock-based compensation expense, and hosting and bandwidth costs. Cost of revenue also includes the cost of interchange and other fees for credit card processing services, credit card verification service fees and credit card chargebacks to support Direct Checkout revenue and costs of refunds made to Etsy buyers that the Company is not able to collect from Etsy sellers.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued an accounting standard under which customers will apply the same criteria as vendors to determine whether a cloud computing arrangement contains a software license or is solely a service contract. The new standard is effective for annual and interim periods beginning after December 15, 2015. We have evaluated the effect this guidance will have on our consolidated financial statements and do not believe the impact to be material.

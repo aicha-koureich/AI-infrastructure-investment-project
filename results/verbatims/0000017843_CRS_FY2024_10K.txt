@@ -1,0 +1,20 @@
+FIRM         : CRS (CIK 0000017843) | FY2024
+FILE         : 0000017843_CRS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Computer software, equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Computer software is included in property, plant, equipment and software, net on the consolidated balance sheets and is amortized for financial reporting purposes on a straight-line basis over the respective estimated useful lives ranging from 3 to 15 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

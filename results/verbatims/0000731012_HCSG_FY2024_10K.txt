@@ -1,0 +1,21 @@
+FIRM         : HCSG (CIK 0000731012) | FY2024
+FILE         : 0000731012_HCSG_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. On February 2, 2024, the Company entered into a Collateral Trust Agreement with the Company’s third-party insurer and a trustee whereby investments
+ASSET CAT.   : computer hardware and software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property and equipment, with the exception of those pertaining to leases, are stated at cost, net of accumulated depreciation. Depreciation is recorded using the straight-line method over the following estimated useful lives: Housekeeping and Dietary equipment — 3 to 5 years; computer hardware and software — 5 years; and other, consisting of furniture and fixtures, leasehold improvements and vehicles — 5 to 10 years. Depreciation expense on property and equipment, inclusive of amortization of lease right-of-use assets, for the years ended December 31, 2024, 2023 and 2022 was $11.9 million, $10.5 million and $10.5 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

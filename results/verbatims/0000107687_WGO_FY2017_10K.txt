@@ -1,0 +1,23 @@
+FIRM         : WGO (CIK 0000107687) | FY2017
+FILE         : 0000107687_WGO_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 6 : Property, Plant and Equipment
+ASSET CAT.   : Machinery and equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : AMD_Instinct (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In thousands) August 26, 2017 August 27, 2016 Land $ 3,914 $ 3,864 Buildings and building improvements 73,831 62,073 Machinery and equipment 99,952 95,087 Software 17,844 15,878 Transportation 8,993 8,956 Total property, plant and equipment, gross 204,534 185,858 Less accumulated depreciation (132,974 ) (129,927 ) Total property, plant and equipment, net $ 71,560 $ 55,931
+
+[VERBATIM — Changement de politique]
+We evaluate the performance of our reportable segments based on Adjusted EBITDA. Adjusted EBITDA is defined as earnings before interest, taxes, depreciation and amortization and other adjustments made in order to present comparable results from period to period. Examples of items excluded from Adjusted EBITDA include the postretirement health care benefit income resulting from the plan amendments over the past several years, favorable legal settlements including our Fiscal 2016 Australia trademark settlement, and transaction costs related to our pending acquisition of Grand Design RV.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : HTZ (CIK 0001657853) | FY2019
+FILE         : 0001657853_HTZ_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 17 — Segment Information
+ASSET CAT.   : Information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Rental Car $ 480 $ 226 $ 50 International Rental Car 147 231 235 All Other Operations 100 82 74 Total reportable segments 727 539 359 Corporate (1) (78 ) (106 ) (92 ) Total Hertz Global 649 433 267 Adjustments: Non-vehicle depreciation and amortization (203 ) (218 ) (240 ) Non-vehicle debt interest, net (311 ) (291 ) (306 ) Vehicle debt-related charges (2) (38 ) (36 ) (32 ) Loss on extinguishment of vehicle debt (3) — (22 ) — Restructuring and restructuring related charges (4) (14 ) (32 ) (20 ) Impairment charges and asset write-downs (5) — — (118 ) Information technology and finance transformation costs (6) (114 ) (98 ) (68 ) Other items (7) 44 7 (58 ) Income (loss) from before income taxes $ 13 $ (257 ) $ (575 )
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement ||| In August 2018, the FASB issued guidance on a customer's accounting for implementation fees paid in a cloud computing service contract arrangement that addresses which implementation costs to capitalize as an asset and which costs to expense. Capitalized implementation fees are to be expensed over the term of the cloud computing arrangement, and the expense is required to be recognized in the same line item in the income statement as the associated hosting service expenses. The entity is also required to present the capitalized implementation fees on the balance sheet in the same line item as the prepayment for hosting service fees associated with the cloud computing arrangement.

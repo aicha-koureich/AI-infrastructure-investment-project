@@ -1,0 +1,20 @@
+FIRM         : NMIH (CIK 0001547903) | FY2024
+FILE         : 0001547903_NMIH_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Accounting Principles
+ASSET CAT.   : equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Software and equipment are stated at cost, less accumulated amortization and depreciation. Amortization of software and depreciation of equipment commences at the beginning of the month following our placement of the assets into use.
+
+[VERBATIM — Infrastructure IA]
+We have two operating lease agreements related to our corporate headquarters and a data center facility for which we recognized operating ROU assets and lease liabilities of $8.2 million and $10.3 million in “ Other Assets” and “ Other Liabilities , ” respectively, on our consolidated balance sheets as of December 31, 2024. As of December 31, 2023, we recognized operating ROU assets and lease liabilities of $9.1 million and $11.4 million, respectively. As of December 31, 2024 and 2023, we did not have any finance leases.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

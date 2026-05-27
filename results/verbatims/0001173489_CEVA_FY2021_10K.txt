@@ -1,0 +1,23 @@
+FIRM         : CEVA (CIK 0001173489) | FY2021
+FILE         : 0001173489_CEVA_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1: ORGANIZATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, net of accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+On December 22, 2017, the U.S. government enacted the Tax Cuts and Jobs Act (the “Tax Act”). The Tax Act includes significant changes to the U.S. corporate income tax system including but not limited to: a federal corporate rate reduction from 35% to 21%; creation of the base erosion anti-abuse tax (“BEAT”), introduction of the Global Intangible Low Taxed Income (“GILTI”) provisions; the transition of U.S. international taxation from a worldwide tax system to a modified territorial tax system; modifications to the allowance of net business interest expense deductions; modification of net operating loss provisions; changes to 162 (m) limitation rules and bonus depreciation provisions. The change to a modified territorial tax system resulted in a one -time U.S. tax liability on those earnings which have not previously been repatriated to the U.S. (the “Transition Tax”), with future dividend distributions not subject to U.S. federal income tax when repatriated. A majority of the provisions in the Tax Act became effective January 1, 2018.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

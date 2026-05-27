@@ -1,0 +1,23 @@
+FIRM         : MLAB (CIK 0000724004) | FY2020
+FILE         : 0000724004_MLAB_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+For both annual service contracts and software subscriptions, revenue is recognized on a straight-line basis over the life of the contract in a faithful depiction of our obligation to provide services over the contract period.
+
+[VERBATIM — Changement de politique]
+At least annually, we evaluate and adjust as necessary the estimated lives of property, plant and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

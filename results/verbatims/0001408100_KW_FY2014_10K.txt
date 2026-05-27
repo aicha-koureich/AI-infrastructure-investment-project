@@ -1,0 +1,20 @@
+FIRM         : KW (CIK 0001408100) | FY2014
+FILE         : 0001408100_KW_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 7—OTHER ASSETS
+ASSET CAT.   : furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Office furniture and equipment net of accumulated depreciation of $5.7 million and $2.2 million at December 31, 2014 and December 31, 2013, respectively
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : HSY (CIK 0000047111) | FY2013
+FILE         : 0000047111_HSY_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4, Noncontrolling Interests in Subsidiaries
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Such costs include advertising and other marketing expenses, salaries, employee benefits, incentive compensation, research and development, travel, office expenses, amortization of capitalized software and depreciation of administrative facilities.
+
+[VERBATIM — Changement de politique]
+recorded in cost of sales during 2012 related primarily to start-up costs and accelerated depreciation of fixed assets over a reduced estimated remaining useful life associated with the Next Century program. A charge of
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

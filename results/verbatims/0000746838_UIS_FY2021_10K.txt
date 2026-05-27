@@ -1,0 +1,20 @@
+FIRM         : UIS (CIK 0000746838) | FY2021
+FILE         : 0000746838_UIS_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — Summary of significant accounting policies
+ASSET CAT.   : machinery, office equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The estimated lives used, in years, are as follows: buildings, 20 – 50; machinery and office equipment, 4 – 7; rental equipment, 4; and internal-use software, 3 – 10.
+
+[VERBATIM — Infrastructure IA]
+In September 2021, the company entered into a letter of intent (LOI) with a third party for the sale of certain facilities, land and equipment related to a data center facility located in Eagan, Minnesota. Upon the execution of the LOI, these assets were classified as held-for-sale in the company’s consolidated balance sheet and measured at the lower of their carrying amount or fair value less cost to sell.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : WLY (CIK 0000107140) | FY2013
+FILE         : 0000107140_WLY_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : APRIL 30, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 - Summary of Significant Accounting Policies
+ASSET CAT.   : Technology, equipment, Furniture and Fixtures, Computer Hardware
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-6.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Technology, property and equipment is depreciated using the straight-line method based upon the following estimated useful lives: Buildings and Leasehold Improvements – the lesser of the estimated useful life of the asset up to 40 years or the duration of the lease; Furniture and Fixtures - 3 to 10 years; Computer Hardware and Software - 3 to 10 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

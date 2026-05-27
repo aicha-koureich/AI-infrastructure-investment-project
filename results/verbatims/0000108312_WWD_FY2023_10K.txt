@@ -1,0 +1,21 @@
+FIRM         : WWD (CIK 0000108312) | FY2023
+FILE         : 0000108312_WWD_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-11-15
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Operations and summary of significant accounting policies
+ASSET CAT.   : computer equipment and software is generally depreciated over
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Included in computer equipment and software are Woodward’s enterprise resource planning (“ERP”) systems, which have an estimated useful life of 15 years. All other computer equipment and software is generally depreciated over three years to five years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

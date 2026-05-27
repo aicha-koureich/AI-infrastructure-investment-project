@@ -1,0 +1,23 @@
+FIRM         : LUV (CIK 0000092380) | FY2013
+FILE         : 0000092380_LUV_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 11
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment is stated at cost. Depreciation is provided by the straight-line method to estimated residual values over periods generally ranging from
+
+[VERBATIM — Changement de politique]
+During fourth quarter 2013, following the Company’s acquisition of additional slots at New York’s LaGuardia Airport, the Company made the determination that all of its owned domestic slots should be assigned an indefinite life and would thus not be subject to further amortization, including those that are owned but leased to other carriers. Among other factors, this was due to the Company’s reassessment of the current size and importance of its operations at New York’s LaGuardia Airport and Washington’s Ronald Reagan National Airport versus when the Company first began service to these airports in recent years. The impact of this prospective change in accounting estimate is
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : CARR (CIK 0001783180) | FY2024
+FILE         : 0001783180_CARR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment are stated at cost less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+On July 1, 2024, the Company completed the sale of Industrial Fire for cash proceeds of $1.4 billion. Industrial Fire, historically reported in the Company's Fire & Security segment, is a leading manufacturer of a full spectrum of fire detection and suppression solutions and services in critical high-hazard environments, including oil and gas, power generation, marine and offshore facilities, automotive, data centers and aircraft hangars. The Company recognized a net gain on the sale of $319 million, which is included in Discontinued operations, net of tax on the accompanying Consolidated Statement of Operations.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

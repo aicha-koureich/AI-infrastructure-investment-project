@@ -1,0 +1,21 @@
+FIRM         : MWA (CIK 0001350593) | FY2019
+FILE         : 0001350593_MWA_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 19.
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.5 ans | 5.0 ans | 6.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is recorded at cost, less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

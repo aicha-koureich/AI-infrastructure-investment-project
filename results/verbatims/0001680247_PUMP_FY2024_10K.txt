@@ -1,0 +1,23 @@
+FIRM         : PUMP (CIK 0001680247) | FY2024
+FILE         : 0001680247_PUMP_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SIGNIFICANT ACCOUNTING POLICIES (Continued)
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment — The Company’s property and equipment are recorded at cost, less accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+Change in Accounting Estimates — Current trends in hydraulic fracturing equipment operating conditions such as larger pads, changes to job design and increased pumping hours per day have resulted in shorter useful lives for certain critical components that are included in our property and equipment assets.
+
+[VERBATIM — Infrastructure IA]
+ProPetro Holding Corp. (“Holding”), a Texas corporation was formed on April 14, 2007, and it is a holding company for its wholly owned subsidiaries ProPetro Services, Inc., a Texas corporation (“Services”), Silvertip Completion Services Operating, LLC, a Delaware limited liability company (“Silvertip”), Aqua Prop, LLC, a Texas limited liability company (“AquaProp”) and ProPetro Energy Solutions, LLC, a Texas limited liability company (“PROPWR”) . Services, Silvertip and AquaProp together offer hydraulic fracturing, wireline, cementing, wet sand solutions and other complementary services to oil and gas producers, located primarily in Texas and New Mexico. PROPWR has not begun any revenue-generating activities yet and was formed to provide power generation services to oil and gas producers and non-oil and gas applications such as general industrial projects and data centers, located primarily in Texas and New Mexico and will do business as PROPWR. Holding was converted and incorporated as a Delaware Corporation on March 8, 2017.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

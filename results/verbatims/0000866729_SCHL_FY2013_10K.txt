@@ -1,0 +1,26 @@
+FIRM         : SCHL (CIK 0000866729) | FY2013
+FILE         : 0000866729_SCHL_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : May 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF THE BUSINESS, BASIS OF PRESENTATION AND
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment are depreciated over periods not exceeding
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software, net of accumulated amortization, was $50.7 and
+$57.2 at May 31, 2013 and 2012, respectively. Capitalized software is depreciated over a period of three to seven years. Amortization
+expense for capitalized software was $31.2, $27.6 and $25.8 for the fiscal years ended May 31, 2013, 2012 and 2011, respectively. Furniture, fixtures and equipment are depreciated over periods not exceeding ten years. The Company evaluates the depreciation periods of property,
+plant and equipment to determine whether events or circumstances indicate that the asset’s carrying value is not recoverable
+or warrant revised estimates of useful lives.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

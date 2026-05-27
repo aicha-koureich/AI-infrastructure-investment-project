@@ -1,0 +1,20 @@
+FIRM         : DTE (CIK 0000936340) | FY2020
+FILE         : 0000936340_DTE_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-12
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 25
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amortization expense of capitalized software
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . The amendments in this update align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal use software license). The Registrants adopted the standard effective January 1, 2020 using the prospective approach. The adoption of the ASU did not have an impact on the Registrants’ Consolidated Financial Statements. On a prospective basis, costs within the scope of this amendment will be accounted for consistent with any underlying service contracts. Capitalized implementation costs will be reflected in Other noncurrent assets on the Consolidated Statements of Financial Position and amortization of these costs will be reflected in Operation and maintenance within the Consolidated Statements of Operations. Cash flow activity will be reflected in the Other current and noncurrent assets and liabilities line within the Operating Activities section of the Consolidated Statements of Cash Flows. ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

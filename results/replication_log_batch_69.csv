@@ -1,0 +1,225 @@
+firm_cik,firm_ticker,fiscal_year,filename,filing_date,period_end_date,asset_category,useful_life_text,useful_life_min_years,useful_life_max_years,policy_change,policy_change_text,ai_infra_text,ai_infra_source,segment_ai_text,hardware_mentions,hardware_count,source_section,section_title,confidence,ambiguity_flag,ambiguity_detail,item8_method,item8_segment_count,extraction_status,error_message,review_priority
+0000039311,IBCP,2013,0000039311_IBCP_FY2013_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"fallback,idx=6156,zone=101",17,OK,,HIGH
+0000039311,IBCP,2014,0000039311_IBCP_FY2014_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=5,idx=5855,zone=10",10,OK,,HIGH
+0000039311,IBCP,2015,0000039311_IBCP_FY2015_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=5,idx=5114,zone=12",13,OK,,HIGH
+0000039311,IBCP,2016,0000039311_IBCP_FY2016_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=5,idx=4651,zone=7",15,OK,,HIGH
+0000039311,IBCP,2017,0000039311_IBCP_FY2017_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=5,idx=6003,zone=14",17,OK,,HIGH
+0000039311,IBCP,2018,0000039311_IBCP_FY2018_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=5,idx=7609,zone=21",364,OK,,HIGH
+0000039311,IBCP,2019,0000039311_IBCP_FY2019_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=5,idx=5995,zone=13",10,OK,,HIGH
+0000039311,IBCP,2020,0000039311_IBCP_FY2020_10K.html,,"December 31, 2020",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=5,idx=5639,zone=13",19,OK,,HIGH
+0000039311,IBCP,2021,0000039311_IBCP_FY2021_10K.html,,"December 31, 2021",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=5,idx=1539,zone=16",14,OK,,HIGH
+0000039311,IBCP,2022,0000039311_IBCP_FY2022_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=5,idx=1306,zone=54",13,OK,,HIGH
+0000039311,IBCP,2023,0000039311_IBCP_FY2023_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=5,idx=1441,zone=59",13,OK,,HIGH
+0000039311,IBCP,2024,0000039311_IBCP_FY2024_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=5,idx=1415,zone=59",13,OK,,HIGH
+0000064996,MCY,2013,0000064996_MCY_FY2013_10K.html,,,"Furniture, equipment","Furniture, equipment, and purchased software are depreciated on a combination of straight-line and accelerated methods over",,,No,,Not disclosed,,Not disclosed,,0,significant_accounting_policies,1. Summary of Significant Accounting Policies,3,True,3.0-7.0 ans | 5.0 ans,"score=3,idx=19336,zone=16514",696,OK,,MEDIUM
+0000064996,MCY,2014,0000064996_MCY_FY2014_10K.html,,,"Furniture, equipment","Furniture, equipment, and purchased software are depreciated on a combination of straight-line and accelerated methods over",,,No,,Not disclosed,,Not disclosed,,0,significant_accounting_policies,1. Summary of Significant Accounting Policies,3,True,3.0-7.0 ans | 7.0 ans,"score=3,idx=20915,zone=16435",702,OK,,MEDIUM
+0000064996,MCY,2015,0000064996_MCY_FY2015_10K.html,,,"Furniture, equipment","Furniture, equipment, and purchased software are depreciated on a combination of straight-line and accelerated methods over",,,No,,Not disclosed,,Not disclosed,,0,significant_accounting_policies,1. Summary of Significant Accounting Policies,3,True,3.0-7.0 ans | 7.0 ans,"score=3,idx=21422,zone=18156",744,OK,,MEDIUM
+0000064996,MCY,2016,0000064996_MCY_FY2016_10K.html,,,"Furniture, equipment","Furniture, equipment, and purchased software are depreciated on a combination of straight-line and accelerated methods over",,,No,,Not disclosed,,Not disclosed,,0,significant_accounting_policies,1. Summary of Significant Accounting Policies,3,True,3.0-7.0 ans | 7.0 ans,"score=3,idx=19091,zone=24159",813,OK,,MEDIUM
+0000064996,MCY,2017,0000064996_MCY_FY2017_10K.html,,,"Furniture, equipment","Furniture, equipment, and purchased software are depreciated on a combination of straight-line and accelerated methods over",,,No,,Not disclosed,,Not disclosed,,0,significant_accounting_policies,1. Summary of Significant Accounting Policies,3,True,3.0-7.0 ans | 7.0 ans,"score=3,idx=19947,zone=25570",882,OK,,MEDIUM
+0000064996,MCY,2018,0000064996_MCY_FY2018_10K.html,,,"Furniture, equipment","Furniture, equipment, and purchased software are depreciated on a combination of straight-line and accelerated methods over",,,No,,Not disclosed,,"In August 2018, the Financial Accounting Standards Board (""FASB"") issued Accounting Standards Update (""ASU"") 2018-15, ""Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract."" ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software under Subtopic 350-40. This ASU also requires an entity to expense the capitalized implementation costs of a hosting arrangement that is a service contract over the term of the hosting arrangement and present such expense in the same line item in the statement of income as the fees associated with the hosting element (service) of the arrangement and classify payments for capitalized implementation costs in the statement of cash flows in the same manner as payments made for fees associated with the hosting element. The entity is also required to present the capitalized implementation costs in the statement of financial position in the same line item that a prepayment for the fees of the associated hosting arrangement would be presented. ASU 2018-15 will be effective for the Company beginning January 1, 2020 with early adoption permitted. The Company is in the process of evaluating the impact of ASU 2018-15 on its consolidated financial statements and related disclosures.",,0,significant_accounting_policies,1. Summary of Significant Accounting Policies,3,True,3.0-7.0 ans | 7.0 ans,"score=3,idx=19690,zone=25007",875,OK,,MEDIUM
+0000064996,MCY,2019,0000064996_MCY_FY2019_10K.html,,"December 31, 2019","software, generally not exceeding","Furniture, equipment, and purchased software are depreciated on a combination of straight-line and accelerated methods over 3 to 7 years . The Company has capitalized certain consulting costs, payroll, and payroll-related costs for employees related to computer software developed for internal use, which are amortized on a straight-line method over the estimated useful life of the software, generally not exceeding 7 years .",3.0,7.0,No,,Not disclosed,,"In August 2018, the Financial Accounting Standards Board (""FASB"") issued Accounting Standards Update (""ASU"") 2018-15, "" Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ."" ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software under Subtopic 350-40. This ASU also requires an entity ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract",,0,significant_accounting_policies,1. Summary of Significant Accounting Policies,3,True,3.0-7.0 ans | 7.0 ans,"score=3,idx=23018,zone=26773",911,OK,,MEDIUM
+0000064996,MCY,2020,0000064996_MCY_FY2020_10K.html,,"December 31, 2020","software, generally not exceeding","Furniture, equipment, and purchased software are depreciated on a combination of straight-line and accelerated methods over 3 to 7 years. The Company has capitalized certain consulting costs, payroll, and payroll-related costs for employees related to computer software developed for internal use, which are amortized on a straight-line method over the estimated useful life of the software, generally not exceeding 7 years.",3.0,7.0,No,,Not disclosed,,"Capitalized Implementation Costs for Cloud Computing Arrangements ||| On January 1, 2020, the Company adopted Accounting Standards Update (""ASU"") 2018-15, "" Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract, "" on a prospective basis, which provides guidance that requires capitalizing and amortizing certain of the implementation costs. The majority of the Company's cloud computing arrangements relate to service contracts with third parties that host the Company's data and computing infrastructure that are used in providing services to and supporting transactions with its existing or potential policyholders and insurance agents. ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract,",,0,significant_accounting_policies,1. Summary of Significant Accounting Policies,3,True,3.0-7.0 ans | 7.0 ans,"score=2,idx=14904,zone=14465",745,OK,,MEDIUM
+0000064996,MCY,2021,0000064996_MCY_FY2021_10K.html,,2022-02-11,"Furniture, equipment","Furniture, equipment, and purchased software are depreciated on a combination of straight-line and accelerated",40.0,,No,,Not disclosed,,"Capitalized Implementation Costs for Cloud Computing Arrangements ||| On January 1, 2020, the Company adopted Accounting Standards Update (""ASU"") 2018-15, "" Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract, "" on a prospective basis, which provides guidance that requires capitalizing and amortizing certain of the implementation costs. The majority of the Company's cloud computing arrangements relate to service contracts with third parties that host the Company's data and computing infrastructure that are used in providing services to and supporting transactions with its existing or potential policyholders and insurance agents. ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract,",,0,significant_accounting_policies,1. Summary of Significant Accounting Policies,3,True,3.0-7.0 ans | 7.0 ans,"score=2,idx=14003,zone=13959",725,OK,,MEDIUM
+0000064996,MCY,2022,0000064996_MCY_FY2022_10K.html,,2023-03-31,"software, generally not exceeding","Furniture, equipment, and purchased software are depreciated on a combination of straight-line and accelerated methods over 3 to 7 years. The Company has capitalized certain consulting costs, payroll, and payroll-related costs for employees related to computer software developed for internal use, which are amortized on a straight-line method over the estimated useful life of the software, generally not exceeding 7 years.",3.0,7.0,No,,Not disclosed,,"Capitalized Implementation Costs for Cloud Computing Arrangements ||| On January 1, 2020, the Company adopted Accounting Standards Update (""ASU"") 2018-15, "" Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract, "" on a prospective basis, which provides guidance that requires capitalizing and amortizing certain of the implementation costs. The majority of the Company's cloud computing arrangements relate to service contracts with third parties that host the Company's data and computing infrastructure that are used in providing services to and supporting transactions with its existing or potential policyholders and insurance agents. ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract,",,0,significant_accounting_policies,1. Summary of Significant Accounting Policies,3,True,3.0-7.0 ans | 7.0 ans,"score=2,idx=13893,zone=13525",689,OK,,MEDIUM
+0000064996,MCY,2023,0000064996_MCY_FY2023_10K.html,,2024-02-13,"software, generally not exceeding","Furniture, equipment, and purchased software are depreciated on a combination of straight-line and accelerated methods over 3 to 7 years. The Company has capitalized certain consulting costs, payroll, and payroll-related costs for employees related to computer software developed for internal use, which are amortized on a straight-line method over the estimated useful life of the software, generally not exceeding 7 years.",3.0,7.0,No,,Not disclosed,,"Capitalized Implementation Costs for Cloud Computing Arrangements ||| The majority of the Company's cloud computing arrangements relate to service contracts with third parties that host the Company's data and computing infrastructure that are used in providing services to and supporting transactions with its existing or potential policyholders and insurance agents. The balance of capitalized implementation costs for cloud computing arrangements, net of accumulated amortization, was $0.2 million and $1.1 million at December 31, 2023 and 2022, respectively, which is included in other assets in the Company's consolidated balance sheets. The accumulated amortization was $5.5 million and $4.7 million at December 31, 2023 and 2022, respectively. The total amortization expense related to such capitalized implementation costs was $0.9 million, $2.8 million, $3.9 million for the years ended December 31, 2023, 2022, and 2021, respectively, which is included in other operating expenses in the Company's consolidated statements of operations.",,0,significant_accounting_policies,1. Summary of Significant Accounting Policies,3,True,3.0-7.0 ans | 7.0 ans,"score=2,idx=14073,zone=13529",699,OK,,MEDIUM
+0000064996,MCY,2024,0000064996_MCY_FY2024_10K.html,,2025-02-11,"Furniture, equipment, computer software","Furniture, equipment, and purchased software are depreciated on a combination of straight-line and accelerated methods over 3 to 7 years. The Company has capitalized certain consulting costs, payroll, and payroll-related costs for employees related to computer software developed for internal use, which are amortized",3.0,7.0,No,,Not disclosed,,"Capitalized Implementation Costs for Cloud Computing Arrangements ||| The majority of the Company's cloud computing arrangements relate to service contracts with third parties that host the Company's data and computing infrastructure that are used in providing services to and supporting transactions with its existing or potential policyholders and insurance agents. The balance of capitalized implementation costs for cloud computing arrangements, net of accumulated amortization, was $0 and $0.2 million at December 31, 2024 and 2023, respectively, which is included in other assets in the Company's consolidated balance sheets. The accumulated amortization was $5.7 million and $5.5 million at December 31, 2024 and 2023, respectively. The total amortization expense related to such capitalized implementation costs was $0.2 million, $0.9 million, $2.8 million for the years ended December 31, 2024, 2023, and 2022, respectively, which is included in other operating expenses in the Company's consolidated statements of operations.",,0,significant_accounting_policies,1. Summary of Significant Accounting Policies,3,True,3.0-7.0 ans | 7.0 ans,"score=2,idx=14771,zone=15496",737,OK,,MEDIUM
+0000707179,ONB,2016,0000707179_ONB_FY2016_10K.html,,"December 31, 2016",Not disclosed,Not disclosed,,,No,,Not disclosed,,"FASB ASC 350 – In April 2015, the FASB issued an update (ASU No. 2015-05, Customer’s
+Accounting for Fees Paid in a Cloud Computing Arrangement) impacting FASB ASC 350-40, Intangibles: Goodwill and Other: Internal- Use Software. This update is part of the FASB’s Simplification Initiative.
+The amendments in this update provide guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the customer should account for the software
+license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The guidance
+will not change generally accepted accounting principles for a customer’s accounting for service contracts. The amendments in this update became effective for interim and annual periods beginning after December 15, 2015 and did not have a
+material impact on the consolidated financial statements.",,0,unknown,,0,False,,"score=7,idx=16257,zone=34916",1008,OK,,HIGH
+0000707179,ONB,2017,0000707179_ONB_FY2017_10K.html,,"December 31, 2017",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=7,idx=17986,zone=32633",269,OK,,HIGH
+0000708955,FFBC,2013,0000708955_FFBC_FY2013_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=4,idx=4313,zone=13",3,OK,,HIGH
+0000708955,FFBC,2014,0000708955_FFBC_FY2014_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=4,idx=4382,zone=17",6,OK,,HIGH
+0000708955,FFBC,2015,0000708955_FFBC_FY2015_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=4,idx=3840,zone=17",6,OK,,HIGH
+0000708955,FFBC,2016,0000708955_FFBC_FY2016_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=4,idx=3827,zone=18",6,OK,,HIGH
+0000708955,FFBC,2017,0000708955_FFBC_FY2017_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=4,idx=3845,zone=18",6,OK,,HIGH
+0000708955,FFBC,2018,0000708955_FFBC_FY2018_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=4,idx=3660,zone=18",6,OK,,HIGH
+0000708955,FFBC,2019,0000708955_FFBC_FY2019_10K.html,,"December 31, 2019",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=4,idx=7258,zone=18",6,OK,,HIGH
+0000708955,FFBC,2020,0000708955_FFBC_FY2020_10K.html,,"December 31, 2020",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=2,idx=7516,zone=12",3,OK,,HIGH
+0000708955,FFBC,2021,0000708955_FFBC_FY2021_10K.html,,"December 31, 2021",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=2,idx=7820,zone=12",3,OK,,HIGH
+0000708955,FFBC,2022,0000708955_FFBC_FY2022_10K.html,,"December 31, 2022",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=2,idx=7619,zone=7",2,OK,,HIGH
+0000708955,FFBC,2023,0000708955_FFBC_FY2023_10K.html,,"December 31, 2023",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=2,idx=8143,zone=7",2,OK,,HIGH
+0000708955,FFBC,2024,0000708955_FFBC_FY2024_10K.html,,"December 31, 2024",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=2,idx=8846,zone=7",2,OK,,HIGH
+0000730708,SBCF,2013,0000730708_SBCF_FY2013_10K.html,,"December 31, 2013",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=4,idx=4808,zone=10",2,OK,,HIGH
+0000730708,SBCF,2014,0000730708_SBCF_FY2014_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=2,idx=3504,zone=6",2,OK,,HIGH
+0000730708,SBCF,2015,0000730708_SBCF_FY2015_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=2,idx=3300,zone=6",2,OK,,HIGH
+0000730708,SBCF,2016,0000730708_SBCF_FY2016_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=2,idx=3368,zone=6",2,OK,,HIGH
+0000730708,SBCF,2017,0000730708_SBCF_FY2017_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=4,idx=2683,zone=11",2,OK,,HIGH
+0000730708,SBCF,2018,0000730708_SBCF_FY2018_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=3,idx=3600,zone=17",3,OK,,HIGH
+0000730708,SBCF,2019,0000730708_SBCF_FY2019_10K.html,,"December 31, 2019",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=3,idx=51017,zone=41269",38,OK,,HIGH
+0000730708,SBCF,2020,0000730708_SBCF_FY2020_10K.html,,2020-12-31,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,B100,1,unknown,,0,False,,"score=2,idx=31257,zone=20984",339,OK,,HIGH
+0000730708,SBCF,2023,0000730708_SBCF_FY2023_10K.html,,2024-01-31,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=2,idx=26275,zone=23241",340,OK,,HIGH
+0000730708,SBCF,2024,0000730708_SBCF_FY2024_10K.html,,2024-12-31,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=2,idx=21357,zone=23190",321,OK,,HIGH
+0000834365,BLFS,2013,0000834365_BLFS_FY2013_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=5,idx=3383,zone=6023",208,OK,,HIGH
+0000834365,BLFS,2014,0000834365_BLFS_FY2014_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=5,idx=3758,zone=7739",281,OK,,HIGH
+0000834365,BLFS,2015,0000834365_BLFS_FY2015_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=5,idx=3346,zone=8047",115,OK,,HIGH
+0000834365,BLFS,2016,0000834365_BLFS_FY2016_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=7,idx=2133,zone=4940",283,OK,,HIGH
+0000834365,BLFS,2017,0000834365_BLFS_FY2017_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=7,idx=2056,zone=4652",135,OK,,HIGH
+0000834365,BLFS,2018,0000834365_BLFS_FY2018_10K.html,,"December 31, 2018",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=7,idx=1956,zone=4995",126,OK,,HIGH
+0000834365,BLFS,2019,0000834365_BLFS_FY2019_10K.html,,,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=7,idx=3020,zone=22691",149,OK,,HIGH
+0000834365,BLFS,2020,0000834365_BLFS_FY2020_10K.html,,2021-03-19,Not disclosed,Not disclosed,,,No,,Not disclosed,,"In August 2018, the FASB issued ASU No. 2018 - 15, “Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350 - 40 ): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract”, which clarifies the accounting for implementation costs in cloud computing arrangements. ASU 2018 - 15 is effective for fiscal years beginning after December 15, 2019, including interim periods within those fiscal years. The Company adopted this guidance January 1, 2020 and there was no material impact on its consolidated financial statements.",,0,unknown,,0,False,,"score=7,idx=6393,zone=9754",282,OK,,HIGH
+0000834365,BLFS,2021,0000834365_BLFS_FY2021_10K.html,,"December 31, 2021",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=7,idx=8604,zone=13230",608,OK,,HIGH
+0000834365,BLFS,2022,0000834365_BLFS_FY2022_10K.html,,"December 31, 2022",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=7,idx=7881,zone=13428",623,OK,,HIGH
+0000936528,WAFD,2013,0000936528_WAFD_FY2013_10K.html,,"SEPTEMBER 30, 2013",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=3,idx=18547,zone=10",2,OK,,HIGH
+0000936528,WAFD,2014,0000936528_WAFD_FY2014_10K.html,,"SEPTEMBER 30, 2014",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=3,idx=18617,zone=10",2,OK,,HIGH
+0000936528,WAFD,2015,0000936528_WAFD_FY2015_10K.html,,"SEPTEMBER 30, 2015",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=3,idx=17542,zone=10",2,OK,,HIGH
+0000936528,WAFD,2016,0000936528_WAFD_FY2016_10K.html,,"SEPTEMBER 30, 2016",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=3,idx=16902,zone=11",2,OK,,HIGH
+0000936528,WAFD,2017,0000936528_WAFD_FY2017_10K.html,,"SEPTEMBER 30, 2017",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=3,idx=16559,zone=13",4,OK,,HIGH
+0000936528,WAFD,2018,0000936528_WAFD_FY2018_10K.html,,"SEPTEMBER 30, 2018",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=3,idx=16871,zone=13",4,OK,,HIGH
+0000936528,WAFD,2019,0000936528_WAFD_FY2019_10K.html,,2019-10-29,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=3,idx=23371,zone=13",4,OK,,HIGH
+0000936528,WAFD,2020,0000936528_WAFD_FY2020_10K.html,,"September 30, 2020",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=2,idx=11346,zone=7",2,OK,,HIGH
+0000936528,WAFD,2022,0000936528_WAFD_FY2022_10K.html,,2022-11-11,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,A100,1,unknown,,0,False,,"score=2,idx=20247,zone=22999",778,OK,,HIGH
+0000936528,WAFD,2023,0000936528_WAFD_FY2023_10K.html,,2023-09-30,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=2,idx=19694,zone=23261",798,OK,,HIGH
+0000936528,WAFD,2024,0000936528_WAFD_FY2024_10K.html,,2024-09-30,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=2,idx=20635,zone=25797",925,OK,,HIGH
+0001030469,OFG,2015,0001030469_OFG_FY2015_10K.html,,,"EQUIPMENT, Furniture and fixtures, Information technology","OFG
+BANCORP NOTES TO
+CONSOLIDATED FINANCIAL STATEMENTS – (Continued) In connection with the FDIC-assisted
+acquisition, the Company recognized an FDIC shared-loss expense, net in the
+consolidated statements of operations, which consists of the following, for the
+years ended December 31, 2015, 2014 and 2013: Year Ended December 31, 2015 2014 2013 (In thousands) FDIC indemnification asset expense $ (36,398) $ (62,285) $ (66,253) Change in true-up payment obligation (2,677) (3,471) (3,014) Reimbursement to FDIC for recoveries (2,144) - - Final settlement with the FDIC on commercial loans (1,589) - - Total FDIC shared-loss expense, net (42,808) $ (65,756) $ (69,267) NOTE 8 — PREMISES AND EQUIPMENT Premises and equipment at December 31,
+2015 and 2014 are stated at cost less accumulated depreciation and amortization
+as follows: Useful Life December 31, (Years) 2015 2014 (In thousands) Land — $ 5,638 $ 5,680 Buildings and improvements 40 64,392 65,430 Leasehold improvements 5 — 10 20,166 23,000 Furniture and fixtures 3 — 7 13,656 12,739 Information technology and other 3 — 7 23,226 26,422 127,078 133,271 Less: accumulated depreciation and amortization (52,488) (52,672) $ 74,590 $ 80,599 Depreciation and amortization of premises and equipment totaled $ 11.1 million in 2015, $ 10.2 million in 2014 and $ 10.3 million in 2013.",,,Unclear,"Prospectively,
+for debt securities for which other-than-temporary impairments was recognized
+in earnings, the difference between the new amortized cost basis and the cash
+flows expected to be collected will be accreted as interest income. If upon
+subsequent evaluation, there is a significant increase in the cash flows
+expected to be collected or if actual cash flows are significantly greater than
+cash flows previously expected, such changes will be accounted for as a
+prospective adjustment to the accretable yield. Subsequent increases and
+decreases (if not other-than-temporary impairment) in the fair value of
+available-for-sale securities will be included in other comprehensive income
+(loss).",Not disclosed,,Not disclosed,,0,significant_accounting_policies,"NOTE 27
+– OFG BANCORP (HOLDING COMPANY ONLY) FINANCIAL INFORMATION",3,False,,"score=7,idx=42647,zone=90576",1624,OK,,MEDIUM
+0001030469,OFG,2018,0001030469_OFG_FY2018_10K.html,,,"Furniture and fixtures, Information technology","Useful Life December 31, (Years) 2018 2017 (In thousands) Land — $ 5,028 $ 5,638 Buildings and improvements 40 67,856 64,277 Leasehold improvements 5 — 10 18,274 20,647 Furniture and fixtures 3 — 7 17,137 16,242 Information technology and other 3 — 7 24,855 28,783 133,150 135,587 Less: accumulated depreciation and amortization (64,258) (67,727) $ 68,892 $ 67,860",,,Unclear,"Mortgage loans: These loans are divided into four classes: traditional
+mortgages, non-traditional mortgages, loans in loan modification programs and
+home equity secured personal loans. Traditional mortgage loans include loans
+secured by a dwelling, fixed coupons and regular amortization schedules.
+Non-traditional mortgages include loans with interest-first amortization
+schedules and loans with balloon considerations as part of their terms.
+Mortgages in loan modification programs are loans that are being serviced under
+such programs. Home equity loans are mainly equity lines of credit. The
+allowance factor on mortgage loans is impacted by the adjusted historical loss
+factors on the sub-segments and the environmental risk factors described above
+and by delinquency buckets. The traditional mortgage loan portfolio is
+further segregated by vintages and then by delinquency buckets. Effective on
+the fourth quarter of 2018, the calculation of the loss factor was changed from
+historical loss experience to a probability of default (“PD”) and loss given
+default (“LGD”) methodology. The PD results from a delinquency migration
+analysis and the LGD is based on the Bank’s historical loss experience. The
+segments and sub-segments remained unchanged as well as the environmental risk
+factors adjustments. These
+changes are considered a change in accounting estimate as per ASC 250-10
+provisions, where adjustments should be made prospectively.",Not disclosed,,"Intangibles—Goodwill and Other—Internal-Use Software (Subtopic
+350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud
+Computing Arrangement That Is a Service Contract (a consensus of the FASB
+Emerging Issues Task Force). In August 2018, the FASB issued Accounting
+Standards Update (“ASU”) 2018-15, which aligns the requirements for
+capitalizing implementation costs incurred in a hosting arrangement that is a
+service contract with the requirements for capitalizing implementation costs
+incurred to develop or obtain internal-use software (and hosting arrangements
+that include an internal-use software license). Accordingly, ASU 2018-15
+requires an entity (customer) in a hosting arrangement that is a service
+contract to follow the guidance in Subtopic 350-40 to determine which
+implementation costs to capitalize as an asset related to the service contract
+and which costs to expense. The ASU also requires the entity (customer) to
+expense the capitalized implementation costs of a hosting arrangement that is a
+service contract over the term of the hosting arrangement, which includes
+reasonably certain renewals. This ASU is the final version of Proposed
+Accounting Standards Update 2018–230—Intangibles—Goodwill and
+Other—Internal-Use Software (Subtopic 350-40): Customer's Accounting for
+Implementation Costs Incurred in a Cloud Computing Arrangement That Is a
+Service Contract, which has been deleted. This ASU will be applied
+prospectively for annual and interim periods in fiscal years beginning after
+December 15, 2019. Early adoption is permitted. The adoption of this ASU will
+not have a material impact on our consolidated financial statements and related
+disclosures. ||| In August 2018, the FASB issued Accounting
+Standards Update (“ASU”) 2018-15, which aligns the requirements for
+capitalizing implementation costs incurred in a hosting arrangement that is a
+service contract with the requirements for capitalizing implementation costs
+incurred to develop or obtain internal-use software (and hosting arrangements
+that include an internal-use software license). Accordingly, ASU 2018-15
+requires an entity (customer) in a hosting arrangement that is a service
+contract to follow the guidance in Subtopic 350-40 to determine which
+implementation costs to capitalize as an asset related to the service contract
+and which costs to expense. The ASU also requires the entity (customer) to
+expense the capitalized implementation costs of a hosting arrangement that is a
+service contract over the term of the hosting arrangement, which includes
+reasonably certain renewals. This ASU is the final version of Proposed
+Accounting Standards Update 2018–230—Intangibles—Goodwill and
+Other—Internal-Use Software (Subtopic 350-40): Customer's Accounting for
+Implementation Costs Incurred in a Cloud Computing Arrangement That Is a
+Service Contract, which has been deleted. This ASU will be applied
+prospectively for annual and interim periods in fiscal years beginning after
+December 15, 2019. Early adoption is permitted. The adoption of this ASU will
+not have a material impact on our consolidated financial statements and related
+disclosures.",,0,significant_accounting_policies,"NOTE 30 – OFG BANCORP (HOLDING COMPANY ONLY)
+FINANCIAL INFORMATION",3,False,,"score=7,idx=40992,zone=83571",1519,OK,,MEDIUM
+0001030469,OFG,2019,0001030469_OFG_FY2019_10K.html,,,"Furniture and fixtures, Information technology","Useful Life December 31, (Years) 2019 2018 (In thousands) Land — $ 4,363 $ 5,028 Buildings and improvements 40 74,840 67,856 Leasehold improvements 5 — 10 21,358 18,274 Furniture and fixtures 3 — 7 16,686 17,137 Information technology and other 3 — 7 29,230 24,855 146,477 133,150 Less: accumulated depreciation and amortization (65,372) (64,258) $ 81,105 $ 68,892",,,Unclear,"Mortgage loans: These loans are divided into four classes: traditional
+mortgages, non-traditional mortgages, loans in loan modification programs and
+mortgage secured personal loans. Traditional mortgage loans include loans
+secured by a dwelling, fixed coupons and regular amortization schedules.
+Non-traditional mortgages include loans with interest-first amortization
+schedules and loans with balloon considerations as part of their terms.
+Mortgages in loan modification programs are loans that are being serviced under
+such programs. Mortgage loans are mainly equity lines of credit. The allowance
+factor on mortgage loans is impacted by the adjusted historical loss factors on
+the sub-segments and the qualitative factors described above and by delinquency
+buckets. The traditional mortgage loan portfolio is further segregated by
+vintages and then by delinquency buckets. Effective on the fourth quarter of
+2018, the calculation of the loss factor was changed from historical loss
+experience to a probability of default (“PD”) and loss given default (“LGD”)
+methodology. The PD results from a delinquency migration analysis and the LGD
+is based on the Bank’s historical loss experience. The segments and
+sub-segments remained unchanged as well as the qualitative factors adjustments. These changes are considered
+a change in accounting estimate as per ASC 250-10 provisions, where adjustments
+should be made prospectively.",Not disclosed,,"Intangibles—Goodwill and Other—Internal-Use
+Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs
+Incurred in a Cloud Computing Arrangement That Is a Service Contract (a
+consensus of the FASB Emerging Issues Task Force). In August
+2018, the FASB issued Accounting
+Standards Update (“ASU”) 2018-15, which aligns the requirements for
+capitalizing implementation costs incurred in a hosting arrangement that is a
+service contract with the requirements for capitalizing implementation costs
+incurred to develop or obtain internal-use software (and hosting arrangements
+that include an internal-use software license). Accordingly, ASU 2018-15
+requires an entity (customer) in a hosting arrangement that is a service
+contract to follow the guidance in Subtopic 350-40 to determine which
+implementation costs to capitalize as an asset related to the service contract
+and which costs to expense. The ASU also requires the entity (customer) to
+expense the capitalized implementation costs of a hosting arrangement that is a
+service contract over the term of the hosting arrangement, which includes
+reasonably certain renewals. This ASU is the final version of Proposed
+Accounting Standards Update 2018–230—Intangibles—Goodwill and
+Other—Internal-Use Software (Subtopic 350-40): Customer's Accounting for
+Implementation Costs Incurred in a Cloud Computing Arrangement That Is a
+Service Contract, which has been deleted. This ASU
+will be applied prospectively for annual and interim periods in fiscal years
+beginning after December 15, 2019. Early adoption is permitted. The effects of this standard on
+our consolidated statement of financial position, results of operations or cash
+flows are not expected to be material . ||| Accounting
+Standards Update (“ASU”) 2018-15, which aligns the requirements for
+capitalizing implementation costs incurred in a hosting arrangement that is a
+service contract with the requirements for capitalizing implementation costs
+incurred to develop or obtain internal-use software (and hosting arrangements
+that include an internal-use software license). Accordingly, ASU 2018-15
+requires an entity (customer) in a hosting arrangement that is a service
+contract to follow the guidance in Subtopic 350-40 to determine which
+implementation costs to capitalize as an asset related to the service contract
+and which costs to expense. The ASU also requires the entity (customer) to
+expense the capitalized implementation costs of a hosting arrangement that is a
+service contract over the term of the hosting arrangement, which includes
+reasonably certain renewals. This ASU is the final version of Proposed
+Accounting Standards Update 2018–230—Intangibles—Goodwill and
+Other—Internal-Use Software (Subtopic 350-40): Customer's Accounting for
+Implementation Costs Incurred in a Cloud Computing Arrangement That Is a
+Service Contract, which has been deleted.",,0,significant_accounting_policies,"NOTE 1 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES The accounting policies of
+OFG Bancorp (Oriental) conform with GAAP and to banking industry practi",3,False,,"score=7,idx=42897,zone=85696",1598,OK,,MEDIUM
+0001724965,TALO,2018,0001724965_TALO_FY2018_10K.html,,"December 31, 2018",Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=4,idx=16450,zone=4",2,OK,,HIGH
+0001724965,TALO,2019,0001724965_TALO_FY2019_10K.html,,2020-02-28,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=4,idx=17134,zone=2",2,OK,,HIGH
+0001724965,TALO,2020,0001724965_TALO_FY2020_10K.html,,2023-01-16,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=4,idx=16883,zone=2",2,OK,,HIGH
+0001724965,TALO,2021,0001724965_TALO_FY2021_10K.html,,2023-01-15,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=4,idx=16329,zone=7",3,OK,,HIGH
+0001724965,TALO,2022,0001724965_TALO_FY2022_10K.html,,2023-02-13,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,,0,unknown,,0,False,,"score=4,idx=17323,zone=7",3,OK,,HIGH
+0001724965,TALO,2023,0001724965_TALO_FY2023_10K.html,,2024-02-07,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,B200,1,unknown,,0,False,,"score=4,idx=18027,zone=7",3,OK,,HIGH
+0001724965,TALO,2024,0001724965_TALO_FY2024_10K.html,,2027-01-31,Not disclosed,Not disclosed,,,No,,Not disclosed,,Not disclosed,B200,1,unknown,,0,False,,"score=4,idx=17294,zone=7",3,OK,,HIGH

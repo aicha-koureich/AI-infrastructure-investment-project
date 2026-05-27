@@ -1,0 +1,20 @@
+FIRM         : TCBI (CIK 0001077428) | FY2015
+FILE         : 0001077428_TCBI_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2015-05 "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) - Customer's Accounting for Fees Paid in a Cloud Computing Arrangement" ("ASU 2015-05") ||| provides guidance to customers about whether a cloud computing arrangement includes a software license. If the arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If the arrangement does not include a software license, the customer should account for the arrangement as a service contract. ASU 2015-05 is effective for annual and interim periods beginning after December 15, 2015 and is not expected to have a significant impact on our consolidated financial statements.

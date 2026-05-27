@@ -1,0 +1,21 @@
+FIRM         : COIN (CIK 0001679788) | FY2023
+FILE         : 0001679788_COIN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 13. Collateral
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-3.0 ans | 2.0-5.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment is stated at cost less accumulated depreciation. The estimated useful lives of the Company’s property, equipment, and software are generally as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

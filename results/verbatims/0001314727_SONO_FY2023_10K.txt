@@ -1,0 +1,21 @@
+FIRM         : SONO (CIK 0001314727) | FY2023
+FILE         : 0001314727_SONO_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies Basis of Presentation and Preparation The consolidated financial statements, which include the accounts 
+ASSET CAT.   : Computer hardware and software
+DURÉE        : 1.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-4.0 ans | 1.0-5.0 ans | 2.0-4.0 ans | 2.0-5.0 ans | 2.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Property and Equipment, Net Property and equipment are stated at historical cost less accumulated depreciation. Depreciation is calculated using the straight-line method over the estimated useful lives of the related assets as follows: Computer hardware and software 1 - 5 years Furniture and fixtures 2 - 5 years Tooling and production line test equipment 2 - 4 years Leasehold improvements 2 - 15 years Product displays 1 - 4 years Costs incurred to improve leased office space are capitalized. Expenditures for major renewals and improvements that extend the useful lives of property and equipment are capitalized.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We estimate SSP for items that are not sold separately, which include the products and related software, unspecified software upgrades and cloud services, using information that may include competitive pricing information, where available, as well as analysis of the cost of providing the products or services plus a reasonable margin. In developing SSP estimates, we also consider the nature of the products and services and the expected level of future services. ||| Revenue allocated to unspecified software upgrades and cloud-based services is deferred and recognized ratably over our best estimate of the period that the customer is expected to receive the services. Determining the revenue recognition period for unspecified software upgrades and cloud services requires judgment. In developing the estimated period of providing future services, we consider our past history, our plans to continue to provide services, including plans to continue to support updates and enhancements to prior versions of our products, expected technological developments, obsolescence, competition and other factors. The estimated service period may change in the future in response to competition, technology developments and our business strategy.

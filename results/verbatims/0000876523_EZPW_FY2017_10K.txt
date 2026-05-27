@@ -1,0 +1,21 @@
+FIRM         : EZPW (CIK 0000876523) | FY2017
+FILE         : 0000876523_EZPW_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5
+ASSET CAT.   : furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-7.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+years for furniture, equipment and software development costs. We depreciate leasehold improvements over the shorter of their estimated useful life (typically
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Software Development Costs and Cloud Computing Arrangements ||| We adopted ASU 2015-05, Intangibles — Goodwill and Other — Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement, during the first quarter of fiscal 2017 on a prospective basis for all arrangements entered into or materially modified after adoption of the ASU, and such adoption did not have a material impact on our consolidated financial position, results of operations or cash flows. We now consider whether cloud computing arrangements include a software license. In evaluating whether our arrangements include a software license, we consider whether we have the contractual right to take possession of the software at any time during the hosting period without significant penalty and whether it is feasible for us to either run the software on our own hardware or contract with another party unrelated to the vendor to host the software. If a cloud computing arrangement includes a software license, then we account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, we account for the arrangement as a service contract.

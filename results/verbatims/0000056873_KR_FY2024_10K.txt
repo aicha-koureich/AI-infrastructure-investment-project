@@ -1,0 +1,21 @@
+FIRM         : KR (CIK 0000056873) | FY2024
+FILE         : 0000056873_KR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 1, 2025
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 20. RECENTLY ISSUED ACCOUNTING STANDARDS
+ASSET CAT.   : Information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-9.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Information technology assets are generally depreciated over
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Capitalized implementation costs associated with cloud computing arrangements of $270 , net of accumulated amortization of $97 , and $257 , net of accumulated amortization of $65 , are included in “Other assets” in the Company’s Consolidated Balance Sheets as of February 1, 2025 and February 3, 2024, respectively. The corresponding cash flows related to these arrangements are included in “Net cash provided by operating activities” in the Company’s Consolidated Statements of Cash Flows. ||| Implementation costs related to cloud computing arrangements ||| Capitalized implementation costs associated with cloud computing arrangements of

@@ -1,0 +1,20 @@
+FIRM         : TFIN (CIK 0001539638) | FY2024
+FILE         : 0001539638_TFIN_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 24 — BUSINESS SEGMENT INFORMATION
+ASSET CAT.   : furniture, equipment, technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(Dollars in thousands) Total Corporate Year Ended December 31, 2024 Banking Factoring Payments Intelligence Segments and Other (1) Consolidated Total interest income $ 262,326 $ 137,718 $ 22,168 $ — $ 422,212 $ 303 $ 422,515 Intersegment interest allocations 26,416 (35,886) 9,470 — — — — Total interest expense 62,712 — — — 62,712 9,347 72,059 Net interest income (expense) 226,030 101,832 31,638 — 359,500 (9,044) 350,456 Credit loss expense (benefit) 13,636 4,773 57 — 18,466 301 18,767 Net interest income (expense) after credit loss expense 212,394 97,059 31,581 — 341,034 (9,345) 331,689 Noninterest income 28,167 8,683 24,080 184 61,114 4,300 65,414 Noninterest expense: Salaries and employee benefits 66,476 49,885 36,160 1,457 153,978 65,602 219,580 Depreciation 6,850 2,099 1,003 4 9,956 5,554 15,510 Other occupancy, furniture and equipment 8,801 2,138 649 3 11,591 5,913 17,504 FDIC insurance and other regulatory assessments 2,717 — — — 2,717 — 2,717 Professional fees 4,285 5,333 2,338 328 12,284 5,555 17,839 Amortization of intangible assets 2,372 1,490 6,763 — 10,625 1,367 11,992 Advertising and promotion 2,033 873 1,479 2 4,387 1,796 6,183 Communications and technology 20,853 10,131 9,440 42 40,466 10,456 50,922 Software amortization 194 2,277 2,899 1 5,371 475 5,846 Travel and entertainment 995 829 1,659 36 3,519 1,909 5,428 Other 10,979 3,588 3,583 7 18,157 4,957 23,114 Total noninterest expense 126,555 78,643 65,973 1,880 273,051 103,584 376,635 Net intersegment noninterest income (expense) (2) 535 1,628 (2,163) — — — — Net income (loss) before income tax expense $ 114,541 $ 28,727 $ (12,475) $ (1,696) $ 129,097 $ (108,629) $ 20,468
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

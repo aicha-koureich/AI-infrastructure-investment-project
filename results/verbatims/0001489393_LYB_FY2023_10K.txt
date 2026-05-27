@@ -1,0 +1,20 @@
+FIRM         : LYB (CIK 0001489393) | FY2023
+FILE         : 0001489393_LYB_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 8. Property, Plant and Equipment, Goodwill and Intangible Assets
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Year Ended December 31, Millions of dollars 2023 2022 2021 Property, plant and equipment $ 1,303 $ 1,033 $ 1,146 PO Joint Ventures and Louisiana Joint Venture 148 155 156 Emission allowances 8 8 12 Various contracts 18 18 20 Customer relationships 20 19 20 Software costs 17 14 12 Other 20 20 27 Total depreciation and amortization $ 1,534 $ 1,267 $ 1,393
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

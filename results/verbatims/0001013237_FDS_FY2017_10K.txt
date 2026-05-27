@@ -1,0 +1,21 @@
+FIRM         : FDS (CIK 0001013237) | FY2017
+FILE         : 0001013237_FDS_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property, equipment and leasehold improvements are stated at cost, less accumulated depreciation an d amortization. Computers and related equipment are depreciated on a straight-line basis over estimated useful lives of three years. Repairs and maintenance expenditures, which are not considered leasehold improvements and do not extend the useful life of the property and equipment, are expensed as incurred.
+
+[VERBATIM — Infrastructure IA]
+Expenditures associated with the Company ’s data centers, third party data costs and corporate headquarters charges are recorded by the U.S. segment and are not allocated to the other segments. The content collection centers located in India and the Philippines benefit all of the Company’s operating segments and thus the expenses incurred at these locations are allocated to each segment based on a percentage of revenues. Of the total $707.6 million of goodwill reported by the Company at August 31, 2017, 54% was recorded in the U.S. segment, 45% in the European segment and the remaining 1% in the Asia Pacific segment.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

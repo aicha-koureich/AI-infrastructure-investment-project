@@ -1,0 +1,20 @@
+FIRM         : RF (CIK 0001281761) | FY2015
+FILE         : 0001281761_RF_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 25. PARENT COMPANY ONLY FINANCIAL STATEMENTS
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2015 2014 (In millions) Land $ 488 $ 521 Premises and improvements 1,762 1,768 Furniture and equipment 990 1,028 Software 506 440 Leasehold improvements 404 405 Construction in progress 222 176 4,372 4,338 Accumulated depreciation and amortization (2,220 ) (2,145 ) $ 2,152 $ 2,193
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued new accounting guidance on the accounting for fees paid in a cloud computing arrangement. The standard provides guidance on how customers should evaluate whether such arrangements contain a software license that should be accounted for separately. A customer that determines a cloud computing arrangement contains a software license must account for the license consistently with the acquisition of other software licenses. If an arrangement does not contain a software license, the customer is required to account for it as a service contract. As a result, all software licenses within the scope of this guidance will be accounted for consistently with other licenses of intangible assets. The guidance is effective for annual and interim periods beginning after December 15, 2015. Entities can elect to apply the guidance either retrospectively or prospectively to all cloud computing arrangements entered into or materially modified after the effective date. Early adoption is permitted. Regions believes the adoption of this guidance will not have a material impact to its consolidated financial statements.

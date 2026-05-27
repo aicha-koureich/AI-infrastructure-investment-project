@@ -1,0 +1,20 @@
+FIRM         : CVLT (CIK 0001169561) | FY2022
+FILE         : 0001169561_CVLT_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 7. Property and Equipment
+ASSET CAT.   : servers, equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+March 31, 2023 2022 Land $ — $ 9,445 Buildings — 103,244 Computers, servers and other equipment 43,135 45,557 Furniture and fixtures 3,264 15,031 Leasehold improvements 8,433 9,349 Purchased software 1,862 2,016 Construction in process 111 2,119 56,805 186,761 Less: Accumulated depreciation and amortization (48,518) (80,248) $ 8,287 $ 106,513
+
+[VERBATIM — Infrastructure IA]
+We also offer appliances that integrate our software with hardware and address a wide-range of business needs and use cases, ranging from support for remote or branch offices with limited IT staff up to large corporate data centers. We typically offer appliances via a software only model in which we sell software to a third party, which assembles an integrated appliance that is sold to end user customers. As a result, the revenue and costs associated with hardware are usually not included in our financial statements.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We, in the normal course of business, enter into various purchase commitments for goods or services. Total non-cancellable purchase commitments as of March 31, 2023, relate to marketing and IT services and also include the remaining purchase commitments for our use of certain cloud services with third-party providers. ||| In June 2022, we entered into an amended agreement with a third-party provider, in the ordinary course of business, for the use of certain cloud services through June 2027. Under the amended agreement, we committed to a purchase of $200,000 throughout the term of the agreement. As of March 31, 2023, we had $164,600 of remaining obligations under the purchase agreement.

@@ -1,0 +1,20 @@
+FIRM         : MHO (CIK 0000799292) | FY2018
+FILE         : 0000799292_MHO_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 18. Share Repurchase Program
+ASSET CAT.   : computer equipment, computer software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Year Ended December 31, (In thousands) 2018 2017 Land, building and improvements $ 11,824 (a) $ 11,823 Office furnishings, leasehold improvements, computer equipment and computer software 29,920 30,409 Transportation and construction equipment 10,064 10,067 Property and equipment 51,808 52,299 Accumulated depreciation (22,413 ) (25,483 ) Property and equipment, net $ 29,395 $ 26,816
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force) ||| ASU 2018-15 requires entities that are customers in cloud computing arrangements to defer implementation costs if they would be capitalized by the entity in software licensing arrangements under the internal-use software guidance. The guidance may be applied retrospectively or prospectively to implementation costs incurred after the date of adoption. For public entities, ASU 2018-15 is effective for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years. We are currently evaluating the effect that this guidance will have on our consolidated financial statements and disclosures. ||| In August 2018, the FASB issued ASU 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force) (“ASU 2018-15”) . ASU 2018-15 requires entities that are customers in cloud computing arrangements to defer implementation costs if they would be capitalized by the entity in software licensing arrangements under the internal-use software guidance. The guidance may be applied retrospectively or prospectively to implementation costs incurred after the date of adoption. For public entities, ASU 2018-15 is effective for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years. We are currently evaluating the effect that this guidance will have on our consolidated financial statements and disclosures.

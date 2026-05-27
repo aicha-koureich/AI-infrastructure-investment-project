@@ -1,0 +1,20 @@
+FIRM         : MYRG (CIK 0000700923) | FY2020
+FILE         : 0000700923_MYRG_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Organization, Business and Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Upon retirement or disposition of property and equipment, the cost and related accumulated depreciation are removed and any resulting gain or loss is recognized in income from operations.
+
+[VERBATIM — Infrastructure IA]
+Commercial and Industrial: The C&I segment provides services including the design, installation, maintenance and repair of commercial and industrial wiring, installation of traffic networks and the installation of bridge, roadway and tunnel lighting. Typical C&I contracts cover electrical contracting services for airports, hospitals, data centers, hotels, stadiums, convention centers, renewable energy projects, manufacturing plants, processing facilities, water treatment facilities, mining facilities and transportation control and management systems. The C&I segment generally provides electric construction and maintenance services as a subcontractor to general contractors in the C&I industry, but also contracts directly with facility owners.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

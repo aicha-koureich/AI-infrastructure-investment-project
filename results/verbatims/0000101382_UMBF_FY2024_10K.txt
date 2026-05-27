@@ -1,0 +1,20 @@
+FIRM         : UMBF (CIK 0000101382) | FY2024
+FILE         : 0000101382_UMBF_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 7. GOODWILL AND OTHER INTANGIBLES Changes in the carrying amount of goodwill for the years ended December 31, 2024 and December 31, 2023 by operating 
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment consisted of the following (in thousands): December 31, 2024 2023 Land $ 40,601 $ 41,368 Buildings and leasehold improvements 383,021 370,646 Equipment 199,537 194,171 Software 290,070 287,592 Total 913,229 893,777 Accumulated depreciation ( 418,517 ) ( 394,892 ) Accumulated amortization ( 272,939 ) ( 257,185 ) Premises and equipment, net $ 221,773 $ 241,700
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Processing fees expense increased $14.8 million, or 14.4%, in 2024 compared to 2023, and increased $20.9 million, or 25.4%, in 2023 compared to 2022. The increases in 2024 and 2023 were primarily driven by higher software subscription costs due to the transition to cloud computing solutions and ongoing investments in digital channel and integrated platform solutions to support business growth.

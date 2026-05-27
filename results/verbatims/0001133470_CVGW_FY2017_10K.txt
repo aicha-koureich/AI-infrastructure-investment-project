@@ -1,0 +1,24 @@
+FIRM         : CVGW (CIK 0001133470) | FY2017
+FILE         : 0001133470_CVGW_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 4. Property, Plant, and Equipment Property, plant, and equipment consist of the following (in thousands): October 31, 2017 2016 Land $ 11,569 $ 7,023 
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property, Plant, and Equipment Property, plant, and equipment consist of the following (in thousands): October 31, 2017 2016 Land $ 11,569 $ 7,023 Buildings and improvements 44,338 22,480 Leasehold improvements 25,030 8,918 Equipment 79,023 66,109 Information systems - hardware and software 10,264 8,089 Construction in progress 7,487 25,456 177,711 138,075 Less accumulated depreciation and amortization (57,639) (50,238) $ 120,072 $ 87,837 Depreciation expense was $9.5 million, $7.3 million and $6.4 million for fiscal years 2017, 2016, and 2015, of which $0.5 million was related to depreciation on capital leases for fiscal year 2017, 2016, and 2015. Property, plant, and equipment include various capital leases which total $3.4 million and $3.2 million, less accumulated depreciation of $3.0 million and $2.5 million as of October 31, 2017 and 2016.
+
+[VERBATIM — Changement de politique]
+systems hardware and software – 3 to 10 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

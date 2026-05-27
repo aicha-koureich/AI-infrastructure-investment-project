@@ -1,0 +1,20 @@
+FIRM         : GO (CIK 0001771515) | FY2022
+FILE         : 0001771515_GO_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-21
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1—Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment — Property and equipment is stated at cost less accumulated depreciation and includes expenditures for significant improvements to leased premises. Depreciation of property and equipment is calculated using the straight-line method over the estimated useful lives of the assets, generally ranging from three to 15 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

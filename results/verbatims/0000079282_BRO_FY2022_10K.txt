@@ -1,0 +1,23 @@
+FIRM         : BRO (CIK 0000079282) | FY2022
+FILE         : 0000079282_BRO_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-19
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 7 Fi xed Assets Fixed assets at December 31 consisted of the following: (in millions) 2022 2021 Furniture, fixtures, equipment and software $ 307
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+NOTE 7 Fi xed Assets Fixed assets at December 31 consisted of the following: (in millions) 2022 2021 Furniture, fixtures, equipment and software $ 307.2 $ 259.1 Leasehold improvements 61.3 52.1 Land, buildings and improvements 108.4 97.2 Total cost 476.9 408.4 Less accumulated depreciation and amortization ( 237.0 ) ( 196.4 ) Total $ 239.9 $ 212.0 Depreciation expense for fixed assets amounted to $ 39.2 million in 2022, $ 33.3 million in 2021 and $ 26.3 million in 2020 .
+
+[VERBATIM — Changement de politique]
+The excess of the purchase price of an acquisition over the fair value of the identifiable tangible and amortizable intangible assets is assigned to goodwill. While goodwill is not amortizable, it is subject to assessment at least annually, and more frequently in the presence of certain circumstances, for impairment by application of a fair value-based test. The Company compares the fair value of each reporting unit with its carrying amount to determine if there is potential impairment of goodwill. The Company may elect to first perform a qualitative assessment to determine whether it is more likely than not that a reporting unit is impaired. If the Company does not perform a qualitative assessment, or as a result of the qualitative assessment, it is not determined that the fair value of the reporting unit more likely than not exceeds the carrying amount, the Company will calculate the fair value of the reporting unit for comparison against the carrying value. If the fair value of the reporting unit is less than its carrying value, an impairment loss is recorded to the extent that the fair value of the goodwill within the reporting unit is less than its carrying value. Fair value is estimated based upon multiples of earnings before interest, income taxes, depreciation, amortization and change in estimated acquisition earn-out payables (“EBITDAC”), or on a discounted cash flow basis. The Company completed its most recent annual assessment as of November 30, 2022 and determined that the fair value of goodwill exceeded the carrying value of such assets. In addition, as of December 31, 2022 , there are no accumulated impairment losses.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : PPL (CIK 0000922224) | FY2020
+FILE         : 0000922224_PPL_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-05-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 21. Accumulated Other Comprehensive Income (Loss)
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Effective January 1, 2020, the Registrants prospectively adopted accounting guidance that requires a customer in a cloud computing hosting arrangement that is a service contract to capitalize implementation costs consistent with internal-use software guidance for non-service arrangements. The guidance requires these capitalized implementation costs to be amortized over the term of the hosting arrangement to the statement of income line item where the service arrangement costs are recorded. The guidance also prescribes the financial statement classification of the capitalized implementation costs and cash flows associated with the arrangement. The adoption of this guidance did not have a material impact on the Registrants.
+
+[VERBATIM — Changement de politique]
+Effective January 1, 2020, the Registrants prospectively adopted accounting guidance that requires a customer in a cloud computing hosting arrangement that is a service contract to capitalize implementation costs consistent with internal-use software guidance for non-service arrangements. The guidance requires these capitalized implementation costs to be amortized over the term of the hosting arrangement to the statement of income line item where the service arrangement costs are recorded. The guidance also prescribes the financial statement classification of the capitalized implementation costs and cash flows associated with the arrangement. The adoption of this guidance did not have a material impact on the Registrants.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Accounting for Implementation Costs in a Cloud Computing Service Arrangement ||| Effective January 1, 2020, the Registrants prospectively adopted accounting guidance that requires a customer in a cloud computing hosting arrangement that is a service contract to capitalize implementation costs consistent with internal-use software guidance for non-service arrangements. The guidance requires these capitalized implementation costs to be amortized over the term of the hosting arrangement to the statement of income line item where the service arrangement costs are recorded. The guidance also prescribes the financial statement classification of the capitalized implementation costs and cash flows associated with the arrangement. The adoption of this guidance did not have a material impact on the Registrants.

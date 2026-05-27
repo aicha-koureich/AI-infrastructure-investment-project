@@ -1,0 +1,21 @@
+FIRM         : ZD (CIK 0001084048) | FY2022
+FILE         : 0001084048_ZD_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 1.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-10.0 ans | 3.0 ans
+
+[VERBATIM — Durée de vie]
+The estimated useful lives of property and equipment range from one to ten years. Fixtures, which are comprised primarily of leasehold improvements and equipment under finance leases, are amortized on a straight-line basis over their estimated useful lives or for leasehold improvements, the related lease term, if less. The Company has capitalized certain internal-use software and website development costs which are included in property and equipment and depreciated using a straight-line method over the estimated useful life which is evaluated for each specific project and is typically three years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The Company made an accounting policy election not to allocate interest to discontinued operations. Interest expense included in discontinued operations relates to the 6.0% Senior Notes (as defined in Note 10 - Debt ) issued by J2 Cloud Services, LLC and the Bridge Loan Facility (as defined in Note 10 - Debt ), which was required to be repaid as part of the Separation. ||| ) issued by J2 Cloud Services, LLC and the Bridge Loan Facility (as defined in Note 10 ||| On June 27, 2017, J2 Cloud Services, LLC (“J2 Cloud”) and J2 Cloud Co-Obligor, Inc. (the “Co-Issuer” and together with J2 Cloud, the “Issuers”), wholly-owned subsidiaries of the Company, completed the issuance and sale of $650.0 million aggregate principal amount of their 6.0% senior notes due in 2025 (the “6.0% Senior Notes”) in a private placement offering exempt from the registration requirements of the Securities Act of 1933. J2 Cloud received proceeds of $636.5 million, after deducting the initial purchasers’ discounts, commissions, and offering expenses. The 6.0% Senior Notes bore interest at a rate of 6.0% per annum, payable semi-annually in arrears on January 15 and July 15 of each year.

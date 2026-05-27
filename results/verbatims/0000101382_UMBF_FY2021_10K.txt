@@ -1,0 +1,20 @@
+FIRM         : UMBF (CIK 0000101382) | FY2021
+FILE         : 0000101382_UMBF_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 19. PARENT COMPANY FINANCIAL INFORMATION
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2021 2020 Land $ 41,513 $ 42,323 Buildings and leasehold improvements 352,954 351,957 Equipment 181,218 176,018 Software 273,342 264,251 Total 849,027 834,549 Accumulated depreciation (357,503 ) (341,379 ) Accumulated amortization (220,591 ) (200,075 ) Premises and equipment, net $ 270,933 $ 293,095
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Processing fees expense increased $ 13 . 4 million, or 24 . 6% , in 202 1 compared to 20 20 , and increased $ 2 . 0 million, or 3 . 9% , in 20 20 compared to 201 9 . The increases in 202 1 and 20 20 are primarily driven by the transition to cloud computing solutions and ongoing investments in digital channel and integrated platform solutions to support business growth and the continued modernization of core systems. ||| the transition to cloud computing solutions and

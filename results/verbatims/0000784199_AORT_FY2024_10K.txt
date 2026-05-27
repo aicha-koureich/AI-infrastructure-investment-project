@@ -1,0 +1,20 @@
+FIRM         : AORT (CIK 0000784199) | FY2024
+FILE         : 0000784199_AORT_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2024 2023 Equipment and software $ 67,125 $ 66,618 Leasehold improvements 51,213 49,107 Furniture and fixtures 7,233 7,555 Total property and equipment 125,571 123,280 Less: Accumulated depreciation (89,168) (84,922) Property and equipment, net $ 36,403 $ 38,358
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

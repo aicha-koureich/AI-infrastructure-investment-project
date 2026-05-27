@@ -1,0 +1,20 @@
+FIRM         : PR (CIK 0001658566) | FY2020
+FILE         : 0001658566_PR_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 9—Shareholders' Equity and Noncontrolling Interest
+ASSET CAT.   : equipment, furniture, computer hardware
+DURÉE        : 3.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+When other property and equipment is sold or retired, the capitalized costs and related accumulated depreciation are removed from the accounts and a gain or loss is recorded in the consolidated statements of operations as needed.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

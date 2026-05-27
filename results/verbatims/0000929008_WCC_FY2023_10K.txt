@@ -1,0 +1,21 @@
+FIRM         : WCC (CIK 0000929008) | FY2023
+FILE         : 0000929008_WCC_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2028-06-14
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 7. PROPERTY, BUILDINGS AND EQUIPMENT
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-8.0 ans
+
+[VERBATIM — Durée de vie]
+As of December 31, 2023 2022 (In millions) Buildings and leasehold improvements $ 202.6 $ 169.5 Furniture, fixtures and equipment 359.9 304.7 Software costs 292.6 272.6 855.1 746.7 Accumulated depreciation and amortization (502.5) (425.8) 352.6 320.9 Land 25.0 24.6 Construction in progress 46.0 57.1 Property, buildings and equipment, net $ 423.6 $ 402.7
+
+[VERBATIM — Infrastructure IA]
+On November 1, 2022, through its wholly-owned subsidiary WESCO Distribution, Inc. (“Wesco Distribution”), the Company acquired 100% of the equity securities of Rahi Systems Holdings, Inc. (“Rahi Systems” or “Rahi”). Headquartered in Fremont, California, Rahi Systems is a leading provider of global hyperscale data center solutions with over 900 employees in 25 countries. Rahi's expertise with complex information technology projects and global presence strengthen Wesco's data center solution offerings. Wesco Distribution funded the purchase price paid at closing with cash on hand as well as borrowings under its accounts receivable securitization and revolving credit facilities.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Other sources of cash in 2023 included a decrease in trade accounts receivable of $52.2 million due to the timing of receipts from customers and a decrease in net sales in the fourth quarter of 2023 compared to the fourth quarter of the prior year and a decrease in other accounts receivable of $3.6 million due primarily to the collection of supplier volume rebates earned in 2022 in excess of income accrued during the current period, partially offset by an increase in value-added tax receivables. Primary uses of cash in 2023 included a decrease in accounts payable of $319.7 million primarily due to a reduction in inventory purchases in the fourth quarter, a decrease in accrued payroll and benefit costs of $92.3 million resulting primarily from the payment of management incentive compensation earned in 2022, partially offset by the accrual of management incentive compensation earned in the current year. Net operating cash flow was also negatively impacted by $68.4 million from an increase in inventories. Inventories grew at a slower rate than sales, as supply chain lead times have normalized. Uses of cash in 2023 also included an increase in other current and noncurrent assets of $60.6 million primarily due to an increase in capitalized costs associated with developing cloud computing arrangements to support our digital transformation initiatives, as well as a decrease in other current and noncurrent liabilities of $23.5 million. ||| Other sources of cash in 2022 included an increase in accounts payable of $552.9 million due to higher purchases of inventory and an increase in other current and noncurrent liabilities of $131.6 million, primarily due to increases in deferred revenue and accrued taxes. Primary uses of cash in 2022 included an increase in inventories of $817.0 million due to supply chain challenges and to support growth in our sales backlog, including project-based business, an increase in trade accounts receivable of $690.6 million resulting from significant sales growth, an increase in other current and noncurrent assets of $153.2 million, primarily due to an increase in capitalized costs associated with developing cloud computing arrangements to support our digital transformation initiatives, an increase in other receivables of $54.8 million associated with higher supplier volume rebate income accruals, and a decrease in accrued payroll and benefit costs of $63.1 million due to lower incentive compensation accruals.

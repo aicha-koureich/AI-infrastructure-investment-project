@@ -1,0 +1,20 @@
+FIRM         : XHR (CIK 0001616000) | FY2014
+FILE         : 0001616000_XHR_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : building and improvements
+DURÉE        : 5.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Building and other improvements are depreciated based upon estimated useful lives of 30 years for building and improvements and 5-15 years for furniture, fixtures and equipment and site improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

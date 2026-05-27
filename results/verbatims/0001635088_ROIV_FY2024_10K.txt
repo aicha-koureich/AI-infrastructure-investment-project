@@ -1,0 +1,20 @@
+FIRM         : ROIV (CIK 0001635088) | FY2024
+FILE         : 0001635088_ROIV_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2025
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment, consisting primarily of computers, laboratory and other equipment, furniture and fixtures, software and leasehold improvements, is recorded at cost, less accumulated depreciation. Depreciation of property and equipment is recorded using the straight-line method over the estimated useful lives of the related assets once the asset has been placed in service.
+
+[VERBATIM — Infrastructure IA]
+Certain of our subsidiaries and affiliates collect, receive, store, and otherwise process significant and increasing volumes of personal data (including protected health information), research and developmental information, commercial information, and business and financial information, including information we collect about patients and healthcare providers in connection with clinical trials in the U.S. and abroad necessary to operate their businesses and for legal, marketing and other business-related purposes. We heavily rely on external security and infrastructure vendors to manage our information technology systems and data centers. We face a number of risks relative to protecting this critical information, including the loss of access, inappropriate use or disclosure, inappropriate modification, and the risk of our being unable to adequately monitor, audit and modify our controls over our critical information. This risk extends to third-party vendors and subcontractors we use to manage this sensitive data.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+performance of adequate and well-controlled human clinical trials in accordance with applicable IND regulations and requirements, GCP requirements and other clinical trial-related regulations to establish the safety and efficacy of the investigational product for each proposed indication; ||| the FDA or other relevant regulatory authorities may not accept data generated at clinical trial sites, including in situations where the authorities deem that the data was not generated in compliance with GCP, ethical standards or applicable data protection laws; ||| monitoring and assuring regulatory compliance for clinical trials, manufacturing and testing of good applicable practice (“GxP”) (e.g., GCP, GLP and GMP regulated) products;

@@ -1,0 +1,20 @@
+FIRM         : GL (CIK 0000320335) | FY2021
+FILE         : 0000320335_GL_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-23
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5—Deferred Acquisition Costs
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment : Property and equipment, included in “Other assets,” is reported at cost less accumulated depreciation. Depreciation is recorded primarily on the straight line method over the estimated useful lives of these assets which range from three to ten years for equipment and fifteen to forty years for buildings and improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

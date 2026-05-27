@@ -1,0 +1,20 @@
+FIRM         : NMIH (CIK 0001547903) | FY2019
+FILE         : 0001547903_NMIH_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Accounting Principles
+ASSET CAT.   : equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Software and equipment are stated at cost, less accumulated amortization and depreciation. Amortization of software and depreciation of equipment commences at the beginning of the month following our placement of the assets into use.
+
+[VERBATIM — Infrastructure IA]
+We have two operating lease agreements related to our corporate headquarters and a data center facility for which we recognized operating ROU assets and lease liabilities of $6.4 million and $7.4 million in "Other assets" and "Other liabilities," respectively, on our condensed consolidated balance sheet as of December 31, 2019 . As of December 31, 2019 , we did not have any finance leases.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40).This update applies to cloud computing arrangements structured as service contracts, and provides companies with guidance on the criteria for capitalizing implementation, set-up and other up-front costs incurred in association with these arrangements. We adopted this ASU on January 1, 2020 and applied it on a prospective basis for eligible costs incurred after the effective date. The adoption of this ASU did not have a material impact on our consolidated financial statements. ||| (Subtopic 350-40).This update applies to cloud computing arrangements structured as service contracts, and provides companies with guidance on the criteria for capitalizing implementation, set-up and other up-front costs incurred in association with these arrangements. We adopted this ASU on January 1, 2020 and applied it on a prospective basis for eligible costs incurred after the effective date. The adoption of this ASU did not have a material impact on our consolidated financial statements.

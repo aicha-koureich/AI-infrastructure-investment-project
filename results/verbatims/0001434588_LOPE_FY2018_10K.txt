@@ -1,0 +1,20 @@
+FIRM         : LOPE (CIK 0001434588) | FY2018
+FILE         : 0001434588_LOPE_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Summary of Significant Accounting Policies
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Technical and academic services (previously primarily a component of instructional costs and services) consist primarily of costs related to ongoing maintenance of educational infrastructure, including online course delivery and management, student records, assessment, customer relations management and other internal administrative systems. This also includes costs to provide support for curriculum and new program development, support for faculty training and development, technical support and assistance with state compliance. This expense category includes salaries, benefits and share-based compensation, information technology costs, curriculum and new program development costs (which are expensed as incurred) and other costs associated with these support services. This category also includes an allocation of depreciation, amortization, rent, and occupancy costs attributable to the provision of these services, primarily at the Company’s Phoenix, Arizona location.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

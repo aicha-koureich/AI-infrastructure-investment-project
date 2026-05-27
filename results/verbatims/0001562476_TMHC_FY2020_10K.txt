@@ -1,0 +1,20 @@
+FIRM         : TMHC (CIK 0001562476) | FY2020
+FILE         : 0001562476_TMHC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-24
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Our operating leases primarily consist of office space, construction trailers, model leasebacks, and equipment or storage units. Certain of our leases offer the option to renew or to increase rental square footage. The execution of such options are at our discretion and may result in a lease modification. We have one financing lease which relates to the development of a future project and was acquired as a result of the acquisition of WLH. The weighted average remaining lease term of our financing lease is 87.9 years, and the weighted average discount rate used in determining the lease liability is 7.3%. We currently capitalize all lease costs incurred with this finance lease as it is prepared for its intended use. The amount of interest on the financing lease liability and the amortization of right of use asset was immaterial for the year ended December 31, 2020.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

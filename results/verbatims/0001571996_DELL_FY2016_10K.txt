@@ -1,0 +1,20 @@
+FIRM         : DELL (CIK 0001571996) | FY2016
+FILE         : 0001571996_DELL_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 3, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 7
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+GAAP requires that annual amortization expense of the capitalized software development costs be the greater of the amounts computed using the ratio of gross revenue to a product's total current and anticipated revenues, or the straight-line method over the product's remaining estimated economic life.
+
+[VERBATIM — Infrastructure IA]
+main product groups: software-defined data center; hybrid cloud computing; and end-user computing.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+VMware is a leader in virtualization and cloud infrastructure solutions, which enable organizations to manage IT resources across complex multi-cloud, multi-device environments. VMware offers a broad portfolio of virtualization technologies across three main product groups: software-defined data center; hybrid cloud computing; and end-user computing.

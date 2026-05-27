@@ -1,0 +1,24 @@
+FIRM         : NFBK (CIK 0001493225) | FY2022
+FILE         : 0001493225_NFBK_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : computer software
+DURÉE        : 5.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Premises and equipment, including leasehold improvements, are carried at cost, less accumulated depreciation and amortization. Depreciation and amortization of premises and equipment, including capital leases, are computed on a straight-line basis over the estimated useful lives of the related assets. The estimated useful lives of significant classes of assets are generally as follows: buildings - forty years; furniture and equipment - five to seven years; and purchased computer software - three years.
+
+[VERBATIM — Changement de politique]
+December 31, 2022 2021 Deferred tax assets: Allowance for credit losses $ 12,202 $ 11,057 Capitalized leases Deferred compensation 2,958 3,145 Accrued salaries 1,610 1,338 Postretirement benefits 313 354 Equity awards 2,091 2,051 Straight-line leases adjustment 1,608 1,713 Asset retirement obligation 47 68 Reserve for accrued interest receivable 681 620 Reserve for loan commitments 231 537 Employee Stock Ownership Plan 633 645 Other 323 317 Depreciation 3,552 3,229 Fair value adjustments of acquired loans 1,057 1,440 Fair value adjustments of pension benefit obligations 130 139 Unrealized losses on securities 18,875 — Total gross deferred tax assets 46,311 26,653 Deferred tax liabilities: Unrealized gains on securities – AFS — 761 Unrealized actuarial gains on post retirement benefits 65 15 Fair value adjustments of acquired securities 280 580 Fair value adjustments of deposit liabilities 32 28 Deferred loan fees 2,553 2,010 Other 20 23 Total gross deferred tax liabilities 2,950 3,417 Net deferred tax asset $ 43,361 $ 23,236
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

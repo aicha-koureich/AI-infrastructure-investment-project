@@ -1,0 +1,20 @@
+FIRM         : BKNG (CIK 0001075531) | FY2016
+FILE         : 0001075531_BKNG_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Information technology expenses consist primarily of: (1) software license and system maintenance fees; (2) data communications and other expenses associated with operating our services; (3) outsourced data center costs; and (4) payments to outside consultants. Information technology expenses increased during the year ended  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

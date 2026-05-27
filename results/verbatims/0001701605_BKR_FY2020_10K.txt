@@ -1,0 +1,20 @@
+FIRM         : BKR (CIK 0001701605) | FY2020
+FILE         : 0001701605_BKR_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : 10.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We sell product services under long-term product maintenance or extended warranty agreements in our Turbomachinery & Process Solutions and Oilfield Equipment segments. These agreements require us to maintain the customers' assets over the service agreement contract terms, which generally range from 10 to 20 years. In general, these are contractual arrangements to provide services, repairs, and maintenance of a covered unit (gas turbines for mechanical drive or power generation, primarily on LNG applications, drilling rigs). These services are performed at various times during the life of the contract, thus the costs of performing services are incurred on other than a straight-line basis. We recognize related sales based on the extent of our progress toward completion measured by actual costs incurred in relation to total expected costs. We provide for any loss that we expect to incur on any of these agreements when that loss is probable. The Company utilizes historical customer data, prior
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The gain of $1.4 billion related to our C3.ai investment was recorded in the fourth quarter of 2020. We invested in C3.ai when we formed our partnership in June 2019. In December 2020, C3.ai completed its initial public offering, which requires us to mark our investment to fair value. Both our investment and strong partnership with C3.ai demonstrate our commitment for growth in high potential segments as we develop and market new AI solutions for the oil and gas industry.

@@ -1,0 +1,20 @@
+FIRM         : MSI (CIK 0000068505) | FY2014
+FILE         : 0000068505_MSI_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost less accumulated depreciation. Depreciation is recorded on a straight-line basis, based on the estimated useful lives of the assets (buildings and building equipment,
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : NTGR (CIK 0001122904) | FY2020
+FILE         : 0001122904_NTGR_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 15. Leases
+ASSET CAT.   : Computer equipment, Furniture, Machinery and equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31, 2020 December 31, 2019 (In thousands) Computer equipment $ 10,550 $ 9,883 Furniture, fixtures and leasehold improvements 18,674 18,623 Software 29,499 27,865 Machinery and equipment 72,156 59,637 Total property and equipment, gross 130,879 116,008 Accumulated depreciation and amortization (114,799 ) (98,325 ) Total $ 16,080 $ 17,683
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We believe that innovation and technological leadership is critical to our future success, and we are committed to continuing a significant level of research and development to develop new technologies, products and services. We continue to invest in research and development to grow our cloud platform capabilities, our services and mobile applications and to expand our hardware product offerings focused on WiFi 6, WiFi 6E, Advanced 4G/5G mobile and 5G coverage solutions, Pro-AV, web-managed, app-managed, 10Gig and PoE switch products. We expect research and development expense as a percentage of net revenue in fiscal 2021 to be in line or slightly above fiscal year 2020 levels. Research and development remains critical to our future success and we expect to continue to allocate resources to help accelerate growth in key strategic areas such as the continued development of our WiFi 6 product portfolio as well as services capabilities and offerings. Research and development expenses will fluctuate depending on the timing and number of development activities in any given quarter and could vary significantly as a percentage of net revenue, depending on actual revenues achieved in any given quarter.

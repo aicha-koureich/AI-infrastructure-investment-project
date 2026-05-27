@@ -1,0 +1,23 @@
+FIRM         : DXYN (CIK 0000029332) | FY2021
+FILE         : 0000029332_DXYN_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-03-16
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Provisions for depreciation and amortization of property, plant and equipment have been computed for financial reporting purposes using the straight-line method over the estimated useful lives of the related assets, ranging from 10 to 40 years for buildings and improvements, and 3 to 10 years for machinery and equipment.
+
+[VERBATIM — Changement de politique]
+1) For the remaining retained commercial inventory and fixed assets, the Company recognized adjustment to recognize the effects of the transaction. For inventory, the Company recognized lower of cost or market adjustments of approximately $6,600. The Company’s remaining fixed assets will be disposed of by sale and the Company recognized an adjustment of approximately $1,800 to reflect the lower of its carrying value or estimated fair value less cost to sell. For these assets, the Company has suspended the associated depreciation and will recognize changes in the fair value less cost to sell as gains or losses in future periods until the date of sale.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

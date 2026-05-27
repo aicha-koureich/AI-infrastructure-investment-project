@@ -1,0 +1,20 @@
+FIRM         : RIG (CIK 0001451505) | FY2018
+FILE         : 0001451505_RIG_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment —The carrying amounts of our property and equipment, consisting primarily of offshore drilling rigs and related equipment, are based on our estimates, assumptions and judgments relative to capitalized costs, useful lives and salvage values of our rigs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

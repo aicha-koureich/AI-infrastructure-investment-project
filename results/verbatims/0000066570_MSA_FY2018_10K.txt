@@ -1,0 +1,21 @@
+FIRM         : MSA (CIK 0000066570) | FY2018
+FILE         : 0000066570_MSA_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1—Significant Accounting Policies
+ASSET CAT.   : technology, computer software
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Capitalized costs are amortized using the straight-line method over the estimated useful life, beginning in the period in which the software is ready for its intended use or when the upgrade or enhancement is deployed.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

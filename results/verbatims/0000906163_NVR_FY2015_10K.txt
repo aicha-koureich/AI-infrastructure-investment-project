@@ -1,0 +1,20 @@
+FIRM         : NVR (CIK 0000906163) | FY2015
+FILE         : 0000906163_NVR_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, FASB issued ASU 2015-05, Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40) . The standard adds guidance to Subtopic 350-40 to help entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement. The standard provides a basis for evaluating whether a cloud computing arrangement includes a software license or whether the arrangement should be accounted for as a service contract. The standard is effective for us as of January 1, 2016. We do not believe that the adoption of this standard will have a material effect on our consolidated financial statements and related disclosures.

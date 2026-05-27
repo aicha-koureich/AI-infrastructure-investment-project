@@ -1,0 +1,23 @@
+FIRM         : AJG (CIK 0000354190) | FY2019
+FILE         : 0000354190_AJG_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 6. Fixed Assets Major classes of fixed assets consist of the following (in millions): December 31, 2019 2018 Office equipment $ 32.6 $ 30.0 Furniture 
+ASSET CAT.   : Office equipment, Furniture and fixtures, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Fixed Assets Major classes of fixed assets consist of the following (in millions): December 31, 2019 2018 Office equipment $ 32.6 $ 30.0 Furniture and fixtures 126.0 116.9 Leasehold improvements 150.2 132.1 Computer equipment 176.3 145.1 Land and buildings - corporate headquarters 144.9 144.3 Software 392.3 346.0 Other 19.0 12.4 Work in process 18.0 14.9 1,059.3 941.7 Accumulated depreciation (591.9 ) (504.8 ) Net fixed assets $ 467.4 $ 436.9 The amounts in work in process in the table above primarily are for capitalized expenditures incurred related to IT development projects in 2019 and 2018. 7.
+
+[VERBATIM — Changement de politique]
+Other costs that are not costs to obtain or fulfill are expensed as incurred. Examples include other operating costs such as rent, utilities, management costs, overhead costs, legal and other professional fees, technology costs, insurance related costs, communication and advertising, and travel and entertainment. Depreciation, amortization and change in estimated acquisition earnout payable are expensed as incurred.
+
+[VERBATIM — Infrastructure IA]
+We have operating leases primarily related to branch facilities, data centers, sales offices, and agent locations, automobiles and office equipment. Many of our leases include both lease (fixed rent payments) and non-lease components (common-area or other maintenance costs) which are accounted for as a single lease component as we have elected the practical expedient to group lease and non-lease components for all leases. Variable lease payments, such as periodically indexed and/or market adjustments, are presented as lease expense in the period in which they are incurred. Since we did not elect the short-term policy election, we record leases of 12 months or less on the balance sheet.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. This new accounting guidance requires deferral of certain implementation costs associated with a cloud computing arrangement, or hosting arrangement, thereby aligning deferral of such costs with implementation costs associated with developing internal-use software. Accounting for the service component of a hosting arrangement remains unchanged. An entity will defer these implementation costs over the term of the hosting arrangement, including optional renewal periods that are reasonably certain of exercise. Amounts expensed would be presented through operating expense, rather than depreciation or amortization. The new guidance is effective January 1, 2020, with early adoption permitted. An entity may adopt the guidance either prospectively for all cloud computing arrangement implementation costs incurred on or after the effective date or retrospectively, including comparative periods. We are currently assessing the impact that adopting this guidance will have on our consolidated financial statements.

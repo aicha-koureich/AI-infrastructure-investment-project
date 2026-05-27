@@ -1,0 +1,23 @@
+FIRM         : CNO (CIK 0001224608) | FY2021
+FILE         : 0001224608_CNO_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+When we realize a gain or loss on investments backing our interest-sensitive life or annuity products, we adjust the amortization to reflect the change in estimated gross profits from the products due to the gain or loss realized and the effect on future investment yields. We also adjust deferred acquisition costs (including costs related to policies other than interest-sensitive life or annuity products) for the change in amortization that would have been recorded if our fixed maturity securities, available for sale, had been sold at their stated aggregate fair value and the proceeds reinvested at current yields. We limit the total adjustment related to the impact of unrealized losses to the total of costs capitalized plus interest related to insurance policies issued in a particular year. We include the impact of this adjustment in accumulated other comprehensive income (loss) within shareholders' equity.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

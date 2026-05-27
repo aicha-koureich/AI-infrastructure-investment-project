@@ -1,0 +1,23 @@
+FIRM         : LNN (CIK 0000836157) | FY2016
+FILE         : 0000836157_LNN_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Description of Business and Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 8.0-10.0 ans | 12.0 ans
+
+[VERBATIM — Durée de vie]
+Provisions for depreciation and amortization have been
+computed principally on the straight-line method for property, plant, and equipment. Rates used for depreciation are based principally on the following expected lives: buildings -- 15 to 30 years; equipment -- 3 to 7 years; leased barrier transfer
+machines -- 8 to 10 years; leased barriers -- 12 years; other -- 2 to 20 years and leasehold improvements – shorter of the economic life or term of the lease.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : BLKB (CIK 0001280058) | FY2019
+FILE         : 0001280058_BLKB_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 6
+ASSET CAT.   : capitalized software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Qualifying capitalized software development costs are amortized on a straight-line basis over the software asset's estimated useful life, which is generally 3 to 7 years . We write off the gross carrying amount and accumulated amortization balances for all fully amortized software development cost assets.
+
+[VERBATIM — Infrastructure IA]
++ Increase in transaction-based costs of $13.0 million, related to payment services integrated in our cloud solutions + Increase in compensation costs of $11.2 million, primarily attributable to an increasing portion of our resources now providing subscription-based retained services as opposed to one-time + Increase in hosting and data center costs of $5.4 million as we are migrating our cloud infrastructure to leading public cloud service providers + Increase in third-party data and tool costs of $5.1 million  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Decrease in maintenance revenue of $18.4 million primarily related to our continuing efforts to migrate customers from legacy on-premises solutions onto our solutions powered by Blackbaud SKY, our modern cloud platform ||| + Increase in subscriptions revenue of $87.8 million related to positive demand across our portfolio of cloud solutions and, to a lesser extent, the inclusion of YourCause, an increase in services embedded in our renewable cloud solution contracts and increased sales of subscription-based retained professional services - Decrease in maintenance revenue of $18.4 million primarily related to our continuing efforts to migrate customers from legacy on-premises solutions onto our solutions powered by Blackbaud SKY, our modern cloud platform ||| During 2019 , we used net cash of $109.4 million , for our acquisition of YourCause, while we spent $44.9 million on investments in acquired companies in 2018 . We used $46.9 million for software development costs, which was up $9.2 million from cash spent during 2018 . The increase in cash outlays for software development costs was primarily related to our innovative cloud solutions as well as development activities for Blackbaud SKY, our modern cloud platform.

@@ -1,0 +1,21 @@
+FIRM         : APP (CIK 0001751008) | FY2024
+FILE         : 0001751008_APP_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-12
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2023. No individual customer represented 10% or more of the Company’s total revenue during the years ended December 31, 2024, 2023, or 2022.
+ASSET CAT.   : technology, servers and networking, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Cost of Revenue —Cost of revenue consists primarily of payment processing fees related to IAP Revenue, amortization of intangible assets related to acquired technology and Apps, amortization of finance lease right-of-use assets related to servers and networking equipment and data center costs related primarily to third-party cloud computing services.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

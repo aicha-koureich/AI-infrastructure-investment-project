@@ -1,0 +1,24 @@
+FIRM         : CUBI (CIK 0001488813) | FY2017
+FILE         : 0001488813_CUBI_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 24 – BUSINESS SEGMENTS
+ASSET CAT.   : Furniture, equipment
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+December 31, Expected Useful Life 2017 2016 (amounts in thousands) Leasehold improvements 3 to 25 years $ 14,028 $ 13,690 Furniture, fixtures and equipment 5 to 10 years 6,447 6,138 IT equipment 3 to 5 years 8,002 7,106 Automobiles 3 to 5 years 506 506 28,983 27,440 Accumulated depreciation and amortization (17,028 ) (14,671 ) Total $ 11,955 $ 12,769
+
+[VERBATIM — Changement de politique]
+Leased assets under operating leases are carried at amortized cost net of accumulated depreciation and any impairment charges. The depreciation expense of the leased assets is recognized on a straight-line basis over the contractual term of the leases up to their expected residual value. The expected residual value and, accordingly, the monthly depreciation expense, may change throughout the term of the lease. Operating lease rental income for leased assets is recognized in other non-interest income on a straight-line basis over the lease term. Customers periodically reviews its leased assets for impairment. An impairment loss is recognized if the carrying amount of the leased asset exceeds its fair value and is not recoverable. The carrying amount of leased assets is not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the lease payments and the estimated residual value upon the eventual disposition of the equipment. During 2017, Customers leased various types of equipment to customers within its commercial and industrial loan portfolio. The net carrying value of the leased assets was
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

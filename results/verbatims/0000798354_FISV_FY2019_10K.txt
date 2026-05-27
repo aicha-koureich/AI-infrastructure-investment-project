@@ -1,0 +1,21 @@
+FIRM         : FISV (CIK 0000798354) | FY2019
+FILE         : 0000798354_FISV_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are amortized using the straight-line method over their estimated useful lives, generally five years .
+
+[VERBATIM — Infrastructure IA]
+Prior to the sale transactions described above, the Lending Joint Ventures entered into variable-rate term loan facilities for an aggregate amount of $350 million in senior unsecured debt and variable-rate revolving credit facilities for an aggregate amount of $35 million with a syndicate of banks, which transferred to the Lending Joint Ventures as part of the sale. The Company has guaranteed this debt of the Lending Joint Ventures and does not anticipate that the Lending Joint Ventures will fail to fulfill their debt obligations. These debt facilities mature in March 2023, and there were no outstanding borrowings on the revolving credit facilities at December 31, 2019 and 2018 . The Company recorded an initial $34 million liability as a reduction to the gain on sale transactions for the estimated fair value of its obligations to stand ready to perform over the term of the guarantees, which is reported primarily within other long-term liabilities in the consolidated balance sheets. Such guarantees will be amortized in future periods over the contractual term. The Company recognized $7 million and $5 million in 2019 and 2018 , respectively, within other (expense) income in its consolidated statements of income related to its release from risk under the guarantees. The Company has not made any payments under the guarantees, nor has it been called upon to do so. In conjunction with the sale transactions described above, the Company also entered into certain transition services agreements to provide, at fair value, various administration, business process outsourcing, technical and data center related services for defined periods to the Lending Joint Ventures. Amounts transacted through these agreements approximated $36 million and $30 million in 2019 and 2018 , respectively, and were primarily recognized as processing and services revenue in the consolidated statements of income.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (“ASU 2018-15”), which aligns the requirements for capitalizing implementation costs incurred in a cloud computing hosting arrangement that is a service contract with the requirements under ASC 350 for capitalizing implementation costs incurred to develop or obtain internal-use software. For public entities, ASU 2018-15 is effective for fiscal years, and interim periods within those years, beginning after December 15, 2019. Entities are permitted to apply either a retrospective or prospective transition approach to adopt the guidance. The adoption of ASU 2018-15 will not have a material impact on the Company’s consolidated financial statements. ||| 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| (“ASU 2018-15”), which aligns the requirements for capitalizing implementation costs incurred in a cloud computing hosting arrangement that is a service contract with the requirements under ASC 350 for capitalizing implementation costs incurred to develop or obtain internal-use software. For public entities, ASU 2018-15 is effective for fiscal years, and interim periods within those years, beginning after December 15, 2019. Entities are permitted to apply either a retrospective or prospective transition approach to adopt the guidance. The adoption of ASU 2018-15 will not have a material impact on the Company’s consolidated financial statements.

@@ -1,0 +1,20 @@
+FIRM         : MHO (CIK 0000799292) | FY2019
+FILE         : 0000799292_MHO_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3
+ASSET CAT.   : computer equipment, computer software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Year Ended December 31, (In thousands) 2019 2018 Land, building and improvements $ — $ 11,824 (a) Office furnishings, leasehold improvements, computer equipment and computer software 28,207 29,920 Transportation and construction equipment 10,061 10,064 Property and equipment 38,268 51,808 Accumulated depreciation (16,150 ) (22,413 ) Property and equipment, net $ 22,118 $ 29,395
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

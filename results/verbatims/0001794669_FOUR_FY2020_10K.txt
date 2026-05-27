@@ -1,0 +1,20 @@
+FIRM         : FOUR (CIK 0001794669) | FY2020
+FILE         : 0001794669_FOUR_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We depend on third-party vendors for certain products and services, including components of our computer systems, software, data centers and telecommunications networks, to conduct our business. Any changes in these systems that degrade the functionality of our products and services, impose additional costs or requirements on it, or give preferential treatment to competitors’ services, including their own services, could  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : IQV (CIK 0001478242) | FY2018
+FILE         : 0001478242_IQV_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 20. Segments
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Certain costs are not allocated to the Company’s segments and are reported as general corporate and unallocated expenses. These costs primarily consist of stock-based compensation and expenses for corporate overhead functions such as senior leadership, finance, human resources, information technology, facilities and legal. The Company does not allocate depreciation and amortization, restructuring costs, merger related costs or impairment charges to its segments. Asset information by segment is not presented, as this measure is not used by the chief operating decision maker to assess the Company’s performance.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

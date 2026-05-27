@@ -1,0 +1,23 @@
+FIRM         : RIG (CIK 0001451505) | FY2013
+FILE         : 0001451505_RIG_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Operating revenues and expenses —We recognize operating revenues as they are realized and earned and can be reasonably measured, based on contractual dayrates or on a fixed-price basis, and when collectability is reasonably assured. In connection with drilling contracts, we may receive revenues for preparation and mobilization of equipment and personnel or for capital improvements to rigs. We defer the revenues earned and incremental costs incurred that are directly related to contract preparation and mobilization and recognize such revenues and costs over the primary contract term of the drilling project using the straight-line method. We amortize, in operating and maintenance costs and expenses, the fees related to contract preparation, mobilization and capital upgrades on a straight-line basis over the estimated firm period of drilling, which is consistent with the general pace of activity, level of services being provided and dayrates being earned over the life of the contract. For contractual daily rate contracts, we recognize the losses for loss contracts as such losses are incurred. We recognize the costs of relocating drilling units without contracts to more promising market sectors as such costs are incurred. Upon completion of drilling contracts, we recognize in earnings any demobilization fees received and expenses incurred. We defer capital upgrade revenues received and recognize such revenues over the primary contract term of the drilling project. We depreciate the actual costs incurred for the capital upgrade on a straight-line basis over the estimated useful life of the asset. We defer the periodic survey and drydock costs incurred in connection with obtaining regulatory certification to operate our rigs and well control systems on an ongoing basis, and we recognize such costs over the period until the next survey using the straight-line method.
+
+[VERBATIM — Changement de politique]
+The estimated original useful lives of our drilling units range from 18 to 35 years, our buildings and improvements range from 10 to 30 years and our machinery and equipment range from four to 12 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

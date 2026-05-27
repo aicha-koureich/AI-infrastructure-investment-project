@@ -1,0 +1,20 @@
+FIRM         : ONTO (CIK 0000704532) | FY2015
+FILE         : 0000704532_ONTO_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 26, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 16. Segment, Geographic, Product and Significant Customer Information
+ASSET CAT.   : equipment, Machinery and equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+At December 26, 2015 December 27, 2014 Inventories: Raw materials and sub-assemblies $ 26,784 $ 19,463 Work in process 12,862 7,723 Finished goods 8,103 7,919 Inventories 47,749 35,105 Inventories-delivered systems 2,856 1,912 Total inventories $ 50,605 $ 37,017 Property, plant and equipment, net: (1) Land $ 15,569 $ 15,572 Building and improvements 20,158 19,641 Machinery and equipment 32,995 29,456 Furniture and fixtures 2,266 2,225 Software 8,245 7,942 Capital in progress 1,328 3,512 Total property, plant and equipment, gross 80,561 78,348 Accumulated depreciation and amortization (36,068 ) (28,715 ) Total property, plant and equipment, net $ 44,493 $ 49,633 (1) Total depreciation and amortization expense for the years ended December 26, 2015, December 27, 2014 and December 28, 2013 was $6.9 million, $6.6 million, and $5.4 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : NTNX (CIK 0001618732) | FY2019
+FILE         : 0001618732_NTNX_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : July 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. OVERVIEW AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Allocated costs consist of certain facilities, depreciation and amortization, recruiting and information technology costs allocated based on headcount.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Nutanix, Inc. ("we," "us," "our" or "Nutanix") provides a leading enterprise cloud platform that consists of software solutions that power many of the world’s business applications by digitizing the traditional silos of enterprise computing. We seek to provide an enterprise cloud platform that empowers our customers to unify various clouds - private, public, distributed - into one seamless cloud, allowing enterprises to choose the right cloud for each application. Our enterprise cloud platform natively converges compute, virtualization, storage, networking, desktop and security services into one integrated, simple to consume solution, which allows enterprises to simplify the complexities of a multi-cloud environment with automation, cost governance and compliance. ||| Our enterprise cloud platform can be deployed on a variety of qualified hardware platforms or, in the case of our cloud-based software and software as a service ("SaaS") offerings, via hosted service or delivered pre-installed on an appliance that is configured to order. Non-portable software is delivered or sold alongside configured-to-order appliances with a license term equal to the life of the associated appliance. Our subscription term-based licenses are sold separately, or can be sold alongside configured-to-order appliances. Configured-to-order appliances, including our Nutanix-branded NX hardware line, can be purchased from one of our channel partners, original equipment manufacturers ("OEMs") or directly from Nutanix. Our enterprise cloud platform is typically purchased with one or more years of support and entitlements, which includes the right to software upgrades and enhancements as well as technical support. ||| media, public sector, retail, technology and telecommunications. We also sell to service providers, who utilize our enterprise cloud platform to provide a variety of cloud-based services to their customers.

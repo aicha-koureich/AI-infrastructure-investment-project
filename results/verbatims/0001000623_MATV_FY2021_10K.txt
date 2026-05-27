@@ -1,0 +1,20 @@
+FIRM         : MATV (CIK 0001000623) | FY2021
+FILE         : 0001000623_MATV_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : capitalized software
+DURÉE        : 7.0-None ans
+POLICY CHANGE: No
+HARDWARE     : TPU (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amortization of capitalized software was $3.0 million, $2.1 million and $1.9 million for the years ended December 31, 2021, 2020 and 2019, respectively. Accumulated amortization of capitalized software costs was $58.9 million and $40.5 million at December 31, 2021 and 2020, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

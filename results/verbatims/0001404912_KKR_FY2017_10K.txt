@@ -1,0 +1,23 @@
+FIRM         : KKR (CIK 0001404912) | FY2017
+FILE         : 0001404912_KKR_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : furniture, computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Fixed assets consist primarily of corporate real estate, leasehold improvements, furniture and computer hardware. Such amounts are recorded at cost less accumulated depreciation and amortization and are included in Other Assets within the accompanying consolidated statements of financial condition. Depreciation and amortization are calculated using the straight‑line method over the assets' estimated economic useful lives, which for leasehold improvements are the lesser of the lease terms or the life of the asset, and
+
+[VERBATIM — Changement de politique]
+General, administrative and other expense consists primarily of professional fees paid to legal advisors, accountants, advisors and consultants, insurance costs, travel and related expenses, communications and information services, depreciation and amortization charges, changes in fair value of contingent consideration, expenses incurred by oil and gas-producing entities (including impairment charges) that are consolidated and other general and operating expenses which are not borne by fund investors and are not offset by credits attributable to fund investors' noncontrolling interests in consolidated funds. General, administrative and other expense also consists of costs incurred in connection with pursuing potential investments that do not result in completed transactions, a substantial portion of which are borne by fund investors.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

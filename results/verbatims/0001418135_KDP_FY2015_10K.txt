@@ -1,0 +1,21 @@
+FIRM         : KDP (CIK 0001418135) | FY2015
+FILE         : 0001418135_KDP_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 25. Subsequent Event
+ASSET CAT.   : Machinery and equipment, equipment, Computer software
+DURÉE        : 3.0-25.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-8.0 ans
+
+[VERBATIM — Durée de vie]
+Type of Asset Useful Life Buildings 40 years Building improvements 5 to 35 years Machinery and equipment 3 to 25 years Vehicles 5 to 18 years Cold drink equipment 3 to 7 years Computer software 3 to 8 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

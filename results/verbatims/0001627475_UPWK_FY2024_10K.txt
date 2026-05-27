@@ -1,0 +1,20 @@
+FIRM         : UPWK (CIK 0001627475) | FY2024
+FILE         : 0001627475_UPWK_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5—Balance Sheet Components
+ASSET CAT.   : Computer equipment, furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In thousands) 2024 2023 Internal-use software and platform development $ 59,815 $ 47,096 Leasehold improvements 6,025 11,644 Computer equipment and software 6,817 6,605 Office furniture and fixtures 1,755 2,745 Total property and equipment 74,412 68,090 Less: accumulated depreciation (44,356) (40,950) Property and equipment, net $ 30,056 $ 27,140
+
+[VERBATIM — Infrastructure IA]
+Our principal commitments consist of the Notes, future purchase commitments for cloud infrastructure and other services, and obligations under our non-cancellable operating leases for office space. Assuming the outstanding Notes are not converted into our common stock, repurchased, or redeemed prior to maturity, (i) annual interest expense relating to the Notes will be $2.7 million in each fiscal year through 2025 and $1.8 million in 2026 and (ii) principal in the amount of $361.0 million will be payable upon the maturity of the Notes on August 15, 2026. For additional information about our Notes, see the section below titled “—Convertible Senior Notes Due 2026.”  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Cost of Revenue. Cost of revenue consists primarily of the cost of payment processing fees, amounts paid to talent to deliver services for clients under our Managed Services offering, personnel-related costs for our services and support personnel, third-party hosting fees for our use of AWS, and the amortization expense associated with capitalized internal-use software and platform development costs. We define personnel-related costs as salaries, bonuses, benefits, travel and entertainment, and stock-based compensation costs for employees and the costs related to other service providers we engage. ||| Cost of revenue consists primarily of the cost of payment processing fees, amounts paid to talent to deliver services for clients under our Managed Services offering, personnel-related costs for our services and support personnel, third-party hosting fees for our use of AWS, and the amortization expense associated with capitalized internal-use software and platform development costs. We define personnel-related costs as salaries, bonuses, benefits, travel and entertainment, and stock-based compensation costs for employees and the costs related to other service providers we engage.

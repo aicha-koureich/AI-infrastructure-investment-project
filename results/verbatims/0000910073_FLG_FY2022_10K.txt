@@ -1,0 +1,20 @@
+FIRM         : FLG (CIK 0000910073) | FY2022
+FILE         : 0000910073_FLG_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: SUMMARY OF SIGNIF ICANT ACCOUNTING POLICIES
+ASSET CAT.   : premises
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises, furniture, fixtures, and equipment are carried at cost, less the accumulated depreciation computed on a straight-line basis over the estimated useful lives of the respective assets (generally 20 years for premises and three to ten years for furniture, fixtures,
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

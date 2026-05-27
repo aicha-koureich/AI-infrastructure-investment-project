@@ -1,0 +1,44 @@
+FIRM         : CATO (CIK 0000018255) | FY2018
+FILE         : 0000018255_CATO_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary
+of Significant Accounting Policies:
+ASSET CAT.   : equipment, Information technology
+equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+The Company invests in leaseholds and equipment primarily
+in connection with the opening and remodeling of stores and in computer
+software and hardware. The Company periodically reviews its store locations and
+estimates the recoverability of its long-lived assets, which primarily relate
+to Fixtures and equipment, Leasehold improvements, and Information technology
+equipment and software. An impairment charge is recorded for the amount by
+which the carrying value exceeds the estimated fair value when the Company
+determines that projected cash flows associated with those long-lived assets
+will not be sufficient to recover the carrying value. This determination is
+based on a number of factors, including the store’s historical operating
+results and projected cash flows, which include future sales growth
+projections. Further, in determining when to close a store, the Company
+considers real estate development in the area and perceived local market
+conditions, which can be difficult to predict and may be subject to change. Asset impairment charges of $1,548,000, $7,698,000 and
+$13,561,000 were incurred in fiscal 2018, fiscal 2017 and fiscal 2016,
+respectively. In addition, the Company
+regularly evaluates its other long-lived assets and may accelerate depreciation
+over the revised useful life if the asset is expected to be replaced or has
+limited future value. When assets are retired or otherwise disposed of, the
+cost and related accumulated depreciation or amortization are removed from the
+accounts, and any resulting gain or loss is reflected in income for that
+period.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : KALU (CIK 0000811596) | FY2020
+FILE         : 0000811596_KALU_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-01-14
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 8. Derivatives, Hedging Programs and Other Financial Instruments
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Gain or loss on the hedged item (e.g., equipment purchase firm commitments) and the remaining gain or loss on the fair value hedge is recorded within Depreciation and amortization in the period that the gain or loss occurs.
+
+[VERBATIM — Changement de politique]
+We also grant performance-based awards to executive officers and other key employees. The methodology used to value these performance-based awards is based on the nature of the performance conditions within those awards. Awards that are subject to performance conditions pertaining to total shareholder return (market-based awards) are valued on the date of grant using a Monte Carlo valuation model. The key assumptions in applying this model are an expected volatility and a risk-free interest rate. Awards with certain other performance conditions (non-market-based awards) are valued based on our stock price at the date of grant. Our non‑market-based awards have performance conditions pertaining to our cost performance, economic value added performance and adjusted EBITDA margin performance, which is measured by our adjusted earnings before interest, taxes, depreciation and amortization (“Adjusted EBITDA”) as a percentage of value added revenue. Holders of performance-based awards receive a one-time payment at the time of issuance of vested shares based on the total dividends they would have received if the vested shares had been held of record from the date of grant through the date of issuance. For more information on our stock-based compensation (see Note 7).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (“ASU 2018-15”), was issued in August 2018. Under ASU 2018-15, requirements for capitalizing implementation costs incurred in a hosting arrangement (cloud computing) that is a service contract are to be aligned with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. We adopted ASU 2018-15 during the quarter ended March 31, 2020 using the prospective transition approach. The implementation costs we capitalized during the twelve months ended December 31, 2020 were included in both Prepaid expenses and other current assets and Other assets in our Consolidated Balance Sheets. The corresponding cash flows related to these arrangements were included in Net cash provided by operating activities in our Statements of Consolidated Cash Flows. ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

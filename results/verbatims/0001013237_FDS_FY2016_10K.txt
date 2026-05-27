@@ -1,0 +1,21 @@
+FIRM         : FDS (CIK 0001013237) | FY2016
+FILE         : 0001013237_FDS_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 7. SEGMENT INFORMATION
+ASSET CAT.   : furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+The European segment is headquartered in London, England and maintains office locations in France, Germany, Ireland, Italy, Latvia, Luxembourg, the Netherlands, Spain, South Africa, Sweden and Dubai. The Asia Pacific segment is headquartered in Tokyo, Japan with office locations in Australia, Hong Kong, Singapore and India. Segment revenues reflect direct sales to clients based in their respective geographic locations. There are no intersegment or intercompany sales of FactSet services. Each segment records compensation expense, including stock-based compensation, amortization of intangible assets, depreciation of furniture and fixtures, amortization of leasehold improvements, communication costs, professional fees, rent expense, travel, marketing, office and other direct expenses. Expenditures associated with the Company’s data centers, third party data costs and corporate headquarters charges are recorded by the U.S. segment and are not allocated to the other segments. The content collection centers located in India and the Philippines benefit all of the Company’s operating segments and thus the expenses incurred at these locations are allocated to each segment based on a percentage of revenues. Of the total $452.9 million of goodwill reported by the Company at August 31, 2016, 81% was recorded in the U.S. segment, 18% in the European segment and the remaining 1% in the Asia Pacific segment.
+
+[VERBATIM — Infrastructure IA]
+The European segment is headquartered in London, England and maintains office locations in France, Germany, Ireland, Italy, Latvia, Luxembourg, the Netherlands, Spain, South Africa, Sweden and Dubai. The Asia Pacific segment is headquartered in Tokyo, Japan with office locations in Australia, Hong Kong, Singapore and India. Segment revenues reflect direct sales to clients based in their respective geographic locations. There are no intersegment or intercompany sales of FactSet services. Each segment records compensation expense, including stock-based compensation, amortization of intangible assets, depreciation of furniture and fixtures, amortization of leasehold improvements, communication costs, professional fees, rent expense, travel, marketing, office and other direct expenses. Expenditures associated with the Company’s data centers, third party data costs and corporate headquarters charges are recorded by the U.S. segment and are not allocated to the other segments. The content collection centers located in India and the Philippines benefit all of the Company’s operating segments and thus the expenses incurred at these locations are allocated to each segment based on a percentage of revenues. Of the total $452.9 million of goodwill reported by the Company at August 31, 2016, 81% was recorded in the U.S. segment, 18% in the European segment and the remaining 1% in the Asia Pacific segment.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Customers’ Accounting for Cloud Computing Costs ||| In April 2015, the FASB issued an accounting standard update to provide guidance on a customer’s accounting for cloud computing costs. Under the accounting standard update, a customer must determine whether a cloud computing arrangement contains a software license. If so, the customer would account for the fees related to the software license element in a manner consistent with internal-use software guidance. This new guidance will be effective for FactSet beginning in the first quarter of fiscal 2017. The Company does not believe this new accounting standard update will have a material impact on its consolidated financial statements.

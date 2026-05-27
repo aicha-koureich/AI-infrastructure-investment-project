@@ -1,0 +1,24 @@
+FIRM         : MSFT (CIK 0000789019) | FY2023
+FILE         : 0000789019_MSFT_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 7 — PROPERTY AND EQUIPMENT
+ASSET CAT.   : server, network equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : A100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 4.0 ans | 6.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation expense declined in fiscal year 2023 due to the change in estimated useful lives of our server and network equipment.
+
+[VERBATIM — Changement de politique]
+In July 2022, we completed an assessment of the useful lives of our server and network equipment. Due to investments in software that increased efficiencies in how we operate our server and network equipment, as well as advances in technology, we determined we should increase the estimated useful lives of both server and network equipment from four years to six years .
+
+[VERBATIM — Infrastructure IA]
+The investments we are making in cloud and AI infrastructure and devices will continue to increase our operating costs and may decrease our operating margins. We continue to identify and evaluate opportunities to expand our datacenter locations and increase our server capacity to meet the evolving needs of our customers, particularly given the growing demand for AI services. Our datacenters depend on the availability of permitted and buildable land, predictable energy, networking supplies, and servers, including graphics processing units (“GPUs”) and other components. Our devices are primarily manufactured by third-party contract manufacturers. For the majority of our products, we have the ability to use other manufacturers if a current vendor becomes unavailable or unable to meet our requirements. However, some of our products contain certain components for which there are very few qualified suppliers. Extended disruptions at these suppliers could impact our ability to manufacture devices on time to meet consumer demand.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+The investments we are making in cloud and AI infrastructure and devices will continue to increase our operating costs and may decrease our operating margins. We continue to identify and evaluate opportunities to expand our datacenter locations and increase our server capacity to meet the evolving needs of our customers, particularly given the growing demand for AI services. Our datacenters depend on the availability of permitted and buildable land, predictable energy, networking supplies, and servers, including graphics processing units (“GPUs”) and other components. Our devices are primarily manufactured by third-party contract manufacturers. For the majority of our products, we have the ability to use other manufacturers if a current vendor becomes unavailable or unable to meet our requirements. However, some of our products contain certain components for which there are very few qualified suppliers. Extended disruptions at these suppliers could impact our ability to manufacture devices on time to meet consumer demand. ||| Our commercial business primarily consists of Server products and cloud services, Office Commercial, Windows Commercial, the commercial portion of LinkedIn, Enterprise Services, and Dynamics. Our commercial metrics allow management and investors to assess the overall health of our commercial business and include leading indicators of future performance. ||| Revenue from Azure and other cloud services, Office 365 Commercial, the commercial portion of LinkedIn, Dynamics 365, and other commercial cloud properties

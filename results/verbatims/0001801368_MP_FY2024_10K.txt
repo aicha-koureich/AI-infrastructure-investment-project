@@ -1,0 +1,23 @@
+FIRM         : MP (CIK 0001801368) | FY2024
+FILE         : 0001801368_MP_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2—SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment: Property, plant and equipment are recorded at cost and depreciated over their useful lives. Expenditures for new property, plant and equipment and improvements that extend the useful life or functionality of the assets are recorded at their cost of acquisition or construction. Depreciation on property, plant and equipment is recognized on a straight-line basis over their estimated useful lives, as follows:
+
+[VERBATIM — Changement de politique]
+Government Grants: Government grants represent benefits provided by federal, state, or local governments that are not subject to the scope of ASC Topic 740, “Income Taxes” (“ASC 740”). Government grants are initially estimated and recognized when there is reasonable assurance the conditions of the grant will be met, and the grant will be received. When a grant is related to the purchase or construction of a long-lived asset (considered asset-based grants), the funds received are recorded as reductions of the related asset’s carrying amount, thereby reducing future depreciation expense. Alternatively, when a grant is related to an expense item (considered income-based grants), it is recognized as a reduction of expense to which the grant activity relates over the periods necessary to match the grant on a systematic basis to the costs that it is intended to compensate. The effect of a change in estimate is recognized in the period in which management concludes that it is no longer reasonably assured that (i) all of the grant conditions will be met or (ii) a portion of the grant will be received. Within the
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : STWD (CIK 0001465128) | FY2024
+FILE         : 0001465128_STWD_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-27
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Equity interest in a data center business in Ireland (5)  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Equity interest in a data center business in Ireland (5) ||| Participation / Ownership % (1) Carrying value as of December 31, 2024 December 31, 2023 Equity method investments: Equity interests in two natural gas power plants 10% - 12% $ 53,645 $ 52,230 Equity interest in a retail center in Hawaii (2) 25% 6,184 — Investor entity which owns equity in an online real estate company 50% 5,178 5,575 Various (3) 17,927 16,854 82,934 74,659 Other equity investments: Equity interest in a servicing and advisory business (4) 2% 7,462 12,955 Equity interest in a data center business in Ireland (5) 0.72% 7,672 1,313 Investment funds which own equity in a loan servicer and other real estate assets 4% - 6% 695 842 Various (6) 3% - 15% 607 607 16,436 15,717 $ 99,370 $ 90,376 ||| We hold a 0.72% equity interest in a data center business in Ireland that had a carrying value of $7.7 million as of December 31, 2024. An investment fund and certain other entities affiliated with our Manager exercise a combined 50% voting interest in this entity. During the year ended December 31, 2024, we contributed an additional $0.3 million. Refer to Note 9 for additional details.

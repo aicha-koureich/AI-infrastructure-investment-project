@@ -1,0 +1,21 @@
+FIRM         : GT (CIK 0000042582) | FY2019
+FILE         : 0000042582_GT_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Accounting Policies A summary of the significant accounting policies used in the preparation of the accompanying consoli
+ASSET CAT.   : Equipment
+DURÉE        : 1.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 7.2 ans
+
+[VERBATIM — Durée de vie]
+Balance at Adjustment for Balance at (In millions) December 31, 2018 New Standard January 1, 2019 Deferred Income Taxes — Asset $ 1,847 $ 7 $ 1,854 Operating Lease Right-of-Use Assets — 882 882 Property, Plant and Equipment, less Accumulated Depreciation 7,259 (16 ) 7,243 Operating Lease Liabilities due Within One Year — 204 204 Operating Lease Liabilities — 684 684 Long Term Debt and Finance Leases 5,110 14 5,124 Other Long Term Liabilities 471 (6 ) 465 Retained Earnings 6,597 (23 ) 6,574
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued an accounting standards update with new guidance requiring a customer in a cloud computing arrangement that is a service contract to follow existing internal-use software guidance to determine which implementation costs to capitalize as an asset. The standards update is effective for fiscal years and interim periods beginning after December 15, 2019, with early adoption permitted, and may be applied retrospectively or as of the beginning of the period of adoption. The adoption of this standards update will not have a material impact on our consolidated financial statements.

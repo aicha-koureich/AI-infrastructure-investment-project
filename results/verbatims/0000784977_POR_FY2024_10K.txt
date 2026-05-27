@@ -1,0 +1,20 @@
+FIRM         : POR (CIK 0000784977) | FY2024
+FILE         : 0000784977_POR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Costs to purchase or develop software applications for internal use only are capitalized and amortized over the estimated useful life of the software.
+
+[VERBATIM — Infrastructure IA]
+• uncertainties associated with increased energy demand or significant accelerated growth in demand due to new data centers, including the concentration of data centers, and the ability to obtain regulatory approvals, environmental, and other permits to construct new facilities in a timely manner;  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

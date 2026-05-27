@@ -1,0 +1,20 @@
+FIRM         : NOVT (CIK 0001076930) | FY2020
+FILE         : 0001076930_NOVT_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : buildings and building improvements
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are recorded at cost, adjusted for any impairment, less accumulated depreciation. The Company uses the straight-line method to calculate the depreciation of its property, plant and equipment over their estimated useful lives. Estimated useful lives range from 3 to 30 years for buildings and building improvements and 3 to 10 years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

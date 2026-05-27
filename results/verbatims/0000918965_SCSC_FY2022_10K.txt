@@ -1,0 +1,21 @@
+FIRM         : SCSC (CIK 0000918965) | FY2022
+FILE         : 0000918965_SCSC_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-06-30
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : furniture, equipment and computer software
+DURÉE        : 25.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is computed using the straight-line method over estimated useful lives of 3 to 10 years for furniture, equipment and computer software, 25 to 40 years for buildings and 15 years for building improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ScanSource is a leading hybrid distributor connecting devices to the cloud and accelerating growth for partners across hardware, SaaS, connectivity and cloud. We provide technology solutions and services from more than 500 leading suppliers of mobility and barcode, POS and payments, physical security and networking, communications and collaboration, connectivity and cloud services to our approximately 30,000 sales partners located in the United States, Canada, Brazil, the UK and Europe. ||| Our strategy is to drive sustainable, profitable growth by orchestrating hybrid technology solutions through a growing ecosystem of partners leveraging our people, processes and tools. Our goal is to provide exceptional experiences for our partners, suppliers and employees, and we strive for operational excellence. Our hybrid distribution strategy relies on a channel sales model to offer hardware, SaaS, connectivity and cloud services from leading technology suppliers to sales partners that solve end-customers’ challenges. ScanSource enables sales partners to deliver solutions for their customers to address changing end-customer buying and consumption patterns. Our solutions may include a combination of offerings from multiple suppliers or give our sales partners access to additional services. As a trusted adviser to our sales partners, we provide customized solutions through our strong understanding of end-customer needs. ||| The Modern Communications & Cloud segment consists of sales to customers in North America, Brazil, Europe and the UK. During fiscal year 2022, net sales for this segment increased $112.7 million, or 8.4%, compared to fiscal year 2021. Excluding the foreign exchange positive impact of $7.1 million, adjusted net sales increased $105.6 million, or 7.9%, compared to the prior year. The increase in net sales and adjusted net sales is primarily due to increased demand across our communications solutions.

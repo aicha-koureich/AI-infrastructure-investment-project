@@ -1,0 +1,21 @@
+FIRM         : KEYS (CIK 0001601046) | FY2024
+FILE         : 0001601046_KEYS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. OVERVIEW, BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Grants in form of tax credits related to capital expenditures are recognized as a reduction to property, plant and equipment with a corresponding reduction to depreciation expense over the expected useful life of the related asset.
+
+[VERBATIM — Infrastructure IA]
+Our first-to-market solutions strategy enables customers to develop new technologies and accelerate innovation and provides a platform for Keysight's long-term growth. Our customers are expected to continue to make R&D investments in certain next-generation technologies and applications, including evolution of 5G, early 6G, high-speed data center networks and infrastructure, satellite networks, Artificial Intelligence (“AI”), next generation electric vehicles and autonomous vehicles, industrial internet of things (“IoT”), and defense modernization. We continue to engage actively with our customers, and closely monitor the current macroeconomic environment, including trade, tariffs, monetary and fiscal policies and geopolitical tensions. We remain confident in the long-term secular growth trends of our markets and our ability to outperform in a variety of market conditions.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

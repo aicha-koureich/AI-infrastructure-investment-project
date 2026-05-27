@@ -1,0 +1,20 @@
+FIRM         : TYL (CIK 0000860731) | FY2022
+FILE         : 0000860731_TYL_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Investing activities used cash of $172.5 million in 2022 compared to $2.1 billion in 2021. On October 31, 2022, we acquired Rapid Financial Solutions, LLC, for the total purchase price, net of cash acquired of $2.2 million, of approximately $67.7 million, consisting of $51.2 million paid in cash, $18.2 million of common stock, and $500,000 related to working capital holdbacks, subject to certain post-closing adjustments. On May 31, 2022, we completed the acquisition of Quatred, LLC for the total cash price of approximately $637,000. On February 8, 2022, we acquired US eDirect Inc, for the total purchase price, net of cash acquired of $6.4 million, of approximately $116.5 million, consisting of $118.8 million paid in cash and approximately $4.1 million related to indemnity holdbacks. During 2022, we also paid approximately $1.9 million in indemnity and working capital holdbacks related to acquisitions completed in late 2021. In addition, approximately $27.6 million of software development costs were capitalized. Approximately $22.5 million was invested in property and equipment, including $4.5 million related to real estate. The remaining additions were for computer equipment and furniture and fixtures in support of growth, particularly with respect to data centers supporting growth in our cloud-based offerings.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

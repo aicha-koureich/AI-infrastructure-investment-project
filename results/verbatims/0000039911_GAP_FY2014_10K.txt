@@ -1,0 +1,23 @@
+FIRM         : GAP (CIK 0000039911) | FY2014
+FILE         : 0000039911_GAP_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 18. Quarterly Information (Unaudited)
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+($ in millions) January 31, 2015 February 1, 2014 Leasehold improvements $ 3,220 $ 3,211 Furniture and equipment 2,560 2,493 Software 1,349 1,173 Land, buildings, and building improvements 1,009 1,106 Construction-in-progress 167 176 Property and equipment, at cost 8,305 8,159 Less: Accumulated depreciation (5,532 ) (5,401 ) Property and equipment, net of accumulated depreciation $ 2,773 $ 2,758
+
+[VERBATIM — Changement de politique]
+The decision to close a store, corporate facility, or distribution center can result in accelerated depreciation and amortization over the revised remaining useful lives of the associated long-lived assets. In addition, upon exiting leased premises, we record a charge and corresponding lease loss reserve equal to the incremental amount of the present value of the net future obligation greater than the remaining rent-related deferred balances. The net future obligation is determined as the remaining contractual rent obligations less the amount for which we are able to or expect to be able to sublease the properties. We estimate the amount for which we expect to be able to sublease the properties based on the status of our efforts to sublease vacant office space and stores, a review of real estate market conditions, our projections for sublease income, and our assumptions regarding sublease commencement. Lease losses are recorded in operating expenses in the Consolidated Statements of Income.
+
+[VERBATIM — Infrastructure IA]
+and to reduce the scope of services provided by IBM as we opted to take back certain services related to our mainframe services, our data centers, and our corporate network. We pay IBM a combination of fixed and variable charges, with the variable charges fluctuating based on our actual consumption of services, and we have various options to terminate the agreement. IBM also has certain termination rights in the event of our material breach of the agreement and failure to cure. We paid  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

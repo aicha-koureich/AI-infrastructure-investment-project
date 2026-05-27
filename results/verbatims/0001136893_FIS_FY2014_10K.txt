@@ -1,0 +1,20 @@
+FIRM         : FIS (CIK 0001136893) | FY2014
+FILE         : 0001136893_FIS_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Capitalized software, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2014 2013 Software from business acquisitions $ 519.2 $ 535.6 Capitalized software development costs 953.1 847.6 Purchased software 120.3 174.3 Computer software 1,592.6 1,557.5 Accumulated amortization (699.2 ) (701.0 ) Computer software, net of accumulated amortization $ 893.4 $ 856.5
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

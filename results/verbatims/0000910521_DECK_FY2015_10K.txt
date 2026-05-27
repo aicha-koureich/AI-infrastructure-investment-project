@@ -1,0 +1,20 @@
+FIRM         : DECK (CIK 0000910521) | FY2015
+FILE         : 0000910521_DECK_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. The Company and Summary of Significant Accounting Policies
+ASSET CAT.   : machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Other long-lived assets, such as machinery and equipment, internal use software, leasehold improvements, and purchased intangibles subject to amortization, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05, Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement, which clarifies whether a cloud computing arrangement should be treated as a software license or a service contract. Customers that have a cloud computing arrangement that includes a software license are required to account for the software license element of the arrangement consistent with the acquisition of other software licenses. Customers that have a cloud computing arrangement that does not include a software license are required to account for the arrangement as a service contract. This ASU is effective for us on April 1, 2016, with early adoption permitted. The adoption of ASU No. 2015-05 is not expected to have a material impact on our consolidated financial statements or related disclosures.

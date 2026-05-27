@@ -1,0 +1,24 @@
+FIRM         : G (CIK 0001398659) | FY2015
+FILE         : 0001398659_G_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In May
+2015, the FASB issued ASU No. 2015-05, Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement, which provides explicit guidance to evaluate the accounting for fees paid by a customer in a cloud computing arrangement. The new
+guidance clarifies that if a cloud computing arrangement includes a software license, the customer should account for the license consistent with its accounting for other software licenses. If the arrangement does not include a software license, the
+customer should account for the arrangement as a service contract. The ASU will be effective for us beginning January 1, 2016, including interim periods in our fiscal year 2016, and allows for both retrospective and prospective adoption. We
+will adopt the requirements of this standard prospectively and do not expect the adoption of this update to have a material impact on our consolidated results of operations, cash flows, financial position or disclosures.

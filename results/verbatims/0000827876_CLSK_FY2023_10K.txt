@@ -1,0 +1,20 @@
+FIRM         : CLSK (CIK 0000827876) | FY2023
+FILE         : 0000827876_CLSK_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2028-09-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 5. Recognize revenue when the Company satisfies a performance obligation
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+September 30, 2023 September 30, 2022 ASSETS Current assets Accounts receivable, net $ 126 $ 2,813 Inventory 319 4,400 Prepaid expense and other current assets — 213 Total current assets held for sale $ 445 $ 7,426 Property and equipment, net — 11 Operating lease right of use asset — 665 Intangible assets, net — 869 Long-term assets held for sale $ — $ 1,545 Total assets held for sale $ 445 $ 8,971 LIABILITIES Current liabilities Accounts payable and accrued liabilities $ 978 $ 919 Contract liabilities — 117 Operating lease liability 197 163 Total current liabilities held for sale 1,175 1,199 Long-term liabilities Operating lease liability, net of current portion — 512 Total liabilities held for sale $ 1,175 $ 1,711 F- 25 For the twelve months ended September 30, 2023 September 30, 2022 Revenues, net Energy hardware, software and services revenue $ 158 $ 9,667 Total revenues, net 158 9,667 Costs and expenses Cost of revenues (exclusive of depreciation and amortization shown below) 936 8,711 Professional fees 115 116 Payroll expenses 426 4,911 General and administrative expenses 413 1,641 Impairment expense - fixed assets — 32 Impairment expense - intangibles — 1,402 Impairment expense - other 4,181 872 Impairment expense - goodwill — 7,001 Depreciation and amortization — 2,215 Total costs and expenses 6,071 26,901 Loss from operations $ ( 5,913 ) $ ( 17,234 ) Other income (expense) Gain on disposal of assets 1,508 — Interest expense ( 24 ) ( 3 ) Total other income (expense) 1,484 ( 3 ) Loss before income tax (expense) benefit ( 4,429 ) ( 17,237 ) Income tax benefit (expense) — — Net loss attributable to common shareholders $ ( 4,429 ) $ ( 17,237 )
+
+[VERBATIM — Infrastructure IA]
+Revenues from data center services  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Revenues from data center services ||| The Company, through its wholly owned subsidiary ATL, previously provided data services, such as providing its customers with rack space, power and equipment, and cloud services, such as virtual services, virtual storage, and data backup services, generally based on monthly services provided at a defined price included in the contracts. The performance obligations are the services provided to a customer for the month based on the contract. The transaction price is the price agreed with the customer for the monthly services provided and the revenues are recognized monthly based on the services rendered for the month. ||| The total revenue recognized from data center services for the years ended September 30, 2023 and September 30, 2022 is $ 287 and $ 525 , respectively. As of September 30, 2023, data center services are no longer provided to external customers.

@@ -1,0 +1,20 @@
+FIRM         : BSX (CIK 0000885725) | FY2020
+FILE         : 0000885725_BSX_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-01
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment, furniture and fixtures
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : AMD_Instinct (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+We depreciate buildings over a maximum life of 40 years; building improvements over the remaining useful life of the building structure; equipment, furniture and fixtures over a three to seven year life; and leasehold improvements over the shorter of the useful life of the improvement or the term of the related lease.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASC Update No. 2018-15, Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40) : Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . The purpose of Update No. 2018-15 is to align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). Update No. 2018-15 is effective for annual periods beginning after December 15, 2019, including interim periods within those annual periods. Early adoption is permitted, including adoption in any interim period. We adopted Update No. 2018-15 in the first quarter of 2020. The adoption had an immaterial impact on our financial position and results of operations. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

@@ -1,0 +1,21 @@
+FIRM         : FDS (CIK 0001013237) | FY2020
+FILE         : 0001013237_FDS_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-08-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 18. SEGMENT INFORMATION
+ASSET CAT.   : furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Each segment records compensation expense (including stock-based compensation), depreciation of furniture and fixtures, amortization of lease ROU assets, leasehold improvements and intangible assets, as well as communication costs, professional fees, rent expense, travel, office and other direct expenses. Expenditures associated with the Company’s data centers, third-party data costs and corporate headquarters charges are recorded by the Americas segment and are not allocated to the other segments. The content collection centers, located in India, the Philippines, and Latvia, benefit all the Company’s operating segments and thus the expenses incurred at these locations are allocated to each segment based on a percentage of revenue.
+
+[VERBATIM — Infrastructure IA]
+Each segment records compensation expense (including stock-based compensation), depreciation of furniture and fixtures, amortization of lease ROU assets, leasehold improvements and intangible assets, as well as communication costs, professional fees, rent expense, travel, office and other direct expenses. Expenditures associated with the Company’s data centers, third-party data costs and corporate headquarters charges are recorded by the Americas segment and are not allocated to the other segments. The content collection centers, located in India, the Philippines, and Latvia, benefit all the Company’s operating segments and thus the expenses incurred at these locations are allocated to each segment based on a percentage of revenue.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Current technology trends are leading to a greater demand to deliver a fully digital and integrated client experience. To take advantage of these developments we have focused our innovations and strategic investments in cloud computing, data lakes, APIs and our hosted proprietary data and analytics platform to provide real-time, predictive business intelligence for a seamless client experience. We continue to expand our broad financial content to provide support for our clients' most sophisticated investment strategies including enhanced data in private markets, industry specific deep sector and ESG. As a premier financial solutions provider for the global financial community, we provide workflow solutions and leading analytical applications, powered by cognitive capabilities and robust technology, across the investment portfolio lifecycle. We bring the front, middle and back offices together to drive productivity and performance at every step of the investment process using our open and scalable solutions. Our strategy is focused on growing our business in each of our three segments: the Americas, EMEA, and

@@ -1,0 +1,23 @@
+FIRM         : RRX (CIK 0000082811) | FY2018
+FILE         : 0000082811_RRX_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+The Company incurred restructuring and restructuring-related costs on projects beginning in 2014. Restructuring costs include employee termination and plant relocation costs. Restructuring-related costs include costs directly associated with actions resulting from the Company's Simplification initiatives, such as asset write-downs or accelerated depreciation due to shortened useful lives in connection with site closures, discretionary employment benefit costs and other facility rationalization costs. Restructuring costs for employee termination expenses are generally required to be accrued over the employees remaining service period while restructuring costs for plant relocation costs and restructuring-related costs are generally required to be expensed as incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

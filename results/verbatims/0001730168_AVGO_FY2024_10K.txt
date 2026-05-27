@@ -1,0 +1,20 @@
+FIRM         : AVGO (CIK 0001730168) | FY2024
+FILE         : 0001730168_AVGO_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, machinery and equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost less accumulated depreciation and amortization. When assets are retired or disposed of, the assets and related accumulated depreciation and amortization are removed from our property, plant and equipment balances and the resulting gain or loss is reflected in the consolidated statements of operations. Buildings and leasehold improvements are generally depreciated over 15 to 40 years, or over the lease period, whichever is shorter, and machinery and equipment are generally depreciated over 3 to 10 years. We use the straight-line method of depreciation for all property, plant and equipment.
+
+[VERBATIM — Infrastructure IA]
+Broadcom Inc. (“Broadcom”), a Delaware corporation, is a global technology leader that designs, develops and supplies a broad range of semiconductor and infrastructure software solutions. We develop semiconductor devices with a focus on complex digital and mixed signal complementary metal oxide semiconductor based devices and analog III-V based products. We offer thousands of products that are used in end products such as enterprise and data center networking, including artificial intelligence (“AI”) networking and connectivity, home connectivity, set-top boxes, broadband access, telecommunication equipment, smartphones and base stations, data center servers and storage systems, factory automation, power generation and alternative energy systems, and electronic displays. Our infrastructure software solutions help enterprises simplify their information technology (“IT”) environments so they can increase business velocity and flexibility, and enable customers to plan, develop, deliver, automate, manage and secure applications across mainframe, distributed, edge, mobile, and private and hybrid cloud platforms. Our portfolio of infrastructure and security software is designed to modernize, optimize, and secure the most complex private and hybrid cloud environments, enabling scalability, agility, automation, insights, resiliency and security making it easy for customers to run their mission-critical workloads. We also offer mission-critical fibre channel storage area networking (“FC SAN”) products and related software in the form of modules, switches and subsystems incorporating multiple semiconductor products. Unless stated otherwise or the context otherwise requires, references to “Broadcom,” “we,” “our,” and “us” mean Broadcom and its consolidated subsidiaries. We have two reportable segments: semiconductor solutions and infrastructure software. See Note 13. “Segment Information” for additional information.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+On November 22, 2023, we completed the acquisition of VMware, Inc. (“VMware”) in a cash-and-stock transaction (the “VMware Merger”). The VMware stockholders received approximately $30,788 million in cash and 544 million shares of Broadcom common stock (on a split adjusted basis) with a fair value of $53,398 million. VMware was a leading provider of multi-cloud services for all applications, enabling digital innovation with enterprise control. We acquired VMware to enhance our infrastructure software capabilities. The accompanying consolidated financial statements include the results of operations of VMware commencing on November 22, 2023. See Note 4. “Acquisitions” for additional information. ||| VMware cloud foundation is a private cloud platform that integrates compute, storage, networking, and management into a single solution and provides license portability. It enables customers to modernize infrastructure and accelerate developer productivity with greater resilience and security.

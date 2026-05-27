@@ -1,0 +1,20 @@
+FIRM         : BRKR (CIK 0001109354) | FY2016
+FILE         : 0001109354_BRKR_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 23—Subsequent Event
+ASSET CAT.   : Machinery, equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2016 2015 Land $ 26.7 $ 27.6 Building and leasehold improvements 266.7 261.9 Machinery, equipment, software and furniture and fixtures 323.1 314.0 ​ ​ ​ ​ ​ ​ ​ ​ 616.5 603.5 Less accumulated depreciation and amortization (377.4 ) (372.4 ) ​ ​ ​ ​ ​ ​ ​ ​ Property, plant and equipment, net $ 239.1 $ 231.1 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

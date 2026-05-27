@@ -1,0 +1,21 @@
+FIRM         : BL (CIK 0001666134) | FY2016
+FILE         : 0001666134_BL_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 16—Unaudited quarterly data
+ASSET CAT.   : equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Useful Lives Machinery and equipment 3-5 years Purchased software 3-5 years Furniture and fixtures 5 years Leasehold improvements Lesser of 7 years or lease term
+
+[VERBATIM — Infrastructure IA]
+Subscription and support cost of revenues. Subscription and support cost of revenues primarily consists of amortization of developed technology costs resulting from the 2013 Acquisition and the Runbook Acquisition, salaries, benefits and stock-based compensation associated with our hosting operations and support personnel, data center costs related to hosting our cloud-based software, and amortization of capitalized internal-use software costs. We also allocate a portion of overhead to subscription and support cost of revenues.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

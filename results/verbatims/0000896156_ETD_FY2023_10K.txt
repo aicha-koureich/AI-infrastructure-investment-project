@@ -1,0 +1,20 @@
+FIRM         : ETD (CIK 0000896156) | FY2023
+FILE         : 0000896156_ETD_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2023
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : buildings and improvements and from 3 to 20 years for machinery and equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost, less accumulated depreciation and amortization. Depreciation of property, plant and equipment is provided over the estimated useful lives of the respective assets on a straight-line basis. Estimated useful lives of the respective assets typically range from 20-40 years for buildings and improvements and from three to twenty years for machinery and equipment. Information systems, computer hardware and software, which are included within the machinery and equipment category, are typically depreciated from three to five years. Repairs and maintenance expenditures, which are not considered leasehold improvements and do not extend the useful life of the property and equipment, are expensed as incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

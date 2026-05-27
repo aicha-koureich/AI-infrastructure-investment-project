@@ -1,0 +1,23 @@
+FIRM         : ZBH (CIK 0001136869) | FY2018
+FILE         : 0001136869_ZBH_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 6. Property, Plant and Equipment
+ASSET CAT.   : equipment, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31, 2018 2017 Land $ 28.0 $ 29.0 Building and equipment 1,885.6 1,838.5 Capitalized software costs 425.8 421.6 Instruments 2,950.5 2,683.9 Construction in progress 147.2 110.7 5,437.1 5,083.7 Accumulated depreciation (3,421.7 ) (3,045.1 ) Property, plant and equipment, net $ 2,015.4 $ 2,038.6
+
+[VERBATIM — Changement de politique]
+We are required to estimate the number of RSUs that will vest and recognize share-based payment expense on a straight-line basis over the requisite service period. As of December 31, 2018, we estimate that approximately 672,307 outstanding RSUs will vest. If our estimate were to change in the future, the cumulative effect of the change in estimate will be recorded in that period. Based upon the number of RSUs that we expect to vest, the unrecognized share-based payment expense as of December 31, 2018 was $47.7 million and is expected to be recognized over a weighted-average period of 2.2 years. The fair value of RSUs vesting during the years ended December 31, 2018, 2017 and 2016 based upon our stock price on the date of vesting was $18.7 million, $31.2 million, and $25.5 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

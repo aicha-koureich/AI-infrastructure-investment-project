@@ -1,0 +1,23 @@
+FIRM         : APO (CIK 0001858681) | FY2022
+FILE         : 0001858681_APO_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : furniture, equipment, computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Fixed assets consist primarily of leasehold improvements, furniture, fixtures, equipment, and computer hardware and are recorded at cost, net of accumulated depreciation and amortization.
+
+[VERBATIM — Changement de politique]
+• the prospective adjustments to the book value of AFS securities and the fair value of mortgage loans, which will be amortized into income based on the expected life of the investments.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

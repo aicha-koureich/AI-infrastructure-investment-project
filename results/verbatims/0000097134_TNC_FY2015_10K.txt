@@ -1,0 +1,20 @@
+FIRM         : TNC (CIK 0000097134) | FY2015
+FILE         : 0000097134_TNC_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer's Accounting for Fees Paid in a Cloud Computing Arrangement ||| Intangibles –Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement ||| In April 2015, the FASB issued ASU No. 2015-05, Intangibles –Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement . This amended guidance requires customers to determine whether or not an arrangement includes a software license element. If the arrangement includes a software license, the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If the arrangement does not contain a software license, the customer should account for the arrangement as a service contract. The provisions of the ASU are effective for our fiscal year beginning January 1, 2016. An entity can elect to adopt the amendments either prospectively to all arrangements entered into or materially modified after the effective date; or retrospectively. We do not anticipate the adoption of this guidance will have a material impact on our financial statements and related disclosures.

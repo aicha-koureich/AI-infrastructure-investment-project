@@ -1,0 +1,21 @@
+FIRM         : COIN (CIK 0001679788) | FY2024
+FILE         : 0001679788_COIN_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4. Collateralized Arrangements and Financing
+ASSET CAT.   : equipment, furniture and fixtures, computer equipment
+DURÉE        : 1.0-3.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-3.0 ans | 1.0-8.0 ans
+
+[VERBATIM — Durée de vie]
+Software and equipment, net is stated at cost less associated accumulated depreciation and amortization, and consists mainly of capitalized internally developed software. The estimated useful lives of capitalized internally developed software range from one to three years. The remaining balance of software and equipment consists of furniture and fixtures, computer equipment, and leasehold improvements, for which the useful lives generally range from one to eight years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

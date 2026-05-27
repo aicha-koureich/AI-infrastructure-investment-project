@@ -1,0 +1,23 @@
+FIRM         : ENR (CIK 0001632790) | FY2022
+FILE         : 0001632790_ENR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-11-15
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Capitalized Software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized Software Costs – Capitalized software costs are included in Other assets. These costs are amortized using the straight-line method over periods of related benefit ranging from three to seven years. Expenditures related to capitalized software are included in the Capital expenditures caption in the Consolidated Statements of Cash Flows. For the twelve months ended September 30, 2022, 2021 and 2020, amortization expense was $10.4, $8.3 and $8.1, respectively.
+
+[VERBATIM — Changement de politique]
+Property, Plant and Equipment, net – Property, plant and equipment, net is stated at historical costs. Expenditures for new facilities and expenditures that substantially increase the useful life of property, including interest during construction, are capitalized and reported in the Capital expenditures caption in the Consolidated Statements of Cash Flows. Maintenance, repairs and minor renewals are expensed as incurred. When property is retired or otherwise disposed of, the related cost and accumulated depreciation are removed from the accounts, and gains or losses on the disposition are reflected in earnings.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : CTAS (CIK 0000723254) | FY2022
+FILE         : 0000723254_CTAS_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-07-27
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 4. Property and Equipment
+ASSET CAT.   : equipment
+DURÉE        : 10.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amortization of internal use software begins when the software is ready for service and continues on the straight-line method over the estimated useful life, generally 10 years. Accumulated amortization related to internal use software was $177.6 million and $154.1 million at May 31, 2022 and 2021, respectively. We recorded amortization expense related to internal use software of $23.5 million, $22.3 million and $21.5 million for the fiscal years ended May 31, 2022, 2021 and 2020, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

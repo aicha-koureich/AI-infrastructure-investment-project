@@ -1,0 +1,21 @@
+FIRM         : MTRX (CIK 0000866273) | FY2020
+FILE         : 0000866273_MTRX_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1—Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, information technology equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+The Company enters into lease arrangements for real estate, construction equipment and information technology equipment in the normal course of business. The Company determines if an arrangement is or contains a lease at inception of the arrangement. An arrangement is determined to be a lease if it conveys the right to control the use of identified property and equipment for a period of time in exchange for consideration. Operating lease right-of-use assets are recognized as the present value of future lease payments over the lease term as of the commencement date, plus any lease payments made prior to commencement, and less any lease incentives received. Operating lease liabilities are recognized as the present value of the future lease payments over the lease term as of the commencement date. Operating lease expense is recognized based on the undiscounted future lease payments over the remaining lease term on a straight-line basis. Lease expense related to short-term leases is recognized on a straight-line basis over the lease term.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : COLB (CIK 0000887343) | FY2019
+FILE         : 0000887343_COLB_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1, “Summary of Significant Accounting Policies,”
+ASSET CAT.   : Furniture, equipment, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+December 31, 2019 2018 (in thousands) Land $ 53,124 $ 54,185 Buildings 107,371 108,890 Leasehold improvements 28,459 27,859 Furniture and equipment 37,929 32,292 Vehicles 510 511 Computer software 15,936 19,358 Total cost 243,329 243,095 Less accumulated depreciation and amortization (77,921 ) (74,307 ) Total $ 165,408 $ 168,788
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

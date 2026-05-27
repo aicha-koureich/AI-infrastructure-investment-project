@@ -1,0 +1,24 @@
+FIRM         : AWRE (CIK 0001015739) | FY2022
+FILE         : 0001015739_AWRE_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 14.	SUBSEQUENT EVENTS
+ASSET CAT.   : Computer and office equipment
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+The estimated useful lives of assets are: Leasehold improvements 10 years Furniture and fixtures 5 years Computer and office equipment 3 years Purchased software 3 years
+
+[VERBATIM — Changement de politique]
+Service revenue consists of fees from biometrics customers for software engineering services. We recognize services revenue over time as the services are delivered using an input method (i.e., labor hours incurred as a percentage of total labor hours budgeted), provided all other revenue recognition criteria are met. The use of the over-time revenue recognition method requires judgment in developing budgeted labor hours. Changes in budgeted hours may occur and the resulting impact on revenue recognition is accounted for in the period of the change in estimate. Other revenue, which includes hardware sales that may be purchased with the software license, is recognized at a point in time upon delivery provided all other revenue recognition criteria are met
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

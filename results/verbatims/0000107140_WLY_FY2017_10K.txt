@@ -1,0 +1,21 @@
+FIRM         : WLY (CIK 0000107140) | FY2017
+FILE         : 0000107140_WLY_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : APRIL 30, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 19. Supplementary Quarterly Financial Information–Results By Quarter (Unaudited)
+ASSET CAT.   : Capitalized Software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized Software Amortization Expense
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

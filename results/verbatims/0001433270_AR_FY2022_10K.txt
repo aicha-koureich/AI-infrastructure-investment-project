@@ -1,0 +1,20 @@
+FIRM         : AR (CIK 0001433270) | FY2022
+FILE         : 0001433270_AR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

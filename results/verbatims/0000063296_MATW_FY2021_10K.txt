@@ -1,0 +1,23 @@
+FIRM         : MATW (CIK 0000063296) | FY2021
+FILE         : 0000063296_MATW_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 19. SEGMENT INFORMATION:
+ASSET CAT.   : information technology, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Long-lived assets include property, plant and equipment (net of accumulated depreciation), goodwill, and other intangible assets (net of accumulated amortization).
+
+[VERBATIM — Changement de politique]
+The Company's primary measure of segment profitability is adjusted earnings before interest, income taxes, depreciation and amortization ("adjusted EBITDA"). Adjusted EBITDA is defined by the Company as earnings before interest, income taxes, depreciation, amortization and certain non-cash and/or non-recurring items that do not contribute directly to management’s evaluation of its operating results. These items include stock-based compensation, the non-service portion of pension and postretirement expense, acquisition costs, ERP integration costs, and strategic initiatives and other charges. This presentation is consistent with how the Company's chief operating decision maker (the “CODM”) evaluates the results of operations and makes strategic decisions about the business. For these reasons, the Company believes that adjusted EBITDA represents the most relevant measure of segment profit and loss.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : TTEC (CIK 0001013880) | FY2020
+FILE         : 0001013880_TTEC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-03-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Our 2020 income from operations increased $81.0 million to $204.7 million or 10.5% of revenue, from $123.7 million or 7.5% of revenue for 2019. The change in operating income is attributable to a number of different factors across the segments. The TTEC Digital operating income expanded with an 16.4%, or $6.4 million, improvement over last year primarily due to the growth of its higher margin cloud business. The TTEC Engage operating income increased 88.0%, or $74.6 million, compared to the prior year based on the increase in revenue including, but not limited to, the acquisition of FCR and significant surge volumes in our commercial and public sector clients experiencing spikes in customer interactions related to COVID-19. ||| The increase in revenue for the TTEC Digital segment was related to significant increases in the cloud platform and the systems integration practice including a large multi-year governmental contract, and the acquisitions of Serendebyte and Voice Foundry during 2020, offset by reductions in the legacy facility based training business and the Middle East consulting practice, both of which the Company has exited.

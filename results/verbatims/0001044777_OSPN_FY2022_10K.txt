@@ -1,0 +1,20 @@
+FIRM         : OSPN (CIK 0001044777) | FY2022
+FILE         : 0001044777_OSPN_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-22
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• Digital Agreements. Digital Agreements consists of solutions that enable our clients to secure and automate business processes associated with their digital agreement and customer transaction lifecycles that require consent, non-repudiation and compliance. These solutions, which are largely cloud-based, include our OneSpan Sign e-signature solution and our recently introduced OneSpan Notary and Virtual Room solutions. As our transformation plan progresses, we expect to include other cloud-based security modules associated with the secure transaction lifecycle of identity verification, authentication, virtual interactions and transactions, and secure digital storage in the Digital Agreements segment. This segment also includes costs attributable to our transaction- cloud platform. ||| Digital Agreements consists of solutions that enable our clients to secure and automate business processes associated with their digital agreement and customer transaction lifecycles that require consent, non-repudiation and compliance. These solutions, which are largely cloud-based, include our OneSpan Sign e-signature solution and our recently introduced OneSpan Notary and Virtual Room solutions. As our transformation plan progresses, we expect to include other cloud-based security modules associated with the secure transaction lifecycle of identity verification, authentication, virtual interactions and transactions, and secure digital storage in the Digital Agreements segment. This segment also includes costs attributable to our transaction- cloud platform. ||| • Research and development . Research and development expenses consist primarily of personnel costs and long-term incentive compensation. We expect research and development costs to increase in absolute dollars as we continue to enhance and expand our product offerings and cloud platform. However, our research and development expenses may fluctuate as a percentage of total revenue due to expected growth of our team and continued capitalization of certain costs related to the expansion of our cloud product portfolio.

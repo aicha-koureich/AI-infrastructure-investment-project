@@ -1,0 +1,20 @@
+FIRM         : MSCI (CIK 0001408198) | FY2020
+FILE         : 0001408198_MSCI_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-12
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. INTRODUCTION AND BASIS OF PRESENTATION
+ASSET CAT.   : Capitalized software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are typically amortized on a straight-line basis over the estimated useful life of the related product, which is typically three to five years, beginning with the date the software is placed into service.
+
+[VERBATIM — Infrastructure IA]
+MSCI leases office space, data centers and certain equipment under non-cancellable operating lease agreements and determines if an arrangement is a lease at inception. The Company does not currently have any financing lease arrangements.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

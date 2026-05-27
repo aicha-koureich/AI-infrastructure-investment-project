@@ -1,0 +1,21 @@
+FIRM         : ESNT (CIK 0001448893) | FY2019
+FILE         : 0001448893_ESNT_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 15
+ASSET CAT.   : equipment, computer hardware and purchased software
+DURÉE        : 2.0-3.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-3.0 ans | 3.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation and amortization. Estimated useful lives are 5 years for furniture and fixtures and 2 to 3 years for equipment, computer hardware and purchased software. Once the software is ready for its intended use, these costs are amortized on a straight-line basis over the software's expected useful life, which is generally 3 years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. The amendments in this update align the requirements for capitalizing implementation costs associated with cloud computing arrangements hosted by a vendor with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The provisions of this update are effective for interim and annual periods beginning after December 15, 2019, with early adoption permitted. The Company has elected to adopt this ASU prospectively to eligible costs incurred effective January 1, 2019. The adoption of this ASU did not have a material effect on the Company’s consolidated operating results or financial position. ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. ||| The amendments in this update align the requirements for capitalizing implementation costs associated with cloud computing arrangements hosted by a vendor with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The provisions of this update are effective for interim and annual periods beginning after December 15, 2019, with early adoption permitted. The Company has elected to adopt this ASU prospectively to eligible costs incurred effective January 1, 2019. The adoption of this ASU did not have a material effect on the Company’s consolidated operating results or financial position.

@@ -1,0 +1,20 @@
+FIRM         : GPN (CIK 0001123360) | FY2020
+FILE         : 0001123360_GPN_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1—BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment — Property and equipment are stated at cost less accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Our leases consist primarily of operating real estate leases for office space and data centers in the markets in which we conduct business. We also have operating and finance leases for computer and other equipment. Many of our leases include escalating rental payments and incentives, as well as termination and renewal options. Certain of our lease agreements provide that we pay the cost of property taxes, insurance and maintenance. As described in "Note 1—Basis of Presentation and Summary of Significant Accounting Policies," we adopted ASU 2016-02 on January 1, 2019. Unless otherwise indicated, the following information in this footnote applies only to periods after December 31, 2018.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Accounting Standards Update ("ASU") 2018-15 — In August 2018, the Financial Accounting Standards Board ("FASB") issued ASU 2018-15, "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract (A Consensus of the FASB Emerging Issues Task Force)." ASU 2018-15 provides additional guidance on the accounting for costs of implementation activities performed in a cloud computing arrangement (i.e., hosting arrangement) that is a service contract. The new guidance amends the definition of a hosting arrangement and requires a customer in a hosting arrangement that is a service contract to capitalize certain implementation costs following the internal-use software capitalization criteria within Accounting Standards Codification ("ASC") Subtopic 350-40. ||| Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract ||| (A Consensus of the FASB Emerging Issues Task Force)." ASU 2018-15 provides additional guidance on the accounting for costs of implementation activities performed in a cloud computing arrangement (i.e., hosting arrangement) that is a service contract. The new guidance amends the definition of a hosting arrangement and requires a customer in a hosting arrangement that is a service contract to capitalize certain implementation costs following the internal-use software capitalization criteria within Accounting Standards Codification ("ASC") Subtopic 350-40.

@@ -1,0 +1,20 @@
+FIRM         : OKE (CIK 0001039684) | FY2024
+FILE         : 0001039684_OKE_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-03
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment, information technology equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Leases - We lease certain buildings, warehouses, office space, land and equipment, including pipeline equipment, pipeline capacity, rail cars and information technology equipment. In addition, as a result of the EnLink Controlling Interest Acquisition, we acquired lessee arrangements that primarily include office space, compression, field equipment and land. Acquired office space lease arrangements typically include variable lease cost related to utility expenses, which are determined based on our pro-rata share of building expenses each month and are expensed as incurred. Our lease payments are generally straight-line and the exercise of lease renewal options, which vary in term, is at our sole discretion. We include renewal periods in a lease term if we are reasonably certain to exercise available renewal options. Our lease agreements do not include any residual value guarantees or material restrictive covenants. We apply the short-term policy election, which allows us to exclude from recognition leases with an initial term of 12 months or less. Our weighted-average discount rates represent the rate implicit in the lease or our incremental borrowing rate for a term equal to the remaining term of the lease. Our finance lease assets and liabilities are not material.
+
+[VERBATIM — Infrastructure IA]
+In our Natural Gas Pipelines segment, we receive residue natural gas from third parties and our own natural gas processing plants and interconnecting pipelines. Residue natural gas is transported or stored for end users, such as large industrial customers, natural gas and electric utilities serving commercial and residential consumers and can ultimately reach international markets through liquified natural gas exports (Louisiana Gulf Coast) and cross border pipelines. Our assets are connected to key supply areas and demand centers, including export markets in Mexico via Roadrunner and supply areas in Canada and the United States via our interstate and intrastate natural gas pipelines and Northern Border, which enables us to provide essential natural gas transportation and storage services. Growing demand from data centers and continued demand from local distribution companies, electric-generation facilities and large industrial companies support low-cost expansions that position us well to provide additional services to our customers when needed.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

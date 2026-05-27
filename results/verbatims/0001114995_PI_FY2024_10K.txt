@@ -1,0 +1,21 @@
+FIRM         : PI (CIK 0001114995) | FY2024
+FILE         : 0001114995_PI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies Basis of Presentation and Principles of Consolidation The accompanying consolidated financial state
+ASSET CAT.   : Equipment, Machinery and equipment, Computer equipment, Furniture and fixtures
+DURÉE        : 1.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-10.0 ans | 3.0-5.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and Equipment We record property and equipment at cost and depreciate it using the straight-line method over the estimated useful lives of the related assets. The useful lives are as follows: Category Useful Life Machinery and equipment 1 to 10 years Computer equipment and software 3 to 5 years Furniture and fixtures 3 to 7 years Equipment acquired under finance leases 3 to 7 years Leasehold improvements Shorter of remaining lease term or expected useful life
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We and our partner ecosystem build item-visibility solutions using products that we design and either sell or license, including silicon RAIN radios; manufacturing, test, encoding and reading systems, software and cloud services that encapsulate our solutions know-how and intellectual property. We sell two types of silicon IC radios. The first are endpoint ICs that store a serialized number to wirelessly identify an item. Our partners embed endpoint ICs into an item or its packaging. The ICs may also contain a cryptographic key to authenticate the item. The second are reader ICs that our partners use in finished readers to wirelessly discover, inventory and engage the endpoint ICs. Those readers may also protect an item or consumer, for example by authenticating the item as genuine or privatizing the item by rendering the endpoint IC unresponsive without the consumer first providing a password. Our manufacturing, test and encoding systems enable partner products and facilitate enterprise deployments. Our reading systems comprise high-performance finished readers and gateways for autonomous reading solutions. Our software and cloud services focus on solutions enablement.

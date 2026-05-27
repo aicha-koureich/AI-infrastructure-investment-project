@@ -1,0 +1,20 @@
+FIRM         : VCEL (CIK 0000887359) | FY2019
+FILE         : 0000887359_VCEL_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 5. Selected Balance Sheet Components
+ASSET CAT.   : Machinery and equipment, Furniture, office equipment, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In thousands) 2019 2018 Machinery and equipment $ 3,152 $ 1,536 Furniture, fixtures and office equipment 775 775 Computer equipment and software 6,174 3,712 Leasehold improvements 5,256 4,587 Construction in process 859 2,801 Financing right-of-use lease 148 — Total property and equipment, gross 16,364 13,411 Less accumulated depreciation (9,220 ) (7,505 ) $ 7,144 $ 5,906
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

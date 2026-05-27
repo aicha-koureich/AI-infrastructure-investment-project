@@ -1,0 +1,20 @@
+FIRM         : SMSI (CIK 0000948708) | FY2024
+FILE         : 0000948708_SMSI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Cost of revenues. Cost of revenues consists of direct product and hosting, maintenance, data center, royalties, and technical support expenses including personnel costs.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+We have received upfront payments from customers from services to be provided under our ViewSpot contracts. The advance receipts were deferred and subsequently recognized ratably over the contract period. We also provide consulting services to configure new devices or ad hoc targeted promotional content for our customers upon request. These requests are driven by our customers’ marketing initiatives and tend to be short term “bursts” of activity. We recognize these revenues upon delivery of the configured promotional content to the cloud platform or upon certification of the new device.

@@ -1,0 +1,23 @@
+FIRM         : CRI (CIK 0001060822) | FY2015
+FILE         : 0001060822_CRI_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : JANUARY 2, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 21 – GUARANTOR CONDENSED CONSOLIDATING FINANCIAL STATEMENTS
+ASSET CAT.   : equipment, computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(dollars in thousands) January 2, 2016 January 3, 2015 Fixtures, equipment, computer hardware and software $ 367,593 $ 325,852 Land, buildings, and improvements 260,809 220,995 Marketing fixtures 12,336 12,089 Construction in progress 21,602 19,172 662,340 578,108 Accumulated depreciation and amortization (290,636 ) (245,011 ) Total $ 371,704 $ 333,097
+
+[VERBATIM — Changement de politique]
+and a hosting arrangement that does not include software licenses will be accounted for as service contracts. For public entities, ASU 2015-05 is effective for annual periods, including interim periods, beginning after December 15, 2015. Early adoption is permitted. Entities will have the option of transitioning to the new guidance either retrospectively, or prospectively for all new transactions entered into or materially modified after the date of adoption. The Company prospectively adopted the provisions of ASU 2015-05 at the beginning of fiscal 2016, and the Company does not expect the adoption of ASU 2015-05 to have a material impact on the Company's results of operations, financial condition, or cash flows.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Accounting for Fees Paid in a Cloud Computing Arrangement ||| Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement ||| ("ASU 2015-05"). ASU 2015-05 provides new guidance for a customer’s accounting for fees paid in a cloud computing arrangement. Previously, there was no specific U.S. GAAP guidance on accounting for such fees from the customer’s perspective, and entities generally applied lease accounting guidance to acquired software licenses. Under ASU 2015-05, customers will apply the same criteria as vendors to determine whether a cloud computing arrangement contains a software license or is solely a service contract. More specifically, if a hosting arrangement includes a software license for internal use software, the software license will be capitalized and amortized over the life of the license

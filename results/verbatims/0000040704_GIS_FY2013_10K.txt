@@ -1,0 +1,30 @@
+FIRM         : GIS (CIK 0000040704) | FY2013
+FILE         : 0000040704_GIS_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : May 26, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING
+POLICIES
+ASSET CAT.   : equipment, furniture
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Buildings and equipment, including capitalized interest and internal engineering costs, are recorded at cost and
+depreciated over estimated useful lives, primarily using the straight-line method. Buildings are usually depreciated over 40 to 50 years, and equipment, furniture, and software are
+usually depreciated over 3 to 10 years. Fully depreciated assets are retained in buildings and equipment until disposal.
+
+[VERBATIM — Changement de politique]
+We view our restructuring activities as actions that help us meet our long-term growth targets. Activities we undertake must meet internal rate of return
+and net present value targets. Each restructuring action normally takes one to two years to complete. At completion (or as each major stage is completed in the case of multi-year programs), the project begins to deliver cash savings and/or reduced
+depreciation. These activities result in various restructuring costs, including asset write-offs, exit charges including severance, contract termination fees, and decommissioning and other costs. Depreciation associated with restructured assets, as
+used in the context of our disclosures regarding restructuring activity, refers to the increase in depreciation expense caused by shortening the useful life or updating the salvage value of depreciable fixed assets to coincide with the end of
+production under an approved restructuring plan. Any impairment of the asset is recognized immediately in the period the plan is approved.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

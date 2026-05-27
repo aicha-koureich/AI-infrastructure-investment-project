@@ -1,0 +1,23 @@
+FIRM         : ABM (CIK 0000771497) | FY2013
+FILE         : 0000771497_ABM_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Basis of Presentation
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are recorded at cost. Leasehold improvements are depreciated over the shorter of their estimated
+useful lives or the remaining lease term. Depreciation and amortization is determined for financial reporting purposes by using the straight-line method over the following estimated useful lives:
+
+[VERBATIM — Infrastructure IA]
+Provides onsite mechanical engineering and technical services and solutions for facilities and infrastructure systems for a variety of
+client facilities, including airports and other transportation centers, commercial infrastructure, corporate office buildings, data centers, educational institutions, high technology manufacturing facilities, museums, resorts, and shopping
+centers.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

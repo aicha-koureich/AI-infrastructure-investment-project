@@ -1,0 +1,21 @@
+FIRM         : MSFT (CIK 0000789019) | FY2017
+FILE         : 0000789019_MSFT_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 22 — QUARTERLY INFORMATION (UNAUDITED)
+ASSET CAT.   : Computer equipment, Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-10.0 ans | 2.0-3.0 ans | 3.0-7.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+(In millions) June 30, 2017 2016 Land $ 1,107 $ 824 Buildings and improvements 16,284 12,393 Leasehold improvements 5,064 3,659 Computer equipment and software 21,414 17,391 Furniture and equipment 4,044 3,889 Total, at cost 47,913 38,156 Accumulated depreciation (24,179 ) (19,800 ) Total, net $ 23,734 $ 18,356
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Server products and cloud services revenue grew 13%, driven by Microsoft Azure revenue growth of 99%. ||| Commercial cloud annualized revenue run rate is calculated by multiplying revenue for the last month of the quarter by twelve for Office 365 commercial, Azure, Dynamics 365, and other cloud properties. ||| Revenue increased $4.6 billion or 5%, driven by growth in Productivity and Business Processes and Intelligent Cloud, offset in part by lower revenue from More Personal Computing. Productivity and Business Processes revenue increased, driven by the acquisition of LinkedIn and higher revenue from Microsoft Office. Intelligent Cloud revenue increased, primarily due to higher revenue from server products and cloud services. More Personal Computing revenue decreased, mainly due to lower revenue from Devices, offset in part by higher revenue from Windows and Search advertising. Revenue included an unfavorable foreign currency impact of 2%.

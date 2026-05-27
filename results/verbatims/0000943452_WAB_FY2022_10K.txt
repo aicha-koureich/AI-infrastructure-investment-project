@@ -1,0 +1,20 @@
+FIRM         : WAB (CIK 0000943452) | FY2022
+FILE         : 0000943452_WAB_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;Blackwell (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment Property, plant and equipment additions are stated at cost. Expenditures for renewals and improvements are capitalized. Expenditures for ordinary maintenance and repairs are expensed as incurred. The Company computes book depreciation principally on the straight-line method. Accelerated depreciation methods are utilized for income tax purposes.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

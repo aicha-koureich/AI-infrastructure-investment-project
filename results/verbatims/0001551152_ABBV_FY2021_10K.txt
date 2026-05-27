@@ -1,0 +1,20 @@
+FIRM         : ABBV (CIK 0001551152) | FY2021
+FILE         : 0001551152_ABBV_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, computer software
+DURÉE        : 2.0-25.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation for property and equipment is recorded on a straight-line basis over the estimated useful lives of the assets. The estimated useful life for equipment ranges from 2 to 25 years. Equipment includes certain computer software and software development costs incurred in connection with developing or obtaining software for internal use and is amortized over 3 to 10 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

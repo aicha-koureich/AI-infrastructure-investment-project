@@ -1,0 +1,20 @@
+FIRM         : KMX (CIK 0001170010) | FY2014
+FILE         : 0001170010_KMX_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment is stated at cost less accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued an accounting pronouncement (FASB ASU 2015-5) which provides guidance regarding whether a cloud computing arrangement includes a software license (FASB ASC Subtopic 350-40). If a cloud computing arrangement includes a software license, then the entity should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the entity should account for the arrangement as a service contract. The guidance will not change GAAP for an entity’s accounting for service contracts. This pronouncement is effective for fiscal years, including interim periods within those fiscal years, beginning after December 15, 2015.

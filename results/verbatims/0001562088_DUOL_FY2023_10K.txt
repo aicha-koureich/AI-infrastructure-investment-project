@@ -1,0 +1,20 @@
+FIRM         : DUOL (CIK 0001562088) | FY2023
+FILE         : 0001562088_DUOL_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+and equipment, valuation of deferred tax assets and liabilities, stock-based compensation, common stock valuation, operating lease right-of-use assets and liabilities, capitalization of internally developed software and associated useful lives and contingent liabilities.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Implementation costs for cloud computing included in Current liabilities ||| Year Ended December 31, 2023 2022 2021 Supplemental disclosure of cash flow information: Cash paid for interest $ — $ — $ — Cash paid for income taxes $ 2,320 $ 615 $ 132 Supplemental disclosure of noncash operating activities: Implementation costs for cloud computing included in Current liabilities $ — $ — $ 64 Supplemental disclosure of noncash investing activities: Capitalized software and purchases of intangible assets included in Current liabilities $ — $ 1,121 $ 342 Property and equipment included in Current liabilities $ 165 $ 166 $ 230 Landlord incentive included in Prepaid expenses and other current assets $ — $ 2,148 $ — Right of use assets disposed or adjusted modifying operating leases liabilities $ 2,024 $ — $ — Supplemental disclosure of noncash financing activities: Deferred costs included in accrued expenses $ — $ — $ —

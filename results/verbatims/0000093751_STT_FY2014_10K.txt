@@ -1,0 +1,20 @@
+FIRM         : STT (CIK 0000093751) | FY2014
+FILE         : 0000093751_STT_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 20 . Occupancy Expense and Information Systems and Communications Expense
+ASSET CAT.   : equipment
+DURÉE        : 16.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+expiring in September 2023 . A portion of the lease payments is offset by subleases for approximately 127,000 square feet of the building. In 2014, we began leasing approximately 500,000 square feet at the Channel Center in Boston, Massachusetts under a 16 -year capital lease expiring in December 2029 . In addition, we lease approximately 362,000 square feet at 20 Churchill Place, an office building located in the U.K., under a 20 -year capital lease expiring in December 2028 . As of December 31, 2014 and 2013 , an aggregate net book value of $624 million and $646 million , respectively, related to the above-described capital leases was recorded in premises and equipment, with the related liability recorded in long-term debt, in our consolidated statement of condition. Capital lease asset amortization is recorded in occupancy expense in our consolidated statement of income over the respective lease term. Lease payments are recorded as a reduction of the liability, with a portion recorded as imputed interest expense. For the years ended December 31, 2014 , 2013 and
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

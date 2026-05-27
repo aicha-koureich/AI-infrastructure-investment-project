@@ -1,0 +1,20 @@
+FIRM         : APD (CIK 0000002969) | FY2019
+FILE         : 0000002969_APD_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-09-30
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 3.35%
+ASSET CAT.   : computer software, equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized computer software costs are reflected in "Plant and equipment, net" on the consolidated balance sheets and are depreciated over the estimated useful life of the software, generally a period of three to five years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Implementation Costs

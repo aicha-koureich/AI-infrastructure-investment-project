@@ -1,0 +1,20 @@
+FIRM         : FIZZ (CIK 0000069891) | FY2015
+FILE         : 0000069891_FIZZ_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : May 2, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 10. COMMITMENTS AND CONTINGENCIES We lease buildings, machinery and equipment under various non-cancelable operating lease agreements expiring at vari
+ASSET CAT.   : machinery and equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+10. COMMITMENTS AND CONTINGENCIES We lease buildings, machinery and equipment under various non-cancelable operating lease agreements expiring at various dates through 2023. Certain of these leases contain scheduled rent increases and/or renewal options. Contractual rent increases are taken into account when calculating the minimum lease payment and recognized on a straight-line basis over the lease term. Rent expense under operating lease agreements totaled approximately $8.2 million for Fiscal 2015, $7.9 million for Fiscal 2014 and $8.9 million for Fiscal 2013. Our minimum lease payments under non-cancelable operating leases as of May 2, 2015 were as follows: (In thousands) Fiscal 2016 $ 5,399 Fiscal 2017 4,620 Fiscal 2018 3,789 Fiscal 2019 3,341 Fiscal 2020 2,639 Thereafter 2,406 Total minimum lease payments $ 22,194 As of May 2, 2015, we guaranteed the residual value of certain leased equipment in the amount of $4.9 million. If the proceeds from the sale of such equipment are less than the balance required by the lease when the lease terminates on August 1, 2017, the Company shall be required to pay the difference up to such guaranteed amount. The Company expects to have no loss on such guarantee. We enter into various agreements with suppliers for the purchase of raw materials, the terms of which may include variable or fixed pricing and minimum purchase quantities. As of May 2, 2015, we had purchase commitments for raw materials of $54.0 million for Fiscal 2016. From time to time, we are a party to various litigation matters and claims arising in the ordinary course of business. We do not expect the ultimate disposition of such matters to have a material adverse effect on our consolidated financial position or results of operations.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : CMI (CIK 0000026172) | FY2015
+FILE         : 0000026172_CMI_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We depreciate the cost of the majority of our equipment using the straight-line method with depreciable lives ranging from
+
+[VERBATIM — Infrastructure IA]
+Power systems - We manufacture generators for commercial and consumer applications ranging from 2 kilowatts to 3.5 megawatts, as well as paralleling systems and transfer switches for applications such as data centers, health care facilities and waste water treatment plants.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

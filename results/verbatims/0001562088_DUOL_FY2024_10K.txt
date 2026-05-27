@@ -1,0 +1,20 @@
+FIRM         : DUOL (CIK 0001562088) | FY2024
+FILE         : 0001562088_DUOL_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Significant estimates and assumptions reflected in the Consolidated Financial Statements include, but are not limited to, useful lives of property and equipment, valuation of deferred tax assets and liabilities, stock-based compensation, operating lease right-of-use assets and liabilities, capitalization of internally developed software and associated useful lives and contingent liabilities, fair value of investments and valuation of goodwill and intangible assets from acquisitions.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

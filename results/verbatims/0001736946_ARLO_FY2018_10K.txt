@@ -1,0 +1,20 @@
+FIRM         : ARLO (CIK 0001736946) | FY2018
+FILE         : 0001736946_ARLO_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Arlo combines an intelligent cloud infrastructure and mobile app with a variety of smart connected devices that transform the way people experience the connected lifestyle. Our cloud-based platform creates a seamless, end-to-end connected lifestyle solution that provides customers with visibility, insight, and a powerful means to help them protect and connect with the people and things that matter most to them. Arlo enables users to monitor their environments and engage in real-time with their families and businesses from any location with a Wi-Fi or a cellular network internet connection. Since the launch of our first product in December 2014, we have shipped over 11.7 million smart connected devices, and, as of December 31, 2018, our smart platform had approximately 2.85 million cumulative registered users across more than 100 countries around the world.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Our cost of revenue as a percentage of revenue can vary based upon a number of factors, including those that may affect our revenue set forth above and factors that may affect our cost of revenue, including, without limitation: product mix, sales channel mix, registered user acceptance of paid subscription service offerings, fluctuation in foreign exchange rates and changes in our cost of goods sold due to fluctuations in prices paid for components, net of vendor rebates, cloud platform costs, warranty and overhead costs, inbound freight and duty product conversion costs, charges for excess or obsolete ||| in transition services agreement-related expense. The increased expenditures on personnel-related expense, engineering projects and outside professional services were due to continuous investment in strategic focus areas, principally the expansion of our Arlo product and service offerings and the growth of our cloud platform capabilities. We expect our research and development expense will increase as we continue to invest in and expand our Arlo product and service offerings. ||| Research and development expense increased for the year ended December 31, 2017 compared to the prior year due to increases of $5.2 million in allocated personnel-related expense, $3.5 million in corporate IT and facility overhead and $1.6 million in engineering projects and outside professional services. The increased expenditures on personnel-related expense, engineering projects and outside professional services were due to continuous investment in strategic focus areas, such as expanding our Arlo product offerings and services and growing our cloud platform capabilities.

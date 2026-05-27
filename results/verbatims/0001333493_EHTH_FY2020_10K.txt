@@ -1,0 +1,20 @@
+FIRM         : EHTH (CIK 0001333493) | FY2020
+FILE         : 0001333493_EHTH_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-17
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4 – Supplemental Financial Statement Information
+ASSET CAT.   : Computer equipment, Office equipment and furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2020 December 31, 2019 Computer equipment and software $ 20,121 $ 17,893 Office equipment and furniture 6,292 4,995 Leasehold improvements 7,458 6,051 Property and equipment, gross 33,871 28,939 Less accumulated depreciation and amortization (19,262) (18,421) Property and equipment, net $ 14,609 $ 10,518
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements (Topic 350) – In 2018, the FASB issued ASU No. 2018-15, which amends ASC 350-40 to address a customer's accounting for implementation costs incurred in a cloud computing arrangement (CCA) that is a service contract. The update conforms the requirements of capitalizing costs incurred in a CCA that is a service contract with the accounting guidance on capitalizing costs associated with developing or obtaining internal-use software. This update amends ASC 350 to include in its scope implementation costs of a CCA that is a service contract and clarifies that a customer should apply ASC 350-40 to determine which implementation costs should be capitalized. The new guidance is effective for annual and interim reporting periods beginning after December 15, 2019. We adopted this guidance prospectively in the first quarter of 2020. Cloud computing implementation costs incurred in hosting arrangements are capitalized and recorded in Other assets on our Consolidated Balance Sheet, and were immaterial for the year ended December 31, 2020. ||| Cloud Computing Arrangements (Topic 350) – ||| In 2018, the FASB issued ASU No. 2018-15, which amends ASC 350-40 to address a customer's accounting for implementation costs incurred in a cloud computing arrangement (CCA) that is a service contract. The update conforms the requirements of capitalizing costs incurred in a CCA that is a service contract with the accounting guidance on capitalizing costs associated with developing or obtaining internal-use software. This update amends ASC 350 to include in its scope implementation costs of a CCA that is a service contract and clarifies that a customer should apply ASC 350-40 to determine which implementation costs should be capitalized. The new guidance is effective for annual and interim reporting periods beginning after December 15, 2019. We adopted this guidance prospectively in the first quarter of 2020. Cloud computing implementation costs incurred in hosting arrangements are capitalized and recorded in Other assets on our Consolidated Balance Sheet, and were immaterial for the year ended December 31, 2020.

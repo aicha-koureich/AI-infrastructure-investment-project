@@ -1,0 +1,23 @@
+FIRM         : GATX (CIK 0000040211) | FY2018
+FILE         : 0000040211_GATX_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. Description of Business
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We classify leases of certain railcars and other assets and facilities, such as maintenance facilities and equipment, as operating leases. We record the lease expense associated with these leases on a straight-line basis. We defer gains and transaction costs associated with sale-leasebacks of certain railcars and amortize those gains and costs as a component of operating lease expense over the related leaseback term. Upon adoption of the new lease standard, deferred gains will be eliminated and we will record a one-time increase to equity of approximately
+
+[VERBATIM — Changement de politique]
+Year Ended December 31 2018 2017 2016 Operating Activities Net income $ 211.3 $ 502.0 $ 257.1 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation expense 338.2 322.7 310.2 Change in accrued operating lease expense (4.0 ) (13.9 ) 3.0 Net gains on sales of assets (79.4 ) (52.5 ) (52.9 ) Asset impairments 9.0 8.6 38.5 Employee benefit plans 4.6 3.3 7.1 Share-based compensation 16.4 9.9 15.8 Deferred income taxes 19.2 (260.5 ) 72.8 Share of affiliates’ earnings, net of dividends (15.2 ) (13.7 ) (12.2 ) Other 8.4 (9.1 ) (10.0 ) Net cash provided by operating activities 508.5 496.8 629.4 Investing Activities Additions to operating assets and facilities (929.3 ) (566.8 ) (595.7 ) Investments in affiliates (14.1 ) (36.6 ) (25.0 ) Portfolio investments and capital additions (943.4 ) (603.4 ) (620.7 ) Purchases of leased-in assets (66.6 ) (111.8 ) (117.1 ) Portfolio proceeds 234.4 165.6 223.7 Proceeds from sales of other assets 37.3 30.3 23.0 Proceeds from sale-leasebacks 59.1 90.6 82.5 Other 3.1 0.4 2.3 Net cash used in investing activities (676.1 ) (428.3 ) (406.3 ) Financing Activities Net proceeds from issuances of debt (original maturities longer than 90 days) 693.7 792.6 859.4 Repayments of debt (original maturities longer than 90 days) (632.8 ) (703.0 ) (800.0 ) Net increase (decrease) in debt with original maturities of 90 days or less 106.5 (0.3 ) (3.6 ) Payments on capital lease obligations (1.2 ) (2.4 ) (3.6 ) Stock repurchases (115.5 ) (100.0 ) (120.1 ) Dividends (69.3 ) (68.2 ) (67.4 ) Other (2.8 ) (2.6 ) 4.8 Net cash used in financing activities (21.4 ) (83.9 ) (130.5 ) Effect of Exchange Rate Changes on Cash and Cash Equivalents (4.0 ) 4.0 (1.2 ) Net (decrease) increase in Cash, Cash Equivalents, and Restricted Cash during the year (193.0 ) (11.4 ) 91.4 Cash, Cash Equivalents, and Restricted Cash at beginning of year 299.7 311.1 219.7 Cash, Cash Equivalents, and Restricted Cash at end of year $ 106.7 $ 299.7 $ 311.1
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

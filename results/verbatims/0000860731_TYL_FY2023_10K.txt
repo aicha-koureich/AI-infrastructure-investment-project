@@ -1,0 +1,20 @@
+FIRM         : TYL (CIK 0000860731) | FY2023
+FILE         : 0000860731_TYL_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+In 2023, the cost of subscriptions, maintenance and professional services grew 2% compared to the prior period. $13 million or 1% of the increase is attributed to the 2023 impact of recent acquisitions and the remaining increase of 1% is due to higher personnel costs and duplicate hosting costs as we transition from our proprietary data centers to the public cloud. Excluding employees from recent acquisitions, our professional services staff grew by 47 employees since December 31, 2022, as we increased hiring to accommodate growth. The increase is partially offset by lower costs related to COVID-related services that ended in 2022.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

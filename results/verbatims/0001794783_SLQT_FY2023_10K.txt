@@ -1,0 +1,21 @@
+FIRM         : SLQT (CIK 0001794783) | FY2023
+FILE         : 0001794783_SLQT_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-09-13
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Computer hardware
+DURÉE        : 2.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 2.0-5.0 ans | 3.0 ans | 5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Computer hardware 3 years Machinery and equipment 2–5 years Automobiles 5 years Leasehold improvements Shorter of lease period or useful life Furniture and fixtures 7 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

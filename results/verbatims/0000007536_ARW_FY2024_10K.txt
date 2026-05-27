@@ -1,0 +1,20 @@
+FIRM         : ARW (CIK 0000007536) | FY2024
+FILE         : 0000007536_ARW_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The company has operations in each of the three largest electronics markets; the Americas; the EMEA; and the Asia/Pacific regions. Arrow’s business strategy is to be the premier, technology-centric, go-to-market and supply chain services company. The company’s portfolio is designed to enable technology across major industries and markets including industrial automation, edge and cloud computing, smart and connected devices, and transportation to deliver new technologies. Arrow aggregates disparate sources of electronics components, infrastructure software, and IT hardware to engineer complete solutions for customers on behalf of its suppliers. The company aims to help enable secure and consistent supply chains, and drive growth on behalf of its suppliers.

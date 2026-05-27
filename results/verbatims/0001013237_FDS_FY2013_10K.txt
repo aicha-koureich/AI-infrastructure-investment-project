@@ -1,0 +1,21 @@
+FIRM         : FDS (CIK 0001013237) | FY2013
+FILE         : 0001013237_FDS_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES The significant accounting policies of the Company and its subsidiaries are summarized below.
+ASSET CAT.   : software
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized costs are amortized on a straight-line basis over the estimated useful lives of the underlying software, three years or less. In fiscal 2013, 2012 and 2011, FactSet recorded amortization expense related to capitalized software of $0.9 million, $0.9 million and $0.7 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+The European segment is headquartered in London, England and maintains office locations in France, Germany, the Netherlands, Latvia, Dubai and Italy. The Asia Pacific segment is headquartered in Tokyo, Japan with office locations in Hong Kong, Australia and Mumbai. Segment revenues reflect direct sales to clients based in their respective geographic locations. There are no intersegment or intercompany sales of the FactSet service. Each segment records compensation, including stock-based compensation, amortization of intangible assets, depreciation of furniture and fixtures, amortization of leasehold improvements, communication costs, professional fees, rent expense, travel, marketing, office and other direct expenses. Expenditures associated with the Company’s data centers, third party data costs and corporate headquarters charges are recorded by the U.S. segment and are not allocated to the other segments. The content collection centers located in India and the Philippines benefit all of the Company’s operating segments and thus the expenses incurred at these locations are allocated to each segment based on a percentage of revenues. Of the total $245 million of goodwill reported by the Company at August 31, 2013, 69% was recorded in the U.S. segment, 30% in the European segment and the remaining 1% in the Asia Pacific segment.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

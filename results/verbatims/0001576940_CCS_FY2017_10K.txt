@@ -1,0 +1,23 @@
+FIRM         : CCS (CIK 0001576940) | FY2017
+FILE         : 0001576940_CCS_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+On December 22, 2017, TCJA was signed into law. The TCJA significantly reforms the Internal Revenue Code of 1986, as amended. The TCJA, among other things, contains significant changes to corporate taxation, including reduction of the corporate tax rate from a top marginal rate of 35% to a flat rate of 21%, limitation of the tax deduction for interest expense to 30% of adjusted earnings (except for certain small businesses), limitation of the deduction for net operating losses to 80% of current year taxable income, elimination of net operating loss carrybacks, one time taxation of offshore earnings at reduced rates regardless of whether they are repatriated, immediate deductions for certain new investments instead of deductions for depreciation expense over time, and modifying or repealing many business deductions and credits. We continue to examine the impact this tax reform legislation may have on our business. Notwithstanding the reduction in the corporate income tax rate, the overall impact of the TCJA is uncertain and our business and financial condition could be adversely affected. Furthermore, as a result of the reduction in the corporate tax rates, we expect to have a significant reduction in the value of our deferred tax assets, but we have not yet fully determined the amount of such reduction. The impact of this tax reform on holders of our common stock is also uncertain and could be adverse.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

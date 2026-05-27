@@ -1,0 +1,20 @@
+FIRM         : FIS (CIK 0001136893) | FY2019
+FILE         : 0001136893_FIS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2019 2018 Software from acquisitions $ 1,959 $ 1,116 Capitalized software development costs 2,258 1,624 Purchased software 603 363 4,820 3,103 Accumulated amortization (1,616 ) (1,308 ) Total Software, net $ 3,204 $ 1,795
+
+[VERBATIM — Infrastructure IA]
+During 2019 the Company recorded acquisition and integration costs primarily related to the Worldpay acquisition and certain other costs associated with data center consolidation activities totaling $704 million . During 2018, the Company recorded acquisition and integration costs primarily related to the SunGard acquisition and certain other costs including those associated with data center consolidation activities totaling $156 million . During 2017, the Company recorded acquisition and integration costs primarily related to the SunGard acquisition totaling $178 million .  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+On August 29, 2018, the FASB issued ASU No. 2018-15 ("ASU 2018-15"), Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . This ASU clarifies that implementation costs incurred by customers in cloud computing arrangements should be deferred and recognized over the term of the arrangement, if those costs would be capitalized by the customer in a software licensing arrangement under the internal-use software guidance. The provisions in ASU 2018-15 should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. For public business entities, ASU 2018-15 is effective for annual periods beginning after December 15, 2019, and interim periods within those annual periods, with early adoption permitted. We will prospectively adopt the new guidance effective January 1, 2020. We expect that the new guidance will not have a material impact on our consolidated financial statements. ||| Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| . This ASU clarifies that implementation costs incurred by customers in cloud computing arrangements should be deferred and recognized over the term of the arrangement, if those costs would be capitalized by the customer in a software licensing arrangement under the internal-use software guidance. The provisions in ASU 2018-15 should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. For public business entities, ASU 2018-15 is effective for annual periods beginning after December 15, 2019, and interim periods within those annual periods, with early adoption permitted. We will prospectively adopt the new guidance effective January 1, 2020. We expect that the new guidance will not have a material impact on our consolidated financial statements.

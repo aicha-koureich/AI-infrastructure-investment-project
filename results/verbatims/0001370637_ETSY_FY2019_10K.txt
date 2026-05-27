@@ -1,0 +1,21 @@
+FIRM         : ETSY (CIK 0001370637) | FY2019
+FILE         : 0001370637_ETSY_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Revenue
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Cost of revenue also includes expenses associated with the operation and maintenance of the Company’s platform and its data centers, including employee-related costs, hosting and bandwidth costs, and depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : PNW (CIK 0000764622) | FY2016
+FILE         : 0000764622_PNW_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 20. Changes in Accumulated Other Comprehensive Loss
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of utility property, plant and equipment is computed on a straight-line, remaining-life basis.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

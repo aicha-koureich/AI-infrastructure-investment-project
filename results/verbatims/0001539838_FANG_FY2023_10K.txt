@@ -1,0 +1,20 @@
+FIRM         : FANG (CIK 0001539838) | FY2023
+FILE         : 0001539838_FANG_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-16
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Under the full cost method of accounting, the Company is required to perform a ceiling test each quarter. The test determines a limit, or ceiling, on the book value of the proved oil and natural gas properties. Net capitalized costs are limited to the lower of unamortized oil and natural gas properties net of deferred income taxes, or the cost center ceiling. The cost center ceiling is defined as the sum of (a) estimated future net revenues, discounted at 10% per annum, from proved reserves, based on the trailing 12-month unweighted average of the first-day-of-the-month price, adjusted for any contract provisions, and excluding the estimated abandonment costs for properties with asset retirement obligations recorded on the balance sheet, (b) the cost of properties not being amortized, if any, and (c) the lower of cost or market value of unproved properties included in the cost being amortized, including related deferred taxes for differences between the book and tax basis of the oil and natural gas properties. If the net book value, including related deferred taxes, exceeds the ceiling, an impairment or non-cash write-down is required. For additional information on proved oil and natural gas properties, see Note 5— Property and Equipment .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

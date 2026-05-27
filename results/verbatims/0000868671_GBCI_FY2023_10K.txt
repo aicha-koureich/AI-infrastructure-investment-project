@@ -1,0 +1,20 @@
+FIRM         : GBCI (CIK 0000868671) | FY2023
+FILE         : 0000868671_GBCI_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Nature of Operations and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, furniture
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment are accounted for at cost less depreciation. The estimated useful life for office buildings is 15 to 40 years and the estimated useful life for furniture, fixtures, and equipment is 3 to 10 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : ALL (CIK 0000899051) | FY2023
+FILE         : 0000899051_ALL_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment is carried at cost less accumulated depreciation. Property and equipment depreciation is calculated using the straight-line method over the estimated useful lives of the assets, generally 3 to 10 years for equipment and 40 years for real property. Accumulated depreciation on property and equipment was $2.59 billion and $2.45 billion as of December 31, 2023 and 2022, respectively. Depreciation expense on property and equipment was $343 million, $335 million and $411 million in 2023, 2022 and 2021, respectively.
+
+[VERBATIM — Infrastructure IA]
+exposure include property type and geographic diversification. For further detail on our mortgage loan portfolio, see Note 5 of the consolidated financial statements. Limited partnership interests include $7.15 billion of interests in private equity funds, $1.09 billion of interests in real estate funds and $141 million of interests in other funds as of December 31, 2023. We have commitments to invest additional amounts in limited partnership interests totaling $2.94 billion as of December 31, 2023. Private equity limited partnerships by sector (% of carrying value) December 31, 2023 Industrial 20.8 % Healthcare 12.5 Information technology 11.3 Consumer discretionary 10.9 Consumer staples 8.8 Other 35.7 Total 100.0 % Real estate limited partnerships by sector (% of carrying value) December 31, 2023 Industrial 28.8 % Residential 19.1 Data centers 19.0 Healthcare 11.4 Consumer staples 5.1 Other 16.6 Total 100.0 % Short-term investments of $5.14 billion primarily comprise money market funds, commercial paper, U.S. Treasury bills and other short-term investments, including securities lending collateral of $1.59 billion. Other investments primarily comprise $224 million of bank loans, $709 million of real estate, $119 million of policy loans and $1 million of derivatives as of December 31, 2023. For further detail on our use of derivatives, see Note 7 of the consolidated financial statements. Direct real estate investments by sector (% of carrying value) December 31, 2023 Agriculture 28.6 % Industrial 23.7 Residential 20.6 Retail 18.5 Other 8.6 Total 100.0 %  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

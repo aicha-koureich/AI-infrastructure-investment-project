@@ -1,0 +1,23 @@
+FIRM         : KALU (CIK 0000811596) | FY2022
+FILE         : 0000811596_KALU_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-12
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significa nt Accounting Policies
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+The following table summarizes the total deferred implementation costs and accumulated amortization related to the hosted cloud computing software for our enterprise resource planning system refresh project (in millions of dollars):
+
+[VERBATIM — Changement de politique]
+We also grant performance-based awards to executive officers and other key employees. The methodology used to value these performance-based awards is based on the nature of the performance conditions within those awards. Awards that are subject to performance conditions pertaining to total shareholder return (market-based awards) are valued on the date of grant using a Monte Carlo valuation model. The key assumptions in applying this model are an expected volatility and a risk-free interest rate. Awards with certain other performance conditions (non-market-based awards) are valued based on our stock price at the date of grant. Our non‑market-based awards have performance conditions pertaining to our cost performance and adjusted EBITDA margin performance, which is measured by our adjusted earnings before interest, taxes, depreciation and amortization (“Adjusted EBITDA”) as a percentage of Conversion Revenue, which is Net sales less the Hedged Cost of Alloyed Metal. As used in this discussion, “Hedged Cost of Alloyed Metal” is the cost of aluminum at the average Midwest Transaction Price (“Midwest Price”) plus the cost of alloying elements and any realized gains and/or losses on settled hedges related to the metal sold in the referenced period. Holders of performance-based awards receive a one-time payment at the time of issuance of vested shares based on the total dividends they would have received if the vested shares had been held of record from the date of grant through the date of issuance. See Note 7 for more information on our stock-based compensation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Implementation Costs. We defer implementation costs associated with a software hosting arrangement that meets the definition of a service contract. We recognize these deferred costs within Prepaid expenses and other current assets and within Other assets on our Consolidated Balance Sheets. When the project is placed into service, we amortize the deferred implementation costs over the term of the hosting arrangement inclusive of expected renewal periods to the same line item in the Statements of Consolidated (Loss) Income as the underlying arrangement. The following table summarizes the total deferred implementation costs and accumulated amortization related to the hosted cloud computing software for our enterprise resource planning system refresh project (in millions of dollars): ||| Cloud Computing Implementation Costs. ||| The following table summarizes the total deferred implementation costs and accumulated amortization related to the hosted cloud computing software for our enterprise resource planning system refresh project (in millions of dollars):

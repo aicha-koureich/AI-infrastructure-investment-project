@@ -1,0 +1,20 @@
+FIRM         : GLW (CIK 0000024741) | FY2023
+FILE         : 0000024741_GLW_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Although demand in most of our markets is temporarily depressed due to supply chain corrections and macroeconomic factors, we are entering 2024 operationally strong and we remain confident that key industry growth drivers are intact: specifically, wireless, broadband, 5G, cloud computing and advanced artificial intelligence in Optical communications, increased screen sizes in Display Technologies, tighter emission regulations that drive more and better filtration in Environmental Technologies and the need for more and more advanced cover materials in Mobile Consumer Electronics. Additionally, we have built competitively-advantaged positions in the markets in which we participate and we believe we are the technology leader, as well as the lowest-cost producer, in those markets.

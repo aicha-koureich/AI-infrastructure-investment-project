@@ -1,0 +1,21 @@
+FIRM         : NBHC (CIK 0001475841) | FY2024
+FILE         : 0001475841_NBHC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 Summary of Significant Accounting Policies
+ASSET CAT.   : software and equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 7.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+g) Premises and equipment —With the exception of premises and equipment acquired through business combinations, which are initially measured and recorded at fair value, purchased land, buildings and software and equipment are carried at cost, including capitalized interest when appropriate, less accumulated depreciation. The Company generally assigns depreciable lives of 39 years for buildings, 7 to 15 years for building improvements, and 3 to 7 years for software and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

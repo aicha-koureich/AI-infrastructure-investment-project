@@ -1,0 +1,20 @@
+FIRM         : INVA (CIK 0001080014) | FY2019
+FILE         : 0001080014_INVA_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, equipment and leasehold improvements are stated at cost and depreciated using the straight-line method as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

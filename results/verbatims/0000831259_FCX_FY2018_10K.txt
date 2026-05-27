@@ -1,0 +1,20 @@
+FIRM         : FCX (CIK 0000831259) | FY2018
+FILE         : 0000831259_FCX_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+For oil and gas properties, the fair value of the legal obligation is recognized as an ARO and as a related ARC in the period in which the well is drilled or acquired and is amortized on a UOP basis together with other capitalized costs. Substantially all of FCX’s oil and gas leases require that, upon termination of economic production, the working interest owners plug and abandon non-producing wellbores; remove platforms, tanks, production equipment and flow lines; and restore the wellsite.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

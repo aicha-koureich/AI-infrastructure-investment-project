@@ -1,0 +1,20 @@
+FIRM         : NBTB (CIK 0000790359) | FY2018
+FILE         : 0000790359_NBTB_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40) – Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract . The ASU 2018-15 amends existing guidance and requires a hosting arrangement that is a service contract to follow the guidance in Subtopic 350-40 to determine which implementation costs to capitalize and which costs to expense. ASU 2018-15 is effective for the Company on January 1, 2020 and early adoption is permitted. The amendments should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. The Company is evaluating the impact that the guidance will have on its consolidated financial statements. ||| Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40) – Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract

@@ -1,0 +1,21 @@
+FIRM         : SCSC (CIK 0000918965) | FY2024
+FILE         : 0000918965_SCSC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-06-30
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : furniture, equipment and computer software
+DURÉE        : 25.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is computed using the straight-line method over estimated useful lives of 3 to 10 years for furniture, equipment and computer software, 25 to 40 years for buildings and 15 years for building improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ScanSource is a leading hybrid distributor connecting devices to the cloud and accelerating growth for customers across hardware, SaaS, connectivity and cloud. We provide technology solutions and services from approximately 500 leading suppliers of mobility, barcode, POS, payments, physical security, networking, unified communications, collaboration, connectivity and cloud services to our approximately 25,000 customers located primarily in the United States, Canada and Brazil. ||| On December 19, 2023, we completed the sale of our UK-based intY business. We retained our CASCADE cloud services distribution platform, which has been used to grow the Cisco and Microsoft subscription business in the United States and Brazil. ||| Our strategy is to drive sustainable, profitable growth by orchestrating hybrid technology solutions through a growing ecosystem of partners leveraging our people, processes and tools. Our goal is to provide exceptional experiences for our partners, suppliers and employees, and we strive for operational excellence. Our hybrid distribution strategy relies on a channel sales model to offer hardware, SaaS, connectivity and cloud services from leading technology suppliers to customers that solve end users’ challenges. ScanSource enables customers to deliver solutions for their end users to address changing buying and

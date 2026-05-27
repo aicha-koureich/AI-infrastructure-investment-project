@@ -1,0 +1,20 @@
+FIRM         : FE (CIK 0001031296) | FY2016
+FILE         : 0001031296_FE_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+FE was organized under the laws of the State of Ohio in 1996. FE’s principal business is the holding, directly or indirectly, of all of the outstanding equity of its principal subsidiaries: OE, CEI, TE, Penn (a wholly owned subsidiary of OE), JCP&L, ME, PN, FESC, FES and its principal subsidiaries (FG and NG), AE Supply, MP, PE, WP, FET and its principal subsidiaries (ATSI and TrAIL), and AESC. In addition, FE holds all of the outstanding equity of other direct subsidiaries including: FirstEnergy Properties, Inc., FEV, FENOC, FELHC, Inc., GPU Nuclear, Inc., and Allegheny Ventures, Inc.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

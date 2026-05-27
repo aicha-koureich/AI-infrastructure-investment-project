@@ -1,0 +1,20 @@
+FIRM         : QRVO (CIK 0001604778) | FY2015
+FILE         : 0001604778_QRVO_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : April 2, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+broadband customer premise equipment, home automation, in-vehicle infotainment, data center and military radar and communications. Our products are helping to drive the ongoing, rapid transformation of how people around the world interact with their communities, access and use data, and transact commerce.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+, "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement ||| " which provides additional guidance to customers about whether a cloud computing arrangement includes a software license. Under this guidance, if a cloud computing arrangement contains a software license, customers should account for the license element of the arrangement in a manner consistent with the acquisition of other software licenses. If the arrangement does not contain a software license, customers should account for the arrangement as a service contract. We will adopt the provisions of this standard in the first quarter of fiscal 2017, and we do not expect this new guidance to have a significant impact on our consolidated financial statements. ||| In April 2015, the FASB issued ASU 2015-05 , "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement " which provides additional guidance to customers about whether a cloud computing arrangement includes a software license. Under this guidance, if a cloud computing arrangement contains a software license, customers should account for the license element of the arrangement in a manner consistent with the acquisition of other software licenses. If the arrangement does not contain a software license, customers should account for the arrangement as a service contract. We will adopt the provisions of this standard in the first quarter of fiscal 2017, and we do not expect this new guidance to have a significant impact on our consolidated financial statements.

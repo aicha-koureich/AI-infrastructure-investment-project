@@ -1,0 +1,20 @@
+FIRM         : NVT (CIK 0001720635) | FY2020
+FILE         : 0001720635_NVT_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is stated at historical cost. We compute depreciation by the straight-line method based on the following estimated useful lives:
+
+[VERBATIM — Infrastructure IA]
+We also remain focused on continuing to serve our customers and support critical industries and essential infrastructure such as medical, data centers and networking solutions, energy and defense, among others. Government mandated measures providing for business curtailments or shutdowns have generally excluded certain essential businesses and services, including businesses that manufacture and sell products or services that are considered essential to daily life, or otherwise operate in essential or critical sectors. While our facilities are considered essential and have remained operational, we have experienced intermittent partial closures at certain facilities as a result of these measures or the need to sanitize the facilities and address employee well-being. All of our manufacturing sites are currently operational and we have not experienced any significant disruptions to our supply chain. We have experienced and expect to continue to experience reductions in customer demand in several end-markets across our business segments. During the second, third and fourth quarters of 2020, organic sales declined by approximately 22%, 14% and 11% compared to the same period of the prior year, respectively, which was primarily attributable to the adverse impacts of the pandemic.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

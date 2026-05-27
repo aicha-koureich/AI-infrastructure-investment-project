@@ -1,0 +1,21 @@
+FIRM         : MYGN (CIK 0000899923) | FY2021
+FILE         : 0000899923_MYGN_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-07-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : technology, information technology, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-7.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+After the implementation of the internal-use cloud computing software or other internal-use technology, the capitalized costs are amortized on a straight-line basis over the estimated useful life of the asset. For the year ended December 31, 2021, amortization expense for capitalized software costs was $0.2 million. There was no capitalized software amortization expense for the remaining periods presented.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The Company capitalizes certain costs incurred to develop internal-use technology, including certain implementation costs incurred in cloud computing arrangements and hosting arrangements that include an internal-use software license. The Company's cloud computing arrangements or hosting arrangements are primarily service contracts related to information technology. Implementation and development costs for internal-use technology are capitalized as part of Other assets in the Consolidated Balance Sheets. After the implementation of the internal-use cloud computing software or other internal-use technology, the capitalized costs are amortized on a straight-line basis over the estimated useful life of the asset. Costs incurred during the post implementation stage of the project are expensed as incurred. As of December 31, 2021 and 2020, the Company had unamortized software costs of $6.7 million and $2.3 million, respectively. For the year ended December 31, 2021, amortization expense for capitalized software costs was $0.2 million. There was no capitalized software amortization expense for the remaining periods presented.

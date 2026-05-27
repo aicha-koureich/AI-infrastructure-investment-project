@@ -1,0 +1,21 @@
+FIRM         : KMT (CIK 0000055242) | FY2019
+FILE         : 0000055242_KMT_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 20 — SELECTED QUARTERLY FINANCIAL DATA (UNAUDITED)
+ASSET CAT.   : equipment over
+DURÉE        : 4.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 4.0-15.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation for financial reporting purposes is computed using the straight-line method over the following estimated useful lives: building and improvements over 15 - 40 years; machinery and equipment over 4 - 15 years; furniture and fixtures over 5 - 10 years and computer hardware and software over 3 - 5 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, "Intangibles - Goodwill and Other - Internal-use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract." The standard requires implementation costs incurred by customers in cloud computing arrangements to be capitalized and amortized under the same premises of authoritative guidance for internal-use software. This standard is effective for Kennametal beginning July 1, 2020. We are in the process of assessing the impact the adoption of this guidance will have on our consolidated financial statements.

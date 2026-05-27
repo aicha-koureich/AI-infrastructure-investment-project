@@ -1,0 +1,23 @@
+FIRM         : NGVT (CIK 0001653477) | FY2019
+FILE         : 0001653477_NGVT_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3: Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : 1.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : Blackwell;TPU (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software is amortized using the straight-line over the estimated useful lives ranging from 1 to 10 years. Amortization is recorded to Costs of sales on our consolidated statements of operations for software directly used in the production of inventory and Selling, general and administrative expenses on our consolidated statements of operations for software used for non-production related activities.
+
+[VERBATIM — Changement de politique]
+We record an accrual for severance and other non-recurring costs under the provisions of the relevant accounting guidance. Additionally, in some restructuring plans write-downs of long-lived assets may occur. Two types of assets are impacted: assets to be disposed of by sale and assets to be abandoned. Assets to be disposed of by sale are measured at the lower of carrying amount or estimated net proceeds from the sale. Assets to be abandoned with no remaining future service potential are written down to amounts expected to be recovered. The useful lives of assets to be abandoned that have a remaining future service potential are adjusted and depreciation is recorded over the adjusted useful life. Below provides detail of the restructuring and other (income) charges, net incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15 "Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40) Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract." This ASU requires companies to defer specific implementation costs incurred in a Cloud Computing Arrangement ("CCA") that are often expensed as incurred under current GAAP, and recognize the expense over the noncancellable term of the CCA. The new standard is effective for fiscal years beginning after December 15, 2019, including interim periods within those fiscal years. Although we are still evaluating the impact of this new standard, we do not believe that the adoption will materially impact our Consolidated Financial Statements and related disclosures.

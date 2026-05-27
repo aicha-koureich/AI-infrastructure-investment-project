@@ -1,0 +1,20 @@
+FIRM         : CFR (CIK 0000039263) | FY2022
+FILE         : 0000039263_CFR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-25
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4 - Premises and Equipment and Lease Commitments
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of premises and equipment totaled $57.4 million in 2022, $55.1 million 2021 and $49.9 million in 2020.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Technology, Furniture and Equipment. Technology, furniture and equipment expense for 2022 increased $8.0 million, or 7.1%, compared to 2021. The increase was primarily related to increases in cloud services expense (up $3.9 million), service contracts expense (up $1.4 million), software maintenance (up $1.3 million) and depreciation of furniture and equipment (up $989 thousand), among other things. ||| Technology, furniture and equipment expense for 2022 increased $8.0 million, or 7.1%, compared to 2021. The increase was primarily related to increases in cloud services expense (up $3.9 million), service contracts expense (up $1.4 million), software maintenance (up $1.3 million) and depreciation of furniture and equipment (up $989 thousand), among other things.

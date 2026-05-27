@@ -1,0 +1,21 @@
+FIRM         : EFX (CIK 0000033185) | FY2018
+FILE         : 0000033185_EFX_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+years for data processing equipment and capitalized internal-use software and systems costs. Leasehold improvements are depreciated over the shorter of their estimated useful lives or lease terms that are reasonably assured. Buildings are depreciated over a
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| . In August 2018, the FASB issued ASU No. 2018-15 “Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract.” ASU 2018-15 requires that issuers follow the internal-use software guidance in Accounting Standards Codification (ASC) 350-40 to determine which costs to capitalize as assets or expense as incurred. The ASC 350-40 guidance requires that certain costs incurred during the application development stage be capitalized and other costs incurred during the preliminary project and post-implementation stages be expensed as they are incurred. ASU 2018-15 is effective for fiscal years beginning after December 15, 2019, and interim periods therein. We are evaluating the impact of the adoption of the standard on our consolidated financial statements. ||| Cloud Computing Arrangements . In August 2018, the FASB issued ASU No. 2018-15 “Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract.” ASU 2018-15 requires that issuers follow the internal-use software guidance in Accounting Standards Codification (ASC) 350-40 to determine which costs to capitalize as assets or expense as incurred. The ASC 350-40 guidance requires that certain costs incurred during the application development stage be capitalized and other costs incurred during the preliminary project and post-implementation stages be expensed as they are incurred. ASU 2018-15 is effective for fiscal years beginning after December 15, 2019, and interim periods therein. We are evaluating the impact of the adoption of the standard on our consolidated financial statements.

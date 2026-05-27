@@ -1,0 +1,21 @@
+FIRM         : LSCC (CIK 0000855658) | FY2021
+FILE         : 0000855658_LSCC_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 1, 2022
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 - Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : equipment and software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization are computed using the straight-line method over the estimated useful lives of the related assets, generally three to five years for equipment and software, and one to three years for tooling. Upon disposal of property and equipment, the accounts are relieved of the costs and related accumulated depreciation and amortization, and resulting gains or losses are reflected in the Consolidated Statements of Operations for recognized gains and losses.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

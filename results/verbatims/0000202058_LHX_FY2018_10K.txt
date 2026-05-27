@@ -1,0 +1,20 @@
+FIRM         : LHX (CIK 0000202058) | FY2018
+FILE         : 0000202058_LHX_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : JUNE 29, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 6: Inventories
+ASSET CAT.   : equipment, machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of buildings, machinery and equipment is computed by the straight-line and accelerated methods.
+
+[VERBATIM — Infrastructure IA]
+Our operational excellence program, Harris Business Excellence (“HBX”), is focused on streamlining processes, eliminating waste, reducing costs, optimizing program execution and increasing customer satisfaction. We are approximately half-way through standardizing our IT systems, which we expect will dramatically reduce the number of enterprise resource planning platforms, simplify our operating environment, drive productivity through growth in shared services, automate core processes and lay the foundation of our enterprise-wide digital strategy. We are working toward eliminating many of our data centers and making the remainder cloud-enabled. We also are continuing to focus on cost savings in our supply chain through “value engineering” and “should-cost” analysis, as well as improving supplier performance and reducing sole-sourced components on legacy solutions.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

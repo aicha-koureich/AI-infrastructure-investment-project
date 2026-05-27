@@ -1,0 +1,20 @@
+FIRM         : APAM (CIK 0001517302) | FY2014
+FILE         : 0001517302_APAM_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 23. Subsequent Events
+ASSET CAT.   : equipment, Computer software, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+The composition of property and equipment at December 31, 2014 and 2013 are as follows: As of December 31, 2014 2013 Computers and equipment $ 5,910 $ 6,259 Computer software 4,021 5,356 Furniture and fixtures 6,654 4,166 Leasehold improvements 17,049 11,416 Total Cost 33,634 27,197 Less: Accumulated depreciation (17,040 ) (18,437 ) Property and equipment, net of accumulated depreciation $ 16,594 $ 8,760
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

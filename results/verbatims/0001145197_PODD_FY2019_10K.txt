@@ -1,0 +1,21 @@
+FIRM         : PODD (CIK 0001145197) | FY2019
+FILE         : 0001145197_PODD_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 . Summary of Significant Accounting Policies
+ASSET CAT.   : Machinery and equipment, Furniture and fixtures
+DURÉE        : 2.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-15.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Building and building improvements 20 to 39 years Leasehold improvements Lesser of lease term or useful life of asset Machinery and equipment 2 to 15 years Furniture and fixtures 3 to 5 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Effective January 1, 2019, the Company early adopted ASU 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (“ASU 2018-15”). ASU 2018-15 requires certain costs to implement a cloud computing arrangement that is a service contract to be capitalized consistent with the rules applicable to internal-use software capitalization projects. The Company adopted this new guidance prospectively. The Company defers eligible costs related to the implementation of cloud computing arrangements within other current and non-current assets and amortizes such costs over the expected term of the hosting arrangement to the same income statement line as the associated cloud operating expenses. Adoption of this standard resulted in the Company capitalizing $3.6 million of cloud computing implementation costs for the year ended December 31, 2019 . ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| (“ASU 2018-15”). ASU 2018-15 requires certain costs to implement a cloud computing arrangement that is a service contract to be capitalized consistent with the rules applicable to internal-use software capitalization projects. The Company adopted this new guidance prospectively. The Company defers eligible costs related to the implementation of cloud computing arrangements within other current and non-current assets and amortizes such costs over the expected term of the hosting arrangement to the same income statement line as the associated cloud operating expenses. Adoption of this standard resulted in the Company capitalizing

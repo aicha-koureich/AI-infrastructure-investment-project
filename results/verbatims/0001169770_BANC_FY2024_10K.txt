@@ -1,0 +1,24 @@
+FIRM         : BANC (CIK 0001169770) | FY2024
+FILE         : 0001169770_BANC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment range from
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Premises and equipment are stated at cost less accumulated depreciation and amortization. The estimated useful lives of furniture, fixtures and equipment range from 3 years to 7 years and for buildings up to 40 years.
+
+[VERBATIM — Changement de politique]
+Parent Company Only Year Ended December 31, Condensed Statements of Cash Flows 2024 2023 2022 (In thousands) Cash flows from operating activities: Net earnings (loss) $ 126,888 $ (1,899,137) $ 423,613 Adjustments to reconcile net earnings (loss) to net cash provided by (used in) operating activities: Depreciation and amortization 4,608 378 — Change in other assets (42,141) (466,018) (323,852) Change in liabilities (22,063) 20,907 (5,658) Earned stock compensation 15,448 28,697 34,769 (Equity in) distributions in excess of undistributed earnings or loss of subsidiaries (65,757) 1,934,559 (304,004) Net cash provided by (used in) operating activities 16,983 (380,614) (175,132) Cash flows from investing activities: Cash acquired in acquisitions, net of consideration paid — 26,310 — Net cash provided by investing activities — 26,310 — Cash flows from financing activities: Common stock repurchased and restricted stock surrendered (2,708) (5,419) (9,531) Net proceeds from stock issuance — 382,900 — Net proceeds from preferred stock offering — — 498,516 Shares purchased under the Dividend Reinvestment Plan 308 69 — Preferred stock dividends paid (39,788) (39,788) (19,339) Common stock dividends paid (68,298) (48,881) (120,256) Net cash (used in) provided by financing activities (110,486) 288,881 349,390 Net (decrease) increase in cash and cash equivalents (93,503) (65,423) 174,258 Cash and cash equivalents, beginning of year 285,758 351,181 176,923 Cash and cash equivalents, end of year $ 192,255 $ 285,758 $ 351,181
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

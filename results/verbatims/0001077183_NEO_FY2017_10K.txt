@@ -1,0 +1,24 @@
+FIRM         : NEO (CIK 0001077183) | FY2017
+FILE         : 0001077183_NEO_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : software, and are amortized over the expected useful life of the software, generally
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost, net of accumulated depreciation and amortization. Property and equipment generally includes purchases of items with a cost greater than $1,000 and a useful life greater than one year. Leasehold improvements and property and equipment under capital leases are amortized over the shorter of the related lease terms or their estimated useful lives. Costs incurred in connection with the development of internal-use software are capitalized in accordance with the accounting standard for internal-use software, and are amortized over the expected useful life of the software, generally 3-5 years.
+
+[VERBATIM — Changement de politique]
+The Company prepares its consolidated financial statements in conformity with accounting principles generally accepted in the United States of America. These principles require management to make estimates, judgments and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses, together with amounts disclosed in the related notes to the consolidated financial statements. Actual results and outcomes may differ from management’s estimates, judgments and assumptions. Significant estimates, judgments and assumptions used in these consolidated financial statements include, but are not limited to, those related to revenues, accounts receivable and related allowances, contingencies, useful lives and recovery of long-term assets and intangible assets, income taxes and valuation allowances, stock-based compensation and impairment analysis of goodwill. These estimates, judgments, and assumptions are reviewed periodically and the effects of material revisions in estimates are reflected in the consolidated financial statements prospectively from the date of the change in estimate.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

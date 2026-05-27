@@ -1,0 +1,20 @@
+FIRM         : ALGN (CIK 0001097149) | FY2015
+FILE         : 0001097149_ALGN_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 15. Segments and Geographical Information
+ASSET CAT.   : equipment, Computer hardware, Computer software, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2015 2014 Clinical and manufacturing equipment $ 128,044 $ 107,707 Computer hardware 25,843 24,092 Computer software 21,451 22,044 Furniture and fixtures 8,855 7,386 Leasehold improvements 20,172 15,358 Building 4,227 1,868 Land 3,072 1,162 CIP 42,846 18,310 Total 254,510 197,927 Less: Accumulated depreciation and amortization and impairment charges (118,037 ) (107,802 ) Total Property, plant and equipment, net $ 136,473 $ 90,125
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer's Accounting for Fees Paid in a Cloud Computing Arrangement. ||| " providing guidance to entities about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, the entity should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the entity should account for the arrangement as a service contract. The new guidance does not change the accounting for an entity's accounting for service contracts. The updated standard becomes effective for interim and annual reporting periods beginning after December 15, 2015. We adopted this ASU in January, 2016, and we do not expect it to have a material impact on ||| In April 2015, the FASB issued ASU No. 2015-05, " Customer's Accounting for Fees Paid in a Cloud Computing Arrangement. " providing guidance to entities about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, the entity should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the entity should account for the arrangement as a service contract. The new guidance does not change the accounting for an entity's accounting for service contracts. The updated standard becomes effective for interim and annual reporting periods beginning after December 15, 2015. We adopted this ASU in January, 2016, and we do not expect it to have a material impact on our consolidated financial statements and related disclosures.

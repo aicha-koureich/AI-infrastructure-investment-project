@@ -1,0 +1,23 @@
+FIRM         : FIS (CIK 0001136893) | FY2022
+FILE         : 0001136893_FIS_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Software as of December 31, 2022 and 2021, consists of the following (in millions): 2022 2021 Software from acquisitions $ 2,124 $ 2,181 Capitalized software development costs 3,766 3,286 Purchased software 717 728 6,607 6,195 Accumulated amortization (3,369) (2,896) Total Software, net $ 3,238 $ 3,299
+
+[VERBATIM — Changement de politique]
+During the years ended December 31, 2022 and 2021, the Company recorded $32 million and $144 million, respectively, of software asset impairments and $156 million and $145 million, respectively, of incremental software amortization expense driven by the Company's platform modernization.
+
+[VERBATIM — Infrastructure IA]
+Following the successful modernization of our IT infrastructure and consolidation of our data centers, we are now accelerating the modernization of our strategic applications and sunsetting of our redundant platforms. Our multi-year platform modernization initiative is designed to create a componentized, cloud-native set of capabilities that can be consumed by clients as end-to-end business applications or as individual components. Although our platform modernization has resulted and will continue to result in additional near-term costs, we expect it will continue to result in improvements in our operational efficiencies over time.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

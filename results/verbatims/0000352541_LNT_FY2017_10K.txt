@@ -1,0 +1,21 @@
+FIRM         : LNT (CIK 0000352541) | FY2017
+FILE         : 0000352541_LNT_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 3. PROPERTY, PLANT AND EQUIPMENT
+ASSET CAT.   : equipment, computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0 ans | 12.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment related to Corporate Services includes a customer billing and information system for IPL and WPL and other computer software, and the corporate headquarters building located in Madison, Wisconsin. The customer billing and information system is amortized using the straight-line method over a
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

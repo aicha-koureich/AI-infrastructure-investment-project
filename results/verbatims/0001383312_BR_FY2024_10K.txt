@@ -1,0 +1,20 @@
+FIRM         : BR (CIK 0001383312) | FY2024
+FILE         : 0001383312_BR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-08-05
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Costs directly related to the activities necessary to make the data center usable for its intended purpose are deferred and amortized over the life of the contract on a straight-line basis commencing on the date the data center has achieved full functionality.
+
+[VERBATIM — Infrastructure IA]
+J. Deferred Data Center Costs. Data center costs relate to conversion costs associated with our principal data center systems and applications. Costs directly related to the activities necessary to make the data center usable for its intended purpose are deferred and amortized over the life of the contract on a straight-line basis commencing on the date the data center has achieved full functionality. These deferred costs are reflected in Other non-current assets in the Consolidated Balance Sheets at June 30, 2024 and 2023, respectively. Refer to Note 12, “Other Non-Current Assets” for a further description of the Company’s Deferred data center costs.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+(4) Purchase obligations relate to payments to Kyndryl, Inc. related to the Amended IT Services Agreement (as described below) that expires in fiscal year 2027, the Private Cloud Agreement (as described below) that expires in fiscal year 2030, the AWS Cloud Agreement (as described below) that expires in fiscal year 2027, as well as other data center arrangements and software license agreements including hosted software arrangements, and software and hardware maintenance and support agreements, and certain other related arrangements. Purchase obligations also includes $53.0 million of other liabilities recorded on the Company’s Consolidated Balance Sheet as of June 30, 2024. ||| Purchase obligations relate to payments to Kyndryl, Inc. related to the Amended IT Services Agreement (as described below) that expires in fiscal year 2027, the Private Cloud Agreement (as described below) that expires in fiscal year 2030, the AWS Cloud Agreement (as described below) that expires in fiscal year 2027, as well as other data center arrangements and software license agreements including hosted software arrangements, and software and hardware maintenance and support agreements, and certain other related arrangements. Purchase obligations also includes $53.0 million of other liabilities recorded on the Company’s Consolidated Balance Sheet as of June 30, 2024. ||| The Company is a party to an information technology agreement for private cloud services (the “Private Cloud Agreement”) under which Kyndryl operates, manages and supports the Company’s private cloud global distributed platforms and products, and operates and manages certain Company networks. The Private Cloud Agreement expires on March 31, 2030. Fixed minimum commitments remaining under the Private Cloud Agreement at June 30, 2024 are $106.3 million through March 31, 2030, the final year of the contract.

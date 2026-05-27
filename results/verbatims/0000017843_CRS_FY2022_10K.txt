@@ -1,0 +1,23 @@
+FIRM         : CRS (CIK 0000017843) | FY2022
+FILE         : 0000017843_CRS_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 8. Property, Plant and Equipment, net
+ASSET CAT.   : equipment, Machinery and equipment, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+June 30, ($ in millions) 2022 2021 Land $ 38.3 $ 36.5 Buildings and building equipment 546.5 537.6 Machinery and equipment 2,348.4 2,234.6 Capitalized software 219.8 221.2 Construction in progress 66.5 120.0 Total at cost 3,219.5 3,149.9 Less: accumulated depreciation and amortization 1,798.7 1,692.4 Total property, plant and equipment, net $ 1,420.8 $ 1,457.5
+
+[VERBATIM — Changement de politique]
+In August 2018, the FASB issued ASU 2018-15, Intangibles - Goodwill and Other - Internal Use Software (Subtopic 350-40) - Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract, to help entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement. ASU 2018-15 was effective for public business entities for annual periods, including interim periods within those annual periods, beginning after December 15, 2019, with early adoption permitted. The Company early adopted the provisions of ASU 2018-15 in the first quarter of fiscal year 2020 and elected the prospective adoption method. The adoption of ASU 2018-15 did not materially impact the consolidated financial statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles - Goodwill and Other - Internal Use Software (Subtopic 350-40) - Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract, to help entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement. ASU 2018-15 was effective for public business entities for annual periods, including interim periods within those annual periods, beginning after December 15, 2019, with early adoption permitted. The Company early adopted the provisions of ASU 2018-15 in the first quarter of fiscal year 2020 and elected the prospective adoption method. The adoption of ASU 2018-15 did not materially impact the consolidated financial statements.

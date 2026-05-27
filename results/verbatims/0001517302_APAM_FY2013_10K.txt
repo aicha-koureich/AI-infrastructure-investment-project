@@ -1,0 +1,20 @@
+FIRM         : APAM (CIK 0001517302) | FY2013
+FILE         : 0001517302_APAM_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 11. Compensation and Benefits For the Year Ended December 31, 2013 2012 2011 Salaries, incentive compensation and benefits (1) $ 301,621 $ 227,25
+ASSET CAT.   : equipment, Computer software, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The composition of property and equipment at December 31, 2013 and 2012 are as follows: As of December 31, 2013 2012 Computers and equipment $ 6,259 $ 5,320 Computer software 5,356 4,617 Furniture and fixtures 4,166 3,637 Leasehold improvements 11,416 10,585 Total Cost 27,197 24,159 Less: Accumulated depreciation (18,437 ) (15,352 ) Property and equipment, net of accumulated depreciation $ 8,760 $ 8,807
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

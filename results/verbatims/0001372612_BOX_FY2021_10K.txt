@@ -1,0 +1,20 @@
+FIRM         : BOX (CIK 0001372612) | FY2021
+FILE         : 0001372612_BOX_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 31, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Such estimates include, but are not limited to, the fair value of acquired intangible assets and goodwill, useful lives of acquired intangible assets and property and equipment, timing and costs associated with our asset retirement obligations, the standalone selling price allocation included in contracts with multiple performance obligations, the expected benefit period for deferred commissions, the useful life of capitalized internal-use software costs, the incremental borrowing rate we use to determine our lease liabilities, the valuation of deferred income tax assets, and unrecognized tax benefits, among others.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue consists primarily of costs related to providing our subscription services to our paying customers, including employee compensation and related expenses for data center operations, customer support and professional services personnel, payments to outside technology service providers, depreciation of servers and equipment, security services and other tools, as well as amortization expense associated with capitalized internally developed software and acquired technology. We allocate overhead such as rent, information technology costs and employee benefit costs to all departments based on headcount.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We intend to continue scaling our organization to meet the increasingly complex needs of our customers. Our sales and customer success teams are organized to efficiently serve organizations ranging from small businesses to the world’s largest global organizations. We have invested in our sales and marketing teams to sell our services around the world, as well as in our development efforts to deliver additional features and capabilities of our cloud services to address our customers’ evolving needs. We also expect to continue to make investments in both our infrastructure to meet the needs of our growing global user base and our professional services organization (Box Consulting) to address the strategic needs of our customers in more complex deployments and to drive broader adoption across a wide array of use cases. ||| We derive our revenue primarily from three sources: (1) subscription revenue, which is comprised of subscription fees from customers who have access to our content cloud platform including routine customer support; (2) revenue from customers purchasing our premier services package; and (3) revenue from professional services such as implementing best practice use cases, project management and implementation consulting services. ||| The increase in absolute dollars during the fiscal year was primarily due to an increase of $14.2 million in fees related to shareholder activism, an increase of $5.9 million in stock-based compensation expense driven by equity grants to existing and new employees, an increase of $2.2 million in consulting and audit services, an increase of $2.2 million in employee and related costs driven by the annual merit increase to salaries, and a $1.0 million impairment charge related to capitalized cloud computing arrangements. General and administrative expense as a percentage of revenue increased 100 basis points year-over-year. We expect our general and administrative expense to slowly increase in dollars but to decrease as a percentage of revenue over time as we benefit from greater operational efficiency.

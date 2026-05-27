@@ -1,0 +1,20 @@
+FIRM         : WST (CIK 0000105770) | FY2019
+FILE         : 0000105770_WST_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1: Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment, computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment : Property, plant and equipment assets are carried at cost. Maintenance and minor repairs and renewals are charged to expense as incurred. Costs incurred for computer software developed or obtained for internal use are capitalized for application development activities and immediately expensed for preliminary project activities or post-implementation activities. Upon sale or retirement of depreciable assets, costs and related accumulated depreciation are eliminated, and gains or losses are recognized in other (income) expense. Depreciation and amortization are computed principally using the straight-line method over the estimated useful lives of the assets, or the remaining term of the lease, if shorter.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

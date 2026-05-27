@@ -1,0 +1,20 @@
+FIRM         : ORI (CIK 0000074260) | FY2022
+FILE         : 0000074260_ORI_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 - Summary of Significant Accounting Policies
+ASSET CAT.   : Not disclosed
+DURÉE        : 1.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Such revenues are generally recognized at a point in time upon completion and invoicing of the services, or in the case of software maintenance agreements, on a straight-line basis over the life of the contract (generally one year).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

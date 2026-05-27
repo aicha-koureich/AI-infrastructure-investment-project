@@ -1,0 +1,20 @@
+FIRM         : IRM (CIK 0001020569) | FY2022
+FILE         : 0001020569_IRM_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Data center lease-based intangible assets amortization (3)  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+• organic storage rental revenue growth driven by increased volume in faster growing markets and our Global Data Center Business segment and revenue management; • a 0.4% increase in total global volume excluding deconsolidations (also excluding acquisitions, total global volume increased 0.4%); and • a decrease of $81.5 million due to foreign currency exchange rate fluctuations. ||| Revenue is recognized when or as control of promised goods or services is transferred to the customer, in an amount that reflects the consideration we expect to be entitled to in exchange for those goods or services. See Note 2.s. to Notes to Consolidated Financial Statements included in this Annual Report for additional details on our revenue recognition policies. Revenue for all our lines of business, with the exception of storage revenues in our Global Data Center Business (which is subject to leasing guidance), is recognized in accordance with Accounting Standards Codification ("ASC") 606, Revenue from Contracts with Customers ("ASC 606"), the application of which requires that we make estimates and judgements that may affect the amount and timing of revenue we recognize. ||| Our Global Data Center Business operates in 21 data centers across 19 global markets, either directly or through unconsolidated joint ventures. We provide enterprise-class data center facilities and hyperscale-ready capacity to protect mission-critical assets and ensure the continued operation of our customers’ IT infrastructure with secure, reliable and flexible data center options. Data centers are highly specialized and secure assets that serve as centralized repositories of server, storage and network equipment. They are capital intensive and designed to provide the space, power, cooling and network connectivity necessary to efficiently operate mission-critical IT equipment. The demand for data center infrastructure is being driven by many factors, but most importantly by significant growth in data as well as an increased demand for outsourcing. In order to attract and retain customers, as well as sustain growth in our existing and new markets, we must have the capability to tailor our facilities and invest capital to meet our customers’ needs. Our estimate of fair value reflects the expected growth in each of our data center markets along with the corresponding capital investments required to meet demand.

@@ -1,0 +1,82 @@
+FIRM         : OFG (CIK 0001030469) | FY2019
+FILE         : 0001030469_OFG_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES The accounting policies of
+OFG Bancorp (Oriental) conform with GAAP and to banking industry practi
+ASSET CAT.   : Furniture and fixtures, Information technology
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Useful Life December 31, (Years) 2019 2018 (In thousands) Land — $ 4,363 $ 5,028 Buildings and improvements 40 74,840 67,856 Leasehold improvements 5 — 10 21,358 18,274 Furniture and fixtures 3 — 7 16,686 17,137 Information technology and other 3 — 7 29,230 24,855 146,477 133,150 Less: accumulated depreciation and amortization (65,372) (64,258) $ 81,105 $ 68,892
+
+[VERBATIM — Changement de politique]
+Mortgage loans: These loans are divided into four classes: traditional
+mortgages, non-traditional mortgages, loans in loan modification programs and
+mortgage secured personal loans. Traditional mortgage loans include loans
+secured by a dwelling, fixed coupons and regular amortization schedules.
+Non-traditional mortgages include loans with interest-first amortization
+schedules and loans with balloon considerations as part of their terms.
+Mortgages in loan modification programs are loans that are being serviced under
+such programs. Mortgage loans are mainly equity lines of credit. The allowance
+factor on mortgage loans is impacted by the adjusted historical loss factors on
+the sub-segments and the qualitative factors described above and by delinquency
+buckets. The traditional mortgage loan portfolio is further segregated by
+vintages and then by delinquency buckets. Effective on the fourth quarter of
+2018, the calculation of the loss factor was changed from historical loss
+experience to a probability of default (“PD”) and loss given default (“LGD”)
+methodology. The PD results from a delinquency migration analysis and the LGD
+is based on the Bank’s historical loss experience. The segments and
+sub-segments remained unchanged as well as the qualitative factors adjustments. These changes are considered
+a change in accounting estimate as per ASC 250-10 provisions, where adjustments
+should be made prospectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles—Goodwill and Other—Internal-Use
+Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs
+Incurred in a Cloud Computing Arrangement That Is a Service Contract (a
+consensus of the FASB Emerging Issues Task Force). In August
+2018, the FASB issued Accounting
+Standards Update (“ASU”) 2018-15, which aligns the requirements for
+capitalizing implementation costs incurred in a hosting arrangement that is a
+service contract with the requirements for capitalizing implementation costs
+incurred to develop or obtain internal-use software (and hosting arrangements
+that include an internal-use software license). Accordingly, ASU 2018-15
+requires an entity (customer) in a hosting arrangement that is a service
+contract to follow the guidance in Subtopic 350-40 to determine which
+implementation costs to capitalize as an asset related to the service contract
+and which costs to expense. The ASU also requires the entity (customer) to
+expense the capitalized implementation costs of a hosting arrangement that is a
+service contract over the term of the hosting arrangement, which includes
+reasonably certain renewals. This ASU is the final version of Proposed
+Accounting Standards Update 2018–230—Intangibles—Goodwill and
+Other—Internal-Use Software (Subtopic 350-40): Customer's Accounting for
+Implementation Costs Incurred in a Cloud Computing Arrangement That Is a
+Service Contract, which has been deleted. This ASU
+will be applied prospectively for annual and interim periods in fiscal years
+beginning after December 15, 2019. Early adoption is permitted. The effects of this standard on
+our consolidated statement of financial position, results of operations or cash
+flows are not expected to be material . ||| Accounting
+Standards Update (“ASU”) 2018-15, which aligns the requirements for
+capitalizing implementation costs incurred in a hosting arrangement that is a
+service contract with the requirements for capitalizing implementation costs
+incurred to develop or obtain internal-use software (and hosting arrangements
+that include an internal-use software license). Accordingly, ASU 2018-15
+requires an entity (customer) in a hosting arrangement that is a service
+contract to follow the guidance in Subtopic 350-40 to determine which
+implementation costs to capitalize as an asset related to the service contract
+and which costs to expense. The ASU also requires the entity (customer) to
+expense the capitalized implementation costs of a hosting arrangement that is a
+service contract over the term of the hosting arrangement, which includes
+reasonably certain renewals. This ASU is the final version of Proposed
+Accounting Standards Update 2018–230—Intangibles—Goodwill and
+Other—Internal-Use Software (Subtopic 350-40): Customer's Accounting for
+Implementation Costs Incurred in a Cloud Computing Arrangement That Is a
+Service Contract, which has been deleted.

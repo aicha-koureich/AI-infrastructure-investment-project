@@ -1,0 +1,23 @@
+FIRM         : LII (CIK 0001069202) | FY2024
+FILE         : 0001069202_LII_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies:
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+SG&A expenses include payroll and benefit costs, advertising, commissions, research and development, information technology costs, and other SG&A related costs such as insurance, travel, non-production depreciation, and rent.
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment is stated at cost, net of accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

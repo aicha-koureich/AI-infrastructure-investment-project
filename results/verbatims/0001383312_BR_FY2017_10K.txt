@@ -1,0 +1,20 @@
+FIRM         : BR (CIK 0001383312) | FY2017
+FILE         : 0001383312_BR_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Costs directly related to the activities necessary to make the data center usable for its intended purpose are deferred and amortized over the life of the contract on a straight-line basis commencing on the date the data center has achieved full functionality.
+
+[VERBATIM — Infrastructure IA]
+I. Deferred Data Center Costs.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In March 2014, the Company and IBM United Kingdom Limited (“IBM UK”) entered into an Information Technology Services Agreement (the “EU IT Services Agreement”), under which IBM UK provides data center services supporting the Company’s technology outsourcing services for certain clients in Europe and Asia. The EU IT Services Agreement expires in October 2023. The Company has the right to renew the initial term of the EU IT Services Agreement for up to one additional 12-month term or one additional 24-month term. Commitments remaining under this agreement at

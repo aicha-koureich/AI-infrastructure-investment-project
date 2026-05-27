@@ -1,0 +1,21 @@
+FIRM         : KNSL (CIK 0001669162) | FY2020
+FILE         : 0001669162_KNSL_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-11
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of significant accounting policies
+ASSET CAT.   : the parking deck and building
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 3.0-7.0 ans | 7.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation. Depreciation of property and equipment is calculated using the straight-line method over the estimated useful lives of the assets. The estimated useful lives range from 39 years for the parking deck and building, 15 to 20 years for land improvements, 7 to 10 years for furniture and equipment, 3 to 7 years for electronic data processing hardware and software, and from 2 to 5 years for leasehold improvements, which is the shorter of the estimated useful life or the lease term.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| On August 29, 2018, the FASB issued new guidance on a customer's accounting for implementation, set-up and other up-front costs incurred in a cloud computing arrangement hosted by the vendor. The new guidance requires an entity to determine the stage of a project that the implementation activity relates to and the nature of the associated costs in order to determine whether those costs should be expensed as incurred or capitalized. The new guidance also requires the entity to amortize the capitalized implementation costs as an expense over the term of the hosting arrangement. Effective January 1, 2020, the Company adopted ASU 2018-15 using a modified-retrospective approach. The adoption of ASU 2018-15 did not have a material impact on the Company's consolidated financial statements.

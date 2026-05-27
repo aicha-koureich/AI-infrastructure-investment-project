@@ -1,0 +1,20 @@
+FIRM         : JHG (CIK 0001274173) | FY2020
+FILE         : 0001274173_JHG_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-09
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, equipment and software are recorded at cost. Depreciation is recorded using the straight-line method over the estimated useful life of the related assets (or the lease term, if shorter).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Implementation Costs — Cloud Computing Arrangements ||| January 1, 2020, for calendar year-end companies and for the interim periods within those years. The ASU allows either a retrospective or prospective approach to all implementation costs incurred after adoption. We adopted the ASU effective January 1, 2020, using the prospective approach. There were $4.4 million in cloud computing implementation costs capitalized to other long-term assets in 2020. We generally expect increased capitalized costs as our previous policy dictated that implementation costs incurred in a hosting arrangement be expensed as incurred.

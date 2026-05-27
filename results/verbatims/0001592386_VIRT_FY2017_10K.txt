@@ -1,0 +1,21 @@
+FIRM         : VIRT (CIK 0001592386) | FY2017
+FILE         : 0001592386_VIRT_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.5-2.5 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs and related accumulated amortization are included in property,
+
+[VERBATIM — Infrastructure IA]
+Communication and Data Processing. Communication and data processing represent primarily fixed expenses for leased equipment, equipment co-location, network lines and connectivity for our trading centers and co-location facilities. More specifically, communications expense consists primarily of the cost of voice and data telecommunication lines supporting our business, including connectivity to data centers and exchanges, markets and liquidity pools around the world, and data processing expense consists primarily of market data fees that we pay to third parties to receive price quotes and related information.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

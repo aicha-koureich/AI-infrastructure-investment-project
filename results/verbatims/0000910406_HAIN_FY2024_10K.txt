@@ -1,0 +1,20 @@
+FIRM         : HAIN (CIK 0000910406) | FY2024
+FILE         : 0000910406_HAIN_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 6. PROPERTY, PLANT AND EQUIPMENT, NET
+ASSET CAT.   : equipment, Machinery and equipment, Computer hardware, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, net consisted of the following: Fiscal Year Ended June 30, 2024 2023 Land $ 11,381 $ 11,453 Buildings and improvements 57,030 55,354 Machinery and equipment 325,174 335,912 Computer hardware and software 54,139 54,192 Furniture and fixtures 20,943 20,722 Leasehold improvements 39,255 49,394 Construction in progress 12,783 10,816 520,705 537,843 Less: Accumulated depreciation 258,975 241,518 $ 261,730 $ 296,325
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

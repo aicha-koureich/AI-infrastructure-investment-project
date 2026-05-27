@@ -1,0 +1,20 @@
+FIRM         : PPC (CIK 0000802481) | FY2023
+FILE         : 0000802481_PPC_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, machinery and equipment
+DURÉE        : 5.0-33.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated useful lives for building, machinery and equipment are five to 33 years and for automobiles and trucks are three to ten years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : MRK (CIK 0000310158) | FY2023
+FILE         : 0000310158_MRK_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-06-30
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 2. Summary of Accounting Policies
+ASSET CAT.   : equipment, Capitalized software
+DURÉE        : 2.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are being amortized over periods ranging from 2 to 10 years, with the longer lives generally associated with enterprise-wide projects implemented over multiple years.
+
+[VERBATIM — Changement de politique]
+Accelerated depreciation costs primarily relate to manufacturing, research and administrative facilities and equipment to be sold or closed as part of the programs. Accelerated depreciation costs represent the difference between the depreciation expense to be recognized over the revised useful life of the asset, based upon the anticipated date the site will be closed or divested or the equipment disposed of, and depreciation expense as determined utilizing the useful life prior to the restructuring actions.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Software Capitalization — The Company capitalizes certain costs incurred in connection with obtaining or developing internal-use software including external direct costs of material and services, and payroll costs for employees directly involved with the software development. These costs are included in Property, plant and equipment . In addition, the Company capitalizes certain costs incurred to implement a cloud computing arrangement that is considered a service agreement, which are included in Other Assets . Capitalized software costs are being amortized over periods ranging from 2 to 10 years, with the longer lives generally associated with enterprise-wide projects implemented over multiple years. Costs incurred during the preliminary project stage and post-implementation stage, as well as maintenance and training costs, are expensed as incurred. ||| . In addition, the Company capitalizes certain costs incurred to implement a cloud computing arrangement that is considered a service agreement, which are included in

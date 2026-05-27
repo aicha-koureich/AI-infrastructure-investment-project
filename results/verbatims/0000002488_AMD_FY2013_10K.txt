@@ -1,0 +1,24 @@
+FIRM         : AMD (CIK 0000002488) | FY2013
+FILE         : 0000002488_AMD_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 28, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : 2.0-6.0 ans
+POLICY CHANGE: No
+HARDWARE     : AMD_Radeon;NVIDIA (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated
+useful lives for financial reporting purposes are as follows: equipment, two to six years; buildings and building improvements, up to 39 years; and leasehold improvements, measured by the shorter of the remaining terms of the leases or the estimated
+useful economic lives of the improvements.
+
+[VERBATIM — Infrastructure IA]
+On April 2,
+2011, the Company entered into a first amendment to the WSA. The primary effect of the first amendment was to change the pricing methodology applicable to wafers delivered in 2011 for the Company’s microprocessors and APU products. The first
+amendment also modified the existing commitments regarding the production of certain GPU and chipset products at GF.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

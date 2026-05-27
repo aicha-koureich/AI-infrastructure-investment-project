@@ -1,0 +1,20 @@
+FIRM         : GKOS (CIK 0001192448) | FY2015
+FILE         : 0001192448_GKOS_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Balance sheet details Short-term investments Short-term investments consisted of the following (in thousands): At December 31, 2015 Maturity Amorti
+ASSET CAT.   : equipment, Furniture and fixtures, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment, net Property and equipment consisted of the following (in thousands): December 31, 2015 2014 Equipment $ 4,597 $ 4,038 Furniture and fixtures 387 376 Leasehold improvements 1,011 985 Computer equipment and software 836 762 6,831 6,161 Less accumulated depreciation and amortization (4,677) (4,211) $ 2,154 $ 1,950 Depreciation and amortization expense related to property and equipment was $0.8 million, $0.7 million and $ 0 . 6 million for the years ended December 31, 2015, 2014 and 2013, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,24 @@
+FIRM         : APPS (CIK 0000317788) | FY2023
+FILE         : 0000317788_APPS_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Basis of Presentation and Summary of Significant Accounting Policies Basis of Presentation and Consolidation
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs, whether for software developed to be sold, leased, or otherwise marketed or for internal use, are generally amortized over a 3-year useful life.
+
+[VERBATIM — Changement de politique]
+During the fiscal years ended March 31, 2024, 2023, and 2022, the Company recorded amortization expense of $64,358, $64,608, and $48,420, respectively, in general and administrative expenses on the consolidated statements of operations and comprehensive (loss) income. As of March 31, 2022, the Company changed the useful lives of all its trade names intangible assets to approximately 3.33 years due to the rebranding of the Company’s past acquisitions.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| The Company incurred costs to implement cloud computing arrangements hosted by third-party vendors. ASC 350-40 requires hosting arrangements that are service contracts to follow the guidance of internal-use software to determine which implementation costs can be capitalized. Implementation costs incurred during the application development stage are capitalized until the software is ready for its intended use. The costs are then amortized on a straight-line basis over the term of the associated hosting arrangement and are recognized as an operating expense with the consolidated statement of operations. ||| As of March 31, 2024, the net carrying value of capitalized implementation costs related to hosting arrangements that were incurred during the application development stage was $6,965, of which $1,239 was included in other current assets and $5,727 was included in other non-current assets. As of March 31, 2023, the net carrying value of capitalized implementation costs related to cloud computing arrangements that were incurred during the application development stage was $736, and was included in other non-current assets.

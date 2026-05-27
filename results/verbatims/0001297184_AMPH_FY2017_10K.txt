@@ -1,0 +1,21 @@
+FIRM         : AMPH (CIK 0001297184) | FY2017
+FILE         : 0001297184_AMPH_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 18. Quarterly Financial Data (Unaudited)
+ASSET CAT.   : equipment
+DURÉE        : 2.0-12.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-12.0 ans | 3.0-7.0 ans | 4.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Buildings 20 - 31 years Machinery and equipment 2 - 12 years Furniture and fixtures 3 - 7 years Automobiles 4 - 5 years Leasehold improvements Lesser of remaining lease term or useful life
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

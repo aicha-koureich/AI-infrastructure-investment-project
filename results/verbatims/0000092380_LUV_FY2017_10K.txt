@@ -1,0 +1,23 @@
+FIRM         : LUV (CIK 0000092380) | FY2017
+FILE         : 0000092380_LUV_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Classic aircraft as part of this accelerated retirement schedule. This change in retirement dates was considered a change in estimate and was accounted for on a prospective basis as of the dates the decisions were finalized. Therefore, the Company recorded accelerated depreciation expense over the remainder of the useful lives for each Classic aircraft and related parts. See Note 7 for further information regarding the Company's aircraft fleet.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

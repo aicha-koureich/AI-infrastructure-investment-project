@@ -1,0 +1,21 @@
+FIRM         : CPF (CIK 0000701347) | FY2019
+FILE         : 0000701347_CPF_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 26 - Segment Information
+ASSET CAT.   : equipment. Major improvements and betterments are capitalized, while recurring maintenance and repairs are charged to operating expense
+DURÉE        : 1.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-7.0 ans | 30.0-9.0 ans
+
+[VERBATIM — Durée de vie]
+Premises and equipment are stated at cost, net of accumulated depreciation and amortization. Useful lives generally range from five to thirty-nine years for premises and improvements, and one to seven years for equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, "Intangibles—Goodwill and Other— Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract," which requires an entity in a cloud computing arrangement (i.e., hosting arrangement) that is a service contract to follow the internal-use software guidance in ASC 350-40 to determine which implementation costs to capitalize as assets or expense as incurred. Capitalized implementation costs should be presented in the same line item on the balance sheet as amounts prepaid for the hosted service, if any (generally as an “other asset”). The capitalized costs will be amortized over the term of the hosting arrangement, with the amortization expense being presented in the same income statement line item as the fees paid for the hosted service. ASU 2018-15 is effective for the Company's reporting period beginning January 1, 2020 and early adoption is permitted. The Company early adopted ASU 2018-15 during the second quarter of 2019. The adoption of the ASU did not have a material impact on our consolidated financial statements. ||| "Intangibles—Goodwill and Other— Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract," ||| which requires an entity in a cloud computing arrangement (i.e., hosting arrangement) that is a service contract to follow the internal-use software guidance in ASC 350-40 to determine which implementation costs to capitalize as assets or expense as incurred. Capitalized implementation costs should be presented in the same line item on the balance sheet as amounts prepaid for the hosted service, if any (generally as an “other asset”). The capitalized costs will be amortized over the term of the hosting arrangement, with the amortization expense being presented in the same income statement line item as the fees paid for the hosted service. ASU 2018-15 is effective for the Company's reporting period beginning January 1, 2020 and early adoption is permitted. The Company early adopted ASU 2018-15 during the second quarter of 2019. The adoption of the ASU did not have a material impact on our consolidated financial statements.

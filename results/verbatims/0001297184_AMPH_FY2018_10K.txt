@@ -1,0 +1,21 @@
+FIRM         : AMPH (CIK 0001297184) | FY2018
+FILE         : 0001297184_AMPH_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 11. Property, Plant, and Equipment Property, plant, and equipment consist of the following: December 31, 2018 2017 (in thousands) Buildings $ 96,
+ASSET CAT.   : Equipment, Machinery and equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-12.0 ans | 4.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Property, Plant, and Equipment Property, plant, and equipment consist of the following: December 31, 2018 2017 (in thousands) Buildings $ 96,287 $ 89,124 Leasehold improvements 26,755 29,847 Land 7,628 7,110 Machinery and equipment 143,299 118,056 Furniture, fixtures, and automobiles 19,151 16,385 Construction in progress 66,390 58,145 Total property, plant, and equipment 359,510 318,667 Less accumulated depreciation (149,092) (138,122) Total property, plant, and equipment, net $ 210,418 $ 180,545 The Company incurred depreciation expense of $14.5 million, $13.0 million, and $12.2 million for the years ended December 31, 2018, 2017, and 2016, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : CDW (CIK 0001402057) | FY2023
+FILE         : 0001402057_CDW_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. Property and Equipment
+ASSET CAT.   : equipment, Machinery and equipment, Computer software, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, Useful Lives (Years) 2023 2022 Computer and data processing equipment 3 - 5 $ 204.7 $ 192.1 Building and leasehold improvements 5 - 25 125.3 149.5 Machinery and equipment 5 - 10 46.8 46.2 Computer software 3 - 5 35.7 34.6 Furniture and fixtures 5 - 10 23.5 30.5 Land -* 28.1 27.7 Revenue generating assets 1 - 5 1.4 1.2 Construction in progress -* 38.7 16.9 Property and equipment, gross 504.2 498.7 Less: Accumulated depreciation (308.7) (309.9) Property and equipment, net $ 195.5 $ 188.8
+
+[VERBATIM — Infrastructure IA]
+The Company has operating leases primarily for real estate, data centers and equipment. Remaining lease terms are up to 12 years.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| The Company enters into certain cloud-based software hosting arrangements for internal use that are accounted for as service contracts. Costs incurred in implementing a cloud computing arrangement are deferred during the application development stage and presented within Prepaid expenses and other on the Consolidated Balance Sheets. Once a cloud computing arrangement is ready for its intended use, the implementation costs are amortized on a straight-line basis over the fixed term of the hosting arrangement plus any reasonably certain renewal periods. ||| Revenues from the sale of software include perpetual licenses, term licenses, software assurance and cloud computing solutions. Depending on the nature of the software, the Company may be acting as a principal or an agent.

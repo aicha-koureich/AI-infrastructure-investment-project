@@ -1,0 +1,23 @@
+FIRM         : CSX (CIK 0000277948) | FY2017
+FILE         : 0000277948_CSX_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 6. Properties,
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+In 2016, the Company completed a depreciation study for its equipment assets. The Company plans to complete the next depreciation study for equipment assets in 2019 and road and track assets in 2020.
+
+[VERBATIM — Changement de politique]
+years. The other half were to vest based on achievement of performance targets related to both operating ratio and earnings before interest, taxes, depreciation and amortization adjusted for certain items. Upon his death on December 16, 2017, all of Mr. Harrison's
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

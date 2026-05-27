@@ -1,0 +1,23 @@
+FIRM         : NKTR (CIK 0000906709) | FY2021
+FILE         : 0000906709_NKTR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 4 — Property, Plant and Equipment
+ASSET CAT.   : equipment, Computer equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment consists of the following (in thousands): December 31, 2021 2020 Building and leasehold improvements $ 97,385 $ 92,977 Laboratory equipment 42,704 40,121 Computer equipment and software 28,829 28,684 Manufacturing equipment 22,374 21,796 Furniture, fixtures, and other 10,094 9,872 Depreciable property, plant and equipment at cost 201,386 193,450 Less: accumulated depreciation (148,039) (138,488) Depreciable property, plant and equipment, net 53,347 54,962 Construction-in-progress 7,163 4,700 Property, plant and equipment, net $ 60,510 $ 59,662
+
+[VERBATIM — Changement de politique]
+On December 30, 2020, we received aggregate cash proceeds of $150.0 million for the 2020 Transaction Royalties. As part of the sale, we incurred approximately $3.8 million in transaction costs, which will be amortized to interest expense over the estimated life of the 2020 Purchase and Sale Agreement. Although we sold all of our rights to receive royalties from these products, as a result of the limits on the 2020 Transaction Royalties to be received by HCR and our ongoing manufacturing and supply obligations related to the generation of these royalties, we will continue to account for these non-cash royalties as revenue, commencing with royalties for the three months ended December 31, 2020, to be received by HCR in the first quarter of 2021. We recorded the $150.0 million in proceeds from this transaction as a liability (the 2020 Royalty Obligation) that will be amortized using the effective interest method over the estimated life of the 2020 Purchase and Sale Agreement. As of December 31, 2021, our prospective effective interest rate used to amortize the liability is 15%.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

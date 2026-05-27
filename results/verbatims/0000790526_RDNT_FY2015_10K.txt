@@ -1,0 +1,26 @@
+FIRM         : RDNT (CIK 0000790526) | FY2015
+FILE         : 0000790526_RDNT_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31,
+2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Computer Software
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 3.0-15.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+In accordance with ASC 350-40, Accounting
+for the Costs of Computer Software Developed for Internal Use, the costs incurred by RMIS toward the development of our RIS
+system, which began in August, 2010 and continued until December 2014, were capitalized and are being amortized over its useful
+life which we determined to be 5 years. We began recording amortization
+of $107,000 per month for our use of this software in January 2015.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

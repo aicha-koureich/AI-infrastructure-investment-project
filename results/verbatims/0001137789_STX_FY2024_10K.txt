@@ -1,0 +1,24 @@
+FIRM         : STX (CIK 0001137789) | FY2024
+FILE         : 0001137789_STX_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-07-23
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Property, equipment and leasehold improvements are stated at cost less accumulated depreciation and amortization. Equipment and buildings are depreciated using the straight-line method over the estimated useful lives of the assets.
+
+[VERBATIM — Changement de politique]
+Effective from the first quarter of fiscal year 2024, the Company changed the useful lives of certain manufacturing equipment from a range of three to seven years to a range of three to ten years based on a review of the technology product roadmap.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

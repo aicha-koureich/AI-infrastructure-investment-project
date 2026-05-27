@@ -1,0 +1,24 @@
+FIRM         : TISI (CIK 0000318833) | FY2020
+FILE         : 0000318833_TISI_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES AND PRACTICES
+ASSET CAT.   : equipment
+DURÉE        : 2.0-12.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : A100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 2.0-10.0 ans | 2.0-12.0 ans | 2.0-15.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Classification Useful Life Buildings 20-40 years Enterprise Resource Planning (“ERP”) System 15 years Leasehold improvements 2-15 years Machinery and equipment 2-12 years Furniture and fixtures 2-10 years Computers and computer software 2-5 years Automobiles 2-5 years
+
+[VERBATIM — Changement de politique]
+The decline in amortization expense in 2019 is primarily due to a change in the estimated useful life of an intangible asset associated with the Furmanite trade name in 2018. Management determined that, as a result of initiatives to consolidate our branding, the useful life of this intangible asset was not expected to extend beyond December 31, 2018. In accordance with ASC 350, we accounted for the change in useful life prospectively effective January 1, 2018 and amortized the remaining balance over 2018, which resulted in incremental amortization expense in 2018 of $12 million which did not recur in 2019.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU No. 2018-15. In August 2018, the FASB issued ASU No. 2018-15, Intangibles – Goodwill and Other – Internal-Use Software (Topic 350): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (“ASU 2018-15”), that requires implementation costs incurred in cloud computing arrangements to be deferred and recognized over the term of the arrangement, if those costs would be capitalized in a software licensing arrangement under the internal-use software guidance in Topic 350. ASU 2018-15 requires an entity to disclose the nature of its hosting arrangements that are service contracts and provide disclosures as if the deferred implementation costs were a separate, major depreciable asset class. Our adoption of ASU No. 2018-15 as of January 1, 2020 resulted in a reduction of $4.9 million from property, plant, and equipment with $0.9 million reclassified to prepaid expenses and other current assets and $4.0 million reclassified to other assets, net on our consolidated balance sheet. ||| Intangibles – Goodwill and Other – Internal-Use Software (Topic 350): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| (“ASU 2018-15”), that requires implementation costs incurred in cloud computing arrangements to be deferred and recognized over the term of the arrangement, if those costs would be capitalized in a software licensing arrangement under the internal-use software guidance in Topic 350. ASU 2018-15 requires an entity to disclose the nature of its hosting arrangements that are service contracts and provide disclosures as if the deferred implementation costs were a separate, major depreciable asset class. Our adoption of ASU No. 2018-15 as of January 1, 2020 resulted in a reduction of $4.9 million from property, plant, and equipment with $0.9 million reclassified to prepaid expenses and other current assets and $4.0 million reclassified to other assets, net on our consolidated balance sheet.

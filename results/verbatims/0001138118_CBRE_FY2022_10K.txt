@@ -1,0 +1,21 @@
+FIRM         : CBRE (CIK 0001138118) | FY2022
+FILE         : 0001138118_CBRE_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 8. Property and Equipment
+ASSET CAT.   : Computer hardware and software
+DURÉE        : 2.0-10.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+December 31, Useful Lives 2022 2021 Computer hardware and software 2-10 years $ 1,158,284 $ 1,101,248 Leasehold improvements 1-15 years 611,082 622,771 Furniture and equipment 1-10 years 267,604 260,551 Construction in progress N/A 185,332 120,031 Total cost 2,222,302 2,104,601 Accumulated depreciation and amortization 1,386,261 1,288,509 Property and equipment, net $ 836,041 $ 816,092
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

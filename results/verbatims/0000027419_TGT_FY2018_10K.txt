@@ -1,0 +1,20 @@
+FIRM         : TGT (CIK 0000027419) | FY2018
+FILE         : 0000027419_TGT_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 2, 2019
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment, Computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(millions, except footnotes) February 2, 2019 February 3, 2018 As Adjusted (a) Assets Cash and cash equivalents $ 1,556 $ 2,643 Inventory 9,497 8,597 Other current assets 1,466 1,300 Total current assets 12,519 12,540 Property and equipment Land 6,064 6,095 Buildings and improvements 29,240 28,131 Fixtures and equipment 5,912 5,623 Computer hardware and software 2,544 2,645 Construction-in-progress 460 440 Accumulated depreciation (18,687 ) (18,398 ) Property and equipment, net 25,533 24,536 Operating lease assets 1,965 1,884 Other noncurrent assets 1,273 1,343 Total assets $ 41,290 $ 40,303 Liabilities and shareholders' investment Accounts payable $ 9,761 $ 8,677 Accrued and other current liabilities 4,201 4,094 Current portion of long-term debt and other borrowings 1,052 281 Total current liabilities 15,014 13,052 Long-term debt and other borrowings 10,223 11,117 Noncurrent operating lease liabilities 2,004 1,924 Deferred income taxes 972 693 Other noncurrent liabilities 1,780 1,866 Total noncurrent liabilities 14,979 15,600 Shareholders' investment Common stock 43 45 Additional paid-in capital 6,042 5,858 Retained earnings 6,017 6,495 Accumulated other comprehensive loss (805 ) (747 ) Total shareholders' investment 11,297 11,651 Total liabilities and shareholders' investment $ 41,290 $ 40,303 Common Stock Authorized 6,000,000,000 shares , $0.0833 par value ; 517,761,600 shares issued and outstanding at February 2, 2019 ; 541,681,670 shares issued and outstanding at February 3, 2018 .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

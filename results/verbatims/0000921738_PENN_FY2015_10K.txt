@@ -1,0 +1,38 @@
+FIRM         : PENN (CIK 0000921738) | FY2015
+FILE         : 0000921738_PENN_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Business and Basis of Presentation
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+from
+derecognizing the real estate assets and is instead required to recognize a financing obligation for the minimum lease payments due under the Master Lease. The restated consolidated balance
+sheets therefore include an adjustment to property and equipment, net for the carrying value of the real property assets leased from GLPI of $2.04 billion at December 31, 2014, and
+additional liabilities of $3.61 billion at December 31, 2014, representing the present value of the future minimum lease payments due to GLPI under the Master Lease. Consequently, the
+restated consolidated statements of operations no longer report rent expense for the obligations under the Master Lease, but rather include interest expense associated with the financing obligation
+and depreciation expense related to the real estate assets, along with the periodic reduction of the financing obligation reflected in the consolidated balance sheets. The lease payment amounts
+previously recorded as rent expense were $421.4 million and $69.5 million for the years ended December 31, 2014 and 2013, respectively. The increases to interest expense and
+depreciation expense as a result of the restatement were $379.2 million and $89.8 million, respectively, for the year ended December 31, 2014, and $62.1 million and
+$14.8 million, respectively, for the year ended December 31, 2013.
+
+[VERBATIM — Changement de politique]
+Management uses adjusted EBITDA as the primary measure of the operating performance of its segments, including the evaluation of operating personnel and is
+especially relevant in evaluating large, long lived casino projects because they provide a perspective on the current effects of operating decisions separated from the substantial non-operational
+depreciation charges and financing costs of such projects. The Company defines adjusted EBITDA as earnings before interest, taxes, stock compensation, debt extinguishment charges, impairment charges,
+insurance recoveries and deductible charges, depreciation and amortization, changes in the estimated fair value of contingent purchase price to the previous owners of Plainridge Racecourse, gain or
+loss on disposal of assets, and other income or expenses. Adjusted EBITDA is also inclusive of results from discontinued operations, income or loss from unconsolidated affiliates, with our share of
+non-operating items (such as depreciation and amortization) added back for our joint venture in Kansas Entertainment. Adjusted EBITDA should not be construed as alternatives to operating income, as
+indicators of the Company's operating performance, as alternatives to cash flows from operating activities, as measures of liquidity, or as any other measures of performance determined in accordance
+with GAAP. The Company has significant uses of cash flows, including capital expenditures, interest payments, taxes and debt principal repayments, which are not reflected in adjusted EBITDA.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : CVLT (CIK 0001169561) | FY2024
+FILE         : 0001169561_CVLT_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-06-30
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : software is generally depreciated over
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, less accumulated depreciation and amortization. Computers, servers, and related equipment are generally depreciated over eighteen months to three years and furniture and fixtures are generally depreciated over three to twelve years. Purchased software is generally depreciated over three years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

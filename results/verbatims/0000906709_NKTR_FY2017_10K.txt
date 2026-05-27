@@ -1,0 +1,20 @@
+FIRM         : NKTR (CIK 0000906709) | FY2017
+FILE         : 0000906709_NKTR_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Manufacturing, laboratory and other equipment are depreciated using the straight-line method generally over estimated useful lives of three to ten years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

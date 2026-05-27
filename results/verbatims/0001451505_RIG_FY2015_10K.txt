@@ -1,0 +1,23 @@
+FIRM         : RIG (CIK 0001451505) | FY2015
+FILE         : 0001451505_RIG_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 7—Discontinued Operations.
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment —The carrying amounts of our property and equipment, consisting primarily of offshore drilling rigs and related equipment, are based on our estimates, assumptions and judgments relative to capitalized costs, useful lives and salvage values of our rigs.
+
+[VERBATIM — Changement de politique]
+As of December 31, 2014, we adjusted the salvage values of certain drilling units due to existing market conditions. In the year ended December 31, 2015, the changes in estimated salvage values resulted in an increase in depreciation expense of approximately $51 million ($48 million, or $0.13 per diluted share, net of tax). During the year ended December 31, 2013, we adjusted the useful lives for five rigs, extending the estimated useful lives from between 29 and 40 years to between 35 and 44 years. We deemed the life extensions appropriate for each of these rigs based on the respective contracts under which the rigs were operating and the additional life ‑extending work, upgrades and inspections we performed on the rigs. In year ended December 31, 2013, the changes in estimated useful lives of these rigs resulted in a reduction in annual depreciation expense of $3 million ($0.01 per diluted share), which had no tax effect.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

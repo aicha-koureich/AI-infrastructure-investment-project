@@ -1,0 +1,31 @@
+FIRM         : MSFT (CIK 0000789019) | FY2015
+FILE         : 0000789019_MSFT_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2015
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: NOTE 1 — ACCOUNTING POLICIES
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-10.0 ans | 2.0-3.0 ans | 3.0-7.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Cost of revenue includes: manufacturing and distribution costs for products sold and programs licensed; operating costs related to product support service centers and product distribution centers; costs incurred to
+include software on PCs sold by OEMs, to drive traffic to our websites, and to acquire online advertising space; costs incurred to support and maintain Internet-based products and services, including datacenter costs and royalties; warranty costs;
+inventory valuation adjustments; costs associated with the delivery of consulting services; and the amortization of capitalized software development costs. Capitalized software development costs are amortized over the estimated lives of the
+products.
+
+[VERBATIM — Infrastructure IA]
+We will continue to invest in sales, marketing, product support infrastructure, and existing and advanced areas of technology, as well as continue making acquisitions that align with our business strategy.
+Additions to property and equipment will continue, including new facilities, data centers, and computer systems for research and development, sales and marketing, support, and administrative staff. We expect capital expenditures to increase in
+coming years in support of our productivity and platform strategy. We have operating leases for most U.S. and international sales and support offices and certain equipment. We have not engaged in any related party transactions or arrangements with
+unconsolidated entities or other persons that are reasonably likely to materially affect liquidity or the availability of capital resources.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Much of our focus in fiscal year 2015 was toward transforming our organization to support our strategy of building best-in-class platforms and
+productivity services for a mobile-first, cloud-first world. We achieved product development milestones, implemented organizational changes, and made strategic and tactical moves to support the three central ambitions that support our strategy:
+reinventing productivity and business processes; building the intelligent cloud platform; and creating more personal computing. ||| Server products and services revenue increased 9%, driven by growth across our cloud and on-premises server products. Azure revenue and compute usage
+increased by triple digits in the fourth quarter year over year, and we ended fiscal year 2015 with more than 17,000 Enterprise Mobility Services customers. ||| We completed 16 acquisitions, including Mojang Synergies AB (“Mojang”), the Swedish video game developer of the Minecraft gaming franchise, and
+others, to strengthen our cloud platform and invest in mobile applications.

@@ -1,0 +1,25 @@
+FIRM         : RILY (CIK 0001464790) | FY2016
+FILE         : 0001464790_RILY_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Gross margin in the principal investments - United
+Online segment of $22.2 million or 70.9% of revenues was the result of the acquisition of UOL on July 1, 2016. Direct costs in the principal investments - United
+Online segment of $9.1 million includes telecommunications and data center costs, personnel and overhead-related costs associated with
+operating our networks and data centers, depreciation of network computers and equipment, third party advertising sales commissions,
+license fees, costs related to providing customer support, costs related to customer billings and processing of customer credit
+cards and associated bank fees.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

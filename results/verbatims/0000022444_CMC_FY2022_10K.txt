@@ -1,0 +1,23 @@
+FIRM         : CMC (CIK 0000022444) | FY2022
+FILE         : 0000022444_CMC_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-09-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are recorded at cost. Maintenance is expensed as incurred. Leasehold improvements are amortized over the shorter of their estimated useful lives or the lease term. Depreciation and amortization are recorded on a straight-line basis over the following estimated useful lives:
+
+[VERBATIM — Changement de politique]
+Supplemental information on an unaudited pro forma basis is presented below as if the acquisition of Tensar occurred on September 1, 2020. The pro forma financial information is presented for comparative purposes only, based on certain factually supported estimates and assumptions, which the Company believes to be reasonable, but not necessarily indicative of future results of operations or the results that would have been reported if the acquisition had been completed on September 1, 2020. These results were not used as part of management's analysis of the financial results and performance of the Company. The pro forma adjustments do not reflect anticipated synergies, but rather include the nonrecurring impact of additional cost of sales from revalued inventory and the recurring income statement effects of fair value adjustments, such as depreciation and amortization. Further adjustments were made to remove the impact of Tensar's prior management fees, acquisition and integration expenses and interest on debt not assumed in the acquisition. The resulting tax effects of the business combination are also reflected below.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

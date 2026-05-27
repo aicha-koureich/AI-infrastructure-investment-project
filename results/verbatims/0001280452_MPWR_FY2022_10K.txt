@@ -1,0 +1,21 @@
+FIRM         : MPWR (CIK 0001280452) | FY2022
+FILE         : 0001280452_MPWR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : 3.0-8.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-8.0 ans
+
+[VERBATIM — Durée de vie]
+Production equipment and software have estimated useful lives of three to eight years. Transportation equipment has estimated useful lives of 5 to 20 years.
+
+[VERBATIM — Infrastructure IA]
+For the year ended December 31, 2022, revenue from the storage and computing market increased $196.7 million, or 76.8%, from the same period in 2021. This increase was primarily driven by strong sales growth for storage applications and enterprise notebooks. Revenue from the enterprise data market increased $135.1 million, or 116.1%, from the same period in 2021. This increase was primarily due to higher sales of our power management solutions for cloud-based CPU and GPU server applications. Revenue from the automotive market increased $95.7 million, or 46.8%, from the same period in 2021. This increase was primarily due to increased sales of our highly integrated applications supporting automated driver assistance systems, digital cockpits and connectivity. Revenue from the industrial market increased $34.4 million, or 18.6%, from the same period in 2021. This increase was primarily due to higher sales in applications for smart meters and industrial automation. Revenue from the communications market increased $87.4 million, or 53.2%, from the same period in 2021. The increase was primarily due to higher sales of products for both 5G and satellite communications infrastructure applications. Revenue from the consumer market increased $37.2 million, or 13.2%, from the same period in 2021. This increase was primarily driven by increased sales for home appliances, gaming consoles and smart TVs.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

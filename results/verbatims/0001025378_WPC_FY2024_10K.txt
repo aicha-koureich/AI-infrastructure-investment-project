@@ -1,0 +1,23 @@
+FIRM         : WPC (CIK 0001025378) | FY2024
+FILE         : 0001025378_WPC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 6
+ASSET CAT.   : technology
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized internal-use software development costs are amortized on a straight-line basis over the software’s estimated useful life, which is three to seven years .
+
+[VERBATIM — Changement de politique]
+Capitalized internal-use software development costs are amortized on a straight-line basis over the software’s estimated useful life, which is three to seven years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Internal-Use Software Development Costs and Cloud Computing Arrangements — We expense costs associated with the assessment stage of software development projects. Upon completion of the preliminary project assessment stage, we capitalize internal and external costs associated with the application development stage. We expense the personnel-related costs of training and data conversion. We also expense costs associated with the post-implementation and operation stage, including maintenance and specified upgrades; however, we capitalize internal and external costs associated with significant upgrades to existing systems that result in additional functionality. Cloud computing arrangement costs follow the internal-use software accounting guidance to determine which implementation costs to capitalize as assets or expense as incurred. Capitalized internal-use software development costs are amortized on a straight-line basis over the software’s estimated useful life, which is three to seven years . Capitalized implementation costs related to a service contract will be amortized over the term of the hosting arrangement beginning when the component of the hosting arrangement is ready for its intended use. Periodically, we reassess the useful life considering technology, obsolescence, and other factors. ||| Internal-Use Software Development Costs and Cloud Computing Arrangements ||| We expense costs associated with the assessment stage of software development projects. Upon completion of the preliminary project assessment stage, we capitalize internal and external costs associated with the application development stage. We expense the personnel-related costs of training and data conversion. We also expense costs associated with the post-implementation and operation stage, including maintenance and specified upgrades; however, we capitalize internal and external costs associated with significant upgrades to existing systems that result in additional functionality. Cloud computing arrangement costs follow the internal-use software accounting guidance to determine which implementation costs to capitalize as assets or expense as incurred. Capitalized internal-use software development costs are amortized on a straight-line basis over the software’s estimated useful life, which is

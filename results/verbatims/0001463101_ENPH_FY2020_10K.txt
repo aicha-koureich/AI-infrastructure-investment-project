@@ -1,0 +1,20 @@
+FIRM         : ENPH (CIK 0001463101) | FY2020
+FILE         : 0001463101_ENPH_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-12
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. PROPERTY AND EQUIPMENT, NET
+ASSET CAT.   : Equipment, machinery, Furniture and fixtures, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful Life December 31, 2020 2019 (Years) (In thousands) Equipment and machinery 3-10 $ 63,411 $ 48,114 Furniture and fixtures 5-10 2,532 2,404 Computer equipment 3-5 2,972 1,698 Capitalized software costs 3-5 17,004 11,656 Leasehold improvements 3-10 9,021 8,713 Construction in process 9,747 8,446 Total 104,687 81,031 Less accumulated depreciation and amortization (61,702) (52,095) Property and equipment, net $ 42,985 $ 28,936
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The Company capitalizes implementation costs related to cloud computing (i.e. hosting) arrangements that are accounted for as a service contract that meets the accounting requirement for capitalization as such implementation costs were incurred to develop or utilize internal-use software hosted by a third party vendor. The capitalized implementation costs are recorded as part of “Other assets” on the consolidated balance sheet and is amortized over the length of the service contract. ||| Property, plant and equipment, including internal-use software, and capitalized implementation costs related to cloud computing arrangements, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset (asset group) may not be recoverable. An impairment loss would be recognized when the carrying amount of an asset exceeds the estimated undiscounted future cash flows expected to result from the use of the asset and its eventual disposition. The amount of the impairment loss to be recorded is calculated by the excess of the asset’s carrying value over its fair value. Fair value is generally determined using a discounted cash flow analysis. The Company recorded asset impairment charges for specific assets that were no longer in use of approximately zero, $1.1 million and $1.6 million for the years ended 2020, 2019 and 2018, respectively. There were no events or changes in circumstances that may indicate the carrying amount of remaining assets is not recoverable. ||| In August 2018, the FASB issued ASU 2018-15, “Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract,” to reduce diversity in practice in accounting for the costs of implementing cloud computing arrangements that are service contracts. ASU 2018-15 allows entities to apply the guidance in the ASC 350-40, “Intangibles–Goodwill and Other–Internal-Use Software,” to determine which implementation costs are eligible to be capitalized as assets in a cloud computing arrangement that is considered a service contract. ASU 2018-15 is effective for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years. Early adoption is permitted, including adoption in any interim period. Entities have the option to apply the guidance prospectively to all implementation costs incurred after the date of adoption or retrospectively and are required to make certain disclosures in the interim and annual period of adoption. The Company adopted the new standard effective January 1, 2020 on a prospective basis and the adoption of this guidance did not have a material impact on its consolidated financial statements.

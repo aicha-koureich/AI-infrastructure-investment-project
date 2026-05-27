@@ -1,0 +1,23 @@
+FIRM         : HLX (CIK 0000866829) | FY2022
+FILE         : 0000866829_HLX_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 11 — Revenue from Contracts with Customers
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Contract fulfillment costs consist of costs incurred in fulfilling a contract with a customer. Our contract fulfillment costs primarily relate to costs incurred for mobilization of personnel and equipment at the beginning of a contract and costs incurred for demobilization at the end of a contract. Mobilization costs are deferred and amortized ratably over the contract term (including anticipated contract extensions) based on the pattern of the provision of services to which the contract fulfillment costs relate. Demobilization costs are recognized when incurred at the end of the contract. Deferred contract costs are reflected as “Deferred costs,” a component of “Other current assets” and “Other assets, net” in the accompanying consolidated balance sheets (Note 4). Our deferred contract costs as of December 31, 2022 and 2021 totaled $20.4 million and $3.3 million, respectively. For the years ended December 31, 2022, 2021 and 2020, we recorded $29.7 million, $39.1 million and $35.8 million, respectively, related to amortization of deferred contract costs. There were no associated impairment losses for any period presented.
+
+[VERBATIM — Changement de politique]
+Our Well Intervention segment provides services enabling our customers to safely access offshore wells for the purpose of performing production enhancement or decommissioning operations, thereby avoiding drilling new wells by extending the useful lives of existing wells and preserving the environment by preventing uncontrolled releases of oil and gas. Our well intervention vessels include the Q4000 , the Q5000 , the Q7000 , the Seawell , the Well Enhancer , and two chartered monohull vessels, the Siem Helix 1 and the Siem Helix 2 . Our well intervention equipment includes intervention systems such as intervention riser systems (“IRSs”), subsea intervention lubricators (“SILs”) and the Riserless Open-water Abandonment Module, some of which we provide on a stand-alone basis.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

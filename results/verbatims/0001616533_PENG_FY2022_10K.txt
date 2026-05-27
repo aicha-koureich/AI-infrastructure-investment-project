@@ -1,0 +1,20 @@
+FIRM         : PENG (CIK 0001616533) | FY2022
+FILE         : 0001616533_PENG_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-08-29
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment
+DURÉE        : 2.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment is stated at cost and depreciated using the straight-line method over estimated useful lives of generally two to five years for equipment, five to forty years for buildings and building improvements and two to five years for furniture, fixtures and software.
+
+[VERBATIM — Infrastructure IA]
+related to high performance computing (“HPC”) and storage systems. A portion of our product sales include extended warranty and on-site services, subscriptions to our HPC environment, professional services, software and related support.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Net sales increased by $318.2 million, or 21.2%, in 2022 compared to the prior year, due to an increase of $178.6 million of revenue from our recent acquisition of the LED Business in March 2021 and to strong performance in our IPS and Memory Solutions businesses. IPS net sales increased by $96.2 million, or 27.9%, primarily due to higher volumes of sales in our Penguin Computing business. Memory Solutions sales increased by $43.4 million, or 4.7%, primarily due to a 12.2% higher volume of Specialty DRAM products, partially offset by a 34.5% lower volume of mobile memory. ||| Net sales increased by $378.8 million, or 33.7%, in 2021 compared to the prior year, due to $224.6 million of revenue from our recent acquisition of the LED Business in March 2021 and to strong performance in our IPS and Memory Solutions businesses. IPS net sales increased by $79.6 million, or 30.0%, primarily due to higher volumes of sales in our Penguin Computing business. Memory Solutions sales increased by $74.6 million, or 8.7%, primarily due to a 24.7% higher volume of DRAM products and a 39.1% increase in average selling prices for mobile memory.

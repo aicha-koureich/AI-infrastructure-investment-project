@@ -1,0 +1,21 @@
+FIRM         : INVA (CIK 0001080014) | FY2021
+FILE         : 0001080014_INVA_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES Description of Operations Innoviva Inc. (referred to as “Innoviva”, the “C
+ASSET CAT.   : Equipment, furniture and fixtures
+DURÉE        : 5.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Property, equipment and leasehold improvements are stated at cost less accumulated depreciation. Property, equipment and leasehold improvements are depreciated using the straight-line method as follows: Leasehold improvements Shorter of remaining lease terms or useful life Equipment, furniture and fixtures 5 - 7 years Software and computer equipment 3 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

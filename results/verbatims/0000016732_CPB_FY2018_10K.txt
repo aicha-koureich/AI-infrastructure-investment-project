@@ -1,0 +1,23 @@
+FIRM         : CPB (CIK 0000016732) | FY2018
+FILE         : 0000016732_CPB_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+In April 2015, the FASB issued guidance to clarify the accounting for fees paid by a customer in a cloud computing arrangement. The guidance is effective for fiscal years beginning after December 15, 2015, and interim periods within those years. Early adoption is permitted. The new guidance should be applied either prospectively to all arrangements entered into or materially modified after the effective date or retrospectively. In 2017, we prospectively adopted the guidance. The adoption did not have a material impact on our consolidated financial statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued guidance to clarify the accounting for fees paid by a customer in a cloud computing arrangement. The guidance is effective for fiscal years beginning after December 15, 2015, and interim periods within those years. Early adoption is permitted. The new guidance should be applied either prospectively to all arrangements entered into or materially modified after the effective date or retrospectively. In 2017, we prospectively adopted the guidance. The adoption did not have a material impact on our consolidated financial statements.

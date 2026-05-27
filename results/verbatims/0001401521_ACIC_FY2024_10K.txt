@@ -1,0 +1,20 @@
+FIRM         : ACIC (CIK 0001401521) | FY2024
+FILE         : 0001401521_ACIC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 14 in our Notes to Consolidated Financial Statements for a discussion regarding the allowance for expec
+ASSET CAT.   : capitalized software
+DURÉE        : 7.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We amortize the capitalized software costs related to our data warehouse, claims systems and policy administration systems over their expected seven -year useful lives.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

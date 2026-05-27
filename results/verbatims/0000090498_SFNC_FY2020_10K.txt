@@ -1,0 +1,20 @@
+FIRM         : SFNC (CIK 0000090498) | FY2020
+FILE         : 0000090498_SFNC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 7:
+ASSET CAT.   : equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In thousands) 2020 2019 Right-of-use lease assets $ 31,348 $ 40,675 Premises and equipment: Land 90,953 99,931 Buildings and improvements 293,338 309,290 Furniture, fixtures and equipment 100,863 99,343 Software 64,877 56,012 Construction in progress 763 6,998 Accumulated depreciation and amortization (140,450) (119,865) Total premises and equipment, net $ 441,692 $ 492,384
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements – In August 2018, the FASB issued ASU No. 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract (“ASU 2018-15”), that amends the definition of a hosting arrangement and requires a customer in a hosting arrangement that is a service contract to capitalize certain implementation costs as if the arrangement was an internal-use software project. The internal-use software guidance states that only qualifying costs incurred during the application development stage can be capitalized. The effective date is for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years, with early adoption permitted. Entities have the option to apply the guidance prospectively to all implementation costs incurred after the date of adoption or retrospectively in accordance with the applicable guidance. At the time of adoption, entities will be required to disclose the nature of its hosting arrangements that are service contracts and provide disclosures as if the deferred implementation costs were a separate, major depreciable asset class. The Company early adopted ASU 2018-15 in the first quarter 2019 and elected to apply the guidance prospectively to all software implementation costs incurred after the date of adoption. The applicable software implementation costs that have been capitalized subsequent to the adoption of ASU No. 2018-15 have not had a material impact on our financial position or results of operations. ||| Cloud Computing Arrangements ||| Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract

@@ -1,0 +1,20 @@
+FIRM         : SSD (CIK 0000920371) | FY2017
+FILE         : 0000920371_SSD_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 7. Accrued Liabilities
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense, including depreciation of equipment and software acquired through capital lease arrangements, was $27.3 million , $21.6 million and $20.4 million for the years ended December 31, 2017 , 2016 and 2015 , respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : HPE (CIK 0001645590) | FY2024
+FILE         : 0001645590_HPE_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-05
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 19: Equity Interests
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+The Company states property, plant and equipment at cost less accumulated depreciation. Estimated useful lives are five to 40 years for buildings and improvements and three to 15 years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+Effective as of the beginning of fiscal 2024, in order to align the segment financial reporting more closely with its business structure, the Company established two new reportable segments, Hybrid Cloud and Server. Hybrid Cloud includes the historical Storage segment, HPE GreenLake Flex Solutions (which provides flexible as-a-service (“aaS”) IT infrastructure through the HPE GreenLake cloud and was previously reported under the Compute and the High Performance Computing & Artificial Intelligence (“HPC & AI”) segments), Private Cloud, and Software (previously reported under the Corporate Investments and Other segment). The Server segment combines the previously separately reported Compute and HPC & AI segments, with adjustments for certain product lines that are now reported in Hybrid Cloud. Additionally, certain products and services previously reported in the financial results for the HPC & AI segment were moved to be reported in the Hybrid Cloud segment, and the Athonet business and certain components of the Communications and Media Solutions (“CMS”) business, both previously reported in the financial results for Corporate Investments and Other, moved to be reported in the Intelligent Edge segment.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Our pivot to aaS continues its strong momentum with the addition of HPE GreenLake cloud services. Our mix of ARR is becoming more software-rich as we build our HPE GreenLake cloud, which is improving our margin profile. We will continue to invest aggressively in HPE GreenLake cloud services to provide a true cloud experience and operating model, whether at the edge, on-premises or across multiple clouds. ||| ARR represents the annualized revenue of all net HPE GreenLake cloud services revenue, related financial services revenue (which includes rental income from operating leases and interest income from finance leases), and software-as-a-service (“SaaS”), software consumption revenue, and other aaS offerings, recognized during a quarter and multiplied by four. We believe that ARR is a metric that allows management to better understand and highlight the potential future performance of our aaS business. We also believe ARR provides investors with greater transparency to our financial information and of the performance metric used in our financial and operational decision making and allows investors to see our results “through the eyes of management.” We use ARR as a performance metric. ARR should be viewed independently of net revenue and is not intended to be combined with it. ||| The HPC & AI reporting unit has goodwill of $2.0 billion as of October 31, 2024, and excess of fair value over carrying value of 11% as of the annual test date. The HPC & AI business is growing at a very fast pace driven primarily by the AI demand from model builders, but as GPUs represent a large portion of the solutions, the pricing is very competitive and margins are limited. With the growth of AI in enterprise and sovereign customer segments and key strategic differentiators, such as direct liquid cooling, we believe that there is a potential for continued growth over time.

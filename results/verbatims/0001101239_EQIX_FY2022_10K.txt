@@ -1,0 +1,20 @@
+FIRM         : EQIX (CIK 0001101239) | FY2022
+FILE         : 0001101239_EQIX_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-15
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+During the last three years, we have completed a number of business combinations, including the acquisition of Entel Peru data centers in the third quarter of 2022, MainOne in West Africa and Entel Chile data centers, both in the second quarter of 2022, GPX in India in the third quarter of 2021, Bell data centers in Canada in the fourth quarter of 2020, Packet in March 2020 and Axtel in Mexico in January 2020. The purchase price allocation for these acquisitions has been finalized, except for the MainOne, Entel Peru and Entel Chile acquisitions. As of both December 31, 2022 and 2021, we had net intangible assets of $1.9 billion, respectively. We recorded amortization expense for intangible assets of $204.8 million, $205.5 million and $199.0 million for the years ended December 31, 2022, 2021 and 2020, respectively. We do not believe there is a reasonable likelihood that there will be a material change in the estimates or assumptions we used to complete the purchase price allocations and the fair value of assets acquired and liabilities assumed. However, if actual results are not consistent with our estimates or assumptions, we may be exposed to losses or gains that could be material, which would be recorded in our consolidated statements of operations in 2022 or beyond.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

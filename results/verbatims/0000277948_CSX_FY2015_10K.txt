@@ -1,0 +1,23 @@
+FIRM         : CSX (CIK 0000277948) | FY2015
+FILE         : 0000277948_CSX_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 6. Properties,
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The STB requires depreciation studies be performed for equipment assets generally every
+
+[VERBATIM — Changement de politique]
+Recent experience with depreciation studies has resulted in depreciation rate changes, which did not materially affect the Company’s annual depreciation expense of
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : CRMT (CIK 0000799850) | FY2024
+FILE         : 0000799850_CRMT_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : April 30, 2024
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Implementation Costs ||| The Company enters into cloud computing service contracts to support its sales, inventory management, and administrative activities. The Company capitalizes certain implementation costs for cloud computing arrangements that meet the definition of a service contract. The Company includes these capitalized implementation costs within Prepaid expenses and other assets on the Consolidated Balance Sheets. Once placed in service, the Company amortizes these costs over the remaining subscription term to the same caption on the Consolidated Statement of Operations as the related cloud subscription. Capitalized implementation costs for cloud computing arrangements accounted for as service contracts were $16.7 million and $10.8 million as of April 30, 2024, and 2023, respectively. Accumulated amortization of capitalized implementation costs for these arrangements was $339,500 and $136,709 as of April 30, 2024 and 2023, respectively.

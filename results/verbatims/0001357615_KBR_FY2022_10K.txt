@@ -1,0 +1,20 @@
+FIRM         : KBR (CIK 0001357615) | FY2022
+FILE         : 0001357615_KBR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-10
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Contract costs include all direct materials, labor and subcontractor costs and an allocation of indirect costs related to contract performance. Customer-furnished materials are included in both contract revenue and cost of revenue when management concludes that the company is acting as a principal rather than as an agent. We recognize revenue, but not profit, on certain uninstalled materials that are not specifically produced or fabricated for a project, which revenue is recognized up to cost. Revenue for uninstalled materials is recognized when the cost is incurred and control is transferred to the customer, which revenue is recognized using the cost-to-cost method. Project mobilization costs incurred are capitalized as deferred assets and amortized on a straight-line basis over the anticipated term of the contract or a specified period of performance consistent with the transfer of control of the performance obligation to the client. These costs incurred may be to transition the services, employees and equipment to or from the customer, a prior contract or prior contractor. Pre-contract costs are expensed as incurred unless they are expected to be recovered from the client.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

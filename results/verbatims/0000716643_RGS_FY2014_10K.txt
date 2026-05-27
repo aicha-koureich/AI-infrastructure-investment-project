@@ -1,0 +1,23 @@
+FIRM         : RGS (CIK 0000716643) | FY2014
+FILE         : 0000716643_RGS_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. BUSINESS DESCRIPTION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+ASSET CAT.   : equipment, furniture
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+for equipment, furniture and software). Depreciation expense was
+
+[VERBATIM — Changement de politique]
+depreciation and amortization accounts are adjusted for property retirements and disposals with the resulting gain or loss included in operating income. Fully depreciated or amortized assets remain in the accounts until retired from service.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

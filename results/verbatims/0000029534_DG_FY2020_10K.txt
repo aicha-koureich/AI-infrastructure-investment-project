@@ -1,0 +1,20 @@
+FIRM         : DG (CIK 0000029534) | FY2020
+FILE         : 0000029534_DG_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 29, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Basis of presentation and accounting policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amounts included in the Company’s property and equipment balances and their estimated lives are summarized as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the Financial Accounting Standards Board (“FASB”) issued guidance related to the accounting for implementation costs incurred in a cloud computing arrangement that is a service contract. These amendments align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software, as well as hosting arrangements that include an internal use software license. This guidance is effective for public business entities for fiscal years, and interim periods within those years, beginning after December 15, 2019, and early adoption is permitted. The Company adopted this guidance on a prospective basis and such adoption had an immaterial effect on the Company’s consolidated financial position and results of operations.

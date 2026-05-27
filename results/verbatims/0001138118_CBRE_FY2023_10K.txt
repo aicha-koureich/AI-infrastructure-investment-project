@@ -1,0 +1,21 @@
+FIRM         : CBRE (CIK 0001138118) | FY2023
+FILE         : 0001138118_CBRE_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-13
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 8. Property and Equipment
+ASSET CAT.   : Computer hardware and software
+DURÉE        : 2.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-10.0 ans | 1.0-15.0 ans | 2.0-10.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+December 31, Useful Lives 2023 2022 Computer hardware and software 2-10 years $ 1,341 $ 1,158 Leasehold improvements 1-15 years 658 611 Furniture and equipment 1-10 years 298 268 Construction in progress N/A 186 185 Total cost 2,483 2,222 Accumulated depreciation and amortization 1,576 1,386 Property and equipment, net $ 907 $ 836
+
+[VERBATIM — Infrastructure IA]
+Facilities management involves the day-to-day management of client-occupied space and includes headquarters, regional offices, administrative offices, data centers and other critical facilities, manufacturing and laboratory facilities, distribution facilities and retail space. Contracts for facilities management services are often structured so we are reimbursed for client-dedicated personnel costs and subcontracted vendor costs as well as associated overhead expenses plus a monthly fee, and, in some cases, annual incentives tied to agreed upon performance targets, with any penalties typically capped. In addition, we have contracts for facilities management services based on fixed fees or guaranteed maximum prices. Fixed fee contracts are typically structured where an agreed upon scope of work is delivered for a fixed price while guaranteed maximum price contracts are structured with an agreed upon scope of work that will be provided to the client for a not to exceed price. Facilities management services represent a series of distinct daily services rendered over time. Consistent with the transfer of control for distinct, daily services to the customer, revenue is typically recognized at the end of each period for the fees associated with the services performed.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

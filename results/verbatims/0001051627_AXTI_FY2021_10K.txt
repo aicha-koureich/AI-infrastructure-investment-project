@@ -1,0 +1,20 @@
+FIRM         : AXTI (CIK 0001051627) | FY2021
+FILE         : 0001051627_AXTI_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Revenue increased $42.0 million, or 44.1%, in 2021 from $95.4 million in 2020. The $27.4 million increase in wafer substrate sales was led by strong demand for InP wafer substrates for 5G applications and data center upgrades (silicon photonics). GaAs revenue also grew as the result of increased demand for LED products, industrial lasers and other applications requiring low defect densities in the wafer substrate. Revenue from Ge wafer substrates increased modestly, primarily as a result of higher demand from our customers in China. The $14.6 million raw materials revenue increase as compared to the same period in 2020 was primarily the result of increased revenue from sales of purified gallium and favorable pricing. In addition, increased demand for pBN crucibles and pBN-based OLED manufacturing tools resulted in increased revenue for BoYu, one of our consolidated raw material companies .  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

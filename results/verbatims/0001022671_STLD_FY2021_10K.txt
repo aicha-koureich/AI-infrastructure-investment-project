@@ -1,0 +1,20 @@
+FIRM         : STLD (CIK 0001022671) | FY2021
+FILE         : 0001022671_STLD_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of the Business and Summary of Significant Accounting Policies (Continued)
+ASSET CAT.   : plant, machinery and equipment
+DURÉE        : 10.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The company assigns each fixed asset a useful life ranging from 3 to 20 years for plant, machinery and equipment, and 10 to 40 years for buildings and improvements.
+
+[VERBATIM — Infrastructure IA]
+Our steel fabrication operations benefited in 2021 from a robust non-residential construction market, as order activity was strong throughout the year, resulting in record shipments, as well as a record customer order backlog at the end of 2021, and higher selling prices, due to the strength of warehouse construction related to distribution and data centers. Net sales for the segment increased 95% during 2021, compared to 2020, as shipments increased 19%, and average selling prices increased 64%, or $874 per ton.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

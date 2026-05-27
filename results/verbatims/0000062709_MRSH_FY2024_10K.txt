@@ -1,0 +1,20 @@
+FIRM         : MRSH (CIK 0000062709) | FY2024
+FILE         : 0000062709_MRSH_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized Software, computer software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized computer software costs of $474 million and $519 million, net of accumulated amortization of $2.1 billion and $2 billion at December 31, 2024 and 2023, respectively, are included in other assets in the consolidated balance sheets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

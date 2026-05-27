@@ -1,0 +1,20 @@
+FIRM         : MOD (CIK 0000067347) | FY2013
+FILE         : 0000067347_MOD_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1: Significant Accounting Policies
+ASSET CAT.   : equipment when the Company owns title to the tooling and amortizes the capitalized cost to cost of sales over the estimated life of the asset, which is generally
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Tooling costs: Modine accounts for production tooling costs as a component of property, plant and equipment when the Company owns title to the tooling and amortizes the capitalized cost to cost of sales over the estimated life of the asset, which is generally three years.
+
+[VERBATIM — Infrastructure IA]
+On September 6, 2013, a fire caused significant destruction to the Company’s Airedale manufacturing facility and offices in Rawdon (Leeds), United Kingdom. We report Airedale’s financial results within the Commercial Products segment. There were no injuries caused by the fire. The Rawdon facility, which was leased, was used to manufacture cooling products and solutions for a variety of applications, including data centers, clean rooms, retail, leisure and process cooling. The fire caused the Company to temporarily suspend manufacturing and certain administrative operations at the Rawdon site; however, the Company has transferred its operations to temporary facilities and is planning to rebuild the leased facility. Demolition of the remaining structure at the Rawdon site is in process and construction of the new facility is expected to begin during the second quarter of fiscal 2015.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

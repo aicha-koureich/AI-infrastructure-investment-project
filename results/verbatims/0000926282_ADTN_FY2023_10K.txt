@@ -1,0 +1,21 @@
+FIRM         : ADTN (CIK 0000926282) | FY2023
+FILE         : 0000926282_ADTN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 24 – Subsequent Events
+ASSET CAT.   : Equipment, machinery and equipment, computer software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment Property, plant and equipment, which is stated at cost, is depreciated using the straight-line method over the estimated useful lives of the assets. We depreciate building and land improvements from five to 39 years , office machinery and equipment from three to seven years , engineering machinery and equipment from three to seven years , and computer software from three to five years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In connection with the planned integration of information technology following the Business Combination, we determined that certain projects no longer fit our needs. As a result, the Company recognized impairment charges of $17.4 million during the year ended December 31, 2022, primarily attributable to capitalized implementation costs for a cloud computing arrangement. There were no asset impairments recognized during the years ended December 31, 2023 and 2021. See Note 10 of the Notes to the Consolidated Financial Statements included in Part II, Item 8 of this report for additional information. ||| Services & Support Segment - Includes a complete portfolio of maintenance, network implementation and solutions integration and managed services, which include hosted cloud services and subscription services to complement our Network Solutions segment. ||| Includes a complete portfolio of maintenance, network implementation and solutions integration and managed services, which include hosted cloud services and subscription services to complement our Network Solutions segment.

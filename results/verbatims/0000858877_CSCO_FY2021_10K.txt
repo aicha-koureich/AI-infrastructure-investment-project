@@ -1,0 +1,20 @@
+FIRM         : CSCO (CIK 0000858877) | FY2021
+FILE         : 0000858877_CSCO_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-08-20
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are amortized using the straight-line amortization method over the estimated useful life of the applicable software.
+
+[VERBATIM — Infrastructure IA]
+Infrastructure Platforms consist of our core networking technologies of switching, routing, wireless, and data center products that are designed to work together to deliver networking capabilities and transport and/or store data. These technologies consist of both hardware and software offerings, including software licenses and software-as-a-service (SaaS), that help our customers build networks, automate, orchestrate, integrate, and digitize data. We are shifting and expanding more of our business to software and subscriptions across our core networking portfolio. Our hardware and perpetual software in this category are distinct performance obligations where revenue is recognized upfront upon transfer of control. Term software licenses are multiple performance obligations where the term license is recognized upfront upon transfer of control with the associated software maintenance revenue recognized ratably over the contract term. SaaS arrangements in this category have one distinct performance obligation which is satisfied over time with revenue recognized ratably over the contract term.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

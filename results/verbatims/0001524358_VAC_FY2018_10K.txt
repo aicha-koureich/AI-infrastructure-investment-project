@@ -1,0 +1,20 @@
+FIRM         : VAC (CIK 0001524358) | FY2018
+FILE         : 0001524358_VAC_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, information technology, capitalized software
+DURÉE        : 3.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We capitalize the cost of improvements that extend the useful life of property and equipment when incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Accounting Standards Update 2018-15 – “ Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ” (“ASU 2018-15”) ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| In August 2018, the FASB issued ASU 2018-15, which provides guidance for determining if a cloud computing arrangement is within the scope of the internal-use software guidance in ASU 350-40 “ Intangibles – Goodwill and Other – Internal Use Software ” and would require capitalization of certain implementation costs. For public business entities, this guidance is effective for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years. Early adoption is permitted, including adoption in any interim period. The adoption of ASU 2018-15 in the fourth quarter of 2018 did not have a material impact on our financial statements or disclosures.

@@ -1,0 +1,20 @@
+FIRM         : TYL (CIK 0000860731) | FY2019
+FILE         : 0000860731_TYL_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Investing activities used cash of $245.0 million in 2019 compared to $238.3 million in 2018 . We invested $54.7 million and received $70.8 million in proceeds from investment grade corporate bonds, municipal bonds and asset-backed securities with maturity dates ranging from 2020 through 2023 . On February 28, 2019, we acquired all of the capital stock of MicroPact. The total purchase price, net of cash acquired of $2.0 million , was approximately $202.2 million , including $198.2 million paid in cash and accrued contingent consideration of $6.0 million at December 31, 2019 . On February 1, 2019, we acquired all the assets of MyCivic for the total purchase price of $3.7 million paid in cash. On October 30, 2019, we acquired certain assets of CHT. The total purchase price was approximately $20.5 million of which $19.1 million was paid in cash and approximately $1.4 million accrued for working capital and indemnity holdbacks, subject to certain post-closing adjustments. Approximately $37.2 million was invested in property and equipment, including $20.8 million related to real estate. In addition, approximately $4.8 million of software development was capitalized in 2019 . The remaining additions were for computer equipment and furniture and fixtures in support of internal growth, particularly with respect to data centers supporting growth in our cloud-based offerings. These expenditures were funded from cash generated from operations.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,35 @@
+FIRM         : EGBN (CIK 0001050441) | FY2016
+FILE         : 0001050441_EGBN_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1—Summary of Significant Accounting Policies (Continued)
+ASSET CAT.   : computer software and hardware
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 3.0-5.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Premises and equipment are stated at cost less accumulated depreciation and amortization computed using the straight-line method for financial
+reporting purposes. Premises and equipment are depreciated over the useful lives of the assets, which generally range from three to seven years for furniture, fixtures and equipment, three to five
+years for computer software and hardware, and five to twenty years for
+
+[VERBATIM — Infrastructure IA]
+The
+Bank has outstanding obligations under its current core data processing contract that expire in May 2020 and two other vendor arrangements that relate to network
+infrastructure and data center services, one expires in July 2020 and the other expires in December 2018.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The
+Bank has outstanding obligations under its current core data processing contract that expire in May 2020 and two other vendor arrangements that relate to network
+infrastructure and data center services, one expires in July 2020 and the other expires in December 2018. ||| (1) Excludes
+accrued interest payable at December 31, 2016. (2) Borrowed
+funds include customer repurchase agreements, and other short-term and long-term borrowings. (3) The
+Bank has outstanding obligations under its current core data processing contract that expire in May 2020 and two other vendor arrangements that relate to network
+infrastructure and data center services, one expires in July 2020 and the other expires in December 2018. (4) The
+Bank has the option of terminating the George Mason agreement at the end of contract years 10 and 15 (that is, effective June 30, 2025 or June 30,
+2030). Should the Bank elect to exercise its right to terminate the George Mason contract, contractual obligations would decrease $3.5 million and $3.6 million for the first option
+period (years 11-15) and the second option period (16-20), respectively. (5) Non-compete
+agreement with a retired Director.

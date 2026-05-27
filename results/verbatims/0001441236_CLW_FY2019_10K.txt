@@ -1,0 +1,20 @@
+FIRM         : CLW (CIK 0001441236) | FY2019
+FILE         : 0001441236_CLW_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 Summary of Significant Accounting Policies NATURE OF OPERATIONS AND BASIS OF PRESENTATION
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost, including assets acquired under finance lease obligations, and any interest costs capitalized, less accumulated depreciation. Depreciation of buildings, equipment and other depreciable assets is determined using the straight-line method.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+. This ASU requires capitalization of certain implementation costs incurred in a cloud computing arrangement that is a service contract. This ASU is effective for fiscal years beginning after December 15, 2019 and for interim periods therein. We do not believe this ASU will have a material impact on our consolidated financial statements. ||| In August 2018, the FASB issued ASU 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) . This ASU requires capitalization of certain implementation costs incurred in a cloud computing arrangement that is a service contract. This ASU is effective for fiscal years beginning after December 15, 2019 and for interim periods therein. We do not believe this ASU will have a material impact on our consolidated financial statements.

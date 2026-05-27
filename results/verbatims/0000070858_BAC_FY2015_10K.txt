@@ -1,0 +1,23 @@
+FIRM         : BAC (CIK 0000070858) | FY2015
+FILE         : 0000070858_BAC_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 Summary of Significant Accounting Principles
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment are carried at cost less accumulated depreciation and amortization.
+
+[VERBATIM — Changement de politique]
+excluding market appreciation/depreciation and other adjustments.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : VZ (CIK 0000732712) | FY2020
+FILE         : 0000732712_VZ_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Network equipment consists primarily of cable (aerial, buried, underground or undersea) and the related support structures of poles and conduit, wireless plant, switching equipment, network software, transmission equipment and related facilities. Land, buildings and building equipment consists of land and land improvements, central office buildings or any other buildings that house network equipment, and buildings that are used for administrative and other purposes. Substantially all the switching centers are located on land and in buildings we own due to their critical role in the networks and high set-up and relocation costs. We also maintain facilities throughout the U.S. comprised of administrative and sales offices, customer care centers, retail sales locations, garage work centers, switching centers, cell sites and data centers. Furniture and other consists of telephone equipment, furniture, data processing equipment, office equipment, motor vehicles, plant under construction and leasehold improvements.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In the Global Enterprise and Public Sector and Other markets, competition levels remain high, primarily as a result of increased industry focus on technology convergence. We compete in this area with system integrators, carriers, and hardware and software providers. In addition, some of the largest information technology services companies are making strategic acquisitions, divesting non-strategic assets and forging new alliances to improve their cost structure. Many new alliances and acquisitions have focused on emerging fields, such as cloud computing, software defined networking, communication applications and other computing tasks via networks, rather than by the use of in-house machines. ||| The wireless network technology platform that carries the majority of our wireless traffic is 4G LTE, which provides higher data throughput performance for data services at a lower cost compared to that offered by 3G technology. As of December 31, 2020, our 4G LTE network is available in over 700 markets covering approximately 327 million people, including those in areas served by our LTE in Rural America partners. Under this program, we have collaborated with wireless carriers in rural areas to build and operate a 4G LTE network using each carrier’s network assets with our core 4G LTE equipment and 700 Megahertz (MHz) C Block and Advanced Wireless Services (AWS) spectrum. In 2020, we launched LTE Home Internet, a home broadband internet service that leverages the Verizon 4G LTE network. ||| The spectrum licenses we hold can be used for mobile wireless voice, video and data communications services. We are licensed by the Federal Communications Commission (FCC) to provide these wireless services on portions of the 800 MHz band, also known as cellular spectrum, the 1800-1900 MHz band, also known as Personal Communication Services (PCS) spectrum, portions of the 700 MHz upper C band and AWS 1 and 3 spectrum in the 1700 and 2100 MHz bands, in areas that, collectively, cover nearly all of the population of the U.S. We have also deployed 4G technologies in 3.5 Gigahertz (GHz) shared spectrum, using LTE/Citizens Broadband Radio Service, and in 5 GHz unlicensed spectrum, using LTE/Licensed Assisted Access. All of this spectrum is collectively called low and mid-band spectrum. We are using our low and mid-band spectrum to provide 3G, 4G LTE and 5G wireless services. We are increasingly reallocating spectrum previously used for 3G service to provide 4G LTE service. We are also utilizing low and mid-band spectrum, through DSS, for 5G to complement our spectrum licenses in the 28 and 39 GHz band, collectively called millimeter wave spectrum.

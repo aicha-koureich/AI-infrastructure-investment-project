@@ -1,0 +1,21 @@
+FIRM         : CTKB (CIK 0001831915) | FY2021
+FILE         : 0001831915_CTKB_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of presentation and summary of significant accounting policies
+ASSET CAT.   : equipment
+DURÉE        : 7.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment, net Property and equipment are recorded at cost, net of accumulated depreciation. The Company’s estimated useful lives of its property and equipment are as follows: 76 Estimated Useful Lives Furniture and fixtures 7 years Laboratory equipment 5 years Office and computer equipment 3 years Leasehold improvements Shorter of expected lease term or estimated useful life
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

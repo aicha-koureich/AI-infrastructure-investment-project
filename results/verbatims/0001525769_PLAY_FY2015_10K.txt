@@ -1,0 +1,22 @@
+FIRM         : PLAY (CIK 0001525769) | FY2015
+FILE         : 0001525769_PLAY_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU 2015-05, Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement . ASU 2015-05 provides guidance to customers regarding how to account for a cloud computing arrangement. If a cloud computing arrangement does not include a
+software license, the customer should account for the arrangement as a service contract. Otherwise, the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. ASU
+2015-05 is effective for interim and annual periods beginning after December 15, 2015 with early adoption permitted. We do not expect the adoption of this guidance to have a material impact on our consolidated financial statements.

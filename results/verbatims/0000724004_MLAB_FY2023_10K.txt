@@ -1,0 +1,23 @@
+FIRM         : MLAB (CIK 0000724004) | FY2023
+FILE         : 0000724004_MLAB_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are recorded at cost, less accumulated depreciation, except for assets acquired in acquisitions, which are recorded at fair value.
+
+[VERBATIM — Changement de politique]
+Depreciation is calculated using the straight-line method over the assets’ estimated useful lives. Upon asset retirement or disposal, accounts are relieved of cost and accumulated depreciation, and any related gain or loss is reflected in our results of operations. In some cases, particularly with respect to business consolidation or closure activities, accelerated depreciation may be required for the revised remaining useful lives of assets designated to be abandoned in the future.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

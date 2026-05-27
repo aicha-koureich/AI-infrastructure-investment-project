@@ -1,0 +1,20 @@
+FIRM         : CVEO (CIK 0001590584) | FY2022
+FILE         : 0001590584_CVEO_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Selling, General and Administrative Expenses. SG&A expense increased $9.4 million, or 15%, in 2022 compared to 2021. This increase was primarily due to higher share-based compensation expense, travel and entertainment expense, compensation expense and information technology expense. The increase in share-based compensation expense was due to a relative increase in our stock price during 2022 compared to 2021. The increase in information technology expense was related to ongoing investment in our human capital management (HCM) system and set-up costs incurred in a cloud computing arrangement for our newly implemented HCM system, which are being amortized through SG&A expense instead of depreciation and amortization expense. The increase in travel and entertainment expenses was largely a result of a return to more normalized travel expenses with the lifting of travel restrictions associated with COVID-19. The increase in compensation expense was primarily due to increased staff and recruitment costs. These items were partially offset by a weaker Australian and Canadian dollar relative to the U.S. dollar in 2022 compared to 2021. ||| SG&A expense increased $9.4 million, or 15%, in 2022 compared to 2021. This increase was primarily due to higher share-based compensation expense, travel and entertainment expense, compensation expense and information technology expense. The increase in share-based compensation expense was due to a relative increase in our stock price during 2022 compared to 2021. The increase in information technology expense was related to ongoing investment in our human capital management (HCM) system and set-up costs incurred in a cloud computing arrangement for our newly implemented HCM system, which are being amortized through SG&A expense instead of depreciation and amortization expense. The increase in travel and entertainment expenses was largely a result of a return to more normalized travel expenses with the lifting of travel restrictions associated with COVID-19. The increase in compensation expense was primarily due to increased staff and recruitment costs. These items were partially offset by a weaker Australian and Canadian dollar relative to the U.S. dollar in 2022 compared to 2021.

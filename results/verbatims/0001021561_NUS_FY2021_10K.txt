@@ -1,0 +1,20 @@
+FIRM         : NUS (CIK 0001021561) | FY2021
+FILE         : 0001021561_NUS_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 3. Property and Equipment Property and equipment are comprised of the following (U.S. dollars in thousands): December 31, 2021 2020 Land $ 45,027 $ 45
+ASSET CAT.   : Equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment Property and equipment are comprised of the following (U.S. dollars in thousands): December 31, 2021 2020 Land $ 45,027 $ 45,242 Buildings 281,192 278,779 Construction in progress (1) 44,021 34,954 Furniture and fixtures 147,786 146,413 Computers and equipment 162,746 137,914 Leasehold improvements 129,675 164,963 Scanners 6,746 8,119 Vehicles 2,021 2,112 819,214 818,496 Less: accumulated depreciation (365,540 ) (350,315 ) $ 453,674 $ 468,181 (1) Construction in progress includes $11.0 million and $13.6 million as of December 31, 2021 and 2020, respectively, of eligible capitalized internal-use software development costs which will be reclassified to computers and equipment when placed into service. Depreciation of property and equipment totaled $62.9 million, $62.5 million and $61.7 million for the years ended December 31, 2021, 2020 and 2019, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

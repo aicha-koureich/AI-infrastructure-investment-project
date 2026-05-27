@@ -1,0 +1,23 @@
+FIRM         : RUSHA (CIK 0001012019) | FY2017
+FILE         : 0001012019_RUSHA_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SIGNIFICANT ACCOUNTING POLICIES : Principles of Consolidation The consolidated financial statements presented herein include the account s of Rush 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+21 . SUBSEQUENT EVENT : In the first quarter of 2018, as part of an assessment that involved a technical feasibility study of the current SAP enterprise software platform, the Company determined that a majority of the components of its enterprise software platform will require r eplacement earlier than originally anticipated at software installation. In accordance with ASC Topic 350 - 40, the Company will prospectively adjust the useful life of the components being replaced so that the respective net book values of the components are fully amortized upon replacement. The total net book value of the SAP enterprise software is $31.9 million as of December 31, 2017. The Company expects to place these new components into service no later than August 2018. The Company will amortize the remaining net book value of the components expected to be replaced on a straight-line basis over the seven -month period beginning in February 2018 through August 2018.
+
+[VERBATIM — Changement de politique]
+In the first quarter of 2018, as part of an assessment that involved a technical feasibility study of the current SAP enterprise software platform, the Company determined that a majority of the components of its enterprise software platform will require r eplacement earlier than originally anticipated at software installation. In accordance with ASC Topic 350 - 40, the Company will prospectively adjust the useful life of the components being replaced so that the respective net book values of the components are fully amortized upon replacement. The total net book value of the SAP enterprise software is $31.9 million as of December 31, 2017. The Company expects to place these new components into service no later than August 2018. The Company will amortize the remaining net book value of the components expected to be replaced on a straight-line basis over the seven -month period beginning in February 2018 through August 2018.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

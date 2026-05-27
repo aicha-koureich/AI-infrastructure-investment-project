@@ -1,0 +1,23 @@
+FIRM         : HTZ (CIK 0001657853) | FY2017
+FILE         : 0001657853_HTZ_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost and are depreciated utilizing the straight-line method over the estimated useful lives of the related assets.
+
+[VERBATIM — Changement de politique]
+depreciation expense is adjusted for the difference between the net proceeds received and the remaining net book value.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

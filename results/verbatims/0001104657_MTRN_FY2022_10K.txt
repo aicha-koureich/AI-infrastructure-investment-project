@@ -1,0 +1,20 @@
+FIRM         : MTRN (CIK 0001104657) | FY2022
+FILE         : 0001104657_MTRN_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Machinery and equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, (Thousands) 2022 2021 Land $ 26,579 $ 26,627 Buildings 200,223 173,907 Machinery and equipment 770,628 687,502 Software 44,886 45,445 Construction in progress 100,188 130,838 Allowances for depreciation (720,455) (690,166) Subtotal 422,049 374,153 Finance leases 31,662 32,865 Allowances for depreciation (7,395) (6,193) Subtotal 24,267 26,672 Mineral resources 4,980 4,980 Mine development 30,059 30,059 Allowances for amortization and depletion (32,590) (26,889) Subtotal 2,449 8,150 Property, plant, and equipment — net $ 448,765 $ 408,975
+
+[VERBATIM — Infrastructure IA]
+Telecom and Data Center  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

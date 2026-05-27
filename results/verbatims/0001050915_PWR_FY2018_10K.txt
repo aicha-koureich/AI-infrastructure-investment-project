@@ -1,0 +1,23 @@
+FIRM         : PWR (CIK 0001050915) | FY2018
+FILE         : 0001050915_PWR_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 5. GOODWILL AND OTHER INTANGIBLE ASSETS:
+ASSET CAT.   : equipment, Office equipment, furniture and fixtures, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful December 31, Lives in Years 2018 2017 Land N/A $ 61,305 $ 48,832 Buildings and leasehold improvements 5-30 208,974 155,628 Operating equipment and vehicles 1-25 1,865,917 1,834,715 Office equipment, furniture and fixtures and information technology systems 3-10 212,769 170,115 Construction work in progress N/A 19,507 60,587 2,368,472 2,269,877 Less — Accumulated depreciation and amortization (1,092,440 ) (981,275 ) Property and equipment, net $ 1,276,032 $ 1,288,602
+
+[VERBATIM — Changement de politique]
+These pro forma combined historical results were adjusted for the following: a reduction of interest expense as a result of the repayment of outstanding indebtedness of the acquired businesses; an increase in interest expense as a result of the cash consideration paid; an increase in amortization expense due to the incremental intangible assets recorded; changes in depreciation expense to adjust acquired property and equipment to the acquisition date fair value and to conform with Quanta’s accounting policies; an increase in the number of outstanding shares of Quanta common stock; and reclassifications to conform the acquired businesses’ presentation to Quanta’s accounting policies.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

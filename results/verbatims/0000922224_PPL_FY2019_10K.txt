@@ -1,0 +1,20 @@
+FIRM         : PPL (CIK 0000922224) | FY2019
+FILE         : 0000922224_PPL_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 21. New Accounting Guidance Pending Adoption
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(Millions of Dollars) 2019 2018 2017 Cash Flows from Operating Activities Net income $ 293 $ 286 $ 259 Adjustments to reconcile net income to net cash provided by (used in) operating activities Depreciation 315 279 255 Amortization 10 3 9 Defined benefit plans - expense (1 ) — 4 Deferred income taxes and investment tax credits 39 48 152 Other (3 ) (4 ) — Change in current assets and current liabilities Accounts receivable (3 ) (4 ) (5 ) Accounts payable (15 ) 29 — Accounts payable to affiliates (2 ) (3 ) (6 ) Unbilled revenues 4 20 (17 ) Fuel, materials and supplies (6 ) 3 32 Regulatory assets and liabilities, net (26 ) 27 (2 ) Taxes payable 2 5 (26 ) Other (6 ) (3 ) 9 Other operating activities Defined benefit plans - funding (3 ) (54 ) (23 ) Expenditures for asset retirement obligations (59 ) (50 ) (19 ) Other assets (2 ) (12 ) 3 Other liabilities 16 11 9 Net cash provided by operating activities 553 581 634 Cash Flows from Investing Activities Expenditures for property, plant and equipment (610 ) (562 ) (432 ) Other investing activities — 1 4 Net cash used in investing activities (610 ) (561 ) (428 ) Cash Flows from Financing Activities Issuance of long-term debt 306 18 — Retirement of long-term debt — (27 ) — Payment of common stock dividends to parent (229 ) (246 ) (226 ) Contributions from parent 68 45 — Net increase (decrease) in short-term debt (85 ) 190 29 Other financing activities (5 ) (1 ) (1 ) Net cash provided by (used in) financing activities 55 (21 ) (198 ) Net Increase (Decrease) in Cash and Cash Equivalents (2 ) (1 ) 8 Cash and Cash Equivalents at Beginning of Period 14 15 7 Cash and Cash Equivalents at End of Period $ 12 $ 14 $ 15 Supplemental Disclosures of Cash Flow Information Cash paid (received) during the period for: Interest - net of amount capitalized $ 101 $ 95 $ 92 Income taxes - net $ 39 $ 25 $ 34 Significant non-cash transactions: Accrued expenditures for property, plant and equipment at December 31, $ 54 $ 88 $ 82
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Accounting for Implementation Costs in a Cloud Computing Service Arrangement ||| In August 2018, the FASB issued accounting guidance that requires a customer in a cloud computing hosting arrangement that is a service contract to capitalize implementation costs consistent with internal-use software guidance for non-service arrangements. Prior guidance had not addressed these implementation costs. The guidance requires these capitalized implementation costs to be amortized over the term of the hosting arrangement to the statement of income line item where the service arrangement costs are recorded. The guidance also prescribes the financial statement classification of the capitalized implementation costs and cash flows associated with the arrangement. Additional quantitative and qualitative disclosures are also required.

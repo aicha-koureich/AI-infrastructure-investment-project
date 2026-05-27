@@ -1,0 +1,21 @@
+FIRM         : ADP (CIK 0000008670) | FY2021
+FILE         : 0000008670_ADP_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-07-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is stated at cost less accumulated depreciation on the Consolidated Balance Sheets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

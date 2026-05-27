@@ -1,0 +1,20 @@
+FIRM         : CPK (CIK 0000019745) | FY2023
+FILE         : 0000019745_CPK_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+While providing significant benefits, AI poses emerging legal, social, and ethical issues and presents risks and challenges. If we utilize AI solutions that have unintended consequences or may be deemed controversial, or if we are unable to develop effective internal policies and frameworks relating to the responsible use of AI, we may experience brand or reputational harm, competitive harm or legal liability. Complying with regulations related to AI could increase our cost of doing business, may change the way that we operate in certain jurisdictions, or may impede our ability to offer services in certain jurisdictions if we are unable to comply with regulations. ||| If we utilize AI solutions that have unintended consequences or may be deemed controversial, or if we are unable to develop effective internal policies and frameworks relating to the responsible use of AI, we may experience brand or reputational harm, competitive harm or legal liability. Complying with regulations related to AI could increase our cost of doing business, may change the way that we operate in certain jurisdictions, or may impede our ability to offer services in certain jurisdictions if we are unable to comply with regulations.

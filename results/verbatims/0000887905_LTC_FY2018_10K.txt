@@ -1,0 +1,20 @@
+FIRM         : LTC (CIK 0000887905) | FY2018
+FILE         : 0000887905_LTC_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3. Major Operators
+ASSET CAT.   : Equipment
+DURÉE        : 1.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Properties held-for-sale. Properties classified as held‑for‑sale on the consolidated balance sheet include only those properties available for immediate sale in their present condition and for which management believes that it is probable that a sale of the property will be completed within one year. Properties held‑for‑sale are carried at the lower of cost or fair value less estimated selling costs. No depreciation expense is recognized on properties held‑for‑sale once they have been classified as such. Under ASU No. 2014-08 (“ASU 2014-08”), Presentation of Financial Statements (Topic 205) and Property, Plant, and Equipment (Topic 360): Reporting Discontinued Operations and Disclosures of Disposals of Components of an Entity, only disposals representing a strategic shift in operations should be presented as discontinued operations. Those strategic shifts should have a major effect on the organization’s operations and financial results. Examples include a disposal of a major geographic area, a major line of business, or a major equity method investment. We have not reclassified results of operations for properties disposed as discontinued operations as these disposals do not represent strategic shifts in our operations.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

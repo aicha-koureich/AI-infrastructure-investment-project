@@ -1,0 +1,20 @@
+FIRM         : MET (CIK 0001099219) | FY2023
+FILE         : 0001099219_MET_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Business, Basis of Presentation and Summary of Significant Accounting Policies (continued)
+ASSET CAT.   : equipment, computer software
+DURÉE        : 4.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, equipment and leasehold improvements, which are included in other assets, are stated at cost, less accumulated depreciation and amortization. Depreciation and amortization on property and equipment are determined using the straight-line method over the estimated useful lives of the assets, generally ranging from four to 40 years. Accumulated depreciation and amortization of property, equipment and leasehold improvements was $4.8 billion and $4.4 billion at December 31, 2023 and 2022, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

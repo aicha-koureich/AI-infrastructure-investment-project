@@ -1,0 +1,21 @@
+FIRM         : ADSK (CIK 0000769397) | FY2024
+FILE         : 0000769397_ADSK_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-06
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Business and Summary of Significant Accounting Policies
+ASSET CAT.   : Computer equipment, furniture
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Computer equipment, software, and furniture are depreciated using the straight-line method over the estimated useful lives of the assets, which range from three to five years.
+
+[VERBATIM — Infrastructure IA]
+Cost of subscription and maintenance revenue includes the labor costs of providing product support to our subscription and maintenance customers, SaaS vendor costs and allocated IT costs, facilities costs, professional services fees related to operating our network and cloud infrastructure, royalties, depreciation expense and operating lease payments associated with computer equipment, data center costs, related expenses of network operations, stock-based compensation expense, and gains and losses on our operating expense cash flow hedges.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Purchase obligations are contractual obligations for purchase of goods or services and are defined as agreements that are enforceable and legally binding to Autodesk and that specify all significant terms, including: fixed or minimum quantities to be purchased; fixed, minimum, or variable price provisions; and the approximate timing of the transaction. Purchase obligations relate primarily to acquisition of cloud services, marketing and commitments related to our investment agreements with limited liability partnership funds.

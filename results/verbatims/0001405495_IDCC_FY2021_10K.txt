@@ -1,0 +1,21 @@
+FIRM         : IDCC (CIK 0001405495) | FY2021
+FILE         : 0001405495_IDCC_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES AND NEW ACCOUNTING GUIDANCE
+ASSET CAT.   : equipment, computer equipment, computer software, equipment and furniture
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, less depreciation, amortization and impairments. Depreciation and amortization of property and equipment are provided using the straight-line method. The estimated useful lives for computer equipment, computer software, engineering and test equipment and furniture and fixtures are generally three to five years. Upon the retirement or disposition of property, plant and equipment, the related cost and accumulated depreciation or amortization are removed, and a gain or loss is recorded.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

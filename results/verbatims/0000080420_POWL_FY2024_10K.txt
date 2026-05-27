@@ -1,0 +1,20 @@
+FIRM         : POWL (CIK 0000080420) | FY2024
+FILE         : 0000080420_POWL_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-11-05
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Commercial and other industrial markets. We have experienced strong growth in these end markets driven by a mix of factors including increased investment in commercial and light industrial facilities for the production of various goods, the expansion of data centers and cloud computing, as well as the growing demand in industrial applications to support new technologies driving the energy transition. We are cautiously optimistic regarding the anticipated investment across AI applications that may drive data center growth and subsequently power generation demand.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Commercial and other industrial markets. We have experienced strong growth in these end markets driven by a mix of factors including increased investment in commercial and light industrial facilities for the production of various goods, the expansion of data centers and cloud computing, as well as the growing demand in industrial applications to support new technologies driving the energy transition. We are cautiously optimistic regarding the anticipated investment across AI applications that may drive data center growth and subsequently power generation demand. ||| We have experienced strong growth in these end markets driven by a mix of factors including increased investment in commercial and light industrial facilities for the production of various goods, the expansion of data centers and cloud computing, as well as the growing demand in industrial applications to support new technologies driving the energy transition. We are cautiously optimistic regarding the anticipated investment across AI applications that may drive data center growth and subsequently power generation demand.

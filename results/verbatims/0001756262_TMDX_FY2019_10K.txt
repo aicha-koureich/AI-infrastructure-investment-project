@@ -1,0 +1,21 @@
+FIRM         : TMDX (CIK 0001756262) | FY2019
+FILE         : 0001756262_TMDX_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 28, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated Useful Life Manufacturing equipment 5 years OCS Consoles loaned to customers 5 years Computer equipment and software 3 years Laboratory equipment 3 years Office and trade show equipment 5 years Leasehold improvements Shorter of term of lease or 15 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

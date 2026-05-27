@@ -1,0 +1,21 @@
+FIRM         : LMT (CIK 0000936468) | FY2020
+FILE         : 0000936468_LMT_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : 2.0-6.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-6.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+The amounts capitalized are included in other noncurrent assets on our consolidated balance sheets and are amortized on a straight-line basis over the estimated useful life of the resulting software, which ranges from two to six years. As of December 31, 2020 and 2019, capitalized software totaled $686 million and $511 million, which were net of accumulated amortization of $2.2 billion for both periods. No amortization expense is recorded until the software is ready for its intended use. Amortization expense related to capitalized software was $166 million in 2020, $111 million in 2019 and $106 million in 2018.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

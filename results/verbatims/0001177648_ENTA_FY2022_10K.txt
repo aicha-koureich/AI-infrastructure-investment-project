@@ -1,0 +1,21 @@
+FIRM         : ENTA (CIK 0001177648) | FY2022
+FILE         : 0001177648_ENTA_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-09-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies Basis of Presentation The accompanying consolidated financial statements include those of the Company an
+ASSET CAT.   : equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and Equipment Property and equipment are stated at cost less accumulated depreciation. Depreciation expense is recognized using the straight-line method over the following estimated useful lives: Laboratory and office equipment 5 years Leasehold improvements Shorter of life of lease or estimated useful life Purchased software 3 years Computer equipment 3 years Furniture 7 years Expenditures for repairs and maintenance of assets are charged to expense as incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

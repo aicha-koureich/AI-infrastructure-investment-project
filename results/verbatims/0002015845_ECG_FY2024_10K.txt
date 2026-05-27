@@ -1,0 +1,20 @@
+FIRM         : ECG (CIK 0002015845) | FY2024
+FILE         : 0002015845_ECG_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 15 – Related-Party Transactions
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are depreciated on a straight-line basis over the average useful lives of the assets.
+
+[VERBATIM — Infrastructure IA]
+We are a leading construction solutions provider offering specialty contracting services through two operating segments, which represent our two reportable segments, Electrical & Mechanical and Transmission & Distribution, which provide services to a diverse set of end markets across most of the United States. We focus on safely executing projects; providing a superior return on investment by building new and strengthening existing customer relationships; ensuring quality service; effectively managing costs; retaining, developing and recruiting talented employees; growing through organic and strategic acquisition opportunities; and focusing efforts on projects that will permit higher margins while properly managing risk. The growth we have experienced in recent years is due in part to the project awards in the end markets and submarkets served and the ability to support national customers in most of the regions in which we operate. Our strong presence in the Western, Midwestern and Eastern regions has driven opportunities in high-tech, data centers, hospitality and utilities, while customer expansion nationwide continues to extend our reach through partnerships through our 15 wholly-owned operating companies (the “Operating Companies”). At Everus, people are our core, and we prioritize integrity, safety and growth through comprehensive training, hands-on development, safety compliance metrics and strong union partnerships to instill a safety-first culture and ethical leadership across all levels.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

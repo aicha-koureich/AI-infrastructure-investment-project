@@ -1,0 +1,23 @@
+FIRM         : RRGB (CIK 0001171759) | FY2015
+FILE         : 0001171759_RRGB_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+—During the fourth quarter of 2015, the Company re-evaluated the estimated useful lives for certain property and equipment to align more closely with actual experience and expected results.
+
+[VERBATIM — Changement de politique]
+less depreciation in 2015 than it would have by using the previous estimated useful lives. This change in accounting estimate increased net income by
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

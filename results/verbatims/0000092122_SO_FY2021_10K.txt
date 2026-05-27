@@ -1,0 +1,20 @@
+FIRM         : SO (CIK 0000092122) | FY2021
+FILE         : 0000092122_SO_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2035-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. REGULATORY MATTERS
+ASSET CAT.   : software, which ranges up to
+DURÉE        : 10.0-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B100;B200;Blackwell (4 modèle(s))
+
+[VERBATIM — Durée de vie]
+For Alabama Power, costs are amortized ratably over the life of the related software, which ranges up to 10 years. For Southern Company Gas, costs will be amortized ratably beginning in July 2022 over the life of the related software, which ranges up to 10 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Software and cloud computing costs (m) ||| Southern Company Alabama Power Georgia Power Mississippi Power Southern Company Gas (in millions) At December 31, 2021 AROs (a)(u) $ 5,685 $ 1,576 $ 3,866 $ 236 $ — Retiree benefit plans (b)(u) 2,998 747 962 145 95 Remaining net book value of retired assets (c) 1,050 574 455 21 — Deferred income tax charges (d) 829 240 555 31 — Under recovered regulatory clause revenues (e) 806 225 — 49 532 Environmental remediation (f)(u) 302 — 35 — 267 Loss on reacquired debt (g) 281 42 231 6 2 Vacation pay (h)(u) 207 81 102 10 14 Regulatory clauses (i) 142 142 — — — Storm damage (j) 97 — 48 49 — Long-term debt fair value adjustment (k) 79 — — — 79 Nuclear outage (l) 75 41 34 — — Software and cloud computing costs (m) 73 35 33 — 5 Kemper County energy facility assets, net (n) 35 — — 35 — Plant Daniel Units 3 and 4 (o) 28 — — 28 — Other regulatory assets (p) 168 38 29 7 94 Deferred income tax credits (d) (5,636) (1,968) (2,537) (288) (816) Other cost of removal obligations (a) (1,826) (192) 278 (195) (1,683) Customer refunds (q) (189) (181) (8) — — Fuel-hedging (realized and unrealized) gains (r ) (176) (50) (72) (54) — Storm/property damage reserves (s) (133) (103) — (30) — Over recovered regulatory clause revenues (e) (63) (1) (59) — (3) Other regulatory liabilities (t) (121) (29) (24) (4) (57) Total regulatory assets (liabilities), net $ 4,711 $ 1,217 $ 3,928 $ 46 $ (1,471) ||| Software and cloud computing costs

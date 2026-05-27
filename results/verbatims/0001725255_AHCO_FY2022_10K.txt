@@ -1,0 +1,23 @@
+FIRM         : AHCO (CIK 0001725255) | FY2022
+FILE         : 0001725255_AHCO_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-28
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Cost of net revenue includes the cost of non-capitalized medical equipment and supplies sold to patients, depreciation for capitalized patient equipment, salaries, labor and benefits costs for service personnel at the Company’s operating facilities, offshore labor expenses, occupancy costs (such as rent, utilities, and property taxes), and other expenses incurred to operate the businesses (such as distribution expenses, billing fees, software expenses and general business supplies).
+
+[VERBATIM — Changement de politique]
+Equipment and other fixed assets are stated at cost less accumulated depreciation or, when acquired as part of a business combination, fair value at date of acquisition. The useful lives for patient medical equipment correlate with the medical reimbursement periods. Computer equipment, vehicles and other fixed assets are depreciated over the estimated useful lives of the assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

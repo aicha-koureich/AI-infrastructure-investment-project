@@ -1,0 +1,21 @@
+FIRM         : IVZ (CIK 0000914208) | FY2019
+FILE         : 0000914208_IVZ_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0-7.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property, Equipment, Software and Depreciation
+
+[VERBATIM — Infrastructure IA]
+The company leases office space in almost all its locations of business, data centers and certain equipment under non-cancelable operating leases. The operating leases have a weighted-average remaining lease term of 6.40 years and generally include one or more options to renew, with renewal terms that can extend the lease term from 1 to 10 years . Certain lease arrangements include an option to terminate the lease if a notification is provided to the landlord within 1 - 9 years prior to the end of the lease term. The company has sole discretion in exercising lease renewal and termination options. The lease terms used in the company’s lease measurements do not include renewal options as they are not reasonably certain to be exercised as of the date of this report.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements. In August 2018, the FASB issued Accounting Standards Update 2018-15, “Intangibles-Goodwill and Other-Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing ||| Cloud Computing Arrangements. ||| In August 2018, the FASB issued Accounting Standards Update 2018-15, “Intangibles-Goodwill and Other-Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing

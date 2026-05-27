@@ -1,0 +1,21 @@
+FIRM         : GDYN (CIK 0001743725) | FY2022
+FILE         : 0001743725_GDYN_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-21
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 — Basis of presentation and summary of significant accounting policies
+ASSET CAT.   : computer software, equipment
+DURÉE        : 2.0-3.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-3.0 ans | 2.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+Amortization of internally developed software is recorded within Engineering, research, and development and Sales and marketing expenses in the consolidated statements of loss and comprehensive loss as the software is developed for purposes of supporting internal R&D, engineering, and marketing activities.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+in 2006 in Menlo Park, California, as a grid and cloud consultancy firm, Grid Dynamics has been on the forefront of digital transformation, working on big ideas like cloud computing, NOSQL, DevOps, microservices, big data and AI, and quickly established itself as a provider of choice for technology and digital enterprise companies. ||| As a leading global digital engineering and IT services provider with its headquarters in Silicon Valley and engineering centers in the United States, Mexico, India, Jamaica and multiple European countries, Grid Dynamics’ core business is to deliver focused and complex technical consulting, software design, development, testing and internet service operations. Grid Dynamics also helps organizations become more agile and create innovative digital products and experiences through its deep expertise in emerging technology, such as AI, data science, cloud computing, big data and DevOps, lean software development practices and a high-performance product culture. Grid Dynamics believes that the key to its success is a business culture that puts products over projects, client success over contract terms and real business results over pure technical innovation. By leveraging Grid Dynamics’ proprietary processes optimized for innovation, emphasis on talent development and technical expertise, Grid Dynamics has been able to achieve significant growth.

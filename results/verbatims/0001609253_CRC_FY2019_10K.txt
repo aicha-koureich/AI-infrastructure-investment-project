@@ -1,0 +1,23 @@
+FIRM         : CRC (CIK 0001609253) | FY2019
+FILE         : 0001609253_CRC_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 NATURE OF BUSINESS, SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES AND OTHER
+ASSET CAT.   : equipment
+DURÉE        : 30.0-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Other non-producing property and equipment is depreciated using the straight-line method based on expected initial lives of the individual assets or group of assets of up to 20 years .
+
+[VERBATIM — Changement de politique]
+As part of our company-wide consolidation of office space, we vacated certain office space in 2019, some of which we subleased. When we enter into a sublease agreement, we evaluate the carrying value of our ROU asset (including the carrying value of related tenant improvements) for impairment based on future identifiable cash flows. For the year ended December 31, 2019 , we recognized impairment charges of $3 million related to our leases and $6 million related to abandoned tenant improvements. We may terminate leases for vacated office space before the expiration of the lease term. In cases where we decided not to sublease vacated commercial office space, we shortened the useful life of the ROU assets and related tenant improvements to recover our remaining costs over our expected period of use. Once the leased office space is vacated, lease costs will be classified as other non-operating expenses on our consolidated statements of operations.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

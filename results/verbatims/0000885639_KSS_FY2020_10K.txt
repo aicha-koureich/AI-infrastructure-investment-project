@@ -1,0 +1,20 @@
+FIRM         : KSS (CIK 0000885639) | FY2020
+FILE         : 0000885639_KSS_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-01-30
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 8. Quarterly Financial Information (Unaudited)
+ASSET CAT.   : equipment, Information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(Dollars in Millions) January 30, 2021 February 1, 2020 Land $ 1,091 $ 1,107 Buildings and improvements: Owned 7,783 7,869 Leased 963 867 Fixtures and equipment 1,267 1,426 Information technology 2,855 2,806 Construction in progress 313 279 Total property and equipment, at cost 14,272 14,354 Less accumulated depreciation and amortization (7,583 ) (7,002 ) Property and equipment, net $ 6,689 $ 7,352
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We adopted the new accounting standard on recognizing implementation costs related to a cloud computing arrangement (ASU 2018-15), effective at the beginning of fiscal 2020. We applied the new principle using a prospective approach. There was not a material impact on our financial statements due to adoption of the new standard.

@@ -1,0 +1,20 @@
+FIRM         : PDFS (CIK 0001120914) | FY2023
+FILE         : 0001120914_PDFS_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : capitalized software
+DURÉE        : 5.0-6.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company’s capitalized software development costs consist of internal compensation related costs and external direct costs incurred during the application development stage and are amortized over their useful lives, generally five to six years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

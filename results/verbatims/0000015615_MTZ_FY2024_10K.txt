@@ -1,0 +1,23 @@
+FIRM         : MTZ (CIK 0000015615) | FY2024
+FILE         : 0000015615_MTZ_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2028-08-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Business, Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : equipment, office equipment, furniture
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization of property and equipment, including finance lease assets, is computed using the straight-line method over the estimated useful lives of the respective assets.
+
+[VERBATIM — Changement de politique]
+During the third quarter of 2024, based on the Company’s experience with the duration over which certain machinery and equipment is expected to be utilized, the Company completed a review of the estimated useful lives of certain machinery and equipment, which resulted in a net increase in the estimated useful lives of such machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+2024 Acquisitions . During 2024, MasTec completed three acquisitions, which included all of the equity interests of a construction company focused on underground utility infrastructure for industrial and municipal projects, with expertise in data center utility systems, which acquisition is included within the Company’s Power Delivery segment, and was effective in July; the acquisition of certain operations of a heavy civil contractor specializing in transportation projects, which acquisition is included within the Company’s Clean Energy and Infrastructure segment and was effective in October; and effective in December, the acquisition of the equity interests of a company focused on pipeline infrastructure and heavy civil projects, which acquisition is included within the Company’s Pipeline Infrastructure segment. The Company expects these acquisitions will increase its service offerings and further advance its ability to meet increasing demand for data center infrastructure, in addition to expanding its heavy civil and pipeline infrastructure operations.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

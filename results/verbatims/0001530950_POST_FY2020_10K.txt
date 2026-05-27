@@ -1,0 +1,20 @@
+FIRM         : POST (CIK 0001530950) | FY2020
+FILE         : 0001530950_POST_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 — SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : software. Total depreciation expense was $209.6, $218.3 and $221.0 in fiscal 2020
+DURÉE        : 1.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated useful lives range from 1 to 29 years for machinery and equipment; 1 to 38 years for buildings, building improvements and leasehold improvements; and 1 to 7 years for software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

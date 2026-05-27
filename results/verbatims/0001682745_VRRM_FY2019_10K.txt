@@ -1,0 +1,23 @@
+FIRM         : VRRM (CIK 0001682745) | FY2019
+FILE         : 0001682745_VRRM_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-02-20
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. Property and Equipment, Net
+ASSET CAT.   : Equipment, Computer equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+($ in thousands) 2019 2018 Equipment installed at customer sites $ 71,464 $ 70,164 Software 13,839 11,189 Leasehold improvements 8,809 7,899 Computer equipment 8,882 5,758 Furniture 1,681 1,826 Automobiles 2,128 1,289 Construction in progress 4,773 2,097 Property and equipment 111,576 100,222 Less: accumulated depreciation (39,310 ) (30,979 ) Property and equipment, net $ 72,266 $ 69,243
+
+[VERBATIM — Changement de politique]
+In June 2016, the FASB issued ASU 2016-13, Financial Instruments—Credit Losses (Topic 326), and issued certain amendments within ASU 2019-04, ASU 2019-05 and ASU 2019-11, respectively and collectively Topic 326, which require companies to present assets held at amortized cost and available for sale debt securities net of the amount expected to be collected. The guidance requires the measurement of expected credit losses to be based on relevant information from past events, including historical experiences, current conditions and reasonable and supportable forecasts that affect collectability. The guidance will be effective for the Company beginning January 1, 2020. Different components of the guidance require modified retrospective or prospective adoption. The impact of the implementation of this standard is still being determined by the Company.
+
+[VERBATIM — Infrastructure IA]
+leases of office and data center space. The Company initially recognizes and measures contracts containing a lease and determine lease classification at commencement. ROU  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

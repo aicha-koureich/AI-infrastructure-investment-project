@@ -1,0 +1,21 @@
+FIRM         : COTY (CIK 0001024305) | FY2023
+FILE         : 0001024305_COTY_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES Basis of Presentation and Principles of Consolidation
+ASSET CAT.   : equipment
+DURÉE        : 2.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 2.0-15.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment is stated at cost less accumulated depreciation or amortization. Depreciation and amortization are computed principally using the straight-line method over the following estimated useful lives: Description Estimated Useful Lives Buildings 20-40 years Marketing furniture and fixtures 3-5 years Machinery and equipment 2-15 years Computer equipment and software 2-5 years Property and equipment under finance leases and leasehold improvements Lesser of lease term or economic life
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

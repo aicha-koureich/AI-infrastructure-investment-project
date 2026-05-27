@@ -1,0 +1,23 @@
+FIRM         : KALU (CIK 0000811596) | FY2019
+FILE         : 0000811596_KALU_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+We have annual short-term incentive compensation plans for senior management and certain other employees payable at our election in cash, shares of common stock or a combination of cash and shares of common stock. Amounts earned under STI Plans are based on our adjusted earnings before interest, taxes, depreciation and amortization ("Adjusted EBITDA"), modified for certain safety, quality, delivery, cost and individual performance factors. The Adjusted EBITDA targets are determined based on the return on adjusted net assets. Most of our production facilities have similar programs for both hourly and salaried employees. As of December 31, 2019 , we had a liability of $8.5 million recorded within Accrued salaries, wages and related expenses for estimated probable future payments relating to the 12-month performance period of our 2019 STI Plans.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract ("ASU 2018-15"), was issued in August 2018. Under ASU 2018-15, requirements for capitalizing implementation costs incurred in a hosting arrangement (cloud computing) that is a service contract are to be aligned with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. We will adopt ASU 2018-15 in 2020 using the prospective transition approach and do not expect it to have a material impact on our consolidated financial statements. ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract ||| ("ASU 2018-15"), was issued in August 2018. Under ASU 2018-15, requirements for capitalizing implementation costs incurred in a hosting arrangement (cloud computing) that is a service contract are to be aligned with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. We will adopt ASU 2018-15 in 2020 using the prospective transition approach and do not expect it to have a material impact on our consolidated financial statements.

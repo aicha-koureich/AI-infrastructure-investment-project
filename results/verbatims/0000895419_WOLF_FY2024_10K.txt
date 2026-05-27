@@ -1,0 +1,23 @@
+FIRM         : WOLF (CIK 0000895419) | FY2024
+FILE         : 0000895419_WOLF_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 6 – Financial Statement Details
+ASSET CAT.   : Machinery and equipment, Computer hardware, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Dollars) June 30, 2024 June 25, 2023 Machinery and equipment $1,500.9 $1,275.3 Land and buildings 997.3 966.4 Computer hardware/software 67.8 72.3 Furniture and fixtures 8.3 7.9 Leasehold improvements and other 148.9 11.6 Vehicles 0.7 0.6 Finance lease assets 9.1 9.5 Construction in progress 2,092.1 873.1 Property and equipment, gross 4,825.1 3,216.7 Accumulated depreciation (1,172.8) (1,051.2) Property and equipment, net $3,652.3 $2,165.5
+
+[VERBATIM — Changement de politique]
+The Company receives, or expects to receive in the future, various types of government assistance, primarily in the form of grants, refundable tax credits, property tax reimbursements and sales tax exemptions. Government assistance is recognized when there is reasonable assurance that: (1) the Company will comply with the relevant conditions and (2) the assistance will be received. Government assistance related to reimbursing fixed asset purchases, such as reimbursement grants and refundable federal investment tax credits, are recorded as a reduction to the related asset(s), which then reduces depreciation expense over the expected useful life of the asset on a straight-line basis. If some, or all, of the amount of government assistance becomes repayable (e.g. due to non-fulfillment of the grant conditions) or there is no longer reasonable assurance the amount will be received (e.g. due to additional interpretive guidance) then the adjustment is accounted for prospectively as a change in accounting estimate. The effect of the change in estimate is recognized in the period in which management concludes that it is no longer reasonably assured that all of the grant conditions will be met. A corresponding financial liability is recognized for the amount of the repayment, if any.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud computing assets, net ||| (in millions of U.S. Dollars) June 30, 2024 June 25, 2023 Investment tax credit receivable (1) $641.8 $167.4 Right-of-use assets 99.2 98.0 Long-term advances to suppliers 50.1 8.7 Cloud computing assets, net 13.5 17.6 Other 62.3 11.6 Other assets $866.9 $303.3

@@ -1,0 +1,20 @@
+FIRM         : FLEX (CIK 0000866374) | FY2020
+FILE         : 0000866374_FLEX_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF ACCOUNTING POLICIES Basis of Presentation and Principles of Consolidation
+ASSET CAT.   : Machinery and equipment, Furniture, computer equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciable Life (In Years) As of March 31, 2021 2020 (In millions) Machinery and equipment 2 - 10 $ 3,381 $ 3,265 Buildings 30 1,103 1,086 Leasehold improvements up to 30 500 510 Furniture, fixtures, computer equipment and software 3 - 7 491 492 Land — 113 112 Construction-in-progress — 255 271 5,843 5,736 Accumulated depreciation and amortization (3,746) (3,520) Property and equipment, net $ 2,097 $ 2,216
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

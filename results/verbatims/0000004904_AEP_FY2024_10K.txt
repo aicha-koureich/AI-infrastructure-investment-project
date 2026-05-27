@@ -1,0 +1,23 @@
+FIRM         : AEP (CIK 0000004904) | FY2024
+FILE         : 0000004904_AEP_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Electric utility property, plant and equipment for rate-regulated operations are stated at original cost. Additions, major replacements and betterments are added to the plant accounts. Under the group composite method of depreciation, continuous interim routine replacements of items such as boiler tubes, pumps, motors, etc. result in original cost retirements, less salvage, being charged to accumulated depreciation. The group composite method of depreciation assumes that on average, asset components are retired at the end of their useful lives and thus there is no gain or loss. The equipment in each primary electric plant account is identified as a separate group. The depreciation rates that are established take into account the past history of interim capital replacements and the amount of removal cost incurred and salvage received. These rates and the related lives are subject to periodic review. Removal costs accrued are typically recorded as regulatory liabilities when the revenue received for removal costs accrued exceeds actual removal costs incurred. The asset removal costs liability is relieved as removal costs are incurred. A regulatory asset balance will occur if actual removal costs incurred exceed accumulated removal costs accrued.
+
+[VERBATIM — Changement de politique]
+In November 2024, APCo and WPCo (the Companies) filed a request with the WVPSC for a net $251 million annual increase in base rates based upon a proposed 10.8% ROE and a proposed capital structure of 52% debt and 48% common equity. The requested net annual increase in base rates excludes the Companies’ proposed $94 million annual Modified Rate Base Cost (MRBC) surcharge update proposed to be effective in a separate proceeding and the existing $21 million annual Mitchell Base Rate Surcharge that are both proposed to be rolled into base rates upon the Companies’ anticipated 2025 change in base rates. The Companies’ proposed base rate increase includes recovery of approximately $118 million in previously deferred major storm expense over a three-year period, capital structure changes including an increase in ROE, an increase in depreciation expense related to proposed changes in depreciation rates and increased capital investments and increases in distribution and generation operation and maintenance expenses.
+
+[VERBATIM — Infrastructure IA]
+In November 2024, AEP executed a purchase agreement to acquire 100 MWs of solid oxide fuel cells with an option to acquire up to one gigawatt in total by the end of 2025. AEP, through its utility subsidiaries, is offering data centers and other large customers this custom solution to support their growing energy needs while grid infrastructure enhancements are completed to accommodate demand. Through the date of this filing OPCo has signed multiple contracts for electricity service from fuel cells with customers and is filing those contracts with the PUCO for approval. See “AEP Development Services (Applies to OPCo)” section of Note 18 for additional information.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

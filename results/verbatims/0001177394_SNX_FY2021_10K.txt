@@ -1,0 +1,20 @@
+FIRM         : SNX (CIK 0001177394) | FY2021
+FILE         : 0001177394_SNX_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-11
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 8
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment, net: As of November 30, 2021 2020 Land $ 28,409 $ 18,400 Equipment, computers and software 406,972 143,791 Furniture and fixtures 53,766 30,355 Buildings, building improvements and leasehold improvements 218,284 147,830 Construction-in-progress 1,045 1,732 Total property and equipment, gross $ 708,476 342,108 Less: Accumulated depreciation and amortization (225,033 ) (184,464 ) Property and equipment, net $ 483,443 $ 157,645
+
+[VERBATIM — Infrastructure IA]
+We distribute peripherals, information technology (“IT”) systems including data center server and storage solutions, system components, software, networking, communications and security equipment, consumer electronics and complementary products. We also provide systems design and integration solutions.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

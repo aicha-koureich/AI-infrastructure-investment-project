@@ -1,0 +1,23 @@
+FIRM         : ZTS (CIK 0001555280) | FY2014
+FILE         : 0001555280_ZTS_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 4. Significant Accounting Policies
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense for capitalized software was $
+
+[VERBATIM — Changement de politique]
+For 2014, certain significant items primarily includes: (i) Zoetis stand-up costs of $ 168 million ; (ii) charges related to a commercial settlement in Mexico of $13 million , partially offset by the insurance recovery of $1 million ; (iii) restructuring charges of $ 12 million related to employee termination costs in EuAfME and $6 million related to employee termination costs in our global manufacturing operations, partially offset by a $2 million benefit related to the reversal of a previously established reserve as a result of a change in estimate of employee termination costs; (iv) intangible asset impairment charges related to an IPR&D project acquired with the FDAH acquisition in 2009 of $ 6 million ; (v) costs of $5 million due to unusual investor-related activities; (vi) the Zoetis portion of a net gain on the sale of land by our Taiwan joint venture of $ 3 million income, and the net gain on the government-mandated sale of certain product rights in Argentina that were acquired with the FDAH acquisition in 2009 of $2 million income; (vii) additional depreciation associated with asset restructuring of $ 1 million ; (viii) a pension plan settlement charge related to a divestiture of a manufacturing plant of $4 million ; and (ix) an insurance recovery of other litigation related charges of $ 2 million income. Stand-up costs include certain nonrecurring costs related to becoming an independent public company, such as new branding (including changes to the manufacturing process for required new packaging), the creation of standalone systems and infrastructure, site separation, accelerated vesting and associated cash payment related to certain Pfizer equity awards, and certain legal registration and patent assignment costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

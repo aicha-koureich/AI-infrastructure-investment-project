@@ -1,0 +1,21 @@
+FIRM         : BRKR (CIK 0001109354) | FY2024
+FILE         : 0001109354_BRKR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-01
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 18. Property, Plant and Equipment, Net The following is a summary of property, plant and equipment, net by major asset class (in millions): 2024 2023 
+ASSET CAT.   : Equipment, Machinery, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment, Net The following is a summary of property, plant and equipment, net by major asset class (in millions): 2024 2023 Land $ 47.5 $ 38.9 Building and leasehold improvements 540.7 498.1 Machinery, equipment, software and furniture and fixtures 640.1 586.9 1,228.3 1,123.9 Less accumulated depreciation and amortization ( 559.0 ) ( 524.2 ) Property, plant and equipment, net $ 669.3 $ 599.7
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

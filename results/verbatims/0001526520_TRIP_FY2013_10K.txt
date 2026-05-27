@@ -1,0 +1,22 @@
+FIRM         : TRIP (CIK 0001526520) | FY2013
+FILE         : 0001526520_TRIP_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : computer equipment and purchased software, capitalized software and website development and furniture and other equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We compute depreciation using the straight-line method over the estimated useful lives of the assets, which is three to five
+years for computer equipment and purchased software, capitalized software and website development and furniture and other equipment.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue consists of expenses that are closely correlated or directly related to revenue generation, including ad serving fees,
+flight search fees, credit card fees and data center costs.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

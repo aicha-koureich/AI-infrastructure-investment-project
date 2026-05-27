@@ -1,0 +1,21 @@
+FIRM         : SABR (CIK 0001597033) | FY2023
+FILE         : 0001597033_SABR_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Business and Significant Accounting Policies
+ASSET CAT.   : Furniture and fixtures, Equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Buildings Lesser of lease term or 35 years Leasehold improvements Lesser of lease term or useful life Furniture and fixtures 5 to 15 years Equipment, general office and computer 3 to 5 years Software developed for internal use 3 to 5 years
+
+[VERBATIM — Infrastructure IA]
+Hospitality Solutions— Technology costs increased $26 million, or 28%, for the year ended December 31, 2022 compared to the prior year due to a $16 million increase in technology costs to support our technology transformation initiatives, including the migration of SynXis to the cloud, and a $14 million increase in labor and professional services costs. These increases were partially offset by a $3 million decrease in depreciation and amortization primarily driven by a change in the mix of our technology spend beginning in 2019 resulting in less capitalized internal use softw are. The migration to the cloud for SynXis is expected to result in higher cloud-based transaction costs for Hospitality Solutions whereas historically it incurred data center operating costs and incurred hardware and infrastructure costs, which were capitalized, and became fully depreciated in prior periods.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

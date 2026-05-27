@@ -1,0 +1,21 @@
+FIRM         : SO (CIK 0000092122) | FY2020
+FILE         : 0000092122_SO_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. REGULATORY MATTERS
+ASSET CAT.   : Alabama Power
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : B100;B200;Blackwell (3 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 4.0 ans
+
+[VERBATIM — Durée de vie]
+(o) Except as otherwise noted, comprised of numerous immaterial components with remaining amortization periods generally not exceeding 23 years for Alabama Power, three years for Georgia Power, four years for Mississippi Power, and 20 years for Southern Company Gas at December 31, 2020. Balances at December 31, 2020 include deferred COVID-19 costs (except for Alabama Power), as discussed further under "Deferral of Incremental COVID-19 Costs" for each applicable Registrant herein. Balances for Georgia Power also include certain operations and maintenance costs associated with software and cloud computing projects for which the recovery period will be determined in its next base rate case.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+(o) Except as otherwise noted, comprised of numerous immaterial components with remaining amortization periods generally not exceeding 23 years for Alabama Power, three years for Georgia Power, four years for Mississippi Power, and 20 years for Southern Company Gas at December 31, 2020. Balances at December 31, 2020 include deferred COVID-19 costs (except for Alabama Power), as discussed further under "Deferral of Incremental COVID-19 Costs" for each applicable Registrant herein. Balances for Georgia Power also include certain operations and maintenance costs associated with software and cloud computing projects for which the recovery period will be determined in its next base rate case. ||| Except as otherwise noted, comprised of numerous immaterial components with remaining amortization periods generally not exceeding 23 years for Alabama Power, three years for Georgia Power, four years for Mississippi Power, and 20 years for Southern Company Gas at December 31, 2020. Balances at December 31, 2020 include deferred COVID-19 costs (except for Alabama Power), as discussed further under "Deferral of Incremental COVID-19 Costs" for each applicable Registrant herein. Balances for Georgia Power also include certain operations and maintenance costs associated with software and cloud computing projects for which the recovery period will be determined in its next base rate case.

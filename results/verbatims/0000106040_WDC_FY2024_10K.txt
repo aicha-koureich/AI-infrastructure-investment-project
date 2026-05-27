@@ -1,0 +1,20 @@
+FIRM         : WDC (CIK 0000106040) | FY2024
+FILE         : 0000106040_WDC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-07-26
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Organization and Basis of Presentation
+ASSET CAT.   : equipment, machinery and equipment, furniture and fixtures
+DURÉE        : 2.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment are carried at cost less accumulated depreciation and amortization. The cost of property, plant and equipment is depreciated over the estimated useful lives of the respective assets. The majority of the Company’s machinery and equipment, software, and furniture and fixtures, are depreciated on a straight-line basis over a period of two to seven years.
+
+[VERBATIM — Infrastructure IA]
+The Company leases certain domestic and international facilities and data center space under long-term, non-cancelable operating leases that expire at various dates through 2039. These leases include no material variable or contingent lease payments. Operating lease assets and liabilities are recognized based on the present value of the remaining lease payments discounted using the Company’s incremental borrowing rate. Operating lease assets also include prepaid lease payments minus any lease incentives. Extension or termination options present in the Company’s lease agreements are included in determining the right-of-use asset and lease liability when it is reasonably certain the Company will exercise that option. Lease expense is recognized on a straight-line basis over the lease term.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The increase in computing complexity and advancements in artificial intelligence (“AI”), along with growth in cloud computing applications, connected mobile devices and Internet-connected products and edge devices is driving unabated growth in the volume of digital content to be stored and used. This growth has led to the creation of new form factors for data storage. The storage industry is increasingly utilizing tiered architectures with solid state drives (“SSD”), HDD and other non-volatile memory-based storage to address an expanding set of uses and applications. We believe our expertise and innovation across both HDD and Flash technologies enable us to bring powerful solutions to a broad range of applications. We continuously monitor the full array of storage technologies, including reviewing these technologies with our customers, to ensure we are appropriately resourced to meet our customers’ storage needs.

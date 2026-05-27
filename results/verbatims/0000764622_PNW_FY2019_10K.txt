@@ -1,0 +1,20 @@
+FIRM         : PNW (CIK 0000764622) | FY2019
+FILE         : 0000764622_PNW_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 21. Changes in Accumulated Other Comprehensive Loss
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Palo Verde sale leaseback property, plant and equipment, net of accumulated depreciation
+
+[VERBATIM — Infrastructure IA]
+Retail electricity sales in kWh, adjusted to exclude the effects of weather variations, increased 0.6% for the year ended December 31, 2019 compared with the prior year. Steady economic growth and customer growth were offset by energy savings driven by customer conservation, energy efficiency, and distributed renewable generation initiatives. For the three years 2017 through 2019, annual retail electricity sales were about flat, adjusted to exclude the effects of weather variations. We currently project that annual retail electricity sales in kWh will increase in the range of 1.0 - 2.0% for 2020 and increase on average in the range of 1.0 - 2.0% during 2020 through 2022, including the effects of customer conservation and energy efficiency and distributed renewable generation initiatives, but excluding the effects of weather variations and excluding the impacts of several new large data centers opening operations in Metro Phoenix. The impact of new large data centers could raise the range of expected sales annual growth rate over the 2020 to 2022 period, but demand from these customers remains uncertain at this point. Slower than expected growth of the Arizona economy or acceleration of the expected effects of customer conservation, energy efficiency or distributed renewable generation initiatives could further impact these estimates.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+On January 1, 2019, we adopted new lease accounting guidance, ASU 2016-02, and related amendments. On July 1, 2019, we early adopted ASU 2018-15, relating to accounting for cloud computing implementation costs. On January 1, 2020, we adopted ASU 2016-13 and related amendments, relating to the measurement of credit losses on financial instruments. See Note 3 for additional information related to new accounting standards.

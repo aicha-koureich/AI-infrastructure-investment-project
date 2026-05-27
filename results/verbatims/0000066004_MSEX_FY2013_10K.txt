@@ -1,0 +1,23 @@
+FIRM         : MSEX (CIK 0000066004) | FY2013
+FILE         : 0000066004_MSEX_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Organization, Summary of Significant Accounting
+Policies and Recent Developments
+ASSET CAT.   : furniture and fixtures, equipment
+DURÉE        : 3.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Non-regulated fixed assets consist primarily
+of office buildings, furniture and fixtures, and transportation equipment. These assets are recorded at original cost and depreciation
+is calculated based on the estimated useful lives, ranging from 3 to 40 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : CNX (CIK 0001070412) | FY2015
+FILE         : 0001070412_CNX_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1—SIGNIFICANT ACCOUNTING POLICIES:
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Coal inventory costs include labor, supplies, equipment costs, operating overhead, depreciation, depletion, amortization, and other related costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

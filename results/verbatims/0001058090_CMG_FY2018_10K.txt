@@ -1,0 +1,21 @@
+FIRM         : CMG (CIK 0001058090) | FY2018
+FILE         : 0001058090_CMG_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Leasehold improvements, property and equipment are recorded at cost. Internal costs directly associated with the acquisition, development and construction of a restaurant are capitalized and were $ 6,285 and $ 7,507 as of December 31, 2018 and 2017, respectively. Expenditures for major renewals and improvements are capitalized while expenditures for minor replacements, maintenance and repairs are expensed as incurred. Depreciation is calculated using the straight-line method over the estimated useful lives of the assets. Leasehold improvements are amortized over the shorter of the lease term, which generally include option periods that are reasonably assured, or the estimated useful lives of the assets. Upon retirement or disposal of assets, the accounts are relieved of cost and accumulated depreciation and any related gain or loss is reflected in loss on disposal and impairment of assets in the consolidated statement of income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) No. 2018-15, “Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40)”: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract, which clarifies the accounting for implementation costs in cloud computing arrangements. ASU 2018-15 is effective for us in the first quarter of fiscal 2020, and early adoption is permitted. The adoption of ASU 2018-15 is still being evaluated on our consolidated financial statements.

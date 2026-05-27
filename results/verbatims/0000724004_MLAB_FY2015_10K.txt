@@ -1,0 +1,20 @@
+FIRM         : MLAB (CIK 0000724004) | FY2015
+FILE         : 0000724004_MLAB_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 17 . Subsequent Events
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Year E nded March 31, 2016 2015 201 4 Cash flows from operating activities: Net income $ 11,169 $ 9,583 $ 9,000 Depreciation and amortization 7,174 5,656 3,844 Loss (gain) on dispositions, net -- 16 (420 ) Deferred income taxes (807 ) 450 (43 ) Stock-based compensation 1,327 993 840 Foreign currency adjustments 53 (176 ) -- Change in assets and liabilities, net of effects of acquisitions and dispositions Accounts receivable, net (1,958 ) (2,291 ) 697 Inventories, net (1,202 ) (3,164 ) (1,300 ) Prepaid expenses and other 391 772 (1,479 ) Accounts payable (150 ) 410 754 Accrued liabilities and taxes payable 2,865 (861 ) 1,192 Unearned revenues 99 (572 ) 308 Contingent consideration (2,058 ) -- (1,020 ) Net cash provided by operating activities 16,903 10,816 12,373 Cash flows from investing activities: Acquisitions (24,111 ) (20,543 ) (22,758 ) Proceeds from disposition -- -- 661 Purchases of property, plant and equipment (7,729 ) (2,828 ) (1,041 ) Net cash used in investing activities (31,840 ) (23,371 ) (23,138 ) Cash flow from financing activities: Proceeds from the issuance of debt 25,000 23,000 21,000 Payments on debt (6,000 ) (13,250 ) (8,500 ) Dividends (2,303 ) (2,182 ) (1,989 ) Proceeds from the exercise of stock options 1,923 1,504 1,845 Purchase and retirement of common stock -- -- (22 ) Net cash provided by financing activities 18,620 9,072 12,334 Effect of exchange rate changes on cash and cash equivalents (22 ) (58 ) -- Net increase (decrease) in cash and cash equivalents 3,661 (3,541 ) 1,569 Cash and cash equivalents at beginning of year 2,034 5,575 4,006 Cash and cash equivalents at end of year $ 5,695 $ 2,034 $ 5,575 Cash paid during the year for: Income taxes $ 3,951 $ 3,345 $ 4,714 Interest 848 499 133 Supplemental non-cash activity: Repayment of employee loans for stock options $ -- $ 24 $ 92 Contingent consideration as part of an acquisition 9,271 412 500
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

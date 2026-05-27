@@ -1,0 +1,24 @@
+FIRM         : PWR (CIK 0001050915) | FY2015
+FILE         : 0001050915_PWR_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued an update that provides guidance to customers about whether a cloud computing arrangement includes a software
+license. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement
+does not include a software license, the customer should account for the arrangement as a service contract. The standard is effective for interim and annual reporting periods beginning after December 15, 2015. An entity can elect to adopt the
+amendments either prospectively to all arrangements entered into or materially modified after the effective date or retrospectively. The adoption of the update is not expected to have a significant impact on our consolidated financial
+statements or related disclosures. We will adopt this guidance effective January 1, 2016.

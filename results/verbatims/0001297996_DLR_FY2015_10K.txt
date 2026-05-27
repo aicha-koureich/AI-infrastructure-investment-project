@@ -1,0 +1,21 @@
+FIRM         : DLR (CIK 0001297996) | FY2015
+FILE         : 0001297996_DLR_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 20. Subsequent Events
+ASSET CAT.   : Technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 7.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+As of December 31, 2015 (in thousands) Property Type Land Acquired Ground Lease Building and Improvements (1) Tenant Improvements Accumulated Depreciation and Amortization Net Investment in Properties Internet Gateway Data Centers $ 109,389 $ — $ 1,441,749 $ 95,185 $ (608,153 ) $ 1,038,170 Corporate Data Centers 551,372 11,317 8,055,059 433,682 (1,586,509 ) 7,464,921 Technology Manufacturing 20,199 1,322 56,254 6,333 (22,677 ) 61,431 Technology Office 5,368 — 43,154 1,459 (18,564 ) 31,417 Other 3,245 — 80,211 75 (15,365 ) 68,166 $ 689,573 $ 12,639 $ 9,676,427 $ 536,734 $ (2,251,268 ) $ 8,664,105
+
+[VERBATIM — Infrastructure IA]
+Internet Gateway Data Centers  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

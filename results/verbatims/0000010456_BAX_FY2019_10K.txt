@@ -1,0 +1,21 @@
+FIRM         : BAX (CIK 0000010456) | FY2019
+FILE         : 0000010456_BAX_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-31
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: NOTE 1
+ASSET CAT.   : buildings and improvements and from 3 to 15 years for machinery and equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation expense is calculated using the straight-line method over the estimated useful lives of the related assets, which range from 20 to 50 years for buildings and improvements and from three to 15 years for machinery and equipment. Capitalized software costs are included within machinery and equipment and are amortized on a straight-line basis over the estimated useful lives of the software, which generally range from three to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

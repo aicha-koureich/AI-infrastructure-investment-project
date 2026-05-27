@@ -1,0 +1,20 @@
+FIRM         : WBS (CIK 0000801337) | FY2018
+FILE         : 0000801337_WBS_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 6: Premises and Equipment
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+At December 31, (In thousands) 2018 2017 Land $ 10,997 $ 11,302 Buildings and improvements 79,619 80,646 Leasehold improvements 77,669 82,067 Fixtures and equipment 75,219 76,665 Data processing and software 252,723 234,667 Total premises and equipment 496,227 485,347 Less: Accumulated depreciation and amortization (371,377 ) (355,346 ) Premises and equipment, net $ 124,850 $ 130,001
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) - Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

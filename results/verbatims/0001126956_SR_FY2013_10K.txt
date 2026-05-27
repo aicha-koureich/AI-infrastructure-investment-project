@@ -1,0 +1,20 @@
+FIRM         : SR (CIK 0001126956) | FY2013
+FILE         : 0001126956_SR_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 15
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+When the Utility retires depreciable utility plant and equipment, it charges the associated original costs to accumulated depreciation and amortization, and any related removal costs incurred are charged to regulatory liabilities.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : PNW (CIK 0000764622) | FY2018
+FILE         : 0000764622_PNW_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 21. Changes in Accumulated Other Comprehensive Loss
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Palo Verde sale leaseback property, plant and equipment, net of accumulated depreciation
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15: Internal-Use Software: Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract

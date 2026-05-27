@@ -1,0 +1,20 @@
+FIRM         : ACIC (CIK 0001401521) | FY2019
+FILE         : 0001401521_ACIC_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 2(r)
+ASSET CAT.   : Computer hardware, furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Year Ended December 31, 2019 2018 Land $ 2,114 $ 2,114 Building and building improvements (construction in progress of $2,180 for 2019) 11,315 6,651 Computer hardware and software (software in progress of $6,317 and $1,348, respectively) 33,219 17,932 Office furniture and equipment 3,260 2,800 Leasehold improvements 20 20 Leased vehicles (1) 1,693 568 Total, at cost 51,621 30,085 Less: accumulated depreciation and amortization (18,893 ) (12,948 ) Property and equipment, net $ 32,728 $ 17,137
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,22 @@
+FIRM         : JYNT (CIK 0001612630) | FY2017
+FILE         : 0001612630_JYNT_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 4: Property and Equipment Property and equipment consist of the following: December 31, 2017 December 31, 2016 Office and computer equipment $ 1,
+ASSET CAT.   : Equipment, computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Note 4: Property and Equipment Property and equipment consist of the following: December 31, 2017 December 31, 2016 Office and computer equipment $ 1,137,970 $ 1,083,039 Leasehold improvements 5,117,379 5,085,366 Software developed 1,066,454 891,192 7,321,803 7,059,597 Accumulated depreciation (3,928,349 ) (2,566,172 ) 3,393,454 4,493,425 Construction in progress 407,012 231,281 $ 3,800,466 $ 4,724,706 Depreciation expense was $1,438,443 and $1,818,403
+for the years ended December 31, 2017 and 2016, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

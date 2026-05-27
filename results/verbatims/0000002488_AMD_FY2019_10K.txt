@@ -1,0 +1,20 @@
+FIRM         : AMD (CIK 0000002488) | FY2019
+FILE         : 0000002488_AMD_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 28, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : 2.0-6.0 ans
+POLICY CHANGE: No
+HARDWARE     : AMD_EPYC;AMD_Instinct;AMD_Radeon;AMD_Ryzen;B100;NVIDIA (6 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated useful lives are as follows: equipment uses two to six years , and leasehold improvements are measured by the shorter of the remaining terms of the leases or the estimated useful economic lives of the improvements.
+
+[VERBATIM — Infrastructure IA]
+The Company’s microprocessors (CPUs), chipsets, graphics processing unites (GPUs), data center and professional graphics products, accelerated processing units (APUs), server and embedded processors, and System-on-Chip (SoC) products may be sold as standard non-custom products, or custom products manufactured to customers’ specifications. The Company also provides development services and licenses portions of its intellectual property (IP) portfolio.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

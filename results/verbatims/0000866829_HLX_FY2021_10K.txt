@@ -1,0 +1,23 @@
+FIRM         : HLX (CIK 0000866829) | FY2021
+FILE         : 0000866829_HLX_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 — Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment is recorded at historical cost, net of accumulated depreciation. Property and equipment is depreciated on a straight-line basis over its estimated useful life.
+
+[VERBATIM — Changement de politique]
+Our Well Intervention segment provides services enabling our customers to safely access offshore wells for the purpose of performing production enhancement or decommissioning operations, thereby avoiding drilling new wells by extending the useful lives of existing wells and preserving the environment by preventing uncontrolled releases of oil and gas. Our well intervention vessels include the Q4000 , the Q5000 , the Q7000 , the Seawell , the Well Enhancer , and two chartered monohull vessels, the Siem Helix 1 and the Siem Helix 2 . Our well intervention equipment includes intervention systems, some of which we provide on a stand-alone basis.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : CVS (CIK 0000064803) | FY2019
+FILE         : 0000064803_CVS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4 ‘‘Fair Value’’
+ASSET CAT.   : buildings, building improvements and leasehold improvements
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment is reported at historical cost, net of accumulated depreciation. Property, equipment and improvements to leased premises are depreciated using the straight-line method over the estimated useful lives of the assets, or when applicable, the term of the lease, whichever is shorter. Estimated useful lives generally range from 1 to 40 years for buildings, building improvements and leasehold improvements and 3 to 10 years for fixtures, equipment and internally developed software. Application development stage costs for significant internally developed software projects are capitalized and depreciated.
+
+[VERBATIM — Changement de politique]
+Additional depreciation expense related to the adjustment of Aetna’s property and equipment to fair value;
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract ||| In August 2018, the FASB issued ASU 2018-15, Intangibles - Goodwill and other - Internal-Use Software (Topic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract. This standard requires a customer in a cloud computing arrangement that is a service contract to follow the internal-use software guidance in Topic 350-40 to determine which implementation costs to capitalize as assets. The Company adopted this new ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract.

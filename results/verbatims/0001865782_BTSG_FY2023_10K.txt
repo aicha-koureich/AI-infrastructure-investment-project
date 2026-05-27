@@ -1,0 +1,21 @@
+FIRM         : BTSG (CIK 0001865782) | FY2023
+FILE         : 0001865782_BTSG_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment and software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-15.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is recorded using the straight-line method over the estimated useful lives of the assets (generally three to ten years for equipment and software and twenty years for buildings).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

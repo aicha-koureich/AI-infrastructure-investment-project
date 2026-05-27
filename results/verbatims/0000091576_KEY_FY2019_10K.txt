@@ -1,0 +1,20 @@
+FIRM         : KEY (CIK 0000091576) | FY2019
+FILE         : 0000091576_KEY_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 27. Revenue from Contracts with Customers
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The ASU amends ASC Topic 350-40 to align the accounting for costs incurred in a cloud computing arrangement with the guidance on developing internal use software. Specifically, if a cloud computing arrangement is deemed to be a service contract, certain implementation costs are eligible for capitalization. The new guidance prescribes the balance sheet and income statement presentation and cash flow classification for the capitalized costs and related amortization expense. It also requires additional quantitative and qualitative disclosures. The guidance may be adopted prospectively or retrospectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract ||| The ASU amends ASC Topic 350-40 to align the accounting for costs incurred in a cloud computing arrangement with the guidance on developing internal use software. Specifically, if a cloud computing arrangement is deemed to be a service contract, certain implementation costs are eligible for capitalization. The new guidance prescribes the balance sheet and income statement presentation and cash flow classification for the capitalized costs and related amortization expense. It also requires additional quantitative and qualitative disclosures. The guidance may be adopted prospectively or retrospectively. ||| The ASU amends ASC Topic 350-40 to align the accounting for costs incurred in a cloud computing

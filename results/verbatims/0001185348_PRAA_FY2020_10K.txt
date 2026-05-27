@@ -1,0 +1,21 @@
+FIRM         : PRAA (CIK 0001185348) | FY2020
+FILE         : 0001185348_PRAA_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. General and Summary of Significant Accounting Policies:
+ASSET CAT.   : equipment, computer equipment, Furniture and fixtures
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 5.0-7.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment: Property and equipment, including improvements that significantly add to the productive capacity or extend useful life, are recorded at cost. Property and equipment are depreciated over their useful lives using the straight-line method of depreciation. Software and computer equipment are generally amortized or depreciated over three to five years. Equipment is depreciated over five to seven years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

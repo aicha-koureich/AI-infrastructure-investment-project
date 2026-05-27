@@ -1,0 +1,20 @@
+FIRM         : OMCL (CIK 0000926326) | FY2022
+FILE         : 0000926326_OMCL_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Certain building lease agreements include rental payments subject to change annually based on fluctuations in various indexes (i.e ., Consumer Price Index (“CPI”), Retail Price Index, and other international indexes). Certain data center lease agreements include rental payments subject to change based on usage and CPI fluctuations. The changes based on usage and indexes are treated as variable lease costs and recognized in the period in which the obligation for those payments was incurred.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

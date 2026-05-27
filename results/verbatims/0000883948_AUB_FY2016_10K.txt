@@ -1,0 +1,20 @@
+FIRM         : AUB (CIK 0000883948) | FY2016
+FILE         : 0000883948_AUB_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 19. PARENT COMPANY FINANCIAL INFORMATION
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2016 2015 2014 Operating activities: Net income $ 77,476 $ 67,079 $ 52,164 Adjustments to reconcile net income to net cash provided by operating activities: Equity in distributed (undistributed) net income of subsidiaries (31,984 ) (20,800 ) 15,909 Depreciation of premises and equipment 438 435 464 Acquisition accounting amortization, net 247 235 224 Issuance of common stock grants for services 533 564 713 Net (increase) decrease in other assets (2,402 ) 902 2,964 Net (decrease) increase in other liabilities 5,533 6,124 (7,286 ) Net cash and cash equivalents provided by operating activities 49,841 54,539 65,152 Investing activities: Net decrease (increase) in premises and equipment (33 ) (35 ) 863 Payments for equity method investment — (355 ) (60 ) Payments for investments in and advances to subsidiaries (125,000 ) — — Repayment of investments in and advances to subsidiaries 540 — — Cash received in acquisitions — — 4,735 Net cash and cash equivalents provided by (used in) investing activities (124,493 ) (390 ) 5,538 Financing activities: Advances (repayments) of short-term borrowings — (8,000 ) 8,000 Repayments of long-term borrowings (7,500 ) (625 ) (625 ) Proceeds from issuance of long-term borrowings 148,000 — — Cash dividends paid (33,672 ) (29,082 ) (25,494 ) Net Issuance (repurchase) of common stock (31,881 ) (15,748 ) (52,971 ) Net cash and cash equivalents provided by (used in) financing activities 74,947 (53,455 ) (71,090 ) Net increase (decrease) in cash and cash equivalents 295 694 (400 ) Cash and cash equivalents at beginning of the period 10,386 9,692 10,092 Cash and cash equivalents at end of the period $ 10,681 $ 10,386 $ 9,692 Supplemental schedule of noncash investing and financing activities Issuance of common stock in exchange for net assets in acquisition $ — $ — $ 549,523 Transactions related to bank acquisition Assets acquired — — 2,957,521 Liabilities assumed — — 2,642,120
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

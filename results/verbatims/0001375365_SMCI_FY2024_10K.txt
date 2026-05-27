@@ -1,0 +1,20 @@
+FIRM         : SMCI (CIK 0001375365) | FY2024
+FILE         : 0001375365_SMCI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-20
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;AMD_EPYC;B200;Blackwell;GB200;H100;Hopper;Intel_Xeon;NVIDIA (9 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are amortized using the straight-line amortization method over the estimated useful life of the applicable software.
+
+[VERBATIM — Infrastructure IA]
+In June 2024, the Company entered into a lease agreement for a 21 megawatt data center co-location space located in Vernon, California (the “Data Center Space”) that will expire on August 31, 2035. As this lease has not yet commenced, it is not reflected in the Consolidated Balance Sheets or in the table above. Concurrently, the Company sublicensed this space to an unrelated party (the “Sublicensee”) for the same term expiring on August 31, 2035, which also has not yet commenced. Pursuant to the sublicense, the Company will sublicense the Data Center Space lease to the Sublicensee, and the Sublicensee will assume all rights and obligations with respect to the Data Center Space lease. The Company expects to account for the lease as an operating lease and the sublicense as a sublease under ASC 842. The future undiscounted fixed non-cancelable payment obligation pertaining to the data center lease is approximately $411.8 million and future minimum sublicense receipts are approximately $436.5 million.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The increased use of AI, which has required increased datacenter capabilities, has substantially increased demand for our products in the recent past. We expect that the AI market, and thus the need for additional datacenter capabilities and liquid cooling, will continue to strengthen, and we will continue to enhance our product capabilities and breadth of our service offerings to meet the demand of the AI market and datacenters. We believe that time to market, quality and optimized design of our AI products meet the unique needs of the AI market, which differentiates us from many of our competitors and will lead us to secure an even greater market share going forward.

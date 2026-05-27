@@ -1,0 +1,20 @@
+FIRM         : INTC (CIK 0000050863) | FY2015
+FILE         : 0000050863_INTC_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 26, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2: Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Intel_Xeon;NVIDIA (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+the determination of useful lives for our property, plant and equipment and the related timing of when depreciation should begin;
+
+[VERBATIM — Infrastructure IA]
+of which was allocated to goodwill and acquisition-related developed technology intangible assets. The operating results of the Axxia business are included in our Data Center Group (DCG) operating segment.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Our DCG platform revenue increased primarily due to growth in the Internet cloud computing market segment. To a lesser extent, growth in the communications infrastructure market segment also contributed to the increase. The following results drove the change in DCG revenue in

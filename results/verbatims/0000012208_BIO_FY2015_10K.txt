@@ -1,0 +1,21 @@
+FIRM         : BIO (CIK 0000012208) | FY2015
+FILE         : 0000012208_BIO_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, which is amortized over a
+DURÉE        : 1.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 3.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+With the exception of reagent rental equipment, which is amortized over a 1 - 5 year period, equipment and capitalized software is depreciated over 3 - 12 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

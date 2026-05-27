@@ -1,0 +1,24 @@
+FIRM         : PLTR (CIK 0001321655) | FY2020
+FILE         : 0001321655_PLTR_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 15. Segment and Geographic Information
+ASSET CAT.   : Equipment, Computer equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Balance Sheet Components Property and Equipment, Net Property and equipment, net consisted of the following (in thousands): As of December 31, 2020 2019 Leasehold improvements $ 85,196 $ 93,530 Computer equipment, software, and other 22,275 32,757 Furniture and fixtures 9,976 10,753 Construction in progress 493 3,161 Total property and equipment, gross 117,940 140,201 Less: accumulated depreciation and amortization (88,399) (108,612) Total property and equipment, net $ 29,541 $ 31,589 Depreciation and amortization expense related to property and equipment, net was $13.9 million,
+$12.2 million, and $13.8 million for the years ended December 31, 2020, 2019, and 2018, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Our Palantir
+Cloud subscriptions grant customers the right to access the software functionality in a hosted environment controlled by Palantir and are also sold together with stand-ready O&M services. We promise to provide continuous access to the hosted
+software throughout the contract term. Revenue associated with Palantir Cloud subscriptions is recognized over the contract term on a ratable basis, which is consistent with the transfer of control of the Palantir Cloud services to the customer.

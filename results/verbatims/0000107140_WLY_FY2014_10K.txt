@@ -1,0 +1,21 @@
+FIRM         : WLY (CIK 0000107140) | FY2014
+FILE         : 0000107140_WLY_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : APRIL 30, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 - Summary of Significant Accounting Policies
+ASSET CAT.   : Technology, equipment, Furniture and Fixtures, Computer Hardware
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-6.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Technology, property and equipment is depreciated using the straight-line method based upon the following estimated useful lives: Buildings and Leasehold Improvements – the lesser of the estimated useful life of the asset up to 40 years or the duration of the lease; Furniture and Fixtures - 3 to 10 years; Computer Hardware and Software - 3 to 10 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU 2015-05 "Intangibles- Goodwill and Other- Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in Cloud Computing Arrangements" (“ASU 2015-05”). Cloud computing arrangements represent the delivery of hosted services over the internet which includes software, platforms, infrastructure and other hosting arrangements. The ASU provides criteria to determine whether the cloud computing arrangement includes a software license. If the criteria are met, the customer will capitalize the fee attributable to the software license portion of the arrangement as internal-use software. If the arrangement does not include a software license, it should be treated as a service contract and expensed as services are received. The standard is effective for the Company on May 1, 2016 with early adoption permitted. An entity can elect to adopt either prospectively for all arrangements entered into after the effective date or retrospectively. The Company is currently assessing whether the adoption of the guidance will have a significant impact on its consolidated financial statements.

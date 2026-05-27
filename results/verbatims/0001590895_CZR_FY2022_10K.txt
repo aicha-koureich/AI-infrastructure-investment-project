@@ -1,0 +1,23 @@
+FIRM         : CZR (CIK 0001590895) | FY2022
+FILE         : 0001590895_CZR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-06
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3. Acquisitions, Purchase Price Accounting and Pro forma Information
+ASSET CAT.   : furniture, computer equipment, computer software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The fair value of land was determined using the sales comparable approach. The market data is then adjusted for any significant differences, to the extent known, between the identified comparable sites and the site being valued. The value of building and site improvements was estimated via the income approach. Other personal property assets such as furniture, gaming and computer equipment, fixtures, computer software, and restaurant equipment were valued using the cost approach which is based on replacement or reproduction costs of the asset. The cost approach is an estimation of fair value developed by computing the current cost of replacing a property and subtracting any depreciation resulting from one or more of the following factors: physical deterioration, functional obsolescence, and/or economic obsolescence.
+
+[VERBATIM — Changement de politique]
+As a result of the increased ownership interest in Horseshoe Baltimore, the Company began to consolidate the aggregate principal amount of Horseshoe Baltimore’s senior secured term loan facility (the “Baltimore Term Loan”) and amount outstanding, if any, under Horseshoe Baltimore’s senior secured revolving credit facility (the “Baltimore Revolving Credit Facility”). The Baltimore Term Loan matures in July 2024 and is subject to a variable rate of interest calculated as LIBOR plus 4.00%. The Baltimore Revolving Credit Facility has borrowing capacity of up to $10 million, subject to a variable rate of interest calculated as Term SOFR plus 4.00% subject to one 0.25% step-down based on senior secured leverage ratio, the ratio of first lien senior secured net debt to adjusted earnings before interest, taxes, depreciation and amortization (“Adjusted EBITDA”). On June 24, 2022, the Company entered into an amendment related to the Baltimore Revolving Credit Facility to extend the maturity date to July 7, 2023. As of December 31, 2022, there was $10 million of available borrowing capacity under the Baltimore Revolving Credit Facility. On November 14, 2022, the Company made partial prepayment of $10 million of the outstanding principal balance of the Baltimore Term Loan.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

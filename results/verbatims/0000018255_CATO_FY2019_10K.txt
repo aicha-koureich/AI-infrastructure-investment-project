@@ -1,0 +1,23 @@
+FIRM         : CATO (CIK 0000018255) | FY2019
+FILE         : 0000018255_CATO_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 1, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 5. Accounts Receivable: Accounts receivable consist of the following (in thousands): February 1, 2020 February 2, 2019 Customer accounts — principally
+ASSET CAT.   : Equipment, Information technology equipment, technology
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment: Property and equipment consist of the following (in thousands): February 1, 2020 February 2, 2019 Land and improvements $ 13,548 $ 13,552 Buildings 35,814 35,773 Leasehold improvements 89,349 90,827 Fixtures and equipment 205,789 212,012 Information technology equipment and software 59,202 58,473 Construction in progress 2,334 - Total 406,036 410,637 Less accumulated depreciation 317,369 316,333 Property and equipment — net $ 88,667 $ 94,304 Construction in progress primarily represents costs related to new store development and investments in new technology. 7.
+
+[VERBATIM — Changement de politique]
+7,698,000 were incurred in fiscal 2019, fiscal 2018 and fiscal 2017, respectively. In addition, the Company regularly evaluates its other long-lived assets and may accelerate depreciation over the revised useful life if the asset is expected to be replaced or has limited future value. When assets are retired or otherwise disposed of, the cost and related accumulated depreciation or amortization are removed from the accounts, and any resulting gain or loss is reflected in income for that period. In 2019, the Company impaired the remaining book value related to an investment in a solar partnership.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

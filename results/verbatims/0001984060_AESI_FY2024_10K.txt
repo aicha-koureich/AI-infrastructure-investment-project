@@ -1,0 +1,20 @@
+FIRM         : AESI (CIK 0001984060) | FY2024
+FILE         : 0001984060_AESI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 6—Property, Plant and Equipment, Net Property, plant and equipment, net, consisted of the following (in thousands): December 31, 2024 December 31
+ASSET CAT.   : equipment, Furniture, office equipment, network equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, net, consisted of the following (in thousands): December 31, 2024 December 31, 2023 Plant facilities associated with productive, depletable properties $ 308,147 $ 243,618 Plant equipment 770,738 489,953 Land 8,402 3,197 Furniture and office equipment 2,587 2,362 Computer and network equipment 2,047 1,648 Buildings and leasehold improvements 46,738 32,558 Logistics equipment 94,946 48,139 Construction in progress 485,515 248,004 Property, plant and equipment 1,719,120 1,069,479 Less: Accumulated depreciation and depletion ( 232,874 ) ( 134,819 ) Property, plant and equipment, net $ 1,486,246 $ 934,660
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

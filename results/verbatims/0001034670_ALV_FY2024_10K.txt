@@ -1,0 +1,20 @@
+FIRM         : ALV (CIK 0001034670) | FY2024
+FILE         : 0001034670_ALV_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Tooling is generally agreed upon as a separate contract or a separate component of an engineering contract, as a pre-production project. Capitalization of tooling costs is made only when the specific criteria for capitalization of customer funded tooling in accordance with ASC 340-10 is met. As of December 31, 2024 and 2023 the Company had capitalized costs for customer owned tooling as prepaid expenses amounting to $ 74 million and $ 79 million, respectively. Tools own ed by the Company that fulfills the criteria for capitalization is reported as Property, Plant & Equipment (P,P&E). Depreciation on the Company’s own tooling is recognized in the Consolidated Statements of Income as Cost of sales.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

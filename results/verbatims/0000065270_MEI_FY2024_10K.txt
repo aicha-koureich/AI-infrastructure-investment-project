@@ -1,0 +1,20 @@
+FIRM         : MEI (CIK 0000065270) | FY2024
+FILE         : 0000065270_MEI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-07-09
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Industrial segment net sales increased $75.2 million, or 19.5%, to $460.1 million in fiscal 2024, compared to $384.9 million in fiscal 2023. The increase was primarily due to the acquisition of Nordic Lights, which contributed $85.1 million of net sales, and favorable foreign currency translation of $1.6 million, partially offset by lower customer cost recoveries from spot buys of materials and premium freight costs of $3.9 million. Excluding the impact of Nordic Lights, foreign currency translation and customer cost recoveries, net sales decreased $7.6 million, or 2.0%, primarily due to lower demand for power distribution products in the electric vehicle and data center markets and lower sales volumes of commercial vehicle lighting solutions products.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Our solutions are found in the end markets of transportation (including automotive, commercial vehicle, e-bike, aerospace, bus and rail), cloud computing infrastructure, construction equipment and consumer appliance. Our business is managed on a segment basis, with those segments being Automotive, Industrial, Interface and Medical. For more information regarding the business and products of these segments, see Item 1, “Business” of this Annual Report.

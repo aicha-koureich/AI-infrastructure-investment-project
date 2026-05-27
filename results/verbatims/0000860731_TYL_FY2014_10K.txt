@@ -1,0 +1,20 @@
+FIRM         : TYL (CIK 0000860731) | FY2014
+FILE         : 0000860731_TYL_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We also offer SaaS arrangements, which utilize the Tyler private cloud, for clients who do not wish to maintain, update and operate these systems or to make up-front capital expenditures to implement these advanced technologies. For these clients, we deliver our software using the SaaS model — the software and client data are hosted at our data centers or at third-party locations, and clients typically sign multi-year contracts for these subscription-based services.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

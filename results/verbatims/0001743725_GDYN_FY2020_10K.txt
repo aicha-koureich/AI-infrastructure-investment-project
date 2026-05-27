@@ -1,0 +1,22 @@
+FIRM         : GDYN (CIK 0001743725) | FY2020
+FILE         : 0001743725_GDYN_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 — Basis of presentation and summary of significant accounting policies
+ASSET CAT.   : equipment
+DURÉE        : 2.0-7.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost,
+less accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

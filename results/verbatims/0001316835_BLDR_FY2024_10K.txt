@@ -1,0 +1,20 @@
+FIRM         : BLDR (CIK 0001316835) | FY2024
+FILE         : 0001316835_BLDR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-03
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, computer software, information technology, furniture and fixtures
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Internal use computer software costs are included in information technology, furniture and fixtures, and generally depreciated using the straight-line method over the estimated useful lives of the assets, generally three years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| We assess cloud computing arrangements to determine whether the contract meets the definition of a service contract or conveys a software license. When cloud computing arrangements meet the definition of a service contract, we capitalize expenditures for implementation, set-up, and other upfront costs incurred. Once the implementation of a cloud computing arrangement is complete and ready for its intended use, the Company amortizes the costs over the expected term of the hosting arrangement using the straight-line method to the same income statement line as the associated cloud operating expenses. As of December 31, 2024 and 2023, we had capitalized costs, net of amortization, of $9.3 million and $1.3 million included in Other current assets, respectively. As of December 31, 2024, we had capitalized costs, net of amortization, of $52.7 million included in Other assets, net. We did not have any non-current amounts recorded related to these agreements as of December 31, 2023. Amortization expense for these costs was $1.3 million and $1.4 million for the years ended December 31, 2024 and 2023, respectively, and is included in Selling, general and administrative expenses within the Consolidated Statements of Operations. We did not have any amortization expense related to these costs during the year ended December 31, 2022 .

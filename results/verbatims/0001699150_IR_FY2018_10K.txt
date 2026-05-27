@@ -1,0 +1,20 @@
+FIRM         : IR (CIK 0001699150) | FY2018
+FILE         : 0001699150_IR_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1: Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation related to manufacturing equipment and facilities is included in cost of sales. Cost of sales for services includes the direct costs the Company incurs including direct labor, parts and other overhead costs including depreciation of equipment and facilities used to deliver repair, maintenance, and other field services activities to the Company’s customers.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

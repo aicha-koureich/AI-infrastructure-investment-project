@@ -1,0 +1,23 @@
+FIRM         : HTZ (CIK 0001657853) | FY2016
+FILE         : 0001657853_HTZ_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost and are depreciated utilizing the straight-line method over the estimated useful lives of the related assets.
+
+[VERBATIM — Changement de politique]
+auction, retail, dealer direct). Depreciation is recorded over the estimated holding period. Depreciation rates are reviewed on a quarterly basis based on management's ongoing assessment of present and estimated future market conditions, their effect on residual values at the time of disposal and the estimated holding periods. Market conditions for used vehicle sales can also be affected by external factors such as the economy, natural disasters, fuel prices, used vehicle supply levels and incentives offered by manufacturers of new vehicles. These key factors are considered when estimating future residual values and assessing depreciation rates. As a result of this ongoing assessment, the Company makes periodic adjustments to depreciation rates of revenue earning vehicles in response to changing market conditions. Upon disposal of revenue earning vehicles, depreciation expense is adjusted for the difference between the net proceeds received and the remaining net book value.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement ||| In April 2015, the FASB issued guidance for customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The Company adopted this guidance prospectively on January 1, 2016, in accordance with the effective date. Adoption of this new guidance did not impact the Company’s financial position, results of operations or cash flows.

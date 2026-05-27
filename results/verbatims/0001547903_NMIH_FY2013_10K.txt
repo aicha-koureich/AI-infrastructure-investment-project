@@ -1,0 +1,23 @@
+FIRM         : NMIH (CIK 0001547903) | FY2013
+FILE         : 0001547903_NMIH_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 15. Quarterly Financial Data (Unaudited)
+ASSET CAT.   : equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Software and equipment, net of accumulated amortization and depreciation, as of December 31, consist of the following:
+
+[VERBATIM — Changement de politique]
+Amortization of software and depreciation of equipment commences at the beginning of the month following the placement of the assets into use by us.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,24 @@
+FIRM         : SCSC (CIK 0000918965) | FY2016
+FILE         : 0000918965_SCSC_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : furniture, equipment and computer software
+DURÉE        : 40.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is computed using the straight-line method over estimated useful lives of 3 to 10 years for furniture, equipment and computer software, 40 years for buildings and 15 years for building improvements.
+
+[VERBATIM — Changement de politique]
+, plus additional annual cash installments based on a form of adjusted earnings before interest expense, taxes, depreciation and amortization ("adjusted EBITDA") over the next
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+On August 8, 2016 the Company announced a definitive agreement to acquire Intelisys Communications, Inc., the industry-leading technology services distributor of business telecommunications and cloud services. Upon completion of the transaction, Intelisys will join the Worldwide Communications and Services segment of ScanSource. The acquisition is expected to close in the quarter ending September 30, 2016, subject to the satisfaction of customary closing conditions and receipt of regulatory approvals.

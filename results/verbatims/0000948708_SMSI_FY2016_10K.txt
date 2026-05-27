@@ -1,0 +1,20 @@
+FIRM         : SMSI (CIK 0000948708) | FY2016
+FILE         : 0000948708_SMSI_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Interruptions or delays in service from data center hosting facilities could impair the delivery of our service and harm our business.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

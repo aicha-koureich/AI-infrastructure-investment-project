@@ -1,0 +1,23 @@
+FIRM         : AES (CIK 0000874761) | FY2023
+FILE         : 0000874761_AES_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. GENERAL AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment — Property, plant and equipment are stated at cost, net of accumulated depreciation. The cost of renewals and improvements that extend the useful life of property, plant and equipment are capitalized.
+
+[VERBATIM — Changement de politique]
+During the first quarter of 2023, management began assessing operational performance and making resource allocation decisions using Adjusted EBITDA. Therefore, the Company uses Adjusted EBITDA as its primary segment performance measure. Adjusted EBITDA, a non-GAAP measure, is defined by the Company as earnings before interest income and expense, taxes, depreciation and amortization, adjusted for the impact of NCI and interest, taxes, depreciation and amortization of our equity affiliates, and adding back interest income recognized under service concession arrangements; excluding gains or losses of both consolidated entities and entities accounted for under the equity method due to (a) unrealized gains or losses related to derivative transactions and equity securities; (b) unrealized foreign currency gains or losses; (c) gains, losses, benefits and costs associated with dispositions and acquisitions of business interests, including early plant closures, and gains and losses recognized at commencement of sales-type leases; (d) losses due to impairments; (e) gains, losses and costs due to the early retirement of debt; and (f) net gains at Angamos, one of our businesses in the Energy Infrastructure SBU, associated with the early contract terminations with Minera Escondida and Minera Spence.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

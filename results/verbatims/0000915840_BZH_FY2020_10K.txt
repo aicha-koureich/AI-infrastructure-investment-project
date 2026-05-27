@@ -1,0 +1,20 @@
+FIRM         : BZH (CIK 0000915840) | FY2020
+FILE         : 0000915840_BZH_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-10-08
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+(b) Corporate and unallocated operating loss includes amortization of capitalized interest, movement in capitalized indirect costs, expenses related to numerous shared services functions that benefit all segments but are not allocated to the operating segments reported above, including information technology, treasury, corporate finance, legal, branding and national marketing, and other amounts that are not allocated to our operating segments.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

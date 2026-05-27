@@ -1,0 +1,23 @@
+FIRM         : WPC (CIK 0001025378) | FY2018
+FILE         : 0001025378_WPC_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 17
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized costs are amortized on a straight-line basis over the software’s estimated useful life, which is
+
+[VERBATIM — Changement de politique]
+. Periodically, we reassess the useful life considering technology, obsolescence, and other factors.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15, Intangibles — Goodwill and Other — Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force) ||| . ASU 2018-15 aligns the requirements for capitalizing implementation costs in a cloud computing arrangement service contract with the requirements for capitalizing implementation costs incurred for an internal-use software license. We adopted this guidance for our interim period beginning October 1, 2018. The adoption of this standard did not have a material impact on our consolidated financial statements. ||| In August 2018, the FASB issued ASU 2018-15, Intangibles — Goodwill and Other — Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force) . ASU 2018-15 aligns the requirements for capitalizing implementation costs in a cloud computing arrangement service contract with the requirements for capitalizing implementation costs incurred for an internal-use software license. We adopted this guidance for our interim period beginning October 1, 2018. The adoption of this standard did not have a material impact on our consolidated financial statements.

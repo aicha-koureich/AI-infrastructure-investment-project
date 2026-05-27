@@ -1,0 +1,20 @@
+FIRM         : PAYC (CIK 0001590955) | FY2015
+FILE         : 0001590955_PAYC_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 3. PROPERTY AND EQUIPMENT
+ASSET CAT.   : equipment, capitalized software, Computer equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Year Ended December 31, 2015 2014 Property and equipment Buildings $ 28,154 $ 28,154 Software and capitalized software costs 13,959 8,671 Computer equipment 11,346 7,638 Rental clocks 8,750 6,596 Furniture, fixtures and equipment 5,464 4,361 Vehicles 421 421 Leasehold improvements 358 174 68,452 56,015 Less: accumulated depreciation and amortization (24,894 ) (17,089 ) 43,558 38,926 Land 8,993 8,993 Construction in progress 6,307 — Property and equipment, net $ 58,858 $ 47,919
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued authoritative guidance for intangibles related to internally developed software. The new guidance will assist entities in evaluating the accounting for fees paid by a customer in a cloud computing arrangement. The new guidance is effective for fiscal years, and interim periods within those years, beginning after December 15, 2015. Accordingly, the standard is effective for us on January 1, 2016. We do not anticipate that the adoption of this standard will have a material impact on our consolidated financial statements.

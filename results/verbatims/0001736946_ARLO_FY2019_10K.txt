@@ -1,0 +1,20 @@
+FIRM         : ARLO (CIK 0001736946) | FY2019
+FILE         : 0001736946_ARLO_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Arlo combines an intelligent cloud infrastructure and mobile app with a variety of smart connected devices that transform the way people experience the connected lifestyle. Our cloud-based platform provides users with visibility, insight and a powerful means to help protect and connect in real-time with the people and things that matter most, from any location with a Wi-Fi or a cellular connection. Since the launch of our first product in December 2014, we have shipped over 15.8 million smart connected devices, and, as of December 31, 2019 , our smart platform had approximately 4.02 million cumulative registered accounts across more than 100 countries around the world.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Our cost of revenue as a percentage of revenue can vary based upon a number of factors, including those that may affect our revenue set forth above and factors that may affect our cost of revenue, including, without limitation: product mix, sales channel mix, registered user acceptance of paid subscription service offerings, fluctuation in foreign exchange rates and changes in our cost of goods sold due to fluctuations in prices paid for components, net of vendor rebates, cloud platform costs, warranty and overhead costs, inbound freight and duty product conversion costs, charges for excess or obsolete inventory, and amortization of acquired intangibles. We outsource our manufacturing, warehousing, and distribution logistics. We also outsource certain components of the required infrastructure to support our cloud-based back-end IT infrastructure. We believe this outsourcing strategy allows us to better manage our product and services costs and gross margin. ||| Research and development expense increased for the year ended December 31, 2019 compared to the prior year due to increases of $2.5 million in personnel-related expenses and $8.3 million in corporate IT and facilities overhead. The increased expenditures on personnel-related expense and engineering projects were due to continuous investment in strategic focus areas, principally the expansion of our Arlo product and service offerings and the growth of our cloud platform capabilities. The increase in corporate IT and facilities overhead is due to the fact that starting in late 2018 Arlo moved to separate facilities globally and for the whole of 2019 Arlo maintained its own facilities and IT infrastructures and systems globally as a standalone public company. ||| compared to the prior year due to increases of $2.5 million in personnel-related expenses and $8.3 million in corporate IT and facilities overhead. The increased expenditures on personnel-related expense and engineering projects were due to continuous investment in strategic focus areas, principally the expansion of our Arlo product and service offerings and the growth of our cloud platform capabilities. The increase in corporate IT and facilities overhead is due to the fact that starting in late 2018 Arlo moved to separate facilities globally and for the whole of 2019 Arlo maintained its own facilities and IT infrastructures and systems globally as a standalone public company.

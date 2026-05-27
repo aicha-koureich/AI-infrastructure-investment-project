@@ -1,0 +1,23 @@
+FIRM         : AHCO (CIK 0001725255) | FY2024
+FILE         : 0001725255_AHCO_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 6,
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2024 December 31, 2023 Patient medical equipment $ 843,198 $ 791,349 Computers and software 92,664 85,509 Delivery vehicles 33,637 35,021 Other 23,233 20,203 Gross carrying value 992,732 932,082 Less accumulated depreciation (518,176) (436,981) Equipment and other fixed assets, net $ 474,556 $ 495,101
+
+[VERBATIM — Changement de politique]
+Equipment and other fixed assets are stated at cost less accumulated depreciation, or, when acquired as part of a business combination, fair value at the date of acquisition. The useful lives for patient medical equipment correlate with the medical reimbursement periods. Computer equipment, vehicles and other fixed assets are depreciated over the estimated useful lives of the assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

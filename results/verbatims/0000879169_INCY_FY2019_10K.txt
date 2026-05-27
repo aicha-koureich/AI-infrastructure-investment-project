@@ -1,0 +1,20 @@
+FIRM         : INCY (CIK 0000879169) | FY2019
+FILE         : 0000879169_INCY_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+separate interest and amortization expense with higher interest expense in the earlier periods of a lease. For operating leases, the statement of operations presentation and expense recognition is similar to that of operating leases under ASC 840, with a single lease cost recognized on a straight-line basis. We implemented a third-party information technology application to facilitate activities for the new accounting and disclosure requirements and implemented new internal control procedures to support the new accounting and reporting processes associated with adopting the guidance. We elected the package of practical expedients and adopted the standard on January 1, 2019 utilizing the optional transition method as defined within ASU No. 2018-11. Accordingly, prior periods were not restated to reflect the adopted standard. We did not elect the hindsight expedient and did not elect to combine lease and non-lease components into a single lease component.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, “Intangibles – Goodwill and Other – Internal-Use Software,” an update to Subtopic ASC 350-40. The guidance directs accounting for service contracts for cloud computing arrangements to follow guidance within ASC 350-40 to determine capitalization of implementation costs. The guidance is effective for fiscal years beginning after December 15, 2019, and is permitted for early adoption. The standard may be applied on either a retrospective or prospective basis. We are currently analyzing the impact of ASU No. 2018-15 and do not anticipate the adoption of this ASU to have a material impact on our consolidated financial statements.

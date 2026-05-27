@@ -1,0 +1,20 @@
+FIRM         : PJT (CIK 0001626115) | FY2016
+FILE         : 0001626115_PJT_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 7. FURNITURE, EQUIPMENT A ND LEASEHOLD IMPROVEMENTS
+ASSET CAT.   : Office Equipment, Furniture and Fixtures, Furniture, Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2016 2015 Office Equipment $ 1,778 $ 1,873 Leasehold Improvements 32,889 23,330 Furniture and Fixtures 11,364 9,119 Total Furniture, Equipment and Leasehold Improvements 46,031 34,322 Accumulated Depreciation (7,876 ) (2,832 ) Furniture, Equipment and Leasehold Improvements, Net $ 38,155 $ 31,490
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

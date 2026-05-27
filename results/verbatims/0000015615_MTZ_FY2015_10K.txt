@@ -1,0 +1,20 @@
+FIRM         : MTZ (CIK 0000015615) | FY2015
+FILE         : 0000015615_MTZ_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5
+ASSET CAT.   : equipment, furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment under capital leases are depreciated over their estimated useful lives.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement ||| . ASU 2015-05 provides guidance for determining whether a cloud computing arrangement includes a software license and requires that all software licenses within the scope of Subtopic 350-40 be accounted for in a manner consistent with other licenses of intangible assets. ASU 2015-05, for which early application is permitted, is effective for fiscal years, and for interim periods within those fiscal years, beginning after December 15, 2015, with retrospective application permitted for all relevant prior periods. This ASU, which the Company adopted as of January 1, 2016, is not expected to have a material effect on the Company’s consolidated financial statements. ||| In April 2015, the FASB issued ASU 2015-05, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement . ASU 2015-05 provides guidance for determining whether a cloud computing arrangement includes a software license and requires that all software licenses within the scope of Subtopic 350-40 be accounted for in a manner consistent with other licenses of intangible assets. ASU 2015-05, for which early application is permitted, is effective for fiscal years, and for interim periods within those fiscal years, beginning after December 15, 2015, with retrospective application permitted for all relevant prior periods. This ASU, which the Company adopted as of January 1, 2016, is not expected to have a material effect on the Company’s consolidated financial statements.

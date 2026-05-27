@@ -1,0 +1,20 @@
+FIRM         : NOW (CIK 0001373715) | FY2014
+FILE         : 0001373715_NOW_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Overhead costs associated with office facilities, IT and certain depreciation related to non-cloud-based infrastructure are allocated to cost of revenues and operating expenses based on headcount. Facility costs associated with our data centers (included as part of data center capacity costs) as well as depreciation related to our cloud-based infrastructure hardware equipment are classified as cost of subscription revenues.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

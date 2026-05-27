@@ -1,0 +1,21 @@
+FIRM         : ALGN (CIK 0001097149) | FY2018
+FILE         : 0001097149_ALGN_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 16. Segments and Geographical Information
+ASSET CAT.   : equipment Up to
+DURÉE        : 10.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+December 31, Generally Used Estimated Useful Life 2018 2017 Clinical and manufacturing equipment Up to 10 years $ 236,179 $ 183,392 Computer hardware 3 years 34,297 24,933 Computer software 3 years 59,617 54,756 Furniture and fixtures 5 years 33,436 16,271 Leasehold improvements Lease term (1) 77,168 37,756 Building 20 years 139,315 63,887 Land — 17,630 17,630 CIP — 95,414 85,976 Total 693,056 484,601 Less: Accumulated depreciation and amortization and impairment charges (171,727 ) (135,808 ) Total property, plant and equipment, net $ 521,329 $ 348,793
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40) Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract,” ||| to clarify the guidance on the costs of implementing a cloud computing hosting arrangement that is a service contract. Under the amendments, the entity is required to follow the guidance in Subtopic 350-40, ||| In August 2018, the FASB issued ASU 2018-15, “ Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40) Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract,” to clarify the guidance on the costs of implementing a cloud computing hosting arrangement that is a service contract. Under the amendments, the entity is required to follow the guidance in Subtopic 350-40, Internal-Use Software , to determine which implementation costs under the service contract to be capitalized as an asset and which costs to expense. The amendments are effective for fiscal years and interim periods within those years beginning after December 15, 2019 either on a retrospective or prospectively basis and early adoption is permitted. We are currently evaluating the impact of this guidance on our consolidated financial statements and related disclosures.

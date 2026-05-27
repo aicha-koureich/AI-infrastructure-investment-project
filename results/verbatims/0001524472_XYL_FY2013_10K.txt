@@ -1,0 +1,21 @@
+FIRM         : XYL (CIK 0001524472) | FY2013
+FILE         : 0001524472_XYL_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 21
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+segments: Water Infrastructure and Applied Water. The Water Infrastructure segment, comprising our Water Solutions and Analytics operating units, focuses on the transportation, treatment and testing of water, offering a range of products including water and wastewater pumps, treatment and testing equipment, and controls and systems. The Applied Water segment, comprising our Residential & Commercial Water and Flow Control operating units, encompasses the uses of water and focuses on the residential, commercial, industrial and agricultural markets offering a wide range of products, including pumps, valves and heat exchangers. Corporate and other consists of corporate office expenses including compensation, benefits, occupancy, depreciation, and other administrative costs, as well as charges related to certain matters, such as the Spin-off transaction and environmental matters that are managed at a corporate level and are not included in the business segments in evaluating performance or allocating resources.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

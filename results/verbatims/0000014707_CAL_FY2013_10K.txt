@@ -1,0 +1,20 @@
+FIRM         : CAL (CIK 0000014707) | FY2013
+FILE         : 0000014707_CAL_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. EARNINGS PER SHARE
+ASSET CAT.   : equipment, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Famous Wholesale Specialty ($ thousands) Footwear Operations Retail Other Total Fiscal 2013 External sales $ 1,527,537 $ 763,670 $ 221,906 $ – $ 2,513,113 Intersegment sales 2,424 205,469 – – 207,893 Depreciation and amortization 25,915 10,019 3,423 15,972 55,329 Amortization of debt issuance costs and debt discount – – – 2,513 2,513 Operating earnings (loss) 107,126 43,130 (4,965) (46,674) 98,617 Segment assets 433,781 434,532 95,138 185,952 1,149,403 Purchases of property and equipment 32,728 2,221 3,805 5,214 43,968 Capitalized software 193 122 – 4,920 5,235 Fiscal 2012 External sales $ 1,514,349 $ 724,907 $ 238,540 $ – $ 2,477,796 Intersegment sales 2,311 220,207 – – 222,518 Depreciation and amortization 22,819 13,688 2,991 15,285 54,783 Amortization of debt issuance costs and debt discount – – – 2,561 2,561 Operating earnings (loss) 94,096 30,247 (8,850) (41,015) 74,478 Segment assets 472,180 509,237 59,475 133,081 1,173,973 Purchases of property and equipment 34,931 8,969 6,716 5,185 55,801 Capitalized software – 3 – 7,925 7,928 Fiscal 2011 External sales $ 1,456,314 $ 722,815 $ 255,637 $ – $ 2,434,766 Intersegment sales 2,156 206,258 – – 208,414 Depreciation and amortization 26,116 15,521 3,517 13,957 59,111 Amortization of debt issuance costs and debt discount – – – 2,338 2,338 Operating earnings (loss) 62,515 11,721 (7,627) (36,077) 30,532 Segment assets 435,344 595,355 56,151 140,626 1,227,476 Purchases of property and equipment 16,272 5,991 3,901 1,693 27,857 Capitalized software 273 15 – 10,419 10,707
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : INGN (CIK 0001294133) | FY2015
+FILE         : 0001294133_INGN_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU 2015-05, Intangibles-Goodwill and Other-Internal Use Software - Customer's Accounting for Fees Paid in a Cloud Computing Arrangement. The update provides guidance on fees paid by an entity in a cloud computing arrangement and whether an arrangement includes a license to the underlying software. If a cloud computing arrangement includes a software license, then the entity should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the entity should account for the arrangement as a service contract. This update is effective for our fiscal year beginning January 1, 2016. The adoption of this standard is not expected to have a material effect on our financial condition, results of operations or cash flows. ||| Intangibles-Goodwill and Other-Internal Use Software - Customer's Accounting for Fees Paid in a Cloud Computing Arrangement.

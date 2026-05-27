@@ -1,0 +1,24 @@
+FIRM         : CDW (CIK 0001402057) | FY2015
+FILE         : 0001402057_CDW_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 13
+ASSET CAT.   : Machinery and equipment, equipment, Computer software, Furniture and fixtures
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 4.0-10.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Classification Estimated Useful Lives Machinery and equipment 5 to 10 years Building and leasehold improvements 4 to 25 years Computer and data processing equipment 3 to 5 years Computer software 3 to 5 years Furniture and fixtures 4 to 10 years
+
+[VERBATIM — Changement de politique]
+. As defined in the Company’s credit agreement, the total net leverage ratio is calculated, on a consolidated basis, as the ratio of total debt at period-end excluding any unamortized discount and/or premium and unamortized deferred financing costs, less cash and cash equivalents, to trailing twelve months (“TTM”) adjusted earnings before taxes, interest expense, and depreciation and amortization (“Adjusted EBITDA”), a non-GAAP measure defined in the Company’s credit agreement. The Term Loan calculates Adjusted EBITDA on a trailing twelve month basis, which includes twelve months of Kelway’s results on a pro forma basis. An interest rate of
+
+[VERBATIM — Infrastructure IA]
+Revenue from professional services is either recognized as provided for services billed at an hourly rate, recognized using a percentage of completion model for fixed fee project work or recognized using a proportional performance model for services provided at a fixed fee. Revenue from cloud computing solutions including Software as a Service (“SaaS”) and Infrastructure as a Service (“IaaS”) arrangements, as well as data center services such as managed and remote managed services, server co-location, internet connectivity and data backup and storage, is recognized over the period service is provided.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+small, medium and large business, government, education and healthcare customers by delivering critical solutions to their increasingly complex IT needs. Our broad array of offerings ranges from discrete hardware and software products to integrated IT solutions such as mobility, security, data center optimization, cloud computing, virtualization and collaboration. We are technology “agnostic,” with a product portfolio including more than ||| Revenue from professional services is either recognized as provided for services billed at an hourly rate, recognized using a percentage of completion model for fixed fee project work or recognized using a proportional performance model for services provided at a fixed fee. Revenue from cloud computing solutions including Software as a Service (“SaaS”) and Infrastructure as a Service (“IaaS”) arrangements, as well as data center services such as managed and remote managed services, server co-location, internet connectivity and data backup and storage, is recognized over the period service is provided. ||| CDW is a Fortune 500 company and a leading provider of integrated information technology (“IT”) solutions in North America and the United Kingdom. We help our customer base of over 250,000 small, medium and large business, government, education and healthcare customers by delivering critical solutions to their increasingly complex IT needs. Our broad array of offerings ranges from discrete hardware and software products to integrated IT solutions such as mobility, security, data center optimization, cloud computing, virtualization and collaboration. We are technology “agnostic,” with a product portfolio including more than 100,000 products from more than 1,000 brands. We provide our products and solutions through more than 5,000 customer-facing coworkers, including field sellers, highly-skilled technology specialists and advanced service delivery engineers.

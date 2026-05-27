@@ -1,0 +1,24 @@
+FIRM         : CHDN (CIK 0000020212) | FY2021
+FILE         : 0000020212_CHDN_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-18
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, computer software, capitalized software
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : A100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 3.0 ans
+
+[VERBATIM — Durée de vie]
+Once the software is placed in operation, we amortize the capitalized software over the software's estimated economic useful life, which is generally three years.
+
+[VERBATIM — Changement de politique]
+Eliminations include the elimination of intersegment transactions. We utilize non-GAAP measures, including EBITDA (earnings before interest, taxes, depreciation and amortization) and Adjusted EBITDA. Our chief operating decision maker utilizes Adjusted EBITDA to evaluate segment performance, develop strategy and allocate resources. Adjusted EBITDA includes the following adjustments:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

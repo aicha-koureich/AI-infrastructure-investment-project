@@ -1,0 +1,27 @@
+FIRM         : CYH (CIK 0001108109) | FY2015
+FILE         : 0001108109_CYH_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : 3.0-18.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : Blackwell (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 8.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is recognized using the
+straight-line method over the estimated useful lives of the land and improvements (3 to 20 years), buildings and improvements (5 to 40 years) and equipment and fixtures (3 to 18 years).
+
+[VERBATIM — Changement de politique]
+During the year ended December 31, 2014, the
+Company recorded an impairment charge of approximately $24 million related to software in-process that was abandoned and the acceleration of amortization of approximately $75 million related to shortening the remaining useful life of software
+abandoned.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

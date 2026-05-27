@@ -1,0 +1,20 @@
+FIRM         : WTW (CIK 0001140536) | FY2016
+FILE         : 0001140536_WTW_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 7 — Fixed Assets
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The following table reflects changes in the net carrying amount of the components of fixed assets for the year ended December 31, 2016 and 2015: Furniture, equipment and software Leasehold improvements Land and buildings Total Cost: at January 1, 2015 $ 642 $ 245 $ 93 $ 980 Additions 119 27 — 146 Acquisitions 26 26 5 57 Disposals (31 ) (16 ) — (47 ) Foreign exchange (32 ) (10 ) (3 ) (45 ) Cost: at December 31, 2015 724 272 95 1,091 Additions 265 44 2 311 Acquisitions 109 95 — 204 Disposals (28 ) (8 ) — (36 ) Foreign exchange (61 ) (21 ) (7 ) (89 ) Cost: at December 31, 2016 $ 1,009 $ 382 $ 90 1,481 Depreciation: at January 1, 2015 $ (366 ) $ (93 ) $ (38 ) $ (497 ) Depreciation expense (72 ) (19 ) (4 ) (95 ) Disposals 28 14 — 42 Foreign exchange 17 4 1 22 Depreciation: at December 31, 2015 (393 ) (94 ) (41 ) (528 ) Depreciation expense (119 ) (55 ) (4 ) (178 ) Disposals 17 5 — 22 Foreign exchange 31 7 4 42 Depreciation: at December 31, 2016 $ (464 ) $ (137 ) $ (41 ) $ (642 ) Net book value: At December 31, 2015 $ 331 $ 178 $ 54 $ 563 At December 31, 2016 $ 545 $ 245 $ 49 $ 839
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,24 @@
+FIRM         : ARW (CIK 0000007536) | FY2020
+FILE         : 0000007536_ARW_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software, Machinery and equipment
+DURÉE        : 3.0-12.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 3.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are amortized on a straight-line basis over the estimated useful life of the software, which is generally three to twelve years.
+
+[VERBATIM — Changement de politique]
+During the second quarter of 2019, the company initiated actions to further integrate two global components businesses. These businesses held indefinite-lived trade names with a carrying value of $101,000. As a result of the company's decision to integrate these brands, we determined the useful lives of the trade names were no longer indefinite. Subsequent to the second quarter of 2019, the company began amortizing these trade names over their estimated remaining useful lives. The trade names were tested for impairment during the second quarter of 2019 as a result of the change in estimated useful lives. The company estimated the fair value of the trade names to be $55,000 using the relief from royalty method and recorded a non-cash impairment charge of $46,000 ($34,653 net of tax). The drivers of the impairment were primarily due to the shortened useful lives of the asset and a decline of the forecasted revenues attributable to the trade names as integration to the Arrow brand occurs over the estimated remaining useful lives.
+
+[VERBATIM — Infrastructure IA]
+Included in restructuring, integration, and other charges for 2018 are other expenses of $29,146, which include acquisition-related charges of $10,236 related to professional and other fees directly related to recent acquisition activity as well as contingent consideration for acquisitions completed in prior years, and charges of $11,188 related to relocation and infrastructure upgrades of the company's data centers, and other centralization efforts to maximize operating efficiencies.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

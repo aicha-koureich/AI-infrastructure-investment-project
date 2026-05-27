@@ -1,0 +1,45 @@
+FIRM         : CATO (CIK 0000018255) | FY2013
+FILE         : 0000018255_CATO_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 17. Accumulated Other
+Comprehensive Income:
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 3.0-10.0 ans | 5.0-10.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated Classification Useful Lives Land improvements 10 years Buildings 30-40 years Leasehold improvements 5-10 years Fixtures and equipment 3-10 years Information technology equipment and software 3-10 years
+
+[VERBATIM — Changement de politique]
+The Company invests in
+property and equipment primarily in connection with the opening and remodeling
+of stores and in computer software and hardware. The Company periodically
+reviews its store locations and estimates the recoverability of its assets,
+recording an impairment charge for the amount by which the carrying value
+exceeds the fair value, if necessary, when the Company decides to close the
+store or otherwise determines that future estimated undiscounted cash flows
+associated with those assets will not be sufficient to recover the carrying
+value. This determination is based on a number of factors, including the storeâ€™s
+historical operating results and cash flows, estimated future sales growth, real
+estate development in the area and perceived local market conditions that can be
+difficult to predict and may be subject to change. Store asset impairment
+charges incurred in fiscal 2013 were $2,646,000. Store asset impairment
+charges incurred in fiscal 2012 were $2,011,000. Store asset impairment
+charges incurred in fiscal 2011 were de minimis. In addition, the Company
+regularly evaluates its computer-related and other long-lived assets and may
+accelerate depreciation over the revised useful life if the asset is expected to
+be replaced or has limited future value. When assets are retired or otherwise
+disposed of, the cost and related accumulated depreciation or amortization are
+removed from the accounts, and any resulting gain or loss is reflected in income
+for that period.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

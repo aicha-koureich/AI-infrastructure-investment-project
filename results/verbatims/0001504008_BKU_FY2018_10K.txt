@@ -1,0 +1,20 @@
+FIRM         : BKU (CIK 0001504008) | FY2018
+FILE         : 0001504008_BKU_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 19 Subsequent Events
+ASSET CAT.   : Furniture, equipment, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+2018 2017 Buildings and improvements $ 18,793 $ 18,793 Leasehold improvements 69,651 70,298 Furniture, fixtures and equipment 36,581 35,675 Computer equipment 22,218 21,078 Software and software licensing rights 47,653 42,908 Aircraft and automobiles 11,614 11,744 Capitalized implementation costs of CCA 879 — 207,389 200,496 Less: accumulated depreciation (135,743 ) (121,477 ) Premises and equipment, net $ 71,646 $ 79,019
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force) ||| . The amendments in this ASU require customers in a cloud computing arrangement (i.e., hosting arrangement) that is a service contract to capitalize certain implementation costs in the same manner as software developed for internal use. The guidance allows for qualifying costs incurred during the application and development stage to be capitalized, which may include: (1) integration, (2) customization, (3) configuration, (4) installation, (5) architecture and design, (6) coding, and (7) testing. Capitalized implementation costs related to a hosting arrangement that is a service contract will be amortized over the term of the hosting arrangement, beginning when the applicable component of the hosting arrangement is ready for its intended use. The accounting for the cost of the hosting component of the arrangement is not affected by this ASU. The Company early adopted this ASU in the third quarter of 2018 using the prospective transition approach with no significant impact to the Company's consolidated financial position, results of operations, or cash flows. ||| ASU No. 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force) . The amendments in this ASU require customers in a cloud computing arrangement (i.e., hosting arrangement) that is a service contract to capitalize certain implementation costs in the same manner as software developed for internal use. The guidance allows for qualifying costs incurred during the application and development stage to be capitalized, which may include: (1) integration, (2) customization, (3) configuration, (4) installation, (5) architecture and design, (6) coding, and (7) testing. Capitalized implementation costs related to a hosting arrangement that is a service contract will be amortized over the term of the hosting arrangement, beginning when the applicable component of the hosting arrangement is ready for its intended use. The accounting for the cost of the hosting component of the arrangement is not affected by this ASU. The Company early adopted this ASU in the third quarter of 2018 using the prospective transition approach with no significant impact to the Company's consolidated financial position, results of operations, or cash flows.

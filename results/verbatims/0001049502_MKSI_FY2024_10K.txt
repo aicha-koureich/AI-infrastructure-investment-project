@@ -1,0 +1,20 @@
+FIRM         : MKSI (CIK 0001049502) | FY2024
+FILE         : 0001049502_MKSI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : buildings and building improvements
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is provided on the straight-line method over the estimated useful lives of ten to fifty years for buildings and building improvements, and three to fifteen years for machinery and equipment, furniture and fixtures, office equipment and software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

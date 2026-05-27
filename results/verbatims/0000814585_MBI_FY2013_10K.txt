@@ -1,0 +1,21 @@
+FIRM         : MBI (CIK 0000814585) | FY2013
+FILE         : 0000814585_MBI_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2: Significant Accounting Policies (continued)
+ASSET CAT.   : equipment, furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+All property and
+equipment held for use is recorded at cost and, except for land, is depreciated over the appropriate useful life of the asset using the straight-line method.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : VIAV (CIK 0000912093) | FY2018
+FILE         : 0000912093_VIAV_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 20. Subsequent Events
+ASSET CAT.   : Machinery and equipment, Furniture, office equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+June 30, 2018 July 1, 2017 Land $ 20.6 $ 14.5 Buildings and improvements 37.2 31.4 Machinery and equipment 254.7 225.8 Furniture, fixtures, software and office equipment 108.9 111.2 Leasehold improvements 55.9 58.1 Construction in progress 21.8 17.8 Property, plant and equipment, gross 499.1 458.8 Less: Accumulated depreciation and amortization (328.6 ) (321.9 ) Property, plant and equipment, net $ 170.5 $ 136.9
+
+[VERBATIM — Infrastructure IA]
+was due to a combination of Trilithic and AW related service revenue as a result of the acquisitions and increase in support activities from SE segment Data Center products.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

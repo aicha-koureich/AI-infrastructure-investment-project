@@ -1,0 +1,20 @@
+FIRM         : SO (CIK 0000092122) | FY2018
+FILE         : 0000092122_SO_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Normal represents the 10-year average from January 1, 2008 through December 31, 2017 for Illinois at Chicago Midway International Airport and for Georgia at Atlanta Hartsfield-Jackson International Airport, based on information obtained from the National Oceanic and Atmospheric Administration, National Climatic Data Center.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

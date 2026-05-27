@@ -1,0 +1,20 @@
+FIRM         : ALGM (CIK 0000866291) | FY2024
+FILE         : 0000866291_ALGM_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-04-30
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Total net sales decreased in the fiscal year ended March 28, 2025 compared to the fiscal year ended March 29, 2024. The decrease was primarily driven by an overall reduction in customer-held inventory resulting in a decline in shipments across all end markets. The decline in shipments impacted all applications including e-Mobility products, safety comfort and convenience applications, ICE, and broad-based and other industrial applications, including data center applications, clean energy and automation, and consumer and smart home products.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

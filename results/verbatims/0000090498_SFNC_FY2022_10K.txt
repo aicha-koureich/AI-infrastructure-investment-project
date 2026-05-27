@@ -1,0 +1,20 @@
+FIRM         : SFNC (CIK 0000090498) | FY2022
+FILE         : 0000090498_SFNC_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 7:
+ASSET CAT.   : equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In thousands) 2022 2021 Right-of-use lease assets $ 46,845 $ 48,855 Premises and equipment: Land 122,841 101,728 Buildings and improvements 370,530 320,844 Furniture, fixtures and equipment 122,029 107,122 Software 70,984 66,947 Construction in progress 15,488 9,117 Accumulated depreciation and amortization (199,976) (171,144) Total premises and equipment, net $ 548,741 $ 483,469
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

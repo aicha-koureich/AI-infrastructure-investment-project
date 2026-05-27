@@ -1,0 +1,20 @@
+FIRM         : PCAR (CIK 0000075362) | FY2018
+FILE         : 0000075362_PCAR_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. ||| STANDARD DESCRIPTION EFFECTIVE DATE 2018-07 * Compensation – Stock Compensation (Topic 718): Improvements to Nonemployee Share-Based Payment Accounting. January 1, 2019 2018-13 * Fair Value Measurement (Topic 820): Disclosure Framework – Changes to the Disclosure Requirements for Fair Value Measurement. January 1, 2020 2018-14 * Compensation – Retirement Benefits – Defined Benefit Plans – General (Topic 715-20): Disclosure Framework – Changes to the Disclosure Requirements for Defined Benefit Plans. January 1, 2021 2018-15 * Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. January 1, 2020

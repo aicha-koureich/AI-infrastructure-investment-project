@@ -1,0 +1,20 @@
+FIRM         : FCF (CIK 0000712537) | FY2022
+FILE         : 0000712537_FCF_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-31
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 11—Premises, Equipment and Lease Commitments
+ASSET CAT.   : equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful Life 2022 2021 (dollars in thousands) Land Indefinite $ 13,860 $ 14,621 Buildings and improvements 10-50 years 70,844 75,149 Operating lease right of use asset 1-25 years 51,499 47,938 Leasehold improvements 5-40 years 37,398 35,909 Furniture and equipment 3-7 years 76,879 73,976 Software 3-7 years 44,439 43,511 Subtotal 294,919 291,104 Less accumulated depreciation and amortization 179,813 170,329 Total premises and equipment, net $ 115,106 $ 120,775
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

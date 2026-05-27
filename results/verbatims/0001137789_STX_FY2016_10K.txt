@@ -1,0 +1,28 @@
+FIRM         : STX (CIK 0001137789) | FY2016
+FILE         : 0001137789_STX_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : July 1, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Equipment and
+buildings are
+depreciated using the straight-line method over the estimated useful lives of the assets.
+
+[VERBATIM — Infrastructure IA]
+Seagate Technology plc (the "Company") is a leading provider of electronic data storage technology and solutions. Our principal
+products are hard disk drives, commonly referred to as disk drives, hard drives or HDDs. In addition to HDDs, we produce a broad range of electronic data storage products including solid state hybrid
+drives ("SSHD"), solid state drives ("SSD"), PCIe cards and SATA controllers. Our storage technology portfolio also includes storage subsystems, and high performance computing ("HPC") solutions.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The
+amount of data created as well as where and how data is stored continues to evolve with the proliferation of mobile devices, the growth of cloud computing, and the evolving IoT. In
+addition, the economics of storage infrastructure are also evolving with the utilization of public and private hyper-scale storage and open-source solutions reducing the total cost of ownership of
+storage while increasing the speed and efficiency with which customers can leverage massive computing and storage devices. Accordingly, we expect these trends will continue to create significant
+demand for electronic data storage solutions going forward.

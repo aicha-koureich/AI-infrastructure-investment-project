@@ -1,0 +1,21 @@
+FIRM         : ZBRA (CIK 0000877212) | FY2022
+FILE         : 0000877212_ZBRA_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 7 Property, Plant and Equipment
+ASSET CAT.   : Machinery and equipment, Furniture, office equipment, computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+December 31, 2022 2021 Buildings $ 75 $ 75 Land 7 7 Machinery and equipment 318 276 Furniture and office equipment 24 26 Software and computer equipment 125 127 Leasehold improvements 88 94 Projects in progress 48 40 685 645 Less accumulated depreciation (407) (373) Property, plant and equipment, net $ 278 $ 272
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

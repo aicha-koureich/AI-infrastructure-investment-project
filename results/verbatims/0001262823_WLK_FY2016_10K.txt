@@ -1,0 +1,20 @@
+FIRM         : WLK (CIK 0001262823) | FY2016
+FILE         : 0001262823_WLK_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of Business and Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are carried at cost, net of accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued an accounting standards update to provide clarification on accounting for cloud computing arrangements which include a software license. The accounting standard is effective for annual periods beginning after December 15, 2015. The Company adopted this accounting standard, to be applied prospectively, effective January 1, 2016. Consistent with the prospective application of this accounting standard, prior period comparative information was not adjusted. The adoption did not have a material impact on the Company's consolidated financial position, results of operations and cash flows.

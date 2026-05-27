@@ -1,0 +1,20 @@
+FIRM         : MAR (CIK 0001048286) | FY2022
+FILE         : 0001048286_MAR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 8. LEASES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We recorded impairment charges of $116 million in 2020 in the “Depreciation, amortization, and other” caption of our Income Statements to reduce the carrying amount of certain U.S. & Canada hotel leases right-of-use assets and property and equipment, including leasehold improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

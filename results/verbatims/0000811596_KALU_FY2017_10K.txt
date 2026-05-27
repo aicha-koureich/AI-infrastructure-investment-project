@@ -1,0 +1,23 @@
+FIRM         : KALU (CIK 0000811596) | FY2017
+FILE         : 0000811596_KALU_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+We have annual short-term incentive compensation plans for senior management and certain other employees payable at our election in cash, shares of common stock or a combination of cash and shares of common stock. Amounts earned under STI Plans are based on our adjusted earnings before interest, taxes, depreciation and amortization ("Adjusted EBITDA"), modified for certain safety, quality, delivery, cost and individual performance factors. The Adjusted EBITDA targets are determined based on the return on adjusted net assets of our Fabricated Products business. Most of our production facilities have similar programs for both hourly and salaried employees. As of
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

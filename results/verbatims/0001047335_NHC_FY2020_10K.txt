@@ -1,0 +1,20 @@
+FIRM         : NHC (CIK 0001047335) | FY2020
+FILE         : 0001047335_NHC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : equipment and furniture
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is provided by the straight–line method over the expected useful lives of the assets estimated as follows: buildings and improvements, 20–40 years and equipment and furniture, 3–15 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

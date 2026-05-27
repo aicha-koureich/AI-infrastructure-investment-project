@@ -1,0 +1,23 @@
+FIRM         : NVT (CIK 0001720635) | FY2024
+FILE         : 0001720635_NVT_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-17
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is stated at historical cost. We compute depreciation by the straight-line method based on the following estimated useful lives:
+
+[VERBATIM — Changement de politique]
+The unaudited pro forma results include adjustments for the amortization of acquired intangible assets, depreciation for the fair value adjustment to acquisition-date fixed assets and interest expense on debt issued to finance the acquisition, as well as the related income tax impact.
+
+[VERBATIM — Infrastructure IA]
+• Enclosures (to be renamed Systems Protection beginning in the first quarter of 2025) —The Enclosures segment provides innovative solutions to help protect electronics, systems and data in mission critical applications, including data centers, that improve resiliency and energy efficiency. Our standard and custom protective enclosures, cooling solutions, both liquid and air, control buildings and power distribution solutions help manage protect operating environments for mission critical applications in industrial, infrastructure, commercial and energy verticals.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

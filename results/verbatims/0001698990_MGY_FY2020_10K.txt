@@ -1,0 +1,20 @@
+FIRM         : MGY (CIK 0001698990) | FY2020
+FILE         : 0001698990_MGY_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 13—Stockholders’ Equity
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Costs to develop proved reserves, including the costs of all development wells and related equipment used in the production of crude oil and natural gas, are capitalized. Depreciation, depletion and amortization of the cost of proved oil and natural gas properties is calculated using the unit-of-production method. The reserve base used to calculate depletion for leasehold acquisition costs and the cost to acquire proved properties is the sum of proved developed reserves and proved undeveloped reserves. The reserve base used to calculate the depreciation for capitalized costs for exploratory and development wells is the sum of proved developed reserves only. Estimated future abandonment costs, net of salvage values, are included in the depreciable cost.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

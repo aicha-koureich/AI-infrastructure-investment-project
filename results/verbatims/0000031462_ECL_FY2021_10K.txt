@@ -1,0 +1,20 @@
+FIRM         : ECL (CIK 0000031462) | FY2021
+FILE         : 0000031462_ECL_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, computer software, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Certain dispensing systems capitalized by the Company are accounted for on a mass asset basis, whereby equipment is capitalized and depreciated as a group and written off when fully depreciated. Expenditures for major renewals and improvements, which significantly extend the useful lives of existing plant and equipment, are capitalized and depreciated. Upon retirement or disposition of plant and equipment, the cost and related accumulated depreciation are removed from the accounts and any resulting gain or loss is recognized in income.
+
+[VERBATIM — Infrastructure IA]
+At an operating segment level, Water fixed currency sales increased 6% in 2021 as strong new business wins and accelerating pricing leveraged recovering markets. Water fixed currency sales decreased 2% in 2020. Light industry water treatment sales had solid growth in 2021 and modest growth in 2020 led by good gains in food & beverage, light manufacturing and data centers. Heavy industry sales recorded a strong increase in 2021 driven by primary metals and were moderately lower in 2020, impacted by lower end market demand. Food & Beverage fixed currency sales increased 3% (2% acquisition adjusted) in 2021 primarily reflecting accelerating pricing, recovering markets and new business wins. Globally, we realized strong growth in beverage, brewing and modest growth in dairy. Fixed currency sales increased 5% (3% acquisition adjusted) in 2020, as share gains and pricing more than offset generally flat industry trends. Downstream fixed currency sales decreased 3% and 8% in 2021 and 2020, respectively, due to lower demand from COVID and impacts from the Texas freeze and Hurricane Ida impacts in 2021, while substantial reductions in transportation fuel demand and additive use hurt 2020 results. Paper fixed currency sales increased 11% in 2021 driven by increased pricing, strong new business wins, and increased ecommerce activity. Fixed currency sales were flat in 2020 despite softer industrial containerboard market conditions which reduced volumes in major regions.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

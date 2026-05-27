@@ -1,0 +1,23 @@
+FIRM         : PWR (CIK 0001050915) | FY2020
+FILE         : 0001050915_PWR_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2030-07-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 7. DETAIL OF CERTAIN BALANCE SHEET ACCOUNTS:
+ASSET CAT.   : equipment, Office equipment, furniture and fixtures, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful December 31, Lives in Years 2020 2019 Land N/A $ 69,389 $ 67,560 Buildings and leasehold improvements 5-30 249,106 231,920 Operating equipment and vehicles 1-25 2,297,120 2,068,644 Office equipment, furniture and fixtures and information technology systems 3-10 244,113 228,329 Construction work in progress N/A 20,900 26,236 Finance lease assets and rental purchase options (see Note 9) 5-20 52,160 14,162 Property and equipment, gross 2,932,788 2,636,851 Less — Accumulated depreciation and amortization (1,372,132) (1,250,197) Property and equipment, net of accumulated depreciation $ 1,560,656 $ 1,386,654
+
+[VERBATIM — Changement de politique]
+These pro forma combined historical results were adjusted for the following: a reduction of interest expense as a result of the repayment of outstanding indebtedness of the acquired businesses; an increase in interest expense as a result of the cash consideration paid; an increase in amortization expense due to the incremental intangible assets recorded; changes in depreciation expense to adjust acquired property and equipment to the acquisition date fair value and to conform with Quanta’s accounting policies; an increase in the number of outstanding shares of Quanta common stock; and reclassifications to conform the acquired businesses’ presentation to Quanta’s accounting policies.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

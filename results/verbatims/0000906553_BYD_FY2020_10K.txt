@@ -1,0 +1,23 @@
+FIRM         : BYD (CIK 0000906553) | FY2020
+FILE         : 0000906553_BYD_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost. Depreciation is computed using the straight-line method over the estimated useful lives of the assets or, for leasehold improvements, over the shorter of the asset's useful life or term of the lease.
+
+[VERBATIM — Changement de politique]
+The unaudited pro forma results, as presented above, include adjustments to record: (i) rent expense under the Master Lease; (ii) the net incremental depreciation expense for the adjustment of property and equipment to fair value and the allocation of a portion of the purchase price to amortizing intangible assets; (iii) the increase in interest expense incurred on the incremental borrowings incurred by Boyd to fund the acquisition along with the Belterra Park Mortgage; (iv) the estimated tax effect of the pro forma adjustments and on the historical taxable income of the Acquired Companies; and (v) miscellaneous adjustments as a result of the preliminary purchase price allocation on the amortization of certain assets and liabilities.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

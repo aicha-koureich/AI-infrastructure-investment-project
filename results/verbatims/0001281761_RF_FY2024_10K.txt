@@ -1,0 +1,21 @@
+FIRM         : RF (CIK 0001281761) | FY2024
+FILE         : 0001281761_RF_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2029-08-15
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : larger software systems)
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Premises and equipment are stated at cost, less accumulated depreciation and amortization, as applicable. Furniture and equipment are generally depreciated or amortized over 3-10 years. Software is generally depreciated over 3 years (or over a longer estimated life of 5-20 years for larger software systems).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : MLAB (CIK 0000724004) | FY2018
+FILE         : 0000724004_MLAB_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+At least annually, we evaluate, and adjust when necessary, the estimated lives of property, plant and equipment.
+
+[VERBATIM — Infrastructure IA]
+During the year ended March 31, 2019, we completed a business combination (the “Point Six Wireless Acquisition”) whereby we acquired substantially all of the assets (other than current assets) and certain liabilities of Point Six Wireless, LLC’s continuous monitoring business, which manufactures wireless sensors that are used in healthcare, hospital, food service, retail, data center, and refrigerated transport applications.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+During the year ended March 31, 2019, we elected to early-adopt ASU 2018-15 Intangibles – Goodwill and Other Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (“ASU 2018-15”) on a prospective basis. ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs of other internal-use software arrangements. Accordingly, we capitalized $206 of costs incurred during the year ended March 31, 2019 primarily to implement a hosted enterprise resource planning system to our European subsidiaries. The related assets are held in prepaid expenses and other on our Consolidated Balance Sheets, and we began amortizing the expense of those assets that were placed in service to general and administrative costs on our Consolidated Statements of Operations on a straight-line basis over the contractual term of the arrangement. Total depreciation expense for hosted software arrangements was $41 for the year ended March 31, 2019 and the related assets are expected to be depreciated over approximately two years.

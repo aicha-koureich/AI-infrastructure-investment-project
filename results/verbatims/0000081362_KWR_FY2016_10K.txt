@@ -1,0 +1,28 @@
+FIRM         : KWR (CIK 0000081362) | FY2016
+FILE         : 0000081362_KWR_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 11 – Property, Plant and Equipment
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Gross
+property, plant and equipment includes $0.5 million and $0.5 million of
+capital leases with $0.4 million and $0.3 million of related accumulated
+depreciation as of December 31, 2016 and 2015, respectively.
+
+[VERBATIM — Changement de politique]
+Depreciation is computed using the straight-line method on an
+individual asset basis over the following estimated useful lives: buildings and
+improvements, 10 to 45 years; and machinery and equipment, 1 to 15 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

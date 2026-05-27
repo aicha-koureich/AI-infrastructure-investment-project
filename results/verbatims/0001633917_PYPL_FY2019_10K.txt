@@ -1,0 +1,20 @@
+FIRM         : PYPL (CIK 0001633917) | FY2019
+FILE         : 0001633917_PYPL_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Operating lease amounts include minimum rental payments under our non-cancelable operating leases (including leases not yet commenced) primarily for office and data center facilities. The amounts presented are consistent with contractual terms and are not expected to differ significantly from actual results under our existing leases, unless a substantial change in our headcount needs requires us to expand our occupied space or exit an office facility early.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Technology and development expenses increased $254 million , or 14% , in 2019 compared to 2018 , due primarily to increase s in employee-related expenses, and to a lesser extent in data center and cloud computing services utilized in delivering our products, and amortization of acquired intangibles, partially offset by a decline in costs related to contractors and consultants. Our acquisitions completed in 2018 contributed approximately four percentage points to the growth rate of technology and development expenses in 2019 . ||| s in employee-related expenses, and to a lesser extent in data center and cloud computing services utilized in delivering our products, and amortization of acquired intangibles, partially offset by a decline in costs related to contractors and consultants. Our acquisitions completed in 2018 contributed approximately four percentage points to the growth rate of technology and development expenses in

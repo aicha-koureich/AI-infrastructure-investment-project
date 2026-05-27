@@ -1,0 +1,21 @@
+FIRM         : KEYS (CIK 0001601046) | FY2023
+FILE         : 0001601046_KEYS_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. OVERVIEW, BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment is generally depreciated over
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost less accumulated depreciation. Buildings and improvements are depreciated over the lesser of their useful lives, which is generally over five years to forty years, or the remaining term of the lease; and machinery and equipment is generally depreciated over three years to ten years.
+
+[VERBATIM — Infrastructure IA]
+Our first-to-market solutions strategy enables customers to develop new technologies and accelerate innovation and provides a platform for Keysight's long-term growth. Our customers are expected to continue to make R&D investments in certain next-generation technologies, including 5G, early 6G, high-speed data center, satellite networks and Artificial Intelligence-Machine Learning ("AI-ML") network modeling, new automotive mobility technologies, industrial internet of things ("IoT"), and defense modernization. We continue to engage actively with our customers, and closely monitor the current macro economic environment, including trade, tariffs, monetary and fiscal policies, geopolitical tensions, and supply chain challenges. Despite the near-term challenges, we remain confident in the long-term secular growth trends of our markets and our ability to outperform in a variety of market conditions.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : CCOI (CIK 0001158324) | FY2022
+FILE         : 0001158324_CCOI_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 2. Property and equipment:
+ASSET CAT.   : network equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company had entered into an installment payment agreement (“IPA”) with a vendor. Under the IPA the Company was able to purchase network equipment in exchange for interest free note obligations each with a twenty-four month term. There were no payments under each note obligation for the first six months followed by eighteen equal installment payments for the remaining eighteen month term. As of December 31, 2021, there was $0.8 million of note obligations outstanding under the IPA, secured by the related equipment. The Company recorded the assets purchased and the present value of the note obligation utilizing an imputed interest rate. The resulting discounts under the note obligations were amortized over the note term using the effective interest rate method. The IPA was fully repaid in 2022.
+
+[VERBATIM — Infrastructure IA]
+The Company is a facilities-based provider of low-cost, high-speed Internet access, private network services, and data center colocation space and power. The Company’s network is specifically designed and optimized to transmit packet switched data. The Company delivers its services primarily to small and medium-sized businesses, communications service providers and other bandwidth-intensive organizations in 51 countries across North America, Europe, Asia, South America, Oceania and Africa. The Company is a Delaware corporation and is headquartered in Washington, DC.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

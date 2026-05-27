@@ -1,0 +1,21 @@
+FIRM         : AON (CIK 0000315293) | FY2016
+FILE         : 0000315293_AON_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Principles and Practices
+ASSET CAT.   : Furniture, equipment, Computer equipment
+DURÉE        : 4.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 4.0-6.0 ans | 4.0-7.0 ans | 4.0-10.0 ans | 6.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+are computed using the straight-line method over the estimated useful lives of the assets, which are generally as follows: Asset Description Asset Life Software Lesser of the life of an associated license, or 4 to 7 years Leasehold improvements Lesser of estimated useful life or lease term, not to exceed 10 years Furniture, fixtures and equipment 4 to 10 years Computer equipment 4 to 6 years Buildings 35 years Automobiles 6 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

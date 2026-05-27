@@ -1,0 +1,20 @@
+FIRM         : VLY (CIK 0000714310) | FY2020
+FILE         : 0000714310_VLY_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : capitalized software to up to 40 years for buildings
+DURÉE        : 40.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment are stated at cost less accumulated depreciation computed using the straight-line method over the estimated useful lives of the related assets. Estimated useful lives range from 3 years for capitalized software to up to 40 years for buildings.
+
+[VERBATIM — Infrastructure IA]
+Net occupancy and equipment expenses increased $10.8 million for the year ended December 31, 2020 as compared to 2019 largely due to higher rental expenses resulting from a sale leaseback transaction completed near the end of the first quarter 2019 and higher depreciation expense related to computer equipment and new data centers placed into service in fourth quarter 2019. In addition, during 2020, we incurred higher equipment and certain other COVID-19 pandemic related expenses which included additional cleaning services for facilities to maintain employee and customer safety. During 2020, we also incurred additional costs associated with branches and other facilities acquired from Oritani, which were partially offset by costs savings from branch closures during 2020 as compared to 2019.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

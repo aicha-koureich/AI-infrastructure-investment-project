@@ -1,0 +1,20 @@
+FIRM         : VICI (CIK 0001705696) | FY2017
+FILE         : 0001705696_VICI_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5 — Subsequent Events
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Period from October 6 to December 31, 2017 Cash flows from operating activities Net income $ 44,537 Adjustments to reconcile net income to cash flows provided by operating activities: Share-based compensation 1,385 Depreciation 751 Amortization of debt issuance costs and original issue discount 156 Deferred income taxes (1,912 ) Change in operating assets and liabilities: Investment in direct financing leases, net (8,443 ) Other assets (7,159 ) Accrued interest 21,595 Deferred revenue 68,081 Accounts payable and accrued expenses 10,449 Net cash provided by operating activities 129,440 Cash flows from investing activities Acquisition of investment in direct financing leases (1,136,200 ) Acquisition of property and equipment, net of change in related payables (51 ) Net cash used in investing activities (1,136,251 ) Cash flows from financing activities Proceeds from private placement of common stock 963,782 Proceeds from issuance of Term B Loan Facility, net 2,194,686 Proceeds from issuance of Revolving Credit Facility, net 298,000 Payment of Prior Term Loan (1,638,387 ) Payment of Prior First Lien Notes (311,721 ) Payment of Mezzanine Debt (400,000 ) Debt issuance costs (31,501 ) Proceeds from unrecognized sale of real estate 73,600 Mandatory debt conversion costs (13 ) Net cash provided by financing activities 1,148,446 Net increase in cash and cash equivalents 141,635 Cash, cash equivalents and restricted cash, beginning of period 55,771 Cash, cash equivalents and restricted cash, end of period $ 197,406 Supplemental Cash Flow Information: Cash paid for interest $ 36,779 Cash paid for income taxes —
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

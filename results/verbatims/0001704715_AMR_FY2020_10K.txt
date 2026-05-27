@@ -1,0 +1,20 @@
+FIRM         : AMR (CIK 0001704715) | FY2020
+FILE         : 0001704715_AMR_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment, Office equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2020 2019 Plant and mining equipment $ 603,463 $ 600,495 Mine development 96,008 36,721 Land 26,606 30,506 Office equipment, software and other 1,379 1,396 Construction in progress 18,587 23,658 Total property, equipment and mine development costs 746,043 692,776 Less accumulated depreciation, depletion and amortization 382,423 256,378 Total property, plant, and equipment, net $ 363,620 $ 436,398
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,22 @@
+FIRM         : NSIT (CIK 0000932696) | FY2017
+FILE         : 0000932696_NSIT_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Effective January 6, 2017, we acquired Datalink Corporation
+(“Datalink”), a leading provider of IT services and enterprise data center solutions based in Eden Prairie, Minnesota, for a cash purchase price of $257,456,000, which included cash and cash equivalents acquired of $76,597,000. The
+acquisition was funded using cash on hand and borrowings under our revolving facility in the form of an incremental Term Loan A (“TLA”).  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We were named #1 in Microsoft Azure consumption in the region for 2017; and ||| We acquired Caase.com in the third quarter, which further enhances our technical capabilities around Office 365 and Azure in the region.

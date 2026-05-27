@@ -1,0 +1,23 @@
+FIRM         : TTC (CIK 0000737758) | FY2018
+FILE         : 0000737758_TTC_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment, Machinery and equipment, Computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment was as follows (in thousands): October 31 2018 2017 Land and land improvements $ 39,607 $ 38,060 Buildings and leasehold improvements 209,686 194,995 Machinery and equipment 349,550 349,976 Tooling 211,756 197,299 Computer hardware and software 83,338 88,152 Construction in process 35,044 17,132 Subtotal 928,981 885,614 Less: accumulated depreciation 657,522 650,384 Total property, plant, and equipment, net $ 271,459 $ 235,230
+
+[VERBATIM — Changement de politique]
+years. Expenditures for major renewals and improvements, which substantially increase the useful lives of existing assets, are capitalized, and expenditures for general maintenance and repairs are charged to operating expenses as incurred. Interest is capitalized during the construction period for significant capital projects. During the fiscal years ended
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract ||| In August 2018, the FASB issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract , which aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a cloud-based service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. As a result, certain implementation costs incurred by the customer during the application development stage are to be deferred over the noncancelable term of the hosting arrangement, plus any optional renewal periods that are reasonably certain to be exercised by the customer or for which exercise of the renewal option is controlled by the cloud service provider. Costs incurred during the preliminary project and post-implementation stages are expensed as the activities are performed. The company elected to early adopt the amended guidance in the fourth quarter of fiscal 2018 under the retrospective transition method. The early adoption of this guidance did not have an impact on the company's Consolidated Financial Statements.

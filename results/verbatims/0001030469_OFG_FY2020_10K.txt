@@ -1,0 +1,20 @@
+FIRM         : OFG (CIK 0001030469) | FY2020
+FILE         : 0001030469_OFG_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 8 — FORECLOSED REAL ESTATE The following tables present the activity related to foreclosed real estate for the years ended December 31, 2020, 201
+ASSET CAT.   : EQUIPMENT, Furniture and fixtures, Information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+NOTE 8 — FORECLOSED REAL ESTATE The following tables present the activity related to foreclosed real estate for the years ended December 31, 2020, 2019 and 2018: Year Ended December 31, 2020 2019 2018 (In thousands) Balance at beginning of year $ 29,909 $ 33,768 $ 44,174 Additions 3,654 22,406 20,011 Sales ( 18,521) ( 20,642) ( 24,660) Decline in value ( 2,489) ( 4,762) ( 5,757) Other adjustments ( 957) ( 861) - Balance at end of year $ 11,596 $ 29,909 $ 33,768 NOTE 9 — PREMISES AND EQUIPMENT Premises and equipment at December 31, 2020 and 2019 are stated at cost less accumulated depreciation and amortization as follows: Useful Life December 31, (Years) 2020 2019 (In thousands) Land — $ 4,363 $ 4,363 Buildings and improvements 40 75,974 74,840 Leasehold improvements 5 — 10 22,439 21,358 Furniture and fixtures 3 — 7 17,517 16,686 Information technology and other 3 — 7 40,273 29,230 160,566 146,477 Less: accumulated depreciation and amortization ( 76,780) ( 65,372) $ 83,786 $ 81,105 Depreciation and amortization of premises and equipment totaled $ 12.7 million in 2020, $ 8.5 million in 2019 and $ 8.9 million in 2018.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud computing arrangements ||| In August 2018, the Financial Accounting Standards Board (“FASB”) issued updated guidance that is intended to reduce potential diversity in practice in accounting for the costs of implementing cloud computing arrangements (i.e., hosting arrangements) that are service contracts. The updated guidance aligns the requirements for capitalizing implementation costs for these arrangements with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software and hosting arrangements that include an internal-use software license. The updated guidance is effective for interim and annual reporting periods beginning after December 15, 2019. The adoption of this guidance, effective January 1, 2020, did not have a material impact on Oriental’s consolidated financial statements.

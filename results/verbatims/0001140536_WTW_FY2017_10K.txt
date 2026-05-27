@@ -1,0 +1,20 @@
+FIRM         : WTW (CIK 0001140536) | FY2017
+FILE         : 0001140536_WTW_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 7 — Fixed Assets
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Furniture, equipment and software Leasehold improvements Land and buildings Total Cost: at January 1, 2016 $ 724 $ 272 $ 95 $ 1,091 Additions 265 44 2 311 Acquisitions 109 95 — 204 Disposals (28 ) (8 ) — (36 ) Foreign exchange (61 ) (21 ) (7 ) (89 ) Cost: at December 31, 2016 1,009 382 90 1,481 Additions 303 91 — 394 Disposals (61 ) (21 ) — (82 ) Foreign exchange 49 16 4 69 Cost: at December 31, 2017 $ 1,300 $ 468 $ 94 $ 1,862 Depreciation: at January 1, 2016 $ (393 ) $ (94 ) $ (41 ) $ (528 ) Depreciation expense (119 ) (55 ) (4 ) (178 ) Disposals 17 5 — 22 Foreign exchange 31 7 4 42 Depreciation: at December 31, 2016 (464 ) (137 ) (41 ) (642 ) Depreciation expense (i) (199 ) (47 ) (6 ) (252 ) Disposals 37 14 — 51 Foreign exchange (26 ) (6 ) (2 ) (34 ) Depreciation: at December 31, 2017 $ (652 ) $ (176 ) $ (49 ) $ (877 ) Net book value: At December 31, 2016 $ 545 $ 245 $ 49 $ 839 At December 31, 2017 $ 648 $ 292 $ 45 $ 985 ____________________
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

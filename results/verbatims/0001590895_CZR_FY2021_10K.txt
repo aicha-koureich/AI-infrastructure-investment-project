@@ -1,0 +1,20 @@
+FIRM         : CZR (CIK 0001590895) | FY2021
+FILE         : 0001590895_CZR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3. Acquisitions, Purchase Price Accounting and Pro forma Information
+ASSET CAT.   : furniture, equipment, computer hardware
+DURÉE        : 40.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Other personal property assets such as furniture, equipment, computer hardware, and fixtures were valued at the existing carrying values as they closely represented the estimated fair value of those items at the Horseshoe Baltimore acquisition date. The fair value of the buildings and improvements were estimated via the income approach. The remaining estimated useful life of the buildings and improvements is 40 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

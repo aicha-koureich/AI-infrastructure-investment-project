@@ -1,0 +1,23 @@
+FIRM         : VRA (CIK 0001495320) | FY2022
+FILE         : 0001495320_VRA_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized costs are included in property, plant, and equipment and are amortized over three to five years.
+
+[VERBATIM — Changement de politique]
+When a decision is made to abandon property, plant, and equipment prior to the end of the previously estimated useful life, depreciation or amortization estimates are revised to reflect the use of the asset over the shortened estimated useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| The Company capitalizes implementation costs associated with its Cloud Computing Arrangements (“CCA”) consistent with costs capitalized for internal-use software. The CCA costs are amortized over the term of the related hosting agreement, taking into consideration renewal options, if any. The renewal period is included in the amortization period if determined that the option is reasonably certain to be exercised. The amortization expense is recorded in the same line item within the Company's Consolidated Statements of Operations as the related hosting fees. The balance of the unamortized CCA implementation costs totaled $6.4 million and $8.0 million as of January 28, 2023 and January 29, 2022, respectively. Of this total, $3.0 million and $2.8 million was recorded within prepaid expenses and other current assets and $3.4 million and $5.2 million was recorded within other assets on the Company's Consolidated Balance Sheets as of January 28, 2023 and January 29, 2022, respectively. The CCA implementation costs are recorded within operating activities in the Company's Consolidated Statements of Cash Flows.

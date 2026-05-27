@@ -1,0 +1,20 @@
+FIRM         : KRYS (CIK 0001711279) | FY2019
+FILE         : 0001711279_KRYS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Net Loss Per Share Attributable to Common Stockholders
+ASSET CAT.   : Furniture, Computer equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2019 December 31, 2018 Construction-in-progress $ 2,431 $ 2,259 Leasehold improvements 3,179 3 Furniture & fixtures 99 99 Computer equipment and software 45 40 Laboratory equipment 3,571 779 Total property and equipment 9,325 3,180 Accumulated depreciation and amortization (850 ) (166 ) Property and equipment, net $ 8,475 $ 3,014
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

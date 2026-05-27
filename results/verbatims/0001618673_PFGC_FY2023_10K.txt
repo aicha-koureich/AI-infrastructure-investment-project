@@ -1,0 +1,20 @@
+FIRM         : PFGC (CIK 0001618673) | FY2023
+FILE         : 0001618673_PFGC_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-07-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies and Estimates Principles of Consolidation The consolidated financial statements include the accounts of 
+ASSET CAT.   : Equipment
+DURÉE        : 2.0-39.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of property, plant and equipment, including finance lease assets, is calculated primarily using the straight-line method over the estimated useful lives of the assets, which range from two to 39 years , and is included primarily in operating expenses on the consolidated statement of operations. 49 Certain internal and external costs related to the development of internal use software are capitalized within property, plant, and equipment during the application development stage.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

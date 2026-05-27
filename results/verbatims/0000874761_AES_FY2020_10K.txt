@@ -1,0 +1,23 @@
+FIRM         : AES (CIK 0000874761) | FY2020
+FILE         : 0000874761_AES_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. GENERAL AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment — Property, plant and equipment are stated at cost, net of accumulated depreciation. The cost of renewals and improvements that extend the useful life of property, plant and equipment are capitalized.
+
+[VERBATIM — Changement de politique]
+During the year ended December 31, 2020, the Company increased the asset retirement obligations and corresponding assets at Chile and Hawaii, by $17 million and $12 million, respectively, and decreased the asset retirement obligation at DPL by $13 million. The increase at Chile is mostly due to the initial recognition of the ARO at Planta Solar II. The increase at Hawaii reflects the shortened useful life of the coal plant resulting from the passage of Senate Bill 2629, which prohibits issuing or renewing permits for coal power plants after December 31,
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

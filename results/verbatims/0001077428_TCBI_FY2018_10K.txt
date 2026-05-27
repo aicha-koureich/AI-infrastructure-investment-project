@@ -1,0 +1,20 @@
+FIRM         : TCBI (CIK 0001077428) | FY2018
+FILE         : 0001077428_TCBI_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Costs incurred in connection with development or purchase of internal use software and cloud computing arrangements, including an in-substance software license, are capitalized. Amortization is computed on a straight-line basis over the estimated useful life of the asset, which generally range from ||| "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40 - Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract" ||| ASU 2018-15 "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40 - Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract" ("ASU 2018-15") aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). ASU 2018-15 will be effective for us on January 1, 2020 and is not expected to have an impact on our consolidated financial statements as we currently apply this guidance in practice.

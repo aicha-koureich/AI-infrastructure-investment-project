@@ -1,0 +1,23 @@
+FIRM         : AWRE (CIK 0001015739) | FY2021
+FILE         : 0001015739_AWRE_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : office equipment, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2021 2020 Land $ 1,056 $ 1,056 Building and improvements 9,166 9,166 Computer and office equipment 1,310 1,283 Purchased software 155 154 Furniture and fixtures 778 778 Total 12,465 12,437 Less accumulated depreciation (9,249 ) (8,736 ) Property and equipment, net $ 3,216 $ 3,701
+
+[VERBATIM — Changement de politique]
+Service revenue consists of fees from biometrics customers for software engineering services. We recognize services revenue over time as the services are delivered using an input method (i.e., labor hours incurred as a percentage of total labor hours budgeted), provided all other revenue recognition criteria are met. The use of the over-time revenue recognition method requires judgment in developing budgeted labor hours. Changes in budgeted hours may occur and the resulting impact on revenue recognition is accounted for in the period of the change in estimate.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : CRNC (CIK 0001768267) | FY2024
+FILE         : 0001768267_CRNC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-09-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 8. Property and Equipment, Net Property and equipment, net consisted of the following (dollars in thousands): Useful Life September 30, (In years) 202
+ASSET CAT.   : Equipment, Machinery and equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment, Net Property and equipment, net consisted of the following (dollars in thousands): Useful Life September 30, (In years) 2024 2023 Machinery and equipment 3 - 5 $ 14,297 $ 12,391 Computers, software and equipment 3 - 5 65,748 62,151 Leasehold improvements 2 - 15 9,457 10,378 Furniture and fixtures 5 - 7 3,646 3,736 Finance leases 3,428 3,427 Construction in progress 1,090 2,296 Subtotal 97,666 94,379 Less: accumulated depreciation ( 67,527 ) ( 60,366 ) Total $ 30,139 $ 34,013 As of September 30, 2024 and 2023, the net book value of capitalized internal-use software costs was $ 16.9 million a nd $ 17.2 million, respectively, which are includ ed within computers, software, and equipment.
+
+[VERBATIM — Infrastructure IA]
+Cost of connected services revenue for fiscal year 2024 was $24.8 million, an increase of $1.8 million, or 7.8%, from $23.0 million for fiscal year 2023. Cost of connected services revenue increased primarily due to a $1.6 million increase in our cloud infrastructure costs and a $1.0 million increase from higher internal allocated labor. The increase was partially offset by a $0.7 million decrease in salary-related expenditures. As a percentage of total cost of revenue, cost of connected service revenue increased by 4.2 percentage points from 24.2% for fiscal year 2023 to 28.4% for fiscal year 2024.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

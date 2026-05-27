@@ -1,0 +1,20 @@
+FIRM         : BANC (CIK 0001169770) | FY2022
+FILE         : 0001169770_BANC_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment, furniture
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment are recorded at cost less accumulated depreciation. The straight-line method is used for depreciation with the following estimated useful lives: building - 40 years; leasehold improvements - shorter of useful life or life of lease; and furniture, fixtures, and equipment - 3 to 7 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

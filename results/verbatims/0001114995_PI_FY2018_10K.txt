@@ -1,0 +1,24 @@
+FIRM         : PI (CIK 0001114995) | FY2018
+FILE         : 0001114995_PI_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 15. Retirement Plans
+ASSET CAT.   : equipment, Computer equipment, Furniture and fixtures
+DURÉE        : 2.0-5.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-3.0 ans | 2.0-5.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Category Useful Life Laboratory equipment 2 to 5 years Computer equipment and software 2 to 5 years Furniture and fixtures 3 to 7 years Equipment acquired under capital leases 3 to 7 years Leasehold improvements Shorter of lease term or expected useful life
+
+[VERBATIM — Changement de politique]
+In August 2018, the FASB issued guidance to align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. This guidance is effective for fiscal years beginning after December 15, 2019, including the interim periods within those fiscal years. Early adoption of this guidance is permitted. We plan to early adopt this guidance prospectively effective January 1, 2019 and do not expect the adoption of this guidance to impact our financial positions, results of operations or cash flows.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

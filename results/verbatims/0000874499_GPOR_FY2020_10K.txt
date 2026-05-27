@@ -1,0 +1,20 @@
+FIRM         : GPOR (CIK 0000874499) | FY2020
+FILE         : 0000874499_GPOR_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-09-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2
+ASSET CAT.   : equipment
+DURÉE        : 3.0-30.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of other property and equipment is provided on a straight-line basis over the estimated useful lives of the related assets, which range from 3 to 30 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

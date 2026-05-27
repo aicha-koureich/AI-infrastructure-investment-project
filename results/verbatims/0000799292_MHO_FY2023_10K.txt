@@ -1,0 +1,20 @@
+FIRM         : MHO (CIK 0000799292) | FY2023
+FILE         : 0000799292_MHO_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2030-02-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3
+ASSET CAT.   : computer equipment, computer software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Year Ended December 31, (In thousands) 2023 2022 Office furnishings, leasehold improvements, computer equipment and computer software $ 39,650 $ 38,489 Transportation and construction equipment 20,729 20,735 Property and equipment 60,379 59,224 Accumulated depreciation (25,461) (21,778) Property and equipment, net $ 34,918 $ 37,446
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

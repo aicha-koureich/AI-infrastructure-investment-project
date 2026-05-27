@@ -1,0 +1,20 @@
+FIRM         : TVRD (CIK 0001346830) | FY2021
+FILE         : 0001346830_TVRD_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-03-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, office equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment (consisting of computer and office equipment, furniture and fixtures and leasehold improvements) are stated at cost, net of accumulated depreciation and amortization of leasehold improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

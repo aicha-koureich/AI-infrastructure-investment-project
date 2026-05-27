@@ -1,0 +1,20 @@
+FIRM         : PNW (CIK 0000764622) | FY2021
+FILE         : 0000764622_PNW_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 20. Changes in Accumulated Other Comprehensive Loss
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Palo Verde sale leaseback property, plant and equipment, net of accumulated depreciation
+
+[VERBATIM — Infrastructure IA]
+Retail electricity sales in kWh, adjusted to exclude the effects of weather variations, for the year ended December 31, 2021, compared with the prior-year period increased 4.2%, which reflects a correction to 2020 commercial and industrial customer sales volumes of 111 GWh (“2020 Sales Volume Correction.”). The 2020 Sales Volume Correction impacted prior disclosure in our Quarterly Reports on Form 10-Q. The retail electricity sales in kWh, adjusted to exclude the effects of weather variations, for the three-month period ended March 31, 2021, the six-month period ended June 30, 2021, and the nine-month period ended Sept 30, 2021 with the 2020 Sales Volume Correction reflected would have been 0.2%, 3.1% and 3.5%, respectively. While steady customer growth was offset by energy savings driven by customer conservation, energy efficiency, and distributed renewable generation initiatives, the main drivers of positive sales for this period were residential sales being stronger than anticipated due to continued work-from-home policies, a strong improvement in sales to commercial and industrial customers, and the ramp-up of new data center customers. Though the total expected impact of COVID-19 on future sales is currently unknown, APS experienced higher electric residential sales and lower electric commercial and industrial sales from the outset of the pandemic through April 2021. Beginning in May 2021, electric sales to commercial and industrial customers increased to levels in line with pre-COVID sales.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

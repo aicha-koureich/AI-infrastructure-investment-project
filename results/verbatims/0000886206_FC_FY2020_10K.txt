@@ -1,0 +1,20 @@
+FIRM         : FC (CIK 0000886206) | FY2020
+FILE         : 0000886206_FC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : AUGUST 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost. Depreciation expense, which includes depreciation on our corporate campus that is accounted for as a financing obligation (Note 7), is calculated using the straight-line method over the lesser of the expected useful life of the asset or the contracted lease period. We generally use the following depreciable lives for our major classifications of property and equipment:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement ||| In August 2018, the FASB issued ASU No. 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (ASU 2018-15). This guidance clarifies the accounting for implementation costs in a cloud computing arrangement that is a service contract and aligns the requirements for capitalizing those costs with the capitalization requirements for costs incurred to develop or obtain internal-use software. The new standard is effective for interim and annual periods beginning after December 15, 2019, and early adoption is permitted. We are currently evaluating the effects, if any, the adoption of ASU 2018-15 may have on our financial position, results of operations, cash flows, or disclosures.

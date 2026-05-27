@@ -1,0 +1,21 @@
+FIRM         : PANW (CIK 0001327567) | FY2013
+FILE         : 0001327567_PANW_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 15. Subsequent Events
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-7.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+July 31, 2013 2012 Computers, equipment, and software $ 27,239 $ 12,016 Demonstration units 11,401 8,440 Leasehold improvements 10,176 8,913 Furniture and fixtures 2,746 2,436 Total property and equipment 51,562 31,805 Less: accumulated depreciation and amortization (19,476 ) (10,826 ) Total property and equipment, net $ 32,086 $ 20,979
+
+[VERBATIM — Infrastructure IA]
+We have pioneered the next generation of network security with our innovative platform that allows enterprises, service providers, and government entities to secure their networks and safely enable the increasingly complex and rapidly growing number of applications running on their networks. The core of our platform is our Next-Generation Firewall, which delivers application, user, and content visibility and control as well as protection against cyber threats integrated within the firewall through our proprietary hardware and software architecture. Our products and services can address a broad range of our end-customers’ network security requirements, from the data center to the network perimeter, as well as the distributed enterprise, which includes branch offices and a growing number of mobile devices.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

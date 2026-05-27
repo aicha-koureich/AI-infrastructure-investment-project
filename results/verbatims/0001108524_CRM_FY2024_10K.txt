@@ -1,0 +1,21 @@
+FIRM         : CRM (CIK 0001108524) | FY2024
+FILE         : 0001108524_CRM_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Business and Significant Accounting Policies
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation. Depreciation is calculated on a straight-line basis over the estimated useful lives of those assets as follows: Buildings and building improvements 10 to 40 years Computers, equipment and software 3 to 5 years Furniture and fixtures 5 years Leasehold improvements Shorter of the estimated lease term or 10 years
+
+[VERBATIM — Infrastructure IA]
+The Company has operating leases for corporate offices, data centers and equipment under noncancellable operating and finance leases with various expiration dates. The leases have noncancellable remaining terms of 1 year to 15 years, some of which include options to extend for up to 5 years, and some of which include options to terminate within 1 year.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Our platform unites sales, service, marketing, commerce and IT teams by connecting customer data across systems, apps and devices to create a complete view of customers. With this single source of customer truth and integrated AI, teams can be more responsive, productive and efficient, deliver intelligent, personalized experiences across every channel and increase productivity. During the third quarter of fiscal 2025, we introduced Agentforce, a new layer of our trusted platform that enables companies to build and deploy AI agents that can respond to inputs, make decisions and take action autonomously across business functions. Agentforce includes a suite of customizable agents for use across sales, service, marketing and commerce. We continue to invest for growth, including investing in generative and agentic AI across all products, which we believe will change how our customers help their customers, and continuously look to expand our leadership role in the cloud computing industry. ||| Subscription and support revenues include subscription fees from customers accessing our enterprise cloud computing services (collectively, “Cloud Services”), software license revenues from the sales of term software licenses, and support revenues from the sale of support and updates beyond the basic subscription fees or related to the sales of software licenses. Our Cloud Services allow customers to use our multi-tenant software without taking possession of the software. Revenue is generally recognized ratably over the contract term. Subscription and support revenues also include revenues associated with term software licenses that provide the customer with a right to use the software as it exists when made available. Revenues from term software licenses are generally recognized at the point in time when the software is made available to the customer. Revenue from support and updates is recognized as such support and updates are provided, which is generally ratably over the contract term. Changes in contract duration for multi-year term software licenses can impact the amount of revenues recognized upfront. Revenues from term software licenses represent less than ten percent of total subscription and support revenue for fiscal 2025. ||| Revenue Recognition - Contracts with Multiple Performance Obligations. We enter into contracts with our customers that may include promises to transfer multiple Cloud Services, software licenses, premium support and professional services. A performance obligation is a promise in a contract with a customer to transfer products or services that are distinct. Determining whether products and services are distinct performance obligations that should be accounted for separately or combined as one unit of accounting may require significant judgment.

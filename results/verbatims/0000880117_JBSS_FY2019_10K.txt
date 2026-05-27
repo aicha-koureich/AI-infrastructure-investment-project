@@ -1,0 +1,26 @@
+FIRM         : JBSS (CIK 0000880117) | FY2019
+FILE         : 0000880117_JBSS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 27, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 — SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and
+equipment are stated at cost. Major improvements that extend the useful life, add capacity or add functionality are capitalized and charged to expense through depreciation. Repairs and maintenance costs are charged to expense as incurred. The cost
+and accumulated depreciation of assets sold or retired are removed from the respective accounts, and any gain or loss is recognized currently in operating income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15 “ Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract ”.
+The amendments in this Update align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal use software license). The accounting for the service element of a hosting arrangement that is a service contract is not affected by the
+amendments in this Update. The amendments in this Update are effective for public business entities for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years. Early adoption of the amendments in this
+Update is permitted, including adoption in any interim period, for all entities. The amendments in this Update should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. This Update
+will be effective for the Company in fiscal 2021. We do not expect this accounting Update to have a material impact on our Consolidated Financial Statements.

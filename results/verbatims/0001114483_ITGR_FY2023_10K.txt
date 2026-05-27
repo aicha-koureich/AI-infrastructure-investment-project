@@ -1,0 +1,20 @@
+FIRM         : ITGR (CIK 0001114483) | FY2023
+FILE         : 0001114483_ITGR_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-05
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 21 - Subsequent Events
+ASSET CAT.   : machinery and equipment, Information technology, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+PP&E comprises the following (in thousands): December 31, 2023 2022 Manufacturing machinery and equipment $ 436,834 $ 392,109 Buildings and building improvements 105,733 101,445 Information technology hardware and software 72,241 68,205 Leasehold improvements 90,510 87,616 Furniture and fixtures 18,089 17,614 Land and land improvements 13,358 13,173 Construction work in process 148,342 73,632 Other 1,537 1,478 886,644 755,272 Accumulated depreciation (478,690) (438,029) Total $ 407,954 $ 317,243
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

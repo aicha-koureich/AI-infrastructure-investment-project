@@ -1,0 +1,21 @@
+FIRM         : MSA (CIK 0000066570) | FY2021
+FILE         : 0000066570_MSA_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1—Significant Accounting Policies
+ASSET CAT.   : machinery and equipment, equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Depreciation is computed primarily using the straight-line method over the estimated useful lives of the assets, generally as follows: buildings 20 to 40 years, and machinery and equipment 3 to 10 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

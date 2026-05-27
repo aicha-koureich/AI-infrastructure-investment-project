@@ -1,0 +1,20 @@
+FIRM         : CFR (CIK 0000039263) | FY2024
+FILE         : 0000039263_CFR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4 - Premises and Equipment and Lease Commitments
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of premises and equipment totaled $61.9 million in 2024, $60.6 million 2023 and $57.4 million in 2022.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Technology, Furniture and Equipment. Technology, furniture and equipment expense for 2024 increased $13.2 million, or 9.8%, compared to 2023. The increase was primarily related to increases in cloud services expense (up $9.2 million), service contracts expense (up $3.4 million), software amortization (up $1.2 million), and software maintenance expense (up $1.2 million), among other things. The increase from these items was partly offset by a decrease in depreciation on furniture and equipment (down $2.3 million), among other things. ||| Technology, furniture and equipment expense for 2024 increased $13.2 million, or 9.8%, compared to 2023. The increase was primarily related to increases in cloud services expense (up $9.2 million), service contracts expense (up $3.4 million), software amortization (up $1.2 million), and software maintenance expense (up $1.2 million), among other things. The increase from these items was partly offset by a decrease in depreciation on furniture and equipment (down $2.3 million), among other things. ||| Non-interest expense for 2024 increased $61.0 million, or 5.7%, compared to 2023. The increase was primarily related to increases in salaries and wages; technology, furniture, and equipment expense; other non-interest expense; employee benefit expense; and net occupancy expense, partly offset by a decrease in deposit insurance expense. The increase in salaries and wages was primarily related to an increase in salaries due to annual merit and market increases and an increase in the number of employees. Salaries and wages were also impacted, to a lesser extent, by increases in incentive compensation and commissions and a decrease in stock-based compensation. The increase in technology, furniture, and equipment expense was primarily related to increases in cloud services expense, service contracts expense, software amortization, and software maintenance expense, among other things. The increase in other non-interest expense included increases in advertising/promotions expense; professional services expense,

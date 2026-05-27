@@ -1,0 +1,24 @@
+FIRM         : LULU (CIK 0001397187) | FY2021
+FILE         : 0001397187_LULU_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-03-23
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost less accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+Acquired finite-lived intangible assets are amortized on a straight-line basis over their estimated useful lives, and are reviewed for impairment when events or circumstances indicate that the asset group to which the intangible assets belong might be impaired. The Company revises the estimated remaining useful life of these assets when events or changes in circumstances warrant a revision. If the Company revises the useful life, the unamortized balance is amortized over the remaining useful life on a prospective basis.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Capital expenditures related to corporate activities and other were $123.2 million and $57.8 million in 2021 and 2020, respectively. The capital expenditures in each fiscal year were primarily related to investments in technology and business systems, and for capital expenditures related to opening retail locations other than company-operated stores. The increase in capital expenditures for our corporate activities and other was partially due to more larger scale projects, this was partially offset by a continued shift to cloud computing in 2021. Implementation costs related to cloud service arrangements are recognized within other non-current assets in the consolidated balance sheets and the associated cash flows are included in operating activities.

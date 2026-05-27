@@ -1,0 +1,20 @@
+FIRM         : AYI (CIK 0001144215) | FY2018
+FILE         : 0001144215_AYI_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+For financial reporting purposes, depreciation is determined principally on a straight-line basis using estimated useful lives of plant and equipment (
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| (“ASU 2018-15”), which will require customers to apply internal-use software guidance to determine the implementation costs that are able to be capitalized. Capitalized implementation costs will be required to be amortized over the term of the arrangement, beginning when the cloud computing arrangement is ready for its intended use. ASU 2018-15 is effective for fiscal years (and interim reporting periods within those years) beginning after December 15, 2019. The Company will implement the standard as required in fiscal 2021. The provisions of ASU 2018-15 are not expected to have a material effect on the Company's financial condition, results of operations, or cash flows. ||| In August 2018, the FASB issued ASU No. 2018-15, Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (“ASU 2018-15”), which will require customers to apply internal-use software guidance to determine the implementation costs that are able to be capitalized. Capitalized implementation costs will be required to be amortized over the term of the arrangement, beginning when the cloud computing arrangement is ready for its intended use. ASU 2018-15 is effective for fiscal years (and interim reporting periods within those years) beginning after December 15, 2019. The Company will implement the standard as required in fiscal 2021. The provisions of ASU 2018-15 are not expected to have a material effect on the Company's financial condition, results of operations, or cash flows.

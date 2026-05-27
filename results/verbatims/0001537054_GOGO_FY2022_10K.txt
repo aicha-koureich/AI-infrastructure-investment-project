@@ -1,0 +1,23 @@
+FIRM         : GOGO (CIK 0001537054) | FY2022
+FILE         : 0001537054_GOGO_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 1. Background
+ASSET CAT.   : Equipment, Network equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment and Depreciation - Property and equipment, including leasehold improvements, are stated at historical cost, less accumulated depreciation. Network asset inventory and construction in progress, which include materials, transmission and related equipment, interest and other costs relating to the construction and development of our network, are not depreciated until they are put into service. Depreciation of property and equipment is computed using the straight-line method over the estimated useful lives for owned assets, which are as follows:
+
+[VERBATIM — Changement de politique]
+Improvements to leased property are depreciated over the shorter of the useful life of the improvement or the term of the related lease. We reassess the useful lives of leasehold improvements when there are changes to the terms of the underlying lease. Such reassessment has resulted in the useful life of specific assets being adjusted to a shorter period than originally estimated, resulting in an increase in annual depreciation expense for those assets. Repairs and maintenance costs are expensed as incurred.
+
+[VERBATIM — Infrastructure IA]
+Cash used in investing activities from continuing operations was $70.4 million, $16.3 million and $9.0 million, respectively, for the years ended December 31, 2022, 2021 and 2020. Investing activities are primarily comprised of capital expenditures related to software development, data center upgrades and cell site construction. Cash used in investing activities for the year ended December 31, 2022 included proceeds of $4.3 million from interest rate caps, while cash used in investing activities for the year ended December 31, 2021 included $8.6 million for the purchase of interest rate caps. Additionally, cash used in investing activities for the year ended December 31, 2022 included the purchase of short-term investments for $24.8 million.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

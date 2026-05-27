@@ -1,0 +1,21 @@
+FIRM         : EGHT (CIK 0001023731) | FY2022
+FILE         : 0001023731_EGHT_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-05-09
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. THE COMPANY AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : furniture and fixtures
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 4.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, less accumulated depreciation and amortization. Estimated useful lives of three years are used for equipment, capitalized internal-use software, and software development costs, and five years for furniture and fixtures.
+
+[VERBATIM — Infrastructure IA]
+The Company primarily leases facilities for office and data center space under non-cancellable operating leases for its United States and international locations that expire at various dates through 2030. For leases with a term greater than 12 months, the Company recognizes a right-of-use asset and a lease liability based on the present value of lease payments over the lease term. Variable lease payments are not included in the lease payments to measure the lease liability and are expensed as incurred.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Other revenue consists of revenue from professional services, primarily in support of deployment of our solutions and/or platform, and revenue from sales and rentals of IP telephones in conjunction with our cloud telephony service. Other revenue is dependent on the number of customers who choose to purchase or rent an IP telephone hardware in conjunction with our service instead of using the solution on their cell phone, computer, or other compatible device, and/or choose to engage our professional services organization for implementation and deployment of our cloud services.

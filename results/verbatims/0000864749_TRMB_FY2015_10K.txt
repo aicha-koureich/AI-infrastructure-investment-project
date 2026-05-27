@@ -1,0 +1,20 @@
+FIRM         : TRMB (CIK 0000864749) | FY2015
+FILE         : 0000864749_TRMB_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 1, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 18: SELECTED QUARTERLY FINANCIAL DATA (UNAUDITED)
+ASSET CAT.   : equipment, Machinery and equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+At the End of Fiscal Year 2015 2014 (In millions) Property and equipment, net: Machinery and equipment $ 115.8 $ 109.8 Software and licenses 112.1 93.5 Furniture and fixtures 26.8 26.1 Leasehold improvements 30.4 26.6 Construction in progress 13.5 24.7 Buildings 48.1 48.5 Land 8.2 5.0 354.9 334.2 Less accumulated depreciation (195.7 ) (176.8 ) Total $ 159.2 $ 157.4
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

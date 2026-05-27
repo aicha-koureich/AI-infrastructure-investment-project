@@ -1,0 +1,20 @@
+FIRM         : CNXN (CIK 0001050377) | FY2023
+FILE         : 0001050377_CNXN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We are a Fortune 1000 Global Solutions Provider that simplifies the IT customer experience, guiding the connection between people and technology. Our dedicated account managers partner with customers to design, deploy, and support cutting-edge IT environments using the latest hardware, software, and services. We provide a wide range of IT solutions, from the desktop to the cloud—including computer systems, data center solutions, software and peripheral equipment, networking communications, and other products and accessories that we purchase from manufacturers, distributors, and other suppliers. In 2023, we restructured and combined our Technology Solutions Group and Technical Sales Organization into one organization to be referred to as our TSO. Our TSO and state-of-the-art TIDC, with ISO 9001:2015 certified technical configuration lab offer end-to-end services related to the design, configuration, and implementation of IT solutions. Our team also provides a comprehensive portfolio of managed services and professional services. These services are performed by our personnel and by third-party providers. Our GlobalServe offering ensures worldwide coverage for our multinational customers, delivering global procurement solutions through our network of in-country suppliers in over 150 countries.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+As the AI market continues to evolve, it is difficult to predict and forecast its potential impact on our business and results of operations in the future. We may be required to make significant investments to keep up with increasing competition surrounding AI. Additionally, potential issues with the AI products we sell could have an adverse effect on our business and results of operations in the future.

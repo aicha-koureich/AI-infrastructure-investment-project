@@ -1,0 +1,23 @@
+FIRM         : WMB (CIK 0000107263) | FY2014
+FILE         : 0000107263_WMB_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 11 – Property, Plant, and Equipment
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Gains or losses from the ordinary sale or retirement of property, plant, and equipment for regulated pipelines are credited or charged to accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+Several factors are considered in the annual review process, including inflation rates, current estimates for removal cost, discount rates, and the estimated remaining life of the assets. The 2014 revisions primarily reflect an increase in the estimated retirement costs for our offshore pipelines, an increase in the inflation rate and decreases in the discount rates used in the annual review process. The 2013 revision primarily reflects increases in the estimated remaining useful life of the assets. The 2013 revision also includes an increase of $9 million related to changes in the timing and method of abandonment on certain of Transco’s natural gas storage caverns that were associated with a leak in 2010.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

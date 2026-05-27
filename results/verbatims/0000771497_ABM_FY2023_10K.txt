@@ -1,0 +1,20 @@
+FIRM         : ABM (CIK 0000771497) | FY2023
+FILE         : 0000771497_ABM_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 8. PROPERTY, PLANT AND EQUIPMENT
+ASSET CAT.   : Equipment, Machinery, Computer equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment As of October 31, (in millions) 2023 2022 Machinery and other equipment $ 170.7 $ 158.7 Computer equipment and software 110.7 106.8 Transportation equipment 79.0 64.1 Leasehold improvements 69.3 67.0 Furniture and fixtures 19.8 17.3 Buildings 7.7 7.7 Land 0.8 0.7 458.0 422.2 Less: Accumulated depreciation (1) 326.5 296.9 Total $ 131.5 $ 125.4
+
+[VERBATIM — Infrastructure IA]
+REPORTABLE SEGMENTS AND DESCRIPTIONS B&I B&I, our largest reportable segment, encompasses janitorial, facilities engineering, and parking services for commercial real estate properties (including corporate offices for high tech clients), sports and entertainment venues, and traditional hospitals and non-acute healthcare facilities. B&I also provides vehicle maintenance and other services to rental car providers. M&D M&D provides integrated facility services, engineering, janitorial, and other specialized services in different types of manufacturing, distribution, and data center facilities. Manufacturing facilities include traditional motor vehicles, electric vehicles, batteries, pharmaceuticals, steel, semiconductors, chemicals, and many others. Distribution facilities include e-commerce, cold storage, logistics, general warehousing, and others. Education Education delivers janitorial, custodial, landscaping and grounds, facilities engineering, and parking services for public school districts, private schools, colleges, and universities. Aviation Aviation supports airlines and airports with services ranging from parking and janitorial to passenger assistance, catering logistics, air cabin maintenance, and transportation. Technical Solutions Technical Solutions specializes in facility infrastructure, mechanical and electrical services, including EV power design, installation and maintenance, as well as microgrid systems installations. These services can also be leveraged for cross-selling across all of our industry groups, both domestically and internationally.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+At October 31, 2023 and 2022, other noncurrent assets primarily consisted of long-term insurance recoverables, interest rate swap assets, capitalized commissions, cloud computing arrangements, prepayments to carriers for future insurance claims, and insurance deposits.

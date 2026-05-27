@@ -1,0 +1,21 @@
+FIRM         : MPWR (CIK 0001280452) | FY2015
+FILE         : 0001280452_MPWR_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Computer, software and production equipment have estimated useful lives of three to seven years. Transportation equipment has estimated useful lives of 5 to 15 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We are a leading company in high performance power solutions. Founded in 1997, we design and provide small, highly energy efficient, easy-to-use power solutions for systems found in industrial applications, telecommunication infrastructures, cloud computing, automotive, and consumer applications. Our mission is to reduce total energy consumption in our customers' systems with green, practical, compact solutions. We believe that we differentiate ourselves by offering solutions that are more highly integrated, smaller in size, more energy efficient, more accurate with respect to performance specifications and, consequently, more cost-effective than many competing solutions. We plan to continue to introduce new products within our existing product families, as well as in new innovative product categories. ||| In July 2014, we completed the acquisition of Sensima Technology SA (“Sensima”), a company located in Switzerland that develops magnetic sensors for angle measurements as well as three-dimensional magnetic field sensing. Sensima became a subsidiary of MPS and changed its name to MPS Tech Switzerland Sarl. The acquisition creates new opportunities with customers by offering enhanced solutions in power management for key industries such as automotive, industrial and cloud computing. The purchase consideration consisted of an upfront cash payment of $11.7 million and additional consideration that is contingent upon Sensima achieving a new product introduction and certain revenue and direct margin goals in 2016, with a fair value of $2.5 million at the date of acquisition. In addition, key employees received $1.7 million of time-based restricted stock units and up to $8.0 million of performance-based restricted stock units in connection with the transaction. These equity awards are considered arrangements for post-acquisition services and the related compensation expense is recognized over the requisite service period if it is probable that the performance goals will be met. The results of operations of Sensima have been included in our consolidated financial statements subsequent to the acquisition date. ||| Sensima became a subsidiary of MPS and changed its name to MPS Tech Switzerland Sarl. The acquisition creates new opportunities with customers by offering enhanced solutions in power management for key industries such as automotive, industrial and cloud computing. The purchase consideration consisted of an upfront cash payment of $11.7 million and additional consideration that is contingent upon Sensima achieving a new product introduction and certain revenue and direct margin goals in 2016, with a fair value of $2.5 million at the date of acquisition. In addition, key employees received $1.7 million of time-based restricted stock units and up to $8.0 million of performance-based restricted stock units in connection with the transaction. These equity awards are considered arrangements for post-acquisition services and the related compensation expense is recognized over the requisite service period if it is probable that the performance goals will be met. The results of operations of Sensima have been included in our consolidated financial statements subsequent to the acquisition date.

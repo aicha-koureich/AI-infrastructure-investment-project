@@ -1,0 +1,20 @@
+FIRM         : GME (CIK 0001326380) | FY2022
+FILE         : 0001326380_GME_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 8. Property and Equipment
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful Lives (Years) January 28, 2023 January 29, 2022 Land N/A $ 0.6 $ 4.2 Buildings and leasehold improvements 1-10 437.3 457.8 Fixtures and equipment 3-10 380.1 431.2 Software and hardware 3 306.3 291.2 Construction-in-progress 3-10 19.0 9.0 Total property and equipment 1,143.3 1,193.4 Accumulated depreciation (1,006.8) (1,029.8) Property and equipment, net $ 136.5 $ 163.6
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

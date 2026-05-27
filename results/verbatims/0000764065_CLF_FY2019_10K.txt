@@ -1,0 +1,21 @@
+FIRM         : CLF (CIK 0000764065) | FY2019
+FILE         : 0000764065_CLF_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 12 - DERIVATIVE INSTRUMENTS AND HEDGING ACTIVITIES
+ASSET CAT.   : information technology, equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-15.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Asset Class Basis Life Land rights and mineral rights Units of production Life of mine Office and information technology Straight line 3 to 15 years Buildings Straight line 45 years Mining equipment Straight line/Double declining balance 3 to 20 years Processing equipment Straight line 10 to 45 years Electric power facilities Straight line 10 to 45 years Land improvements Straight line 20 to 45 years Asset retirement obligation Straight line Life of mine
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

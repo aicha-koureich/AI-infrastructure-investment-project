@@ -1,0 +1,21 @@
+FIRM         : MMM (CIK 0000066740) | FY2013
+FILE         : 0000066740_MMM_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. Significant Accounting Policies
+ASSET CAT.   : equipment, machinery and equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-15.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation of property, plant and equipment generally is computed using the straight-line method based on the estimated useful lives of the assets. The estimated useful lives of machinery and equipment primarily range from three to 15 years, with the majority in the range of five to 10 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

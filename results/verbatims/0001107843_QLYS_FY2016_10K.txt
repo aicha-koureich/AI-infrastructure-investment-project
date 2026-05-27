@@ -1,0 +1,20 @@
+FIRM         : QLYS (CIK 0001107843) | FY2016
+FILE         : 0001107843_QLYS_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+, our VM Solutions included revenues from VM, Private Cloud Platform, Continuous Monitoring, Cloud Agent for VM, AssetView, and ThreatPROTECT. In ||| , our VM Solutions included revenues from VM, Private Cloud Platform, Continuous Monitoring and Cloud Agent for VM. In ||| , our VM Solutions included revenues from VM, Private Cloud Platform and Continuous Monitoring. In prior 10-Q and 10-K filings, we had included all revenues from scanners and credits for prepaid services in our VM Solutions revenues. In the fourth quarter of 2016, we changed the methodology to allocate revenues from scanners and credits across our products. Based on the prior methodology, our VM Solutions would have made up

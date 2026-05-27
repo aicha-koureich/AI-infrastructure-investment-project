@@ -1,0 +1,20 @@
+FIRM         : FISV (CIK 0000798354) | FY2020
+FILE         : 0000798354_FISV_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are amortized using the straight-line method over their estimated useful lives, generally five years.
+
+[VERBATIM — Infrastructure IA]
+On February 18, 2020, the Company sold a 60% controlling interest of its Investment Services business, subsequently renamed as Tegra118, LLC (“Tegra118”), which is reported within Corporate and Other following the Segment Realignment. The Company received pre-tax proceeds of $578 million, net of related expenses, resulting in a pre-tax gain on the sale of $428 million, with the related tax expense of $112 million recorded through the income tax provision, in the consolidated statement of income for the year ended December 31, 2020. The pre-tax gain included $176 million related to the remeasurement of the Company’s 40% retained interest based upon the enterprise value of the business. The revenues, expenses and cash flows of the Investment Services business were consolidated into the Company’s financial results through the date of the sale transaction. In conjunction with the sale transaction, the Company also entered into transition services agreements to provide, at fair value, various administration, business process outsourcing, technical and data center related services for defined periods to Tegra118 (see Note 20). The Company’s remaining ownership interest in Tegra118 is accounted for as an equity method investment (see Note 9). On February 2, 2021, Tegra118 completed a merger with a third party, resulting in a dilution of the Company’s ownership interest in the combined new entity, Wealthtech Holdings, LLC.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In 2018, the Financial Accounting Standards Board (“FASB”) issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (“ASU 2018-15”), which aligns the requirements for capitalizing implementation costs incurred in a cloud computing hosting arrangement that is a service contract within the requirements under ASC 350 for capitalizing implementation costs incurred to develop or obtain internal-use software. For public entities, ASU 2018-15 is effective for fiscal years, and interim periods within those years, beginning after December 15, 2019. Entities are permitted to apply either a retrospective or prospective transition approach to adopt the guidance. The Company adopted ASU 2018-15 effective January 1, 2020 using a prospective approach, and the adoption did not have a material impact on its consolidated financial statements. ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| (“ASU 2018-15”), which aligns the requirements for capitalizing implementation costs incurred in a cloud computing hosting arrangement that is a service contract within the requirements under ASC 350 for capitalizing implementation costs incurred to develop or obtain internal-use software. For public entities, ASU 2018-15 is effective for fiscal years, and interim periods within those years, beginning after December 15, 2019. Entities are permitted to apply either a retrospective or prospective transition approach to adopt the guidance. The Company adopted ASU 2018-15 effective January 1, 2020 using a prospective approach, and the adoption did not have a material impact on its consolidated financial statements.

@@ -1,0 +1,23 @@
+FIRM         : TECH (CIK 0000842023) | FY2022
+FILE         : 0000842023_TECH_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-10-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of Business and Summary of Significant Accounting Policies:
+ASSET CAT.   : equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Equipment is depreciated using the straight-line method over an estimated useful life of 3 to 5 years.
+
+[VERBATIM — Changement de politique]
+In conjunction with the Asuragen acquisition that occurred in fiscal year 2021, the Company reassessed the useful life of a tradename from a previous acquisition due to the planned integration and cobranding strategy developed with the most recent transaction. As a result, the Company accelerated the amortization of the trade name to be consistent with the life used for the Asuragen trade name. The accelerated amortization resulted in a $1.4 million impact in fiscal 2021, a $5.7 million impact in fiscal years 2022 through 2025, and a $4.3 impact in fiscal year 2026.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . The standard aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The accounting for the service element of a hosting arrangement that is a service contract is not affected by the new standard. The Company adopted this standard on a prospective basis on July 1, 2020. Accordingly, as of July 1, 2020, the Company records eligible costs to be capitalized within prepaid assets or other non-current assets depending on the nature of the duration of the asset.

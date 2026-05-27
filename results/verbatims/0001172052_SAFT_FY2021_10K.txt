@@ -1,0 +1,20 @@
+FIRM         : SAFT (CIK 0001172052) | FY2021
+FILE         : 0001172052_SAFT_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment, computer software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, equipment, leasehold improvements, and software which are included in other assets are carried at cost less accumulated depreciation. The costs of computer software developed or obtained for internal use are capitalized and amortized over the estimated life of the business system, beginning when the software is ready for its intended use.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

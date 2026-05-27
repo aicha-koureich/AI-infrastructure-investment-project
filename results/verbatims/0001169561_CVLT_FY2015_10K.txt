@@ -1,0 +1,20 @@
+FIRM         : CVLT (CIK 0001169561) | FY2015
+FILE         : 0001169561_CVLT_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 12. Selected Quarterly Financial Data (unaudited)
+ASSET CAT.   : servers, equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+March 31, 2016 2015 Land $ 9,445 $ 9,445 Buildings 103,193 102,880 Computers, servers and other equipment 33,120 33,914 Furniture and fixtures 14,458 14,399 Leasehold improvements 6,948 4,621 Purchased software 1,279 2,463 Construction in process 165 619 168,608 168,341 Less: Accumulated depreciation and amortization (32,704 ) (28,133 ) $ 135,904 $ 140,208
+
+[VERBATIM — Infrastructure IA]
+Our software enables our customers to simply and cost effectively protect and manage their enterprise data throughout its lifecycle, from the mobile worker to the remote office, to the data center, covering the leading operating systems, relational databases, virtualized environments and applications. In addition to addressing today’s data and information management challenges, our customers can realize lower capital costs through more efficient use of their enterprise-wide storage infrastructure assets. This includes the automated movement of data from higher cost to lower cost storage devices throughout its lifecycle, and through sharing and better utilization of storage resources across the enterprise. We can also provide our customers with reduced operating costs through a variety of methods, including fast application deployment, reduced training time, lower cost of storage media consumables, proactive monitoring and analysis, and lower administrative overhead. We also provide our customers with a broad range of professional services that are delivered by our worldwide support and field operations. As of March 31, 2016 we had licensed our software applications to over  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

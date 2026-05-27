@@ -1,0 +1,20 @@
+FIRM         : GATX (CIK 0000040211) | FY2017
+FILE         : 0000040211_GATX_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. Description of Business
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We classify leases of certain railcars and other assets and facilities, such as maintenance facilities and equipment, as operating leases. We record the lease expense associated with these leases on a straight-line basis. We defer gains and financing costs associated with sale-leasebacks and amortize those gains and costs as a component of operating lease expense over the related leaseback term. We also classify our leases of office facilities and related administrative assets as operating leases, and we record the associated expense in selling, general and administrative expense. See "Note
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

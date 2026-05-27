@@ -1,0 +1,23 @@
+FIRM         : WFRD (CIK 0001603923) | FY2022
+FILE         : 0001603923_WFRD_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2022
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+PP&E is both owned and under finance leases. Owned PP&E are initially stated at cost and finance leases are initially stated at the present value of lease payments. Both are depreciated on straight-line basis over its estimated useful life. Subsequently, PP&E is measured at cost less accumulated depreciation and adjusted for impairment, when applicable. The carrying values are based on our estimates and judgments relative to capitalized costs, useful lives and salvage value, where applicable. We expense maintenance and repairs as incurred and capitalize expenditures for improvements as well as renewals and replacements that extend the useful life of the asset.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

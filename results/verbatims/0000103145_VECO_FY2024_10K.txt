@@ -1,0 +1,20 @@
+FIRM         : VECO (CIK 0000103145) | FY2024
+FILE         : 0000103145_VECO_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-15
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+The Semiconductor industry has historically demonstrated cyclicality based on fluctuations in global chip demand and production capacity. Sales in the Semiconductor industry are estimated to have increased year-over-year in 2024 to around $650 billion dollars. Looking ahead, industry analysts are forecasting long-term growth of the industry, driven by secular growth trends such as artificial intelligence, high-performance computing, mobile connectivity, and the electrification of the automotive industry. Additionally, government investments in the Semiconductor industry are projected to accelerate global spending in next-generation technologies.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

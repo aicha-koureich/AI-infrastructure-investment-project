@@ -1,0 +1,20 @@
+FIRM         : AXON (CIK 0001069183) | FY2020
+FILE         : 0001069183_AXON_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Internal-use software development costs are amortized on a straight line basis over the estimated useful life of the software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Axon Evidence and cloud services ||| Net sales for the TASER segment increased $84.9 million, or 30.1%, primarily as a result of a net increase of $49.6 million in TASER device sales and a $29.2 million increase in cartridge revenue. Cartridge revenue increased due to increased unit sales, partially offset by a slight decrease in average selling price. We continue to see a shift to purchases of our latest generation device, TASER 7, from legacy devices, especially X26P devices. Sales of our TASER 7 device also drove the increase in revenue from Axon Evidence and cloud services. Revenue was also impacted by higher average selling prices for TASER 7, X2, and X26P. Revenue from consumer TASER Pulse devices increased due to a substantial increase in volume, partially offset by lower average selling prices. ||| Net sales for the Software and Sensors segment increased $65.3 million, or 26.2%. Revenue from Axon Evidence and cloud services increased $46.5 million as we continued to add users and associated devices to our network during

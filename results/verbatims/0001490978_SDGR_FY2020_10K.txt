@@ -1,0 +1,23 @@
+FIRM         : SDGR (CIK 0001490978) | FY2020
+FILE         : 0001490978_SDGR_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Changes in tax law may adversely affect our business or financial condition. On December 22, 2017, President Trump signed into law the Tax Cuts and Jobs Act, or the 2017 Tax Act, which significantly revised the Internal Revenue Code of 1986, as amended, or the Code. The 2017 Tax Act, among other things, contained significant changes to corporate taxation, including a reduction of the corporate tax rate from a top marginal rate of 35% to a flat rate of 21%, the limitation of the tax deduction for net interest expense to 30% of adjusted earnings (except for certain small businesses), the limitation of the deduction for net operating losses arising in taxable years ending after December 31, 2017 to 80% of current year taxable income and elimination of net operating loss carrybacks for losses arising in taxable years ending after December 31, 2017 (though any such net operating losses may be carried forward indefinitely), the imposition of a one-time taxation of offshore earnings at reduced rates regardless of whether they are repatriated, the elimination of U.S. tax on foreign earnings (subject to certain important exceptions), the allowance of immediate deductions for certain new investments instead of deductions for depreciation expense over time, and the modification or repeal of many business deductions and credits.
+
+[VERBATIM — Infrastructure IA]
+We outsource substantially all of the infrastructure relating to our hosted software solutions to third-party hosting services. Customers of our hosted software solutions need to be able to access our computational platform at any time, without interruption or degradation of performance, and we provide them with service-level commitments with respect to uptime. Our hosted software solutions depend on protecting the virtual cloud infrastructure hosted by third-party hosting services by maintaining its configuration, architecture, features, and interconnection specifications, as well as the information stored in these virtual data centers, which is transmitted by third-party internet service providers. Any limitation on the capacity of our third-party hosting services could impede our ability to onboard new customers or expand the usage of our existing customers, which could adversely affect our business, financial condition, and results of operations. In addition, any incident affecting our third-party hosting services’ infrastructure that may be caused by cyber-attacks, natural disasters, fire, flood, severe storm, earthquake, power loss, telecommunications failures, terrorist or other attacks, and other similar events beyond our control could negatively affect our cloud-based solutions. A prolonged service disruption affecting our cloud-based solutions for any of the foregoing reasons would negatively impact our ability to serve our customers and could damage our reputation with current and potential customers, expose us to liability, cause us to lose  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

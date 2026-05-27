@@ -1,0 +1,21 @@
+FIRM         : NSC (CIK 0000702165) | FY2013
+FILE         : 0000702165_NSC_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 6. Properties Accumulated Net Book Depreciation At December 31, 2013 Cost Depreciation Value Rate (1) ($ in millions) Land $ 2,253 $ - $ 2,253 - Roadw
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 6.0 ans
+
+[VERBATIM — Durée de vie]
+Properties Accumulated Net Book Depreciation At December 31, 2013 Cost Depreciation Value Rate (1) ($ in millions) Land $ 2,253 $ - $ 2,253 - Roadway: Rail and other track material 5,934 (1,782) 4,152 2.46% Ties 4,464 (1,100) 3,364 3.24% Ballast 2,244 (468) 1,776 2.65% Construction in process 405 - 405 - Other roadway 11,704 (2,814) 8,890 2.55% Total roadway 24,751 (6,164) 18,587 Equipment: Locomotives 4,814 (1,918) 2,896 3.42% Freight cars 3,225 (1,429) 1,796 2.78% Computers and software 513 (292) 221 11.07% Construction in process 139 - 139 - Other equipment 862 (316) 546 6.15% Total equipment 9,553 (3,955) 5,598 Other property 475 (268) 207 1.15% Total properties $ 37,032 $ (10,387) $ 26,645 K 57
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

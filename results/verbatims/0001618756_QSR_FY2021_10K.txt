@@ -1,0 +1,23 @@
+FIRM         : QSR (CIK 0001618756) | FY2021
+FILE         : 0001618756_QSR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-04-06
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Significant Accounting Policies
+ASSET CAT.   : equipment, furniture
+DURÉE        : 17.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We record property and equipment at historical cost less accumulated depreciation and amortization, which is recognized using the straight-line method over the following estimated useful lives: (i) buildings and improvements – up to 40 years; (ii) restaurant equipment – up to 17 years; (iii) furniture, fixtures and other – up to 10 years; and (iv) manufacturing equipment – up to 25 years.
+
+[VERBATIM — Changement de politique]
+Our measure of segment income is Adjusted EBITDA. Adjusted EBITDA represents earnings (net income or loss) before interest expense, net, loss on early extinguishment of debt, income tax (benefit) expense, and depreciation and amortization, adjusted to exclude (i) the non-cash impact of share-based compensation and non-cash incentive compensation expense, (ii) (income) loss from equity method investments, net of cash distributions received from equity method investments, (iii) other operating expenses (income), net and, (iv) income/expenses from non-recurring projects and non-operating activities. For the periods referenced, this included (i) non-recurring fees and expense incurred in connection with the Firehouse Subs acquisition consisting of professional fees and compensation related expenses (“FHS Transaction costs”); (ii) costs from professional advisory and consulting services associated with certain transformational corporate restructuring initiatives that rationalize our structure and optimize cash movements, including services related to significant tax reform legislation, regulations and related restructuring initiatives (“Corporate restructuring and tax advisory fees”); and (iii) costs incurred in connection with the centralization and relocation of our Canadian and U.S. restaurant support centers to new offices in Toronto, Ontario, and Miami, Florida, respectively, (“Office centralization and relocation costs”).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

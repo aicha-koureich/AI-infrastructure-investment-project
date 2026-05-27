@@ -1,0 +1,20 @@
+FIRM         : KEX (CIK 0000056047) | FY2024
+FILE         : 0000056047_KEX_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+In the power generation market, revenues increased 20% compared to 2023 due to several large project awards from data center customers as well as other backup power industrial customers. For 2024 and 2023, the power generation market contributed 36% and 29%, respectively, of the distribution and services revenues.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

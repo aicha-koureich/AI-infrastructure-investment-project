@@ -1,0 +1,20 @@
+FIRM         : PFG (CIK 0001126328) | FY2019
+FILE         : 0001126328_PFG_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 12. Contingencies, Guarantees, Indemnifications and Leases – (continued)
+ASSET CAT.   : equipment, furniture, office equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As a lessee, we lease office space, data processing equipment, office furniture and office equipment under various operating leases. We also lease buildings and hardware storage equipment under finance leases. Lease assets and liabilities are recognized at the commencement of a lease based on the present value of lease payments over the lease term. We generally use our incremental borrowing rate based on the information available at the lease commencement date to determine the present value of lease payments. Lease term may include options to extend or terminate the lease when it is reasonably certain we will exercise the option. Leases with an initial term of twelve months or less are not recorded on the consolidated statements of financial position. We recognize lease expense for leases on a straight-line basis over the lease term. Some of our lease agreements include payments for property taxes, insurance, utilities or common area maintenance, which are not based on an index or rate. These payments are recognized in net income in the period in which the obligation has occurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Implementation costs in a cloud computing arrangement that is a service contract This authoritative guidance aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. This guidance can be applied either retrospectively or prospectively and early adoption is permitted. ||| Implementation costs in a cloud computing arrangement that is a service contract

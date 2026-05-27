@@ -1,0 +1,21 @@
+FIRM         : FICO (CIK 0000814547) | FY2017
+FILE         : 0000814547_FICO_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 22. Subsequent Events
+ASSET CAT.   : equipment and software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Estimated Useful Life Data processing equipment and software 3 years Office furniture and equipment 3 to 7 years Leasehold improvements Shorter of estimated useful life or lease term
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

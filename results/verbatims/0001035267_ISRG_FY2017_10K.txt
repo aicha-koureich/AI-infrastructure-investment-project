@@ -1,0 +1,21 @@
+FIRM         : ISRG (CIK 0001035267) | FY2017
+FILE         : 0001035267_ISRG_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 12. EMPLOYEE BENEFIT PLANS
+ASSET CAT.   : Equipment and furniture
+DURÉE        : 1.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 3.0 ans | 5.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Useful Lives Building Up to 30 years Building improvements Up to 15 years Leasehold improvements Lesser of useful life or term of lease Equipment and furniture 5 years Operating lease assets Greater of lease term or 1 to 5 years Computer and office equipment 3 years Enterprise-wide software 5 years Purchased software Lesser of 3 years or life of license
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,25 @@
+FIRM         : FLG (CIK 0000910073) | FY2018
+FILE         : 0000910073_FLG_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : premises
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises, furniture, fixtures, and equipment are carried at cost, less the accumulated depreciation computed on a straight-line basis over the
+estimated useful lives of the respective assets (generally 20 years for premises and three to ten years for furniture, fixtures, and equipment).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles – Goodwill and Other –
+Internal Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract. ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to
+develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). The accounting for the service element of a hosting
+arrangement that is a service contract is not affected by the amendment. ASU No. 2018-15 is effective for fiscal years beginning after December 31, 2019. The Company plans to early adopt ASU 2018-15 as of January 1, 2019. The adoption of ASU 2018-15 is not expected to have a material effect on the Company’s Consolidated Statements of Conditions, results
+of operations, or cash flows.

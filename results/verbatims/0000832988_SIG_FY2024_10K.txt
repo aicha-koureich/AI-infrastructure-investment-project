@@ -1,0 +1,20 @@
+FIRM         : SIG (CIK 0000832988) | FY2024
+FILE         : 0000832988_SIG_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 13. Property, plant and equipment, net
+ASSET CAT.   : Furniture and fixtures, Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(in millions) February 1, 2025 February 3, 2024 Land and buildings $ 16.7 $ 20.2 Leasehold improvements 703.8 710.9 Furniture and fixtures 746.9 749.5 Equipment 185.3 182.3 Software 261.5 240.0 Construction in progress 53.8 36.0 Total $ 1,968.0 $ 1,938.9 Accumulated depreciation and amortization (1,461.5) (1,441.2) Property, plant and equipment, net $ 506.5 $ 497.7
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Capitalized amounts for cloud computing arrangements accounted for as service contracts are included in other assets in the consolidated balance sheets. These costs primarily consist of payroll and payroll-related costs for employees directly associated with the implementation of cloud computing projects, consulting fees, and development fees. Amortization of these costs is recorded on a straight-line basis over the life of the service contract, ranging from two to four years. Amortization of these costs is recorded in cost of sales or SG&A, depending on the nature of the underlying service contract. In Fiscal 2025, the Company recorded $66.3 million of amortization related to capitalized cloud computing costs (Fiscal 2024: $48.2 million; Fiscal 2023: $32.5 million). The carrying amount of these assets was $157.5 million as of February 1, 2025 (February 3, 2024: $170.7 million).

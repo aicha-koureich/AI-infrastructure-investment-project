@@ -1,0 +1,20 @@
+FIRM         : TWLO (CIK 0001447669) | FY2023
+FILE         : 0001447669_TWLO_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Cost of revenue also includes cloud infrastructure fees, direct costs of personnel, such as salaries and stock‑based compensation for our customer support employees, and other non‑personnel costs, such as depreciation and amortization expense related to data centers and hosting equipment, amortization of capitalized internal-use software development costs and acquired intangible assets.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue consists primarily of fees paid to network service providers. Cost of revenue also includes cloud infrastructure fees, direct costs of personnel, such as salaries and stock‑based compensation for our customer support employees, and other non‑personnel costs, such as depreciation and amortization expense related to data centers and hosting equipment, amortization of capitalized internal-use software development costs and acquired intangible assets. Costs of revenue are generally directly attributable to each segment. Certain costs of revenue are allocated to segments based on methodologies that best reflect the patterns of consumptions of these costs.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

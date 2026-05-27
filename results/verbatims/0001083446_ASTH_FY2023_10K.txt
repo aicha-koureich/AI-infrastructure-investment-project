@@ -1,0 +1,21 @@
+FIRM         : ASTH (CIK 0001083446) | FY2023
+FILE         : 0001083446_ASTH_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 30.0-9.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 10.0 ans | 30.0-9.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment, including leasehold improvements, are carried at cost less accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+On January 27, 2022, the Company acquired 100% of the capital stock of Orma Health, Inc., and Provider Growth Solutions, LLC (together, “Orma Health”). The purchase was paid in cash and in the Company’s capital stock. Orma Health’s real-time Clinical AI platform ingests data from multiple sources and utilizes advanced risk-stratification models to identify patients for various clinical programs, including remote patient monitoring (“RPM”), mental health support, chronic care management, and more. Its clinical platform is also deeply integrated with Orma Health’s proprietary RPM ecosystem, which consists of smart health devices and a suite of technology tools to manage patient health.

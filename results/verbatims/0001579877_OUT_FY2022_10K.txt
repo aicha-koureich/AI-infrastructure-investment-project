@@ -1,0 +1,20 @@
+FIRM         : OUT (CIK 0001579877) | FY2022
+FILE         : 0001579877_OUT_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2028-04-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+on the Consolidated Statement of Financial Position and charged to amortization expense on a straight-line basis over the contract period. We assess the recoverability of the MTA contract on an as-needed basis and apply significant judgment in assessing factors to determine if there is an indication that the revenues expected to be generated over the term of the agreement will be sufficient to cover all or a portion of the equipment deployment costs, including evaluating macroeconomic conditions, industry trends, and events specific to the Company, including monitoring the Company’s actual installation of digital displays against the deployment schedule. Additionally, we assess these factors by comparing revenue projections of the deployed digital displays to actual financial results.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

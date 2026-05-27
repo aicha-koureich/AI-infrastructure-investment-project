@@ -1,0 +1,23 @@
+FIRM         : INTC (CIK 0000050863) | FY2016
+FILE         : 0000050863_INTC_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 20: Commitments and Contingencies
+ASSET CAT.   : equipment, machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : Intel_Xeon;NVIDIA (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+During our 2015 annual assessment of the useful lives of our property, plant and equipment, we determined that the estimated useful lives of machinery and equipment in our wafer fabrication facilities should be increased from
+
+[VERBATIM — Changement de politique]
+years based on the lengthening of the process technology cadence resulting in longer node transitions on both 14 nanometer (nm) and 10nm products. We have also increased the re-use of machinery and tools across each generation of process technology. This change in estimate was applied prospectively, effective at the beginning of 2016. During
+
+[VERBATIM — Infrastructure IA]
+• Data Center Group (DCG)  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,24 @@
+FIRM         : CNA (CIK 0000021175) | FY2024
+FILE         : 0000021175_CNA_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment is depreciated over
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : Hopper (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans | 7.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are carried at cost less accumulated depreciation. Depreciation is based on the estimated useful lives of the various classes of property and equipment and is determined principally on the straight-line method. Office equipment is depreciated over five years. The estimated lives for data processing equipment and software generally range from three to five years, but can be as long as ten years.
+
+[VERBATIM — Changement de politique]
+Years ended December 31 (In millions) 2024 2023 2022 Cash Flows from Operating Activities Net income $ 959 $ 1,205 $ 682 Adjustments to reconcile net income to net cash flows provided by operating activities: Deferred income tax (benefit) expense (45) 2 (89) Trading portfolio activity — 1 6 Net investment losses 81 99 199 Equity method investees (101) (8) 250 Net amortization of investments (200) (191) (129) Depreciation and amortization 67 73 51 Changes in: Receivables, net (898) (245) (226) Accrued investment income (8) (41) (29) Deferred acquisition costs (69) (85) (79) Insurance reserves 2,365 1,667 2,058 Other, net 420 (192) (192) Net cash flows provided by operating activities 2,571 2,285 2,502 Cash Flows from Investing Activities Dispositions: Fixed maturity securities - sales 2,793 4,029 5,909 Fixed maturity securities - maturities, calls and redemptions 2,396 1,334 2,358 Equity securities 523 317 509 Limited partnerships 97 164 138 Mortgage loans 105 122 125 Purchases: Fixed maturity securities (6,404) (6,616) (9,821) Equity securities (444) (293) (294) Limited partnerships (335) (402) (337) Mortgage loans (89) (127) (200) Change in other investments (11) (2) 8 Change in short-term investments 147 (274) 155 Purchases of property and equipment (95) (90) (52) Other, net — (5) (10) Net cash flows used by investing activities (1,317) (1,843) (1,512) Cash Flows from Financing Activities Dividends paid to common stockholders (1,025) (787) (982) Proceeds from the issuance of debt 490 491 — Repayment of debt (550) (243) — Purchase of treasury stock (20) (24) (39) Other, net (12) (14) (11) Net cash flows used by financing activities (1,117) (577) (1,032) Effect of foreign exchange rate changes on cash (10) 5 (19) Net change in cash 127 (130) (61) Cash, beginning of year 345 475 536 Cash, end of year $ 472 $ 345 $ 475
+
+[VERBATIM — Infrastructure IA]
+We own other fixed maturity securities which have exposure to cell towers, data centers and other collateral types that could be viewed as having real estate characteristics. We view these securities to have risks more akin to operating enterprises that do not share the same risks as the broader commercial real estate market. Additionally, we do not have significant real estate exposure through our limited partnership portfolio.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

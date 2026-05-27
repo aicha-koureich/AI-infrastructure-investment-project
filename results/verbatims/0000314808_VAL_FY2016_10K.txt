@@ -1,0 +1,23 @@
+FIRM         : VAL (CIK 0000314808) | FY2016
+FILE         : 0000314808_VAL_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF THE BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Other equipment, including computer and communications hardware and software costs, is depreciated over estimated useful lives ranging from
+
+[VERBATIM — Changement de politique]
+On December 31, 2015, we evaluated our current judgments and assumptions used in determining the useful lives of our drilling rigs. We considered both historical experience and expectations of future operations, utilization and performance of our assets based on recent changes in the current market environment. As a result, we reduced the useful lives of certain floaters and jackups effective January 1, 2016. This reduction in useful lives increased depreciation expense by approximately
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

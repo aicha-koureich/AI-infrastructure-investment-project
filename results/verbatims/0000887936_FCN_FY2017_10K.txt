@@ -1,0 +1,20 @@
+FIRM         : FCN (CIK 0000887936) | FY2017
+FILE         : 0000887936_FCN_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, Technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Direct cost of revenues also includes depreciation expense on the equipment of our Technology segment that is used to host and process client information, as well as amortization of software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

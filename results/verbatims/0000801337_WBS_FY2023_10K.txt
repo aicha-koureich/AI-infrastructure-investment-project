@@ -1,0 +1,20 @@
+FIRM         : WBS (CIK 0000801337) | FY2023
+FILE         : 0000801337_WBS_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 6: Premises and Equipment
+ASSET CAT.   : equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The following table summarizes the components of premises and equipment: At December 31, (In thousands) 2023 2022 Land $ 73,916 $ 73,916 Buildings and improvements 107,794 106,180 Leasehold improvements 88,065 84,477 Furniture, fixtures, and equipment 68,680 71,542 Data processing equipment and software 94,030 128,153 Property and equipment 432,485 464,268 Less: Accumulated depreciation and amortization (186,365) (225,152) Property and equipment, net 246,120 239,116 ROU lease assets, net 183,441 191,068 Premises and equipment, net $ 429,561 $ 430,184
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

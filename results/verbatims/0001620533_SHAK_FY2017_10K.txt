@@ -1,0 +1,20 @@
+FIRM         : SHAK (CIK 0001620533) | FY2017
+FILE         : 0001620533_SHAK_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 27, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 20
+ASSET CAT.   : equipment, furniture and fixtures, and computer equipment and software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment is stated at historical cost less accumulated depreciation. Property and equipment is depreciated based on the straight-line method over the estimated useful lives of the assets, generally ranging from three to seven years for equipment, furniture and fixtures, and computer equipment and software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : HAIN (CIK 0000910406) | FY2019
+FILE         : 0000910406_HAIN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 21. SUBSEQUENT EVENT
+ASSET CAT.   : Machinery and equipment, Computer hardware, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+June 30, 2019 June 30, 2018 Land $ 26,892 $ 28,378 Buildings and improvements 89,534 83,289 Machinery and equipment 306,670 323,348 Computer hardware and software 52,655 54,092 Furniture and fixtures 18,501 17,894 Leasehold improvements 32,264 31,519 Construction in progress 35,786 17,280 562,302 555,800 Less: Accumulated depreciation 233,940 245,628 $ 328,362 $ 310,172
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

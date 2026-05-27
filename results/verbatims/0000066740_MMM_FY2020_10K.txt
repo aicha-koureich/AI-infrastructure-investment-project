@@ -1,0 +1,21 @@
+FIRM         : MMM (CIK 0000066740) | FY2020
+FILE         : 0000066740_MMM_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. Significant Accounting Policies
+ASSET CAT.   : equipment, machinery and equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-15.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation of property, plant and equipment generally is computed using the straight-line method based on the estimated useful lives of the assets. The estimated useful lives of machinery and equipment primarily range from three to fifteen years, with the majority in the range of five to ten years. Fully depreciated assets other than capitalized internally developed software are retained in property, plant and equipment and accumulated depreciation accounts until disposal.
+
+[VERBATIM — Infrastructure IA]
+3M’s total sales increased 0.1% for the full year 2020 when compared to 2019. Organic local-currency sales decreased 1.7% for the full year 2020 when compared to 2019. Given the diversity of 3M’s businesses, the impact of COVID-19 varied across the Company throughout 2020. 3M experienced strong sales growth in personal safety, as well as in other areas such as home improvement, general cleaning, semiconductor, data center, and biopharma filtration. COVID-related respirator sales are estimated to have impacted year-on-year organic local-currency sales growth by approximately 3 percent for the year ending December 31, 2020. At the same time, weakness in several end markets, while improving, contributed in part to sales declines in a number of 3M’s businesses with the biggest year-on-year total sales decreases in oral care (down 19 percent), advanced materials (down 17 percent), automotive and aerospace (down 16 percent), commercial solutions (down 14 percent), stationery and office (down 11 percent), closure and masking (down 11 percent), automotive aftermarket (down 10 percent), and businesses aligned to general industrial applications such as abrasives (down 15 percent) and industrial adhesives and tapes (down 5 percent).  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract , which aligned the accounting for implementation costs incurred in a cloud computing arrangement that is a service arrangement (i.e. hosting arrangement) with the guidance on capitalizing costs in ASC 350-40, Internal-Use Software. The ASU permitted either a prospective or retrospective transition approach. For 3M, the ASU was effective as of January 1, 2020, with the Company adopting on a prospective basis. Relevant capitalizable costs are included in prepaid expenses or other non-current assets, as applicable, prospectively beginning in 2020. Implementation costs incurred as part of 3M’s cloud-computing service arrangements were not material in 2020.

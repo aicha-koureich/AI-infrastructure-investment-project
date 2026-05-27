@@ -1,0 +1,20 @@
+FIRM         : ALGT (CIK 0001362468) | FY2023
+FILE         : 0001362468_ALGT_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 5 — Property and Equipment
+ASSET CAT.   : equipment, Computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31, (in thousands) 2023 2022 Airline Flight equipment $ 3,346,216 $ 2,937,767 Computer hardware and software 274,927 209,808 Land and buildings/leasehold improvements 63,863 62,227 Other property and equipment 109,727 95,156 Sunseeker Resort Land and buildings/leasehold improvements 559,112 — Other property and equipment 53,743 — Construction in progress 4,389 320,572 Total property and equipment 4,411,977 3,625,530 Less accumulated depreciation and amortization (964,866) (814,837) Property and equipment, net $ 3,447,111 $ 2,810,693
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

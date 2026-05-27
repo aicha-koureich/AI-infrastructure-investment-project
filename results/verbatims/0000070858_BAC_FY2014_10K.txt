@@ -1,0 +1,23 @@
+FIRM         : BAC (CIK 0000070858) | FY2014
+FILE         : 0000070858_BAC_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 Summary of Significant Accounting Principles
+ASSET CAT.   : computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Corporation capitalizes the costs associated with certain computer hardware, software and internally developed software, and amortizes the costs over the expected useful life.
+
+[VERBATIM — Changement de politique]
+Net income for Global Markets increased $1.6 billion to $2.7 billion in 2014 compared to 2013 . In 2014 , we adopted a funding valuation adjustment into our valuation estimates primarily to include funding costs on uncollateralized derivatives and derivatives where we are not permitted to use the collateral we receive. This change in estimate resulted in a net FVA pretax charge of $497 million . Excluding net DVA/FVA and charges in 2013 related to the U.K. corporate income tax rate reduction, net income decreased $140 million to $2.9 billion primarily driven by lower trading account profits and net interest income, partially offset by a decrease in noninterest expense, a $240 million gain in 2014 related to the initial public offering (IPO) of an equity investment and higher investment and brokerage services income. Results for 2013 included a $450 million write-down of a monoline receivable due to the settlement of a legacy matter. Net DVA/FVA losses were $240 million compared to losses of $1.2 billion in 2013 . Noninterest expense decreased $225 million to $11.8 billion due to lower litigation expense and revenue-related incentives, partially offset by higher technology costs and investments in infrastructure. Average earning assets decreased $20.3 billion to $461.2 billion in 2014 largely driven by a decrease in trading assets to further optimize the balance sheet.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : PSMT (CIK 0001041803) | FY2017
+FILE         : 0001041803_PSMT_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We receive and store in our digital information systems certain personal information about our members, and we receive and store personal information concerning our employees and vendors. We also utilize third-party service providers for a variety of reasons, including, without limitation, cloud services, back-office support, and other functions. In addition, our online operations and our websites in certain of our foreign markets depend upon the secure transmission of confidential information over public networks, including information permitting cashless payments. Each year, computer hackers, cyber terrorists, and others make numerous attempts to access the information stored in companies’ information systems. ||| FASB ASC 350 ASU 2015-05 - Customers Accounting for Fees Paid in a Cloud Computing Arrangement ||| In April 2015, the FASB issued amended guidance about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The amendments do not change the accounting for a customer’s accounting for service contracts.

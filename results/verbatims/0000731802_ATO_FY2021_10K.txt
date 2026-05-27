@@ -1,0 +1,20 @@
+FIRM         : ATO (CIK 0000731802) | FY2021
+FILE         : 0000731802_ATO_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-10-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Regulated property, plant and equipment is depreciated at various rates on a straight-line basis.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

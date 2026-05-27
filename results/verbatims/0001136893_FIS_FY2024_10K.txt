@@ -1,0 +1,23 @@
+FIRM         : FIS (CIK 0001136893) | FY2024
+FILE         : 0001136893_FIS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Software as of December 31, 2024 and 2023, consists of the following (in millions): 2024 2023 Software from acquisitions $ 880 $ 754 Capitalized software development costs 3,151 2,775 Purchased software 605 633 4,636 4,162 Accumulated amortization (2,110) (2,047) Total Software, net $ 2,526 $ 2,115
+
+[VERBATIM — Changement de politique]
+certain technology platforms, which resulted in shortened estimated useful lives and accelerated amortization methods primarily impacting the associated assets over an approximate three-year period, beginning in the third quarter of 2021.
+
+[VERBATIM — Infrastructure IA]
+The Company has agreements with various vendors, generally with one - to five-year terms, principally for software, maintenance, and consulting and outsourced services, including cloud hosting and data centers. The Company's estimated aggregate contractual obligation remaining under these agreements is approximately $696 million as of December 31, 2024. However, this amount could be more or less depending on various factors such as the inflation rate, foreign exchange rates, the introduction of significant new technologies, or changes in the Company's processing needs. The foregoing amounts do not include obligations of the Company under operating leases.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

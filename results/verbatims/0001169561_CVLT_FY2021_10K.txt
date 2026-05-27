@@ -1,0 +1,23 @@
+FIRM         : CVLT (CIK 0001169561) | FY2021
+FILE         : 0001169561_CVLT_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 6. Property and Equipment
+ASSET CAT.   : servers, equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+March 31, 2022 2021 Land $ 9,445 $ 9,445 Buildings 103,244 103,244 Computers, servers and other equipment 45,557 42,117 Furniture and fixtures 15,031 14,689 Leasehold improvements 9,349 8,089 Purchased software 2,016 1,955 Construction in process 2,119 4,304 186,761 183,843 Less: Accumulated depreciation and amortization (80,248) (71,064) $ 106,513 $ 112,779
+
+[VERBATIM — Changement de politique]
+As a result, the cost of commissions allocated to software updates and customer support on the initial transaction are now amortized over a period of approximately five years, consistent with the accounting for these costs associated with perpetual licenses.
+
+[VERBATIM — Infrastructure IA]
+We also sell appliances that integrate our software with hardware and address a wide-range of business needs and use cases, ranging from support for remote or branch offices with limited IT staff up to large corporate data centers. Revenue related to appliances is recognized when control of the appliances passes to the customer; typically upon delivery. In the second half of fiscal 2021 we began transitioning to a software only model in which we typically sell software to a third party, which assembles an integrated appliance that is sold to end user customers. As a result, the revenue and costs associated with hardware have declined from recent fiscal years.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

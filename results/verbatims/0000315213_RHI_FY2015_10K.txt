@@ -1,0 +1,20 @@
+FIRM         : RHI (CIK 0000315213) | FY2015
+FILE         : 0000315213_RHI_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Computer hardware, Computer software, Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2015 2014 Computer hardware $ 162,346 $ 159,309 Computer software 339,634 312,968 Furniture and equipment 96,536 105,262 Leasehold improvements 118,491 113,782 Other 9,560 9,045 Property and equipment, cost 726,567 700,366 Accumulated depreciation (583,661 ) (578,612 ) Property and equipment, net $ 142,906 $ 121,754
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer's Accounting for Fees Paid in a Cloud Computing Arrangement ||| . In April 2015, the FASB issued authoritative guidance designed to assist customers in their determination of whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The guidance will not change GAAP for a customer’s accounting for service contracts. This guidance is effective for annual and interim periods beginning after December 15, 2015. The Company does not expect the adoption of this guidance to have a material impact to its Financial Statements. ||| Customer's Accounting for Fees Paid in a Cloud Computing Arrangement . In April 2015, the FASB issued authoritative guidance designed to assist customers in their determination of whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The guidance will not change GAAP for a customer’s accounting for service contracts. This guidance is effective for annual and interim periods beginning after December 15, 2015. The Company does not expect the adoption of this guidance to have a material impact to its Financial Statements.

@@ -1,0 +1,20 @@
+FIRM         : WDAY (CIK 0001327811) | FY2020
+FILE         : 0001327811_WDAY_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-04-02
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 6. Property and Equipment, Net
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+January 31, 2021 2020 Land and land improvements $ 37,065 $ 38,737 Buildings 494,599 489,028 Computers, equipment, and software 931,456 723,482 Furniture and fixtures 54,193 51,917 Leasehold improvements 204,273 189,668 Property and equipment, gross 1,721,586 1,492,832 Less accumulated depreciation and amortization (749,183) (556,653) Property and equipment, net $ 972,403 $ 936,179
+
+[VERBATIM — Infrastructure IA]
+We have entered into operating lease agreements for our office space, data centers, and other property and equipment. Operating lease right-of-use assets and operating lease liabilities are recognized at the lease commencement date based on the present value of the lease payments over the lease term. Right-of-use assets also include adjustments related to prepaid or deferred lease payments and lease incentives. As most of our leases do not provide an implicit interest rate, we use our incremental borrowing rate to determine the present value of lease payments.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In addition, we rely upon third-party hosted infrastructure partners globally, including AWS and Dimension Data, to serve customers and operate certain aspects of our services, such as environments for development testing, training, sales demonstrations, and production usage. Given this, any disruption of or interference at our hosted infrastructure partners would impact our operations and our business could be adversely impacted. ||| In August 2018, the FASB issued ASU No. 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract , which aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The new standard requires capitalized costs to be amortized on a straight-line basis generally over the term of the arrangement, and the financial statement presentation for these capitalized costs would be the same as that of the fees related to the hosting arrangements. ||| Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

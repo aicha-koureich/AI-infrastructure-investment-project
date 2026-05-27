@@ -1,0 +1,21 @@
+FIRM         : SF (CIK 0000720672) | FY2024
+FILE         : 0000720672_SF_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2030-02-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 – Summary of Signif icant Accounting Policies
+ASSET CAT.   : Office equipment, equipment
+DURÉE        : 2.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-7.0 ans | 30.0-9.0 ans
+
+[VERBATIM — Durée de vie]
+Office equipment is depreciated on a straight-line basis over the estimated useful life of the asset of two to seven years . Internally developed software is amortized on a straight-line basis over the estimated useful life of the asset. Depreciation expense is recorded in occupancy and equipment rental in the consolidated statements of operations. Office equipment, leasehold improvements, and internally developed software are stated at cost net of accumulated depreciation and amortization in the consolidated statements of financial condition.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

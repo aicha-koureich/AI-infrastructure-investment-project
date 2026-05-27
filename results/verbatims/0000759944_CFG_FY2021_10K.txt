@@ -1,0 +1,20 @@
+FIRM         : CFG (CIK 0000759944) | FY2021
+FILE         : 0000759944_CFG_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 7 - PREMISES, EQUIPMENT AND SOFTWARE
+ASSET CAT.   : computer software, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B100 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Costs related to computer software developed or obtained for internal use are capitalized if the projects improve functionality and provide long-term future operational benefits. Capitalized costs are amortized using the straight-line method over the asset’s expected useful life, based upon the basic pattern of consumption and economic benefits provided by the asset. Citizens begins to amortize the software when the asset (or identifiable component of the asset) is substantially complete and ready for its intended use. All other costs incurred in connection with an internal-use software project are expensed as incurred. Capitalized software is included in other assets on the Consolidated Balance Sheets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

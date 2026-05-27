@@ -1,0 +1,20 @@
+FIRM         : CG (CIK 0001527166) | FY2022
+FILE         : 0001527166_CG_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Summary of Significant Accounting Policies
+ASSET CAT.   : other fixed assets
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Fixed assets consist of furniture, fixtures and equipment, leasehold improvements, and computer hardware and software and are stated at cost, less accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

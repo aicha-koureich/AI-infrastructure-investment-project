@@ -1,0 +1,21 @@
+FIRM         : HAE (CIK 0000313143) | FY2014
+FILE         : 0000313143_HAE_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 17. CAPITALIZATION OF SOFTWARE DEVELOPMENT COSTS
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Amortization of capitalized software development cost expense was
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement ||| . ASU No. 2015-05 will help entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement. ASU No. 2015-05 is effective for interim and annual periods beginning after December 15, 2015 with early adoption permitted. The impact of adopting ASU No. 2015-05 on our Financial Statements is being assessed by management. ||| In April 2015, the FASB issued ASU No. 2015-05, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement . ASU No. 2015-05 will help entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement. ASU No. 2015-05 is effective for interim and annual periods beginning after December 15, 2015 with early adoption permitted. The impact of adopting ASU No. 2015-05 on our Financial Statements is being assessed by management.

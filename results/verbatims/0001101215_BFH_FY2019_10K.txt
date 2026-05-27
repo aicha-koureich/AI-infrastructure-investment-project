@@ -1,0 +1,20 @@
+FIRM         : BFH (CIK 0001101215) | FY2019
+FILE         : 0001101215_BFH_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Loss of data center capacity, interruption due to cyber-attacks, loss of network links or inability to utilize proprietary software of third party vendors could affect our ability to timely meet the needs of our clients and their customers.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

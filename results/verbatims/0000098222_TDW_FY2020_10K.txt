@@ -1,0 +1,23 @@
+FIRM         : TDW (CIK 0000098222) | FY2020
+FILE         : 0000098222_TDW_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+The pro forma results include, among others, (i) a reduction in depreciation expense for adjustments to property and equipment and (ii) a reduction in interest expense resulting from the extinguishment of the GulfMark Term Loan Facility.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

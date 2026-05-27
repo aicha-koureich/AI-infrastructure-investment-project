@@ -1,0 +1,21 @@
+FIRM         : ASIX (CIK 0001673985) | FY2021
+FILE         : 0001673985_ASIX_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-18
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : buildings and improvements
+DURÉE        : 15.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.5 ans | 2.8 ans | 8.2 ans | 9.8 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Property, Plant, Equipment – Property, plant, equipment asset values are recorded at cost, including any asset retirement obligations, less accumulated depreciation. For financial reporting, the straight-line method of depreciation is used over the estimated useful lives of 30 to 50 years for buildings and improvements and 5 to 40 years for machinery and equipment. Our machinery and equipment includes (1) assets used in short production cycles or subject to high corrosion, such as instrumentation, controls and insulation systems with useful lives up to 15 years, (2) standard plant assets, such as boilers and railcars, with useful lives ranging from 15 to 30 years and (3) major process equipment that can be used for long durations with effective preventative maintenance and repair, such as cooling towers, compressors, tanks and turbines with useful lives ranging from 5 to 40 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

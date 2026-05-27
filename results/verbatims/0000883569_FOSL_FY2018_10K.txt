@@ -1,0 +1,21 @@
+FIRM         : FOSL (CIK 0000883569) | FY2018
+FILE         : 0000883569_FOSL_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 29, 2018
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Significant Accounting Policies
+ASSET CAT.   : computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+for computer equipment and software. Leasehold improvements are amortized over the shorter of the lease term or the asset's estimated useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

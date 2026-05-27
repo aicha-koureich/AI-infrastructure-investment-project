@@ -1,0 +1,23 @@
+FIRM         : AGCO (CIK 0000880266) | FY2017
+FILE         : 0000880266_AGCO_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Operations and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are recorded at cost, less accumulated depreciation and amortization.
+
+[VERBATIM — Changement de politique]
+On December 22, 2017, the Tax Cuts and Jobs Act (“the 2017 Tax Act”) was enacted in the United States. The 2017 Tax Act includes a number of changes to existing U.S. tax laws that impact the Company, including a reduction of the U.S. corporate income tax rate from 35 percent to 21 percent for tax years beginning after December 31, 2017. The 2017 Tax Act also provides for a one-time transition tax on certain foreign earnings and the acceleration of depreciation for certain assets placed into service after September 27, 2017, as well as prospective changes beginning in 2018, including the repeal of the domestic manufacturing deduction, capitalization of research and development expenditures, additional limitations on executive compensation and limitations on the deductibility of interest.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

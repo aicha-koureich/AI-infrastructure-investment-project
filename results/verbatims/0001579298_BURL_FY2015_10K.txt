@@ -1,0 +1,21 @@
+FIRM         : BURL (CIK 0001579298) | FY2015
+FILE         : 0001579298_BURL_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 30, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3. Stock-Based Compensation
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+(in thousands) Useful Lives January 30, 2016 January 31, 2015 Land N/A $ 159,044 $ 159,246 Buildings 20 to 40 Years 438,609 424,601 Store fixtures and equipment 3 to 10 Years 732,851 643,647 Software 3 to 5 Years 188,399 187,402 Leasehold improvements Shorter of lease term or useful life 511,036 466,940 Construction in progress N/A 15,815 21,478 2,045,754 1,903,314 Less: accumulated depreciation (1,027,184 ) (932,895 ) Total property and equipment, net of accumulated depreciation and amortization $ 1,018,570 $ 970,419
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

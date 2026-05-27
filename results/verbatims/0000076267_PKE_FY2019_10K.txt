@@ -1,0 +1,20 @@
+FIRM         : PKE (CIK 0000076267) | FY2019
+FILE         : 0000076267_PKE_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 1, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies Park Aerospace Corp. and its subsidiaries (collectively, “Park” or the “Company”) formerly known as Park
+ASSET CAT.   : equipment, Machinery, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Other Consolidated balance sheet data Other consolidated balance sheet data consisted of the following: March 1, March 3, 2020 2019 Inventories: Raw materials $ 5,319 $ 4,556 Work-in-process 254 232 Finished goods 806 479 $ 6,379 $ 5,267 Property, plant and equipment: Land, buildings and improvements $ 13,642 $ 13,187 Machinery, equipment, furniture and fixtures 35,182 56,961 48,824 70,148 Less: accumulated depreciation and amortization 32,724 59,357 $ 16,100 $ 10,791 Goodwill and other intangible assets: Goodwill $ 9,776 $ 9,776 Other intangibles 28 35 $ 9,804 $ 9,811 Accrued liabilities: Payroll and payroll related $ 578 $ 823 Employee benefits 1 6 Workers' compensation 111 122 Professional fees 467 451 Restructuring (Notes 8 and 14) 432 1,324 Other 120 194 $ 1,709 $ 2,920
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

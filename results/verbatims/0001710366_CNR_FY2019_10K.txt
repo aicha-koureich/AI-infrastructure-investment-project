@@ -1,0 +1,20 @@
+FIRM         : CNR (CIK 0001710366) | FY2019
+FILE         : 0001710366_CNR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1—SIGNIFICANT ACCOUNTING POLICIES:
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Coal inventory costs include labor, supplies, equipment costs, operating overhead, depreciation, depletion, amortization, and other related costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15 - Intangibles - Goodwill and Other - Internal Use Software (Subtopic 350-40) to help entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement (hosting arrangement) by providing guidance for determining when the arrangement includes a software license. The amendments in Update 2018-15 align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements of capitalizing implementation costs incurred to develop or obtain internal-use software. These changes will be effective for fiscal years beginning after December 15, 2019, including interim periods within those fiscal years. Management does not expect this update to have a material impact on the Company's financial statements.

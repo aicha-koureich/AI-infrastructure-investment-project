@@ -1,0 +1,20 @@
+FIRM         : INGR (CIK 0001046257) | FY2022
+FILE         : 0001046257_INGR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 – Description of the Business and Summary of Significant Accounting Policies
+ASSET CAT.   : machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+We have operating leases for certain rail cars, office space, warehouses and machinery and equipment. The commencement date used for the calculation of the lease obligations recorded is the latter of January 1, 2019 or the lease start date. Certain leases have options to extend the life of the lease, which are included in the liability calculation when the option is at our sole discretion and it is reasonably certain that we will exercise the option. We have certain leases that have variable payments based solely on output or usage of the leased asset, which we do not record in our Consolidated Balance Sheets, but expense as incurred. Lease expense is recognized on a straight-line basis over the lease term.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

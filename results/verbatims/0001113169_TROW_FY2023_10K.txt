@@ -1,0 +1,21 @@
+FIRM         : TROW (CIK 0001113169) | FY2023
+FILE         : 0001113169_TROW_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 – BASIS OF PREPARATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES.
+ASSET CAT.   : computer and communications software and equipment
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 6.0 ans | 9.0 ans
+
+[VERBATIM — Durée de vie]
+Property, equipment and software is stated at cost net of accumulated depreciation and amortization computed using the straight-line method. Provisions for depreciation and amortization are based on the following weighted-average estimated useful lives: computer and communications software and equipment, 3 years; buildings and improvements, 33 years; leasehold improvements, 9 years; and furniture and other equipment, 6 years.
+
+[VERBATIM — Infrastructure IA]
+Our leases qualify as operating leases and consist primarily of real estate leases for corporate offices, data centers, and other facilities. We measure our operating lease liabilities using an estimated incremental borrowing rate as an implicit rate cannot be readily determinable from any of our operating lease arrangements. Since we do not have any outstanding borrowings, we estimate our incremental borrowing rate using an estimated credit rating and available market information. Additionally, certain of our leases contain options to extend or terminate the lease term that, if exercised, would result in the remeasurement of the operating lease liability.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

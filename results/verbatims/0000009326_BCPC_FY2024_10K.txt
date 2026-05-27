@@ -1,0 +1,23 @@
+FIRM         : BCPC (CIK 0000009326) | FY2024
+FILE         : 0000009326_BCPC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 - BUSINESS DESCRIPTION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment and Depreciation
+
+[VERBATIM — Changement de politique]
+The above selected unaudited pro forma information includes the following acquisition-related adjustments: (1) additional amortization of intangible assets and depreciation of fixed assets; (2) adjustments related to the fair value of the acquired inventory, (3) adjustments to interest expense on borrowings at rates in effect during the related period, factoring in estimated payments based on free cash flow, and (4) other one-time adjustments.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

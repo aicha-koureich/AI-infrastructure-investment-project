@@ -1,0 +1,20 @@
+FIRM         : WBS (CIK 0000801337) | FY2016
+FILE         : 0000801337_WBS_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 6: Premises and Equipment
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+At December 31, (In thousands) 2016 2015 Land $ 12,595 $ 12,899 Buildings and improvements 90,778 94,686 Leasehold improvements 83,995 79,917 Fixtures and equipment 76,146 73,686 Data processing and software 220,002 195,308 Total premises and equipment 483,516 456,496 Less: Accumulated depreciation and amortization (346,103 ) (327,070 ) Premises and equipment, net $ 137,413 $ 129,426
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

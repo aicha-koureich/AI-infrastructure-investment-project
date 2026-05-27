@@ -1,0 +1,20 @@
+FIRM         : PCG (CIK 0001004980) | FY2017
+FILE         : 0001004980_PCG_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Historical costs include labor and materials, construction overhead, and AFUDC. (See “AFUDC” below.) The Utility’s total estimated useful lives and balances of its property, plant, and equipment were as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

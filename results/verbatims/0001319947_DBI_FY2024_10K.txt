@@ -1,0 +1,20 @@
+FIRM         : DBI (CIK 0001319947) | FY2024
+FILE         : 0001319947_DBI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-13
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Operating Expenses- Operating expenses include expenses related to distribution and fulfillment, rent (net of sublease income) and other occupancy costs, store selling operations, marketing, design, sourcing, buying, customer service center, depreciation and amortization, and corporate expenses. Corporate expenses include expenses related to administration, information technology ("IT"), finance, human resources, legal, real estate, and other shared services performing corporate-level activities.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements- Capitalized implementation costs, net of accumulated amortization, for cloud computing arrangements accounted for as service contracts are included in other assets on the consolidated balance sheets. Capitalized implementation costs are amortized, once the implementation is complete, over the term of the service contract to operating expenses on the consolidated statements of operations. As of February 1, 2025 and February 3, 2024, we had $21.3 million and $16.4 million, respectively, of unamortized capitalized costs, and $7.5 million and $4.5 million, respectively, of accumulated amortization related to the capitalized costs. During 2024, 2023 and 2022, we had amortization expense related to capitalized costs of $5.2 million, $2.4 million and $0.9 million, respectively. ||| Cloud Computing Arrangements- ||| Capitalized implementation costs, net of accumulated amortization, for cloud computing arrangements accounted for as service contracts are included in other assets on the consolidated balance sheets. Capitalized implementation costs are amortized, once the implementation is complete, over the term of the service contract to operating expenses on the consolidated statements of operations. As of February 1, 2025 and February 3, 2024, we had $21.3 million and $16.4 million, respectively, of unamortized capitalized costs, and $7.5 million and $4.5 million, respectively, of accumulated amortization related to the capitalized costs. During 2024, 2023 and 2022, we had amortization expense related to capitalized costs of $5.2 million, $2.4 million and $0.9 million, respectively.

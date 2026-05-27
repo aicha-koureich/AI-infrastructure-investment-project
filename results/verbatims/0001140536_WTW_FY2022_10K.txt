@@ -1,0 +1,20 @@
+FIRM         : WTW (CIK 0001140536) | FY2022
+FILE         : 0001140536_WTW_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 8 — Fixed Assets The following table reflects changes in the net carrying amount of the components of fixed assets for the years ended December 3
+ASSET CAT.   : Furniture, equipment, technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Note 8 — Fixed Assets The following table reflects changes in the net carrying amount of the components of fixed assets for the years ended December 31, 2022 and 2021: Furniture, equipment and software Leasehold improvements Land and buildings Total Cost: at January 1, 2021 $ 1,467 $ 577 $ 90 $ 2,134 Additions 176 18 — 194 Disposals (i) ( 145 ) ( 61 ) ( 2 ) ( 208 ) Foreign exchange ( 21 ) ( 7 ) — ( 28 ) Cost: at December 31, 2021 1,477 527 88 2,092 Additions 174 24 — 198 Acquisitions 1 — — 1 Disposals (ii) ( 129 ) ( 78 ) — ( 207 ) Foreign exchange ( 71 ) ( 21 ) ( 5 ) ( 97 ) Cost: at December 31, 2022 $ 1,452 $ 452 $ 83 $ 1,987 Depreciation: at January 1, 2021 $ ( 764 ) $ ( 295 ) $ ( 62 ) $ ( 1,121 ) Depreciation expense ( 227 ) ( 51 ) ( 3 ) ( 281 ) Disposals 103 41 2 146 Foreign exchange 11 4 — 15 Depreciation: at December 31, 2021 ( 877 ) ( 301 ) ( 63 ) ( 1,241 ) Depreciation expense ( 211 ) ( 40 ) ( 4 ) ( 255 ) Disposals 113 57 — 170 Foreign exchange 42 12 3 57 Depreciation: at December 31, 2022 $ ( 933 ) $ ( 272 ) $ ( 64 ) $ ( 1,269 ) Net book value: At December 31, 2021 $ 600 $ 226 $ 25 $ 851 At December 31, 2022 $ 519 $ 180 $ 19 $ 718 (i) Includes $ 5 million of furniture, equipment and software costs and $ 4 million of leasehold improvements costs which have been written off as part of technology modernization and real estate rationalization, respectively, under the Transformation program (see Note 6 – Restructuring Costs). (ii) Includes $ 12 million of furniture, equipment and software costs and $ 18 million of leasehold improvements costs which have been written off as part of technology modernization and real estate rationalization, respectively, under the Transformation program (see Note 6 – Restructuring Costs). 97 Included within land and buildings are the following assets held under finance leases: December 31, 2022 2021 Finance leases $ 26 $ 26 Accumulated depreciation ( 22 ) ( 20 ) $ 4 $ 6
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

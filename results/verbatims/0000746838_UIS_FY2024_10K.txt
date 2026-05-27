@@ -1,0 +1,20 @@
+FIRM         : UIS (CIK 0000746838) | FY2024
+FILE         : 0000746838_UIS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — Summary of significant accounting policies
+ASSET CAT.   : machinery, office equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The estimated lives used, in years, are as follows: buildings, 20 – 50; machinery and office equipment, 4 – 7; rental equipment, 4; and internal-use software, 3 – 10.
+
+[VERBATIM — Infrastructure IA]
+Long-lived assets to be sold are classified as held-for-sale in the period in which they meet all the criteria for the disposal of long-lived assets. The company measures assets held-for-sale at the lower of their carrying amount or fair value less cost to sell. At both December 31, 2024 and 2023, the company had $4.9 million of assets held-for-sale related to its data center facility located in Eagan, Minnesota. In 2021, the company determined that these assets met the criteria for classification of assets held-for-sale.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements For cloud computing arrangements that meet the definition of a service contract, the company capitalizes implementation costs incurred during the application development stage and until the software is ready for its intended use and then amortizes the costs on a straight-line basis over the related cloud computing arrangement. At December 31, 2024 and 2023, the amounts capitalized for cloud computing arrangements related primarily to the company’s deferred implementation costs for its new enterprise resource planning system and totaled $24.1 million and $23.0 million, respectively, of which $7.6 million and $5.5 million, respectively, were included within prepaid expenses and other current assets and $16.5 million and $17.5 million, respectively, were included within other long-term assets on the company’s consolidated balance sheets. ||| Cloud Computing Arrangements ||| For cloud computing arrangements that meet the definition of a service contract, the company capitalizes implementation costs incurred during the application development stage and until the software is ready for its intended use and then amortizes the costs on a straight-line basis over the related cloud computing arrangement. At December 31, 2024 and 2023, the amounts capitalized for cloud computing arrangements related primarily to the company’s deferred implementation costs for its new enterprise resource planning system and totaled $24.1 million and $23.0 million, respectively, of which $7.6 million and $5.5 million, respectively, were included within prepaid expenses and other current assets and $16.5 million and $17.5 million, respectively, were included within other long-term assets on the company’s consolidated balance sheets.

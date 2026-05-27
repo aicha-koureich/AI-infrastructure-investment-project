@@ -1,0 +1,20 @@
+FIRM         : TCMD (CIK 0001027838) | FY2016
+FILE         : 0001027838_TCMD_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost and are being depreciated using the straight-line method over their estimated useful lives of three to five years and leasehold improvements are depreciated over the remaining life of the building lease agreement.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

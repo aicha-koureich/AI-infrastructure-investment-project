@@ -1,0 +1,20 @@
+FIRM         : HLIT (CIK 0000851310) | FY2019
+FILE         : 0000851310_HLIT_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Our Video segment customers continue to be cautious with investments in new technologies, such as next-generation IP architecture and Ultra HD. We believe a material and growing portion of the opportunities for our video business are linked to a migration by our customers to IP workflows and the distribution of linear and on-demand, OTT, and new mobile video services. We continue to steadily transition our video business away from legacy and customized computing hardware to more software-centric solutions and services, including OTT SaaS subscription offerings that enable video compression and processing through our VOS software platform running on standard off-the-shelf servers, data centers and in the cloud.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

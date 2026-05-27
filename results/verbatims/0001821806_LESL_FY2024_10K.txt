@@ -1,0 +1,21 @@
+FIRM         : LESL (CIK 0001821806) | FY2024
+FILE         : 0001821806_LESL_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-09-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 8—Property and Equipment
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-15.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization expense on property and equipment was $ 29.2 million, $ 29.8 million, and $ 27.8 million in fiscal 2024, 2023, and 2022, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| From time-to-time, we enter into various agreements with unaffiliated third parties for assistance with technical development work related to our security-related software and systems and other ongoing projects. Expenditures for implementation, set-up, and other upfront costs incurred in a cloud computing arrangement that is hosted by the ven dor are capitalized generally in the same manner as internal use software and are recorded as other assets in our consolidated balance sheets. Such costs are amortized over the life of the related cloud computing arrangement. As of September 28, 2024 and September 30, 2023, approximately $ 9.4 million and $ 5.9 million associated with these agreements are included in prepaid expenses and other current assets in our consolidated balance sheets, respectively. Approximately $ 37.2 million a nd $ 44.1 million associated with these agreements are included in other assets in our consolidated balance sheets as of September 28, 2024 and September 30, 2023, respectively. In addition, for the year ended September 30, 2023, the Company recognized $ 6.3 million of expense in connection with the discontinued use of certain software subscriptions which is recorded in SG&A in our consolidated statements of operations and a corresponding $ 4.4 million liability for future obligations associated with these subscriptions. For the year ended September 28, 2024, there was $ 2.8 million liability remaining for those future obligations included in accrued expenses and other current liabilities in our consolidated balance sheets. ||| Cloud Computing Arrangements From time-to-time, we enter into various agreements with unaffiliated third parties for assistance with technical development work related to our security-related software and systems and other ongoing projects. Expenditures for implementation, set-up, and other upfront costs incurred in a cloud computing arrangement that is hosted by the ven dor are capitalized generally in the same manner as internal use software and are recorded as other assets in our consolidated balance sheets. Such costs are amortized over the life of the related cloud computing arrangement. As of September 28, 2024 and September 30, 2023, approximately $ 9.4 million and $ 5.9 million associated with these agreements are included in prepaid expenses and other current assets in our consolidated balance sheets, respectively. Approximately $ 37.2 million a nd $ 44.1 million associated with these agreements are included in other assets in our consolidated balance sheets as of September 28, 2024 and September 30, 2023, respectively. In addition, for the year ended September 30, 2023, the Company recognized $ 6.3 million of expense in connection with the discontinued use of certain software subscriptions which is recorded in SG&A in our consolidated statements of operations and a corresponding $ 4.4 million liability for future obligations associated with these subscriptions. For the year ended September 28, 2024, there was $ 2.8 million liability remaining for those future obligations included in accrued expenses and other current liabilities in our consolidated balance sheets.

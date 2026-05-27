@@ -1,0 +1,20 @@
+FIRM         : PENG (CIK 0001616533) | FY2018
+FILE         : 0001616533_PENG_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : DGX;NVIDIA (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We are a global leader in specialty memory solutions, serving the electronics industry for over 25 years. We have a leading market position worldwide, as measured by revenue, in specialty memory where we work closely with OEM customers to develop solutions, which incorporate customer-specific requirements. Our products are designed-in by OEMs in the networking, enterprise storage, telecom, industrial and other such vertical markets. In addition, as part of our global business, we have established a leading market position, as measured by market share, in Brazil as the largest in-country manufacturer of memory for desktops, notebooks and servers, as well as mobile memory for smartphones. As a result of our acquisition of Penguin Computing, Inc., or Penguin, in June 2018 and the creation of a new business unit, SMART Specialty Compute & Storage Solutions, or SCSS, we have expanded our serviceable markets into areas requiring specialized computing platforms in artificial intelligence and machine learning, advanced modeling and high performance computing serving a broad base of enterprise and government customers. Additionally, in the fourth quarter of fiscal 2018, we began a new business in Brazil to focus on battery assembly for smartphones which we expect will contribute to revenue in fiscal 2019. We believe our customers rely on us as a strategic supplier due to our application-specific products, quality and technical support, our global footprint and, in Brazil, our ability to provide locally manufactured products. We also provide customized, integrated supply chain services to certain OEM customers to assist them in the management and execution of their procurement processes.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

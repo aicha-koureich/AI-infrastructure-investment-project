@@ -1,0 +1,20 @@
+FIRM         : HSIC (CIK 0001000228) | FY2022
+FILE         : 0001000228_HSIC_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3 – Segment and Geographic Data We conduct our business through two reportable segments: (i) health care distribution and (ii) technology and val
+ASSET CAT.   : Equipment, Machinery, Furniture, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Note 5 – Property and Equipment, Net Property and equipment, including related estimated useful lives, consisted of the following: December 31, December 25, 2022 2021 Land $ 20 $ 21 Buildings and permanent improvements 135 140 Leasehold improvements 94 98 Machinery and warehouse equipment 169 153 Furniture, fixtures and other 127 119 Computer equipment and software 411 385 956 916 Less accumulated depreciation (573) (550) Property and equipment, net $ 383 $ 366 Estimated Useful Lives (in years) Buildings and permanent improvements 40 Machinery and warehouse equipment 5 - 10 Furniture, fixtures and other 3 - 10 Computer equipment and software 3 - 10 Amortization of leasehold improvements is computed using the straight-line method over the lesser of the useful life of the assets or the lease term. Property and equipment related depreciation expense for the years ended December 31, 2022, December 25, 2021 and December 26, 2020 was $ 68 million, $ 71 million and $ 64 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

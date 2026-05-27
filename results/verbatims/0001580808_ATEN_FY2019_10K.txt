@@ -1,0 +1,20 @@
+FIRM         : ATEN (CIK 0001580808) | FY2019
+FILE         : 0001580808_ATEN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 6. Other Balance Sheet Accounts Details
+ASSET CAT.   : Equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Useful Life December 31, 2019 December 31, 2018 (in years) Equipment 1-3 $ 22,702 $ 49,804 Software 1-3 726 4,088 Furniture and fixtures 1-3 459 967 Leasehold improvements 2-8 5,440 3,832 Construction in progress — 160 Property and equipment, gross 29,327 58,851 Less: accumulated depreciation (21,671 ) (51,589 ) Property and equipment, net $ 7,656 $ 7,262
+
+[VERBATIM — Infrastructure IA]
+We sell our products globally to service providers and enterprises that depend on data center applications and networks to generate revenue and manage operations efficiently. In 2019, we changed the way we present revenue by customer vertical. We now report two customer verticals: service providers and enterprises, compared to service providers, enterprises and web giants in prior years. Our previously reported revenue from web giants is primarily accounted for now in enterprise revenue. Additionally, we changed the way we present customer revenue by geographic region. We now report customer revenues in four geographic regions: the Americas, Japan, Asia Pacific (excluding Japan) and EMEA. Our previously reported customer revenues of our United States and Latin America regions are now included in the Americas geographic region. We believe this new geographic and vertical view aligns with how we manage the business and maps our product portfolio to customer verticals. The revenue by vertical percentages from prior years included in this report have been revised to conform with current year presentation.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

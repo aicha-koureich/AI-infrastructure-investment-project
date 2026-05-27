@@ -1,0 +1,23 @@
+FIRM         : KODK (CIK 0000031235) | FY2016
+FILE         : 0000031235_KODK_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are recorded at cost, net of accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+The remaining useful lives of long-lived assets are reviewed in connection with the assessment of recoverability of long-lived assets and the ongoing strategic review of the business and operations. If the review indicates that the remaining useful life of the long-lived asset has changed significantly, the depreciation on that asset is adjusted to facilitate full cost recovery over its revised estimated remaining useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

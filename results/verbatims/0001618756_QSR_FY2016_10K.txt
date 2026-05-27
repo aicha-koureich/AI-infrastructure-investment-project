@@ -1,0 +1,29 @@
+FIRM         : QSR (CIK 0001618756) | FY2016
+FILE         : 0001618756_QSR_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Significant Accounting Policies
+ASSET CAT.   : equipment, furniture
+DURÉE        : 18.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We record property and equipment at historical cost less accumulated depreciation and amortization, which is recognized using the straight-line
+method over the following estimated useful lives: (i) buildings and improvements – up to 40 years; (ii) restaurant equipment – up to 18 years; (iii) furniture, fixtures and other – up to 10 years;
+(iv) manufacturing equipment – up to 30 years; and (v) capital leases – up to 40 years or lease term.
+
+[VERBATIM — Changement de politique]
+Our measure of segment income is Adjusted EBITDA. Adjusted EBITDA represents earnings (net income
+or loss) before interest, (gain) loss on early extinguishment of debt, taxes, and depreciation and amortization, adjusted to exclude the non-cash impact of share-based compensation and non-cash incentive compensation expense and (income) loss from equity method investments, net of cash distributions received from equity method investments, as well as other operating expenses (income), net. Other
+specifically identified costs associated with non-recurring projects are also excluded from Adjusted EBITDA, including acquisition accounting impact on cost of sales, Tim Hortons transaction and restructuring
+costs and integration costs, each of which is associated with the acquisition of Tim Hortons. Adjusted EBITDA is used by management to measure operating performance of the business, excluding these non-cash and other specifically identified items that management believes are not relevant to management’s assessment of operating performance or the performance of an acquired business. A reconciliation of segment income to net income (loss) consists
+of the following (in millions):
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

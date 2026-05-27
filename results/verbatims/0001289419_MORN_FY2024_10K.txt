@@ -1,0 +1,21 @@
+FIRM         : MORN (CIK 0001289419) | FY2024
+FILE         : 0001289419_MORN_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : capitalized software
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 3.0 ans
+
+[VERBATIM — Durée de vie]
+We capitalize certain costs in accordance with FASB ASC 350-40, Internal-Use Software . Inter nal product development costs mainly consist of employee and third-party resource costs for developing new web-based products and certain major enhancements of existing products. We amortize these costs on a straight-line basis over the estimated economic life, which is generally three years. We include capitalized software development costs related to projects that have not been placed into service in our construction in progress balance.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cost of revenue increased $52.2 million, or 6.2%, in 2024. Higher compensation expense of $35.8 million was the largest contributor to the increase, primarily driven by higher bonus expense due to favorable performance compared to plan targets. The company updated its definition of compensation expense to incorporate commissions, severance, and stock-based compensation, in addition to salaries, bonus, employee benefits, and payroll taxes, which were all included in the earlier definition. Compensation expense for prior periods has been retroactively adjusted for the updated definition. Technology infrastructure costs consisting of expenses related to SaaS-based software subscriptions and cloud computing of $14.0 million were also a driver in higher operating expense during 2024 due to the company's investment in and renewal of various SaaS-based platforms across the business.

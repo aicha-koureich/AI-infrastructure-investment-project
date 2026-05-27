@@ -1,0 +1,21 @@
+FIRM         : BAH (CIK 0001443646) | FY2020
+FILE         : 0001443646_BAH_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES Basis of Presentation
+ASSET CAT.   : computer equipment is depreciated over
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 4.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost, and the balances are presented net of accumulated depreciation. Furniture and equipment is depreciated over five to ten years, and computer equipment is depreciated over four years.
+
+[VERBATIM — Infrastructure IA]
+• cost cutting and efficiency and effectiveness efforts by U.S. civilian agencies with a focus on increased use of performance measurement, “program integrity” efforts to reduce waste, fraud and abuse in entitlement programs, and renewed focus on improving procurement practices for and interagency use of IT services, including through the use of cloud based options and data center consolidation;  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . This guidance requires a customer in a cloud computing arrangement that is a service contract to follow existing internal-use software guidance to determine which implementation costs to defer and recognize as an asset. ASU 2018-15 generally aligns the guidance on capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with that of implementation costs incurred to develop or obtain internal-use software, including hosting arrangements that include an internal-use software license. ASU 2018-15 is effective for interim ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| . This guidance requires a customer in a cloud computing arrangement that is a service contract to follow existing internal-use software guidance to determine which implementation costs to defer and recognize as an asset. ASU 2018-15 generally aligns the guidance on capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with that of implementation costs incurred to develop or obtain internal-use software, including hosting arrangements that include an internal-use software license. ASU 2018-15 is effective for interim

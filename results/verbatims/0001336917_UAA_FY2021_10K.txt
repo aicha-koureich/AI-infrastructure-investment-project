@@ -1,0 +1,23 @@
+FIRM         : UAA (CIK 0001336917) | FY2021
+FILE         : 0001336917_UAA_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment, Furniture, office equipment
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+In accordance with ASC Topic 360 "Property, Plant and Equipment", property and equipment are stated at cost, including the cost of internal labor for software customized for internal use, less accumulated depreciation and amortization. Property and equipment is depreciated using the straight-line method over the estimated useful lives of the assets, as follows: Years Furniture, fixtures and displays, office equipment, software and plant equipment (1) 3 to 10 Site improvements, buildings and building equipment 10 to 35 Leasehold and tenant improvements Shorter of the remaining lease term or related asset life (1) The cost of in-store apparel and footwear fixtures and displays are capitalized as part of "furniture, fixtures and displays", and depreciated over three years.
+
+[VERBATIM — Changement de politique]
+The Company periodically reviews its assets’ estimated useful lives based upon actual experience and expected future utilization. A change in useful life is treated as a change in accounting estimate and is applied prospectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

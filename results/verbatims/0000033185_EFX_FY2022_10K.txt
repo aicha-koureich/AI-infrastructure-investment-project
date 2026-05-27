@@ -1,0 +1,21 @@
+FIRM         : EFX (CIK 0000033185) | FY2022
+FILE         : 0000033185_EFX_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : data processing equipment and capitalized internal-use software and systems costs
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation and amortization. Property and equipment are depreciated on a straight-line basis over the assets’ estimated useful lives, which are generally three to ten years for data processing equipment and capitalized internal-use software and systems costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cost of Services. Cost of services consist primarily of (1) data acquisition and royalty fees; (2) customer service costs, which include: personnel costs to collect, maintain and update our proprietary databases, to develop and maintain software application platforms and to provide consumer and customer call center support; (3) hardware and software expense associated with transaction processing systems; (4) telecommunication, cloud computing and computer network expense; and (5) occupancy costs associated with facilities where these functions are performed by Equifax employees. ||| Cost of services consist primarily of (1) data acquisition and royalty fees; (2) customer service costs, which include: personnel costs to collect, maintain and update our proprietary databases, to develop and maintain software application platforms and to provide consumer and customer call center support; (3) hardware and software expense associated with transaction processing systems; (4) telecommunication, cloud computing and computer network expense; and (5) occupancy costs associated with facilities where these functions are performed by Equifax employees. ||| In August 2018, the FASB issued ASU No. 2018-15 “Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract.” ASU 2018-15 requires that issuers follow the internal-use software guidance in Accounting Standards Codification (ASC) 350-40 to determine which costs to capitalize as assets or expense as incurred. The ASC 350-40 guidance requires that certain costs incurred during the application development stage be capitalized and other costs incurred during the preliminary project and post-implementation stages be expensed as they are incurred. ASU 2018-15 is effective for fiscal years beginning after December 15, 2019 and interim periods therein. The adoption of the standard did not have a material impact on our consolidated financial statements.

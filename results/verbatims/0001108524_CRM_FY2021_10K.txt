@@ -1,0 +1,21 @@
+FIRM         : CRM (CIK 0001108524) | FY2021
+FILE         : 0001108524_CRM_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-04-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Business and Significant Accounting Policies
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : 3.0-9.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-9.0 ans | 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation. Depreciation is calculated on a straight-line basis over the estimated useful lives of those assets as follows: Computers, equipment and software 3 to 9 years Furniture and fixtures 5 years Leasehold improvements Shorter of the estimated lease term or 10 years Buildings and building improvements 10 to 40 years
+
+[VERBATIM — Infrastructure IA]
+The Company has operating leases for corporate offices, data centers, and equipment under noncancellable operating leases with various expiration dates. The leases have noncancellable remaining terms of 1 year to 18 years, some of which include options to extend for up to 5 years, and some of which include options to terminate within 1 year.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We plan to continue to reinvest a significant portion of our income from operations in future periods to grow and innovate our business and service offerings and expand our leadership role in the cloud computing industry. We drive innovation organically and, to a lesser extent, through acquisitions. We evaluate acquisitions and investment opportunities in complementary businesses, services, technologies and intellectual property rights in an effort to expand our service offerings and to nurture the overall ecosystem for our offerings. Past acquisitions have enabled us to deliver innovative solutions in new categories, including analytics, integration and collaboration. We expect to make investments and acquisitions in the future to continue our growth and expand our service offerings and our professional services organization in supporting the adoption of our service offerings. ||| Subscription and support revenues include subscription fees from customers accessing our enterprise cloud computing services (collectively, "Cloud Services"), software license revenues from the sales of term and perpetual licenses, and support revenues from the sale of support and updates beyond the basic subscription fees or related to the sales of software licenses. Our Cloud Services allow customers to use our multi-tenant software without taking possession of the software. Revenue is generally recognized ratably over the contract term. Subscription and support revenues also include revenues associated with term and perpetual software licenses that provide the customer with a right to use the software as it exists when made available. Revenues from software licenses are generally recognized at the point in time when the software is made available to the customer. Revenue from support and updates is recognized as such support and updates are provided, which is generally ratably over the contract term. Changes in contract duration for multi-year licenses can impact the amount of revenues recognized upfront. Revenues from software licenses represent less than ten percent of total subscription and support revenue for fiscal 2022. ||| Revenue Recognition - Contracts with Multiple Performance Obligations. We enter into contracts with our customers that may include promises to transfer multiple Cloud Services, software licenses, premium support and professional services. A performance obligation is a promise in a contract with a customer to transfer products or services that are distinct. Determining whether products and services are distinct performance obligations that should be accounted for separately or combined as one unit of accounting may require significant judgment.

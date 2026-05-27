@@ -1,0 +1,21 @@
+FIRM         : REYN (CIK 0001786431) | FY2021
+FILE         : 0001786431_REYN_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-27
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 - Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 8.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+When property, plant or equipment is sold or otherwise disposed of, the related cost and accumulated depreciation is removed from the respective accounts and any gain or loss realized on disposition is reflected in other expense, net in our consolidated statements of income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract, which aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs for internal-use software. This ASU is effective for fiscal years beginning after December 15, 2019, with early adoption permitted. We adopted the standard as of January 1, 2020 with no material impact on our consolidated financial statements. ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract,

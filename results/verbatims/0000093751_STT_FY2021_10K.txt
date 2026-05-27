@@ -1,0 +1,20 @@
+FIRM         : STT (CIK 0000093751) | FY2021
+FILE         : 0000093751_STT_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-03-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 20. Occupancy Expense and Information Systems and Communications Expense
+ASSET CAT.   : computer hardware, equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Occupancy expense and information systems and communications expense include depreciation of buildings, leasehold improvements, computer hardware and software, equipment, furniture and fixtures, and amortization of lease right-of-use assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

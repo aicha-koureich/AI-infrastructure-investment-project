@@ -1,0 +1,21 @@
+FIRM         : ALGN (CIK 0001097149) | FY2017
+FILE         : 0001097149_ALGN_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 16. Segments and Geographical Information
+ASSET CAT.   : equipment Up to
+DURÉE        : 10.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+December 31, Generally Used Estimated Useful Life 2017 2016 Clinical and manufacturing equipment Up to 10 years $ 183,392 $ 153,938 Computer hardware 3 years 24,933 27,978 Computer software 3 years 54,756 59,997 Furniture and fixtures 5 years 16,271 10,306 Leasehold improvements Lease term (1) 37,756 22,370 Building 20 years 63,887 7,272 Land — 17,630 3,072 CIP — 85,976 25,948 Total 484,601 310,881 Less: Accumulated depreciation and amortization and impairment charges (135,808 ) (135,714 ) Total property, plant and equipment, net $ 348,793 $ 175,167
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

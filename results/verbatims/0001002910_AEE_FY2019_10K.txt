@@ -1,0 +1,20 @@
+FIRM         : AEE (CIK 0001002910) | FY2019
+FILE         : 0001002910_AEE_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 5 – Long-term Debt and Equity Financings
+ASSET CAT.   : Capitalized software, Equipment
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are classified within “Property, Plant, and Equipment, Net” on the balance sheet and are amortized on a straight-line basis over the expected period of benefit, ranging from 5 to 10 years. The following table presents the amortization, gross carrying value, and related accumulated amortization of capitalized software by year:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

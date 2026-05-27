@@ -1,0 +1,21 @@
+FIRM         : CTS (CIK 0000026058) | FY2021
+FILE         : 0000026058_CTS_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 — Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment, machinery and equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-15.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment: Property, plant and equipment is stated at cost, less accumulated depreciation. Useful lives for buildings and improvements range from 10 to 45 years, machinery and equipment from 3 to 15 years, and software from 2 to 15 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

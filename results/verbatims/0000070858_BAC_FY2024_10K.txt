@@ -1,0 +1,23 @@
+FIRM         : BAC (CIK 0000070858) | FY2024
+FILE         : 0000070858_BAC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 Summary of Significant Accounting Principles
+ASSET CAT.   : buildings, up to 12 years for furniture and equipment, and the shorter of lease term or estimated useful life for leasehold improvements
+DURÉE        : 12.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment are carried at cost less accumulated depreciation and amortization. Estimated lives range up to 40 years for buildings, up to 12 years for furniture and equipment, and the shorter of lease term or estimated useful life for leasehold improvements.
+
+[VERBATIM — Changement de politique]
+Client Balances Client balances managed under advisory and/or discretion of GWIM are AUM and are typically held in diversified portfolios. Fees earned on AUM are calculated as a percentage of clients’ AUM balances. The asset management fees charged to clients per year depend on various factors but are commonly driven by the breadth of the client’s relationship. The net client AUM flows represent the net change in clients’ AUM balances over a specified period of time, excluding market appreciation/depreciation and other adjustments. Client balances increased $462.7 billion, or 12 percent, to $4.3 trillion at December 31, 2024 compared to December 31, 2023. The increase in client balances was primarily due to the impact of higher market valuations and positive net client flows.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : WMG (CIK 0001319161) | FY2021
+FILE         : 0001319161_WMG_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-11-24
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : computer equipment and software and periods of up to 13 years for machinery and equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Depreciation is calculated using the straight-line method based upon the estimated useful lives of depreciable assets commencing at the date assets are placed in service as follows: five to seven years for furniture and fixtures, periods of up to five years for computer equipment and software and periods of up to thirteen years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

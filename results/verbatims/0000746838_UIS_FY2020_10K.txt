@@ -1,0 +1,23 @@
+FIRM         : UIS (CIK 0000746838) | FY2020
+FILE         : 0000746838_UIS_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — Summary of significant accounting policies
+ASSET CAT.   : machinery, office equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The estimated lives used, in years, are as follows: buildings, 20 – 50; machinery and office equipment, 4 – 7; rental equipment, 4; and internal-use software, 3 – 10.
+
+[VERBATIM — Changement de politique]
+For the company’s proprietary enterprise software products, the amortization period is five years following product release, and for the remaining products, the amortization period is three years following product release.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Effective January 1, 2020, the company adopted ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract which clarifies the accounting for implementation costs incurred in a cloud computing arrangement that is a service contract. The company adopted the new guidance on a prospective basis and the adoption did not have a material impact on its consolidated results of operations and financial position.

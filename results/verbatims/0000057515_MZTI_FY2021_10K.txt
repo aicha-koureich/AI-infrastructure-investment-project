@@ -1,0 +1,23 @@
+FIRM         : MZTI (CIK 0000057515) | FY2021
+FILE         : 0000057515_MZTI_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We capitalize certain costs related to hosting arrangements that are service contracts (cloud computing arrangements). Capitalized costs are included in Other Current Assets or Other Noncurrent Assets and are amortized on a straight-line basis over the estimated useful life. In 2021, 2020 and 2019, we capitalized $3.5 million, $10.3 million and $1.7 million, respectively, of deferred software costs related to cloud computing arrangements.
+
+[VERBATIM — Changement de politique]
+In 2021, we recorded impairment charges of $1.2 million related to certain tradename and technology / know-how intangible assets for Bantam, which reflect the impact of a SKU rationalization by a Foodservice customer resulting in the loss of sales to that customer after November 30, 2020. The impairment charges represent the excess of the carrying value over the fair value of estimated discounted cash flows for the remaining useful lives of the intangible assets. The impairment charges are reflected in Restructuring and Impairment Charges in the Consolidated Statements of Income and were recorded in our Foodservice segment. We also reduced the remaining useful life for Bantam’s Foodservice customer relationship and have recorded accelerated amortization expense.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We capitalize certain costs related to hosting arrangements that are service contracts (cloud computing arrangements). Capitalized costs are included in Other Current Assets or Other Noncurrent Assets and are amortized on a straight-line basis over the estimated useful life. In 2021, 2020 and 2019, we capitalized $3.5 million, $10.3 million and $1.7 million, respectively, of deferred software costs related to cloud computing arrangements.

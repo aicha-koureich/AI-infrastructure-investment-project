@@ -1,0 +1,20 @@
+FIRM         : FTDR (CIK 0001727263) | FY2018
+FILE         : 0001727263_FTDR_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 20. Earnings Per Share
+ASSET CAT.   : Technology, Office equipment, furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+﻿ ﻿ ﻿ As of Estimated ﻿ December 31, Useful Lives (In millions) 2018 2017 (Years) Buildings and improvements $ 20 $ 19 10 - 40 Technology and communications 78 51 3 - 7 Office equipment, furniture and fixtures, and vehicles 8 6 5 - 7 ﻿ 107 77 Less accumulated depreciation (59) (46) Net property and equipment $ 47 $ 31
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

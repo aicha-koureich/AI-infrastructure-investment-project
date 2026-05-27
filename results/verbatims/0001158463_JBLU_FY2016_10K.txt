@@ -1,0 +1,20 @@
+FIRM         : JBLU (CIK 0001158463) | FY2016
+FILE         : 0001158463_JBLU_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1—Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated useful lives and residual values for our property and equipment are as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement ||| topic of the Codification, which provides guidance to clarify customers' accounting for fees paid in a cloud computing arrangement. Customers' cloud computing arrangements which include a software license should account for the software license consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. We adopted ASU 2015-05 prospectively and the amendments did not have a significant impact on our consolidated financial statements. ||| Also during the first quarter of 2016, we adopted ASU 2015-05, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement topic of the Codification, which provides guidance to clarify customers' accounting for fees paid in a cloud computing arrangement. Customers' cloud computing arrangements which include a software license should account for the software license consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. We adopted ASU 2015-05 prospectively and the amendments did not have a significant impact on our consolidated financial statements.

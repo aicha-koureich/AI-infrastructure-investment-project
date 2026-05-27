@@ -1,0 +1,23 @@
+FIRM         : ENS (CIK 0001289308) | FY2024
+FILE         : 0001289308_ENS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-05-21
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 25. Subsequent Events
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment are recorded at cost and include expenditures that substantially increase the useful lives of the assets. Depreciation is provided using the straight-line method over the estimated useful lives of the assets as follows: 10 to 33 years for buildings and improvements and 3 to 15 years for machinery and equipment.
+
+[VERBATIM — Changement de politique]
+Property, plant, and equipment are recorded at cost and include expenditures that substantially increase the useful lives of the assets. Depreciation is provided using the straight-line method over the estimated useful lives of the assets as follows: 10 to 33 years for buildings and improvements and 3 to 15 years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+• Energy Systems - uninterruptible power systems, or “UPS” applications for computer and computer-controlled systems, as well as telecommunications systems, switchgear and electrical control systems used in industrial facilities and electric utilities, large-scale energy storage and energy pipelines. Energy Systems also includes highly integrated power solutions and services to broadband, telecom, data center, and industrial customers, as well as thermally managed cabinets and enclosures for electronic equipment and batteries.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The Energy Systems operating earnings percentage of net sales increased 120 basis points in fiscal 2025 compared to fiscal 2024. The increase in operating earnings is as a result of lower operating expenses from restructuring programs and growth in our data center business.

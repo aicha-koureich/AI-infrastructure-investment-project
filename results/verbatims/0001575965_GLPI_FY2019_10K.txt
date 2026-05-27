@@ -1,0 +1,20 @@
+FIRM         : GLPI (CIK 0001575965) | FY2019
+FILE         : 0001575965_GLPI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, less accumulated depreciation and represent assets used by the Company's TRS operations and certain corporate assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal Use Software (Subtopic 350-40: Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract (a consensus of the FASB Emerging Issues Task Force ) ("ASU 2018-15"). This ASU clarifies that entities should follow the guidance for capitalizing implementation costs incurred to develop or obtain internal-use software to account for implementation costs of cloud computing arrangements that are service contracts. ASU 2018-15 does not change the accounting for the service component of a cloud computing arrangement. The Company adopted ASU 2018-15 on January 1, 2020 and does not expect the adoption of ASU 2018-15 to have a significant impact on its consolidated financial statements. ||| Intangibles - Goodwill and Other - Internal Use Software (Subtopic 350-40: Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract (a consensus of the FASB Emerging Issues Task Force ||| ) ("ASU 2018-15"). This ASU clarifies that entities should follow the guidance for capitalizing implementation costs incurred to develop or obtain internal-use software to account for implementation costs of cloud computing arrangements that are service contracts. ASU 2018-15 does not change the accounting for the service component of a cloud computing arrangement. The Company adopted ASU 2018-15 on January 1, 2020 and does not expect the adoption of ASU 2018-15 to have a significant impact on its consolidated financial statements.

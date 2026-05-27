@@ -1,0 +1,25 @@
+FIRM         : NOVT (CIK 0001076930) | FY2013
+FILE         : 0001076930_NOVT_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 10. Supplementary Balance Sheet Information
+ASSET CAT.   : machinery and equipment, capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The assets acquired under the capital lease are included in machinery and equipment and the related amortization expense is included in depreciation expense. The following table summarizes depreciation expense on property, plant and equipment,
+including amortization of demo units and the capital lease (in thousands):
+
+[VERBATIM — Changement de politique]
+Presented below are actual cash charges, including severance and relocation costs, facility closure costs
+and consulting costs and non-cash charges related to accelerated depreciation for changes in estimated useful lives of certain long-lived assets for which the Company exited with respect to the 2011 restructuring (in thousands):
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

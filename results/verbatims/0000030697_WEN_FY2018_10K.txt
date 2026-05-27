@@ -1,0 +1,23 @@
+FIRM         : WEN (CIK 0000030697) | FY2018
+FILE         : 0000030697_WEN_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+years for buildings and improvements. When the Company commits to a plan to cease using certain properties before the end of their estimated useful lives, depreciation expense is accelerated to reflect the use of the assets over their shortened useful lives. Capital leases and leasehold improvements are amortized over the shorter of their estimated useful lives or the terms of the respective leases, including periods covered by renewal options that the Company is reasonably assured of exercising.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued new guidance on accounting for implementation costs of a cloud computing arrangement that is a service contract. The new guidance aligns the accounting for such implementation costs of a cloud computing arrangement that is a service contract with the guidance on capitalizing costs associated with developing or obtaining internal-use software. The Company does not expect the amendment, which is effective beginning with our 2019 fiscal year, to have a material impact on our consolidated financial statements.

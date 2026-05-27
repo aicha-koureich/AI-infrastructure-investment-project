@@ -1,0 +1,20 @@
+FIRM         : HNI (CIK 0000048287) | FY2015
+FILE         : 0000048287_HNI_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Internal-Use Software (Subtopic 350-40) - Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement ||| . The ASU applies to cloud computing arrangements including software as a service, platform as a service, infrastructure as a service, and other similar hosting arrangements, and was issued to help entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement. The ASU provides guidance about whether the arrangement includes a software license. The core principle of the ASU is that if a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The guidance will not change U.S. GAAP for a customer’s accounting for service contracts. The ASU is effective for annual reporting periods, including interim periods within those annual periods, beginning after December 15, 2015. The company anticipates the adoption in the effective period and we are currently evaluating the effect, if any, that the ASU will have on our consolidated financial statements and related disclosures. ||| In April 2015, the FASB issued ASU No. 2015-05, Internal-Use Software (Subtopic 350-40) - Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement . The ASU applies to cloud computing arrangements including software as a service, platform as a service, infrastructure as a service, and other similar hosting arrangements, and was issued to help entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement. The ASU provides guidance about whether the arrangement includes a software license. The core principle of the ASU is that if a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The guidance will not change U.S. GAAP for a customer’s accounting for service contracts. The ASU is effective for annual reporting periods, including interim periods within those annual periods, beginning after December 15, 2015. The company anticipates the adoption in the effective period and we are currently evaluating the effect, if any, that the ASU will have on our consolidated financial statements and related disclosures.

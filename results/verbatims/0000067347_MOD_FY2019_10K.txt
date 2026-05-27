@@ -1,0 +1,21 @@
+FIRM         : MOD (CIK 0000067347) | FY2019
+FILE         : 0000067347_MOD_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2020
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1: Significant Accounting Policies
+ASSET CAT.   : equipment when it owns title to the tooling and amortizes the capitalized cost to cost of sales over the estimated life of the asset, which is generally
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Tooling costs: The Company accounts for production tooling costs as a component of property, plant and equipment when it owns title to the tooling and amortizes the capitalized cost to cost of sales over the estimated life of the asset, which is generally three years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

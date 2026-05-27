@@ -1,0 +1,20 @@
+FIRM         : SR (CIK 0001126956) | FY2019
+FILE         : 0001126956_SR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-09-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 18. Subsequent Event
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Accounting for the economics of rate regulation affects multiple financial statement line items, including property, plant, and equipment; regulatory assets and liabilities; operating revenues; and depreciation expense, and affects multiple disclosures in the Company’s financial statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Effective January 1, 2019, the Company, Spire Missouri and Spire Alabama adopted ASU No. 2018-15, Intangibles – Goodwill and Other – Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . Previous GAAP did not specifically address the accounting for implementation costs of a hosting arrangement that is a service contract. The amendments in this update clarify that accounting and align the accounting for implementation costs for hosting arrangements, regardless of whether they convey a license to the hosted software. As a result, certain categories of implementation costs that previously would have been charged to expense as incurred are now capitalized as prepayments and amortized over the term of the arrangement. The new guidance is being applied prospectively to implementation costs incurred after adoption. Related amounts capitalized were not material. ||| Intangibles – Goodwill and Other – Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

@@ -1,0 +1,21 @@
+FIRM         : WSC (CIK 0001647088) | FY2024
+FILE         : 0001647088_WSC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 - Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-30.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-10.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated Useful Life Buildings and leasehold improvements 10 - 40 years Vehicles, machinery, and equipment 3 - 30 years Furniture and fixtures 3 - 10 years Software 3 - 10 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| The Company evaluates implementation costs incurred in a cloud computing arrangement that is a service contract under the internal-use software framework. Costs related to preliminary project activities and post implementation activities are expensed as incurred. Costs incurred in the development stage are generally capitalized as other assets. Amortization expense is calculated on a straight-line basis over the contractual term of the cloud computing arrangement and recorded as selling, general and administrative expense.

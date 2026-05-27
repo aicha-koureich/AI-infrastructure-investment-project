@@ -1,0 +1,20 @@
+FIRM         : CVLT (CIK 0001169561) | FY2016
+FILE         : 0001169561_CVLT_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 12. Selected Quarterly Financial Data (unaudited)
+ASSET CAT.   : servers, equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+March 31, 2017 2016 Land $ 9,445 $ 9,445 Buildings 103,244 103,193 Computers, servers and other equipment 35,274 33,120 Furniture and fixtures 14,912 14,458 Leasehold improvements 7,040 6,948 Purchased software 1,335 1,279 Construction in process 1,147 165 172,397 168,608 Less: Accumulated depreciation and amortization (40,078 ) (32,704 ) $ 132,319 $ 135,904
+
+[VERBATIM — Infrastructure IA]
+Commvault software enables our customers to simply and cost effectively protect and manage their enterprise data throughout its lifecycle, from the mobile worker to the remote office, to the data center, covering the leading operating systems, relational databases, virtualized environments and applications. In addition to addressing today’s data and information management challenges, our customers can realize lower capital costs through more efficient use of their enterprise-wide storage infrastructure assets. This includes the automated movement of data from higher cost to lower cost storage devices throughout its lifecycle, and through sharing and better utilization of storage resources across the enterprise. We can also provide our customers with reduced operating costs through a variety of methods, including fast application deployment, reduced training time, lower cost of storage media consumables, proactive monitoring and analysis, and lower administrative overhead. We also provide our customers with a broad range of professional services that are delivered by our worldwide support and field operations. As of  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

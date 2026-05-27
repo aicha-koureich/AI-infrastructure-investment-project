@@ -1,0 +1,23 @@
+FIRM         : OFIX (CIK 0000884624) | FY2020
+FILE         : 0000884624_OFIX_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-09-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 4. Acquisitions
+ASSET CAT.   : equipment, Computer software, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Dollars, in thousands) 2020 2019 Cost Buildings $ 4,096 $ 3,731 Plant and equipment 50,159 46,470 Instrumentation 93,252 82,327 Computer software 52,565 49,696 Furniture and fixtures 8,024 7,328 Construction in progress 1,628 2,201 Finance lease assets 23,337 21,179 Property, plant, and equipment, gross 233,061 212,932 Accumulated depreciation (169,448 ) (150,205 ) Property, plant, and equipment, net $ 63,613 $ 62,727
+
+[VERBATIM — Changement de politique]
+Expenditures for maintenance and repairs and minor renewals and improvements, which do not extend the lives of the respective assets, are expensed as incurred. All other expenditures for renewals and improvements are capitalized. The assets and related accumulated depreciation are adjusted for property retirements and disposals, with the resulting gain or loss included in earnings. Fully depreciated assets remain in the accounts until retired from service.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Adoption of ASU 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| In August 2018, the FASB issued ASU 2018-15, which aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The accounting for the service element of a hosting arrangement that is a service contract was not affected by the amendments in this update. The Company adopted this ASU effective January 1, 2020 on a prospective basis. Adoption of this ASU did not have a material impact to the Company’s condensed consolidated balance sheet, statements of operations, or cash flows, but is expected to impact future cloud computing arrangements.

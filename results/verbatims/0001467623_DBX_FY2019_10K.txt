@@ -1,0 +1,24 @@
+FIRM         : DBX (CIK 0001467623) | FY2019
+FILE         : 0001467623_DBX_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of the Business and Summary of Significant Accounting Policies
+ASSET CAT.   : servers, equipment, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+These costs, which are referred to as infrastructure costs, include depreciation of servers located in co-location facilities that the Company leases and operates, rent and facilities expense for those datacenters, network and bandwidth costs, support and maintenance costs for infrastructure equipment, and payments to third-party datacenter service providers. Other non-employee costs included in cost of revenue include credit card fees related to processing customer transactions and allocated overhead, such as facilities, including rent, utilities, depreciation on leasehold improvements and other equipment shared by all departments, and shared information technology costs.
+
+[VERBATIM — Changement de politique]
+Acquired property and equipment and finite-lived intangible assets are amortized over their useful lives.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. Under existing U.S. GAAP, there is diversity in practice in accounting for the costs of implementing cloud computing arrangements that are service contracts. The amendments in ASU No. 2018-15 amend the definition of a hosting arrangement and requires a customer in a hosting arrangement that is a service contract to capitalize certain costs as if the arrangement were an internal-use software project. The guidance is effective for fiscal years beginning after December 15, 2019 and interim periods within those fiscal years. The Company does not expect the adoption of ASU No. 2018-15 to have a significant impact on its consolidated financial statements. ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. ||| Under existing U.S. GAAP, there is diversity in practice in accounting for the costs of implementing cloud computing arrangements that are service contracts. The amendments in ASU No. 2018-15 amend the definition of a hosting arrangement and requires a customer in a hosting arrangement that is a service contract to capitalize certain costs as if the arrangement were an internal-use software project. The guidance is effective for fiscal years beginning after December 15, 2019 and interim periods within those fiscal years. The Company does not expect the adoption of ASU No. 2018-15 to have a significant impact on its consolidated financial statements.

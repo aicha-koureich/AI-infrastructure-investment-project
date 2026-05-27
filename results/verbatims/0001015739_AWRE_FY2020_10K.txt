@@ -1,0 +1,23 @@
+FIRM         : AWRE (CIK 0001015739) | FY2020
+FILE         : 0001015739_AWRE_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Computer equipment, Furniture and fixtures, Office equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2020 2019 Land $ 1,056 $ 1,056 Building and improvements 9,166 9,071 Computer equipment 1,183 830 Purchased software 154 117 Furniture and fixtures 778 778 Office equipment 100 100 Total 12,437 11,952 Less accumulated depreciation (8,736 ) (8,197 ) Property and equipment, net $ 3,701 $ 3,755
+
+[VERBATIM — Changement de politique]
+Service revenue consists of fees from biometrics customers for software engineering services we provide to them. We recognize services revenue over time as the services are delivered using an input method (i.e., labor hours incurred as a percentage of total labor hours budgeted), provided all other revenue recognition criteria are met. The use of the over-time revenue recognition method requires judgment in developing budgeted labor hours. Changes in budgeted hours may occur and the resulting impact on revenue recognition is accounted for in the period of the change in estimate.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

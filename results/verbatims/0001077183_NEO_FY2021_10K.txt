@@ -1,0 +1,23 @@
+FIRM         : NEO (CIK 0001077183) | FY2021
+FILE         : 0001077183_NEO_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost, net of accumulated depreciation and amortization. Costs incurred in connection with the development of internal-use software are capitalized in accordance with the accounting standard for internal-use software, and are amortized over the expected useful life of the software.
+
+[VERBATIM — Changement de politique]
+The Company prepares its Consolidated Financial Statements in conformity with GAAP. These principles require management to make estimates, judgments, and assumptions that affect the reported amounts of assets, liabilities, revenues, and expenses, together with amounts disclosed in the related notes to the Consolidated Financial Statements. Actual results and outcomes may differ from management’s estimates, judgments, and assumptions. Significant estimates, judgments, and assumptions used in these Consolidated Financial Statements include, but are not limited to, those related to revenues, accounts receivable and related allowances, contingencies, useful lives and recovery of long-term assets and intangible assets, income taxes and valuation allowances, stock-based compensation, business combinations, and impairment analysis of goodwill. These estimates, judgments, and assumptions are reviewed periodically and the effects of material revisions in estimates are reflected on the Consolidated Financial Statements prospectively from the date of the change in estimate.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

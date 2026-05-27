@@ -1,0 +1,24 @@
+FIRM         : AKAM (CIK 0001086222) | FY2020
+FILE         : 0001086222_AKAM_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : software and hardware initiatives to manage its global network more efficiently and, as a result, the expected average useful life of its network assets, primarily servers, increased from
+DURÉE        : 4.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 4.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+The Company has implemented software and hardware initiatives to manage its global network more efficiently and, as a result, the expected average useful life of its network assets, primarily servers, increased from four years to five years, effective January 1, 2019.
+
+[VERBATIM — Changement de politique]
+Significant estimates, judgments and assumptions used in these financial statements include, but are not limited to, those related to revenue, accounts receivable and related reserves, valuation and impairment of investments and marketable securities, valuation and useful lives of acquired intangible assets, useful lives and realizability of long-lived assets, capitalized internal-use software development costs, income tax reserves and accounting for stock-based compensation.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue consists primarily of fees paid to network providers for bandwidth and to third-party network data centers for housing servers, also known as co-location costs. Cost of revenue also includes employee costs for services delivery and network operation, build-out and support of the Company's network; network storage costs; cost of software licenses; depreciation of network equipment used to deliver the Company’s services; amortization of network-related internal-use software; and costs for the production of live events streamed by the Company for customers. The Company enters into contracts for bandwidth with third-party network providers with terms typically ranging from several months to five years. These contracts generally commit the Company to pay minimum monthly fees plus additional fees for bandwidth usage above the committed level. In some circumstances, internet service providers (“ISPs”) make rack space available for the Company to locate its servers and provide access to their bandwidth at a discount or no cost. Although the Company does not provide any goods or services to the ISPs or the ISPs’ customers under these arrangements, the ISPs and their customers indirectly benefit by accessing content through a local Company server, resulting in better content delivery. The Company records the cost of these vendor relationships at their negotiated transaction price, which is either at a discount or no cost.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Akamai Technologies, Inc. (the “Company”) provides solutions for securing, delivering and optimizing content and business applications over the internet. Its globally-distributed platform comprises more than 325,000 servers across more than 130 countries. The Company was incorporated in Delaware in 1998 and is headquartered in Cambridge, Massachusetts. The Company currently operates in one industry segment: providing cloud services for delivering, optimizing and securing content and business applications over the internet. ||| In August 2018, the FASB issued guidance that addresses a customer’s accounting for implementation costs incurred in a cloud computing arrangement that is a service contract. The guidance aligns the accounting for costs incurred to implement a cloud computing arrangement that is a service arrangement with the guidance for capitalizing costs associated with developing or obtaining internal-use software. The Company prospectively adopted this standard on January 1, 2020. Adoption of the standard did not have a material impact on the Company's consolidated financial statements. ||| The Company’s chief operating decision-maker is the chief executive officer and the executive management team. As of December 31, 2020, the Company operated in one industry segment: providing cloud services for securing, delivering and optimizing content and business applications over the internet. The Company is not organized by market and is managed and operated as one business. A single management team that reports to the chief executive officer comprehensively manages the entire business. The Company does not operate any material separate lines of business or separate business entities with respect to its services. Accordingly, the Company does not accumulate discrete financial information with respect to separate divisions and does not have separate operating or reportable segments.

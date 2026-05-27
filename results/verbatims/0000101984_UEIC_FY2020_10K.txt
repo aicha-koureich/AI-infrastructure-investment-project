@@ -1,0 +1,20 @@
+FIRM         : UEIC (CIK 0000101984) | FY2020
+FILE         : 0000101984_UEIC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 6 — Property, Plant, and Equipment, Net
+ASSET CAT.   : Computer equipment, Furniture and fixtures, Machinery and equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, (In thousands) 2020 2019 Buildings $ 19,984 $ 18,570 Computer equipment 10,213 9,935 Furniture and fixtures 3,972 3,905 Leasehold and building improvements 39,656 37,527 Machinery and equipment 101,117 94,274 Software 24,915 25,910 Tooling 34,379 32,267 234,236 222,388 Accumulated depreciation (154,216) (135,254) 80,020 87,134 Construction in progress 7,265 3,598 Total property, plant, and equipment, net $ 87,285 $ 90,732
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

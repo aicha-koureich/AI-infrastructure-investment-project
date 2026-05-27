@@ -1,0 +1,23 @@
+FIRM         : ADM (CIK 0000007084) | FY2024
+FILE         : 0000007084_ADM_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+EBITDA is defined as earnings before interest on borrowings, taxes, and depreciation and amortization. Adjusted EBITDA is defined as earnings before interest on borrowings, taxes, depreciation, and amortization, adjusted to exclude the impact of specified items as more fully described in the reconciliation tables.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

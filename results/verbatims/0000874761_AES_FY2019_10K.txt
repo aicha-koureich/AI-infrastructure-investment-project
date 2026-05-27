@@ -1,0 +1,23 @@
+FIRM         : AES (CIK 0000874761) | FY2019
+FILE         : 0000874761_AES_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Hawaii — During the fourth quarter of 2019, the Company tested the recoverability of its long-lived coal-fired asset in Hawaii. Uncertainty around the ability to contract the asset upon expiration of its existing PPA resulted in management's decision to reassess the economic useful life of the generation facility. A decrease in the economic useful life was identified as an impairment indicator. The Company determined that the carrying amount was not recoverable. The asset group, consisting of property, plant and equipment and intangible assets, was determined to
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : MTSI (CIK 0001493594) | FY2015
+FILE         : 0001493594_MTSI_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 2, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Nonmonetary assets
+and liabilities, such as inventories and property and equipment, and related statements of operations accounts, such as cost of revenue and depreciation, are remeasured at historical exchange rates.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We expect our revenue in the Networks market to be primarily driven by continued upgrades and expansion of
+communications equipment to support expansion in the Internet of Things (IoT), the proliferation of mobile computing devices such as smartphones and tablets, increasing adoption of bandwidth rich services such as video on demand and cloud computing,
+the rapid adoption of cloud-based services, and the migration to an application centric architecture, which we expect will drive faster adoption of higher speed, low latency optical and wireless links.

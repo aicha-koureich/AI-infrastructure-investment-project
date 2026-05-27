@@ -1,0 +1,20 @@
+FIRM         : BXP (CIK 0001037540) | FY2017
+FILE         : 0001037540_BXP_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Guidance in Accounting Standards Codification (“ASC”) 360 “Property Plant and Equipment” (“ASC 360”) requires that qualifying assets and liabilities and the results of operations that have been sold, or otherwise qualify as “held for sale,” be presented as discontinued operations in all periods presented if the property operations are expected to be eliminated and the Company will not have significant continuing involvement following the sale. Discontinued operations presentation applies only to disposals representing a strategic shift that has (or will have) a major effect on an entity’s operations and financial results (e.g., a disposal of a major geographical area, a major line of business, a major equity method investment or other major parts of an entity). The components of the property’s net income that are reflected as discontinued operations include the net gain (or loss) upon the disposition of the property held for sale, operating results, depreciation and interest expense (if the property is subject to a secured loan). The Company generally considers assets to be “held for sale” when the transaction has been approved by Boston Properties, Inc.’s Board of Directors, or a committee thereof, and there are no known significant contingencies relating to the sale, such that a sale of the property within
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

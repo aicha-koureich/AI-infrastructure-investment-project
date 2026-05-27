@@ -1,0 +1,20 @@
+FIRM         : CFR (CIK 0000039263) | FY2021
+FILE         : 0000039263_CFR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-26
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4 - Premises and Equipment and Lease Commitments
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of premises and equipment totaled $55.1 million in 2021, $49.9 million 2020 and $41.0 million in 2019.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Technology, Furniture and Equipment. Technology, furniture and equipment expense for 2021 increased $7.5 million, or 7.1%, compared to 2020. The increase was primarily related to increases in cloud services expense (up $5.9 million) and depreciation of furniture and equipment (up $2.5 million) partly offset by a decrease in software maintenance (down $1.1 million). ||| Technology, furniture and equipment expense for 2021 increased $7.5 million, or 7.1%, compared to 2020. The increase was primarily related to increases in cloud services expense (up $5.9 million) and depreciation of furniture and equipment (up $2.5 million) partly offset by a decrease in software maintenance (down $1.1 million). ||| increase in technology, furniture and equipment expense was primarily related to increases in cloud services expense and depreciation of furniture and equipment partly offset by a decrease in software maintenance. The increase in net occupancy expense was primarily related to increases in depreciation on leasehold improvements, repairs and maintenance/service contracts expense and building depreciation, among other things, partly offset by a decrease in lease expense, among other things. The increase in deposit insurance expense was primarily related to an increase in total assets partly offset by a decrease in the assessment rate. See the analysis of these categories of non-interest expense included in the section captioned “Non-Interest Expense” included elsewhere in this discussion.

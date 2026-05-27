@@ -1,0 +1,20 @@
+FIRM         : MTH (CIK 0000833079) | FY2020
+FILE         : 0000833079_MTH_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 — BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment, office equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment, net. Property and equipment, net consists of computer and office equipment, model home furnishings and capitalized sales office costs. Depreciation is generally calculated using the straight-line method over the estimated useful lives of the assets, which range from three to seven years. Depreciation expense was $18.9 million, $17.3 million, and $16.3 million for the years ended December 31, 2020, 2019 and 2018, respectively. Maintenance and repair costs are expensed as incurred. At December 31, 2020 and 2019, property and equipment, net consisted of the following (in thousands):
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the Financial Accounting Standards Board ("FASB") issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract ("ASU 2018-15"), which aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. Entities will need to consider both the nature of the costs and the phase of development in which the implementation costs are incurred to determine whether the costs should be capitalized or expensed. ASU 2018-15 was effective for us beginning January 1, 2020 on a prospective basis to all implementation costs incurred after the date of adoption. The adoption of ASU 2018-15 did not have a material impact on our financial statement disclosures. ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract

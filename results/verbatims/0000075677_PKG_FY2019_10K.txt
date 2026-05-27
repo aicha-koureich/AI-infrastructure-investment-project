@@ -1,0 +1,20 @@
+FIRM         : PKG (CIK 0000075677) | FY2019
+FILE         : 0000075677_PKG_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Year Ended December 31, 2019 2018 Buildings $ 0.3 $ 0.3 Machinery and equipment 28.5 28.5 Total 28.8 28.8 Less accumulated amortization (18.1 ) (16.7 ) Total $ 10.7 $ 12.1 Current portion of finance lease obligations $ 1.5 $ 1.4 Long-term portion of finance lease obligations 16.0 17.6 Total finance lease obligations $ 17.5 $ 19.0
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+During 2019, the Company early adopted ASU 2018-15, Intangibles – Goodwill and Other – Internal Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract , which includes amendments to align the accounting for costs incurred to implement a cloud computing arrangement that is a service contract with the guidance on capitalizing costs associated with developing or obtaining internal-use software. Capitalized costs associated with cloud computing arrangements were immaterial for 2019. ||| Effective October 1, 2019, we early adopted ASU 2018-15, Intangibles – Goodwill and Other – Internal Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract , which includes amendments to align the accounting for costs incurred to implement a cloud computing arrangement that is a service contract with the guidance on capitalizing costs associated with developing or obtaining internal-use software. The accounting for the service component of a hosting arrangement that is a service contract is not affected by the amendments in this update. This guidance will be applied prospectively. The adoption of this guidance did not have a material impact on the Company’s financial condition, results of operations, or cash flows. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

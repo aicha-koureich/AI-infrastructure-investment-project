@@ -1,0 +1,21 @@
+FIRM         : KTB (CIK 0001760965) | FY2024
+FILE         : 0001760965_KTB_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-18
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 23
+ASSET CAT.   : computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized computer software, net of accumulated amortization of $56,069 in 2024 and $43,108 in 2023
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Capitalized Computer Software and Cloud Computing Arrangements ||| Expenditures for major software purchases and software developed for internal use, including cloud computing arrangements with software licenses purchased from vendors, are capitalized and amortized on a straight-line basis over periods ranging from two to ten years. The Company's policy provides for the capitalization of external direct costs associated with developing or obtaining internal-use computer software. Capitalized computer software costs are included in the balance sheet within "other assets." Costs associated with preliminary project stage activities, training, maintenance and post-implementation stage activities are expensed as incurred. ||| Cloud computing arrangements that do not include a license, including any related implementation costs, are accounted for as service contracts and the associated fees are expensed as incurred. Cloud computing arrangements that include a license are capitalized in the balance sheets within "prepaid expenses and other current assets" for the current portion and "other assets" for the long-term portion.

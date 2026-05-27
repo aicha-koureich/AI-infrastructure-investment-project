@@ -1,0 +1,23 @@
+FIRM         : BCO (CIK 0000078890) | FY2024
+FILE         : 0000078890_BCO_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 - Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software, machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful Lives Years Buildings 25 Building leasehold improvements Lesser of Lease Term or 10 Vehicles 3 to 8 Capitalized software 5 Other machinery and equipment 3 to 10
+
+[VERBATIM — Changement de politique]
+Although payment terms and conditions can vary, for the majority of our customer contracts, we invoice for all of the services provided to the customer within a monthly period. For certain customer contracts, the timing of our performance may precede our right to invoice the customer for the total transaction price. For example, Brink's affiliates in certain countries, primarily in Latin America, negotiate annual price adjustments with certain customers and, once the price increases are finalized, the pricing changes are made retroactive to services provided in earlier periods. These retroactive pricing adjustments are estimated and recognized as revenue with a corresponding contract asset in the same period in which the related services are performed. As the estimate of the ultimate transaction price changes, we recognize a cumulative catch-up adjustment for the change in estimate. In our Rest of World segment, certain Brink's affiliates provide services to specific customers and, per contract, a portion of the consideration is retained by the customers until the contract is completed. The retention amounts are reported as contract assets until we have the right to bill the customer for these amounts. Certain Brink's affiliates make upfront consideration payments in order to gain customer contracts. The upfront payment amounts are reported as contract assets and are amortized as a reduction to revenues over the duration of the contracts. Contract assets expected to be collected within one year ($4.6 million at December 31, 2024) are included in prepaid expenses and other on the consolidated balance sheet. Amounts not expected to be billed and collected within one year ($17.6 million at December 31, 2024) are reported in other noncurrent assets on the consolidated balance sheet.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : HAIN (CIK 0000910406) | FY2021
+FILE         : 0000910406_HAIN_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 7. PROPERTY, PLANT AND EQUIPMENT, NET
+ASSET CAT.   : Machinery and equipment, Computer hardware, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+June 30, 2021 June 30, 2020 Land $ 13,666 $ 13,866 Buildings and improvements 58,143 74,325 Machinery and equipment 306,811 288,466 Computer hardware and software 65,132 60,391 Furniture and fixtures 23,546 20,044 Leasehold improvements 54,360 40,876 Construction in progress 21,633 16,489 543,291 514,457 Less: Accumulated depreciation and impairment 230,514 225,201 $ 312,777 $ 289,256
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles - Goodwill and Other - Internal-Use Software , Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract , which aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The amended guidance is effective for annual periods beginning after December 15, 2019, and for interim periods within those fiscal years. The Company adopted ASU 2018-15 on July 1, 2020, and the adoption of this standard did not have an impact on the Company’s consolidated financial statements. ||| Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract

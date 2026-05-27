@@ -1,0 +1,20 @@
+FIRM         : VAC (CIK 0001524358) | FY2017
+FILE         : 0001524358_VAC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2017-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, information technology
+DURÉE        : 3.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We capitalize the cost of improvements that extend the useful life of property and equipment when incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

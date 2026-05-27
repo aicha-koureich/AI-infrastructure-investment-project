@@ -1,0 +1,20 @@
+FIRM         : ASTE (CIK 0000792987) | FY2021
+FILE         : 0000792987_ASTE_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The cost and accumulated depreciation for property and equipment sold, retired or otherwise disposed of are relieved from the accounts and resulting gains or losses are reflected in earnings.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles-Goodwill and Other-Internal-Use-Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. This ASU aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software, with amortization expense being recorded in the same income statement expense line as the hosted service costs and over the expected term of the hosting arrangement. This ASU is effective for fiscal years, and interim periods, beginning after December 15, 2019. The Company adopted the provisions of this standard as of January 1, 2020, and it has been applied prospectively for applicable implementation costs incurred subsequent to the effective date. The adoption of this new standard did not have a material impact on its financial position, results of operations, cash flows or disclosures.

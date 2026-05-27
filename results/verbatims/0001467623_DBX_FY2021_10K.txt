@@ -1,0 +1,24 @@
+FIRM         : DBX (CIK 0001467623) | FY2021
+FILE         : 0001467623_DBX_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of the Business and Summary of Significant Accounting Policies
+ASSET CAT.   : servers, equipment, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+These costs, which are referred to as infrastructure costs, include depreciation of servers located in co-location facilities that the Company leases and operates, rent and facilities expense for those datacenters, network and bandwidth costs, support and maintenance costs for infrastructure equipment, and payments to third-party datacenter service providers. Other non-employee costs included in cost of revenue include credit card fees related to processing customer transactions and allocated overhead, such as facilities, including rent, utilities, depreciation on leasehold improvements and other equipment shared by all departments, and shared information technology costs.
+
+[VERBATIM — Changement de politique]
+Acquired property and equipment and finite-lived intangible assets are amortized over their useful lives.
+
+[VERBATIM — Infrastructure IA]
+Property and equipment Useful life Buildings 20 to 30 years Data center and other computer equipment 3 to 5 years Office equipment and other 3 to 7 years Leasehold improvements Lesser of estimated useful life or remaining lease term  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

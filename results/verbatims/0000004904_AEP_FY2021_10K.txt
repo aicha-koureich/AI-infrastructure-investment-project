@@ -1,0 +1,23 @@
+FIRM         : AEP (CIK 0000004904) | FY2021
+FILE         : 0000004904_AEP_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : B100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Electric utility property, plant and equipment for rate-regulated operations are stated at original cost. Additions, major replacements and betterments are added to the plant accounts. Under the group composite method of depreciation, continuous interim routine replacements of items such as boiler tubes, pumps, motors, etc. result in original cost retirements, less salvage, being charged to accumulated depreciation. The group composite method of depreciation assumes that on average, asset components are retired at the end of their useful lives and thus there is no gain or loss. The equipment in each primary electric plant account is identified as a separate group. The depreciation rates that are established take into account the past history of interim capital replacements and the amount of removal cost incurred and salvage received. These rates and the related lives are subject to periodic review. Removal costs accrued are typically recorded as regulatory liabilities when the revenue received for removal costs accrued exceeds actual removal costs incurred. The asset removal costs liability is relieved as removal costs are incurred. A regulatory asset balance will occur if actual removal costs incurred exceed accumulated removal costs accrued.
+
+[VERBATIM — Changement de politique]
+In November 2021, I&M and intervenors filed an unopposed joint settlement agreement with the IURC. After adjustments to remove the impact of Rockport Plant, Unit 2, the agreement includes a $61 million annual revenue increase based on a 9.7% ROE. The primary differences between I&M’s requested annual rate increase and the agreed upon settlement increase are primarily due to: (a) changes to the capital structure of I&M, (b) decreased depreciation rates and (c) certain changes to I&M’s proposed rate base. Rockport Plant, Unit 2 costs will be recovered through riders until the lease expiration in December 2022. Adjustments to remove Rockport Plant, Unit 2 costs from base rates are consistent with the IURC’s order approving I&M’s proposed purchase of Rockport Plant, Unit 2. See “Rockport Plant Litigation” section of Note 6 for additional information. In February 2022, the IURC issued an order approving the joint settlement agreement with no modifications. The IURC’s order resulted in a phased-in increase in Indiana rates with a $3 million annual increase effective February 2022 and the remaining $58 million annual increase effective in January 2023.
+
+[VERBATIM — Infrastructure IA]
+Critical cyber assets, such as data centers, power plants, transmission operations centers and business networks are protected using multiple layers of cyber security controls and authentication. Cyber hackers and other malicious actors have caused material disruption by successfully breaching a number of very secure facilities, including federal agencies, banks and retailers. As understanding of these events develop, AEP has adopted a defense in depth approach to cyber security and continually assesses its cyber security tools and processes to determine where to strengthen its defenses. These strategies include monitoring, alerting and emergency response, forensic analysis, disaster recovery, threat sharing and criminal activity reporting. This approach has allowed AEP to deal with cyber and related threats, intrusions and attempted breaches in real-time and to limit their impact to levels that would be expected in the ordinary course of business in the absence of such malicious activity.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

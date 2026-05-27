@@ -1,0 +1,20 @@
+FIRM         : SFBS (CIK 0001430723) | FY2024
+FILE         : 0001430723_SFBS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 5.
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The provisions for depreciation charged to occupancy and equipment expense for the years ended December 31, 2024, 2023 and 2022 were $4.8 million, $4.4 million and $4.1 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : SANM (CIK 0000897723) | FY2023
+FILE         : 0000897723_SANM_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-09-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : buildings
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is provided on a straight-line basis over 20 to 40 years for buildings and 3 to 15 years for machinery, equipment, furniture and fixtures.
+
+[VERBATIM — Changement de politique]
+Stock-based Compensation . The Company recognizes stock-based compensation expense, net of estimated forfeitures, on as straight-line basis over the requisite service period of the award, which generally ranges from one year to four years and/or upon achievement of specified performance criteria. The stock-based compensation expense for time-based and performance-based restricted stock awards are valued at the closing market price of the Company’s common stock on the date of grant. During the requisite service period, performance-based restricted stock awards are monitored by management for probability of achievement of performance goals and if become probable, that more or less than the previous estimate of the awarded shares will vest, an adjustment to stock-based compensation expense will be recognized as a change in accounting estimate. The Company recognizes stock-based compensation expense for market-based restricted stock units measured at fair value on the grant date using a Monte Carlo valuation model. The stock-based compensation expense for awards with market conditions will be recognized over the requisite service periods regardless of whether the market conditions are satisfied.
+
+[VERBATIM — Infrastructure IA]
+Year Ended September 30, 2023 October 1, 2022 October 2, 2021 (In thousands) Segments: IMS $ 7,289,037 $ 6,378,324 $ 5,454,269 CPS $ 1,646,011 $ 1,541,298 $ 1,284,087 Total $ 8,935,048 $ 7,919,622 $ 6,738,356 End Markets: Industrial, Medical, Defense and Aerospace, and Automotive $ 5,388,877 $ 4,744,088 $ 3,871,754 Communications Networks and Cloud Infrastructure $ 3,546,171 $ 3,175,534 $ 2,866,602 Total $ 8,935,048 $ 7,919,622 $ 6,738,356 Geography: Americas (1) $ 4,426,690 $ 3,748,643 $ 3,164,562 APAC $ 3,187,017 $ 3,007,904 $ 2,517,963 EMEA $ 1,321,341 $ 1,163,075 $ 1,055,831 Total $ 8,935,048 $ 7,919,622 $ 6,738,356 Percentage of net sales represented by ten largest customers 48 % 49 % 53 % Number of customers representing 10% or more of net sales 1 2 1  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,24 @@
+FIRM         : FIS (CIK 0001136893) | FY2023
+FILE         : 0001136893_FIS_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Discontinued Operations
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Software as of December 31, 2023 and 2022, consists of the following (in millions): 2023 2022 Software from acquisitions $ 754 $ 702 Capitalized software development costs 2,775 2,946 Purchased software 633 693 4,162 4,341 Accumulated amortization (2,047) (2,286) Total Software, net $ 2,115 $ 2,055
+
+[VERBATIM — Changement de politique]
+During the years ended December 31, 2023, 2022 and 2021, the Company recorded $81 million, $31 million and $136 million, respectively, of software asset impairments and $18 million, $75 million and $76 million, respectively, of incremental software amortization expense driven by the Company's platform modernization.
+
+[VERBATIM — Infrastructure IA]
+The Company has agreements with various vendors, generally with one - to five-year terms, principally for software, maintenance, and consulting and outsourced services, including cloud hosting and data centers. The Company's estimated aggregate contractual obligation remaining under these agreements is approximately $868 million as of December 31, 2023. However, this amount could be more or less depending on various factors such as the inflation rate, foreign exchange rates, the introduction of significant new technologies, or changes in the Company's processing needs. The foregoing amounts do not include obligations of the Company under operating leases.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

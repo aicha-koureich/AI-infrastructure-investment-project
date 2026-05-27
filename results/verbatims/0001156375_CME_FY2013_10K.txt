@@ -1,0 +1,21 @@
+FIRM         : CME (CIK 0001156375) | FY2013
+FILE         : 0001156375_CME_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-4.0 ans | 2.0-7.0 ans | 30.0-9.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are depreciated over their estimated useful lives. Internal and external costs incurred in developing or obtaining computer software for internal use are capitalized and amortized on a straight-line basis over the estimated useful life of the software, generally
+
+[VERBATIM — Infrastructure IA]
+Future capital expenditures for technology are anticipated as we continue to support our growth through additional investment in our co-location program, increased system capacity and performance improvements. Each year, capital expenditures are incurred for improvements to and expansion of our offices, remote data centers, telecommunications network and other operating equipment. In  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

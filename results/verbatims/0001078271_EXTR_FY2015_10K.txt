@@ -1,0 +1,20 @@
+FIRM         : EXTR (CIK 0001078271) | FY2015
+FILE         : 0001078271_EXTR_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Summary of Significant Accounting Policies
+ASSET CAT.   : computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+years are used for computer equipment and software. Estimated useful lives of
+
+[VERBATIM — Infrastructure IA]
+We are a leading provider of network infrastructure equipment and offer related services contracts for extended warranty and maintenance to our enterprise, data center and service provider customers. We were incorporated in California in May 1996, and reincorporated in Delaware in March 1999. Our corporate headquarters are located in San Jose, California. Substantially all of our revenue is derived from the sale of our networking equipment and related service contracts.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

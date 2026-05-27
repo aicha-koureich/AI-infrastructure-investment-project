@@ -1,0 +1,20 @@
+FIRM         : WHD (CIK 0001699136) | FY2022
+FILE         : 0001699136_WHD_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies and Other Items
+ASSET CAT.   : Machinery and equipment, equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2022 2021 Land $ 5,302 $ 3,203 Buildings and improvements 25,480 22,532 Machinery and equipment 57,883 56,937 Vehicles under finance lease 29,045 23,450 Rental equipment 194,088 180,704 Furniture and fixtures 1,759 1,755 Computers and software 3,068 3,495 Gross property and equipment 316,625 292,076 Less: Accumulated depreciation (200,573) (175,992) Net property and equipment 116,052 116,084 Construction in progress 13,946 13,033 Total property and equipment, net $ 129,998 $ 129,117
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

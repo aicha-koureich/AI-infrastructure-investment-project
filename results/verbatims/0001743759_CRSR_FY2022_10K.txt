@@ -1,0 +1,20 @@
+FIRM         : CRSR (CIK 0001743759) | FY2022
+FILE         : 0001743759_CRSR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 17. Redeemable Noncontrolling Interest (“RNCI”)
+ASSET CAT.   : equipment, Computer equipment, office equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Manufacturing equipment $ 28,993 $ 26,094 Computer equipment, software and office equipment 16,205 9,407 Leasehold improvements 18,903 5,154 Furniture and fixtures 3,277 4,709 Total property and equipment $ 67,378 $ 45,364 Less: Accumulated depreciation and amortization (32,451 ) (28,545 ) Property and equipment, net $ 34,927 $ 16,819
+
+[VERBATIM — Infrastructure IA]
+Introduction of new high-performance computing hardware and sophisticated games . We believe that the introduction of more powerful CPUs and GPUs that place increased demands on other system components, such as memory, power supply or cooling, has a significant effect on increasing the demand for our gear. The shortage of reasonably priced GPUs since the second half of 2021 had a negative impact to our gaming component revenue. Starting from the third quarter of 2022, we saw the availability of reasonably priced GPUs begin to normalize and bring along some positive effects to the market. In addition, we believe that our business success depends in part on the introduction and success of games with sophisticated graphics that place increasing demands on system processing speed and capacity and therefore require more powerful CPUs or GPUs, which in turn drives demand for our high-performance gaming components and systems, such as PSUs and cooling solutions, and our gaming PC memory. As a result, our operating results may be materially affected  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Our long-lived assets are primarily comprised of operating lease ROU assets , property and equipment and capitalized implementation costs of cloud computing arrangements . ||| In the normal course of business, we enter into various purchase commitments for goods or services. Our long-term non-cancelable purchase commitments consist primarily of multi-year contractual arrangements relating to subscriptions for cloud computing hosting arrangements for our enterprise resource planning (“ERP”) system and the related support services as well as ||| and capitalized implementation costs of cloud computing arrangements

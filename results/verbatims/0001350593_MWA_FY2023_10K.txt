@@ -1,0 +1,21 @@
+FIRM         : MWA (CIK 0001350593) | FY2023
+FILE         : 0001350593_MWA_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : software, generally
+DURÉE        : 6.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 4.2 ans | 5.0 ans | 6.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized costs are depreciated over the estimated useful life of the system or software, generally six years, beginning when the system or software is ready for its intended use.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

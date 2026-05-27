@@ -1,0 +1,20 @@
+FIRM         : PENG (CIK 0001616533) | FY2020
+FILE         : 0001616533_PENG_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 28, 2020
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+The Company’s revenues include products and services. The Company’s product revenues are predominantly derived from the sale of memory modules, flash memory cards, compute products and storage products, which the Company designs and manufactures. The Company’s service revenues are derived from procurement, logistics, inventory management, temporary warehousing, kitting and packaging services. Also, a small portion of the Company’s product sales include extended warranty and on-site services, subscriptions to the Company’s high performance computing environment, professional services, software and related support.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

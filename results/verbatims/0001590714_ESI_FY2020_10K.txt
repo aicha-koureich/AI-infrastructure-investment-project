@@ -1,0 +1,20 @@
+FIRM         : ESI (CIK 0001590714) | FY2020
+FILE         : 0001590714_ESI_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+• Circuitry Solutions : net sales increased by 6% on a reported basis and 5% on an organic basis. Foreign exchange had a positive impact of 1% on reported net sales. The increase in organic net sales was primarily due to strong demand for high-end smartphones and 5G telecommunication infrastructure, as well as strength from memory disk customers driven by continued growth in data center markets.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

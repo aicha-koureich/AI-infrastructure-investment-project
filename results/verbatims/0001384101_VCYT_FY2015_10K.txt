@@ -1,0 +1,34 @@
+FIRM         : VCYT (CIK 0001384101) | FY2015
+FILE         : 0001384101_VCYT_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies (Continued)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+software
+was $1.3 million, $534,000 and $744,000, respectively, as of December 31, 2015, and was $927,000, $330,000 and $597,000, respectively, as of December 31, 2014, and are
+included in property and equipment in the Company's balance sheets. During the years ended December 31, 2015 and 2014, the Company capitalized $352,000 and $445,000, respectively, of software
+development costs. Amortization expense totaled $204,000, $135,000 and $108,000 in the years ended December 31, 2015, 2014 and 2013, respectively.
+
+[VERBATIM — Changement de politique]
+In November 2014, the Company signed an Amended and Restated U.S. Co-Promotion Agreement ("Amended Agreement") with Genzyme. Under the Amended Agreement, the co-promotion fees Genzyme
+will receive as a percentage of U.S. cash receipts were reduced from 32% to 15% beginning January 1, 2015. Through August 11, 2014, the Company amortized the $10.0 million upfront
+co-promotion fee straight-line over a four-year period, which was management's best estimate of the life of the agreement, in part because after that period either party could have terminated the
+agreement without penalty. Effective August 12, 2014, the Company extended the amortization period from January 2016 to June 2016, the modified earliest period either party could terminate the
+agreement without penalty. The Company accounted for the change in accounting estimate
+prospectively. The extension of the amortization period to June 2016 decreased the loss from operations and net loss by $0.6 million and $0.2 million for the years ended
+December 31, 2015 and 2014, respectively. This extension of amortization to June 2016 also decreased the loss per common share by $0.02 and $0.01 for the years ended December 31, 2015
+and 2014, respectively. Either party may terminate the agreement with six months prior notice, however, under the Amended Agreement, neither party can terminate the agreement for convenience prior to
+June 30, 2016. The agreement with Genzyme expires in 2027. See Note 17, Subsequent Event.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

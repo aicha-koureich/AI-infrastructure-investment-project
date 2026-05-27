@@ -1,0 +1,21 @@
+FIRM         : RGP (CIK 0001084765) | FY2020
+FILE         : 0001084765_RGP_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 12. Restructuring Activities
+ASSET CAT.   : Furniture, equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+﻿ Building 30 years Furniture 5 to 10 years Leasehold improvements Lesser of useful life of asset or term of lease Computer, equipment and software 3 to 5 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

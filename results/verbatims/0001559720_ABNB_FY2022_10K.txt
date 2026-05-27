@@ -1,0 +1,20 @@
+FIRM         : ABNB (CIK 0001559720) | FY2022
+FILE         : 0001559720_ABNB_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies Basis of Presentation
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company capitalizes certain costs in connection with obtaining or developing software for internal use. Amortization of such costs begins when the project is substantially complete and ready for its intended use. Capitalized software development costs are classified as
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue primarily consists of payment processing charges, including merchant fees and chargebacks, costs associated with third-party data centers used to host the Company’s platform, and amortization of internally developed software and acquired technology.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Cost of revenue increased $343.2 million, or 30%, in 2022 compared to 2021, primarily due to an increase in merchant fees of $313.9 million and an increase of $35.8 million in chargebacks, both related to an increase in pay-in volumes, an increase in cloud computing costs of $24.9 million due to increased server and data storage usage, and an increase of $10.0 million related to SMS notification costs, partially offset by a decrease of $44.3 million in amortization expense for internally developed software and acquired technology.

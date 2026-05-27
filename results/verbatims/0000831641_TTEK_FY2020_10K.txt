@@ -1,0 +1,20 @@
+FIRM         : TTEK (CIK 0000831641) | FY2020
+FILE         : 0000831641_TTEK_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-11
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Preparation
+ASSET CAT.   : equipment, furniture and fixtures
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost and depreciated over their estimated useful lives using the straight-line method. When property and equipment are retired or otherwise disposed of, the cost and accumulated depreciation are removed from our consolidated balance sheets and any resulting gain or loss is reflected in our consolidated statements of income. Generally, estimated useful lives range from three to seven years for equipment, furniture and fixtures.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

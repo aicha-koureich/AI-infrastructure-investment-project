@@ -1,0 +1,20 @@
+FIRM         : AXTI (CIK 0001051627) | FY2024
+FILE         : 0001051627_AXTI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Revenue increased $23.6 million, or 31.1%, in 2024 from $75.8 million in 2023. The $20.3 million increase in wafer substrate sales was the result of higher demand for InP wafer substrates for 5G applications, data center upgrades (silicon photonics) and consumer related applications, GaAs wafer substrates as the result of increased demand for LED products, industrial lasers and other applications requiring low defect densities in the wafer substrate and higher demand for our Ge wafer substrates from our customers in China. The $3.3 million raw materials revenue increase as compared to the same period in 2023 was primarily the result of increased sales of purified gallium and increased revenue from pBN crucibles and pBN-based OLED manufacturing tools sold by BoYu, one of our consolidated raw material companies.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

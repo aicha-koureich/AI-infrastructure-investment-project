@@ -1,0 +1,21 @@
+FIRM         : MCY (CIK 0000064996) | FY2019
+FILE         : 0000064996_MCY_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : software, generally not exceeding
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Furniture, equipment, and purchased software are depreciated on a combination of straight-line and accelerated methods over 3 to 7 years . The Company has capitalized certain consulting costs, payroll, and payroll-related costs for employees related to computer software developed for internal use, which are amortized on a straight-line method over the estimated useful life of the software, generally not exceeding 7 years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") 2018-15, " Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ." ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software under Subtopic 350-40. This ASU also requires an entity ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

@@ -1,0 +1,21 @@
+FIRM         : AVAV (CIK 0001368622) | FY2013
+FILE         : 0001368622_AVAV_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : April 30, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 15. Subsequent Event
+ASSET CAT.   : Machinery and equipment, Computer equipment, Furniture and fixtures
+DURÉE        : 2.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 2.0-7.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Machinery and equipment 2 to 7 years Computer equipment and software 2 to 5 years Furniture and fixtures 3 to 7 years Leasehold improvements Lesser of useful life or term of lease
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

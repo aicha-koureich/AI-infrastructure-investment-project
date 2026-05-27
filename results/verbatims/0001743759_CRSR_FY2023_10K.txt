@@ -1,0 +1,20 @@
+FIRM         : CRSR (CIK 0001743759) | FY2023
+FILE         : 0001743759_CRSR_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 7. Balance Sheet Components The following tables present the components of certain balance sheet amounts (in thousands): December 31, 2023 2022 Cash $
+ASSET CAT.   : equipment, Computer equipment, office equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100;NVIDIA (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Balance Sheet Components The following tables present the components of certain balance sheet amounts (in thousands): December 31, 2023 2022 Cash $ 175,620 $ 151,180 Restricted cash—short term 2,705 2,647 Restricted cash—noncurrent 239 233 Total cash and restricted cash $ 178,564 $ 154,060 Accounts receivable $ 254,433 $ 145,380 Due from Factor 283 91,061 Allowance for doubtful accounts ( 1,448 ) ( 785 ) Accounts receivable, net $ 253,268 $ 235,656 Raw materials $ 64,576 $ 49,926 Work in progress 5,204 4,171 Finished goods 170,392 138,620 Inventories $ 240,172 $ 192,717 Manufacturing equipment $ 28,168 $ 28,993 Leasehold improvements 19,789 18,903 Computer equipment, software and office equipment 16,083 16,205 Furniture and fixtures 3,825 3,277 Total property and equipment $ 67,865 $ 67,378 Less: Accumulated depreciation and amortization ( 35,653 ) ( 32,451 ) Property and equipment, net $ 32,212 $ 34,927 Right-of-use assets $ 36,324 $ 45,175 Deferred tax asset 27,749 23,569 Other 6,636 6,546 Other assets $ 70,709 $ 75,290 Accrued reserves for customer incentive programs $ 41,148 $ 58,621 Accrued reserves for sales returns 36,822 27,199 Accrued payroll and related expenses 17,989 10,511 Accrued freight expenses 13,553 12,486 Sales and use tax and value-added tax payable 10,652 9,376 Operating lease liabilities, current 9,721 11,051 Contract liabilities 7,442 6,259 Accrued warranty 7,155 3,685 Income tax payable 3,653 5,322 Other 18,205 19,960 Other liabilities and accrued expenses $ 166,340 $ 164,470 Operating lease liabilities, noncurrent $ 38,587 $ 45,457 Other 3,008 3,132 Other liabilities, noncurrent $ 41,595 $ 48,589
+
+[VERBATIM — Infrastructure IA]
+Impact of Seasonal Sales Trends. We have experienced and expect to continue to experience seasonal fluctuations in sales due to the buying patterns of our customers and spending patterns of gamers. Our net revenue has generally been lower in the first and second calendar quarters due to lower consumer demand following the fourth quarter holiday season and because of the decline in sales that typically occurs in anticipation of the introduction of new or enhanced CPUs, GPUs, and other computer hardware products, which usually take place in the second calendar quarter, and which tend to drive sales in the following two quarters. Further, our net revenue tends to be higher in the third and fourth calendar quarters due to seasonal sales such as “Black Friday” and “Cyber Monday” as well as “Singles Day” in China, as retailers tend to make purchases in advance of these sales. Our sales also tend to be higher in the fourth quarter due to the introduction of new consoles and high-profile games in connection with the holiday season. As a consequence of seasonality, our net revenue for the second calendar quarter is generally the lowest of the year followed by the first calendar quarter. Historical seasonal patterns may not continue in the future and have been impacted, for example, in 2020 and 2021, and may be further impacted in the future, by macroeconomic factors, increasing supply constraints, GPU shortages, shifts in customer behavior and the continuing impacts of the COVID-19 pandemic.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+SG&A expenses increased $0.4 million, or 0.1%, in 2023 as compared to 2022. The increase was primarily due to higher personnel-related costs and higher legal expenses, partially offset by lower outbound freight costs, and lower amortization of capitalized cloud computing arrangements implementation costs.

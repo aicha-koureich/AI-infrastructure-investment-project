@@ -1,0 +1,20 @@
+FIRM         : DCH (CIK 0001062231) | FY2014
+FILE         : 0001062231_DCH_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Engineering, R&D, and other pre-production design and development costs for products sold on long-term supply arrangements are expensed as incurred unless we have a contractual guarantee for reimbursement from the customer. Costs for tooling used to make products sold on long-term supply arrangements for which we have either title to the assets or the noncancelable right to use the assets during the term of the supply arrangement are capitalized in property, plant and equipment. Capitalized items and customer receipts in excess of tooling costs specifically related to a supply arrangement are amortized over the shorter of the term of the arrangement or over the estimated useful lives of the related assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

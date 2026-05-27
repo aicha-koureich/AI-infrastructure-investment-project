@@ -1,0 +1,23 @@
+FIRM         : ADP (CIK 0000008670) | FY2017
+FILE         : 0000008670_ADP_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 . SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is stated at cost less accumulated depreciation on the Consolidated Balance Sheets.
+
+[VERBATIM — Changement de politique]
+In July 2016, the Company prospectively adopted ASU 2015-05, "Customer's Accounting for Fees Paid in a Cloud Computing Arrangement." The update provides guidance on whether a cloud computing arrangement includes a software license. For new and materially modified cloud computing arrangements that include a software license entered into after July 1, 2016, the Company accounts for the software license element consistent with the acquisition of other software licenses. If the new or materially modified cloud computing arrangement does not include a software license, the Company accounts for the arrangement as a service contract. The adoption of ASU 2015-05 did not have a material impact on the Company's consolidated results of operations, financial condition, or cash flows.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In July 2016, the Company prospectively adopted ASU 2015-05, "Customer's Accounting for Fees Paid in a Cloud Computing Arrangement." The update provides guidance on whether a cloud computing arrangement includes a software license. For new and materially modified cloud computing arrangements that include a software license entered into after July 1, 2016, the Company accounts for the software license element consistent with the acquisition of other software licenses. If the new or materially modified cloud computing arrangement does not include a software license, the Company accounts for the arrangement as a service contract. The adoption of ASU 2015-05 did not have a material impact on the Company's consolidated results of operations, financial condition, or cash flows.

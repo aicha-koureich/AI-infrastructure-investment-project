@@ -1,0 +1,20 @@
+FIRM         : EZPW (CIK 0000876523) | FY2015
+FILE         : 0000876523_EZPW_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 25: RESTATEMENT OF CONSOLIDATED FINANCIAL STATEMENTS
+ASSET CAT.   : buildings
+DURÉE        : 2.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We depreciate these assets on a straight-line basis using estimated useful lives of 30 years for buildings and two to seven years for furniture, equipment and software development costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU 2015-05, Intangibles — Goodwill and Other — Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement. This ASU provides guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The provisions of this ASU are effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2015. Early adoption is permitted. A reporting entity may apply the amendment prospectively or retrospectively. We do not anticipate that the adoption of ASU 2015-05 will have a material effect on our financial position, results of operations or cash flows.

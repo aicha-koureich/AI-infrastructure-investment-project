@@ -1,0 +1,23 @@
+FIRM         : OXY (CIK 0000797468) | FY2019
+FILE         : 0000797468_OXY_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 18 - INDUSTRY SEGMENTS AND GEOGRAPHIC AREAS
+ASSET CAT.   : EQUIPMENT
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Consolidated Balance Sheets Occidental Petroleum Corporation and Subsidiaries December 31, millions 2019 2018 ASSETS CURRENT ASSETS Cash and cash equivalents $ 3,032 $ 3,033 Restricted cash and restricted cash equivalents 480 — Trade receivables, net of reserves of $19 in 2019 and $21 in 2018 6,373 4,893 Inventories 1,447 1,260 Assets held for sale 6,026 — Other current assets 1,323 746 Total current assets 18,681 9,932 INVESTMENTS IN UNCONSOLIDATED ENTITIES 6,389 1,680 PROPERTY, PLANT AND EQUIPMENT Oil and gas segment 105,881 58,799 Chemical segment 7,172 7,001 Marketing and midstream segment 8,176 8,070 Corporate 1,118 550 122,347 74,420 Accumulated depreciation, depletion and amortization (41,878 ) (42,983 ) 80,469 31,437 OPERATING LEASE ASSETS 1,385 — LONG-TERM RECEIVABLES AND OTHER ASSETS, NET 2,406 805 TOTAL ASSETS $ 109,330 $ 43,854 The accompanying notes are an integral part of these consolidated financial statements.
+
+[VERBATIM — Changement de politique]
+Without these continued expenditures, the useful lives of these assets could decrease significantly. Other factors that could change the estimated useful lives of Occidental’s chemical assets include sustained higher or lower product prices, which are affected by domestic and international competition, demand, feedstock costs, energy prices, environmental regulations and technological changes.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

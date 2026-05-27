@@ -1,0 +1,20 @@
+FIRM         : PTC (CIK 0000857005) | FY2016
+FILE         : 0000857005_PTC_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Gross margin as a percentage of total revenue in 2015 compared to 2014 reflects lower software margins due to lower perpetual license revenue and a higher mix of cloud services revenue (due to our acquisition of Axeda), which has lower margins than license revenue. ||| Our cost of software revenue consists of fixed and variable costs associated with reproducing and distributing software and documentation, as well as royalties paid to third parties for technology embedded in or licensed with our software products, amortization of intangible assets associated with acquired products and costs to perform and support our cloud services business. Our cost of software revenue also includes costs such as salaries, benefits, information technology and facilities associated with customer support and the release of support updates (including related royalty costs). Cost of software revenue as a percent of software revenue can vary depending on product mix sold, the effect of fixed and variable royalties, and the level of amortization of acquired software intangible assets. Amortization of acquired purchased software totaled $24.6 million, $19.4 million, and $18.1 million in 2016, 2015, and 2014, respectively. Total compensation, benefits costs and travel expenses increased by $8.2 million from 2015 to 2016 and by $0.9 million from 2014 to 2015. ||| We offer both perpetual and subscription licensing options to our customers, as well as monthly software rentals for certain products. Given the difference in revenue recognition between the sale of a perpetual software license (revenue is recognized at the time of sale) and a subscription (revenue is deferred and recognized ratably over the subscription term), we use bookings for internal planning, forecasting and reporting of new license and cloud services transactions. In order to normalize between perpetual and subscription licenses, we define subscription bookings as the subscription annualized contract value (subscription ACV) of new subscription bookings multiplied by a conversion factor of 2. We arrived at the conversion factor of 2 by considering a number of variables including pricing, support, length of term, and renewal rates. We define subscription ACV as the total value of a new subscription booking divided by the term of the contract (in days) multiplied by 365. If the term of the subscription contract is less than a year, the ACV is equal to the total contract value. In 2016, the weighted average contract length of our subscription bookings was approximately 2 years.

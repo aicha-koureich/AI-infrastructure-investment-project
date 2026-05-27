@@ -1,0 +1,23 @@
+FIRM         : CPAY (CIK 0001175454) | FY2024
+FILE         : 0001175454_CPAY_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 9. Property and Equipment
+ASSET CAT.   : Computer hardware, equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful Lives (in Years) 2024 2023 Computer hardware and software 3 to 5 $ 839,250 $ 734,759 Card-reading equipment 4 to 6 53,820 61,216 Furniture, fixtures and vehicles 2 to 10 20,696 20,614 Buildings and improvements 5 to 50 40,242 41,508 Property and equipment, gross 954,008 858,097 Less: accumulated depreciation (576,303) (514,943) Property and equipment, net $ 377,705 $ 343,154
+
+[VERBATIM — Changement de politique]
+Due to rebranding activity during the year ended December 31, 2024 , the Company reassessed the useful lives of certain
+
+[VERBATIM — Infrastructure IA]
+The Company primarily leases office space, data centers, vehicles and equipment. Some of the Company's leases contain  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

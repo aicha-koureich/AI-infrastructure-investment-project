@@ -1,0 +1,20 @@
+FIRM         : RYN (CIK 0000052827) | FY2019
+FILE         : 0000052827_RYN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — Summary of Significant Accounting Policies
+ASSET CAT.   : EQUIPMENT
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+CONDENSED CONSOLIDATING BALANCE SHEETS As of December 31, 2018 Rayonier Inc. (Parent Issuer) Subsidiary Guarantors Non- guarantors Consolidating Adjustments Total Consolidated ASSETS CURRENT ASSETS Cash and cash equivalents $361 $104,777 $43,236 — $148,374 Accounts receivable, less allowance for doubtful accounts — 3,752 22,399 — 26,151 Inventory — — 15,703 — 15,703 Prepaid logging roads — — 11,976 — 11,976 Prepaid expenses — 977 4,063 — 5,040 Other current assets — 108 501 — 609 Total current assets 361 109,614 97,878 — 207,853 TIMBER AND TIMBERLANDS, NET OF DEPLETION AND AMORTIZATION — — 2,401,327 — 2,401,327 HIGHER AND BETTER USE TIMBERLANDS AND REAL ESTATE DEVELOPMENT INVESTMENTS — — 85,609 — 85,609 NET PROPERTY, PLANT AND EQUIPMENT — 16,940 5,811 — 22,751 RESTRICTED CASH — — 8,080 — 8,080 INVESTMENT IN SUBSIDIARIES 1,833,899 3,022,875 — (4,856,774 ) — INTERCOMPANY RECEIVABLES 49,461 (638,424 ) 588,963 — — OTHER ASSETS 2 19,244 35,800 — 55,046 TOTAL ASSETS $1,883,723 $2,530,249 $3,223,468 ($4,856,774 ) $2,780,666 LIABILITIES AND SHAREHOLDERS’ EQUITY CURRENT LIABILITIES Accounts payable — $1,616 $16,403 — $18,019 Accrued taxes — 8 3,170 — 3,178 Accrued payroll and benefits — 5,848 4,568 — 10,416 Accrued interest 3,047 1,960 — — 5,007 Deferred revenue — — 10,447 — 10,447 Other current liabilities — 216 16,258 — 16,474 Total current liabilities 3,047 9,648 50,846 — 63,541 LONG-TERM DEBT, NET OF DEFERRED FINANCING COSTS 323,803 648,764 — — 972,567 PENSION AND OTHER POSTRETIREMENT BENEFITS — 30,484 (684 ) — 29,800 OTHER NON-CURRENT LIABILITIES — 7,454 52,754 — 60,208 TOTAL RAYONIER INC.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : PANW (CIK 0001327567) | FY2020
+FILE         : 0001327567_PANW_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : July 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 9. Property and Equipment
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+July 31, 2020 2019 Computers, equipment, and software $ 306.8 $ 264.1 Leasehold improvements 229.5 204.8 Land 49.6 — Demonstration units 43.3 40.7 Furniture and fixtures 39.9 30.6 Total property and equipment 669.1 540.2 Less: accumulated depreciation (321.0) (244.2) Total property and equipment, net $ 348.1 $ 296.0
+
+[VERBATIM — Infrastructure IA]
+Our product revenue was $1.1 billion or 31.2% of total revenue for fiscal 2020, representing a slight decrease year-over-year of 2.9%. Product revenue is generated from sales of our appliances, primarily our ML-powered Next-Generation Firewall, which is available in a number of form factors, including as physical, virtual and containerized appliances. Our ML-powered Next-Generation Firewall incorporates our PAN-OS operating system, which provides a consistent set of capabilities across our entire product line. Our products are designed for different performance requirements throughout an organization, ranging from our PA-220, which is designed for small organizations and remote or branch offices, to our top-of-the-line PA-7080, which is designed for large scale data centers and service provider use. The same firewall functionality that is delivered in our physical appliances is also available in our VM-Series virtual firewalls, which secure virtualized and cloud-based computing environments and in our CN-Series container firewalls, which secures container environments and traffic.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+On March 26, 2018, we completed our acquisition of Evident.io, Inc. (“Evident.io”), a privately-held cloud security company. The acquisition expanded our API-based security capabilities for the public cloud with the addition of Evident.io’s cloud services infrastructure protection technology. The total purchase consideration for the acquisition of Evident.io was $292.9 million in cash, of which $4.0 million was accrued and was paid over a period of five months from the acquisition date.

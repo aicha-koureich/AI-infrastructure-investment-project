@@ -1,0 +1,23 @@
+FIRM         : RRX (CIK 0000082811) | FY2024
+FILE         : 0000082811_RRX_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+The Company incurred restructuring and restructuring-related costs on projects during 2024, 2023 and 2022. The Company has initiated restructuring plans to achieve cost synergies from procurement, distribution efficiencies, footprint rationalization and other general cost savings measures. Restructuring costs include employee termination and plant relocation costs. Restructuring-related costs include costs directly associated with actions resulting from the Company's simplification initiatives, such as asset write-downs or accelerated depreciation due to shortened useful lives in connection with site closures, discretionary employment benefit costs and other facility rationalization costs. Restructuring costs for employee termination expenses are generally recognized when the severance liability is determined to be probable of being paid and reasonably estimable while plant relocation costs and related costs are generally required to be expensed as incurred.
+
+[VERBATIM — Infrastructure IA]
+The AMC segment designs, produces and services conveyor products, conveying automation subsystems, aerospace components, precision motion control solutions, high-efficiency miniature servo motors, controls, drives and linear actuators, as well as power management products that include automatic transfer switches and paralleling switchgear. The segment sells into markets that include industrial automation, robotics, food and beverage, aerospace, medical, agricultural and construction, general industrial, data center, and other markets.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

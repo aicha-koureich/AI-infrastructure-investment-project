@@ -1,0 +1,25 @@
+FIRM         : TEL (CIK 0001385157) | FY2013
+FILE         : 0001385157_TEL_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 27, 2013
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+In
+the telecom networks end market, our organic net sales decreased 7.9% in fiscal 2012 from fiscal 2011 due primarily to decreased capital investments by major carriers in the
+telecommunications industry, particularly in the Americas and EMEA regions. In the data communications end market, our organic net sales decreased 16.1% in fiscal 2012 as compared to fiscal 2011 as a
+result of market softness, primarily in the Asia–Pacific region, and inventory reductions in the supply chain. In the enterprise networks end market, our organic net sales were flat in
+fiscal 2012 as compared to fiscal 2011 levels as declines resulting from weak office network demand were offset by increases resulting from continued data center investments. The subsea communications
+end market's organic net sales decreased 15.8% in fiscal 2012 from fiscal 2011 as a result of lower levels of project activity.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

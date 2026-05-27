@@ -1,0 +1,24 @@
+FIRM         : CUBI (CIK 0001488813) | FY2019
+FILE         : 0001488813_CUBI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 9 – BANK PREMISES AND EQUIPMENT
+ASSET CAT.   : Furniture, equipment
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : A100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+December 31, (amounts in thousands) Expected Useful Life 2019 2018 Leasehold improvements 3 to 25 years $ 14,218 $ 14,080 Furniture, fixtures and equipment 5 to 10 years 6,333 7,110 IT equipment 3 to 5 years 10,016 8,645 Automobiles 3 to 5 years 492 455 31,059 30,290 Accumulated depreciation and amortization (21,670) (19,227) Total $ 9,389 $ 11,063
+
+[VERBATIM — Changement de politique]
+Leased assets under operating leases are carried at amortized cost net of accumulated depreciation and any impairment charges. The depreciation expense of the leased assets is recognized on a straight-line basis over the contractual term of the leases up to their expected residual value. The expected residual value and, accordingly, the monthly depreciation expense, may change throughout the term of the lease. Operating lease rental income for leased assets is recognized in other non-interest income on a straight-line basis over the lease term. Customers periodically reviews its leased assets for impairment. An impairment loss is recognized if the carrying amount of the leased asset exceeds its fair value and is not recoverable. The carrying amount of leased assets is not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the lease payments and the estimated residual value upon the eventual disposition of the leased asset.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15, Internal-Use Software (Subtopic 350-40): Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract Issued August 2018 ||| Internal-Use Software (Subtopic 350-40): Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

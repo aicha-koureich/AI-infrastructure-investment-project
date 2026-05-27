@@ -1,0 +1,20 @@
+FIRM         : NI (CIK 0001111711) | FY2023
+FILE         : 0001111711_NI_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Nature of Operations and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+G. Plant and Other Property and Related Depreciation and Maintenance. Property, plant and equipment (principally utility plant) is stated at cost. Our rate-regulated subsidiaries record depreciation using composite rates on a straight-line basis over the remaining service lives of the electric, gas and common properties, as approved by the appropriate regulators.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+External and internal costs associated with on-premise computer software developed for internal use are capitalized. Capitalization of such costs commences upon the completion of the preliminary stage of each project. Once the installed software is ready for its intended use, such capitalized costs are amortized on a straight-line basis generally over a period of five years. External and internal up-front implementation costs associated with cloud computing arrangements that are service contracts are deferred on the Consolidated Balance Sheets. Once the installed software is ready for its intended use, such deferred costs are amortized on a straight-line basis to "Operation and maintenance," over the minimum term of the contract plus contractually-provided renewal periods that are reasonably expected to be exercised. ||| Amortization of Cloud Computing Costs. We amortized $12.6 million, $11.1 million and $10.0 million in 2023, 2022 and 2021, respectively, related to cloud computing costs to "Operation and maintenance" expense. Our unamortized cloud computing balance was $32.2 million and $45.7 million at December 31, 2023 and 2022, respectively. ||| Amortization of Cloud Computing Costs.

@@ -1,0 +1,20 @@
+FIRM         : STT (CIK 0000093751) | FY2015
+FILE         : 0000093751_STT_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 26. Parent Company Financial Statements . Summary of Significant Accounting Policies
+ASSET CAT.   : computer hardware, equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Occupancy expense and information systems and communications expense include depreciation of buildings, leasehold improvements, computer hardware and software, equipment, and furniture and fixtures.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued an amendment to U.S. GAAP which will assist entities in evaluating the accounting for fees paid by a customer in a cloud computing arrangement. The amendment, which allows for early adoption, is effective for State Street beginning on January 1, 2016. Our adoption of this amendment is not expected to have a material effect on our consolidated financial statements.

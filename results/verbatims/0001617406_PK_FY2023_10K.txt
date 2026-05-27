@@ -1,0 +1,21 @@
+FIRM         : PK (CIK 0001617406) | FY2023
+FILE         : 0001617406_PK_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2: Basis of Presentation and Summary of Significant Accounting Policies Basis of Presentation
+ASSET CAT.   : furniture, equipment, computer equipment
+DURÉE        : 3.0-8.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Depreciation is recorded using the straight-line method over the assets’ estimated useful lives, which are generally as follows: buildings and improvements (8 to 40 years); furniture and equipment (3 to 8 years); and computer equipment and acquired software (3 years).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

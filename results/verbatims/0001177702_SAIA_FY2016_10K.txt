@@ -1,0 +1,20 @@
+FIRM         : SAIA (CIK 0001177702) | FY2016
+FILE         : 0001177702_SAIA_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2016
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 1. Description of Business and Summary of Accounting Policies
+ASSET CAT.   : technology equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Maintenance and repairs are charged to operations while replacements and improvements that extend the asset’s life are capitalized. The Company’s investment in technology equipment and software consists primarily of systems to support customer service, maintenance and freight management. Depreciation was $74.5 million, $63.4 million and $58.4 million for the years ended December 31, 2016, 2015 and 2014, respectively. Depreciation and amortization expense includes amortization of assets under capital lease. At December 31, 2016, trailers acquired under capital leases had a gross carrying value of $72.8 million and accumulated depreciation of $6.8 million. At
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

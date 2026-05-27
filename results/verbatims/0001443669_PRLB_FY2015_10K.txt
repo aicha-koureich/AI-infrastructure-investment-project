@@ -1,0 +1,24 @@
+FIRM         : PRLB (CIK 0001443669) | FY2015
+FILE         : 0001443669_PRLB_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 — Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, furniture, computer hardware
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Manufacturing equipment is depreciated over 3 to 15 years, office furniture and equipment are depreciated over 3 to 7 years, computer hardware and software are depreciated over 3 to 5 years, building costs are depreciated over 39 years, leasehold improvements are depreciated over the estimated lives of the related assets or the life of the lease, whichever is shorter, and building and land improvements are depreciated over 10 to 39 years.
+
+[VERBATIM — Changement de politique]
+In August 2015, the Company adjusted the useful lives of its primary production equipment based on experience and condition of current equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05, Intangibles — Goodwill and Other — Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement . Under this standard, if a cloud computing arrangement includes a software license, the software license element of the arrangement should be accounted for consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the arrangement should be accounted for as a service contract. The Company is required to adopt the new standard on January 1, 2016. The adoption of this standard is not expected to have a material impact on the Company’s financial position or results of operations. ||| Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement . Under this standard, if a cloud computing arrangement includes a software license, the software license element of the arrangement should be accounted for consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the arrangement should be accounted for as a service contract. The Company is required to adopt the new standard on January 1, 2016. The adoption of this standard is not expected to have a material impact on the Company’s financial position or results of operations.

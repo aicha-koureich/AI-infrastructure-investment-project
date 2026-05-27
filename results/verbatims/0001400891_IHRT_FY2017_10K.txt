@@ -1,0 +1,20 @@
+FIRM         : IHRT (CIK 0001400891) | FY2017
+FILE         : 0001400891_IHRT_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost. Depreciation is computed using the straight-line method at rates that, in the opinion of management, are adequate to allocate the cost of such assets over their estimated useful lives, which are as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

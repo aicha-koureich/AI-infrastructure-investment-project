@@ -1,0 +1,21 @@
+FIRM         : OPLN (CIK 0001395942) | FY2020
+FILE         : 0001395942_OPLN_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.1 ans | 2.3 ans | 9.9 ans | 10.8 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at historical cost less accumulated depreciation. Upon retirement or sale of property and equipment, the cost of the disposed assets and related accumulated depreciation is removed from the accounts and any resulting gain or loss is credited or charged to selling, general and administrative expenses.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract , which aligns the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The new guidance was effective for annual periods beginning after December 15, 2019, including interim periods within those fiscal years. The adoption of ASU 2018-15 did not have a material impact on the consolidated financial statements. ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract ||| , which aligns the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The new guidance was effective for annual periods beginning after December 15, 2019, including interim periods within those fiscal years. The adoption of ASU 2018-15 did not have a material impact on the consolidated financial statements.

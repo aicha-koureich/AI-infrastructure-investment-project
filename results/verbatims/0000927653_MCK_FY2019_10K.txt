@@ -1,0 +1,23 @@
+FIRM         : MCK (CIK 0000927653) | FY2019
+FILE         : 0000927653_MCK_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-04-30
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 3
+ASSET CAT.   : software held for internal use during the application development stage of a project and amortizes those costs over their estimated useful lives, not to exceed
+DURÉE        : 10.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized Software Held for Internal Use: The Company capitalizes costs of software held for internal use during the application development stage of a project and amortizes those costs over their estimated useful lives, not to exceed 10 years . As of March 31, 2020 and 2019 , capitalized software held for internal use was $400 million and $394 million , net of accumulated amortization of $1.3 billion and $1.2 billion , and is included in other noncurrent assets in the consolidated balance sheets.
+
+[VERBATIM — Changement de politique]
+After McKesson’s separation of its interest in the Change Healthcare JV, the aforementioned TRA agreement requires the Change Healthcare JV to pay McKesson 85% of the net cash tax savings realized, or deemed to be realized, by Change resulting from the depreciation or amortization allocated to Change by McKesson. The receipt of any payments from the Change Healthcare JV under the TRA is dependent upon Change benefiting from this depreciation or amortization in future tax return filings. This creates uncertainty over the amount, timing and probability of the gain recognized. As such, the Company accounts for the TRA as a gain contingency, with no receivable recognized as of March 31, 2020.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles - Goodwill and Other - Internal-Use Software: In August 2018, amended guidance was issued for a customer’s accounting for implementation and other upfront costs incurred in a cloud computing arrangement that is a service contract. The amended guidance aligns the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs in a cloud computing arrangement that has a software license. Upon adoption, the Company will begin capitalizing eligible implementation costs for cloud computing arrangement service contracts and recognizing the expense over the service period. The amended guidance is effective for the Company either on a retrospective or prospective basis in the first quarter of 2021. The Company will adopt this guidance prospectively in the first quarter of 2021 and adoption of this guidance will not have a material impact on its financial statements or disclosures. ||| In August 2018, amended guidance was issued for a customer’s accounting for implementation and other upfront costs incurred in a cloud computing arrangement that is a service contract. The amended guidance aligns the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs in a cloud computing arrangement that has a software license. Upon adoption, the Company will begin capitalizing eligible implementation costs for cloud computing arrangement service contracts and recognizing the expense over the service period. The amended guidance is effective for the Company either on a retrospective or prospective basis in the first quarter of 2021. The Company will adopt this guidance prospectively in the first quarter of 2021 and adoption of this guidance will not have a material impact on its financial statements or disclosures.

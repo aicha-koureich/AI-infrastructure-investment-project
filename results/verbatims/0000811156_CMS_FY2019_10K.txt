@@ -1,0 +1,20 @@
+FIRM         : CMS (CIK 0000811156) | FY2019
+FILE         : 0000811156_CMS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-10-31
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 3, Regulatory Matters
+ASSET CAT.   : computer software, computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+These costs are expensed evenly over the estimated useful life of the internal-use computer software. If computer software is integral to computer hardware, then its cost is capitalized and depreciated with the hardware.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

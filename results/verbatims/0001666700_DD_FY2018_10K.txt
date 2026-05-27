@@ -1,0 +1,20 @@
+FIRM         : DD (CIK 0001666700) | FY2018
+FILE         : 0001666700_DD_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : AMD_Instinct (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+The Company recorded a charge of $67 million for other miscellaneous asset write-downs and write-offs, including the shutdown of several small manufacturing facilities and the write-off of non-manufacturing assets, certain corporate facilities and data centers. The charge related to Performance Materials & Coatings ( $9 million ), Industrial Intermediates & Infrastructure ( $12 million ), Packaging & Specialty Plastics ( $11 million ), Nutrition & Biosciences ( $1 million ), Transportation & Advanced Polymers ( $1 million ) and Corporate ( $33 million ). These manufacturing facilities will be shut down primarily by the end of 2019.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract," which requires a customer in a cloud computing arrangement that is a service contract to follow the internal-use software guidance in Topic 350, "Intangibles - Goodwill and Other" to determine which implementation costs to capitalize as assets or expense as incurred. The new standard is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019. Early adoption is permitted and an entity can elect to apply the new guidance on a prospective or retrospective basis. The Company is currently evaluating the impact of adopting this guidance.

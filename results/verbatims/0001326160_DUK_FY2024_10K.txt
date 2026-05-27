@@ -1,0 +1,23 @@
+FIRM         : DUK (CIK 0001326160) | FY2024
+FILE         : 0001326160_DUK_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2027-12-14
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 25 – Other Income and Expenses, Net
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, (in millions) 2024 2023 ASSETS Current Assets Cash and cash equivalents $ 13 $ 8 Receivables (net of allowance for doubtful accounts of $15 at 2024 and $5 at 2023) 423 156 Receivables from affiliated companies 1 197 Inventory 586 582 Regulatory assets 113 102 Other 69 98 Total current assets 1,205 1,143 Property, Plant and Equipment Cost 19,970 18,900 Accumulated depreciation and amortization (6,848) (6,501) Net property, plant and equipment 13,122 12,399 Other Noncurrent Assets Regulatory assets 1,040 894 Operating lease right-of-use assets, net 37 50 Other 323 325 Total other noncurrent assets 1,400 1,269 Total Assets $ 15,727 $ 14,811 LIABILITIES AND EQUITY Current Liabilities Accounts payable $ 257 $ 300 Accounts payable to affiliated companies 57 176 Notes payable to affiliated companies 10 256 Taxes accrued 168 66 Interest accrued 59 54 Current maturities of long-term debt 4 4 Asset retirement obligations 164 120 Regulatory liabilities 183 209 Other 183 184 Total current liabilities 1,085 1,369 Long-Term Debt 4,644 4,348 Long-Term Debt Payable to Affiliated Companies 150 150 Other Noncurrent Liabilities Deferred income taxes 1,494 1,436 Asset retirement obligations 1,104 689 Regulatory liabilities 1,404 1,459 Operating lease liabilities 33 46 Accrued pension and other post-retirement benefit costs 82 115 Investment tax credits 186 186 Other 19 — Total other noncurrent liabilities 4,322 3,931 Commitments and Contingencies Equity Member's equity 5,526 5,012 Accumulated other comprehensive income — 1 Total equity 5,526 5,013 Total Liabilities and Equity $ 15,727 $ 14,811
+
+[VERBATIM — Changement de politique]
+The present value of the initial obligation and subsequent updates are based on discounted cash flows, which include estimates regarding timing of future cash flows, selection of discount rates and cost escalation rates, among other factors. These estimates are subject to change. Depreciation expense is adjusted prospectively for any changes to the carrying amount of the associated asset. The Duke Energy Registrants receive amounts to fund the cost of the ARO for regulated operations through a combination of regulated revenues and earnings on the NDTF. As a result, amounts recovered in regulated revenues, earnings on the NDTF, accretion expense and depreciation of the associated asset are netted and deferred as a regulatory asset or liability.
+
+[VERBATIM — Infrastructure IA]
+This is a dynamic and exciting time for our industry and our company in particular as we move further into the energy transition. While 2024 presented unprecedented challenges as it relates to a historic storm season, we are now in the early stages of the approval and planned construction of significant new generation investments and anticipate growing energy demands in the coming decades from continued migration into our attractive service territories, onshoring of domestic industries, electrification, and data centers and other investments from the expected artificial intelligence revolution. At Duke Energy, we remain focused on continuing to advance our energy transition, maintaining reliability and affordability for our customers while providing cleaner energy and delivering on our commitments to our communities, employees, investors, and other stakeholders. The fundamentals of our business remain strong, allowing us to deliver growth in earnings and dividends in a low-risk, predictable and transparent way.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

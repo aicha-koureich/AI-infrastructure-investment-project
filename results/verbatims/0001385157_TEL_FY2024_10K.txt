@@ -1,0 +1,20 @@
+FIRM         : TEL (CIK 0001385157) | FY2024
+FILE         : 0001385157_TEL_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 27, 2024
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We are a global industrial technology leader creating a safer, sustainable, productive, and connected future. Our broad range of connectivity and sensor solutions enable the distribution of power, signal, and data to advance next-generation transportation, renewable energy, automated factories, data centers, medical technology, and more. References in this report to “TE Connectivity,” the “Company,” “we,” “us,” or “our” refer to TE Connectivity Ltd. before September 30, 2024 and to TE Connectivity plc on or after September 30, 2024.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In addition to our own systems, we have outsourced, and expect to continue to outsource, certain information technology services—including cloud computing services and storage systems, system development, and information technology support services—which have in the past, and in the future may, subject our information technology and other sensitive information to additional risk.

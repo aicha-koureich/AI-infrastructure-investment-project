@@ -1,0 +1,21 @@
+FIRM         : GDYN (CIK 0001743725) | FY2023
+FILE         : 0001743725_GDYN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-20
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 4 — Property and equipment, net
+ASSET CAT.   : equipment, Furniture and fixtures, Machinery, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Estimated Useful Life As of December 31, 2023 2022 (in years) (in thousands) Computers and equipment 2 - 5 $ 13,837 $ 11,679 Furniture and fixtures 3 - 10 1,732 1,614 Leasehold improvements 2 - 8 1,343 646 Software 3 - 5 1,236 1,053 Machinery and automobiles 4 - 6 570 349 $ 18,718 $ 15,341 Less: Accumulated depreciation and amortization (12,441) (8,614) $ 6,277 $ 6,727 Capitalized software development costs 2 $ 9,050 $ 6,210 Less: Accumulated amortization (3,969) (4,722) $ 5,081 $ 1,488 Property and equipment, net $ 11,358 $ 8,215
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

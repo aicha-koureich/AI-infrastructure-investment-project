@@ -1,0 +1,20 @@
+FIRM         : AMT (CIK 0001053507) | FY2022
+FILE         : 0001053507_AMT_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-08-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Number of Data Centers  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In July 2022, in connection with the funding of the CoreSite Acquisition, we entered into an agreement pursuant to which certain investment vehicles affiliated with Stonepeak acquired a noncontrolling ownership interest in our U.S. data center business. The transaction was completed in August 2022 for total aggregate consideration of $2.5 billion, through an investment in common equity and mandatorily convertible preferred equity. ||| In October 2022, we entered into an agreement with Stonepeak for Stonepeak to acquire additional common equity and mandatorily preferred equity interests in our U.S. data center business for total aggregate consideration of $570.0 million. The transaction was completed in October 2022. We expect to pay distributions related to the outstanding common equity and mandatorily convertible preferred equity. ||| As of December 31, 2022, we hold a common equity interest of approximately 72% in our U.S. data center business, with Stonepeak holding approximately 28% of the outstanding common equity and 100% of the outstanding mandatorily convertible

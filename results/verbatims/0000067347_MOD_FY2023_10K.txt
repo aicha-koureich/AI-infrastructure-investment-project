@@ -1,0 +1,20 @@
+FIRM         : MOD (CIK 0000067347) | FY2023
+FILE         : 0000067347_MOD_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2024
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Our ability to be at the forefront of technological advances in order to differentiate ourselves from our competitors and provide innovative products and services to our customers, and the impacts of any changes in or the adoption rate of technologies that we expect to drive sales growth, including those related to data center cooling and electric vehicles;  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Capital expenditures of $88 million during fiscal 2024 increased $37 million compared with fiscal 2023. Our capital spending in fiscal 2024 in the Climate Solutions and Performance Technologies segments totaled $51 million and $36 million, respectively. Capital spending in the Climate Solutions segment includes investments supporting our strategic growth initiatives. We are growing our data center business and recently purchased a new manufacturing site in the U.K., where we plan to expand production capacity for data center cooling products. In addition, we opened a second facility in Serbia and are manufacturing coils for commercial and residential heat pump applications. Capital expenditures in the Performance Technologies segment include tooling and equipment purchases in conjunction with new and renewal programs with customers.

@@ -1,0 +1,20 @@
+FIRM         : LUV (CIK 0000092380) | FY2020
+FILE         : 0000092380_LUV_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : computer software, equipment
+DURÉE        : 5.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company amortizes these costs using the straight-line method over the estimated useful life of the software, which is typically five to fifteen years. Capitalized computer software, included as a component of Ground property and equipment in the accompanying Consolidated Balance Sheet, net of accumulated depreciation, was $697 million and $630 million at December 31, 2020, and 2019, respectively. Computer software depreciation expense was $203 million, $177 million, and $155 million for the years ended December 31, 2020, 2019, and 2018, respectively, and is included as a component of Depreciation and amortization expense in the accompanying Consolidated Statement of Income (Loss).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+On August 29, 2018, the FASB issued ASU No. 2018-15, Intangibles—Goodwill and Other—Internal-Use Software. This standard requires a customer in a cloud computing arrangement that is a service contract to follow the internal-use software guidance in ASC 350-40, Accounting for Internal-Use Software, to determine which implementation costs to (i) capitalize as assets and amortize over the term of the hosting arrangement or (ii) expense as incurred. This standard is effective for public business entities in fiscal years beginning after December 15, 2019, and the standard was adopted and applied prospectively by the Company as of January 1, 2020, but it did not have a significant impact on the Company's financial statements and disclosures.

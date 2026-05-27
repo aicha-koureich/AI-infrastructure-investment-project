@@ -1,0 +1,20 @@
+FIRM         : NTGR (CIK 0001122904) | FY2019
+FILE         : 0001122904_NTGR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 16. Restructuring and Other Charges
+ASSET CAT.   : Computer equipment, Furniture, Machinery and equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31, 2019 December 31, 2018 (In thousands) Computer equipment $ 9,883 $ 9,205 Furniture, fixtures and leasehold improvements 18,623 18,286 Software 27,865 28,065 Machinery and equipment 59,637 60,552 Total property and equipment, gross 116,008 116,108 Accumulated depreciation and amortization (98,325 ) (95,931 ) Total $ 17,683 $ 20,177
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We believe that innovation and technological leadership is critical to our future success, and we are committed to continuing a significant level of research and development to develop new technologies, products and services to combat competitive pressures. We continue to invest in research and development to grow our cloud platform capabilities, and connected home products portfolio including services and mobile applications, expand our Pro-AV, web-managed, app-managed, 10Gig and PoE switch products, and develop innovative WiFi and 4G/5G mobile Advanced and 5G coverage solutions. For fiscal 2020, we expect research and development expenses to grow in absolute dollars while we allocate resources to help accelerate growth in key strategic areas such as the continued development of our WiFi 6 product portfolio as well as service offerings. Research and development expenses will fluctuate depending on the timing and number of development activities in any given quarter and could vary significantly as a percentage of net revenue, depending on actual revenues achieved in any given quarter.

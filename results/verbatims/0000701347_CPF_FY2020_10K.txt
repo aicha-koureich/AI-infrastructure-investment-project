@@ -1,0 +1,21 @@
+FIRM         : CPF (CIK 0000701347) | FY2020
+FILE         : 0000701347_CPF_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment. Major improvements and betterments are capitalized, while recurring maintenance and repairs are charged to operating expense
+DURÉE        : 1.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-7.0 ans | 30.0-9.0 ans
+
+[VERBATIM — Durée de vie]
+Premises and equipment are stated at cost, net of accumulated depreciation and amortization. Useful lives generally range from five to thirty-nine years for premises and improvements, and one to seven years for equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

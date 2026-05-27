@@ -1,0 +1,21 @@
+FIRM         : WSM (CIK 0000719955) | FY2024
+FILE         : 0000719955_WSM_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-26
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment
+DURÉE        : 2.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 2.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Leasehold improvements Shorter of estimated useful life or lease term (generally 5 – 22 years) Fixtures and equipment 2 – 15 years Buildings and building improvements 10 – 40 years Capitalized software 2 – 10 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

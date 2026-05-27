@@ -1,0 +1,21 @@
+FIRM         : INVE (CIK 0001036044) | FY2022
+FILE         : 0001036044_INVE_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-08
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies and Recent Accounting Pronouncements
+ASSET CAT.   : computer software
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Property and Equipment — Property and equipment are stated at cost less accumulated depreciation. Depreciation and amortization are computed using the straight-line method over estimated useful lives of three to ten years for furniture, fixture and office equipment, five to seven years for machinery, five years for automobiles and three years for computer software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

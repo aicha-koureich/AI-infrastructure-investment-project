@@ -1,0 +1,20 @@
+FIRM         : VCEL (CIK 0000887359) | FY2017
+FILE         : 0000887359_VCEL_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Organization
+ASSET CAT.   : Machinery and equipment, Furniture, office equipment, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In thousands) 2017 2016 Machinery and equipment $ 1,249 $ 3,150 Furniture, fixtures and office equipment 872 931 Computer equipment and software 3,536 3,147 Leasehold improvements 4,213 3,332 Construction in process 822 408 10,692 10,968 Less accumulated depreciation (6,621 ) (7,093 ) Property and Equipment $ 4,071 $ 3,875
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

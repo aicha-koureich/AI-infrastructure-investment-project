@@ -1,0 +1,23 @@
+FIRM         : BGC (CIK 0001094831) | FY2016
+FILE         : 0001094831_BGC_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Capital Markets. We provide clients with strategic solutions to their real estate capital
+concerns. We offer a broad range of real estate capital markets services, including investment sales and access to providers of capital. We also provide access to a broad range of other services, including asset sales, sale leasebacks, valuation,
+mortgage and entity-level financing and due diligence. The transactions we broker involve vacant land, new real estate developments and existing buildings. We specialize in arranging financing for most types of value-added commercial real estate,
+including land, condominium conversions, subdivisions, office, retail, industrial, multifamily, student housing, hotels, data center, healthcare, self-storage and special use. We operate our multifamily investment sales practice through our ARA-branded business. Through our regional teams of mortgage brokers, we offer a broad range of debt alternatives through third party banks, insurance companies and other lenders.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

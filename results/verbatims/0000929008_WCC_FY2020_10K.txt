@@ -1,0 +1,21 @@
+FIRM         : WCC (CIK 0000929008) | FY2020
+FILE         : 0000929008_WCC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 8. PROPERTY, BUILDINGS AND EQUIPMENT
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B200 (2 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+As of December 31, 2020 (1) 2019 (In thousands) Buildings and leasehold improvements $ 169,873 $ 110,056 Furniture, fixtures and equipment 266,317 162,029 Software costs 235,666 127,919 671,856 400,004 Accumulated depreciation and amortization (312,106) (268,415) 359,750 131,589 Land 26,409 24,106 Construction in progress 12,998 25,753 $ 399,157 $ 181,448
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract , which aligned the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The standard was effective for fiscal years beginning after December 15, 2019. The Company adopted this ASU in the first quarter of 2020. The adoption of this guidance did not have a material impact on the consolidated financial statements and notes thereto presented herein. ||| Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

@@ -1,0 +1,21 @@
+FIRM         : RDN (CIK 0000890926) | FY2020
+FILE         : 0000890926_RDN_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies
+ASSET CAT.   : software is generally
+DURÉE        : 7.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Software, property and equipment are carried at cost, net of accumulated depreciation and amortization. The estimated useful life used to calculate the amortization of internal-use software is generally seven years. The estimated useful life used to calculate the depreciation of furniture and equipment is generally three years. Depreciation and amortization expense associated with property and equipment for the years ended December 31, 2020, 2019 and 2018 was $18.3 million, $20.8 million and $19.4 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

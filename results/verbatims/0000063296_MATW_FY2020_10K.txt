@@ -1,0 +1,23 @@
+FIRM         : MATW (CIK 0000063296) | FY2020
+FILE         : 0000063296_MATW_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES, (continued)
+ASSET CAT.   : buildings
+DURÉE        : 3.0-12.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is computed primarily on the straight-line method over the estimated useful lives of the assets, which generally range from 10 to 45 years for buildings and 3 to 12 years for machinery and equipment.
+
+[VERBATIM — Changement de politique]
+The Company's primary measure of segment profitability is adjusted earnings before interest, income taxes, depreciation and amortization ("adjusted EBITDA"). Adjusted EBITDA is defined by the Company as earnings before interest, income taxes, depreciation, amortization and certain non-cash and/or non-recurring items that do not contribute directly to management’s evaluation of its operating results. These items include stock-based compensation, the non-service portion of pension and postretirement expense, acquisition costs, ERP integration costs, and strategic initiatives and other charges. This presentation is consistent with how the Company's chief operating decision maker (the “CODM”) evaluates the results of operations and makes strategic decisions about the business. For these reasons, the Company believes that adjusted EBITDA represents the most relevant measure of segment profit and loss.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

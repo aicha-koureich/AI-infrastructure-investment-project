@@ -1,0 +1,21 @@
+FIRM         : VYX (CIK 0000070866) | FY2023
+FILE         : 0000070866_VYX_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-04-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Capitalized Software
+DURÉE        : 4.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 4.0-7.0 ans | 5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized Software Certain direct development costs associated with internal-use software are capitalized within Other assets and amortized over the estimated useful lives of the resulting software. The Company typically amortizes capitalized internal-use software on a straight-line basis over four to seven years beginning when the asset is substantially ready for use, as this is considered to approximate the usage pattern of the software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Total revenue increased 1% for the year ended December 31, 2023 compared to the year ended December 31, 2022. Product revenue decreased 3% due to a decline in SCO and POS hardware revenues partially offset by an increase in software license revenue. Service revenue increased 3% due primarily to growth in cloud services revenue, hardware maintenance revenue and recurring software related services. ||| Digital Banking revenue increased 6% for the year ended December 31, 2023 compared to the prior year period due to an increase in recurring cloud services and software maintenance revenues. ||| Retail revenue increased 2% for the year ended December 31, 2022 compared to the prior year period. The change in revenue compared to the prior period was driven by an increase in hardware-related revenues and a non-recurring software-related payment from our largest client, as well as an increase in cloud services revenues, partially offset by declines in hardware maintenance, professional services and software maintenance revenues.

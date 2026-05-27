@@ -1,0 +1,30 @@
+FIRM         : AIN (CIK 0000819793) | FY2017
+FILE         : 0000819793_AIN_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 11. Property, Plant and Equipment
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Software amortization is recorded in Selling, general, and administrative
+expense and was $3.6 million in 2017, $4.0 million in 2016, and $6.5 million in 2015.
+
+[VERBATIM — Changement de politique]
+Property,
+plant and equipment are recorded at cost, or if acquired as part of a business combination, at fair value. Depreciation is recorded
+using the straight-line method over the estimated useful lives of the assets for financial reporting purposes; in some cases,
+accelerated methods are used for income tax purposes. Significant additions or improvements extending assets’ useful lives
+are capitalized; normal maintenance and repair costs are expensed as incurred. The cost of fully depreciated assets remaining
+in use is included in the respective asset and accumulated depreciation accounts. When items are sold or retired, related gains
+or losses are included in net income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

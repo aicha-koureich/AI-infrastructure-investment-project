@@ -1,0 +1,20 @@
+FIRM         : BELFB (CIK 0000729580) | FY2018
+FILE         : 0000729580_BELFB_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : buildings and leasehold improvements, and from 3 to 15 years for machinery and equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation - Property, plant and equipment are stated at cost less accumulated depreciation and amortization. The estimated useful lives primarily range from 2 to 33 years for buildings and leasehold improvements, and from 3 to 15 years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles – Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Cost ||| In August 2018, the FASB issued ASU 2018-15, Intangibles – Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Cost . This guidance aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. This guidance is effective for interim and annual reporting periods beginning after December 15, 2019, and early adoption is permitted. The Company is currently evaluating the impacts that adoption of this ASU will have on its consolidated financial statements.

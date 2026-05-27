@@ -1,0 +1,20 @@
+FIRM         : QTWO (CIK 0001410384) | FY2014
+FILE         : 0001410384_QTWO_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+The effective delivery and management of secure and advanced virtual banking solutions in the complex and heavily-regulated financial services industry require significant resources, personnel and expertise. We provide virtual banking solutions that are designed to be highly configurable, scalable and adaptable to the specific needs of our RCFI customers. Our solutions deliver to account holders a unified virtual banking experience across online, mobile, voice and tablet channels by leveraging a common platform that integrates our solutions with each other and with our customers' other internal and third-party systems. In addition, we design our solutions and our data center infrastructure to comply with stringent security and technical regulations applicable to financial institutions and to safeguard our customers and their account holders through features such as real-time risk and fraud analytics.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

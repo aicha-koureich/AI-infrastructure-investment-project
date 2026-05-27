@@ -1,0 +1,24 @@
+FIRM         : ARW (CIK 0000007536) | FY2021
+FILE         : 0000007536_ARW_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software, Machinery and equipment
+DURÉE        : 3.0-12.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 3.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are amortized on a straight-line basis over the estimated useful life of the software, which is generally three to twelve years.
+
+[VERBATIM — Changement de politique]
+During the second quarter of 2019, the company initiated actions to further integrate two global components businesses. These businesses held indefinite-lived trade names with a carrying value of $101,000. As a result of the company's decision to integrate these brands, it determined the useful lives of the trade names were no longer indefinite. Subsequent to the second quarter of 2019, the company began amortizing these trade names over their estimated remaining useful lives. The trade names were tested for impairment during the second quarter of 2019 as a result of the change in estimated useful lives. The company estimated the fair value of the trade names to be $55,000 using the relief from royalty method and recorded a non-cash impairment charge of $46,000 ($34,653 net of tax). The drivers of the impairment were primarily due to the shortened useful lives of the asset and a decline of the forecasted revenues attributable to the trade names as integration to the Arrow brand occurs over the estimated remaining useful lives.
+
+[VERBATIM — Infrastructure IA]
+Compared with the year-earlier period, global ECS business segment sales for 2020 decreased $51.2 million, or 0.6%, as reported. Decreases were primarily due to lower sales of IT solutions, including data center and hybrid cloud, in the Americas region, offset primarily by strengthening demand in the EMEA region for infrastructure software across the portfolio. Non-GAAP global components sales decreased 2.3% in 2021, compared with the year-earlier period.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

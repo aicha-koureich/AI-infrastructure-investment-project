@@ -1,0 +1,20 @@
+FIRM         : DINO (CIK 0001915657) | FY2022
+FILE         : 0001915657_DINO_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2:
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The below information reflects pro forma adjustments based on available information and certain assumptions that we believe are reasonable, including the depreciation of the fair-valued properties, plants and equipment acquired in the Sinclair Transactions and the estimated tax impacts of the pro forma adjustments.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

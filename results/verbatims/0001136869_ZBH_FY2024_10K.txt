@@ -1,0 +1,20 @@
+FIRM         : ZBH (CIK 0001136869) | FY2024
+FILE         : 0001136869_ZBH_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies
+ASSET CAT.   : computer software, Capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in property, plant and equipment on our balance sheet and amortized on a straight-line or weighted average estimated user basis when the software is ready for its intended use over the estimated useful lives of the software, which approximate
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+For cloud computing arrangements that are considered a service contract, our capitalization of implementation costs is aligned with the internal use software requirements. However, on our consolidated balance sheet these implementation costs are recognized in other noncurrent assets. On our consolidated statement of cash flows, these implementations costs are recognized in operating cash flows. The implementation costs are recognized on a straight-line basis over the expected term of the related service contract.

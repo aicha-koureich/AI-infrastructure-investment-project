@@ -1,0 +1,20 @@
+FIRM         : UPWK (CIK 0001627475) | FY2023
+FILE         : 0001627475_UPWK_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5—Balance Sheet Components
+ASSET CAT.   : Computer equipment, furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In thousands) 2023 2022 Internal-use software and platform development $ 47,096 $ 33,273 Leasehold improvements 11,644 11,644 Computer equipment and software 6,605 6,514 Office furniture and fixtures 2,745 3,475 Total property and equipment 68,090 54,906 Less: accumulated depreciation (40,950) (32,843) Property and equipment, net $ 27,140 $ 22,063
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cost of Revenue. Cost of revenue consists primarily of the cost of payment processing fees, amounts paid to talent to deliver services for clients under our Managed Services offering, personnel-related costs for our services and support personnel, third-party hosting fees for our use of AWS, and the amortization expense associated with capitalized internal-use software and platform development costs. We define personnel-related costs as salaries, bonuses, benefits, travel and entertainment, and stock-based compensation costs for employees and the costs related to other service providers we engage. ||| Cost of revenue consists primarily of the cost of payment processing fees, amounts paid to talent to deliver services for clients under our Managed Services offering, personnel-related costs for our services and support personnel, third-party hosting fees for our use of AWS, and the amortization expense associated with capitalized internal-use software and platform development costs. We define personnel-related costs as salaries, bonuses, benefits, travel and entertainment, and stock-based compensation costs for employees and the costs related to other service providers we engage.

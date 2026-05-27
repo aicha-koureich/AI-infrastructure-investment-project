@@ -1,0 +1,23 @@
+FIRM         : CRI (CIK 0001060822) | FY2016
+FILE         : 0001060822_CRI_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software is depreciated or amortized on the straight-line method over its estimated useful lives, from
+
+[VERBATIM — Changement de politique]
+The Company prospectively adopted the provisions of Accounting Standards Update ("ASU") No. 2015-05, Customer's Accounting for Fees Paid in a Cloud Computing Arrangement, at the beginning of fiscal 2016 for fees paid in connection with cloud-based software arrangements. ASU 2015-05 provides clarification on whether a cloud computing arrangement includes a software license. If a software license is included, the customer should account for the license consistent with its accounting for other software licenses. If a software license is not included, the arrangement should be accounted for as a service contract. The adoption of this guidance did not have a material effect on the Company's financial position, results of operations, or cash flows.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer's Accounting for Fees Paid in a Cloud Computing Arrangement, ||| at the beginning of fiscal 2016 for fees paid in connection with cloud-based software arrangements. ASU 2015-05 provides clarification on whether a cloud computing arrangement includes a software license. If a software license is included, the customer should account for the license consistent with its accounting for other software licenses. If a software license is not included, the arrangement should be accounted for as a service contract. The adoption of this guidance did not have a material effect on the Company's financial position, results of operations, or cash flows. ||| The Company prospectively adopted the provisions of Accounting Standards Update ("ASU") No. 2015-05, Customer's Accounting for Fees Paid in a Cloud Computing Arrangement, at the beginning of fiscal 2016 for fees paid in connection with cloud-based software arrangements. ASU 2015-05 provides clarification on whether a cloud computing arrangement includes a software license. If a software license is included, the customer should account for the license consistent with its accounting for other software licenses. If a software license is not included, the arrangement should be accounted for as a service contract. The adoption of this guidance did not have a material effect on the Company's financial position, results of operations, or cash flows.

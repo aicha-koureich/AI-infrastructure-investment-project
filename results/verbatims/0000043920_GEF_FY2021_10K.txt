@@ -1,0 +1,20 @@
+FIRM         : GEF (CIK 0000043920) | FY2021
+FILE         : 0000043920_GEF_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-10-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 – BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+• Expected useful lives assigned to properties, plants and equipment;
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

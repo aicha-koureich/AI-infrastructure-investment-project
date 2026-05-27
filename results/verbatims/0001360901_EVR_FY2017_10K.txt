@@ -1,0 +1,21 @@
+FIRM         : EVR (CIK 0001360901) | FY2017
+FILE         : 0001360901_EVR_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 – Significant Accounting Policies Basis of Presentation
+ASSET CAT.   : equipment, Furniture, computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+– Fixed assets, including equipment, hardware and software and leasehold improvements, are stated at cost, net of accumulated depreciation and amortization. Furniture, equipment and computer hardware and software are depreciated using the straight-line method over the estimated useful lives of the assets, primarily ranging from
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Following this transaction, the Company ceased to have a general partner's interest in and deconsolidated Glisco Capital Partners II and III ("GCP II" and "GCP III," formerly Evercore Mexico Partners II and III), the general partners of Glisco II and Glisco III, and related subsidiaries. Going forward the Company will maintain a limited partner's interest in the funds and the general partners of the funds. ||| at September 30, 2016 related to GCP III. The transaction resulted in a gain on deconsolidation of ||| As a result of this transaction, on September 30, 2016 the Company deconsolidated assets and liabilities of $8,302 and $2,343 , respectively, and recorded an investment in Glisco Manager Holdings LP of $2,519 , representing the fair value of the deferred consideration resulting from this transaction. Furthermore, this resulted in a decrease in Noncontrolling Interest of $5,808 at September 30, 2016 related to GCP III. The transaction resulted in a gain on deconsolidation of $406 , included in Other Revenue, Including Interest on the Consolidated Statement of Operations for the year ended December 31, 2016.

@@ -1,0 +1,21 @@
+FIRM         : GOOGL (CIK 0001652044) | FY2021
+FILE         : 0001652044_GOOGL_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-01
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies
+ASSET CAT.   : servers and network equipment and adjusted the estimated useful life of our servers from
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+In January 2021, we completed an assessment of the useful lives of our servers and network equipment and adjusted the estimated useful life of our servers from three years to four years and the estimated useful life of certain network equipment from three years to five years. Based on the carrying value of servers and certain network equipment as of December 31, 2020 and those acquired during the year ended December 31, 2021, the effect of this change in estimate was a reduction in depreciation expense of $2.6 billion and an increase in net income of $2.0 billion, or $3.02 per basic share and $2.98 per diluted share, for the year ended December 31, 2021.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

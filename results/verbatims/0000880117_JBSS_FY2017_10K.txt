@@ -1,0 +1,24 @@
+FIRM         : JBSS (CIK 0000880117) | FY2017
+FILE         : 0000880117_JBSS_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 29, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 — SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and
+equipment are stated at cost. Major improvements that extend the useful life, add capacity or add functionality are capitalized and charged to expense through depreciation. Repairs and maintenance costs are charged to expense as incurred. The cost
+and accumulated depreciation of assets sold or retired are removed from the respective accounts, and any gain or loss is recognized currently in operating income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05 “Intangibles — Goodwill and Other — Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement”. This update provides guidance to customers about
+whether a cloud computing arrangement includes a software license or service contract. This update became effective for the Company beginning the first quarter of fiscal 2017. The adoption of ASU 2015-05 did
+not have a material impact to the Consolidated Financial Statements.

@@ -1,0 +1,20 @@
+FIRM         : LUV (CIK 0000092380) | FY2021
+FILE         : 0000092380_LUV_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-04-23
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : computer software, equipment
+DURÉE        : 5.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company amortizes these costs using the straight-line method over the estimated useful life of the software, which is typically five to fifteen years. Capitalized computer software, included as a component of Ground property and equipment in the accompanying Consolidated Balance Sheet, net of accumulated depreciation, was $886 million and $697 million at December 31, 2021, and 2020, respectively. Computer software depreciation expense was $213 million, $203 million, and $177 million for the years ended December 31, 2021, 2020, and 2019, respectively, and is included as a component of Depreciation and amortization expense in the accompanying Consolidated Statement of Income (Loss).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

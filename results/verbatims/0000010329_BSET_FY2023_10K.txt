@@ -1,0 +1,20 @@
+FIRM         : BSET (CIK 0000010329) | FY2023
+FILE         : 0000010329_BSET_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : November 25, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 7. Property and Equipment
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense associated with the property and equipment shown above was included in income from operations in our consolidated statements of operations as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

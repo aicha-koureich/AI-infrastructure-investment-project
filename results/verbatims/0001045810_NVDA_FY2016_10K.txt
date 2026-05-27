@@ -1,0 +1,20 @@
+FIRM         : NVDA (CIK 0001045810) | FY2016
+FILE         : 0001045810_NVDA_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 29, 2017
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : DGX;NVIDIA (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Revenue for fiscal year 2017 grew 38% to $6.91 billion, reflecting growth in each of our market platforms -- Gaming, Professional Visualization, Datacenter, and Automotive. GPU business revenue was $5.82 billion, up 39% from a year earlier, led by growth in our GeForce GPU gaming and datacenter platforms. GeForce GPU gaming growth was fueled by strong adoption of our latest Pascal architecture. Datacenter growth reflected strong demand for deep learning training, cloud and virtualized computing, and sales of our new DGX-1 supercomputer. Tegra business revenue was $824 million, up 47% from a year ago, led by growth in automotive, primarily from infotainment modules, and gaming development platforms and services.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+For datacenter, we introduced the Tesla P100, P40 and P4 GPU accelerators, based on the Pascal architecture, unveiled our Inception Program, which provides access to NVIDIA technology and expertise to support the growth of startups in deep learning and data science, introduced the Tesla M10 for virtualizing enterprise applications, launched the NVIDIA TensorRT deep learning inferencing framework, and began shipping the DGX-1 AI supercomputer to research organizations, universities, and multinationals. We also collaborated with Microsoft to accelerate AI with a GPU-accelerated Microsoft Cognitive Toolkit available on the Microsoft Azure cloud and NVIDIA DGX-1, partnered with the National Cancer Institute and the U.S. Department of Energy to build CANDLE, an AI framework that will advance cancer research, and unveiled the NVIDIA DGX SATURNV AI supercomputer, powered by 124 Pascal-powered DGX-1 server nodes.

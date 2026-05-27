@@ -1,0 +1,20 @@
+FIRM         : MATV (CIK 0001000623) | FY2018
+FILE         : 0001000623_MATV_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 12 . Other Assets
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : TPU (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2018 2017 Capitalized software costs, net of accumulated amortization $ 8.3 $ 7.4 Business tax credits, including VAT and ICMS (net of $11.5 million and $10.6 million reserve as of December 31, 2018 and 2017, respectively) 1.2 2.4 Grantor trust assets 10.9 12.2 Net pension assets 0.8 4.6 Long-term supplies inventory 6.8 7.0 Other assets 5.9 5.9 Total $ 33.9 $ 39.5
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, "Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract." The new standard provides updated guidance surrounding implementation costs associated with ||| cloud computing arrangements that are service contracts. The provisions of this ASU are effective for years beginning after December 15, 2020, with early adoption permitted. The Company is currently in the process of evaluating the impact of the pronouncement on the consolidated financial statements.

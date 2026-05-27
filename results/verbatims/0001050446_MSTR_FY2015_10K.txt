@@ -1,0 +1,35 @@
+FIRM         : MSTR (CIK 0001050446) | FY2015
+FILE         : 0001050446_MSTR_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We also generate subscription services revenues primarily from our cloud services
+offerings. Subscription services revenues include subscription fees from customers for access to the full breadth of MicroStrategy Analytics and MicroStrategy Mobile capabilities, database services, and data integration services. Our
+standard arrangements with customers generally do not provide the customer with the right to take possession of the software supporting the cloud-based application service at any time. As such, these arrangements are considered service
+contracts and revenue is recognized ratably over the service period of the contract, following completion of the set-up service. Any related set-up service fees are recognized ratably over the longer of the contract period or the estimated average
+life of the customer relationship. ||| Subscription services revenues. Subscription services revenues are primarily derived from our cloud services offerings that are
+recognized on a subscription basis over the service period of the contract. Subscription services revenues increased $5.5 million and $10.1 million during 2015 and 2014, respectively, as compared to the prior year, primarily due to an increase in
+the number of new subscription services customers and an increase in the use of subscription services by existing customers as our cloud services business has continued to grow. ||| Table of Contents In April 2015, the FASB issued Accounting Standards Update No. 2015-05, Intangibles
+– Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement (“ASU 2015-05”), which provides guidance on which existing accounting model should be
+applied to cloud computing arrangements. Under ASU 2015-05, customers will apply the same criteria as vendors to determine whether a cloud computing arrangement contains a software license or is solely a service contract. Specifically, fees paid by
+a customer in a cloud computing arrangement will be subject to internal-use software guidance if the customer has both the contractual right to take possession of the software at any time without significant penalty and it is feasible for the
+customer to run the software on its own hardware. Arrangements that do not meet both of the criteria are considered service contracts, and separate accounting for a license will not be permitted. The Company utilizes certain cloud computing
+arrangements in its daily business operations and adopted ASU 2015-05 on December 31, 2015. The adoption of this guidance did not have a material effect on the Company’s consolidated financial position, results of operations, and cash
+flows. In November 2015, the FASB issued Accounting Standards Update No. 2015-17 , Income Taxes (Topic 740): Balance Sheet
+Classification of Deferred Taxes (“ASU 2015-17”), which requires that all deferred tax assets and liabilities, along with any related valuation allowance, be classified as noncurrent on the balance sheet. The Company adopted ASU
+2015-17 prospectively on December 31, 2015 and presented all deferred tax assets and liabilities as noncurrent on the balance sheet as of December 31, 2015. No prior periods were restated. The adoption of this guidance did not have a
+material effect on the Company’s consolidated results of operations and cash flows. 64 Table of Contents

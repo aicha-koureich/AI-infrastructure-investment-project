@@ -1,0 +1,21 @@
+FIRM         : TMUS (CIK 0001283699) | FY2017
+FILE         : 0001283699_TMUS_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 4 – Property and Equipment
+ASSET CAT.   : network equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 10.0 ans | 12.0 ans
+
+[VERBATIM — Durée de vie]
+, respectively, as a result of adjustments to useful lives of network equipment expected to be replaced in connection with our network transformation and decommissioning the MetroPCS CDMA network and redundant network cell sites.
+
+[VERBATIM — Infrastructure IA]
+Property and equipment consists of buildings and equipment, wireless communication systems, leasehold improvements, capitalized software, leased wireless devices and construction in progress. Buildings and equipment include certain network server equipment. Wireless communication systems include assets to operate our wireless network and IT data centers, including tower assets and leasehold improvements, assets related to the liability for the retirement of long-lived assets and capital leases. Leasehold improvements include asset improvements other than those related to the wireless network.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In March 2017, we closed on an agreement with a third party for the exchange of certain AWS and PCS spectrum licenses. Upon closing of the transaction, we recorded the spectrum licenses received at their estimated fair value of approximately $123 million and recognized a gain of $37 million included in Gains on disposal of spectrum licenses in our Consolidated Statements of Comprehensive Income . ||| In September 2017, we closed on an agreement with a third party for the exchange of certain AWS and PCS spectrum licenses. Upon closing of the transaction, we recorded the spectrum licenses received at their estimated fair value of ||| In December 2017, we closed on an agreement with a third party for the exchange of certain AWS and PCS spectrum licenses. Upon closing of the transaction, we recorded the spectrum licenses received at their estimated fair value of approximately $352 million and recognized a gain of $168 million included in Gains on disposal of spectrum licenses in our Consolidated Statements of Comprehensive Income .

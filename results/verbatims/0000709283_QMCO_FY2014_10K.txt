@@ -1,0 +1,20 @@
+FIRM         : QMCO (CIK 0000709283) | FY2014
+FILE         : 0000709283_QMCO_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are carried at cost, less accumulated depreciation and amortization, computed on a straight-line basis over the estimated useful lives of the assets as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

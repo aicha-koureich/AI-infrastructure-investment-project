@@ -1,0 +1,20 @@
+FIRM         : JKHY (CIK 0000779152) | FY2014
+FILE         : 0000779152_JKHY_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 14. SUBSEQUENT EVENTS
+ASSET CAT.   : EQUIPMENT, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+AND SUBSIDIARIES CONSOLIDATED BALANCE SHEETS (In Thousands, Except Share and Per Share Data) June 30, 2014 June 30, 2013 ASSETS CURRENT ASSETS: Cash and cash equivalents $ 70,377 $ 127,905 Receivables, net 224,041 231,263 Income tax receivable 7,937 6,107 Prepaid expenses and other 59,824 59,244 Prepaid cost of product 22,202 23,366 Total current assets 384,381 447,885 PROPERTY AND EQUIPMENT, net 291,675 300,511 OTHER ASSETS: Non-current prepaid cost of product 34,708 27,898 Computer software, net of amortization 160,391 132,612 Other non-current assets 38,121 30,411 Customer relationships, net of amortization 136,602 147,167 Other intangible assets, net of amortization 25,653 9,380 Goodwill 552,761 533,291 Total other assets 948,236 880,759 Total assets $ 1,624,292 $ 1,629,155 LIABILITIES AND STOCKHOLDERS' EQUITY CURRENT LIABILITIES: Accounts payable $ 10,516 $ 11,701 Accrued expenses 63,299 68,528 Deferred income tax liability 37,592 30,845 Notes payable and current maturities of long term debt 5,407 7,929 Deferred revenues 312,002 293,255 Total current liabilities 428,816 412,258 LONG TERM LIABILITIES: Non-current deferred revenues 8,985 11,342 Non-current deferred income tax liability 134,918 120,434 Debt, net of current maturities 3,729 7,366 Other long-term liabilities 9,683 5,586 Total long term liabilities 157,315 144,728 Total liabilities 586,131 556,986 STOCKHOLDERS' EQUITY Preferred stock - $1 par value; 500,000 shares authorized, none issued — — Common stock - $0.01 par value; 250,000,000 shares authorized; 102,429,926 shares issued at June 30, 2014; 101,993,808 shares issued at June 30, 2013 1,024 1,020 Additional paid-in capital 412,512 400,710 Retained earnings 1,202,406 1,072,521 Less treasury stock at cost 19,794,559 shares at June 30, 2014; 16,753,889 shares at June 30, 2013 (577,781 ) (402,082 ) Total stockholders' equity 1,038,161 1,072,169 Total liabilities and equity $ 1,624,292 $ 1,629,155
+
+[VERBATIM — Infrastructure IA]
+proceeds received primarily from sale of aircraft. Cash used in investing activities for the fiscal year ended June 30, 2013 totaled $97,244 and included capital expenditures on facilities and equipment totaled $46,256, which included spending on our online bill payment data center migration and an aircraft purchase. Other uses of cash included $51,332 for the development of software and $186 for the acquisition of customer contracts. These expenditures were partially offset by $530 proceeds from sale of assets.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

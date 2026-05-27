@@ -1,0 +1,20 @@
+FIRM         : MDU (CIK 0000067716) | FY2023
+FILE         : 0000067716_MDU_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-29
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+System Supply, System Demand and Competition Through an interconnected electric system, Montana-Dakota serves markets in portions of North Dakota, Montana and South Dakota. These markets are highly seasonal and sales volumes depend largely on the weather. Additionally, the average customer consumption has tended to decline due to increases in energy efficient lighting and appliances being installed. In mid-2023 a data center began operating in the Company's service territory which led to an increase in sales volumes. As of December 31, 2023, the interconnected system consisted of 12 electric generating units at 10 facilities and two small portable diesel generators. Additional details are included in the table that follows. For 2023, Montana-Dakota's total ZRCs, including its firm purchase power contracts, were 516.1. Montana-Dakota's planning reserve margin requirement within MISO was 516.1 ZRCs for 2023. The maximum electric peak demand experienced to date attributable to Montana-Dakota's sales to retail customers on the interconnected system was 746,924 kW in July 2023. Montana-Dakota's latest forecast for its interconnected system indicates that its annual peak will continue to occur during the summer. Additional energy is purchased as needed, or in lieu of generation if more economical, from the MISO market. In 2023, Montana-Dakota purchased approximately 59 percent of its net kWh needs for its interconnected system through the MISO market.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

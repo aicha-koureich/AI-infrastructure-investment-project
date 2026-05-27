@@ -1,0 +1,20 @@
+FIRM         : CCL (CIK 0000815097) | FY2024
+FILE         : 0000815097_CCL_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-27
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 – Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, Computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation and any impairment charges. Depreciation is computed using the straight-line method over our estimated useful lives of the assets to a residual value, as a percentage of original cost, as follows: Years Residual Values Ships 30 15% Ship improvements 3-30 0% Buildings and improvements 10-40 0% Computer hardware and software 2-12 0% Transportation equipment and other 3-20 0% Leasehold improvements, including port facilities Shorter of the remaining lease term or related asset life (3-30) 0%
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

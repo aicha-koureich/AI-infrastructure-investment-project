@@ -1,0 +1,23 @@
+FIRM         : URI (CIK 0001067701) | FY2013
+FILE         : 0001067701_URI_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 11. Fair Value Measurements
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+First Quarter Second Quarter Third Quarter Fourth Quarter Full Year For the year ended December 31, 2013: RSC merger related costs (4) $ (0.03 ) $ (0.01 ) $ — $ — $ (0.05 ) RSC merger related intangible asset amortization (5) (0.24 ) (0.24 ) (0.23 ) (0.24 ) (0.94 ) Impact on depreciation related to acquired RSC fleet and property and equipment (6) 0.01 0.01 0.01 0.01 0.04 Impact of the fair value mark-up of acquired RSC fleet and inventory (7) (0.08 ) (0.07 ) (0.05 ) (0.06 ) (0.25 ) Impact on interest expense related to fair value adjustment of acquired RSC indebtedness (9) 0.01 0.01 0.01 0.01 0.04 Restructuring charge (10) (0.04 ) (0.03 ) (0.01 ) — (0.07 ) Asset impairment charge (11) (0.01 ) (0.01 ) — — (0.02 ) Loss on extinguishment of debt securities, including subordinated convertible debentures (0.01 ) — (0.01 ) — (0.02 ) For the year ended December 31, 2012: RSC merger related costs (4) $ (0.09 ) $ (0.60 ) $ (0.05 ) $ (0.08 ) $ (0.72 ) RSC merger related intangible asset amortization (5) — (0.21 ) (0.25 ) (0.25 ) (0.74 ) Impact on depreciation related to acquired RSC fleet and property and equipment (6) — 0.02 0.02 — 0.03 Impact of the fair value mark-up of acquired RSC fleet and inventory (7) — (0.05 ) (0.09 ) (0.09 ) (0.24 ) Pre-close RSC merger related interest expense (8) (0.10 ) (0.12 ) — — (0.19 ) Impact on interest expense related to fair value adjustment of acquired RSC indebtedness (9) — 0.01 0.01 0.01 0.03 Restructuring charge (10) — (0.39 ) (0.23 ) (0.03 ) (0.64 ) Asset impairment charge (11) — (0.02 ) (0.06 ) (0.01 ) (0.10 ) Loss on extinguishment of debt securities, including subordinated convertible debentures — — — (0.41 ) (0.45 ) Gain on sale of software subsidiary (12) — 0.07 — (0.01 ) 0.05
+
+[VERBATIM — Changement de politique]
+) Depreciation of rental equipment and non-rental depreciation were adjusted for the fair value mark-ups of equipment acquired in the RSC acquisition, the impact of which was offset by the impact of extending the useful lives of such equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

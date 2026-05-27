@@ -1,0 +1,20 @@
+FIRM         : CSGS (CIK 0001005757) | FY2021
+FILE         : 0001005757_CSGS_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 13.	Equity Compensation Plans
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Our cost of revenue consist principally of the following: (i) computing capacity and network communications costs; (ii) statement production costs (e.g., labor, paper, envelopes, equipment, equipment maintenance, etc.); (iii) transaction fees-interchange and other payment-related fees to third-party payment processors and financial institutions; (iv) customer support organizations (e.g., our customer support call center, account management, etc.); (v) professional services organization; (vi) various product delivery and support organizations (e.g., managed services delivery, product management, product maintenance, etc.); (vii) third-party software costs and/or royalties related to certain software products; (viii) facilities and infrastructure costs related to the statement production and support organizations; and (ix) amortization of acquired intangibles.
+
+[VERBATIM — Infrastructure IA]
+We contract for managed services using long-term arrangements whose terms have typically ranged from three to five years . Under managed services agreements, we operate software products (primarily our software solutions) on behalf of our customers: (i) out of a customer’s data center; (ii) out of a data center we own and operate; or (iii) out of a third-party data center we contract with for such services. Managed services can also include us providing other services, such as transitional services, fulfillment, remittance processing, operational consulting, back office, and end-user billing services.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Mr. Conley, 66, was appointed to the Board in October 2021 and currently serves as a board member of TTEC holdings (Nasdaq: TTEC), to which he was appointed in 2019, where he is the Chair of the Audit Committee and a member of the Compensation Committee, and currently serves as a board member of Travelport, a travel technology company. Mr. Conley brings over 30 years of experience in the technology and software industries having served as CEO of Aha! Software, a privately held predictive analytics and cloud computing company from 2012-2014, as CEO of Odyssey Group, a Switzerland-based technology services and software company from 2009-2011, and as CEO of Verio, a leading global provider of hosting and network services from 2004-2005. Prior to these roles, Mr. Conley was the CEO and Board member of Tanning Technology (NASDAQ: TANN} from 2001-2003, Global General Manager of e-markets and Global General Manager of Travel and Transportation Industries at IBM from 1995-2001 (NYSE: IBM), General Counsel and CEO of Galileo International (a predecessor company of Travelport) from 1989-1989, and an attorney at the law firm of Covington & Burling from 1983-1989. Mr. Conley holds a J.D. from Georgetown University and a B.S. in Electrical Engineering from Purdue University.

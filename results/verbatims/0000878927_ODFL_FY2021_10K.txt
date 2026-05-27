@@ -1,0 +1,23 @@
+FIRM         : ODFL (CIK 0000878927) | FY2021
+FILE         : 0000878927_ODFL_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-05-04
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of property and equipment is calculated using the straight-line method over the estimated useful lives of the related assets.
+
+[VERBATIM — Changement de politique]
+Awards of restricted stock and performance-based restricted stock units are accounted for as equity under ASC Topic 718. We recognize compensation cost, net of estimated forfeitures, for restricted stock awards on a straight-line basis over the requisite service period of each award. Compensation cost for performance-based restricted stock unit awards is recognized using the accelerated attribution method over the requisite service period of each award. At the end of each reporting period, we reassess the probability of achieving performance targets and changes to our initial assessment are reflected in the reporting period in which the change in estimate occurs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : PANW (CIK 0001327567) | FY2021
+FILE         : 0001327567_PANW_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-08-17
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 9. Property and Equipment
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The following table presents details of our property and equipment, net as of July 31, 2021 and July 31, 2020 (in millions): July 31, 2021 2020 Computers, equipment, and software $ 352.1 $ 306.8 Leasehold improvements 231.6 229.5 Land 49.6 49.6 Demonstration units 43.8 43.3 Furniture and fixtures 40.3 39.9 Total property and equipment, gross 717.4 669.1 Less: accumulated depreciation (399.0) (321.0) Total property and equipment, net $ 318.4 $ 348.1
+
+[VERBATIM — Infrastructure IA]
+Our product revenue was $1.1 billion or 26.3% of total revenue for fiscal 2021, representing year-over-year growth of 5.3%. Product revenue is generated from sales of our appliances, primarily our ML-Powered Next-Generation Firewall, which is available in a number of form factors, including as physical, virtual, and containerized appliances. Our ML-Powered Next-Generation Firewall incorporates our PAN-OS operating system, which provides a consistent set of capabilities across our entire network security product line. Our products are designed for different performance requirements throughout an organization, ranging from our PA-410, which is designed for small organizations and remote or branch offices, to our top-of-the-line PA-7080, which is designed for large-scale data centers and service provider use. The same firewall functionality that is delivered in our physical appliances is also available in our VM-Series virtual firewalls, which secure virtualized and cloud-based computing environments, and in our CN-Series container firewalls, which secure container environments and traffic.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

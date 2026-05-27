@@ -1,0 +1,24 @@
+FIRM         : DBX (CIK 0001467623) | FY2024
+FILE         : 0001467623_DBX_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of the Business and Summary of Significant Accounting Policies
+ASSET CAT.   : server, equipment
+DURÉE        : 4.0-5.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans | 4.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+The Company reviews the useful lives of long-lived assets on an ongoing basis, and effective January 1, 2024, the Company changed the estimate of the useful lives of certain infrastructure server and component assets, which are included in property and equipment, net and are depreciated through cost of revenue, from four to five years.
+
+[VERBATIM — Changement de politique]
+The Company reviews the useful lives of long-lived assets on an ongoing basis, and effective January 1, 2024, the Company changed the estimate of the useful lives of certain infrastructure server and component assets, which are included in property and equipment, net and are depreciated through cost of revenue, from four to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The Company hosts its services and serves all of its users using a combination of its own custom-built infrastructure that it leases and operates in co-location facilities and third-party datacenter services such as Amazon Web Services ("AWS"). The Company's technology infrastructure, combined with select use of AWS resources, provides a distributed and scalable architecture on a global scale. The Company has designed its platform with multiple layers of redundancy to guard against data loss and deliver high availability.

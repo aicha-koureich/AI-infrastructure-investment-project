@@ -1,0 +1,20 @@
+FIRM         : REG (CIK 0000910606) | FY2020
+FILE         : 0000910606_REG_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-28
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15, August 2018, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| The Company has completed its evaluation and adoption of this standard. Qualifying implementation costs incurred in a cloud computing arrangement that is a service contract are no longer expensed as incurred but rather are deferred within Other assets and amortized to earnings, within General and administrative expense in the accompanying Consolidated Statements of Operations, over the term of the arrangement. Cash flows attributable to the service arrangements, including implementation thereof, are reflected as Operating cash flows within the Consolidated Statements of Cash Flows. ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

@@ -1,0 +1,23 @@
+FIRM         : PWR (CIK 0001050915) | FY2024
+FILE         : 0001050915_PWR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 17. DETAIL OF CERTAIN ACCOUNTS:
+ASSET CAT.   : machinery, equipment, Office equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful December 31, Lives in Years 2024 2023 Land N/A $ 134,590 $ 102,839 Buildings and leasehold improvements 5-30 514,888 456,004 Operating machinery, equipment and vehicles 1-25 3,347,871 3,069,882 Office equipment, furniture and fixtures and information technology systems 3-10 298,878 290,687 Construction work in progress N/A 125,676 73,018 Finance lease assets and lease financing transactions 5-20 239,806 165,923 Property and equipment, gross 4,661,709 4,158,353 Less — Accumulated depreciation and amortization (1,961,432) (1,821,410) Property and equipment, net of accumulated depreciation $ 2,700,277 $ 2,336,943
+
+[VERBATIM — Changement de politique]
+These pro forma combined historical results were adjusted for the following: a reduction of interest and other financing expenses as a result of the repayment of outstanding indebtedness of the acquired businesses; an increase in interest and other financing expenses as a result of the debt incurred by Quanta for the purpose of financing the acquisition of CEI and cash consideration paid for all acquired businesses; an increase in amortization expense due to the intangible assets recorded; elimination of inter-company sales; and changes in depreciation expense to adjust acquired property and equipment to the acquisition date fair value and to conform with Quanta’s accounting policies.
+
+[VERBATIM — Infrastructure IA]
+Quanta Services, Inc. (together with its subsidiaries, Quanta) is a leading provider of comprehensive infrastructure solutions for the electric and gas utility, renewable energy, technology, communications, pipeline and energy industries in the United States, Canada, Australia and select other international markets. We provide engineering, procurement, construction, upgrade and repair and maintenance services for infrastructure within each of these industries, including electric power transmission and distribution networks; substation facilities; wind and solar generation and transmission and battery storage facilities; electrical systems for data center, commercial and industrial facilities; communications and cable multi-system operator networks; gas utility systems; pipeline transmission systems and facilities; and downstream industrial facilities.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

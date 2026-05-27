@@ -1,0 +1,21 @@
+FIRM         : PGNY (CIK 0001551306) | FY2024
+FILE         : 0001551306_PGNY_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-08
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : information technology
+DURÉE        : 1.0-2.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Fertility benefits services costs include: (1) fees paid to provider clinics within the Company’s network, labs and anesthesiologists; (2) costs incurred (including salaries, bonuses, benefits, stock-based compensation expense, other related costs, and an allocation of the Company's general overhead, depreciation and amortization) for those employees associated with care management service functions: Provider Account Management, PCA, Provider Relations and Claims Processing teams; and (3) related information technology support costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

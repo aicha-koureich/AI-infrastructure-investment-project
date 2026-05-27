@@ -1,0 +1,21 @@
+FIRM         : RMAX (CIK 0001581091) | FY2016
+FILE         : 0001581091_RMAX_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 6. Property and Equipment Property and equipment consist of the following (in thousands): As of December 31, Depreciable Life 2016 2015 Leasehold impr
+ASSET CAT.   : equipment
+DURÉE        : 2.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Property and Equipment Property and equipment consist of the following (in thousands): As of December 31, Depreciable Life 2016 2015 Leasehold improvements Shorter of estimated useful life or life of lease $ 3,063 $ 2,258 Office furniture, fixtures and equipment 2 - 10 years 11,660 12,046 Equipment under capital leases Shorter of estimated useful life or life of lease 164 1,274 14,887 15,578 Less accumulated depreciation (12,196) (13,183) $ 2,691 $ 2,395 Depreciation expense was $868,000, $1,045,000 and $1,110,000 for the years ended December 31, 2016, 2015 and 2014, respectively. 7. Intangible Assets and Goodwill The following table provides the components of the Company’s intangible assets (in thousands, except weighted average amortization period in years): Weighted Average As of December 31, 2016 As of December 31, 2015 Amortization Initial Accumulated Net Initial Accumulated Net Period Cost Amortization Balance Cost Amortization Balance Franchise agreements 11.6 $ 224,167 $ (115,027) $ 109,140 $ 162,438 $ (100,499) $ 61,939 Other intangible assets: Software (a) 4.6 $ 13,207 $ (7,154) $ 6,053 $ 10,885 $ (7,325) $ 3,560 Trademarks 14.2 3,102 (1,782) 1,320 2,985 (1,604) 1,381 Non-compete 10.0 2,500 (62) 2,438 — — — Total other intangible assets 7.9 $ 18,809 $ (8,998) $ 9,811 $ 13,870 $ (8,929) $ 4,941 (a) As of December 31, 2016 and December 31, 2015, capitalized software development costs of $356,000 and $ 3,165,000 , respectively, were recorded in “Other intangible assets” in the accompanying Consolidated Balance Sheets. As of these dates, the associated information technology infrastructure projects were not complete and ready for their intended use and thus were not subject to amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU 2015-05, Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement , which provides guidance on fees paid in a cloud computing arrangement and clarifies the accounting for a software license element of a cloud computing arrangement. ASU 2015-05 became effective prospectively for the Company on January 1, 2016. The adoption of this standard did not have a significant impact on the Company’s consolidated financial statements and related disclosures. ||| Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement ||| , which provides guidance on fees paid in a cloud computing arrangement and clarifies the accounting for a software license element of a cloud computing arrangement. ASU 2015-05 became effective prospectively for the Company on January 1, 2016. The adoption of this standard did not have a significant impact on the Company’s consolidated financial statements and related disclosures.

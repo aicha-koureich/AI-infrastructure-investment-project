@@ -1,0 +1,21 @@
+FIRM         : TSCO (CIK 0000916365) | FY2024
+FILE         : 0000916365_TSCO_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-12
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4
+ASSET CAT.   : equipment
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-7.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated Useful Lives December 28, 2024 December 30, 2023 Land $ 107,447 $ 93,319 Buildings and improvements 1 – 40 years 2,432,323 2,090,794 Furniture, fixtures and equipment 5 – 10 years 1,544,697 1,349,162 Computer software and hardware 2 – 7 years 1,017,856 859,724 Construction in progress 267,295 335,713 Property and equipment, gross 5,369,618 4,728,712 Accumulated depreciation and amortization (2,642,182) (2,291,528) Property and equipment, net $ 2,727,436 $ 2,437,184
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

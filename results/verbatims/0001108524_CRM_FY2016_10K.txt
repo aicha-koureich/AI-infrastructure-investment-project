@@ -1,0 +1,21 @@
+FIRM         : CRM (CIK 0001108524) | FY2016
+FILE         : 0001108524_CRM_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. Property and Equipment
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-9.0 ans | 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Accumulated amortization relating to computers, equipment and software under capital leases totaled
+
+[VERBATIM — Infrastructure IA]
+We believe the factors that will influence our ability to achieve our objectives include: our prospective customers’ willingness to migrate to enterprise cloud computing services; the availability, performance and security of our service; our ability to continue to release, and gain customer acceptance of new and improved features; our ability to successfully integrate acquired businesses and technologies; successful customer adoption and utilization of our service; acceptance of our service in markets where we have few customers; the emergence of additional competitors in our market and improved product offerings by existing and new competitors; the location of new data centers that we operate as well as the new locations of services provided by third-party cloud computing platform providers; third-party developers’ willingness to develop applications on our platforms; our ability to attract new personnel and retain and motivate current personnel; and general economic conditions which could affect our customers’ ability and willingness to purchase our services, delay the customers’ purchasing decision or affect attrition rates.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+We are a leading provider of enterprise cloud computing solutions, with a focus on customer relationship management, or CRM. We introduced our first CRM solution in February 2000, and we have since expanded our service offerings with new editions, features and platform capabilities. ||| encourage the development of third-party applications on our cloud computing platforms. ||| We believe the factors that will influence our ability to achieve our objectives include: our prospective customers’ willingness to migrate to enterprise cloud computing services; the availability, performance and security of our service; our ability to continue to release, and gain customer acceptance of new and improved features; our ability to successfully integrate acquired businesses and technologies; successful customer adoption and utilization of our service; acceptance of our service in markets where we have few customers; the emergence of additional competitors in our market and improved product offerings by existing and new competitors; the location of new data centers that we operate as well as the new locations of services provided by third-party cloud computing platform providers; third-party developers’ willingness to develop applications on our platforms; our ability to attract new personnel and retain and motivate current personnel; and general economic conditions which could affect our customers’ ability and willingness to purchase our services, delay the customers’ purchasing decision or affect attrition rates.

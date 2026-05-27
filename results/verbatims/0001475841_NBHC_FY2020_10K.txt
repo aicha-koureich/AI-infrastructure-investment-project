@@ -1,0 +1,20 @@
+FIRM         : NBHC (CIK 0001475841) | FY2020
+FILE         : 0001475841_NBHC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 Summary of Significant Accounting Policies
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company utilizes a DCF model developed within a third-party software tool to establish expected lifetime credit losses for the loan portfolio. The ACL is calculated as the difference between the amortized cost basis and the projections from the DCF analysis. The DCF model allows for individual life of loan cash flow modeling, excluding extensions and renewals, using loan-specific interest rates and repayment schedules adjusted for estimated prepayment rates and loss recovery timing delays. The model incorporates forecasts of certain national macroeconomic factors, including unemployment rates, HPI, retail sales and GDP, which drive correlated probability of default (“PD”) and loss given default (“LGD”) rates. PD and LGD, in turn, drive the losses predicted in establishing our ACL. PD and LGD rates along with prepayment rates and loss recovery time delays are determined at a loan class level making use of both internal and peer historical loss rate data. The determination and application of the ACL accounting policy involves judgments, estimates, and uncertainties that are subject to change. For periods beyond the reasonable and supportable forecast period, we revert to historical long-term average loss rates on a straight-line basis. The length of the forecast period spans four quarters. The length of the reversion period is based on management’s assessment of the length and pattern of the current economic cycle and typically ranges from four to eight quarters.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Other Pronouncements — The Company adopted ASU 2016-01, Financial Instruments - Recognition and Measurement of Financial Assets and Financial Liabilities (Topic 825); ASU 2016-15, Statement of Cash Flows: Classification of Certain Cash Receipts and Cash Payment s; ASU 2017-04, Intangibles - Goodwill and Other (Topic 350): Simplifying the Test for Goodwill Impairment; ASU 2017-05, Other Income – Gains and Losses from the Derecognition of Nonfinancial Assets (Subtopic 610-20); ASU 2018-07, Compensation – Stock Compensation (Topic 718): Improvements to Nonemployee Share-Based Payment Accounting ; and ASU 2018-13, Fair Value Measurement (Topic 820): Disclosure Framework-Changes to the Disclosure Requirements for Fair Value Measurement with no material impact on its financial statements. The Company early adopted ASU 2018-15, Intangibles – Goodwill and Other – Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract (Subtopic 350-40) on a prospective basis with no material impact on its financial statements.

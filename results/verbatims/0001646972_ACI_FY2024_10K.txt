@@ -1,0 +1,23 @@
+FIRM         : ACI (CIK 0001646972) | FY2024
+FILE         : 0001646972_ACI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-10-13
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 - DESCRIPTION OF BUSINESS, BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment under finance leases are recorded at the lower of the present value of the future minimum lease payments or the fair value of the asset and are amortized on the straight-line method over the lesser of the lease term or the estimated useful life.
+
+[VERBATIM — Changement de politique]
+The CODM evaluates performance and allocates resources using Retail segment EBITDA, defined as earnings (net loss) before interest, income taxes, depreciation and amortization, adjusted to eliminate the effects of items management does not consider in assessing segment performance. The CODM uses Retail segment EBITDA as its principal measure of segment performance to evaluate the Company's operating results and effectiveness of its strategies and to monitor budget versus actual results.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud computing arrangements that are service contracts: The Company enters into hosted cloud computing arrangements that are considered to be service contracts and capitalizes certain development costs related to implementing the cloud computing arrangement. As of February 22, 2025 and February 24, 2024, the Company had capitalized implementation costs of $246.9 million and $275.9 million, respectively, included in Other assets. The Company amortizes the costs over the related service contract period of the hosting arrangement. Amortization expense for the implementation costs was $80.7 million, $80.5 million and $64.9 million for fiscal 2024, fiscal 2023 and fiscal 2022 respectively, and is included within Selling and administrative expenses. In fiscal 2024 and fiscal 2022, there were no impairment and disposal losses related to capitalized implementation costs. In fiscal 2023, there was $23.4 million of impairment and disposal losses related to capitalized implementation costs, recorded as a component of Loss (gain) on property dispositions and impairment losses, net. ||| Cloud computing arrangements that are service contracts: ||| The Company enters into hosted cloud computing arrangements that are considered to be service contracts and capitalizes certain development costs related to implementing the cloud computing arrangement. As of February 22, 2025 and February 24, 2024, the Company had capitalized implementation costs of $246.9 million and $275.9 million, respectively, included in Other assets. The Company amortizes the costs over the related service contract period of the hosting arrangement. Amortization expense for the implementation costs was $80.7 million, $80.5 million and $64.9 million for fiscal 2024, fiscal 2023 and fiscal 2022 respectively, and is included within Selling and administrative expenses. In fiscal 2024 and fiscal 2022, there were no impairment and disposal losses related to capitalized implementation costs. In fiscal 2023, there was $23.4 million of impairment and disposal losses related to capitalized implementation costs, recorded as a component of Loss (gain) on property dispositions and impairment losses, net.

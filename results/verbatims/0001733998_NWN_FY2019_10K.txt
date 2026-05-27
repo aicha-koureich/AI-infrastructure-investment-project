@@ -1,0 +1,20 @@
+FIRM         : NWN (CIK 0001733998) | FY2019
+FILE         : 0001733998_NWN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 12. PROPERTY, PLANT, AND EQUIPMENT
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The following table sets forth the major classifications of property, plant, and equipment and accumulated depreciation of continuing operations at December 31:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+CLOUD COMPUTING. On August 29, 2018, the FASB issued ASU 2018-15, "Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract." The purpose of the amendment is to align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The amendments in this update are effective for us beginning January 1, 2020. Early adoption is permitted, and NW Holdings and NW Natural early adopted ASU 2018-15 in the quarter ended March 31, 2019 utilizing the prospective application methodology. The adoption of this ASU did not materially affect the financial statements and disclosures of NW Holdings or NW Natural. ||| On August 29, 2018, the FASB issued ASU 2018-15, "Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract." The purpose of the amendment is to align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The amendments in this update are effective for us beginning January 1, 2020. Early adoption is permitted, and NW Holdings and NW Natural early adopted ASU 2018-15 in the quarter ended March 31, 2019 utilizing the prospective application methodology. The adoption of this ASU did not materially affect the financial statements and disclosures of NW Holdings or NW Natural.

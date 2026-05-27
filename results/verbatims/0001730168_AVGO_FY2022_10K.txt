@@ -1,0 +1,20 @@
+FIRM         : AVGO (CIK 0001730168) | FY2022
+FILE         : 0001730168_AVGO_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 15.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost less accumulated depreciation and amortization. When assets are retired or disposed of, the assets and related accumulated depreciation and amortization are removed from our property, plant and equipment balances and the resulting gain or loss is reflected in the consolidated statements of operations.
+
+[VERBATIM — Infrastructure IA]
+Broadcom Inc. (“Broadcom”), a Delaware corporation, is a global technology leader that designs, develops and supplies a broad range of semiconductor and infrastructure software solutions. We develop semiconductor devices with a focus on complex digital and mixed signal complementary metal oxide semiconductor based devices and analog III-V based products. We have a history of innovation in the semiconductor industry and offer thousands of products that are used in end products such as enterprise and data center networking, home connectivity, set-top boxes, broadband access, telecommunication equipment, smartphones and base stations, data center servers and storage systems, factory automation, power generation and alternative energy systems, and electronic displays. Our infrastructure software solutions enable customers to plan, develop, automate, manage and secure applications across mainframe, distributed, mobile and cloud platforms. Our portfolio of industry-leading infrastructure and security software is designed to modernize, optimize, and secure the most complex hybrid environments, enabling scalability, agility, automation, insights, resiliency and security. We also offer mission critical fibre channel storage area networking (“FC SAN”) products and related software in the form of modules, switches and subsystems incorporating multiple semiconductor products. Unless stated otherwise or the context otherwise requires, references to “Broadcom,” “we,” “our,” and “us” mean Broadcom and its consolidated subsidiaries.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

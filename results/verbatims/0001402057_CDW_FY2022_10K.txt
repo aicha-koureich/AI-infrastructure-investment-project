@@ -1,0 +1,20 @@
+FIRM         : CDW (CIK 0001402057) | FY2022
+FILE         : 0001402057_CDW_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. Property and Equipment
+ASSET CAT.   : equipment, Machinery and equipment, Computer software, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, Useful Lives (Years) 2022 2021 Computer and data processing equipment 3 - 5 $ 192.1 $ 161.9 Building and leasehold improvements 5 - 25 149.5 151.3 Machinery and equipment 5 - 10 46.2 44.4 Computer software 3 - 5 34.6 32.9 Furniture and fixtures 5 - 10 30.5 31.0 Land -* 27.7 27.7 Revenue generating assets 1 - 5 1.2 0.2 Construction in progress -* 16.9 12.0 Property and equipment, gross 498.7 461.4 Less: accumulated depreciation (309.9) (265.6) Property and equipment, net $ 188.8 $ 195.8
+
+[VERBATIM — Infrastructure IA]
+The Company has operating leases primarily for real estate, data centers and equipment. Remaining lease terms are up to 13 years.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The Company sells cloud computing solutions which include Infrastructure as a Service (“IaaS”). IaaS solutions utilize third-party partners to enable customers to access data center functionality in a cloud-based solution, including storage, computing and networking. In these transactions, the Company is acting as an agent and recognizes revenue once its agency performance obligation is complete. ||| The Company sells cloud computing solutions which include Software as a Service (“SaaS”). SaaS solutions utilize third-party partners to offer the Company’s customers access to software in the cloud that enhances office productivity, provides security or assists in collaboration. In these transactions, the Company is acting as an agent and recognizes revenue once its agency performance obligation is complete. ||| Revenues from the sale of data center services, such as managed and remote managed services, server co-location, internet connectivity and data backup and storage provided by the Company, are recognized over the period the service is provided. Most hosting and managed service obligations are based on the quantity and pricing parameters established in the agreement. As the customer receives the benefit of the service each month, the Company recognizes the respective revenue on a gross basis as the Company is acting as a principal in the transaction. Additionally, the Company’s managed services team provides project support to customers that are billed on a fixed fee basis. The Company is acting as the principal in the transaction and recognizes revenue on a gross basis based on the total number of hours incurred for the period over the total expected hours for the project. Total expected hours to complete the project is updated for each period and best represents the transfer of control of the service to the customer.

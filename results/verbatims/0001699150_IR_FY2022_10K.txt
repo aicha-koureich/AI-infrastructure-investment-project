@@ -1,0 +1,20 @@
+FIRM         : IR (CIK 0001699150) | FY2022
+FILE         : 0001699150_IR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-03
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 25: Subsequent Events
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, net of accumulated depreciation of $417.4 and $357.7, respectively
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

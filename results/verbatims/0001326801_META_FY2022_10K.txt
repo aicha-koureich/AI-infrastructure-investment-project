@@ -1,0 +1,21 @@
+FIRM         : META (CIK 0001326801) | FY2022
+FILE         : 0001326801_META_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-01
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, we extended the estimated average useful lives of a majority of the servers and network assets from
+DURÉE        : 4.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+In connection with our periodic reviews of the estimated useful lives of property and equipment, we extended the estimated average useful lives of a majority of the servers and network assets from four years to 4.5 years, effective the second quarter of 2022, and further extended the useful lives to five years effective the fourth quarter of 2022. The changes in estimated useful lives were due to expected longer refresh cycles in our data centers. The impact from the changes in our estimates was calculated based on the servers and network assets existing as of the effective dates of the changes and applying the revised estimated useful lives prospectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : DIN (CIK 0000049754) | FY2019
+FILE         : 0000049754_DIN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Summary of Significant Accounting Policies (Continued)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, net of accumulated depreciation. The Company has capitalized certain costs incurred in connection with the development of internal-use software which are included in equipment and fixtures in Note 5 - Property and Equipment, of the Notes to the Consolidated Financial Statements and are amortized over the expected useful life of the asset.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued new guidance on the accounting for implementation costs incurred in a cloud computing arrangement that is a service contract. The guidance aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with existing guidance for capitalizing implementation cost incurred to develop or obtain internal-use software. The guidance also provides presentation and disclosure requirements for such capitalized costs. The Company will be required to adopt the new guidance beginning with its first fiscal quarter of 2020. The Company is currently assessing the impact this guidance will have on its consolidated financial statements.

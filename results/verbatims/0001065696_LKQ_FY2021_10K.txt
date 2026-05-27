@@ -1,0 +1,21 @@
+FIRM         : LKQ (CIK 0001065696) | FY2021
+FILE         : 0001065696_LKQ_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Useful Life Land improvements 10 - 20 years Buildings and improvements 20 - 40 years Machinery and equipment 3 - 20 years Computer equipment and software 3 - 10 years Vehicles and trailers 3 - 10 years Furniture and fixtures 5 - 7 years Leasehold improvements 1 - 20 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : UEIC (CIK 0000101984) | FY2024
+FILE         : 0000101984_UEIC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 6 — Property, Plant, and Equipment, Net
+ASSET CAT.   : Computer equipment, Furniture and fixtures, Machinery and equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, (In thousands) 2024 2023 Buildings $ 17,273 $ 17,806 Computer equipment 9,159 9,679 Furniture and fixtures 2,501 3,598 Leasehold and building improvements 29,404 33,049 Machinery and equipment 75,637 82,302 Software 25,411 28,074 Tooling 30,314 30,724 189,699 205,232 Accumulated depreciation (156,804) (163,301) 32,895 41,931 Construction in progress 1,312 2,688 Total property, plant, and equipment, net $ 34,207 $ 44,619
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• Software and Cloud Services: Our software, firmware and technology solutions enable devices such as smart TVs, hybrid set-top boxes, audio systems, smart speakers, game consoles and other consumer electronic and smart home devices to wirelessly connect and interoperate within home networks. These solutions support control and delivery of home entertainment application services and content, smart home services and device or system information. New features include private, on-premise user presence and occupancy detection to enhance user experiences with their connected devices. ||| Software and Cloud Services: ||| • Expand AI-powered cloud services, and on-device AI developments to generate opportunities for recurring revenue streams in software licensing;

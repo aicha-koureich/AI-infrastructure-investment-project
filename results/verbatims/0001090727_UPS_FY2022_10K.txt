@@ -1,0 +1,23 @@
+FIRM         : UPS (CIK 0001090727) | FY2022
+FILE         : 0001090727_UPS_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 1. SUMMARY OF ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We evaluate the useful lives of our property, plant and equipment based on our usage, maintenance and replacement policies, and taking into account physical and economic factors that may affect the useful lives of the assets.
+
+[VERBATIM — Changement de politique]
+During 2022, we reduced the estimated residual value of our MD-11 aircraft to zero, incurring a one-time charge on our fully-depreciated aircraft during the fourth quarter. This resulted in an increase in depreciation expense of $76 million, and a decrease in net income of $58 million, or $0.07 per share on a basic and diluted basis. The change in estimate for the remainder of our MD-11 fleet will be accounted for prospectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

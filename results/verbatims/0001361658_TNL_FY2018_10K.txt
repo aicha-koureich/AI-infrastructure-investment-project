@@ -1,0 +1,21 @@
+FIRM         : TNL (CIK 0001361658) | FY2018
+FILE         : 0001361658_TNL_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 29. Related Party Transactions
+ASSET CAT.   : Furniture, equipment, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+2018 2017 Land $ 30 $ 37 Building and leasehold improvements 588 543 Furniture, fixtures and equipment 250 279 Capitalized software 604 600 Capital leases 12 84 Construction in progress 81 124 Total property and equipment 1,565 1,667 Less: Accumulated depreciation and amortization 853 845 Net property and equipment $ 712 $ 822
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Implementation Costs in Cloud Computing Arrangements. ||| In August 2018, the FASB issued guidance on implementation costs incurred in a cloud computing arrangement that is a service contract. This guidance aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the guidance on capitalizing costs associated with developing or obtaining internal-use software and also adds certain disclosure requirements related to implementation costs incurred for internal-use software and cloud computing arrangements. This ||| Implementation Costs in Cloud Computing Arrangements. In August 2018, the FASB issued guidance on implementation costs incurred in a cloud computing arrangement that is a service contract. This guidance aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the guidance on capitalizing costs associated with developing or obtaining internal-use software and also adds certain disclosure requirements related to implementation costs incurred for internal-use software and cloud computing arrangements. This

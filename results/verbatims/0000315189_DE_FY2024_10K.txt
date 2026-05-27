@@ -1,0 +1,20 @@
+FIRM         : DE (CIK 0000315189) | FY2024
+FILE         : 0000315189_DE_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-04-27
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+data centers, which are often owned by third parties and maintained on their information technology networks. The secure operation of these information technology networks, and the processing and maintenance of this information, are critical to our business operations and strategy.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

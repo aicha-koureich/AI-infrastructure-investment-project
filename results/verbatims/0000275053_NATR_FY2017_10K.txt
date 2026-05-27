@@ -1,0 +1,20 @@
+FIRM         : NATR (CIK 0000275053) | FY2017
+FILE         : 0000275053_NATR_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 18: SUMMARY OF QUARTERLY OPERATIONS — UNAUDITED
+ASSET CAT.   : Machinery and equipment, Furniture and fixtures, Computer software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31, 2017 2016 Land and improvements $ 841 $ 1,996 Buildings and improvements 30,760 30,277 Machinery and equipment 25,160 23,699 Furniture and fixtures 20,385 19,962 Computer software and hardware 51,632 49,340 128,778 125,274 Accumulated depreciation and amortization (59,672 ) (52,002 ) Total property, plant and equipment $ 69,106 $ 73,272
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

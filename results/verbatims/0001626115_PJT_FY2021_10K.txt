@@ -1,0 +1,20 @@
+FIRM         : PJT (CIK 0001626115) | FY2021
+FILE         : 0001626115_PJT_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-25
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Furniture and Fixtures, Office Equipment, Furniture, Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2021 2020 Leasehold Improvements $ 56,230 $ 52,789 Furniture and Fixtures 18,044 17,773 Office Equipment 4,423 2,327 Total Furniture, Equipment and Leasehold Improvements 78,697 72,889 Accumulated Depreciation (41,550 ) (34,112 ) Furniture, Equipment and Leasehold Improvements, Net $ 37,147 $ 38,777
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,24 @@
+FIRM         : RDNT (CIK 0000790526) | FY2024
+FILE         : 0000790526_RDNT_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-10-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Not disclosed
+DURÉE        : 1.0-12.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-12.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+SOFTWARE DEVELOPMENT COSTS – When we develop our own software and artificial intelligence solutions we capitalize and amortize those costs over their useful life of 1 to 12 years.
+
+[VERBATIM — Changement de politique]
+We define Adjusted EBITDA as earnings before interest, taxes, depreciation and amortization, as adjusted to exclude losses or gains on the disposal of equipment, other income or loss, loss on debt extinguishment, bargain purchase gains, loss on de-consolidation of joint ventures, gain on contribution of imaging centers into joint ventures, and non-cash equity compensation.
+
+[VERBATIM — Infrastructure IA]
+We may not generate the expected benefits from our investment in AI technologies or other new lines of business and the use of AI and machine learning tools in our operations and the services of our third-parties may introduce risks that could adversely affect our business, financial condition, and reputation.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Further, we are using AI to develop solutions that employ machine learning to assist radiologists and other clinicians in interpreting images and improving radiologist efficiency and patient care. These AI solutions will initially be focused in the fields of screening for breast, prostate, lung and colon cancers. Our DeepHealth, Inc. subsidiary received FDA clearance for use of its SaigeQ "triage"/workflow product, SaigeDX advanced diagnostic product and Saige-Density breast density assessment software for screening breast mammography, which we have begun to roll out in certain markets as an Enhanced Breast Cancer Detection solution. Our Aidence Holding B.V. subsidiary is developing solutions for interpretation of chest and lung CT scans for lung cancer screening. The Aidence Holding B.V. subsidiary has received the CE marking for these solutions and has existing customers in seven European countries, with its largest concentration in the United Kingdom, and plans to submit an application for FDA clearance to sell in the United States. Our Quantib B.V. subsidiary is primarily focused on interpretation of prostate MRI for widespread prostate cancer screening. Quantib’s prostate MRI post-processing software has both FDA clearances and European CE marking. Our digital health segment provides these solutions to RadNet and to over 400 customers in the United States and Europe. ||| Revenues for the Digital Health segment increased as a result of core growth in our eRad PICS business, the rollout in 2023 of our Deephealth OS, and continued rollout of our Enhanced Breast Cancer Detection solutions across additional facilities. The increase in operating expenses was primarily related to salary expense as we increased headcount in connection with the commercialization of our initial AI products and higher non-capitalized research and development expenses with respect to our new DeepHealth cloud OS and generative AI. Aside from the effect of increased non-capitalized research and development expenses, our net loss for the segment was consistent with the prior year. We expect that our Digital Health segment will continue to generate net losses over the next several years. ||| The increase in revenues for the Digital Health segment was driven by the launch of new imaging products, including our Enhanced Breast Cancer Detection product which was initially released in 2022 and is being rolled out in certain of our imaging centers. The increase in operating expenses for the Digital Health segment was primarily related to salary expense as we increased headcount in connection with the commercialization of our initial AI products. Our net loss for the segment was consistent with the prior year. We expect that our Digital Health segment will continue to generate net losses over the next several years.

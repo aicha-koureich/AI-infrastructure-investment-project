@@ -1,0 +1,20 @@
+FIRM         : NTNX (CIK 0001618732) | FY2018
+FILE         : 0001618732_NTNX_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. OVERVIEW AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Allocated costs consist of certain facilities, depreciation and amortization, recruiting, and information technology costs allocated based on headcount.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Nutanix, Inc. ("we," "us," "our" or "Nutanix") provides a leading enterprise cloud platform that powers many of the world’s business applications and end user services by providing software solutions that digitize traditional silos of enterprise computing. Our solution allows our customers to virtualize various clouds - private, public, edge - into one seamless cloud enabling enterprises to choose the right cloud for the right application. Our enterprise cloud platform converges compute, virtualization, storage, networking, desktop, governance and security services in one integrated, simple to consume solution delivered through software. Further, our software and software as a service ("SaaS") solutions allow enterprises to simplify the complexities of a multi-cloud environment with automation, cost governance and compliance. We underpin the platform with unique web-scale engineering and one-click operational simplicity that powers any scale deployment while giving customers the freedom of choice across various hardware platforms, across various virtualization solutions and across major public cloud providers. ||| Our enterprise cloud platform can be delivered pre-installed on an appliance that is configured to order or delivered separately to be utilized on a variety of certified hardware platforms. Software delivered on configured to order appliances is not portable to other appliances and has a term equal to the life of the associated appliance, while separately purchased software typically has a term of one to five years. For the fiscal year ended ||| We generate revenue primarily from the sale of our enterprise cloud platform, which can be delivered pre-installed on an appliance that is configured to order or delivered separately to be utilized on a variety of certified hardware platforms. Software delivered on configured to order appliances is not portable to other appliances and has a term equal to the life of the associated appliance, while separately purchased software typically has a term of one to five years. For the fiscal year ended

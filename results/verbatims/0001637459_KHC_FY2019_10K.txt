@@ -1,0 +1,24 @@
+FIRM         : KHC (CIK 0001637459) | FY2019
+FILE         : 0001637459_KHC_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Significant Accounting Policies
+ASSET CAT.   : equipment are depreciated over periods ranging from
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at historical cost and depreciated on the straight-line method over the estimated useful lives of the assets. Machinery and equipment are depreciated over periods ranging from three years to 20 years and buildings and improvements over periods up to 40 years . Capitalized software costs are included in property, plant and equipment and amortized on a straight-line basis over the estimated useful lives of the software, which do not exceed seven years .
+
+[VERBATIM — Changement de politique]
+In August 2018, the FASB issued ASU 2018-15 related to accounting for implementation costs incurred in hosted cloud computing service arrangements. Under the new guidance, implementation costs incurred in a hosting arrangement that is a service contract should be expensed or capitalized based on the nature of the costs and the project stage during which such costs are incurred. If the implementation costs qualify for capitalization, they must be amortized over the term of the hosting arrangement and assessed for impairment. Companies must disclose the nature of any hosted cloud computing service arrangements. This ASU also provides guidance for balance sheet and income statement presentation of capitalized implementation costs and statement of cash flows presentation for the related payments. This ASU will be effective beginning in the first quarter of our fiscal year 2020. This guidance may be adopted either retrospectively or prospectively to all implementation costs incurred after the date of adoption. We will prospectively adopt this guidance and do not expect that it will have a significant impact on our financial statements and related disclosures.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Implementation Costs Incurred in Hosted Cloud Computing Service Arrangements: ||| In August 2018, the FASB issued ASU 2018-15 related to accounting for implementation costs incurred in hosted cloud computing service arrangements. Under the new guidance, implementation costs incurred in a hosting arrangement that is a service contract should be expensed or capitalized based on the nature of the costs and the project stage during which such costs are incurred. If the implementation costs qualify for capitalization, they must be amortized over the term of the hosting arrangement and assessed for impairment. Companies must disclose the nature of any hosted cloud computing service arrangements. This ASU also provides guidance for balance sheet and income statement presentation of capitalized implementation costs and statement of cash flows presentation for the related payments. This ASU will be effective beginning in the first quarter of our fiscal year 2020. This guidance may be adopted either retrospectively or prospectively to all implementation costs incurred after the date of adoption. We will prospectively adopt this guidance and do not expect that it will have a significant impact on our financial statements and related disclosures.

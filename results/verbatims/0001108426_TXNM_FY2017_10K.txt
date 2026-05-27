@@ -1,0 +1,20 @@
+FIRM         : TXNM (CIK 0001108426) | FY2017
+FILE         : 0001108426_TXNM_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+MW required to supply energy to a new data center in PNM’s service territory (Note 17) and  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

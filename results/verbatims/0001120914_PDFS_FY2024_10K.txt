@@ -1,0 +1,20 @@
+FIRM         : PDFS (CIK 0001120914) | FY2024
+FILE         : 0001120914_PDFS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : software development costs consist of internal compensation related costs and external direct costs incurred during the application development stage and are amortized over their useful lives, generally for
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company’s capitalized software development costs consist of internal compensation related costs and external direct costs incurred during the application development stage and are amortized over their useful lives, generally for five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Certain trends may affect our Analytics revenue specifically. In particular, the confluence of Industry 4.0 (i.e. the fourth industrial revolution, or the automation and data exchange in manufacturing technologies and processes) and cloud computing (i.e. the on-demand availability of computing resources and data storage without direct active management by the user) is driving increased innovation in semiconductor and electronics manufacturing and analytics, as well as in the organization of information technology (“IT”) networks and computing at semiconductor and electronics companies across the ecosystem. First, the ubiquity of wireless connectivity and sensor technology enables any manufacturing company to augment its factories and visualize its entire production line. In parallel, the cost per terabyte of data storage has generally decreased over time. The combination of these two trends means that more data is collected and stored than ever before. Further, semiconductor companies are striving to analyze these very large data sets in real-time to make rapid decisions that measurably improve manufacturing efficiency and quality. In parallel, the traditional practice of on-site data storage, even for highly sensitive data, is changing. The ability to cost-effectively and securely store, analyze, and retrieve massive quantities of data from the cloud versus on-premise enables data to be utilized across a much broader population of users, frequently resulting in greater demands on analytics programs. The combination of these latter two trends means that cloud-based, analytics programs that effectively manage identity management, physical security, and ||| data protection are increasingly in demand for insights and efficiencies across the organizations of these companies. We believe that all these trends will continue for the next few years, and the challenges involved in adopting Industry 4.0 and secure cloud computing will create opportunities for our combination of advanced analytics capabilities, proven and established supporting infrastructure, and professional services to configure our products to meet customers’ specialized needs.

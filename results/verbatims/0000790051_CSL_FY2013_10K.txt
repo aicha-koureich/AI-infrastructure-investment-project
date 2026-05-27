@@ -1,0 +1,25 @@
+FIRM         : CSL (CIK 0000790051) | FY2013
+FILE         : 0000790051_CSL_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 13—Commitments and Contingencies
+ASSET CAT.   : equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company currently leases a portion of its manufacturing facilities, distribution centers and equipment, some of which include
+scheduled rent increases stated in the lease agreement generally expressed as a stated percentage increase of the minimum lease payment over the lease term. The Company currently has no leases that
+require rent to be paid based on contingent events nor has it received any lease incentive payments. Rent expense was $23.9 million, $24.0 million and $19.5 million in 2013, 2012
+and 2011, respectively, inclusive of rent based on scheduled rent increases and rent holidays recognized on a straight-line basis. Future minimum payments under its various non-cancelable operating
+leases in each of the next five years are approximately $15.5 million in 2014, $11.9 million in 2015, $9.6 million in 2016, $7.9 million in 2017, $7.0 million in
+2018 and $8.5 million thereafter.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

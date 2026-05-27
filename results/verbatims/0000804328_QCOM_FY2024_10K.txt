@@ -1,0 +1,20 @@
+FIRM         : QCOM (CIK 0000804328) | FY2024
+FILE         : 0000804328_QCOM_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 29, 2024
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper;NVIDIA (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We are organized on the basis of products and services and have three reportable segments. We conduct business primarily through our QCT (Qualcomm CDMA Technologies) semiconductor business and our QTL (Qualcomm Technology Licensing) licensing business. Our QSI (Qualcomm Strategic Initiatives) reportable segment makes strategic investments. We also have nonreportable segments, including QGOV (Qualcomm Government Technologies) and our cloud computing processing initiative.

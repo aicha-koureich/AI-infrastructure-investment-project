@@ -1,0 +1,20 @@
+FIRM         : OSG (CIK 0000874501) | FY2019
+FILE         : 0000874501_OSG_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1.
+ASSET CAT.   : furniture and fixtures, information technology, equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of furniture and fixtures, certain information technology development costs and electronic data processing equipment is charged over the estimated useful lives of the respective assets, ranging from three to five years, using the straight-line method.
+
+[VERBATIM — Infrastructure IA]
+Ambac is the lessee in operating leases of corporate offices, a data center and equipment. Our leases, in effect at December 31, 2019 , have remaining lease terms ranging from less than 1 year to 11 years. Our data center lease has an automatic renewal of one-year  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangement Service Contracts ||| In August 2018, the FASB issued ASU 2018-15, Intangibles—Goodwill and Other— Internal-Use Software (Subtopic 350-40) - Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. The ||| Intangibles—Goodwill and Other— Internal-Use Software (Subtopic 350-40) - Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.

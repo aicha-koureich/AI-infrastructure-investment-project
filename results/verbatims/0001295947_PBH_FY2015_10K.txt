@@ -1,0 +1,23 @@
+FIRM         : PBH (CIK 0001295947) | FY2015
+FILE         : 0001295947_PBH_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : MARCH 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Business and Basis of Presentation
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost and are depreciated using the straight-line method based on the following estimated useful lives:
+
+[VERBATIM — Changement de politique]
+Based on recent declines in the business and a strategic review of our brands during the fourth quarter ended March 31, 2016 and our annual impairment review, we have reassessed the useful life of the
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

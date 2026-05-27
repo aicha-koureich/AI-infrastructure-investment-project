@@ -1,0 +1,20 @@
+FIRM         : FE (CIK 0001031296) | FY2020
+FILE         : 0001031296_FE_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+FE and its subsidiaries are party to an intercompany income tax allocation agreement that provides for the allocation of consolidated tax liabilities. Net tax benefits attributable to FE, excluding any tax benefits derived from interest expense associated with acquisition indebtedness from the merger with GPU, are reallocated to the subsidiaries of FE that have taxable income. That allocation is accounted for as a capital contribution to the company receiving the tax benefit. Effective as of their emergence from bankruptcy, February 27, 2020, the FES Debtors no longer are part of FirstEnergy's consolidated federal income tax group or the intercompany income tax allocation agreement. Upon emergence, FirstEnergy paid the FES Debtors  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15, " Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract " (Issued August 2018): ASU 2018-15 allows implementation costs incurred by customers in cloud computing arrangements to be deferred and recognized over the term of the arrangement, if those costs would be capitalized by the customers in a software licensing arrangement. FirstEnergy adopted this standard as of January 1, 2020, with no material impact to its financial statements. ||| Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| " (Issued August 2018): ASU 2018-15 allows implementation costs incurred by customers in cloud computing arrangements to be deferred and recognized over the term of the arrangement, if those costs would be capitalized by the customers in a software licensing arrangement. FirstEnergy adopted this standard as of January 1, 2020, with no material impact to its financial statements.

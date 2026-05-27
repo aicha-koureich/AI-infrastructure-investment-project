@@ -1,0 +1,21 @@
+FIRM         : GOOGL (CIK 0001652044) | FY2020
+FILE         : 0001652044_GOOGL_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-01-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Nature of Operations and Summary of Significant Accounting Policies
+ASSET CAT.   : servers and network equipment and determined we should adjust the estimated useful life of our servers from
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+In January 2021, we completed an assessment of the useful lives of our servers and network equipment and determined we should adjust the estimated useful life of our servers from three years to four years and the estimated useful life of certain network equipment from three years to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

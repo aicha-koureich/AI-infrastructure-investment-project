@@ -1,0 +1,20 @@
+FIRM         : JBL (CIK 0000898293) | FY2020
+FILE         : 0000898293_JBL_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 31, 2020
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Net revenue increased during the fiscal year ended August 31, 2020 compared to the fiscal year ended August 31, 2019 . Specifically, the EMS segment revenues increased 8% primarily due to (i) a 10% increase in revenues from existing customers within our cloud business and (ii) a 2% increase in revenues from existing customers within our capital equipment business. The increase is partially offset by (i) a 3% decrease from existing customers within our networking and telecommunications business and (ii) a 1% decrease in revenues from existing customers within our print and retail business. DMS segment revenues increased 8% due to an 11% increase in revenues from new and existing customers in our healthcare business. The increase is partially offset by a 3% decrease in revenue from customers within our edge devices and accessories businesses. ||| Specifically, the EMS segment revenues increased 8% primarily due to (i) a 10% increase in revenues from existing customers within our cloud business and (ii) a 2% increase in revenues from existing customers within our capital equipment business. The increase is partially offset by (i) a 3% decrease from existing customers within our networking and telecommunications business and (ii) a 1% decrease in revenues from existing customers within our print and retail business. DMS segment revenues increased 8% due to an 11% increase in revenues from new and existing customers in our healthcare business. The increase is partially offset by a 3% decrease in revenue from customers within our edge devices and accessories businesses. ||| During fiscal year 2021, we expect lower revenue than fiscal year 2020 as approximately $1.0 billion in components that we procure and integrate for our cloud business will shift from a purchase and resale model to a consignment service model. As a result of this transition, we expect higher gross margins and lower cash used in this business.

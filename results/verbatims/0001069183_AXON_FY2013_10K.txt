@@ -1,0 +1,30 @@
+FIRM         : AXON (CIK 0001069183) | FY2013
+FILE         : 0001069183_AXON_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amortization of capitalized software
+development costs related to the Company’s software as a service (“SaaS”) product, EVIDENCE.com, was $0.6 million, $1.2 million and $1.3 million for the years ended December 31, 2013, 2012 and 2011, respectively. As of December,
+31, 2013, no capitalized software development costs remain to be amortized.
+
+[VERBATIM — Infrastructure IA]
+In the EVIDENCE.com & Video segment, cost of products sold and delivered increased $0.2 million from $7.5 million to $7.7 million and
+as a percent of sales decreased to 134.9% for the year ended December 31, 2012, as compared to 224.9% in the prior year. Within this segment, the cost of products sold decreased as a percentage of sales in 2012 from 2011 due to the increased
+leverage on fixed manufacturing costs resulting from the 69.9% overall increase in sales as noted above. In 2012, the cost of services delivered was $3.9 million compared to $4.8 million in 2011, a reduction of $0.9 million or 19.2%. This decrease
+is due to the Company’s decision in 2012 to discontinue operations of its data center in favor of moving the data storage piece of the video business to a third party provider. This change reduced total operating and software maintenance costs
+included in cost of services delivered.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Focus on increasing bookings and brand awareness for EVIDENCE.com and AXON cameras. We have expanded our EVIDENCE.com & Video sales team from 7 at the end of 2012 to 14 full-time salespeople at the end of 2013,
+the majority of which were added during the fourth quarter of 2013. We expect the additional salesforce to generate increased bookings in 2014, largely in the second half of the year. In addition, during 2014, we expect to increase our concerted
+efforts begun in 2013 to promote the awareness of the benefits of digital evidence management in general, and EVIDENCE.com specifically, throughout the law enforcement community. During the first quarter of 2014, we will host a technology summit at
+our Scottsdale headquarters during which our employees, customers and potential customers will conduct forums to discuss, educate and promote the benefits of cloud computing and wearable technology. We expect additional efforts will encompass
+tradeshows, interaction with trade associations (such as the International Association of Chiefs of Police), and other promotional activities.

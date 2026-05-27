@@ -1,0 +1,20 @@
+FIRM         : VCEL (CIK 0000887359) | FY2024
+FILE         : 0000887359_VCEL_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 4. Selected Balance Sheet Components
+ASSET CAT.   : Machinery and equipment, Furniture, office equipment, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, (In thousands) 2024 2023 Machinery and equipment $ 12,161 $ 5,562 Furniture, fixtures and office equipment 5,109 1,731 Computer equipment and software 12,318 9,116 Leasehold improvements 77,990 14,901 Construction in process 22,482 32,531 Total property and equipment, gross 130,060 63,841 Less accumulated depreciation (26,899) (22,206) Total property and equipment, net $ 103,161 $ 41,635
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

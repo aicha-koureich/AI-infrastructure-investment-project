@@ -1,0 +1,21 @@
+FIRM         : ADBE (CIK 0000796343) | FY2021
+FILE         : 0000796343_ADBE_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-21
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Not disclosed
+DURÉE        : 10.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+We do not have any finance leases. Operating leases are recorded in our Consolidated Balance Sheets. Right-of-use (“ROU”) assets and lease liabilities are measured at the lease commencement date based on the present value of the remaining lease payments over the lease term, determined using the discount rate for the lease at the commencement date. Because the rate implicit in our leases is not readily determinable, we use our incremental borrowing rate as the discount rate, which approximates the interest rate at which we could borrow on a collateralized basis with similar terms and payments and in similar economic environments. As of December 3, 2021, our leases had remaining lease terms of up to 10 years, some of which included options to extend the lease for up to 14 years and options to terminate the lease within 1 year. Optional periods to extend the lease, including by not exercising a termination option, are included in the lease term when it is reasonably certain that the option will be exercised. We also have one land lease that expires in 2091. Operating lease expense is recognized on a straight-line basis over the lease term. We account for lease and non-lease components, principally common area maintenance for our facilities leases, as a single lease component for our facilities and data center leases.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

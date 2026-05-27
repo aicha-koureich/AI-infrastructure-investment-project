@@ -1,0 +1,23 @@
+FIRM         : WMB (CIK 0000107263) | FY2020
+FILE         : 0000107263_WMB_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-01-26
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – General, Description of Business, Basis of Presentation, and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment is initially recorded at cost. We base the carrying value of these assets on estimates, assumptions, and judgments relative to capitalized costs, useful lives, and salvage values.
+
+[VERBATIM — Changement de politique]
+(2) Several factors are considered in the annual review process, including inflation rates, current estimates for removal cost, market risk premiums, discount rates, and the estimated remaining useful life of the assets. The 2020 revisions reflect changes in removal cost estimates, increases in the estimated remaining useful life of certain assets, decreases in inflation rates, and decreases in the discount rates used in the annual review process. The 2019 revisions reflect changes in removal cost estimates, decreases in the estimated remaining useful life of certain assets, increases in inflation rates, and decreases in the discount rates used in the annual review process.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

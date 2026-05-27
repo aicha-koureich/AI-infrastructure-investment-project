@@ -1,0 +1,20 @@
+FIRM         : META (CIK 0001326801) | FY2016
+FILE         : 0001326801_META_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We continued to invest, based on our roadmap, in: (i) our most developed ecosystem, the Facebook app and platform as well as video, (ii) driving growth and building ecosystems around our products and features that already have significant user bases, such as Messenger, Instagram, and WhatsApp, and (iii) long-term technology initiatives that we believe will further our mission to connect the world, such as virtual reality and artificial intelligence. We intend to continue to invest based on this roadmap and we expect these investments and our increasingly global scale will drive significant overall year-over-year expense growth compared to 2016. In addition, we anticipate our expenses in 2017 will continue to grow as we execute on priorities such as (i) hiring top engineering talent, (ii) investing in research and development, content, and sales and marketing efforts, and (iii) expanding our data center capacity and office facilities to support our rapid growth.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

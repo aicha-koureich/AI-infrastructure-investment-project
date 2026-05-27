@@ -1,0 +1,20 @@
+FIRM         : SXI (CIK 0000310354) | FY2020
+FILE         : 0000310354_SXI_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Accounting Policies Basis of Presentation and Consolidation
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are reported at cost less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

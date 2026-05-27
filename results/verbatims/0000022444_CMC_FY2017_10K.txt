@@ -1,0 +1,20 @@
+FIRM         : CMC (CIK 0000022444) | FY2017
+FILE         : 0000022444_CMC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are recorded at cost. Maintenance is expensed as incurred. Leasehold improvements are amortized over the shorter of their estimated useful lives or the lease term. Depreciation and amortization is recorded on a straight-line basis over the following estimated useful lives:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In the first quarter of fiscal 2017, the Company adopted ASU 2015-05, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), issued by the FASB requiring an entity to account for fees paid in a cloud computing arrangement as a license of internal-use software. The guidance was adopted on a prospective basis and did not have an impact on the Company's consolidated financial statements.

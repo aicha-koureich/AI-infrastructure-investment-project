@@ -1,0 +1,20 @@
+FIRM         : MSTR (CIK 0001050446) | FY2016
+FILE         : 0001050446_MSTR_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We also generate subscription services revenues primarily from our cloud services offerings. Subscription services revenues include subscription fees from customers for access to the full breadth of MicroStrategy Analytics and MicroStrategy Mobile capabilities, database services, and data integration services. Our standard arrangements with customers generally do not provide the customer with the right to take possession of the software supporting the cloud-based application service at any time. As such, these arrangements are considered service contracts and revenue is recognized ratably over the service period of the contract, following completion of the set-up service. Any related set-up service fees are recognized ratably over the longer of the contract period or the estimated average life of the customer relationship. ||| Subscription services revenues. Subscription services revenues are primarily derived from our cloud services offerings that are recognized on a subscription basis over the service period of the contract. Subscription services revenues increased $2.7 million and $5.5 million during 2016 and 2015, respectively, as compared to the prior year, primarily due to new subscription services customers and an increase in the use of subscription services by existing customers. ||| Subscription services revenues are primarily derived from our cloud services offerings that are recognized on a subscription basis over the service period of the contract. Subscription services revenues increased $2.7 million and $5.5 million during 2016 and 2015, respectively, as compared to the prior year, primarily due to new subscription services customers and an increase in the use of subscription services by existing customers.

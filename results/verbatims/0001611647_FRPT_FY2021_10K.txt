@@ -1,0 +1,21 @@
+FIRM         : FRPT (CIK 0001611647) | FY2021
+FILE         : 0001611647_FRPT_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies:
+ASSET CAT.   : furniture and office equipment
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+The Company provides for depreciation on the straight-line method by charges to income at rates based upon estimated recovery periods of 7 years for furniture and office equipment, 5 years for automotive equipment, 9 years for refrigeration equipment, 5 to 10 years for machinery and equipment, and 15 to 39 years for building and improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

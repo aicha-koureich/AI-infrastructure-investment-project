@@ -1,0 +1,20 @@
+FIRM         : DT (CIK 0001773383) | FY2024
+FILE         : 0001773383_DT_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 7. Property and Equipment, Net
+ASSET CAT.   : Computer equipment, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+March 31, 2025 2024 Computer equipment and software $ 37,841 $ 33,591 Furniture and fixtures 19,815 15,334 Leasehold improvements 58,627 45,742 Other 12,584 9,990 Total property and equipment 128,867 104,657 Less: accumulated depreciation and amortization (67,345) (51,332) Property and equipment, net $ 61,522 $ 53,325
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• Extend our technology and market leadership position. We intend to maintain our position as a leading AI-powered observability platform through increased investment in research and development, and innovation. We plan to expand the functionality of our end-to-end Dynatrace platform and invest in capabilities that address new market opportunities. For example, in fiscal 2026, we believe we are well positioned to grow our next generation log analytics offering, which integrates logs, traces, metrics, and other core observability and security data types into a single platform, providing customers with greater value than legacy log management solutions that are viewed as too expensive, providing too little value, or largely operating independently from existing monitoring tools. We also plan to evolve our AI capabilities to drive differentiation, with a focus on evolving into an agentic AI platform that can act autonomously to make decisions and take actions without human intervention. We believe this strategy will enable new growth opportunities and allow us to deliver differentiated high-value outcomes to our customers. ||| We intend to maintain our position as a leading AI-powered observability platform through increased investment in research and development, and innovation. We plan to expand the functionality of our end-to-end Dynatrace platform and invest in capabilities that address new market opportunities. For example, in fiscal 2026, we believe we are well positioned to grow our next generation log analytics offering, which integrates logs, traces, metrics, and other core observability and security data types into a single platform, providing customers with greater value than legacy log management solutions that are viewed as too expensive, providing too little value, or largely operating independently from existing monitoring tools. We also plan to evolve our AI capabilities to drive differentiation, with a focus on evolving into an agentic AI platform that can act autonomously to make decisions and take actions without human intervention. We believe this strategy will enable new growth opportunities and allow us to deliver differentiated high-value outcomes to our customers. ||| Cost of subscription . Cost of subscription revenue includes all direct costs to deliver and support our subscription products, including salaries, benefits, bonuses, share-based compensation and related expenses such as employer taxes, third-party hosting fees related to our cloud services, allocated overhead for depreciation, facilities, and IT, and amortization of internally developed capitalized software technology. We recognize these expenses as they are incurred.

@@ -1,0 +1,21 @@
+FIRM         : LITE (CIK 0001633978) | FY2024
+FILE         : 0001633978_LITE_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-06-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : building and improvements
+DURÉE        : 2.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is computed by the straight-line method generally over the following estimated useful lives of the assets: 10 to 40 years for building and improvements, 3 to 10 years for machinery and equipment, and 2 to 5 years for furniture, fixtures, software and office equipment.
+
+[VERBATIM — Infrastructure IA]
+Our Cloud & Networking products include a comprehensive portfolio of optical and photonic components, modules, and subsystems supplied to network operator and network equipment manufacturer customers building cloud data center infrastructure, including products for artificial intelligence and machine learning (“AI/ML”) and data center interconnect (“DCI”) applications, and communications service provider networks, including products for access (local), metro (intracity), long-haul (city-to-city and worldwide), and submarine (undersea) network infrastructure. Our Cloud & Networking products also support network equipment manufacturers building enterprise network infrastructure, including storage-area networks (“SANs”), local-area networks (“LANs”) and wide-area networks (“WANs”). Demand for our Cloud & Networking products is driven by the continual growth in network capacity required for cloud computing and services, including for AI/ML, streaming video and video conferencing, wireless and mobile devices, and internet of things (“IoT”).  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Our Cloud & Networking products include a comprehensive portfolio of optical and photonic components, modules, and subsystems supplied to network operator and network equipment manufacturer customers building cloud data center infrastructure, including products for artificial intelligence and machine learning (“AI/ML”) and data center interconnect (“DCI”) applications, and communications service provider networks, including products for access (local), metro (intracity), long-haul (city-to-city and worldwide), and submarine (undersea) network infrastructure. Our Cloud & Networking products also support network equipment manufacturers building enterprise network infrastructure, including storage-area networks (“SANs”), local-area networks (“LANs”) and wide-area networks (“WANs”). Demand for our Cloud & Networking products is driven by the continual growth in network capacity required for cloud computing and services, including for AI/ML, streaming video and video conferencing, wireless and mobile devices, and internet of things (“IoT”).

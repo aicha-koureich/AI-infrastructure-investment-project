@@ -1,0 +1,23 @@
+FIRM         : LUMN (CIK 0000018926) | FY2019
+FILE         : 0000018926_LUMN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1— Background and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We primarily lease various office facilities, switching and colocation facilities, equipment and dark fiber. Leases with an initial term of 12 months or less are not recorded on the balance sheet; we recognize lease expense for these leases on a straight-line basis over the lease term.
+
+[VERBATIM — Changement de politique]
+The 2019 , 2018 and 2017 change in estimates are offset against gross property, plant and equipment.
+
+[VERBATIM — Infrastructure IA]
+______________________________________________________________________ (1 ) Includes primarily VPN data network, Ethernet, IP, content delivery and other ancillary services. (2 ) Includes wavelengths, private line, dark fiber services, colocation and data center services, including cloud, hosting and application management solutions, professional services and other ancillary services. (3 ) Includes local, long-distance voice, including wholesale voice, and other ancillary services, as well as VoIP services. (4 ) Includes information technology services and managed services, which may be purchased in conjunction with our other network services. (5 ) Includes high speed, fiber-based and lower speed DSL broadband services. (6 ) Includes local and long-distance services. (7 ) Includes (i) CAF, USF and other support payments designed to reimburse us for various costs related to certain telecommunications services and (ii) other operating revenue from the leasing and subleasing of space. (8 ) Includes retail video services (including our linear TV services), professional services and other ancillary services. (9 ) Includes regulatory revenue, lease revenue, sublease rental income, revenue from fiber capacity lease arrangements and failed sale leaseback income in 2018, which are not within the scope of ASC 606.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Transport and Infrastructure , which includes wavelengths, dark fiber, private line, colocation and data center services, including cloud, hosting and application management solutions, professional services and other ancillary services; ||| , which includes wavelengths, dark fiber, private line, colocation and data center services, including cloud, hosting and application management solutions, professional services and other ancillary services;

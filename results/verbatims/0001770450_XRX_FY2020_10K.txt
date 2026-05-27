@@ -1,0 +1,20 @@
+FIRM         : XRX (CIK 0001770450) | FY2020
+FILE         : 0001770450_XRX_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Buildings and equipment are depreciated over their estimated useful lives. Equipment on operating leases is depreciated to estimated salvage value over the lease term.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+On January 1, 2020, we adopted ASU 2018-15 , Intangibles - Goodwill and Other - Internal Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract. This update was issued by the FASB in August 2018 and aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). The update provides criteria for determining which implementation costs to capitalize as an asset related to the service contract and which costs to expense. The capitalized implementation costs are required to be expensed over the term of the hosting arrangement. The update also clarifies the presentation requirements for reporting such costs in the entity’s financial statements. The adoption of ASU 2018-15 did not have a material impact on our financial condition, results of operations or cash flows as we had previously capitalized these implementation costs and such amounts were not material. ||| Intangibles - Goodwill and Other - Internal Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract.

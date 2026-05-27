@@ -1,0 +1,20 @@
+FIRM         : NBR (CIK 0001163739) | FY2022
+FILE         : 0001163739_NBR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 20.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, including renewals and betterments, are stated at cost, while maintenance and repairs are expensed currently. Interest costs applicable to the construction of qualifying assets are capitalized as a component of the cost of such assets. We provide for the depreciation of our drilling rigs using the units-of-production method. For each day a rig is operating, we depreciate it over an approximate 4,927 -day period, with the exception of our jackup rigs which are depreciated over an 8,030 -day period, after provision for salvage value. For each day a rig asset is not operating, it is depreciated over an assumed depreciable life of 20 years, with the exception of our jackup rigs, where a 30-year depreciable life is used, in each case after provision for salvage value.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

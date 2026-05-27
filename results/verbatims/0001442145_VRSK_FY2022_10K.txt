@@ -1,0 +1,20 @@
+FIRM         : VRSK (CIK 0001442145) | FY2022
+FILE         : 0001442145_VRSK_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Summary of Significant Accounting Policies: Significant accounting policies include the following:
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Software development costs are amortized on a straight-line basis.
+
+[VERBATIM — Infrastructure IA]
+We have operating and finance leases for corporate offices, data centers, and certain equipment that are accounted for under ASC 842, Leases . The lease term for our corporate headquarters ends in 2033 and includes the options to extend for one 10-year renewal period and two 5-year renewal periods.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,26 @@
+FIRM         : OI (CIK 0000812074) | FY2014
+FILE         : 0000812074_OI_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 7. Other Assets (Continued)
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+These costs are amortized over the estimated useful life of the software. Amortization expense for capitalized software was $17 million, $14 million and $15 million for 2014, 2013 and 2012, respectively. Estimated amortization related to capitalized
+software through 2019 is as follows: 2015, $17 million; 2016, $14 million; 2017, $13 million; 2018, $13 million; and 2019, $11 million.
+
+[VERBATIM — Changement de politique]
+Property, Plant and Equipment Property, plant and equipment ("PP&E") is carried at cost and includes expenditures for new facilities and
+equipment and those costs which substantially increase the useful lives or capacity of existing PP&E. Factory machinery and equipment is depreciated over periods ranging from 5 to 25 years with the majority of such assets (principally glass-melting furnaces
+and forming machines) depreciated over 7 to 15 years. Buildings and building equipment are depreciated over periods ranging from 10 to 50 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

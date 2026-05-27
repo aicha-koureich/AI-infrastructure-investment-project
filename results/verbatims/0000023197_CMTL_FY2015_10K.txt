@@ -1,0 +1,20 @@
+FIRM         : CMTL (CIK 0000023197) | FY2015
+FILE         : 0000023197_CMTL_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+FASB ASU No. 2015-05, issued in April 2015, which provides guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. This ASU is effective for annual periods, including interim periods within those annual periods, beginning after December 15, 2015 (our fiscal year beginning on August 1, 2016), and can be adopted either prospectively to all arrangements entered into or materially modified after the effective date, or retrospectively. Early adoption is permitted. We are currently determining which transition approach to use and evaluating the impact of this ASU on our consolidated financial statements.

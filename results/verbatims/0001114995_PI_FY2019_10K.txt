@@ -1,0 +1,21 @@
+FIRM         : PI (CIK 0001114995) | FY2019
+FILE         : 0001114995_PI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 9. Stock-Based Awards
+ASSET CAT.   : equipment, Computer equipment, Furniture and fixtures
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-3.0 ans | 2.0-5.0 ans | 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Category Useful Life Laboratory equipment 3 to 10 years Computer equipment and software 2 to 5 years Furniture and fixtures 3 to 7 years Equipment acquired under finance leases 3 to 7 years Leasehold improvements Shorter of remaining lease term or expected useful life
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

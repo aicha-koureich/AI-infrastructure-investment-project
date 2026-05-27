@@ -1,0 +1,20 @@
+FIRM         : HASI (CIK 0001561894) | FY2024
+FILE         : 0001561894_HASI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+First and foremost, there have been significant changes in the outlook for U.S. power demand, with load growth now expected to experience its most significant increase since before the turn of this century. For the last 25 years, U.S. electricity demand has been essentially flat at approximately 4,000 TWh per year, according to the U.S. Energy Information Administration (the “EIA”), due largely to the impact of successful energy efficiency and conservation initiatives. More recently, however, a number of new macro trends have materially altered the U.S. electricity market, including growth in data centers, a resurgence in domestic manufacturing, as well as the broader trend of electrification of more sectors of the economy, including on-road transportation, industrial manufacturing, and space heating, among others.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

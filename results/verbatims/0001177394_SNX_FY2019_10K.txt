@@ -1,0 +1,20 @@
+FIRM         : SNX (CIK 0001177394) | FY2019
+FILE         : 0001177394_SNX_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-09
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 17
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment, net: As of November 30, 2019 2018 Land $ 47,494 $ 31,102 Equipment, computers and software 503,240 423,467 Furniture and fixtures 111,408 104,474 Buildings, building improvements and leasehold improvements 428,180 368,107 Construction-in-progress 12,379 29,021 Total property and equipment, gross $ 1,102,702 956,170 Less: Accumulated depreciation (532,803 ) (384,844 ) Property and equipment, net $ 569,899 $ 571,326
+
+[VERBATIM — Infrastructure IA]
+The Technology Solutions segment distributes peripherals, IT systems, including data center servers, system components, software, networking, communications and security equipment, consumer electronics (“CE”) and complementary products to a variety of customers, including value-added resellers, system integrators and retailers. The segment also designs and integrates data center equipment built specific to the customers' data center environment.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

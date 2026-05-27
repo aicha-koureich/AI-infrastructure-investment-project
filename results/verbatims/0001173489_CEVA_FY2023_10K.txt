@@ -1,0 +1,23 @@
+FIRM         : CEVA (CIK 0001173489) | FY2023
+FILE         : 0001173489_CEVA_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1: ORGANIZATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, net of accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+On December 22, 2017, the U.S. government enacted the Tax Cuts and Jobs Act (the “Tax Act”). The Tax Act includes significant changes to the U.S. corporate income tax system including but not limited to: a federal corporate rate reduction from 35% to 21%; creation of the base erosion anti-abuse tax (“BEAT”), introduction of the Global Intangible Low Taxed Income (“GILTI”) provisions; the transition of U.S. international taxation from a worldwide tax system to a modified territorial tax system; modifications to the allowance of net business interest expense deductions; modification of net operating loss provisions; changes to 162(m) limitation rules and bonus depreciation provisions. The change to a modified territorial tax system resulted in a one-time U.S. tax liability on those earnings which have not previously been repatriated to the U.S. (the “Transition Tax”), with future dividend distributions not subject to U.S. federal income tax when repatriated. A majority of the provisions in the Tax Act became effective January 1, 2018.
+
+[VERBATIM — Infrastructure IA]
+Our PentaG RAN platform for 5G RAN settings is the most comprehensive baseband processor IP in the industry today and provides newcomers and incumbents with a comprehensive solution to address the need for 5G and other communications in data centers and infrastructure.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Our SensPro2 sensor hub AI DSP family is designed to address the growing demand for efficient, high-performance signal processing in sensor-based applications across various industries and applications such as smartphones, automotive safety (ADAS), autonomous driving (AD), drones, robotics, security and surveillance, augmented reality (AR) and virtual reality (VR), natural language processing (NLP) and voice recognition. Research from Bloomberg Intelligence forecasts that hardware revenue associated with computer vision AI products and conversational AI devices will reach $61 billion and $108 billion, respectively by 2030, indicating the size of the market opportunity. This sensor hub AI DSP enables us to address the transformation in devices enabled by these applications, and expand our footprint and content in smartphones, drones, consumer cameras, surveillance, automotive ADAS, voice-enabled devices and industrial IoT applications. ||| Various global, macroeconomic and industry phenomenon significantly adversely impacted our business in 2023, including decreased investment in semiconductor companies due to interest rates and other factors and the end of a period of exceptional consumer end market demand related to COVID spending following the substantial completion of most companies’ shift to hybrid work environments, and certain of these phenomenon continue to adversely affect the semiconductor industry and its end markets. Against this difficult backdrop, however, we believe our strategy will yield results, with overall revenue expected to grow 4% to 8% over 2023. Most of this growth is expected to be concentrated in the second half of the year, including due to typical seasonality in lower shipments of consumer IoT and mobile products post the holiday season, which we expect will contribute to overall revenues being 2% to 6% lower in the first quarter of 2024 compared to the fourth quarter of 2023, and with a different mix of licensing and royalty revenues than from the fourth quarter of 2023. In the coming year, we expect our licensing and related revenues business will continue to expand into new markets and use cases in the industrial IoT (IIoT) and consumer IoT, offering connectivity platforms, sensing platforms and software, AI solutions (including AI engines, NPUs and software) and more. On royalties, we expect our connectivity products to continue to show strength in 2024, particularly related to our Bluetooth, Wi-Fi and cellular IoT business lines, with the expected ramp of automotive ADAS royalties in the second half of the year. The smartphone market related revenues have continued to decrease for us in recent years due to these trends.

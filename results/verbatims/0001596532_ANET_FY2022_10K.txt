@@ -1,0 +1,20 @@
+FIRM         : ANET (CIK 0001596532) | FY2022
+FILE         : 0001596532_ANET_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-13
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Financial Statements Details
+ASSET CAT.   : Equipment, machinery, Computer hardware, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : TPU (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2022 2021 Land $ 41,500 $ 40,145 Equipment and machinery 122,407 90,915 Computer hardware and software 52,148 44,083 Furniture and fixtures 3,575 3,634 Leasehold improvements 30,102 30,502 Construction-in-process 2,124 2,378 Property and equipment, gross 251,856 211,657 Less: accumulated depreciation (156,847) (133,023) Property and equipment, net $ 95,009 $ 78,634
+
+[VERBATIM — Infrastructure IA]
+Arista Networks, Inc. (together with our subsidiaries, “we,” “our,” "Arista," "Company" or “us”) is a supplier of cloud networking solutions that use software innovations to address the needs of next-generation data center and campus workspace environments. Our cloud networking solutions consist of our EOS, a set of network applications and our Gigabit Ethernet switching and routing platforms. We are incorporated in the state of Delaware. Our corporate headquarters are located in Santa Clara, California, and we have wholly-owned subsidiaries throughout the world, including North America, Europe, Asia and Australia.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We believe that cloud computing represents a fundamental shift from traditional legacy network architectures. As organizations of all sizes have moved workloads to the cloud, spending on cloud and next-generation data centers has increased rapidly, while traditional legacy IT spending has grown more slowly. Our cloud networking platforms are well positioned to address the growing cloud networking market, and to address increasing performance requirements driven by the growing number of connected devices, as well as the need for constant connectivity and access to data and applications.

@@ -1,0 +1,20 @@
+FIRM         : GS (CIK 0000886982) | FY2019
+FILE         : 0000886982_GS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 12.
+ASSET CAT.   : equipment
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, leasehold improvements and equipment is net of accumulated depreciation and amortization of $9.95 billion as of December 2019 and $9.08 billion as of December 2018. Substantially all property and equipment is depreciated on a straight-line basis over the useful life of the asset. Capitalized costs of software developed or obtained for internal use are amortized on a straight-line basis over three years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

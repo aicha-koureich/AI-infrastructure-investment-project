@@ -1,0 +1,20 @@
+FIRM         : PEG (CIK 0000788784) | FY2013
+FILE         : 0000788784_PEG_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 20. Income Taxes
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+PSE&G’s additions to and replacements of existing property, plant and equipment are capitalized at original cost. The cost of maintenance, repair and replacement of minor items of property is charged to expense as incurred. At the time units of depreciable property are retired or otherwise disposed of, the original cost, adjusted for net salvage value, is charged to accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

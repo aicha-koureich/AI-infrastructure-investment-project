@@ -1,0 +1,20 @@
+FIRM         : NWN (CIK 0001733998) | FY2024
+FILE         : 0001733998_NWN_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2029-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The provision for depreciation of NGD property, plant, and equipment is recorded under the group method on a straight-line basis with rates computed in accordance with depreciation studies approved by regulatory authorities.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• $1.4 million decrease in operations and maintenance expenses (excluding the regulatory disallowance) due to lower contract labor costs and lower bad debt expense, partially offset by higher amortization expense related to cloud computing arrangements. ||| $1.4 million decrease in operations and maintenance expenses (excluding the regulatory disallowance) due to lower contract labor costs and lower bad debt expense, partially offset by higher amortization expense related to cloud computing arrangements. ||| • $39.8 million increase in operations and maintenance expenses due to higher payroll costs, higher contract labor, the amortization of deferred balances (which is mostly offset in revenues), information technology costs and amortization expense related to cloud computing arrangements;

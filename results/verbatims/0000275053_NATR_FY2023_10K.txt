@@ -1,0 +1,21 @@
+FIRM         : NATR (CIK 0000275053) | FY2023
+FILE         : 0000275053_NATR_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1: NATURE OF OPERATIONS AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, machinery and equipment, computer software, furniture and fixtures
+DURÉE        : 2.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 2.0-10.0 ans | 3.0-10.0 ans | 7.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are recorded at cost less accumulated depreciation and amortization. Estimated useful lives for buildings range from 20 to 50 years; building improvements range from 7 to 10 years; machinery and equipment range from 2 to 10 years; computer software and hardware range from 3 to 10 years; and furniture and fixtures range from 2 to 5 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

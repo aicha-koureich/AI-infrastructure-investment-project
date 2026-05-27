@@ -1,0 +1,20 @@
+FIRM         : OGE (CIK 0001021635) | FY2019
+FILE         : 0001021635_OGE_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100;Blackwell (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+All property, plant and equipment is recorded at cost. Newly constructed plant is added to plant balances at cost which includes contracted services, direct labor, materials, overhead, transportation costs and the allowance for funds used during construction. Replacements of units of property are capitalized as plant. For assets that belong to a common plant account, the replaced plant is removed from plant balances, and the cost of such property net of any salvage proceeds is charged to Accumulated Depreciation. For assets that do not belong to a common plant account, the replaced plant is removed from plant balances with the related accumulated depreciation, and the remaining balance net of any salvage proceeds is recorded as a loss in the Consolidated Statements of Income as Other Expense. Repair and replacement of minor items of property are included in the Consolidated Statements of Income as Other Operation and Maintenance Expense.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. In August 2018, the FASB issued ASU 2018-15, "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract." The new guidance aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. ASU 2018-15 is effective for fiscal years beginning after December 2019 and can be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. The Company adopted and prospectively applied the new guidance beginning in the first quarter of 2020, which did not have a material effect on the Consolidated Financial Statements upon adoption. ||| Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. ||| In August 2018, the FASB issued ASU 2018-15, "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract." The new guidance aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. ASU 2018-15 is effective for fiscal years beginning after December 2019 and can be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. The Company adopted and prospectively applied the new guidance beginning in the first quarter of 2020, which did not have a material effect on the Consolidated Financial Statements upon adoption.

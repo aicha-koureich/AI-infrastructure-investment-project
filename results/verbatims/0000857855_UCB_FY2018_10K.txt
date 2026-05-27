@@ -1,0 +1,20 @@
+FIRM         : UCB (CIK 0000857855) | FY2018
+FILE         : 0000857855_UCB_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract (a consensus of the FASB Emerging Issues Task Force) ||| In August 2018, the FASB issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract (a consensus of the FASB Emerging Issues Task Force) . This update aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal use software. For public entities, this guidance is effective for fiscal years ending after December 15, 2019 with either retrospective or prospective application. United does not expect the new guidance to have a material impact on the consolidated financial statements.

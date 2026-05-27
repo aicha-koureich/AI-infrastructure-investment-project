@@ -1,0 +1,20 @@
+FIRM         : UNFI (CIK 0001020859) | FY2024
+FILE         : 0001020859_UNFI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-10-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1—SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, less accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| The Company enters into certain cloud-based software hosting arrangements for internal use that are accounted for as service contracts. The capitalized implementation costs associated with these cloud computing arrangements are included in Prepaid expenses and other current assets and Other long-term assets within the Consolidated Balance Sheets, and the related cash flows are included within operating activities in the Consolidated Statements of Cash Flows. Once a cloud computing arrangement is ready for its intended use, the capitalized implementation costs are amortized on a straight-line basis over the term of the related hosting agreement, including renewal periods that are reasonably certain to be exercised, and expensed in the same line item in the Consolidated Statements of Operations as the associated hosting fees. The net book value of these capitalized implementation costs was $51 million and $28 million as of August 3, 2024 and July 29, 2023, respectively. Amortization expense was $4 million, $2 million and $1 million for fiscal 2024, 2023 and 2022, respectively. ||| Prepaid expenses and other current assets and Other long-term assets within the Consolidated Balance Sheets, and the related cash flows are included within operating activities in the Consolidated Statements of Cash Flows. Once a cloud computing arrangement is ready for its intended use, the capitalized implementation costs are amortized on a straight-line basis over the term of the related hosting agreement, including renewal periods that are reasonably certain to be exercised, and expensed in the same line item in the Consolidated Statements of Operations as the associated hosting fees. The net book value of these capitalized implementation costs was $51 million and $28 million as of August 3, 2024 and July 29, 2023, respectively. Amortization expense was $4 million, $2 million and $1 million for fiscal 2024, 2023 and 2022, respectively.

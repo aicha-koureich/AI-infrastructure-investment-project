@@ -1,0 +1,20 @@
+FIRM         : STX (CIK 0001137789) | FY2023
+FILE         : 0001137789_STX_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-07-26
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 18.
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Fiscal Years Ended June 30, 2023 July 1, 2022 July 2, 2021 OPERATING ACTIVITIES Net income $ (529) $ 1,649 $ 1,314 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 513 451 397 Share-based compensation 115 145 112 Net (gain) loss on redemption and repurchase of debt (204) — 1 Deferred income taxes 10 (9) (4) Other non-cash operating activities, net (125) 64 (50) Changes in operating assets and liabilities: Accounts receivable, net 911 (374) (42) Inventories 425 (361) (64) Accounts payable (421) 228 (14) Accrued employee compensation (152) (30) 58 Accrued expenses, income taxes and warranty 101 (26) (38) Other assets and liabilities 298 (80) (44) Net cash provided by operating activities 942 1,657 1,626 INVESTING ACTIVITIES Acquisition of property, equipment and leasehold improvements (316) (381) (498) Proceeds from the sale of assets 534 — 4 Purchases of investments (1) (18) (4) Proceeds from sale of investments — 47 29 Maturities of short-term investments — — 3 Net cash provided by (used in) investing activities 217 (352) (466) FINANCING ACTIVITIES Redemption and repurchase of debt (1,578) (701) (33) Proceeds from issuance of long-term debt 1,600 1,200 1,000 Dividends to shareholders (582) (610) (649) Repurchases of ordinary shares (408) (1,799) (2,047) Taxes paid related to net share settlement of equity awards (44) (51) (33) Proceeds from issuance of ordinary shares under employee stock plans 68 68 108 Other financing activities, net (44) (6) (19) Net cash used in financing activities (988) (1,899) (1,673) Increase (decrease) in cash, cash equivalents and restricted cash 171 (594) (513) Cash, cash equivalents and restricted cash at the beginning of the year 617 1,211 1,724 Cash, cash equivalents and restricted cash at the end of the year $ 788 $ 617 $ 1,211 Supplemental Disclosure of Cash Flow Information Cash paid for interest $ 327 $ 244 $ 184 Cash paid for income taxes, net of refunds $ 32 $ 33 $ 44
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

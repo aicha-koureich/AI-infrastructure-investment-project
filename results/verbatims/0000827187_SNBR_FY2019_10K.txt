@@ -1,0 +1,20 @@
+FIRM         : SNBR (CIK 0000827187) | FY2019
+FILE         : 0000827187_SNBR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-28
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 1,
+ASSET CAT.   : Furniture, equipment, machinery, computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 28, 2019 December 29, 2018 Land $ — $ 1,999 Leasehold improvements 115,566 109,722 Furniture and equipment 123,161 108,841 Production machinery, computer equipment and software 245,175 238,659 Construction in progress 6,590 10,385 Less: Accumulated depreciation and amortization (293,071 ) (263,975 ) $ 197,421 $ 205,631
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We capitalize costs incurred with the implementation of a cloud computing arrangement that is a service contract, consistent with our policy for software developed or obtained for internal use. The capitalized implementation costs of cloud computing arrangements are expensed over the term of the cloud computing arrangement in the same line item in the statement of operations as the associated hosting fees. Capitalized costs incurred with the implementation of a cloud computing arrangement are included in prepaid expenses and other non-current assets in our consolidated balance sheet, and in operating cash flows in our consolidated statement of cash flows.

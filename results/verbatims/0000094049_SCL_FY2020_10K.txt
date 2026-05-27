@@ -1,0 +1,21 @@
+FIRM         : SCL (CIK 0000094049) | FY2020
+FILE         : 0000094049_SCL_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-02
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : computer equipment and software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 5.0-10.0 ans | 10.0-15.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation of property, plant and equipment is provided on a straight-line basis over the estimated useful lives of the assets. For assets classified as machinery and equipment, lives generally used for calculating depreciation expense range from 10 to 15 years for manufacturing equipment, five to 10 years for furniture and fixtures, three to five years for vehicles and three to 10 years for computer equipment and software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Included in the computer equipment and software component of machinery and equipment are costs related to the acquisition and development of internal-use software. Capitalized costs for internal-use software include external direct costs of materials and services consumed in obtaining and developing the software. For development projects where major internal resources are committed, payroll and payroll-related costs incurred during the application development phase of the project are also capitalized. The capitalized costs are amortized over the useful lives of the software, which are generally three to 10 years. Costs incurred in the preliminary project phase are expensed. The Company adopted ASU No. 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40) Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service contract in the first quarter of 2020. As a result, deferred implementation costs for hosted cloud computing service arrangements are now stated at historical cost and amortized on a straight-line basis over the term of the hosting arrangement. ||| In August 2018, the FASB issued ASU No. 2018-15, Intangibles-Goodwill and Other-Internal-Use software (Subtopic 350-40) Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract . This update aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. This update requires the entity to determine which implementation costs to capitalize as an asset related to the service contact and which costs to expense over the term of the hosting contract. The Company adopted ASU N0 2018-15 prospectively in the first quarter of 2020. The adoption of ASU No. 2018-15 did not have a material impact on the Company’s financial position, results of operations and cash flows. ||| Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40) Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service contract

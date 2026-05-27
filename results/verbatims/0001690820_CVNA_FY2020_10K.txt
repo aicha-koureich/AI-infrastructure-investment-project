@@ -1,0 +1,20 @@
+FIRM         : CVNA (CIK 0001690820) | FY2020
+FILE         : 0001690820_CVNA_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-25
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 — SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment consists of land, buildings and improvements, transportation fleet equipment, software, and furniture, fixtures and equipment and is stated at cost less accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles — Goodwill and Other — Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ("ASU 2018-15"). The intent of this pronouncement is to align the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software as defined in ASC 350-40. Under ASU 2018-15, the capitalized implementation costs related to a cloud computing arrangement will be amortized over the term of the arrangement and all capitalized implementation amounts will be required to be presented in the same line items of the financial statements as the related hosting fees. ASU 2018-15 is effective for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years, with early adoption permitted. The Company adopted ASU 2018-15 for its fiscal year beginning January 1, 2020 and it did not have a material effect on its consolidated financial statements. ||| Intangibles — Goodwill and Other — Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| ("ASU 2018-15"). The intent of this pronouncement is to align the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software as defined in ASC 350-40. Under ASU 2018-15, the capitalized implementation costs related to a cloud computing arrangement will be amortized over the term of the arrangement and all capitalized implementation amounts will be required to be presented in the same line items of the financial statements as the related hosting fees. ASU 2018-15 is effective for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years, with early adoption permitted. The Company adopted ASU 2018-15 for its fiscal year beginning January 1, 2020 and it did not have a material effect on its consolidated financial statements.

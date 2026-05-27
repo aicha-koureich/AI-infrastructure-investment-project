@@ -1,0 +1,20 @@
+FIRM         : SMCI (CIK 0001375365) | FY2021
+FILE         : 0001375365_SMCI_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : AMD_EPYC;B100;Intel_Xeon;NVIDIA (4 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are amortized using the straight-line amortization method over the estimated useful life of the applicable software.
+
+[VERBATIM — Infrastructure IA]
+We are a global leader and innovator of application-optimized high performance and high-efficiency server and storage systems for a variety of markets, including enterprise data centers, cloud computing, artificial intelligence, 5G and edge computing. Our solutions include complete servers, storage systems, modular blade servers, blades, workstations, full racks, networking devices, server management software, and server sub-systems. We also provide global support and services to help our customers install, upgrade and maintain their computing infrastructure.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+We are a global leader and innovator of application-optimized high performance and high-efficiency server and storage systems for a variety of markets, including enterprise data centers, cloud computing, artificial intelligence, 5G and edge computing. Our solutions include complete servers, storage systems, modular blade servers, blades, workstations, full racks, networking devices, server management software, and server sub-systems. We also provide global support and services to help our customers install, upgrade and maintain their computing infrastructure.

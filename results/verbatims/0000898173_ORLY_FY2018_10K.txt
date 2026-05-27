@@ -1,0 +1,23 @@
+FIRM         : ORLY (CIK 0000898173) | FY2018
+FILE         : 0000898173_ORLY_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are carried at cost. Depreciation is calculated using the straight-line method, generally over the estimated useful lives of the assets. Leasehold improvements are amortized over the lesser of the lease term or the estimated economic life of the assets. The lease term includes renewal options determined by management at lease inception, for which failure to execute renewal options would result in a substantial economic penalty to the Company. Maintenance and repairs are charged to expense as incurred. Upon retirement or sale, the cost and accumulated depreciation are eliminated and the gain or loss, if any, is recognized in the Company’s Consolidated Statements of Income. The Company reviews long-lived assets for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be fully recoverable. See Note 3 for further information concerning the Company’s property and equipment.
+
+[VERBATIM — Changement de politique]
+In August of 2018, the FASB issued ASU No. 2018-15, “Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract” (“ASU 2018-15”). ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. ASU 2018-15 is effective for annual reporting periods beginning after December 15, 2019, and interim periods within that reporting period, and allows for either retrospective or prospective adoption, with early adoption permitted. The Company early adopted this guidance with its third quarter ended September 30, 2018, using the prospective adoption method. The Company did
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August of 2018, the FASB issued ASU No. 2018-15, “Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract” (“ASU 2018-15”). ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. ASU 2018-15 is effective for annual reporting periods beginning after December 15, 2019, and interim periods within that reporting period, and allows for either retrospective or prospective adoption, with early adoption permitted. We early adopted this guidance with our third quarter ended September 30, 2018, using the prospective adoption method. We did ||| capitalize any implementation costs incurred in cloud computing arrangements that are service contracts subsequent to adoption, and therefore, the adoption of this new guidance did not impact our consolidated financial condition, results of operations or cash flows during the period. We do

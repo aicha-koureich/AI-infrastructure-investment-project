@@ -1,0 +1,24 @@
+FIRM         : XYZ (CIK 0001512673) | FY2019
+FILE         : 0001512673_XYZ_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 - DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment, Capitalized software, data center equipment, Furniture and fixtures
+DURÉE        : 2.0-3.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-3.0 ans | 7.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and Equipment Useful Life Capitalized software 18 months Computer and data center equipment Two to three years Furniture and fixtures Seven years Leasehold improvements Lesser of ten years or remaining lease term
+
+[VERBATIM — Changement de politique]
+In August 2018, the FASB issued ASU 2018-15, C ustomer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract , which is intended to align the requirements for capitalization of implementation costs incurred in a cloud computing arrangement that is a service contract with the existing guidance for internal-use software. This guidance is effective for financial statements issued for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years, with early adoption permitted. The guidance provides flexibility in adoption, allowing for either retrospective adjustment or prospective adjustment for all implementation costs incurred after the date of adoption. The Company does not expect the adoption of this guidance to have a material impact on the consolidated financial statements and related disclosures.
+
+[VERBATIM — Infrastructure IA]
+Property and Equipment Useful Life Capitalized software 18 months Computer and data center equipment Two to three years Furniture and fixtures Seven years Leasehold improvements Lesser of ten years or remaining lease term  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, C ustomer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract , which is intended to align the requirements for capitalization of implementation costs incurred in a cloud computing arrangement that is a service contract with the existing guidance for internal-use software. This guidance is effective for financial statements issued for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years, with early adoption permitted. The guidance provides flexibility in adoption, allowing for either retrospective adjustment or prospective adjustment for all implementation costs incurred after the date of adoption. The Company does not expect the adoption of this guidance to have a material impact on the consolidated financial statements and related disclosures. ||| ustomer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| , which is intended to align the requirements for capitalization of implementation costs incurred in a cloud computing arrangement that is a service contract with the existing guidance for internal-use software. This guidance is effective for financial statements issued for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years, with early adoption permitted. The guidance provides flexibility in adoption, allowing for either retrospective adjustment or prospective adjustment for all implementation costs incurred after the date of adoption. The Company does not expect the adoption of this guidance to have a material impact on the consolidated financial statements and related disclosures.

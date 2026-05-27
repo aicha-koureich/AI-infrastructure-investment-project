@@ -1,0 +1,23 @@
+FIRM         : LUV (CIK 0000092380) | FY2014
+FILE         : 0000092380_LUV_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+of original cost. As this reduction in residual value was considered a change in estimate, it was accounted for on a prospective basis, and thus the Company will record additional depreciation expense over the remainder of the useful lives for each aircraft. The impact of this change on the year ended
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

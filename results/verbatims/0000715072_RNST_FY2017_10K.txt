@@ -1,0 +1,24 @@
+FIRM         : RNST (CIK 0000715072) | FY2017
+FILE         : 0000715072_RNST_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Significant Accounting Policies (continued)
+ASSET CAT.   : equipment, furniture
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+: Premises and equipment are stated at cost less accumulated depreciation. Depreciation is computed primarily by use of the straight-line method for furniture, fixtures, equipment, autos and premises.
+
+[VERBATIM — Changement de politique]
+, management did not, and does not currently, believe such securities will be settled at a price less than the amortized cost of the investment, but the Company previously concluded that it was probable that there had been an adverse change in estimated cash flows for
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

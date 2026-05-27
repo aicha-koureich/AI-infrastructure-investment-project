@@ -1,0 +1,21 @@
+FIRM         : EFX (CIK 0000033185) | FY2024
+FILE         : 0000033185_EFX_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : data processing equipment and capitalized internal-use software and systems costs
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation and amortization. Property and equipment are depreciated on a straight-line basis over the assets’ estimated useful lives, which are generally three to seven years for data processing equipment and capitalized internal-use software and systems costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cost of Services. Cost of services consist primarily of (1) data acquisition, royalty fees and revenue share, which represents the cost of amounts owed to our partners for records utilized; (2) costs to collect information to update and maintain our proprietary databases; (3) costs to develop and maintain product application fulfillment platforms; (4) costs to provide consumer and customer support, including call centers; (5) hardware and software expense associated with transaction processing systems; (6) telecommunication, cloud computing and computer network expense; and (7) occupancy costs associated with facilities where these functions are performed by Equifax employees. ||| Cost of services consist primarily of (1) data acquisition, royalty fees and revenue share, which represents the cost of amounts owed to our partners for records utilized; (2) costs to collect information to update and maintain our proprietary databases; (3) costs to develop and maintain product application fulfillment platforms; (4) costs to provide consumer and customer support, including call centers; (5) hardware and software expense associated with transaction processing systems; (6) telecommunication, cloud computing and computer network expense; and (7) occupancy costs associated with facilities where these functions are performed by Equifax employees. ||| Under our agreement with Google, we have agreed to purchase cloud platform services and cloud marketplace software and we have outsourced certain areas of our network and security infrastructure. The estimated future minimum contractual obligation under the agreement is approximately $840 million for the remaining term, with no individual year’s minimum expected to exceed approximately $228 million. We may terminate certain portions of this agreement without penalty in the event that Google is in material breach of the terms of the agreement. During 2024, 2023 and 2022, we paid approximately $198 million, $171 million and $152 million, respectively, for these services.

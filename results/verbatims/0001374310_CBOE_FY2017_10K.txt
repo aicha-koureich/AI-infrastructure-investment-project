@@ -1,0 +1,20 @@
+FIRM         : CBOE (CIK 0001374310) | FY2017
+FILE         : 0001374310_CBOE_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(9) Property and Equipment, Net Property and equipment consisted of the following as of December 31, 2017 and 2016 (in millions): December 31, December 31, 2017 2016 Construction in progress $ 5.9 $ 0.2 Building 77.4 77.0 Furniture and Equipment 139.7 138.8 Total property and equipment 223.0 216.0 Less accumulated depreciation (149.1) (160.1) Property and equipment, net $ 73.9 $ 55.9 Depreciation expense using the straight-line method was $31.3 million, $24.0 million and $46.1 million for the years ended December 31, 2017, 2016 and 2015, respectively. (10) Other Assets, Net Other assets, net consisted of the following as of December 31, 2017 and 2016 (in millions): December 31, December 31, 2017 2016 Software development work in progress $ 10.2 $ 12.3 Data processing software 220.0 222.6 Less accumulated depreciation and amortization (189.6) (172.0) Data processing software, net 40.6 62.9 Other assets (1) 18.9 9.8 Data processing software and other assets, net $ 59.5 $ 72.7 (1) At December 31, 2016, other assets included $6.2 million of deferred financing costs and $3.5 million of deferred tax assets. Amortization expense related to data processing software was $17.9 million, $18.7 million, and $0.0 million for the years ended December 31, 2017, 2016, and 2015.
+
+[VERBATIM — Infrastructure IA]
+The Company currently leases office space, data centers and remote network operations centers, with lease terms remaining ranging from three months to one hundred months as of December 31, 2017. Total rent expense related to these lease obligations, reflected in technology support services and facilities costs line items on the consolidated statements of income, for the years ended December 31, 2017, 2016, and 2015 were $7.6 million, $4.4 million and $4.1 million, respectively.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

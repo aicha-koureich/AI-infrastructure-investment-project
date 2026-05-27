@@ -1,0 +1,20 @@
+FIRM         : AAOI (CIK 0001158114) | FY2018
+FILE         : 0001158114_AAOI_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We are a leading, vertically integrated provider of fiber-optic networking products. We target four networking end-markets: internet data centers, CATV, telecom and FTTH. We design and manufacture a range of optical communications products at varying levels of integration, from components, subassemblies and modules to complete turn-key equipment. In designing products for our customers, we begin with the fundamental building blocks of lasers and laser components. From these foundational products, we design and manufacture a wide range of products to meet our customers’ needs and specifications, and such products differ from each other by their end market, intended use and level of integration. We are primarily focused on the higher-performance segments within the internet data center, CATV, telecom and FTTH markets which increasingly demand faster connectivity and innovation. Our vertically integrated manufacturing model provides us several advantages, including rapid product development, fast response times to customer requests and control over product quality and manufacturing costs.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+The four end markets we target are all driven by significant bandwidth demand fueled by the growth of network-connected devices, video traffic, cloud computing and online social networking. Within the internet data center market, we benefit from the increasing use of higher-capacity optical networking technology as a replacement for copper cables, particularly as speeds reach 10 Gbps and above , as well as the movement to open internet data center architectures and the increasing use of in-house equipment design among leading internet companies. Within the CATV market, we benefit from a number of ongoing trends including the global build-out of CATV infrastructure, the move to higher bandwidth networks among CATV service providers and the outsourcing of system design among CATV networking equipment companies. In the FTTH market, we benefit from continuing PON deployments and system upgrades among telecommunication service providers. In the telecom market, we benefit from deployment of new high-speed fiber-optic networks by telecom network operators.

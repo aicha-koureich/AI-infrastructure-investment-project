@@ -1,0 +1,20 @@
+FIRM         : NSIT (CIK 0000932696) | FY2023
+FILE         : 0000932696_NSIT_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Included within the buildings and equipment values presented above for 2023 are assets in the process of being readied for use in the amounts of approximately $11,200,000 and $1,500,000, respectively. Included within the software and buildings values presented above for 2022 are assets in the process of being readied for use in the amounts of approximately $3,532,000 and $3,346,000, respectively. Depreciation on these assets will commence, as appropriate, when they are ready for use and placed in service.
+
+[VERBATIM — Infrastructure IA]
+Selling and Administrative Expenses. Selling and administrative expenses increased $19.6 million in 2023 compared to 2022. Selling and administrative expenses also increased approximately 180 basis points as a percentage of net sales in 2023 compared to 2022. The overall net increase in expenses reflects a $7.3 million increase in personnel costs, including teammate benefits, and a $19.8 million increase in other expenses, year over year. The increase in personnel costs reflects increases in overall teammate headcount from the acquisitions of Amdaris and SADA. The increase in other expenses is partially due to costs incurred related to a third-party data center service outage, net of recoveries of $5.0 million and an increase of $4.2 million in transformation costs incurred and paid to third parties in 2023 compared to 2022. On July 29, 2023, a third-party data center that hosts network environments for certain Insight managed services clients, experienced a security incident that resulted in a service outage at the data center. The incident did not impact any of Insights' information systems, credentials, or data. To support our clients that were impacted, the Company paid for certain equipment and services required to resolve the outage. Transformation costs are costs we incur to transform our business to help us achieve our strategic objectives, including becoming a leading solutions integrator. We expect to continue to incur further transformation costs in 2024; however, these costs are unique in nature and are not expected to recur in the longer term. Depreciation and amortization expense also increased $6.2 million, year over year, primarily as a result of the Amdaris and SADA acquisitions. These increases were partially offset by decreases in legal and professional fees of $8.3 million and marketing costs of $3.1 million.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+• In December 2023, we acquired SADA to strengthen our digital transformation capabilities and accelerate the growth of our cloud services and solutions. ||| In December 2023, we acquired SADA to strengthen our digital transformation capabilities and accelerate the growth of our cloud services and solutions. ||| • a purchase commitment related to cloud services of $95.8 million that must be met by September 2029;

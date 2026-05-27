@@ -1,0 +1,26 @@
+FIRM         : TTC (CIK 0000737758) | FY2014
+FILE         : 0000737758_TTC_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2014
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Machinery and equipment, Computer hardware, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+​ ​ ​ ​ ​ ​ ​ ​ 2014 2013 ​ ​ ​ ​ ​ ​ ​ ​ Land and land improvements $ 32,731 $ 27,632 Buildings and leasehold improvements 156,374 133,866 Machinery and equipment 305,131 284,492 Tooling 177,704 173,039 Computer hardware and software 77,395 73,302 Construction in process 10,857 29,173 ​ ​ ​ ​ ​ ​ ​ ​ Subtotal 760,192 721,504 Less: accumulated depreciation 554,997 536,408 ​ ​ ​ ​ ​ ​ ​ ​ Total property, plant, and equipment, net $ 205,195 $ 185,096 ​ ​ ​ ​ ​ ​ ​ ​
+
+[VERBATIM — Changement de politique]
+The company provides for depreciation of plant and equipment utilizing the
+straight-line method over the estimated useful lives of the assets. Buildings, including leasehold improvements, are generally depreciated over 10 to 45 years, and equipment over two to seven
+years. Software and web site development costs are generally amortized over two to five years utilizing
+the straight-line method.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

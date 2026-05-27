@@ -1,0 +1,21 @@
+FIRM         : PLTR (CIK 0001321655) | FY2022
+FILE         : 0001321655_PLTR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 5. Balance Sheet Components
+ASSET CAT.   : Computer equipment, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+As of December 31, 2022 2021 Leasehold improvements $ 80,378 $ 72,834 Computer equipment, software, and other 52,688 16,916 Furniture and fixtures 13,010 8,358 Construction in progress 5,506 3,126 Total property and equipment, gross 151,582 101,234 Less: accumulated depreciation and amortization (82,412) (69,930) Total property and equipment, net $ 69,170 $ 31,304
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Our Palantir Cloud subscriptions grant customers the right to access the software functionality in a hosted environment controlled by Palantir and are also sold together with stand-ready O&M services. We promise to provide continuous access to the hosted software throughout the contract term. Revenue associated with Palantir Cloud subscriptions is generally recognized over the contract term on a ratable basis, which is consistent with the transfer of control of the Palantir Cloud services to the customer.

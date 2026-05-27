@@ -1,0 +1,20 @@
+FIRM         : TRIP (CIK 0001526520) | FY2014
+FILE         : 0001526520_TRIP_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue consists of expenses that are directly related or closely correlated to revenue generation, including direct costs, such as ad serving fees, flight search fees, transaction fees and data center costs. In addition, cost of revenue includes personnel and overhead expenses, including salaries, benefits, stock-based compensation and bonuses for certain customer support personnel who are directly involved in revenue generation.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

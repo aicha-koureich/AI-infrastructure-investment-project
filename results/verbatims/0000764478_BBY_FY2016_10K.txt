@@ -1,0 +1,20 @@
+FIRM         : BBY (CIK 0000764478) | FY2016
+FILE         : 0000764478_BBY_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : 2.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Costs associated with the acquisition or development of software for internal use are capitalized and amortized over the expected useful life of the software, generally from two to seven years. A subsequent addition, modification or upgrade to internal-use software is capitalized to the extent that it enhances the software's functionality or extends its useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : OFG (CIK 0001030469) | FY2014
+FILE         : 0001030469_OFG_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 27 – OFG
+BANCORP (HOLDING COMPANY ONLY) FINANCIAL INFORMATION
+ASSET CAT.   : Furniture and fixtures, Information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Useful Life December 31, (Years) 2014 2013 (In thousands) Land — $ 5,680 $ 5,680 Buildings and improvements 40 65,430 63,594 Leasehold improvements 5 — 10 23,000 23,031 Furniture and fixtures 3 — 7 12,739 12,203 Information technology and other 3 — 7 26,422 24,876 133,271 129,384 Less: accumulated depreciation and amortization (52,672) (46,481) $ 80,599 $ 82,903
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

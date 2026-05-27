@@ -1,0 +1,21 @@
+FIRM         : MYRG (CIK 0000700923) | FY2014
+FILE         : 0000700923_MYRG_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Commercial and Industrial segment . We have provided electrical contracting services for C&I construction in the western United States since 1912. Our C&I segment provides services such as the design, installation, maintenance and repair of commercial and industrial wiring, installation of traffic networks and the installation of bridge, roadway and tunnel lighting. Our C&I operations are primarily in the western United States where we have sufficient scale to deploy the level of resources necessary to achieve significant market share. We concentrate our efforts on projects where our technical and
+project management expertise are critical to successful and timely execution. Typical C&I contracts cover electrical contracting services for airports, hospitals, data centers, hotels, stadiums, convention centers, manufacturing plants, processing facilities, waste-water treatment facilities, mining facilities and transportation control and management systems.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

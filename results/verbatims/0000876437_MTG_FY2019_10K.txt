@@ -1,0 +1,20 @@
+FIRM         : MTG (CIK 0000876437) | FY2019
+FILE         : 0000876437_MTG_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 18
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+MGIC INVESTMENT CORPORATION AND SUBSIDIARIES CONSOLIDATED BALANCE SHEETS December 31, (In thousands) Note 2019 2018 Assets Investment portfolio: 5 / 6 Fixed income, available-for-sale, at fair value (amortized cost, 2019 - $5,562,550; 2018 - $5,196,784) $ 5,737,892 $ 5,151,987 Equity securities, at fair value (cost, 2019 - $17,188; 2018 - $3,993) 17,328 3,932 Other invested assets, at cost 3,100 3,100 Total investment portfolio 5,758,320 5,159,019 Cash and cash equivalents 161,847 151,892 Restricted cash and cash equivalents 7,209 3,146 Accrued investment income 49,705 48,001 Reinsurance recoverable on loss reserves 9 21,641 33,328 Reinsurance recoverable on paid losses 9 1,521 2,948 Premiums receivable 55,587 55,090 Home office and equipment, net 50,121 51,734 Deferred insurance policy acquisition costs 18,531 17,888 Deferred income taxes, net 12 5,742 69,184 Other assets 99,347 85,572 Total assets $ 6,229,571 $ 5,677,802 Liabilities and shareholders' equity Liabilities: Loss reserves 8 $ 555,334 $ 674,019 Unearned premiums 380,302 409,985 Federal Home Loan Bank Advance 7 155,000 155,000 Senior notes 7 420,867 419,713 Convertible junior subordinated debentures 7 256,872 256,872 Other liabilities 151,962 180,322 Total liabilities 1,920,337 2,095,911 Contingencies 17 Shareholders' equity: 13 Common stock (one dollar par value, shares authorized 1,000,000; shares issued 2019 - 371,353; 2018 - 371,353; outstanding 2019 - 347,308; 2018 - 355,371 ) 371,353 371,353 Paid-in capital 1,869,719 1,862,536 Treasury stock (shares at cost 2019 - 24,045; 2018 - 15,982) (283,196 ) (175,059 ) Accumulated other comprehensive income (loss), net of tax 10 72,708 (124,214 ) Retained earnings 2,278,650 1,647,275 Total shareholders' equity 4,309,234 3,581,891 Total liabilities and shareholders' equity $ 6,229,571 $ 5,677,802
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

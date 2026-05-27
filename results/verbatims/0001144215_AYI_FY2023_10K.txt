@@ -1,0 +1,20 @@
+FIRM         : AYI (CIK 0001144215) | FY2023
+FILE         : 0001144215_AYI_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-08-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 16 — Supplemental Disaggregated Information
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Year Ended August 31, 2023 2022 2021 Cash flows from operating activities: Net income $ 346.0 $ 384.0 $ 306.3 Adjustments to reconcile net income to cash flows from operating activities: Depreciation and amortization 93.2 94.8 100.1 Share-based payment expense 42.0 37.4 32.5 Gain on the sale or disposal of property, plant, and equipment — (2.3) (0.1) Asset impairments 20.8 1.7 6.0 Loss on sale of a business 11.2 — — Deferred income taxes (47.8) 0.6 (2.7) Changes in operating assets and liabilities, net of acquisitions Accounts receivable 114.6 (99.7) (68.7) Inventories 115.2 (83.3) (35.5) Prepayments and other current assets 21.4 (17.6) (18.2) Accounts payable (110.5) 2.6 65.5 Other (28.0) (1.9) 23.5 Net cash provided by operating activities 578.1 316.3 408.7 Cash flows from investing activities: Purchases of property, plant, and equipment (66.7) (56.5) (43.8) Proceeds from sale of property, plant, and equipment — 8.9 4.7 Acquisitions of businesses, net of cash acquired (35.5) (12.9) (75.3) Other investing activities 11.5 (1.7) (3.5) Net cash used for investing activities (90.7) (62.2) (117.9) Cash flows from financing activities: Borrowings on credit facility, net of repayments (18.0) 18.0 — Issuances of long-term debt — — 493.8 Repayments of long-term debt — — (401.1) Repurchases of common stock (266.6) (514.8) (434.9) Proceeds from stock option exercises and other 2.7 12.5 3.2 Payments of taxes withheld on net settlement of equity awards (14.2) (8.6) (4.5) Dividends paid (16.8) (18.1) (19.1) Other financing activities — (1.4) — Net cash used for financing activities (312.9) (512.4) (362.6) Effect of exchange rate changes on cash and cash equivalents 0.2 (9.8) 2.4 Net change in cash and cash equivalents 174.7 (268.1) (69.4) Cash and cash equivalents at beginning of year 223.2 491.3 560.7 Cash and cash equivalents at end of year $ 397.9 $ 223.2 $ 491.3 Supplemental cash flow information: Income taxes paid $ 147.2 $ 109.4 $ 86.4 Interest paid $ 27.9 $ 26.1 $ 22.2
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

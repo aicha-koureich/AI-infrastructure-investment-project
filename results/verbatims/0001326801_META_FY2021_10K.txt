@@ -1,0 +1,24 @@
+FIRM         : META (CIK 0001326801) | FY2021
+FILE         : 0001326801_META_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, we extended the estimated average useful lives of selected cohorts of servers and network assets from
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 4.0 ans
+
+[VERBATIM — Durée de vie]
+In connection with our periodic reviews of the estimated useful lives of property and equipment, we extended the estimated average useful lives of selected cohorts of servers and network assets from three years to four years in prior years as well as in 2021 as a result of longer refresh cycles in our data centers.
+
+[VERBATIM — Changement de politique]
+In connection with our periodic reviews of the estimated useful lives of property and equipment, we extended the estimated average useful lives of selected cohorts of servers and network assets from three years to four years in prior years as well as in 2021 as a result of longer refresh cycles in our data centers.
+
+[VERBATIM — Infrastructure IA]
+In connection with our periodic reviews of the estimated useful lives of property and equipment, we extended the estimated average useful lives of selected cohorts of servers and network assets from three years to four years in prior years as well as in 2021 as a result of longer refresh cycles in our data centers. Prior year changes individually or in aggregate did not have a material impact to the consolidated financial statements. The effect of the 2021 changes was a reduction in depreciation expense of $620 million and an increase in net income of $516 million, or $0.18 per diluted share for the year ended December 31, 2021. The impact from the changes in our estimates was calculated based on the asset bases existing as of the effective dates of the changes and applying the revised estimated useful lives prospectively.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

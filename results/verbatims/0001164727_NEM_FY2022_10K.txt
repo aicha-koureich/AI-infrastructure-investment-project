@@ -1,0 +1,20 @@
+FIRM         : NEM (CIK 0001164727) | FY2022
+FILE         : 0001164727_NEM_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Expenditures for new facilities or equipment and expenditures that extend the useful lives of existing facilities or equipment are capitalized and recorded at cost. The facilities and equipment are depreciated using the straight-line method at rates sufficient to depreciate such capitalized costs over the estimated productive lives of such facilities.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

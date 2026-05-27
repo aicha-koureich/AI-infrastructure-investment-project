@@ -1,0 +1,39 @@
+FIRM         : CLSK (CIK 0000827876) | FY2019
+FILE         : 0000827876_CLSK_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 2. SUMMARY OF
+SIGNIFICANT POLICIES
+ASSET CAT.   : our current product offerings
+DURÉE        : 7.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Commencing upon a product's
+release, capitalized software development costs are amortized to "Cost of revenues—software amortization " based
+on the ratio of current revenues to total projected revenues for the specific product, generally resulting in an amortization period
+of seven years for our current product offerings.
+
+[VERBATIM — Changement de politique]
+In August 2018, the FASB
+issued ASU 2018-15, "Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for
+Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract," which allows for the capitalization
+of certain implementation costs incurred in a hosting arrangement that is a service contract. ASU 2018-15 allows for either retrospective
+adoption or prospective adoption to all implementation costs incurred after the date of adoption. ASU 2018-15 is effective for
+fiscal years beginning after December 15, 2019. We are currently evaluating the impact the adoption of this new standard will have
+on our financial position and results of operations.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB
+issued ASU 2018-15, "Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for
+Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract," which allows for the capitalization
+of certain implementation costs incurred in a hosting arrangement that is a service contract. ASU 2018-15 allows for either retrospective
+adoption or prospective adoption to all implementation costs incurred after the date of adoption. ASU 2018-15 is effective for
+fiscal years beginning after December 15, 2019. We are currently evaluating the impact the adoption of this new standard will have
+on our financial position and results of operations.

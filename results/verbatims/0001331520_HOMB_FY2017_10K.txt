@@ -1,0 +1,26 @@
+FIRM         : HOMB (CIK 0001331520) | FY2017
+FILE         : 0001331520_HOMB_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Nature of Operations and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Bank premises and equipment are carried at cost or fair market value at the date of acquisition less accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+For the year ended December 31, 2017,
+the Company had approximately $5.3 million in unrealized losses, which were in continuous loss positions for more than twelve months. Excluding impairment write downs taken in prior periods, the Company’s assessments indicated that the
+cause of the market depreciation was primarily the change in interest rates and not the issuer’s financial condition, or downgrades by rating agencies. In addition, approximately 76.6% of the Company’s investment portfolio matures in five
+years or less. As a result, the Company has the ability and intent to hold such securities until maturity.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : BCO (CIK 0000078890) | FY2019
+FILE         : 0000078890_BCO_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 26 – Subsequent Events
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amortization of capitalized software costs included in continuing operations was $15.7 million in 2019 , $16.5 million in 2018 and $20.5 million in 2017 .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

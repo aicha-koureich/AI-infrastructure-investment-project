@@ -1,0 +1,21 @@
+FIRM         : ELV (CIK 0001156039) | FY2016
+FILE         : 0001156039_ELV_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans | 7.0 ans | 30.0-9.0 ans
+
+[VERBATIM — Durée de vie]
+Certain costs related to the development or purchase of internal-use software are capitalized and amortized over
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement ||| , or ASU 2015-05. This update provides guidance to help entities determine whether a cloud computing arrangement contains a software license that should be accounted for as internal-use software or as a service contract. ASU 2015-05 became effective January 1, 2016 and we elected to adopt the provisions of the new guidance prospectively to all arrangements entered into or materially modified on or after January 1, 2016. The adoption of ASU 2015-05 did not have an impact on our consolidated financial position, results of operations or cash flows. ||| In April 2015, the FASB issued Accounting Standards Update No. 2015-05, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement , or ASU 2015-05. This update provides guidance to help entities determine whether a cloud computing arrangement contains a software license that should be accounted for as internal-use software or as a service contract. ASU 2015-05 became effective January 1, 2016 and we elected to adopt the provisions of the new guidance prospectively to all arrangements entered into or materially modified on or after January 1, 2016. The adoption of ASU 2015-05 did not have an impact on our consolidated financial position, results of operations or cash flows.

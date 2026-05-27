@@ -1,0 +1,20 @@
+FIRM         : DT (CIK 0001773383) | FY2023
+FILE         : 0001773383_DT_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 5. Recognition of revenue when, or as a performance obligation is satisfied
+ASSET CAT.   : equipment, capitalized software, technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Cost of subscription revenue includes all direct costs to deliver the Company’s subscription products including salaries, benefits, share-based compensation and related expenses, such as employer taxes, third-party hosting fees related to the Company’s cloud services, allocated overhead for depreciation of equipment, facilities, IT, and amortization of internally developed capitalized software technology.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cost of subscription . Cost of subscription revenue includes all direct costs to deliver and support our subscription products, including salaries, benefits, bonuses, share-based compensation and related expenses such as employer taxes, third-party hosting fees related to our cloud services, allocated overhead for depreciation of equipment, facilities, and IT, and amortization of internally developed capitalized software technology. We recognize these expenses as they are incurred. ||| . Cost of subscription revenue includes all direct costs to deliver and support our subscription products, including salaries, benefits, bonuses, share-based compensation and related expenses such as employer taxes, third-party hosting fees related to our cloud services, allocated overhead for depreciation of equipment, facilities, and IT, and amortization of internally developed capitalized software technology. We recognize these expenses as they are incurred.

@@ -1,0 +1,24 @@
+FIRM         : ANGI (CIK 0001705110) | FY2017
+FILE         : 0001705110_ANGI_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 19—QUARTERLY RESULTS (UNAUDITED)
+ASSET CAT.   : Computer equipment, capitalized software, Furniture, equipment
+DURÉE        : 2.0-3.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-3.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Asset Category Estimated Useful Lives Computer equipment and capitalized software 2 to 3 Years Furniture and other equipment 5 to 7 Years Buildings and leasehold improvements 5 to 25 Years
+
+[VERBATIM — Changement de politique]
+Year Ended December 31, 2017 Operating loss Stock-based compensation Depreciation Amortization of intangibles Adjusted EBITDA (In thousands) North America $ (128,483 ) $ 147,574 $ 13,243 $ 17,848 $ 50,182 Europe (19,388 ) 1,656 1,300 5,413 (11,019 ) Total (147,871 ) $ 149,230 $ 14,543 $ 23,261 $ 39,163 Interest expense—third party (1,765 ) Interest expense—related party (5,971 ) Other income, net 1,974 Loss before income taxes (153,633 ) Income tax benefit 49,106 Net loss (104,527 ) Net loss attributable to noncontrolling interests 1,409 Net loss attributable to ANGI Homeservices Inc. shareholders $ (103,118 )
+
+[VERBATIM — Infrastructure IA]
+We lease office space, data center facilities and equipment used in connection with our operations under various operating leases, the majority of which contain escalation clauses. In March 2017, we entered into a new 10.5-year lease for our call center in New York and a new 10.5-year lease for our corporate headquarters in Denver, Colorado.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

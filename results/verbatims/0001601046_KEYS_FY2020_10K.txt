@@ -1,0 +1,20 @@
+FIRM         : KEYS (CIK 0001601046) | FY2020
+FILE         : 0001601046_KEYS_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2020
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Europe. In 2020 revenue remained flat, primarily driven by continued investments in 5G across the design lifecycle from development to deployment, offset by COVID-19 related site closures and supply chain disruptions. We continue to see investments in 5G, fueled by the ongoing redesign of every aspect of communications systems, including wireless access, infrastructure, wireline technologies, data centers and the cloud. Revenue from the commercial communications market represented approximately 69 percent of total Communications Solutions Group revenue in 2019 and increased 18 percent year over year, with growth in Asia Pacific and the Americas, partially offset by a decline in Europe. In 2019 revenue growth was primarily driven by increased 5G investment across the wireless ecosystem and growth in data-center-related next-generation 400 gigabit Ethernet and higher digital test.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : DLB (CIK 0001308547) | FY2013
+FILE         : 0001308547_DLB_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 16. Legal Proceedings
+ASSET CAT.   : Machinery and equipment, Computer systems, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+September 27, 2013 September 28, 2012 Land $46,049 $48,227 Buildings 32,305 27,266 Leasehold improvements 64,991 68,352 Machinery and equipment 38,408 29,070 Computer systems and software 91,939 86,266 Furniture and fixtures 13,490 13,158 Construction in progress 88,872 79,965 376,054 352,304 Less: accumulated depreciation (133,137) (97,628) Property, plant and equipment, net $242,917 $254,676
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

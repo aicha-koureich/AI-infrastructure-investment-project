@@ -1,0 +1,20 @@
+FIRM         : WOLF (CIK 0000895419) | FY2018
+FILE         : 0000895419_WOLF_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 24, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5 – Financial Statement Details
+ASSET CAT.   : Furniture and fixtures, Machinery and equipment, Computer hardware, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+June 24, 2018 June 25, 2017 Furniture and fixtures $14,175 $14,567 Land and buildings 439,534 399,305 Machinery and equipment 1,229,857 1,185,119 Aircraft and vehicles 2,013 11,138 Computer hardware/software 54,024 46,677 Leasehold improvements and other 8,171 6,972 Construction in progress 211,758 162,450 Property and equipment, gross 1,959,532 1,826,228 Accumulated depreciation (1,298,213 ) (1,244,965 ) Property and equipment, net $661,319 $581,263
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

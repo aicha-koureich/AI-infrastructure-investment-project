@@ -1,0 +1,21 @@
+FIRM         : EXTR (CIK 0001078271) | FY2019
+FILE         : 0001078271_EXTR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-08-09
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, computer equipment, office equipment, furniture and fixtures
+DURÉE        : 1.0-4.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-4.0 ans | 2.0-10.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation and amortization. Estimated useful lives of one to four years are used for computer equipment and software. Estimated useful lives of three to seven years are used for office equipment, furniture and fixtures.
+
+[VERBATIM — Infrastructure IA]
+Data Center Business  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+A trend affecting the Enterprise Network Equipment market is the continued adoption of the cloud-managed enterprise WLAN in the enterprise market. Hybrid cloud is a cloud computing environment which uses a mix of on-premises, private cloud, and third-party, public cloud services with orchestration between the two platforms. We introduced our Cloud offering in 2016 and in August 2019 acquired Aerohive Networks, Inc to enhance our Cloud strategy with a 3 rd generation Cloud platform and to accelerate adoption of hybrid cloud networking solutions in the Enterprise. Extreme’s enhanced Cloud solution will be the only offering in the market that seamlessly integrates the cloud with on-premises infrastructures and enables visibility from the edge to everywhere. See Part 1, Item 1. Business, for additional discussion of our business. ||| Product revenue decreased $16.9 million or 2.2% for the year ended June 30, 2019, compared to the corresponding period of fiscal 2018. The decrease in product revenues was driven primarily by a lower overall volume of sales in the Americas attributed to our Data Center Business, but with strengthening sales in our Federal and OEM Data Center sectors. To a lesser extent, there was a modest decrease in product revenue in APAC, and revenue remained consistent in the EMEA region. ||| Service revenue increased $29.5 million or 13.5% for the year ended June 30, 2019, compared to the corresponding period of fiscal 2018. The increase in service revenue was driven primarily by growth across all regions owing to a higher number of maintenance contracts related to the Data Center Business acquisition .

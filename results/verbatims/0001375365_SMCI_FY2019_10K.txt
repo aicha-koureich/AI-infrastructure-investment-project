@@ -1,0 +1,20 @@
+FIRM         : SMCI (CIK 0001375365) | FY2019
+FILE         : 0001375365_SMCI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Intel_Xeon;NVIDIA (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are amortized using the straight-line amortization method over the estimated useful life of the applicable software.
+
+[VERBATIM — Infrastructure IA]
+We are a global leader and innovator of high-performance, high-efficiency server and storage technology. We develop and provide end-to-end green computing solutions to the cloud computing, data centers, enterprise, big data, AI, HPC, edge computing and IoT markets. Our solutions range from complete server, storage, modular blade servers, blades and workstations to full racks, networking devices, server management software, server sub-systems and global support and services.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+We are a global leader and innovator of high-performance, high-efficiency server and storage technology. We develop and provide end-to-end green computing solutions to the cloud computing, data centers, enterprise, big data, AI, HPC, edge computing and IoT markets. Our solutions range from complete server, storage, modular blade servers, blades and workstations to full racks, networking devices, server management software, server sub-systems and global support and services. ||| in net sales in the United States as a percentage of total net sales was primarily due to the higher sales of our server and storage systems to our direct customers and OEMs. The year-over-year decrease in net sales in Asia as a percentage of total net sales was due primarily to decreased sales through our indirect sales channel in China, partially offset by increased sales in Taiwan to enterprise datacenter customers. The increased percentage of net sales in Europe was primarily due to higher sales in the Netherlands to enterprise and cloud computing customers. ||| The period-over-period substantial increase in our net sales in fiscal year 2018, as compared to fiscal year 2017, reflects our continued trend of concentrating our efforts on selling server and storage systems to larger customers such as internet data center and cloud computing and enterprise customers and a stronger industry-wide market for server and storage solutions.

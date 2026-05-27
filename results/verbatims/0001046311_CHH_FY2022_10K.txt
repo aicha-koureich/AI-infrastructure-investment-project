@@ -1,0 +1,21 @@
+FIRM         : CHH (CIK 0001046311) | FY2022
+FILE         : 0001046311_CHH_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are generally recorded at cost and depreciated for financial reporting purposes using the straight-line method over the estimated useful lives of the assets. Costs for computer software developed for internal use are capitalized during the application development stage and amortized using the straight-line method over the estimated useful lives of the software. Software licenses pertaining to cloud computing arrangements that are capitalized are amortized using the straight-line method over the shorter of the cloud computing arrangement term or their useful lives.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Property and equipment are generally recorded at cost and depreciated for financial reporting purposes using the straight-line method over the estimated useful lives of the assets. Leasehold improvements are amortized over the shorter of the lease term or their useful lives. Major renovations and replacements incurred during construction are capitalized. Costs for computer software developed for internal use are capitalized during the application development stage and amortized using the straight-line method over the estimated useful lives of the software. Software licenses pertaining to cloud computing arrangements that are capitalized are amortized using the straight-line method over the shorter of the cloud computing arrangement term or their useful lives. The Company capitalizes interest incurred during construction and development of property and equipment, including software. Interest capitalized as a cost of property and equipment totaled $2.0 million and $0.7 million during the years ended December 31, 2022 and 2021, respectively.

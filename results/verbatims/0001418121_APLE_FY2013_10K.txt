@@ -1,0 +1,24 @@
+FIRM         : APLE (CIK 0001418121) | FY2013
+FILE         : 0001418121_APLE_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : buildings
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is computed using the straight-line method over average estimated useful lives of the assets, which are 39 years for buildings, 17 years for franchise fees, ten years for major improvements and three to seven years for furniture and equipment.
+
+[VERBATIM — Changement de politique]
+Funds from operations (FFO) is defined as net income (computed in accordance with generally accepted accounting principles — GAAP) excluding gains and losses from sales of depreciable property, plus depreciation and amortization. Modified FFO (MFFO) excludes rental revenue earned, but not received during the period or straight-line rental income, costs associated with the acquisition of real estate and costs associated with merger transactions and includes interest on a note receivable that was not included in net income until the gain on sale was recognized in 2013 (which is excluded from FFO) in the period earned. The Company considers FFO and MFFO in evaluating property acquisitions and its operating performance and believes that FFO and MFFO should be considered along with, but not as an alternative to, net income and cash flows as a measure of the Company’s activities in accordance with GAAP. The Company considers FFO and MFFO as supplemental measures of operating performance in the real estate industry, and along with the other financial measures included in this Form 10-K, including net income, cash flow from operating activities, financing activities and investing activities, they provide investors with an indication of the performance of the Company. The Company's definition of FFO and MFFO are not necessarily the same as such terms that are used by other companies. FFO and MFFO are not necessarily indicative of cash available to fund cash needs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

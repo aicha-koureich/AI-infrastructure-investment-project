@@ -1,0 +1,20 @@
+FIRM         : IOSP (CIK 0001054905) | FY2020
+FILE         : 0001054905_IOSP_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 7. Leases
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS—(Continued) Supplemental balance sheet information related to leases is as follows: (in millions except lease term and discount rate) December 31 2020 December 31 2019 Operating leases: Operating lease right-of-use assets $ 40.1 $ 32.4 Current portion of operating lease liabilities $ 11.3 $ 10.6 Operating lease liabilities, net of current portion 28.9 21.9 Total operating lease liabilities $ 40.2 $ 32.5 Finance leases: Property, plant and equipment at cost $ 9.0 $ 9.9 Accumulated depreciation (8.0 ) (8.1 )
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

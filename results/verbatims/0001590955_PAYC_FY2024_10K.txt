@@ -1,0 +1,21 @@
+FIRM         : PAYC (CIK 0001590955) | FY2024
+FILE         : 0001590955_PAYC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-21
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Software and capitalized software development costs
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Property and Equipment Property and equipment is stated at cost, net of accumulated depreciation and amortization. Depreciation is computed using the straight line method over the estimated useful lives of the assets as follows: Software and capitalized software development costs 3 years Buildings 30 years Computer equipment 3 years Rental clocks 5 years Furniture, fixtures and equipment 5 years Land improvements 15 years Leasehold improvements 5 years Vehicles 3 years Costs incurred during construction of long-lived assets are recorded as construction in progress and are not depreciated until the asset is placed in service.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

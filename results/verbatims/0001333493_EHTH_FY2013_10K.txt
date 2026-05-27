@@ -1,0 +1,21 @@
+FIRM         : EHTH (CIK 0001333493) | FY2013
+FILE         : 0001333493_EHTH_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 7 – Commitments and Contingencies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+We have entered into service and licensing agreements with third party vendors to provide various services, including network access, equipment maintenance and software licensing. The terms of these services and licensing agreements are generally up to three years. We record the related service and licensing expenses on a straight-line basis, although actual cash payment obligations under certain of these agreements fluctuate over the terms of the agreements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

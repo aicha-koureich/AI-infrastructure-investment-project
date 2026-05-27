@@ -1,0 +1,22 @@
+FIRM         : ATR (CIK 0000896622) | FY2013
+FILE         : 0000896622_ATR_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Generally, the estimated useful lives are 25 to 40 years for buildings and improvements, 3 to 10 years for
+machinery and equipment, and 3 to 7 years for software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

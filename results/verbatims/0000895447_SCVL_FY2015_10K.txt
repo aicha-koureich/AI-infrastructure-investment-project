@@ -1,0 +1,30 @@
+FIRM         : SCVL (CIK 0000895447) | FY2015
+FILE         : 0000895447_SCVL_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 – Summary
+of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 2.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation
+and amortization of property, equipment and leasehold improvements are taken on the straight-line method over the shorter of the
+estimated useful lives of the assets or the applicable lease terms.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued guidance on
+accounting for fees paid in a cloud computing arrangement, which provides guidance to assist entities in determining whether a
+cloud computing arrangement contains a software license. The guidance states that if a cloud computing arrangement includes a software
+license, then the customer should account for the software license element of the arrangement consistent with the acquisition of
+other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for
+the arrangement as a service contract. This guidance is effective for annual reporting periods (including interim reporting periods
+within those periods) beginning after December 15, 2015. Early adoption is permitted. We are evaluating the impact of this guidance
+on our consolidated financial position, results of operations and cash flows.

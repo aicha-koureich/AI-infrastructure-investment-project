@@ -1,0 +1,23 @@
+FIRM         : AES (CIK 0000874761) | FY2016
+FILE         : 0000874761_AES_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+DISCONTINUED OPERATIONS — Effective July 1, 2014, the Company prospectively adopted Accounting Standards Update ("ASU") No. 2014-08, Presentation of Financial Statements (Topic 205) and Property, Plant, and Equipment (Topic 360): Reporting discontinued Operations and Disclosures of Disposals of Components of an Entity , which significantly changed the prior accounting guidance on discontinued operations. Under ASU No. 2014-08, only those disposals of components of an entity that represent a strategic shift that has (or a held-for-sale business that will have) a major effect on an entity's operations and financial results are reported as discontinued operations. Amongst other changes: equity method investments that were previously scoped-out of the discontinued operations accounting guidance are now included in the scope; a business can meet the criteria to be classified as held-for-sale upon acquisition and be reported in discontinued operations; and components where an entity retains significant continuing involvement or where operations and cash flows will not be eliminated from ongoing operations as a result of a disposal transaction can meet the definition of discontinued operations. Additionally, where summarized amounts are presented on the face of the financial statements, reconciliations of those amounts to major classes of line items are also required. ASU No. 2014-08 requires additional disclosures for individually material components that do not meet the definition of discontinued operations. Prior to the adoption of ASU 2014-08 we had classified certain business as discontinued operations that would not meet the criteria under the current standard. See Note 23 — Dispositions for further information.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

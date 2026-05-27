@@ -1,0 +1,24 @@
+FIRM         : APLE (CIK 0001418121) | FY2024
+FILE         : 0001418121_APLE_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : buildings, the remaining life of the lease for finance ground leases (
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization are computed using the straight-line method over the average estimated useful lives of the assets, which are generally 39 years for buildings, the remaining life of the lease for finance ground leases (which in some instances may include renewal options), 10 to 20 years for franchise fees, 10 years for major improvements and three to seven years for furniture and equipment.
+
+[VERBATIM — Changement de politique]
+The Company owns hotel properties throughout the U.S. that generate guest room rental, food and beverage, and other property-related income. There are no foreign operations from which the Company derives revenues and no assets are held in a foreign country. There are no material concentrations of 10% or more of total revenues allocated to a single customer for the reporting periods presented. The CODM separately evaluates the performance, allocates capital resources and manages the overall operating and investing strategy of each of its hotel properties individually; therefore, the Company considers each hotel to be an operating segment. However, because each hotel is not individually significant, serves a similar class and mix of business and leisure customers, has similar economic characteristics and risks, facilities, and services, utilizes similar methods to distribute their products and services through third-party management companies, and is subject to similar regulatory environments, the properties have been combined into a single operating segment for reporting purposes. The CODM, who is the Chief Executive Officer of the Company, assesses the performance of each operating segment on a monthly basis using adjusted hotel earnings (loss) before interest expense, income taxes and depreciation and amortization (“Adjusted Hotel EBITDA”), the measure by which the CODM makes day-to-day operating
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

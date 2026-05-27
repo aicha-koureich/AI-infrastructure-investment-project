@@ -1,0 +1,21 @@
+FIRM         : MDLZ (CIK 0001103982) | FY2021
+FILE         : 0001103982_MDLZ_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies
+ASSET CAT.   : software, which do not exceed
+DURÉE        : 7.0-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.9 ans | 4.4 ans | 6.3 ans | 6.6 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in property, plant and equipment and amortized on a straight-line basis over the estimated useful lives of the software, which do not exceed seven years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

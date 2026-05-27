@@ -1,0 +1,21 @@
+FIRM         : SCOR (CIK 0001158172) | FY2024
+FILE         : 0001158172_SCOR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : software, which is typically assessed to be
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Once this software is ready for use in the Company's products, these costs are amortized on a straight-line basis over the estimated useful life of the software, which is typically assessed to be 3 years. The Company amortized $20.4 million, $18.1 million and $15.1 million in capitalized internal-use software costs during the years ended December 31, 2024, 2023 and 2022, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : MMSI (CIK 0000856982) | FY2014
+FILE         : 0000856982_MMSI_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+. Property and equipment is stated at the historical cost of construction or purchase. Construction costs include interest costs capitalized during construction. Maintenance and repairs of property and equipment are charged to operations as incurred. Leasehold improvements are amortized over the lesser of the base term of the lease or estimated life of the leasehold improvements. Construction-in-process consists of new buildings and various production equipment being constructed internally and externally. Assets in construction-in-process will commence depreciating once the asset has been placed in service. Depreciation is computed using the straight-line method over estimated useful lives as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

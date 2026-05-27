@@ -1,0 +1,23 @@
+FIRM         : LFUS (CIK 0000889331) | FY2016
+FILE         : 0000889331_LFUS_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Pro forma results presented above primarily reflect: (i) incremental depreciation relating to fair value adjustments to property, plant, and equipment; (ii) amortization adjustments relating to fair value estimates of intangible assets; (iii) incremental interest expense on assumed indebtedness; and (iv) additional cost of goods sold relating to the capitalization of gross profit as part of purchase accounting recognized for purposes of the pro forma as if it was recognized during the company’s first quarter of 2015.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

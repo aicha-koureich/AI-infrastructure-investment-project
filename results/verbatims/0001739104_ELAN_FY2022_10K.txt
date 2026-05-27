@@ -1,0 +1,20 @@
+FIRM         : ELAN (CIK 0001739104) | FY2022
+FILE         : 0001739104_ELAN_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 12. Goodwill and Intangibles
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+These costs include software classified as "in process" until the project is substantially complete and the software is ready for its intended purpose, at which point the costs are amortized on a straight-line basis over the estimated useful life. For the years ended December 31, 2022, 2021 and 2020, depreciation expense included software amortization of $65 million, $52 million, and $35 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

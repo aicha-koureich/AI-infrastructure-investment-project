@@ -1,0 +1,20 @@
+FIRM         : PKE (CIK 0000076267) | FY2017
+FILE         : 0000076267_PKE_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 25, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies Park Electrochemical Corp. (“Park”), through its subsidiaries (collectively, the “Company”), is a global
+ASSET CAT.   : equipment, Machinery, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Other balance sheet data Other balance sheet data consisted of the following: February 25, February 26, 2018 2017 Inventories: Raw materials $ 6,826 $ 5,842 Work-in-process 2,005 2,329 Finished goods 2,173 2,585 Manufacturing supplies 152 349 $ 11,156 $ 11,105 Property, plant and equipment: Land, buildings and improvements $ 39,355 $ 39,822 Machinery, equipment, furniture and fixtures 127,045 129,696 166,400 169,518 Less: accumulated depreciation and amortization 149,868 150,880 $ 16,532 $ 18,638 Goodwill and other intangible assets: Goodwill $ 9,776 $ 9,776 Other intangibles 42 49 $ 9,818 $ 9,825 Accrued liabilities: Payroll and payroll related $ 1,263 $ 1,361 Employee benefits 93 147 Workers' compensation 210 154 Professional fees 597 578 Restructuring (Note 8) 2,326 16 Other 892 1,161 $ 5,381 $ 3,417 57 Property, P lant and E quipment – The New England Laminates Co., Inc. building in Newburgh, New York is held for sale.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

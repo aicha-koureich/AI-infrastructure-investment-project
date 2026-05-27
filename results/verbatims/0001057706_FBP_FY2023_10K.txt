@@ -1,0 +1,20 @@
+FIRM         : FBP (CIK 0001057706) | FY2023
+FILE         : 0001057706_FBP_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2022. The Corporation estimates the ACL for these off-balance sheet exposures following the methodology described in Note 1 – “Nature of Business and Summary of Significant Accounting Policies.” As of December 31, 2023, the AC
+ASSET CAT.   : EQUIPMENT, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued) 182 NOTE 6 – PREMISES AND EQUIPMENT Premises and equipment comprise: Useful Life Range In Years As of December 31, Minimum Maximum 2023 2022 (Dollars in thousands) Buildings and improvements 10 35 $ 143,470 $ 135,802 Leasehold improvements 1 10 77,702 76,390 Furniture, equipment and software 2 10 161,886 155,567 383,058 367,759 Accumulated depreciation and amortization (277,853) (264,233) 105,205 103,526 Land 29,965 24,485 Projects in progress 6,846 14,924 Total premises and equipment, net $ 142,016 $ 142,935 Depreciation and amortization expense amounted to $ 20.5 million, $ 22.3 million, and $ 25.0 million for the years ended December 31, 2023, 2022, and 2021, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

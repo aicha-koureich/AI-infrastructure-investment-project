@@ -1,0 +1,20 @@
+FIRM         : MGEE (CIK 0001161728) | FY2021
+FILE         : 0001161728_MGEE_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 22. Segment Information.
+ASSET CAT.   : equipment, Capitalized software
+DURÉE        : 5.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are amortized on a straight-line basis over the estimated useful lives of the assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

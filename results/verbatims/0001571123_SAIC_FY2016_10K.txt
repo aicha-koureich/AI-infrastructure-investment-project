@@ -1,0 +1,20 @@
+FIRM         : SAIC (CIK 0001571123) | FY2016
+FILE         : 0001571123_SAIC_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 3, 2017
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We had net bookings worth an estimated $5.3 billion and $4.3 billion during fiscal 2017 and fiscal 2016, respectively. Fiscal 2017 total backlog has increased from the prior year primarily due to several large awards including the High Performance Computing Modernization Program (HPCMP) Integrated Technical Services (HITS) task order and the Enterprise Applications Service Technologies (EAST) 2 contract.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

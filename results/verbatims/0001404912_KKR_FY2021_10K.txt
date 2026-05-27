@@ -1,0 +1,20 @@
+FIRM         : KKR (CIK 0001404912) | FY2021
+FILE         : 0001404912_KKR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : other fixed assets
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Fixed assets consist primarily of corporate real estate, leasehold improvements, furniture and computer hardware. Such amounts are recorded at cost less accumulated depreciation and amortization and are included in Other Assets within the accompanying consolidated statements of financial condition. Depreciation and amortization are calculated using the straight‑line method over the assets' estimated economic useful lives, which for leasehold improvements are the lesser of the lease term or the life of the asset, for KKR's owner occupied corporate real estate is up to forty years, and three to seven years for other fixed assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

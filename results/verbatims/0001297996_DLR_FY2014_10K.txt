@@ -1,0 +1,20 @@
+FIRM         : DLR (CIK 0001297996) | FY2014
+FILE         : 0001297996_DLR_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Acquisition of a partially-built data center in Groningen, Netherlands for a purchase price of $3.9 million . We paid an additional $2.6 million in October 2013 upon completion of construction by the tenant, with the final payment of $1.4 million made in December 2013.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

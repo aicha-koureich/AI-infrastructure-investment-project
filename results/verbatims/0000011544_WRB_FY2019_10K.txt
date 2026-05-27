@@ -1,0 +1,23 @@
+FIRM         : WRB (CIK 0000011544) | FY2019
+FILE         : 0000011544_WRB_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+In February 2016, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") 2016-02, Leases, which amends the accounting and disclosure guidance for leases. This guidance retains the two classifications of a lease, as either an operating or finance lease, both of which require lessees to recognize a right-of-use asset and a lease liability for leases with terms of more than 12 months. The right-of-use asset and the lease liability are determined based upon the present value of cash flows. Finance leases reflect the financial arrangement by recognizing interest expense on the lease liability separately from the amortization expense of the right-of-use asset. Operating leases recognize lease expense (with no separate recognition of interest expense) on a straight-line basis over the term of the lease. The accounting by lessors is not significantly changed by the updated guidance. The updated guidance was effective for reporting periods beginning after December 15, 2018. As permitted by the rules, the Company adopted the new guidance prospectively effective January 1, 2019. The Company elected to use the practical expedient permitted by the transition guidance which allowed companies to not reassess existing lease classifications for already effective leases. The adoption of this guidance resulted in the recognition of a right-of-use asset of $185 million and a lease liability of $215 million (prior to adoption the Company had a $30 million
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : RDN (CIK 0000890926) | FY2015
+FILE         : 0000890926_RDN_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies
+ASSET CAT.   : equipment, computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment is carried at cost, net of depreciation. For financial statement reporting purposes, computer hardware and software is generally depreciated over
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued an update to the accounting standard for the accounting of internal-use software. The amendments in this update provide guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The provisions of this update are effective for interim and annual periods beginning after December 15, 2015, and early adoption is permitted. We do not expect a material impact to our financial position, results of operations or cash flows from this update.

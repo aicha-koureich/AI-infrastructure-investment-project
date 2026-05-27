@@ -1,0 +1,24 @@
+FIRM         : RGS (CIK 0000716643) | FY2019
+FILE         : 0000716643_RGS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. BUSINESS DESCRIPTION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, furniture and software)
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are carried at cost, less accumulated depreciation and amortization. Depreciation of property and equipment is computed using the straight-line method over their estimated useful asset lives ( 30 to 39 years for buildings, 10 years for improvements and three to ten years for equipment, furniture and software).
+
+[VERBATIM — Changement de politique]
+Expenditures for maintenance and repairs and minor renewals and betterments, which do not improve or extend the life of the respective assets, are expensed. All other expenditures for renewals and betterments are capitalized. The assets and related depreciation and amortization accounts are adjusted for property retirements and disposals with the resulting gain or loss included in operating income. Fully depreciated or amortized assets remain in the accounts until retired from service.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

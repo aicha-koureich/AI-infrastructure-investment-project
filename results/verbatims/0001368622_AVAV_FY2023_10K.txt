@@ -1,0 +1,23 @@
+FIRM         : AVAV (CIK 0001368622) | FY2023
+FILE         : 0001368622_AVAV_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-04-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Organization and Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of property and equipment, including amortization of leasehold improvements, are provided using the straight-line method over the following estimated useful lives:
+
+[VERBATIM — Changement de politique]
+The Company monitors conditions related to these assets to determine whether events and circumstances warrant a revision to the remaining amortization period. The Company tests its intangible assets with finite lives for potential impairment whenever management concludes events or changes in circumstances indicate that the carrying amount may not be recoverable. The original estimate of an asset’s useful life and the impact of an event or circumstance on either an asset’s useful life or carrying value involve significant judgment. Due to the closure of all the Company’s MUAS COCO sites, the Company revised the estimated useful life for the MUAS customer relationships which resulted in accelerated intangible amortization expenses of $34,149,000 during the fiscal year ended April 30, 2023. Additionally, in conjunction with the goodwill impairment test performed during the year ended April 30, 2023, the remaining intangibles in the MUAS reporting unit were tested for recoverability. The asset recoverability test did not result in an impairment for the remaining intangibles in the MUAS reporting unit. Refer to Note 6—Goodwill for further details.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| Implementation costs incurred in a cloud computing arrangement that is a service contract are capitalized and recorded on the consolidated balance sheets in prepaid expenses and other current assets and other assets. The amounts capitalized are amortized on a straight-line basis over the estimated useful life of the service arrangement, which generally range from three to seven years. As of April 30, 2024 and 2023, capitalized costs related to cloud computing arrangements was $15,424,000 and $4,957,000, respectively, net of accumulated amortization of $2,346,000 and $902,000, respectively. Amortization expense related to cloud computing arrangements for the fiscal years ended April 30, 2024, 2023 and 2022 was $1,444,000, $560,000 and $339,000.

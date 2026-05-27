@@ -1,0 +1,21 @@
+FIRM         : LNN (CIK 0000836157) | FY2018
+FILE         : 0000836157_LNN_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Description of Business and Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 8.0-10.0 ans | 12.0 ans
+
+[VERBATIM — Durée de vie]
+Provisions for depreciation and amortization have been computed principally on the straight-line method for property, plant, and equipment. Rates used for depreciation are based principally on the following expected lives: buildings ‑‑ 15 to 30 years; equipment ‑‑ 3 to 7 years; leased barrier transfer machines -- 8 to 10 years; leased barriers -- 12 years; other ‑‑ 2 to 20 years and leasehold improvements – shorter of the economic life or term of the lease.
+
+[VERBATIM — Infrastructure IA]
+iable information of customers and employees, in data centers and on information technology networks. The secure operation of these networks and the processing and maintenance of this information is critical to the Company’s business operations and strate  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The Company also markets patented technology under the FieldNET Advisor ™ product name which delivers information that helps farmers decide precisely when, where and how much to irrigate. This technology combines more than 40 years of crop and irrigation science with FieldNET’s cloud computing capabilities, remote sensing functionality and machine learning to provide farmers with field-specific and crop-specific irrigation recommendations.

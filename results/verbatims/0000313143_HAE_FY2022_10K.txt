@@ -1,0 +1,21 @@
+FIRM         : HAE (CIK 0000313143) | FY2022
+FILE         : 0000313143_HAE_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-06-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment and machinery
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Asset Classification Estimated Useful Lives Building 30-40 Years Building improvements 5-20 Years Plant equipment and machinery 3-15 Years Office equipment and information technology 3-10 Years Haemonetics equipment 3-7 Years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASC Update No. 2018-15, Intangibles, Goodwill and Other - Internal-Use Software (Subtopic 350-40). The new guidance aligns the accounting implementation costs incurred in a cloud computing arrangement that is a service contract with the accounting for internal-use software licenses. The Company adopted ASC Update No. 2018-15 during the first quarter of fiscal 2021. The adoption did not have a material impact on the Company’s consolidated financial statements.

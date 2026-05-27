@@ -1,0 +1,20 @@
+FIRM         : SAFE (CIK 0001095651) | FY2019
+FILE         : 0001095651_SAFE_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3—Summary of Significant Accounting Policies
+ASSET CAT.   : facilities
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is computed using the straight-line method of cost recovery over the estimated useful life, which is generally 40 years for facilities, five years for furniture and equipment, the shorter of the remaining lease term or expected life for tenant improvements and the remaining useful life of the facility for facility improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,24 @@
+FIRM         : ZWS (CIK 0001439288) | FY2013
+FILE         : 0001439288_ZWS_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : computer hardware and software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is provided using the straight-line method over 10 to 30 years for buildings and improvements, 5 to 10 years for machinery and equipment and 3 to 5 years for computer hardware and software.
+
+[VERBATIM — Changement de politique]
+In March 2014, the FASB issued ASU No. 2014-08, Presentation of Financial Statements and Property, Plant, and Equipment: Reporting Discontinued Operations and Disclosures of Disposals of Components of an Entity ("ASU 2014-08"), which changes the criteria for reporting discontinued operations. ASU 2014-08 allows only disposals representing a strategic shift in operations to be presented as discontinued operations. Those strategic shifts should have a major effect on the organization’s operations and financial results. In addition, the new guidance requires expanded disclosures about discontinued operations, as well as pre-tax income attributable to a disposal of a significant part of an organization that does not qualify for discontinued operations reporting. This guidance is effective prospectively for fiscal years and interim periods within those years beginning after December 15, 2014. As this guidance is a prospective change will be adopted in the first quarter of fiscal year 2016, adoption of this standard is not expected to have a material impact on the Company's results of operations, financial position or cash flows.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

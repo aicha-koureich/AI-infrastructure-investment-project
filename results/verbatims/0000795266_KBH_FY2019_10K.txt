@@ -1,0 +1,21 @@
+FIRM         : KBH (CIK 0000795266) | FY2019
+FILE         : 0000795266_KBH_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : November 30, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 20.
+ASSET CAT.   : Equipment, computer software, furniture
+DURÉE        : 2.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-3.0 ans | 2.0-5.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and Equipment and Depreciation. Property and equipment are recorded at cost and are depreciated using the straight-line method over their estimated useful lives as follows: computer software and equipment – two to five years ; model furnishings and sales office improvements – two to three years ; office furniture and equipment – three to ten years ; and leasehold improvements – life of the lease.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

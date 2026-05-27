@@ -1,0 +1,24 @@
+FIRM         : OPRX (CIK 0001448431) | FY2024
+FILE         : 0001448431_OPRX_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING
+POLICIES Basis of Presentation
+ASSET CAT.   : office equipment
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost and
+are being depreciated over their estimated useful lives of three to five years for office equipment and three years for computer equipment
+using the straight-line method of depreciation for book purposes.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

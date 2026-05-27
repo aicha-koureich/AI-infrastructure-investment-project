@@ -1,0 +1,20 @@
+FIRM         : VICR (CIK 0000751978) | FY2021
+FILE         : 0000751978_VICR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We design, develop, manufacture, and market modular power components and power systems for converting electrical power for use in electrically-powered devices. Our competitive position is supported by innovations in product design and achievements in product performance, largely enabled by our focus on the research and development of advanced technologies and processes, often implemented in proprietary semiconductor circuitry, materials, and packaging. Many of our products incorporate patented or proprietary implementations of high-frequency switching topologies enabling power system solutions that are more efficient and much smaller than conventional alternatives. Our strategy emphasizes demonstrable product differentiation and a value proposition based on competitively superior solution performance, advantageous design flexibility, and a compelling total cost of ownership. While we offer a wide range of alternating current (“AC”) and direct current (“DC”) power conversion products, we consider our core competencies to be associated with 48V DC distribution, which offers numerous inherent cost and performance advantages over lower distribution voltages. However, we also offer products addressing other DC voltage standards (e.g., 380V for power distribution in data centers, 110V for rail applications, 28V for military and avionics applications, and 24V for industrial automation).  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+The applications in which our Advanced Products and Brick Products are used are typically in the higher-performance, higher-power segments of the market segments we serve. With our Advanced Products, we generally serve large Original Equipment Manufacturers (“OEMs”), Original Design Manufacturers (“ODMs”), and their contract manufacturers, with sales currently concentrated in the data center and hyperscaler segments of enterprise computing, in which our products are used for voltage distribution on server motherboards, in server racks, and across datacenter infrastructure. We have established a leadership position in the emerging market segment for powering high-performance processors used for acceleration of applications associated with artificial intelligence (“AI”). Our customers in the AI market segment include the leading innovators in processor and accelerator design, as well as early adopters in cloud computing and high performance computing. We also target applications in aerospace and aviation, defense electronics, industrial automation, instrumentation, test equipment, solid state lighting, telecommunications and networking infrastructure, and vehicles (notably in the autonomous driving, electric vehicle, and hybrid vehicle niches of the vehicle segment). With our Brick Products, we generally serve a fragmented base of large and small customers, concentrated in aerospace and

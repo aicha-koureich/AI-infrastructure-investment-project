@@ -1,0 +1,20 @@
+FIRM         : ERIE (CIK 0000922621) | FY2014
+FILE         : 0000922621_ERIE_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 8. Capitalized Software Development Costs
+ASSET CAT.   : computer software, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalization ceases and amortization begins no later than the point at which a computer software project is complete and ready for its intended use. Capitalized software costs are amortized over the estimated useful life of the software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

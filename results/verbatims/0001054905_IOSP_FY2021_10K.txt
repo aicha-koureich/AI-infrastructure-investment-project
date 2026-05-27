@@ -1,0 +1,20 @@
+FIRM         : IOSP (CIK 0001054905) | FY2021
+FILE         : 0001054905_IOSP_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 7. Leases
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS—(Continued) Supplemental cash flow information related to leases is as follows: (in millions) Twelve Months Ended December 31 Twelve Months Ended December 31 2021 2020 Cash paid for amounts included in the measurement of lease liabilities: Operating cash flows from operating leases $ 18.1 $ 15.9 Operating cash flows from finance leases 0.5 1.2 Finance cash flows from finance leases — — Right-of-use assets obtained in exchange for new lease obligations: Operating leases $ 5.2 $ 5.7 Finance leases — — Supplemental balance sheet information related to leases is as follows: (in millions except lease term and discount rate) December 31 2021 December 31 2020 Operating leases: Operating lease right-of-use assets $ 35.4 $ 40.1 Current portion of operating lease liabilities $ 12.4 $ 11.3 Operating lease liabilities, net of current portion 23.1 28.9 Total operating lease liabilities $ 35.5 $ 40.2 Finance leases: Property, plant and equipment at cost $ 5.0 $ 9.0 Accumulated depreciation (4.5 ) (8.0 ) Net property, plant and equipment $ 0.5 $ 1.0 Current portion of finance leases $ 0.1 $ 0.5 Finance leases , net of current portion — 0.1 Total finance lease liabilities $ 0.1 $ 0.6
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

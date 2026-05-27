@@ -1,0 +1,24 @@
+FIRM         : ARW (CIK 0000007536) | FY2019
+FILE         : 0000007536_ARW_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software, Machinery and equipment
+DURÉE        : 3.0-12.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 3.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are amortized on a straight-line basis over the estimated useful life of the software, which is generally three to twelve years.
+
+[VERBATIM — Changement de politique]
+in estimated useful lives. The company estimated the fair value of the trade names to be $55,000 using the relief from royalty method and recorded a non-cash impairment charge of $46,000 ( $34,653 net of tax) during the second quarter of 2019. The drivers of the impairment were primarily due to the shortened useful lives of the asset and a decline of the forecasted revenues attributable to the trade names as integration to the Arrow brand occurs over the estimated remaining useful lives.
+
+[VERBATIM — Infrastructure IA]
+in charges related to relocation and infrastructure upgrades of the company's data centers, and other centralization efforts to maximize operating efficiencies.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued Accounting Standards Update No. 2018-15, Intangibles—Goodwill and Other— Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force) (“ASU No. 2018-15”). ASU No. 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop internal-use software. Effective September 29, 2019 the company adopted the provisions of ASU 2018-15 on a prospective basis, and the impact was not material to our financial position, results of operations or cash flows. ||| Intangibles—Goodwill and Other— Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force)

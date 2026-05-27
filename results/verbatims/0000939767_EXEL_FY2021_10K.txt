@@ -1,0 +1,21 @@
+FIRM         : EXEL (CIK 0000939767) | FY2021
+FILE         : 0000939767_EXEL_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 7. PROPERTY AND EQUIPMENT
+ASSET CAT.   : Computer equipment and software
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 7.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated Useful Lives December 31, 2021 2020 Leasehold improvements up to 15 years $ 73,589 $ 40,694 Computer equipment and software 3 years 14,877 18,376 Furniture and fixtures 7 years 15,780 14,931 Laboratory equipment 5 years 23,744 11,707 Construction in progress 16,872 16,360 Total property and equipment 144,862 102,068 Less: accumulated depreciation (40,831) (34,684) Total property and equipment, net $ 104,031 $ 67,384
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

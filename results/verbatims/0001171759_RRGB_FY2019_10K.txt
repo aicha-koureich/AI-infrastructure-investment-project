@@ -1,0 +1,20 @@
+FIRM         : RRGB (CIK 0001171759) | FY2019
+FILE         : 0001171759_RRGB_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+- Property and equipment are recorded at cost. Expenditures for major additions and improvements are capitalized and minor replacements, maintenance, and repairs are expensed as incurred. Depreciation is computed on the straight-line method, based on the shorter of the estimated useful lives or the terms of the underlying leases of the related assets. Interest incurred on funds used to construct Company-owned restaurants is capitalized and amortized over the estimated useful life of the related assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

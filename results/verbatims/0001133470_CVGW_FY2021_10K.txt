@@ -1,0 +1,24 @@
+FIRM         : CVGW (CIK 0001133470) | FY2021
+FILE         : 0001133470_CVGW_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 7.0-25.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment are stated at cost and depreciated over their estimated useful lives using the straight-line method. Useful lives are as follows: buildings and improvements - 7 to 50 years ; leasehold improvements - the lesser of the term of the lease or 7 years ; equipment - 7 to 25 years ; information systems hardware and software – 3 to 10 years .
+
+[VERBATIM — Changement de politique]
+Property, plant, and equipment are stated at cost and depreciated over their estimated useful lives using the straight-line method. Useful lives are as follows: buildings and improvements - 7 to 50 years ; leasehold improvements - the lesser of the term of the lease or 7 years ; equipment - 7 to 25 years ; information systems hardware and software – 3 to 10 years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+On November 1, 2020, the Company adopted an ASU , Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. This update provides guidance regarding the capitalization of implementation costs incurred in a cloud computing arrangement that is a service contract. This ASU was adopted prospectively and cloud computing implementation costs incurred on November 1, 2020 or later are included in other noncurrent assets in the consolidated balance sheet and are presented within operating cash flows. As of October 31, 2021, capitalized implementation costs included in other noncurrent assets were less than $0.1 million and there was no accumulated amortization or amortization expense recorded during the year ended October 31, 2021.

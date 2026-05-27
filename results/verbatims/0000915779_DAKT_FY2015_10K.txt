@@ -1,0 +1,20 @@
+FIRM         : DAKT (CIK 0000915779) | FY2015
+FILE         : 0000915779_DAKT_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 19. Quarterly Financial Data (Unaudited)
+ASSET CAT.   : Machinery and equipment, furniture, equipment, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+April 30, 2016 May 2, 2015 Land $ 2,155 $ 2,147 Buildings 65,247 64,186 Machinery and equipment 82,973 80,664 Office furniture and equipment 14,746 15,823 Computer software and hardware 48,917 51,083 Equipment held for rental 374 803 Demonstration equipment 8,026 7,299 Transportation equipment 6,596 6,012 229,034 228,017 Less accumulated depreciation 155,871 155,173 $ 73,163 $ 72,844
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

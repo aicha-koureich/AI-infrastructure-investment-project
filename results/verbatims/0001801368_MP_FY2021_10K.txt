@@ -1,0 +1,23 @@
+FIRM         : MP (CIK 0001801368) | FY2021
+FILE         : 0001801368_MP_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 7, “Inventories.”
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment: Property, plant and equipment are recorded at cost and depreciated over their useful lives. Expenditures for new property, plant and equipment and improvements that extend the useful life or functionality of the assets are recorded at their cost of acquisition or construction. Depreciation on property, plant and equipment is recognized on a straight-line basis over their estimated useful lives, as follows:
+
+[VERBATIM — Changement de politique]
+Additionally, the Company’s depreciation expense for the year ended December 31, 2021, was reduced by $1.1 million, reflecting the excess of the decrement over the carrying amount of the related property, plant and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, “Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract” (“ASU 2018-15”), which aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. ASU 2018-15 requires capitalized costs to be amortized on a straight-line basis generally over the term of the arrangement, and the financial statement presentation for these capitalized costs would be the same as that of the fees related to the hosting arrangements. We elected to early adopt ASU 2018-15 during the first quarter of 2021 using a prospective approach, which did not have a material impact on our Consolidated Financial Statements.

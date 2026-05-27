@@ -1,0 +1,20 @@
+FIRM         : PRDO (CIK 0001046568) | FY2019
+FILE         : 0001046568_PRDO_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-02-13
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Technology continues to be a key focus and important competitive advantage for the universities and our investments have enhanced student-serving processes and initiatives within both CTU and AIU. Our faculty and student mobile applications are fully operational and are increasingly being used as a communication tool for students, with an over 89% adoption rate by students for the student mobile application. We have deployed a two-way messaging application which is used across all student support functions, including admissions, academics, student advising and financial aid. During the year we rolled out an artificial intelligence powered chatbot within AIU named Lucy that addresses questions from prospective students. We are experiencing efficiencies within our admissions function as a result of the chatbot and therefore are able to reallocate resources to student support functions for our continuing students. We also continue to research and develop different ways to use data analytics to expand the use of artificial intelligence across a student’s academic life cycle, from initial prospective student inquiry and starting classes to ongoing advising. Our goal is to provide ongoing support to students whenever they need it while also providing a better user experience that is more personalized in nature. We expect to continue investing in technology initiatives and expect our capital expenditures to be approximately 2% of revenue for 2020.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

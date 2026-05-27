@@ -1,0 +1,23 @@
+FIRM         : LW (CIK 0001679273) | FY2018
+FILE         : 0001679273_LW_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : May 27, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We recorded $136.3 million, $104.3 million, and $93.9 million of depreciation expense in fiscal 2018, 2017, and 2016, respectively. At May 27, 2018 and May 28, 2017, purchases of property, plant and equipment included in accounts payable were $27.9 million and $60.4 million, respectively.
+
+[VERBATIM — Changement de politique]
+Income tax expense decreased in fiscal year 2018 predominantly due to the Tax Act enacted in December 2017. Notably, the Tax Act reduced the U.S. federal corporate tax rate from 35% to 21%, assessed a one-time transition tax on earnings of non-U.S. subsidiaries that have not been taxed previously in the U.S., limited the tax deductibility of interest, provided for immediate deductions for certain new investments instead of deductions for depreciation expense over time, modified or repealed many business deductions and credits, and created new taxes on certain future foreign sourced earnings.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In June 2018, the Emerging Issues Task Force (“EITF”) reached a final consensus on EITF Issue No. 17-A: Customer’s Accounting for Implementation, Setup, and Other Upfront Costs (Implementation Costs) Incurred in a Cloud Computing Arrangement That is Considered a Service Contract . This guidance provides that implementation costs should be capitalized using the same model as if the cloud computing arrangement included a software license (ASC 350-40) and should be expensed over the term of the hosting arrangement, including periods covered by renewal options that are reasonably certain to be exercised. This guidance is effective for our fiscal 2020 and early adoption is permitted. We do not expect the adoption of this standard to have material impact on our financial statements. ||| Customer’s Accounting for Implementation, Setup, and Other Upfront Costs (Implementation Costs) Incurred in a Cloud Computing Arrangement That is Considered a Service Contract ||| . This guidance provides that implementation costs should be capitalized using the same model as if the cloud computing arrangement included a software license (ASC 350-40) and should be expensed over the term of the hosting arrangement, including periods covered by renewal options that are reasonably certain to be exercised. This guidance is effective for our fiscal 2020 and early adoption is permitted. We do not expect the adoption of this standard to have material impact on our financial statements.

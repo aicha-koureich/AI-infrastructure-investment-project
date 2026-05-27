@@ -1,0 +1,21 @@
+FIRM         : PODD (CIK 0001145197) | FY2022
+FILE         : 0001145197_PODD_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-23
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-15.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are amortized over their estimated useful life and recorded within cost of revenues.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Selling, general and administrative expenses for 2022 increased $121.8 million, or 26.1%, to $587.8 million, compared with $466.0 million in 2021. This increase was primarily attributable to year-over-year headcount additions, mainly to support information technology and commercial operations and $25.2 million of legal charges related to the settlement of a patent infringement lawsuit, associated legal fees, and the settlement of a contract dispute. To a lesser extent, these increases were due to an increase in investments to expand market acceptance and access to Omnipod, higher travel and entertainment expenses due to increased activity as COVID-19 restrictions have lifted, an increase in software license fees driven by investments in new systems to support our growing business and headcount additions, and higher amortization of cloud computing implementation costs. Additionally, selling, general and administrative expenses include $3.4 million of costs associated with the retirement and advisory services of our former chief executive officer. These increases were partially offset by a decrease in direct-to-consumer advertising resulting from the timing of spend. ||| attributable to year-over-year headcount additions, mainly to support information technology and commercial operations and $25.2 million of legal charges related to the settlement of a patent infringement lawsuit, associated legal fees, and the settlement of a contract dispute. To a lesser extent, these increases were due to an increase in investments to expand market acceptance and access to Omnipod, higher travel and entertainment expenses due to increased activity as COVID-19 restrictions have lifted, an increase in software license fees driven by investments in new systems to support our growing business and headcount additions, and higher amortization of cloud computing implementation costs. Additionally, selling, general and administrative expenses include $3.4 million of costs associated with the retirement and advisory services of our former chief executive officer. These increases were partially offset by a decrease in direct-to-consumer advertising resulting from the timing of spend. ||| Net cash provided by operating activities of $119.0 million in 2022 was primarily attributable to net income, as adjusted for depreciation and amortization and stock-based compensation expense, partially offset by a $2.5 million working capital cash outflow. The working capital outflow was driven by a $36.8 million increase in prepaid expenses and other assets, a $51.8 million increase in accounts receivable, and a $49.1 million increase in inventories, partially offset by a $137.6 million increase in accrued expenses and other liabilities. The increase in prepaid expenses and other assets was primarily driven by an increase in cloud computing implementation costs. The increase in accounts receivable was primarily due to an increase in sales in the U.S. pharmacy channel, which has longer payment terms, partially offset by a decrease in unbilled accounts receivable related to lower production volumes of our Drug Delivery product. The increase in inventories was primarily driven by a planned inventory build to satisfy demand. Finally, the increase in accrued expenses and other liabilities was primarily driven by the voluntary MDCs issued for our Omnipod DASH PDMs and Omnipod 5 Controllers, an increase in rebates due to growth in the pharmacy channel and an increase in compensation costs due to higher incentive compensation achievement and head count additions.

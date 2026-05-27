@@ -1,0 +1,20 @@
+FIRM         : LVS (CIK 0001300514) | FY2013
+FILE         : 0001300514_LVS_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 — Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at the lower of cost or fair value. Depreciation and amortization are provided on a straight-line basis over the estimated useful lives of the assets, which do not exceed the lease term for leasehold improvements, as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

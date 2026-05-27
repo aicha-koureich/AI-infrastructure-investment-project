@@ -1,0 +1,23 @@
+FIRM         : WGO (CIK 0000107687) | FY2022
+FILE         : 0000107687_WGO_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 27, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 6. Property, Plant, and Equipment
+ASSET CAT.   : equipment, Machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment is stated at cost, net of accumulated depreciation and consists of the following: August 27, 2022 August 28, 2021 Land $ 14,626 $ 9,111 Buildings and building improvements 171,035 147,629 Machinery and equipment 142,574 121,911 Software 43,792 36,815 Transportation 6,509 5,335 Construction in progress 76,797 31,137 Property, plant, and equipment, gross 455,333 351,938 Less: Accumulated depreciation 179,114 160,511 Property, plant, and equipment, net $ 276,219 $ 191,427
+
+[VERBATIM — Changement de politique]
+We monitor and evaluate operating performance of our reportable segments based on Adjusted EBITDA. We believe disclosing Adjusted EBITDA is useful to securities analysts, investors and other interested parties when evaluating companies in our industries. EBITDA is defined as net income before interest expense, provision for income taxes, and depreciation and amortization expense. Adjusted EBITDA is defined as net income before interest expense, provision for income taxes, depreciation and amortization expense, and other pretax adjustments made in order to present comparable results period over period. Examples of items excluded from Adjusted EBITDA include acquisition-related costs, litigation reserves, restructuring expenses, gain or loss on sale of property, plant and equipment, contingent consideration fair value adjustment, and non-operating income or loss.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

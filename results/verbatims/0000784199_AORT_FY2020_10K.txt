@@ -1,0 +1,20 @@
+FIRM         : AORT (CIK 0000784199) | FY2020
+FILE         : 0000784199_AORT_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 18. Subsequent Events
+ASSET CAT.   : equipment, Furniture and fixtures, technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+CryoLife, Inc. and Subsidiaries CONSOLIDATED BALANCE SHEETS (in thousands) December 31, 2020 2019 ASSETS Current assets: Cash and cash equivalents $ 61,412 $ 33,766 Restricted securities 546 528 Receivables: Trade accounts, net 45,964 52,940 Other 2,788 2,921 Total receivables 48,752 55,861 Inventories 73,038 53,071 Deferred preservation costs 36,546 32,551 Prepaid expenses and other 14,295 11,613 Total current assets 234,589 187,390 Property and equipment: Equipment and software 66,141 61,271 Furniture and fixtures 6,186 5,650 Leasehold improvements 38,256 36,173 Total property and equipment 110,583 103,094 Less accumulated depreciation and amortization 77,506 70,944 Net property and equipment 33,077 32,150 Other assets: Operating lease right-of-use assets, net 18,571 21,994 Goodwill 260,061 186,697 Acquired technology, less accumulated amortization of $ 36,091 as of December 31, 2020 and $ 24,778 as of December 31, 2019 186,091 115,415 Other Intangibles, less accumulated amortization of $ 17,667 as of December 31, 2020 and $ 13,460 as of December 31, 2019 40,966 42,319 Deferred income taxes 1,446 5,481 Other 14,603 14,208 Total assets $ 789,404 $ 605,654 ‎
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

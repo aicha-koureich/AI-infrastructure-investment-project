@@ -1,0 +1,21 @@
+FIRM         : DOCN (CIK 0001582961) | FY2021
+FILE         : 0001582961_DOCN_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment Category Useful Life Computers and equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment is stated at cost, net of accumulated depreciation. Depreciation on property and equipment is calculated using the straight-line method over the estimated useful lives of the assets and is included in depreciation and amortization expense in the Consolidated Statements of Operations. The estimated useful lives of property and equipment are as follows: Property and Equipment Category Useful Life Computers and equipment 5 years Furniture and fixtures 5 years Leasehold improvements Lesser of lease term or remaining useful life Internal-use software 3 years
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue consists primarily of fees related to operating in third-party co-location facilities, personnel expenses for those directly supporting our data centers and non-personnel costs, including amortization of capitalized internal-use software development costs and depreciation of our data center equipment. Third-party co-location facility costs include data center rental fees, power costs, maintenance fees, network and bandwidth. Personnel expenses include salaries, bonuses, benefits, and stock-based compensation.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+DigitalOcean is a leading cloud computing platform offering on-demand infrastructure and platform tools for developers, start-ups and small and medium-sized businesses, or SMBs. We were founded with the guiding principle that the transformative benefits of the cloud should be easy to leverage, broadly accessible, reliable and affordable. Our platform simplifies cloud computing, enabling our customers to rapidly accelerate innovation and increase their productivity and agility. As of December 31, 2021, we had approximately 609,000 individual and business customers using our platform to build, deploy and scale software applications. Our users include software engineers, researchers, data ||| Improving the developer experience and increasing developer productivity are core to our mission. Our developer cloud platform was designed with simplicity in mind to ensure that software developers can spend less time managing their infrastructure and more time turning their ideas into innovative applications to grow their businesses. Simplicity guides how we design and enhance our easy-to-use-interface, the core capabilities we offer our customers and our approach to predictable and transparent pricing for our solutions. We offer mission-critical infrastructure solutions across compute, storage and networking, and we also enable developers to extend the native capabilities of our cloud with fully managed application, container and database offerings. In just minutes, developers can set up thousands of virtual machines, secure their projects, enable performance monitoring and scale up and down as needed. Our pricing is consumption-based and billed monthly in arrears, making it easy for our customers to track usage on an ongoing basis and optimize their deployments. ||| We generate revenue from the usage of our cloud computing platform by our customers, including but not limited to compute, storage and networking services. We recognize revenue based on the customer utilization of these resources. Our pricing is consumption-based and billed monthly in arrears, making it easy for our customers to track usage on an ongoing basis and optimize their deployments. The pricing for each of our products is available on our website. For example, the standard price for a Droplet is $5.00 per month, and our Managed Database product is available starting at $15.00 per month.

@@ -1,0 +1,27 @@
+FIRM         : RILY (CIK 0001464790) | FY2018
+FILE         : 0001464790_RILY_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Gross margins in
+the Principal Investments-United Online segment increased to 75.1% of revenues during the year ended December 31, 2017 as compared
+to 70.9% of revenues during the year ended December 31, 2016. Direct costs in the Principal Investments - United Online segment
+includes telecommunications and data center costs, personnel and overhead-related costs associated with operating our networks
+and data centers, depreciation of network computers and equipment, third party advertising sales commissions, license fees, costs
+related to providing customer support, costs related to customer billings and processing of customer credit cards and associated
+bank fees. The increase in gross margin is primarily due to a decrease in costs related to providing customer support and lower
+personnel costs.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

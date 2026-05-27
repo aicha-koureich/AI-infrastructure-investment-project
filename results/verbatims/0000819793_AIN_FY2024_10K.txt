@@ -1,0 +1,24 @@
+FIRM         : AIN (CIK 0000819793) | FY2024
+FILE         : 0000819793_AIN_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 14. Property, Plant and Equipment, net
+ASSET CAT.   : improvements Buildings 306
+DURÉE        : 5.0-15.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 5.0-8.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+(in thousands) 2024 2023 Estimated useful life Land and land improvements $ 28,161 $ 29,654 25 years for improvements Buildings 306,273 302,086 15 to 40 years Machinery and equipment 1,188,661 1,207,504 5 to 15 years Furniture and fixtures 11,457 11,409 5 years Computer and other equipment 25,024 24,120 3 to 10 years Software 69,932 69,191 5 to 8 years Capital expenditures in progress 75,262 90,759 Property, plant and equipment, gross 1,704,770 1,734,723 Accumulated depreciation and amortization (1,141,339) (1,132,734) Property, plant and equipment, net $ 563,431 $ 601,989
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment are recorded at cost, or if acquired as part of a business combination, at fair value. Depreciation is recorded using the straight-line method over the estimated useful lives of the assets for financial reporting purposes. In some cases, accelerated methods are used for income tax purposes. Significant additions or improvements extending assets’ useful lives are capitalized; normal maintenance and repair costs are expensed as incurred. The cost of fully depreciated assets remaining in use is included in the respective asset and accumulated depreciation accounts. When items are sold or retired, related gains or losses are included in Net income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

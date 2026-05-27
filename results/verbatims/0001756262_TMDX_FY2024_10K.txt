@@ -1,0 +1,24 @@
+FIRM         : TMDX (CIK 0001756262) | FY2024
+FILE         : 0001756262_TMDX_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-27
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment Property, plant and equipment are stated at cost less accumulated depreciation and amortization. Depreciation and amortization expense is recognized using the straight-line method over the estimated useful life of each asset as follows: Estimated Useful Life Transplant aircraft 10 years Flight school aircraft 5 years OCS Consoles 5 years Manufacturing equipment 5 years Computer equipment and software 3 years Laboratory equipment 3 years Office, trade show and training equipment 5 years Leasehold improvements Shorter of term of lease or the useful life of the improvement
+
+[VERBATIM — Changement de politique]
+Changes in the valuation allowance for deferred tax assets during the year ended December 31, 2024 related primarily to current year federal and state net operating losses generated, capitalized research and development costs, and federal and state research and development tax credits generated, partially offset by an increase in deferred tax liabilities related to depreciation expense. Changes in the valuation allowance for deferred tax assets during the year ended December 31, 2023 related primarily to current year federal and state net operating losses generated, acquired IPR&D and capitalized research and development costs. Changes in the valuation allowance for deferred tax assets during the year ended December 31, 2022 related primarily to the capitalization of research and development costs required under Section 174 and current year federal and state net operating losses generated, partially offset by a decrease in deferred tax assets related to state net operating loss carryforwards due to a change in the state effective tax rate. The changes in the valuation allowance were as follows (in thousands):
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

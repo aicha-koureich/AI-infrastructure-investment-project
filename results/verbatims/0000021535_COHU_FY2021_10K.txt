@@ -1,0 +1,20 @@
+FIRM         : COHU (CIK 0000021535) | FY2021
+FILE         : 0000021535_COHU_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 25, 2021
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+For the year ended December 25, 2021, our net sales increased 39.5% year-over-year to $887.2 million. In 2020, the global semiconductor market was affected by U.S. and China trade tensions which impacted many of our customers’ ability to supply product to certain end users resulting in customer test cell utilization below levels that have historically triggered the need for additional capacity. Net sales during the first half of 2020 were also negatively impacted by the rapid and global spread of COVID-19 which led to supply disruptions impacting our ability to ship product. During the second half of 2020, we began seeing strong demand for our products and that strength has continued through 2021. During 2021 our net sales were favorably impacted by robust automotive demand, driven by xEV and ADAS technologies, strength in industrial markets, and continued mobility expansion with 5G proliferation. Demand for equipment testing 5G, Wi-Fi 6 and Ultra-Wideband devices, data centers, personal computers and automotive semiconductor and sensors were at near record levels. Based on improved business conditions, during 2021 we took actions to reduce outstanding principal under our Term Loan Credit Facility associated with the financing of the Xcerra acquisition in October 2018. During the first quarter of 2021, using a portion of the proceeds from our underwritten follow-on public offering, we prepaid $100 million of the term loan and on June 30, 2021, utilizing a portion of the gross proceeds from the sale of the PCB Test business, we made an additional $100 million prepayment of the term loan.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

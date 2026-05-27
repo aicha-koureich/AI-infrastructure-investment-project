@@ -1,0 +1,20 @@
+FIRM         : RJF (CIK 0000720005) | FY2013
+FILE         : 0000720005_RJF_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+. The primary investing activity was the use of $865 million in cash to fund an increase in bank loans (net of proceeds received from the sale of loans held for investment). We also invested $73 million in equipment assets which are comprised of buildings, including our new data center in the Denver, Colorado area (see Item 2, Properties, in this Form 10-K for additional information), equipment, and technology assets. Partially offsetting these uses of cash, we generated cash through the sale of private equity investments, net of purchases of additional equity investments, of $229 million, driven most significantly by the sale of our indirect investment in Albion (see the Other MD&A discussion in this Item 7 for additional information). We received proceeds from the maturation, repayment, redemption or sale of securities in our available for sale security portfolio of $55 million, net of purchases of additional securities. All other components of investing activities combined to net a $2 million increase in cash.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

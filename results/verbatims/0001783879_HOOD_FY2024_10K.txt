@@ -1,0 +1,21 @@
+FIRM         : HOOD (CIK 0001783879) | FY2024
+FILE         : 0001783879_HOOD_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1: DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Technology, computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : AMD_Instinct (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Technology and development costs primarily consist of costs incurred to support and improve our platforms and develop new products, costs associated with computer hardware and software, including amortization of internally developed software, and compensation and benefits, including SBC, for engineering, data science, and design personnel, as well as allocated overhead.
+
+[VERBATIM — Infrastructure IA]
+Year Ended December 31, (in millions) 2022 2023 2024 2022 to 2023 % Change 2023 to 2024 % Change Employee compensation, benefits, and overhead, excluding SBC $ 367 $ 308 $ 287 (16) % (7) % SBC 212 211 192 — % (9) % Cloud infrastructure services 175 149 189 (15) % 27 % Software and tools 105 114 123 9 % 8 % Other 19 23 27 21 % 17 % Total $ 878 $ 805 $ 818 (8) % 2 %  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

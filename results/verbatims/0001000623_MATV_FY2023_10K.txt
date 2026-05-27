@@ -1,0 +1,23 @@
+FIRM         : MATV (CIK 0001000623) | FY2023
+FILE         : 0001000623_MATV_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : capitalized software
+DURÉE        : 7.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amortization of capitalized software was $5.0 million, $4.4 million, and $2.8 million during the years ended December 31, 2023, 2022 and 2021, respectively. Accumulated amortization of capitalized software costs was $30.9 million and $36.5 million at December 31, 2023 and 2022, respectively.
+
+[VERBATIM — Changement de politique]
+The unaudited supplemental pro forma financial information includes the following adjustments related to the Merger: incremental depreciation expense related to fair value adjustments to property, plant and equipment, amortization of intangible assets and fair value adjustments to inventory, interest expense for the additional indebtedness incurred to complete the Merger, acquisition and severance costs, and applicable tax adjustments based on statutory rates in the jurisdictions where the adjustments occurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : LEA (CIK 0000842162) | FY2024
+FILE         : 0000842162_LEA_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+engineering and program management, the agility to establish and/or transfer production between facilities quickly, and a unique, customer-focused culture. In select instances, we are able to manufacture both Seating and E-Systems components in the same facility. Our businesses also utilize proprietary, industry-specific processes and standards, leverage common low-cost engineering centers and share centralized operating support functions. These functions include health and safety, logistics, quality, supply chain management and all major administrative functions, such as corporate finance, executive administration, human resources, information technology and legal. We continue to build on our reputation for operational excellence through organic and inorganic investments in automation and other advanced manufacturing technologies and the digital transformation of both our operations and administrative functions. It involves the integration of new technologies, such as Industrial Internet of Things (IIoT), cloud computing, artificial intelligence (AI), machine learning and advanced automation, into production facilities and business operations. These technologies enable smart and automated machines and smart factories to communicate, analyze and optimize products and processes, resulting in higher efficiency, quality and responsiveness to customers.

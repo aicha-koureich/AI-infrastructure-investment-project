@@ -1,0 +1,20 @@
+FIRM         : ICUI (CIK 0000883984) | FY2023
+FILE         : 0000883984_ICUI_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Machinery and equipment, Computer equipment, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31, 2023 2022 Machinery and equipment $ 483,382 $ 414,811 Land, building and building improvements 278,251 274,063 Molds 89,573 77,203 Computer equipment and software 122,038 115,214 Furniture and fixtures 30,662 29,876 Instruments placed with customers (1) 115,672 98,481 Construction in progress 117,219 152,909 Total property, plant and equipment, cost 1,236,797 1,162,557 Accumulated depreciation (623,888) (526,444) Property, plant and equipment, net $ 612,909 $ 636,113
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

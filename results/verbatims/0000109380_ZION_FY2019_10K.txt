@@ -1,0 +1,21 @@
+FIRM         : ZION (CIK 0000109380) | FY2019
+FILE         : 0000109380_ZION_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : software, including capitalized costs related to the Bank’s technology initiatives
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Premises, equipment and software are stated at cost, net of accumulated depreciation and amortization. Depreciation, computed primarily on the straight-line method, is charged to operations over the estimated useful lives of the properties, generally 25 to 40 years for buildings, 3 to 10 years for furniture and equipment, and 3 to 10 years for software, including capitalized costs related to the Bank’s technology initiatives.
+
+[VERBATIM — Infrastructure IA]
+We have operating and finance leases for branches, corporate offices, and data centers. Our equipment leases are not material. At December 31, 2019, we had 434 branches, of which 280 are owned and 154 are leased. We lease our headquarters in Salt Lake City, Utah, and other office or data centers are either owned or leased.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15, Intangibles – Goodwill and Other-Internal- Use Software (Topic 350-40): Customer’s Accounting for Implementation Cost Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| This ASU aligns the requirements for capitalizing implementation costs associated with Cloud Computing Arrangements that meet the definition of a service contract with requirements already provided for costs associated with internal-use software. Additionally, it clarifies that: -The amortization period for capitalized amounts will be the noncancelable hosting contract term plus any expected renewal periods; -Entities in a hosting arrangement that is a service contract must provide certain qualitative and quantitative disclosures; and -Transition for those not already following the provisions of this ASU can be applied either retrospectively or prospectively.

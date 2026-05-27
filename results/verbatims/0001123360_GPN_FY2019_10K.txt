@@ -1,0 +1,20 @@
+FIRM         : GPN (CIK 0001123360) | FY2019
+FILE         : 0001123360_GPN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 —BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment — Property and equipment are stated at cost less accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Our leases consist primarily of operating real estate leases for office space and data centers in the markets in which we conduct business. We also have operating and finance leases for computer and other equipment. Many of our leases include escalating rental payments and incentives, as well as termination and renewal options. Certain of our lease agreements provide that we pay the cost of property taxes, insurance and maintenance. As described in "Note 1 —Basis of Presentation and Summary of Significant Accounting Policies," we adopted ASU 2016-02 on January 1, 2019. Unless otherwise indicated, the following information in this footnote applies only to periods after December 31, 2018.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract ||| (A Consensus of the FASB Emerging Issues Task Force)." ASU 2018-15 provides additional guidance on the accounting for costs of implementation activities performed in a cloud computing arrangement (i.e., hosting arrangement) that is a service contract. The new guidance amends the definition of a hosting arrangement and requires a customer in a hosting arrangement that is a service contract to capitalize certain implementation costs as if the arrangement was an internal-use software project. The amendments in this update also provide additional presentation and disclosure requirements, including requirements to disclose the nature of an entity’s hosting arrangements that are service contracts, as well as quantitative information about capitalized implementation costs and related amortization expense. The guidance will become effective for us on January 1, 2020. We expect to apply the guidance prospectively to all implementation costs incurred after the date of adoption. We have completed our evaluation of the effect of ASU 2018-15 on our consolidated financial statements and internal controls. We do not expect the adoption of this standard to have a material effect on our consolidated financial statements. We have historically capitalized implementation costs associated with cloud computing arrangements that are service contracts following the guidance in Subtopic 350-40 and expect to continue to do so pursuant to the clarifications provided in the new guidance. We expect to amortize deferred implementation costs to expense on a straight-line basis over the term of the applicable hosting arrangement, and we will enhance our accounting processes and internal controls to meet the new disclosure requirements.

@@ -1,0 +1,23 @@
+FIRM         : AES (CIK 0000874761) | FY2024
+FILE         : 0000874761_AES_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. GENERAL AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment — Property, plant and equipment are stated at cost, net of accumulated depreciation. The cost of renewals and improvements that extend the useful life of property, plant and equipment are capitalized.
+
+[VERBATIM — Changement de politique]
+Warrior Run — On September 30, 2023, the Company filed a Generator Deactivation Notice with PJM stating its intention to either retire or mothball the Warrior Run coal-fired facility on June 1, 2024. On November 30, 2023, PJM approved the potential deactivation, therefore management reassessed the economic useful life of the generation facility. Due to the approval from PJM and the absence of other economically viable options, an
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

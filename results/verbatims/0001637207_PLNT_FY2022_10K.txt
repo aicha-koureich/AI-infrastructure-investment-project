@@ -1,0 +1,20 @@
+FIRM         : PLNT (CIK 0001637207) | FY2022
+FILE         : 0001637207_PLNT_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Equipment, Furniture, Information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2022 December 31, 2021 Land $ 1,341 $ 1,341 Equipment 140,160 66,369 Leasehold improvements 272,360 146,810 Buildings and improvements 8,589 8,589 Furniture & fixtures 59,015 29,409 Information technology and systems assets 78,330 62,803 Other 2,920 2,463 Construction in progress 13,974 8,199 $ 576,689 $ 325,983 Accumulated depreciation (227,869) (152,296) Total $ 348,820 $ 173,687
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

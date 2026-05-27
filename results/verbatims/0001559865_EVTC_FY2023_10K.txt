@@ -1,0 +1,20 @@
+FIRM         : EVTC (CIK 0001559865) | FY2023
+FILE         : 0001559865_EVTC_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-15
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cost of revenues for the year ended December 31, 2023 amounted to $336.8 million, an increase of $44.1 million or 15% when compared to the same period in the prior year. The increase in cost of revenues was primarily driven by an increase in personnel costs, mainly due to the impact of increased headcount in Latin America including the added headcount from the acquisitions, an increase in professional fees and cloud services, and the impact of the revenue sharing agreement with Banco Popular.

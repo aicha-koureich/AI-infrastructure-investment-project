@@ -1,0 +1,24 @@
+FIRM         : PCAR (CIK 0000075362) | FY2015
+FILE         : 0000075362_PCAR_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+PROPERTY, PLANT AND EQUIPMENT Property, plant and equipment include the following: At December 31, USEFUL LIVES 2015 2014 Land $ 222.1 $ 239.0 Buildings and improvements 10-40 years 1,061.7 1,082.8 Machinery, equipment and production tooling 3-12 years 3,237.1 3,316.7 Construction in progress 248.4 175.8 4,769.3 4,814.3 Less allowance for depreciation (2,592.9 ) (2,501.0 ) $ 2,176.4 $ 2,313.3 G.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing
+Arrangement.

@@ -1,0 +1,20 @@
+FIRM         : TDAY (CIK 0001579684) | FY2020
+FILE         : 0001579684_TDAY_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-09-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 — Description of business, basis of presentation, and summary of significant accounting policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment, software development costs and depreciation: Property, plant, and equipment are recorded at cost or at fair value for property, plant and equipment related to acquired businesses.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

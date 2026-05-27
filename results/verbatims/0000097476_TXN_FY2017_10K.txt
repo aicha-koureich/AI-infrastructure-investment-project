@@ -1,0 +1,23 @@
+FIRM         : TXN (CIK 0000097476) | FY2017
+FILE         : 0000097476_TXN_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of presentation and significant accounting policies and practices
+ASSET CAT.   : equipment, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost and depreciated over their estimated useful lives using the straight-line method. Capitalized software licenses generally are amortized on a straight-line basis over the term of the license.
+
+[VERBATIM — Changement de politique]
+Reflects charges for impacts of accelerated depreciation and changes in exchange rates.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

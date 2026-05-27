@@ -1,0 +1,20 @@
+FIRM         : HSIC (CIK 0001000228) | FY2021
+FILE         : 0001000228_HSIC_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 25, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 5 – Property and Equipment, Net Property and equipment, including related estimated useful lives, consisted of the following: December 25, Decemb
+ASSET CAT.   : Equipment, Machinery, Furniture, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Note 5 – Property and Equipment, Net Property and equipment, including related estimated useful lives, consisted of the following: December 25, December 26, 2021 2020 Land $ 21,115 $ 20,297 Buildings and permanent improvements 140,062 145,160 Leasehold improvements 97,909 107,753 Machinery and warehouse equipment 152,952 142,437 Furniture, fixtures and other 119,693 108,041 Computer equipment and software 385,011 344,494 916,742 868,182 Less accumulated depreciation ( 550,286) ( 526,178) Property and equipment, net $ 366,456 $ 342,004 Estimated Useful Lives (in years) Buildings and permanent improvements 40 Machinery and warehouse equipment 5- 10 Furniture, fixtures and other 3- 10 Computer equipment and software 3- 10 Amortization of leasehold improvements is computed using the straight-line method over the lesser of the useful life of the assets or the lease term. Property and equipment related depreciation expense for the years ended December 25, 2021, December 26, 2020 and December 28, 2019 was $ 70.4 million, $ 64.3 million and $ 64.4 million.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

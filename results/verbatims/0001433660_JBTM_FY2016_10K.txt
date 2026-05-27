@@ -1,0 +1,23 @@
+FIRM         : JBTM (CIK 0001433660) | FY2016
+FILE         : 0001433660_JBTM_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Expenditures that extend the useful lives of property, plant, and equipment are capitalized and depreciated over the estimated new remaining life of the asset.
+
+[VERBATIM — Changement de politique]
+We also revised the estimated useful life and amortization period associated with customer relationships from
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Segment operating profit is defined as total segment revenue less segment operating expenses. The following items have been excluded in computing segment operating profit: corporate staff expense, stock-based compensation, LIFO provisions, restructuring costs, certain employee benefit expenses, interest income and expense and income taxes. ||| Internal-Use Software (Subtopic 350-40) - Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement ||| . The ASU applies to cloud computing arrangements including software as a service, platform as a service, infrastructure as a service, and other similar hosting arrangements, and was issued to help entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement. The ASU provides guidance about whether the arrangement includes a software license. The core principle of the ASU is that if a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The guidance did not change U.S. GAAP for a customer’s accounting for service contracts. This guidance became effective for us as of January 1, 2016 and there was no effect on our consolidated financial statements and related disclosures.

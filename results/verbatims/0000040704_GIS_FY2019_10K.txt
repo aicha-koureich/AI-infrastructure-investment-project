@@ -1,0 +1,26 @@
+FIRM         : GIS (CIK 0000040704) | FY2019
+FILE         : 0000040704_GIS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : May 26, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, furniture
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Buildings and equipment, including capitalized interest and internal engineering costs, are recorded at cost and depreciated over estimated useful lives, primarily using the straight-line method. Buildings are usually depreciated over 40 years, and equipment, furniture, and software are usually depreciated over 3 to 10 years. Fully depreciated assets are retained in buildings and equipment until
+disposal.
+
+[VERBATIM — Changement de politique]
+used to estimate fair value include revenue growth and profitability, royalty rates, capital spending, depreciation and taxes, foreign currency exchange rates, and a discount rate. By their
+nature, these projections and assumptions are uncertain. If we were to determine the current fair value of our investment was less than the carrying value of the investment, then we would assess if the shortfall was of a temporary or permanent
+nature and write down the investment to its fair value if we concluded the impairment is other than temporary.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

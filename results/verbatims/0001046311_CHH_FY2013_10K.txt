@@ -1,0 +1,20 @@
+FIRM         : CHH (CIK 0001046311) | FY2013
+FILE         : 0001046311_CHH_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+primarily reflect tenant improvements related to the relocation of the Company's corporate headquarters and computer equipment purchases made in conjunction with the relocation of the Company's technology data center.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

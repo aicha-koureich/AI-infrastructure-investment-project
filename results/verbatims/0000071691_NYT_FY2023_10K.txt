@@ -1,0 +1,20 @@
+FIRM         : NYT (CIK 0000071691) | FY2023
+FILE         : 0000071691_NYT_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-20
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 19. Subsequent Events
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In thousands) December 31, 2023 December 31, 2022 Assets Current assets Cash and cash equivalents $ 289,472 $ 221,385 Short-term marketable securities 162,094 125,972 Accounts receivable (net of allowances of $12,800 in 2023 and $12,260 in 2022) 242,488 217,533 Prepaid expenses 59,712 54,859 Other current assets 27,887 35,926 Total current assets 781,653 655,675 Long-term marketable securities 257,633 138,917 Property, plant and equipment: Equipment 447,324 441,940 Buildings, building equipment and improvements 729,559 730,119 Software 80,710 74,196 Land 106,648 106,275 Assets in progress 20,333 24,192 Total, at cost 1,384,574 1,376,722 Less: accumulated depreciation and amortization (870,329) (823,024) Property, plant and equipment, net 514,245 553,698 Goodwill 416,098 414,046 Intangible assets, net 285,490 317,314 Deferred income taxes 114,505 96,363 Right of use assets 35,374 57,600 Pension assets 83,016 69,521 Miscellaneous assets 226,581 230,618 Total assets $ 2,714,595 $ 2,533,752
+
+[VERBATIM — Infrastructure IA]
+We currently utilize third-party subscription-based software services as well as public cloud infrastructure services to provide solutions for many of our computing and bandwidth needs. Any interruptions to these services could result in interruptions in service to our subscribers, users, advertisers and/or the Company’s critical business functions, notwithstanding business continuity or disaster recovery plans or agreements that may currently be in place with these providers. This could result in unanticipated downtime and/or harm to our operations, reputation and operating results. A transition of these services to different cloud providers would be difficult, time consuming and costly to implement. In addition, if hosting costs increase over time and/or if we require more computing or storage capacity as a result of subscriber growth or otherwise, our costs could increase disproportionately.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : ENSG (CIK 0001125376) | FY2023
+FILE         : 0001125376_ENSG_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment — Property and equipment are initially recorded at their historical cost. Repairs and maintenance are expensed as incurred. Depreciation is computed using the straight-line method over the estimated useful lives of the depreciable assets (ranging from three to 59 years). Leasehold improvements are amortized on a straight-line basis over the shorter of their estimated useful lives or the remaining lease term.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : HAIN (CIK 0000910406) | FY2023
+FILE         : 0000910406_HAIN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES AND PRACTICES
+ASSET CAT.   : equipment, Computer Hardware
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Once placed into service, internally developed software is amortized on a straight-line basis over its estimated useful life which generally ranges from 3 to 10 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

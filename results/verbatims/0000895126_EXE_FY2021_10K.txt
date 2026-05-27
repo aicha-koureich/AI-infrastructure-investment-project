@@ -1,0 +1,20 @@
+FIRM         : EXE (CIK 0000895126) | FY2021
+FILE         : 0000895126_EXE_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 2 2 . Separation and Other Termination Costs 138 Note 2 3 . Asset Retirement Obligations 138 Note 2 4 . Major Customers 139 Note 2 5 . Subsequent
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+As described in Note 1 to the consolidated financial statements, the Company’s property and equipment, net balance was approximately $8.8 billion as of December 31, 2021, and depreciation, depletion, and amortization (DD&A) expense for the period from February 10, 2021 through December 31, 2021 was approximately $919 million, both of which substantially related to proved oil and natural gas properties.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : PNW (CIK 0000764622) | FY2014
+FILE         : 0000764622_PNW_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 18. Palo Verde Sale Leaseback Variable Interest Entities
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2014 December 31, 2013 Palo Verde sale leaseback property plant and equipment, net of accumulated depreciation $ 121 $ 125 Current maturities of long-term debt 13 26 Long-term debt excluding current maturities — 13 Equity-Noncontrolling interests 152 146
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

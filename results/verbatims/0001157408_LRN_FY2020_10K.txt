@@ -1,0 +1,20 @@
+FIRM         : LRN (CIK 0001157408) | FY2020
+FILE         : 0001157408_LRN_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 4. Property and Equipment and Capitalized Software and Curriculum
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company recorded depreciation expense related to property and equipment reflected in selling, general, and administrative expenses of $4.3 million, $5.2 million and $5.1 million during the years ended June 30, 2020, 2019 and 2018, respectively. Amortization expense of zero, zero and $0.5 million related to student software costs is reflected in instructional costs and services during the years ended June 30, 2020, 2019 and 2018, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

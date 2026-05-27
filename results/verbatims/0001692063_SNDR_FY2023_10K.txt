@@ -1,0 +1,21 @@
+FIRM         : SNDR (CIK 0001692063) | FY2023
+FILE         : 0001692063_SNDR_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 6.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-8.0 ans | 3.0-10.0 ans | 4.0-5.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Generally, the estimated useful lives are as follows: 2023 Tractors 3 - 8 years Trailing equipment 6 - 20 years Other transportation equipment 4 - 5 years Buildings and improvements 5 - 25 years Other property 3 - 10 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Internal Use Software and Cloud Computing Arrangements

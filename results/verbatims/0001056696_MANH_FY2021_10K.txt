@@ -1,0 +1,21 @@
+FIRM         : MANH (CIK 0001056696) | FY2021
+FILE         : 0001056696_MANH_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Organization, Consolidation and Summary of Significant Accounting Policies
+ASSET CAT.   : office equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+We depreciate the cost of furniture, computers, and other office equipment on a straight-line basis over their estimated useful lives (five years for office equipment, seven years for furniture and fixtures).
+
+[VERBATIM — Infrastructure IA]
+We currently utilize data center hosting facilities, which are managed by third-parties, to provide cloud solutions and hosting services to our customers. If the data center facilities fail or encounter any damage, it could result in interruptions in services to our customers. This could result in unanticipated downtime for our customers, and in turn, our reputation and business could be adversely affected. In addition, if our customers use our cloud arrangements in unanticipated ways, this could cause an interruption in service for other customers attempting to access their data.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Distribution Management - These applications comprise Manhattan’s Warehouse Management Solutions (WMS) commonly used to manage the complexity of the modern distribution center. WMS manages the flow of goods and information across the distribution center. WMS is now delivered for new and upgrading customers in the form of Manhattan Active Warehouse Management (MAWM), a cloud native and versionless application that delivers new innovation on a quarterly basis. Manhattan Active WM runs on Google Cloud Platform, is offered exclusively via subscription, and includes state of the art fulfillment optimization technology, a consumer grade mobile app experience for the associate; and embedded gamification capabilities to improve associate engagement and performance. Manhattan Active WM is fully configurable and technically extensible, meaning customers can build their own componentry to work alongside our base application. Manhattan Active WM also embeds labor management and slotting optimization capabilities. Manhattan’s WMS customers benefit from its embedded warehouse execution system that coordinates the interaction between automation, robotics and labor for maximum efficiency. Manhattan’s WMS also enables the efficient utilization of a single distribution center for direct-to-consumer, retail replenishment and high-volume wholesale fulfilment. Our WMS provides the customer the most productive operation that can scale to meet the highest demands during peak season while operating effectively and profitably throughout the course of the year. ||| SCALE is now also available as Manhattan Active SCALE, delivered in the cloud on Microsoft’s Azure platform. Manhattan Active SCALE customers receive new capability on an annual basis and enjoy full configurability and elements of technical extensibility even when delivered on Azure. We continue to offer SCALE on premise via perpetual licenses or via the cloud on a subscription basis as Manhattan Active SCALE. ||| Allocation – Manhattan’s Allocation is designed to serve the softlines/apparel market. It provides inventory planning capabilities from first receipt in the distribution center through to the end of season for a given assortment. Built on the Manhattan Active architecture, Manhattan Active Allocation is cloud native, versionless, runs on Google Cloud Platform and updated on a quarterly basis.

@@ -1,0 +1,21 @@
+FIRM         : BGC (CIK 0001094831) | FY2024
+FILE         : 0001094831_BGC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-05
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 15. Fixed Assets, Net
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+December 31, 2024 December 31, 2023 Computer and communications equipment $ 112,463 $ 103,621 Software, including software development costs 401,040 360,047 Leasehold improvements and other fixed assets 108,303 99,034 621,806 562,702 Less: accumulated depreciation and amortization (431,794) (384,402) Fixed assets, net $ 190,012 $ 178,300
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

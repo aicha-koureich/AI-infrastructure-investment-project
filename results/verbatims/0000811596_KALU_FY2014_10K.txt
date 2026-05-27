@@ -1,0 +1,23 @@
+FIRM         : KALU (CIK 0000811596) | FY2014
+FILE         : 0000811596_KALU_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+STI plan are based on the Company’s adjusted earnings before interest, taxes, depreciation and amortization ("Adjusted EBITDA"), modified for certain safety, quality, delivery, cost and individual performance factors. The Adjusted EBITDA targets under the
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

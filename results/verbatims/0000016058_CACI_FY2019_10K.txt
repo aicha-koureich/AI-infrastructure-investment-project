@@ -1,0 +1,20 @@
+FIRM         : CACI (CIK 0000016058) | FY2019
+FILE         : 0000016058_CACI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Enterprise Information Technology (IT) – CACI’s Enterprise IT solutions support our customers’ missions. Our experts secure operational IT environments in the defense, intelligence, homeland security, and civilian communities. We provide tailored, end-to-end, enterprise-wide information solutions and services for the design, development, integration, deployment, operations and management, sustainment, and security of our customers’ IT solutions. An Amazon Web Services (AWS) Premier Consulting Partner and Microsoft Cloud Solution Provider for Government, we deliver cloud-powered solutions, performance-based service management, development operations and mobility, defensive cyber, end-user services, and infrastructure services. We support customers in the adoption of virtualized cloud services and mobile solutions that are revolutionizing the efficiency, reliability, and cost-effectiveness of IT services. We provide managed services and technical services that enhance efficiency, improve mission uptime, and reduce costs. Our operational, analytic, consulting, and transformational services use industry leading-edge practices, standards, and innovations to enable and optimize the full lifecycle of the enterprise IT environment. ||| – CACI’s Enterprise IT solutions support our customers’ missions. Our experts secure operational IT environments in the defense, intelligence, homeland security, and civilian communities. We provide tailored, end-to-end, enterprise-wide information solutions and services for the design, development, integration, deployment, operations and management, sustainment, and security of our customers’ IT solutions. An Amazon Web Services (AWS) Premier Consulting Partner and Microsoft Cloud Solution Provider for Government, we deliver cloud-powered solutions, performance-based service management, development operations and mobility, defensive cyber, end-user services, and infrastructure services. We support customers in the adoption of virtualized cloud services and mobile solutions that are revolutionizing the efficiency, reliability, and cost-effectiveness of IT services. We provide managed services and technical services that enhance efficiency, improve mission uptime, and reduce costs. Our operational, analytic, consulting, and transformational services use industry leading-edge practices, standards, and innovations to enable and optimize the full lifecycle of the enterprise IT environment. ||| We operate in a highly competitive industry that includes many firms, some of which are larger in size and have greater financial resources than we do. We obtain much of our business on the basis of proposals submitted in response to requests from potential and current customers, who may also receive proposals from other firms. Non-traditional players have entered the market and have established positions related to such areas as cloud computing, cyber, satellite operations, business systems and healthcare IT. Additionally, we face indirect competition from certain government agencies that perform services for themselves similar to those marketed by us. We know of no single competitor that is dominant in our fields of technology. We have a relatively small share of the available worldwide market for our solutions and services and intend to achieve growth and increase market share both organically and through strategic acquisitions.

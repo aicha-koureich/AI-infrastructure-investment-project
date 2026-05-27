@@ -1,0 +1,24 @@
+FIRM         : SWKS (CIK 0000004127) | FY2024
+FILE         : 0000004127_SWKS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0 ans | 7.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment are carried at cost less accumulated depreciation, with significant renewals and betterments being capitalized and retired equipment written off in the respective periods.
+
+[VERBATIM — Changement de politique]
+During fiscal 2024, the Company changed its accounting estimate for the expected useful lives of certain machinery and equipment. The Company evaluated its current asset base and reassessed the estimated useful lives of certain machinery and equipment in connection with its recent usage of older equipment, including considering the technological and physical obsolescence of such machinery and equipment. Based on its ability to re-use equipment across generations of process technologies and historical usage trends, the Company determined that the expected useful lives for certain machinery and equipment should be increased by up to two years to reflect more closely the estimated economic lives of those assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

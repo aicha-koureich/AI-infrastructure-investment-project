@@ -1,0 +1,23 @@
+FIRM         : HQY (CIK 0001428336) | FY2018
+FILE         : 0001428336_HQY_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of business and significant accounting policies
+ASSET CAT.   : capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Management has made estimates for the allowance for doubtful accounts, capitalized software development costs, evaluating goodwill and long-lived assets for impairment, useful lives of property and equipment and intangible assets, accrued compensation, accrued liabilities, grant date fair value of stock options and income taxes.
+
+[VERBATIM — Changement de politique]
+Effective November 1, 2018, the Company prospectively changed its estimate of the useful life of capitalized incremental costs to obtain an RA contract to better reflect the estimated periods during which the intangible asset is expected to generate cash flows. The incremental costs to obtain an RA contract were previously amortized over the same life as the incremental costs to obtain an HSA contract, which is estimated to be 15 years. The Company determined the amortization period of the intangible assets to be the average economic life of an RA customer relationship, which is estimated to be 7 years. The change in estimate and resulting accelerated amortization did not have a material effect on the Company's consolidated financial statements for the year ended January 31, 2019. Further, the Company does not expect the accelerated amortization to have a material impact on its consolidated financial statements for the year ended January 31, 2020.
+
+[VERBATIM — Infrastructure IA]
+which provides an additional transition method to adopt the new lease standard at the adoption date, as compared to the beginning of the earliest period presented, and recognize a cumulative-effect adjustment to the beginning balance of retained earnings in the period of adoption. The Company adopted ASC 842 effective February 1, 2019, using the alternative transition method under Topic 842. The Company expects that this standard will have a material effect on the Company’s consolidated balance sheets, but does not expect it to have a material impact on the Company's consolidated statements of operations and consolidated income, stockholders’ equity and cash flows. Although the Company is still in the process of evaluating the impact of adoption of ASC 842 on its consolidated financial statements, the Company currently believes the most significant change will be related to the recognition of right-of-use assets and lease liabilities on the Company’s balance sheet for office space and data center operating lease agreements.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| In August 2018, the FASB issued ASU 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . This ASU allows the capitalization of implementation costs incurred in a hosting arrangement. This ASU is effective for fiscal years beginning after December 15, 2019. The Company is currently evaluating the potential effect of this ASU on the consolidated financial statements.

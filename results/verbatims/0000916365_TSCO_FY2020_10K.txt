@@ -1,0 +1,21 @@
+FIRM         : TSCO (CIK 0000916365) | FY2020
+FILE         : 0000916365_TSCO_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 26, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Significant Accounting Policies:
+ASSET CAT.   : equipment
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-7.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated Useful Lives December 26, 2020 December 28, 2019 Land $ 100,138 $ 100,343 Buildings and improvements 1 – 35 years 1,319,559 1,242,544 Furniture, fixtures and equipment 5 – 10 years 773,178 729,272 Computer software and hardware 2 – 7 years 563,509 440,222 Construction in progress 73,950 39,110 Property and equipment, gross 2,830,334 2,551,491 Accumulated depreciation and amortization (1,581,374) (1,387,535) Property and equipment, net $ 1,248,960 $ 1,163,956
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, “Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.” This update clarifies the accounting treatment for fees paid by a customer in a cloud computing arrangement (hosting arrangement) by providing guidance for determining when the arrangement includes a software license. This guidance is effective for public business entities for fiscal years, and interim periods within those years, beginning after December 15, 2019, with early adoption permitted. The amendments may be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. The Company adopted this guidance on a prospective basis in the first quarter of fiscal 2020. The adoption of this guidance did not have a material impact on our Condensed Consolidated Financial Statements and related disclosures.

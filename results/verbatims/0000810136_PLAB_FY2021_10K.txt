@@ -1,0 +1,24 @@
+FIRM         : PLAB (CIK 0000810136) | FY2021
+FILE         : 0000810136_PLAB_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, except as explained below under "Impairment of Long-Lived Assets," is stated at cost less accumulated depreciation and amortization.
+
+[VERBATIM — Changement de politique]
+Operating Activities : Net cash provided by operating activities reflects net income adjusted for certain non-cash items, including depreciation and amortization, share-based compensation, and the effects of changes in operating assets and liabilities. Net cash provided by operating activities increased by $7.7 million in 2021, compared with 2020, due to increased net income and share based compensation, partially offset by lower depreciation and other noncash adjustments and net changes in working capital, predominantly in Asia. Investing Activities : Net cash flows used in investing activities primarily consisted of purchases of property, plant and equipment. Purchases of property, plant and equipment were $109.1 million in 2021, compared with $70.8 million in 2020, as we increased our tool purchases in the current year, primarily in response to market demands in Asia. Financing Activities : Net cash flows used in financing activities primarily consist of share repurchases, proceeds from and repayments of debt, and contributions from and distributions to noncontrolling interests. Net cash used in financing activities increased by $37.9 million in 2021, compared with 2020, due to increased share repurchases of $13.9 million, an excess of the change in distributions to, as compared with contributions from, noncontrolling interests of $11.0 million, and increased debt repayments of $13.0 million.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

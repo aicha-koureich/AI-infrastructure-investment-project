@@ -1,0 +1,20 @@
+FIRM         : KLXE (CIK 0001738827) | FY2022
+FILE         : 0001738827_KLXE_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-08
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 - Description of Business and Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 1.0-3.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost and depreciated generally under the straight-line method over their estimated useful lives of one to forty years (or the lesser of the term of the lease for leasehold improvements, as appropriate).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : RCUS (CIK 0001724521) | FY2021
+FILE         : 0001724521_RCUS_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 4. Consolidated Balance Sheet Components Property and Equipment Property and equipment, net consisted of the following (in thousands): As of Dece
+ASSET CAT.   : Equipment, Furniture, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Consolidated Balance Sheet Components Property and Equipment Property and equipment, net consisted of the following (in thousands): As of December 31, 2021 2020 Scientific equipment $ 13,856 $ 9,902 Furniture and equipment 1,919 1,521 Capitalized software 539 225 Leasehold improvements 32,171 11,111 Construction in progress 1,698 2,336 Total 50,183 25,095 Less: Accumulated depreciation and amortization ( 17,728 ) ( 14,288 ) Property and equipment, net $ 32,455 $ 10,807 99 Other Accrued Liabilities Other accrued liabilities consisted of the following (in thousands): As of December 31, 2021 2020 Accrued personnel expenses 16,648 8,632 Professional fees 4,938 295 Income taxes payable 1,815 - Other 780 616 Total other accrued liabilities $ 24,181 $ 9,543
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

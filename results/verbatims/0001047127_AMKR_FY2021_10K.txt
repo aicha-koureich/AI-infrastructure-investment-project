@@ -1,0 +1,20 @@
+FIRM         : AMKR (CIK 0001047127) | FY2021
+FILE         : 0001047127_AMKR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-18
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 8. Property, Plant and Equipment
+ASSET CAT.   : Machinery and equipment, Furniture, equipment, computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2021 2020 (In thousands) Land $ 218,140 $ 221,304 Buildings and improvements 1,711,560 1,625,355 Machinery and equipment 6,277,684 5,736,797 Finance lease machinery and equipment 105,294 40,856 Furniture, fixtures and other equipment 22,125 20,774 Software and computer equipment 232,251 231,171 Construction in progress 74,662 48,602 Total property, plant and equipment 8,641,716 7,924,859 Less accumulated depreciation and amortization (5,770,658) (5,358,857) Total property, plant and equipment, net $ 2,871,058 $ 2,566,002
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The $1.1 billion increase in net sales in 2021 compared to 2020 was due to higher sales across all end markets. Sales in the communications end market represented 42% of the increase, driven primarily by the further adoption of 5G smartphones. The automotive and industrial end market recovered in the current year from weakened demand relating to the Covid-19 pandemic in the prior year, representing 25% of our growth in net sales. Sales in the computing end market accounted for 20% of the increase in 2021 due to growth in all applications, primarily due to the shift in cloud computing needs and new product introductions within personal computing. The consumer end market continues to see strong sales, primarily due to demand for both home and personal electronics, and made up the remaining 13% of the increase compared to 2020.

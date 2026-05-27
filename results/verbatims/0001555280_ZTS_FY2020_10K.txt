@@ -1,0 +1,20 @@
+FIRM         : ZTS (CIK 0001555280) | FY2020
+FILE         : 0001555280_ZTS_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Significant Accounting Policies
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in Property, plant and equipment and are amortized using the straight-line method over the estimated useful life of 5 to 10 years. Depreciation expense for capitalized software was $46 million in 2020 , $27 million in 2019 and $23 million in 2018.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Topic 350-40), an accounting standards update which expands the scope of costs associated with cloud computing arrangements that must be capitalized. Under the new guidance, costs associated with implementing a cloud computing arrangement that is a service contract must be capitalized and expensed over the term of the hosting arrangement. We adopted this guidance as of January 1, 2020, the required effective date, on a prospective basis. The adoption did not have a significant impact on our consolidated financial statements. ||| (Topic 350-40), an accounting standards update which expands the scope of costs associated with cloud computing arrangements that must be capitalized. Under the new guidance, costs associated with implementing a cloud computing arrangement that is a service contract must be capitalized and expensed over the term of the hosting arrangement. We adopted this guidance as of January 1, 2020, the required effective date, on a prospective basis. The adoption did not have a significant impact on our consolidated financial statements.

@@ -1,0 +1,23 @@
+FIRM         : BRO (CIK 0000079282) | FY2016
+FILE         : 0000079282_BRO_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Fair value is estimated based upon multiples of earnings before interest, income taxes, depreciation, amortization and change in estimated acquisition earn-out payables (“EBITDAC”), or on a discounted cash flow basis. Brown & Brown completed its most recent annual assessment as of November 30, 2016 and determined that the fair value of goodwill exceeded the carrying value of such assets. In addition, as of December 31, 2016, there are no accumulated impairment losses.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

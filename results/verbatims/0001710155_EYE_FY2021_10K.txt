@@ -1,0 +1,21 @@
+FIRM         : EYE (CIK 0001710155) | FY2021
+FILE         : 0001710155_EYE_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Business and Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 3.0-7.0 ans | 5.0-10.0 ans | 6.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Buildings 34 years Equipment 3 - 7 years Information technology hardware and software (a) 2 - 5 years Furniture and fixtures 6 years Leasehold improvements (b) 5 - 10 years P&E under finance leases (b) 10 years ____________ (a) Costs of developing or obtaining software for internal use, such as direct costs of materials or services and internal payroll costs related to the software development projects, are capitalized to information technology hardware and software. (b) Depreciation of leasehold improvements is recognized over the shorter of the estimated useful life of the asset or the term of the lease.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing. In August 2018, the FASB issued ASU No. 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. This new guidance aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). We obtain a variety of software solutions and tools through cloud computing arrangements. This new guidance is effective for fiscal years beginning after December 15, 2019, and for interim periods within those fiscal years and may be adopted on a prospective or retrospective basis. We adopted the accounting standard on a prospective basis in the first quarter of 2020. The adoption of this guidance did not have a material impact on the Company’s financial condition, results of operations, or cash flows. ||| This new guidance aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). We obtain a variety of software solutions and tools through cloud computing arrangements. This new guidance is effective for fiscal years beginning after December 15, 2019, and for interim periods within those fiscal years and may be adopted on a prospective or retrospective basis. We adopted the accounting standard on a prospective basis in the first quarter of 2020. The adoption of this guidance did not have a material impact on the Company’s financial condition, results of operations, or cash flows.

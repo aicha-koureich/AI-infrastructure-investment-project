@@ -1,0 +1,20 @@
+FIRM         : COHU (CIK 0000021535) | FY2022
+FILE         : 0000021535_COHU_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2022
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Cohu’s consolidated net sales decreased 8.4% from $887.2 million in 2021 to $812.8 million in 2022. During 2022, although customer test cell utilization rates remained high and we continued to benefit from robust demand for semiconductor test equipment, as compared to 2021, net sales declined due to lower demand for mobility and 5G-related products as well as the divestiture of our PCB Test business, which contributed $26.8 million in sales during 2021 through its disposition on June 24, 2021. During 2021 our net sales were favorably impacted by robust automotive demand, driven by xEV and ADAS technologies, strength in industrial markets, and continued mobility expansion with 5G proliferation. Demand for equipment testing 5G, Wi-Fi 6 and Ultra-Wideband devices, data centers, personal computers and automotive semiconductor and sensors were at near record levels.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

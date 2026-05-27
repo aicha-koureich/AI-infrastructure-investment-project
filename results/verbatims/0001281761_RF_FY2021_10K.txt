@@ -1,0 +1,23 @@
+FIRM         : RF (CIK 0001281761) | FY2021
+FILE         : 0001281761_RF_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2029-08-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 8. PREMISES AND EQUIPMENT
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2021 2020 (In millions) Land $ 419 $ 434 Premises and improvements 1,651 1,678 Furniture and equipment 1,056 1,041 Software 926 836 Leasehold improvements 434 413 Construction in progress 152 208 4,638 4,610 Accumulated depreciation and amortization (2,824) (2,713) $ 1,814 $ 1,897
+
+[VERBATIM — Changement de politique]
+Regions sponsors stock plans which most commonly include restricted stock (i.e., unvested common stock) units, restricted stock awards and performance stock units. The Company accounts for share-based payments under the fair value recognition provisions whereby compensation cost is measured based on the estimated fair value of the award at the grant date and is recognized in the consolidated financial statements on a straight-line basis over the requisite service period for service-based awards. The fair value of restricted stock units, restricted stock awards or performance stock units is determined based on the closing price of Regions common stock on the date of grant. Historical data is also used to estimate future employee attrition, which is considered in calculating estimated forfeitures. Estimated forfeitures are adjusted when actual forfeitures differ from estimates, resulting in the recognition of compensation cost only for awards that vest. The effect of a change in estimated forfeitures is recognized through a cumulative catch-up adjustment that is included in salaries and employee benefits expense in the period of the change in estimate. As compensation cost is recognized, a deferred tax asset is recorded that represents an estimate of the future tax deduction from exercise or release of restrictions. At the time the share-based awards are exercised, cancelled, have expired, or restrictions are released, the Company may be required to recognize an adjustment to
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

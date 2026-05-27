@@ -1,0 +1,20 @@
+FIRM         : CFR (CIK 0000039263) | FY2023
+FILE         : 0000039263_CFR_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-24
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4 - Premises and Equipment and Lease Commitments
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of premises and equipment totaled $60.6 million in 2023, $57.4 million 2022 and $55.1 million in 2021.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Technology, Furniture and Equipment. Technology, furniture and equipment expense for 2023 increased $14.5 million, or 12.0%, compared to 2022. The increase was primarily related to increases in cloud services expense (up $10.2 million) and service contracts expense (up $3.9 million), among other things. ||| Technology, furniture and equipment expense for 2023 increased $14.5 million, or 12.0%, compared to 2022. The increase was primarily related to increases in cloud services expense (up $10.2 million) and service contracts expense (up $3.9 million), among other things.

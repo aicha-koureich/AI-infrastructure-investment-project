@@ -1,0 +1,24 @@
+FIRM         : MRK (CIK 0000310158) | FY2018
+FILE         : 0000310158_MRK_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 2. Summary of Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 6.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+and amortized beginning when the software project is substantially complete and the asset is ready for its intended use. Capitalized software costs associated with projects that are being amortized over
+
+[VERBATIM — Changement de politique]
+In April 2018, the FASB issued new guidance on the accounting for costs incurred to implement a cloud computing arrangement that is considered a service arrangement. The new guidance requires the capitalization of such costs, aligning it with the accounting for costs associated with developing or obtaining internal-use software. The new guidance is effective for interim and annual periods beginning in 2020. Early adoption is permitted, including adoption in any interim period. Prospective adoption for eligible costs incurred on or after the date of adoption or retrospective adoption is permitted. The Company is currently evaluating the impact of adoption on its consolidated financial statements and may elect to early adopt this guidance.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2018, the FASB issued new guidance on the accounting for costs incurred to implement a cloud computing arrangement that is considered a service arrangement. The new guidance requires the capitalization of such costs, aligning it with the accounting for costs associated with developing or obtaining internal-use software. The new guidance is effective for interim and annual periods beginning in 2020. Early adoption is permitted, including adoption in any interim period. Prospective adoption for eligible costs incurred on or after the date of adoption or retrospective adoption is permitted. The Company is currently evaluating the impact of adoption on its consolidated financial statements and may elect to early adopt this guidance.

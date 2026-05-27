@@ -1,0 +1,21 @@
+FIRM         : AON (CIK 0000315293) | FY2019
+FILE         : 0000315293_AON_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 6. Restructuring
+ASSET CAT.   : technology, Information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 4.0-6.0 ans | 4.0-7.0 ans | 4.0-10.0 ans | 6.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+These charges are included in Compensation and benefits, Information technology, Premises, Depreciation of fixed assets, and Other general expense in the accompanying Consolidated Statements of Income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| In August 2018, the FASB issued new accounting guidance on implementation costs incurred in a cloud computing arrangement that is a service contract. The new guidance aligns capitalization requirements for certain implementation costs incurred in cloud computing arrangements with existing requirements for capitalizing implementation costs for internal-use software. These costs will be deferred over the term of the hosting arrangement, including any optional renewal periods the entity is reasonably certain to exercise. An entity may apply the new guidance on either a prospective or retrospective basis. The new guidance is effective for Aon in the first quarter of 2020. The Company will adopt the new guidance on a prospective basis for all implementation costs incurred after the date of initial adoption. The Company does not expect adoption to have a significant impact on the Consolidated Financial Statements.

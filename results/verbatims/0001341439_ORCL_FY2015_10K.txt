@@ -1,0 +1,37 @@
+FIRM         : ORCL (CIK 0001341439) | FY2015
+FILE         : 0001341439_ORCL_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : May 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+In addition to providing a broad spectrum of cloud offerings, we develop and sell our products and services to our
+customers worldwide for use in their global data centers and on-premise IT environments. An important element of our corporate strategy is to continue our investments in, and innovation with respect to, our products and services that we offer
+through our cloud and on-premise software, hardware and services businesses. We have a deep understanding as to how all components within IT environments—application, platform and infrastructure—interact and function with one another. We
+focus our development efforts on improving the performance, security, operation and integration of these differing technologies to make them more cost-effective and easier to deploy, manage and maintain for our customers and to improve their
+computing performance relative to our competitors. After the initial purchase of Oracle products and services, our customers can continue to take advantage of our research and development investments and deep IT expertise by purchasing and renewing
+Oracle support offerings, which may include product enhancements that we periodically deliver to our Oracle E-Business Suite, Siebel, PeopleSoft and JD Edwards application software products, among others, or by renewing their SaaS, PaaS and IaaS
+contracts with us.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Our comprehensive and fully integrated stack of SaaS, PaaS and IaaS offerings integrate the software, hardware and services on the
+customers’ behalf in IT environments that we deploy, support and manage for the customer. Our integrated Oracle Cloud offerings are designed to be rapidly deployable to enable customers shorter time to innovation; easily maintainable to reduce
+integration and testing work; connectable among differing deployment models to enable interchangeability and extendibility between cloud and on-premise IT environments; compatible to easily move workloads between on-premise IT environments and the
+Oracle Cloud; cost-effective by requiring lower upfront customer investment; and secure, standards-based and reliable. We are a leader in the core technologies of cloud IT environments, including database and middleware software as well as
+enterprise applications, virtualization, clustering, large-scale systems management and related infrastructure. Our products and services are the building blocks of our Oracle Cloud services, our partners’ cloud services and our customers’
+cloud IT environments. ||| Cloud Infrastructure as a Service: Our cloud IaaS segment, which represented 2% of our total revenues in each of
+fiscal 2016 and 2015, and 1% of our total revenues in fiscal 2014, provides infrastructure cloud services that are enterprise-grade, hosted and supported within the Oracle Cloud to perform elastic compute, storage and networking services on a
+subscription basis. Our cloud IaaS segment also offers Oracle Managed Cloud Services, which are comprehensive software and hardware management and maintenance services for customer IT infrastructure for a fee for a stated term that are hosted at our
+Oracle data center facilities, select partner data centers or physically on-premise at customer facilities. ||| Hardware Products: We provide a broad selection of hardware and related services, including
+Oracle Engineered Systems, servers, storage, networking, workstations and related devices, industry-specific hardware, virtualization software, operating systems, and management software to support diverse IT environments, including cloud computing
+environments. We engineer our hardware products with virtualization and management capabilities to enable the rapid deployment and efficient management of cloud and on-premise IT infrastructures. Our hardware products support many of the
+world’s largest cloud infrastructures, including the Oracle Cloud.

@@ -1,0 +1,21 @@
+FIRM         : CBRE (CIK 0001138118) | FY2018
+FILE         : 0001138118_CBRE_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 4. FacilitySource Acquisition
+ASSET CAT.   : Equipment Computer software
+DURÉE        : 10.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-10.0 ans | 1.0-15.0 ans | 3.0-5.0 ans | 3.0-10.0 ans | 6.67 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+As of December 31, 2018 Asset Class Weighted Average Amortization/ Depreciation Period Amount Assigned at Acquisition Date Accumulated Amortization and Depreciation Net Carrying Value Intangibles Trade name 20 years $ 37,200 $ 1,007 $ 36,193 Customer relationships 6.67 years 11,000 894 10,106 Total amortizable intangible assets acquired 16.96 years $ 48,200 $ 1,901 $ 46,299 Property and Equipment Computer software 10 years $ 38,800 $ 2,102 $ 36,698
+
+[VERBATIM — Infrastructure IA]
+Facilities management involves the day-to-day management of client-occupied space and includes headquarter buildings, regional offices, administrative offices, data centers and other critical facilities, manufacturing and laboratory facilities, distribution facilities and retail space. Contracts for facilities management services are often structured so we are reimbursed for client-dedicated personnel costs and subcontracted vendor costs as well as associated overhead expenses plus a monthly fee, and, in some cases, annual incentives tied to agreed-upon performance targets, with any penalties typically capped. In addition, we have contracts for facilities management services based on fixed fees or guaranteed maximum prices. Fixed fee contracts are typically structured where an agreed upon scope of work is delivered for a fixed price while guaranteed maximum price contracts are structured with an agreed upon scope of work that will be provided to the client for a not to exceed price. Facilities management services represent a series of distinct daily services rendered over time. Consistent with the transfer of control for distinct, daily services to the customer, revenue is typically recognized at the end of each period for the fees associated with the services performed.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

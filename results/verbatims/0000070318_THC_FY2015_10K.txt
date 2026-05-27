@@ -1,0 +1,21 @@
+FIRM         : THC (CIK 0000070318) | FY2015
+FILE         : 0000070318_THC_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment exceeding established minimum amounts with a useful life greater than
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Additions and improvements to property and equipment exceeding established minimum amounts with a useful life greater than one year are capitalized at cost. We use the straight-line method of depreciation for buildings, building improvements and equipment. The estimated useful life for buildings and improvements is primarily 15 to 40 years, and for equipment three to 15 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

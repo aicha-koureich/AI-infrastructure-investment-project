@@ -1,0 +1,23 @@
+FIRM         : SIG (CIK 0000832988) | FY2017
+FILE         : 0000832988_SIG_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 3, 2018
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 19. Fair value measurement
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, net (in millions) February 3, 2018 January 28, 2017 Land and buildings $ 35.9 $ 33.5 Leasehold improvements 689.8 632.4 Furniture and fixtures 804.2 761.0 Equipment 177.0 137.7 Software 271.4 211.0 Construction in progress 97.2 96.7 Total $ 2,075.5 $ 1,872.3 Accumulated depreciation and amortization (1,197.6 ) (1,049.4 ) Property, plant and equipment, net $ 877.9 $ 822.9
+
+[VERBATIM — Changement de politique]
+The Company recognizes revenue related to ESP sales in proportion to when the expected costs will be incurred. The deferral period for ESP sales in each division is determined from patterns of claims costs, including estimates of future claims costs expected to be incurred. Management reviews the trends in claims to assess whether changes are required to the revenue and cost recognition rates utilized. A significant change in estimates related to the time period or pattern in which warranty-related costs are expected to be incurred could materially impact revenues. All direct costs associated with the sale of these plans are deferred and amortized in proportion to the revenue recognized and disclosed as either other current assets or other assets in the consolidated balance sheets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : CRM (CIK 0001108524) | FY2019
+FILE         : 0001108524_CRM_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Business and Significant Accounting Policies
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : 3.0-9.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-9.0 ans | 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Computers, equipment and software 3 to 9 years Furniture and fixtures 5 years Leasehold improvements Shorter of the estimated lease term or 10 years Building and structural components Average weighted useful life of 32 years Building improvements 10 years
+
+[VERBATIM — Infrastructure IA]
+The Company has operating leases for corporate offices, data centers, and equipment under non-cancelable operating leases with various expiration dates. The leases have remaining terms of 1 year to 23 years, some of which include options to extend for up to 5 years, and some of which include options to terminate within 1 year.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We regularly evaluate acquisitions or investment opportunities in complementary businesses, joint ventures, services and technologies and intellectual property rights in an effort to expand our service offerings through a disciplined and thoughtful acquisition process. We expect to continue to make such investments and acquisitions in the future and we plan to reinvest a significant portion of our incremental revenue in future periods to grow our business and continue our leadership role in the cloud computing industry. As part of our business and growth strategy, we are delivering innovative solutions in new categories, including analytics and integration. We drive innovation organically and to a lesser extent through acquisitions, such as our recent business combination with Salesforce.org in June 2019 and acquisitions of Tableau in August 2019 and ClickSoftware in October 2019. ||| Subscription and support revenues are primarily comprised of subscription fees from customers accessing our enterprise cloud computing services (collectively, "Cloud Services"). With the May 2018 acquisition of MuleSoft and the August 2019 acquisition of Tableau, subscription and support revenues also include revenues associated with software licenses. Software license revenues include fees from the sales of term and perpetual licenses. Revenues from software licenses are generally recognized upfront when the software is made available to the customer and revenues from the related support is generally recognized ratably over the contract term. Revenues from software licenses represent less than ten percent of total subscription and support revenue for fiscal 2020, 2019 and 2018. ||| Revenue Recognition - Contracts with Multiple Performance Obligations. We enter into contracts with our customers that may include promises to transfer multiple Cloud Services, software licenses, premium support and professional services. A performance obligation is a promise in a contract with a customer to transfer products or services that are distinct. Determining whether products and services are distinct performance obligations that should be accounted for separately or combined as one unit of accounting may require significant judgment.

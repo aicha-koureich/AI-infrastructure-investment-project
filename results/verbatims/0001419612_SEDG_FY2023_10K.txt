@@ -1,0 +1,36 @@
+FIRM         : SEDG (CIK 0001419612) | FY2023
+FILE         : 0001419612_SEDG_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-21
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES The
+consolidated financial statements are prepared according to United States generally accepted ac
+ASSET CAT.   : equipment, furniture, Machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment: Property,
+plant and equipment are stated at cost, net of accumulated depreciation and government grants. Depreciation
+is calculated by the straight-line method over the estimated useful life of the assets, at the following rates: % Buildings and plants 2.5-5.7 (mainly 2.5) Computers and peripheral equipment 14.3-33.3 (mainly 33.3) Office furniture and equipment 7-25 (mainly 7) Machinery and equipment 10-25 (mainly 10) Laboratory and testing equipment 10-20 (mainly 10) Leasehold improvements over the shorter of the lease term or useful economic life
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud computing arrangements ||| r. Cloud computing arrangements: In
+2021, due to the growing size and complexity of the Company, the Company decided to implement a new global enterprise resource planning
+("ERP") system, which will replace the Company's existing operating and financial systems. During 2022, the Company began implementing
+a cloud-based ERP system. The implementation is expected to occur in phases over the next several years. The
+Company incurs costs to implement cloud computing arrangements ("CCA") that are hosted by third party vendors. Implementation costs associated
+with CCA are capitalized when incurred during the application development phase until the software is ready for its intended use. The
+costs are then amortized on a straight-line basis over the contractual term of the cloud computing arrangement and are recognized as an
+operating expense within the consolidated statements of income. Capitalized amounts related to such arrangements are recorded within other
+long-term assets in the consolidated balance sheets. Cash payments for CCA implementation costs are classified as cash outflows from operating
+activities. As
+of December 31, 2023, and 2022 the Company had capitalized implementation costs related to its upcoming ERP conversion in the amounts
+of $13,666
+and $3,457,
+respectively presented under other long-term assets in the consolidated balance sheet. ||| r. Cloud computing arrangements:

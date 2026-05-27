@@ -1,0 +1,24 @@
+FIRM         : WBD (CIK 0001437107) | FY2021
+FILE         : 0001437107_WBD_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation and impairments. Depreciation for most property and equipment is recognized using the straight-line method over the estimated useful lives of the assets. (See Note 20.)
+
+[VERBATIM — Changement de politique]
+Amortization expense for finite-lived intangible assets reflects the pattern in which the assets' economic benefits are consumed over their estimated useful lives. During the fourth quarter of 2021, the Company reassessed the useful lives and amortization methods for acquired customer relationships and concluded the economic benefits would be consumed in greater proportion earlier in their life with gradual decline, accordingly we have changed the amortization method for these assets from the straight-line method to the sum of the years digits method effective October 1, 2021. This change was considered a change in estimate, was accounted for prospectively, and resulted in incremental amortization expense of $196 million. Amortization expense related to finite-lived intangible assets was $1.3 billion, $1.1 billion and $1.1 billion for the years ended December 31, 2021, 2020 and 2019, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

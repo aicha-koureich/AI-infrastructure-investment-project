@@ -1,0 +1,23 @@
+FIRM         : FCX (CIK 0000831259) | FY2021
+FILE         : 0000831259_FCX_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : buildings
+DURÉE        : 50.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Other assets are depreciated on a straight-line basis over estimated useful lives for the related assets of up to 50 years for buildings and 3 to 50 years for machinery and equipment, and mobile equipment.
+
+[VERBATIM — Changement de politique]
+Indonesia Reclamation and Closure Programs. The ultimate amount of reclamation and closure costs to be incurred at PT-FI’s operations will be determined based on applicable laws and regulations and PT-FI’s assessment of appropriate remedial activities under the circumstances, after consultation with governmental authorities, affected local residents and other affected parties and cannot currently be projected with precision. Some reclamation costs will be incurred during mining activities, while the remaining reclamation costs will be incurred at the end of mining activities, which are currently estimated to continue through 2041. The construction time frame for reclamation of the West Wanagon overburden stockpile has been extended from 2025 to 2029 because safety constraints for working in steep and difficult terrain has reduced labor and equipment operating efficiencies. The time frame extension resulted in longer and escalating fixed costs, combined with additional anticipated volumes of stockpile material to be moved. As a result of the change in estimated costs, an ARO adjustment of $397 million was recorded in 2021, with $340 million charged to production and delivery costs, as it relates to the depleted Grasberg open pit. At December 31, 2021, FCX had accrued reclamation and closure costs of $1.1 billion for its PT-FI operations.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : SWK (CIK 0000093556) | FY2024
+FILE         : 0000093556_SWK_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-28
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 3. Exhibits
+ASSET CAT.   : EQUIPMENT, capitalized software, Machinery and equipment, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+PROPERTY, PLANT AND EQUIPMENT — The Company generally values property, plant and equipment (“PP&E”), including capitalized software, at historical cost less accumulated depreciation and amortization. Depreciation and amortization are provided using straight-line methods over the estimated useful lives of the assets as follows: Useful Life (Years) Land improvements 10 — 20 Buildings 40 Machinery and equipment 3 — 15 Computer software 3 — 7
+
+[VERBATIM — Changement de politique]
+The 5-Year Credit Agreement and the 2024 Syndicated 364-Day Credit Agreement, as described above, contain customary affirmative and negative covenants, including but not limited to, maintenance of an interest coverage ratio. The interest coverage ratio tested for covenant compliance compares adjusted Earnings Before Interest, Taxes, Depreciation and Amortization to adjusted net Interest Expense ("Adjusted EBITDA"/"Adjusted Net Interest Expense"). The Company must maintain, for each period of four consecutive fiscal quarters of the Company, an interest coverage ratio of not less than 3.50 to 1.00, provided that the Company is only required to maintain an interest coverage ratio of not less than (i) 1.50 to 1.00 for any four fiscal quarter period ending on or before the end of the Company’s second fiscal quarter of 2024, and (ii) 2.50 to 1.00 for any four fiscal quarter period ending after the Company’s second fiscal quarter of 2024 through and including the Company’s second fiscal quarter of 2025. For purposes of calculating the Company’s compliance with the interest coverage ratio, as defined in each credit agreement, the Company is permitted to increase EBITDA to allow for additional adjustment addbacks incurred prior to the end of the Company’s second fiscal quarter of 2025, provided that (A) the sum of the applicable adjustment addbacks incurred through and including the Company’s second fiscal quarter of 2024 may not exceed $500 million in the aggregate, and (B) the sum of the applicable adjustment addbacks incurred from the Company’s third fiscal quarter of 2024 through and including the Company’s second fiscal quarter of 2025 may not exceed $250 million in the aggregate; provided, further, that the sum of the applicable adjustment addbacks for any four consecutive fiscal quarter period may not exceed $500 million in the aggregate.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

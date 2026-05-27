@@ -1,0 +1,21 @@
+FIRM         : TRU (CIK 0001552033) | FY2022
+FILE         : 0001552033_TRU_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. Property, Plant and Equipment
+ASSET CAT.   : Computer equipment, furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+(in millions) December 31, 2022 December 31, 2021 Computer equipment and furniture $ 555.7 $ 511.8 Purchased software 227.6 218.3 Building and building improvements 143.1 139.9 Land 3.2 3.2 Total cost of property, plant and equipment 929.6 873.1 Less: accumulated depreciation (711.3) (625.4) Total property, plant and equipment, net of accumulated depreciation $ 218.2 $ 247.7
+
+[VERBATIM — Infrastructure IA]
+As a result of our acquisition of Argus, we acquired additional leases in 2022. Our lease obligations consist of operating leases for office space and data centers and a small number of finance leases for equipment. Our operating leases have remaining lease terms of up to 10.2 years. As of December 31, 2022 and 2021 the weighted-average remaining lease terms were 6.4 years and 6.6 years, respectively. We have options to extend many of our operating leases for an additional period of time and options to terminate several of our operating leases early. The lease term consists of the non-cancelable period of the lease, periods covered by options to extend the lease if we are reasonably certain to exercise the option, periods covered by an option to terminate the lease if we are reasonably certain not to exercise the option, and periods covered by an option to extend or not to terminate the lease in which the exercise of the option is controlled by the lessor.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

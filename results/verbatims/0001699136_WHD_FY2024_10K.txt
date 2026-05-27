@@ -1,0 +1,23 @@
+FIRM         : WHD (CIK 0001699136) | FY2024
+FILE         : 0001699136_WHD_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies and Other Items
+ASSET CAT.   : Machinery and equipment, equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2024 2023 Land $ 16,442 $ 16,442 Buildings and improvements 133,187 131,974 Machinery and equipment 139,605 128,962 Reels and skids 18,737 16,181 Vehicles 41,175 36,552 Rental equipment 222,975 218,340 Furniture and fixtures 1,905 1,913 Computers and software 4,919 3,951 Gross property and equipment 578,945 554,315 Less: Accumulated depreciation (262,198) (231,594) Net property and equipment 316,747 322,721 Construction in progress 29,261 22,781 Total property and equipment, net $ 346,008 $ 345,502
+
+[VERBATIM — Changement de politique]
+The unaudited pro forma combined financial information includes, where applicable, adjustments for additional amortization expense related to the fair value step-up of intangible assets, additional inventory fair value step-up expense, additional depreciation expense associated with adjusting property and equipment to fair value, decreases in interest expense due to modification of borrowings in conjunction with the acquisition and associated tax-related impacts of adjustments.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

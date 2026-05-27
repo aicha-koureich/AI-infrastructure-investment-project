@@ -1,0 +1,20 @@
+FIRM         : LYB (CIK 0001489393) | FY2019
+FILE         : 0001489393_LYB_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Year Ended December 31, Millions of dollars 2019 2018 2017 Property, plant and equipment $ 1,092 $ 1,075 $ 1,023 Investment in PO joint ventures 49 41 41 Emission allowances 63 63 67 Various contracts 32 31 27 Customer relationships 24 8 — In-process research and development costs 8 7 9 Trade name and trademarks 30 7 — Know-how 12 4 — Software costs 2 5 7 Total depreciation and amortization $ 1,312 $ 1,241 $ 1,174
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles— Effective January 1, 2020, we will adopt FASB update, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract. This guidance requires a customer in a hosted, cloud computing arrangement that is a service contract to follow the internal-use software guidance to determine which implementation costs to capitalize as assets or expense as incurred. Capitalized costs are amortized over the term of the hosting arrangement when the recognized asset is ready for its intended use. The adoption of this guidance will not have a material impact on our Consolidated Financial Statements. ||| Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract. ||| This guidance requires a customer in a hosted, cloud computing arrangement that is a service contract to follow the internal-use software guidance to determine which implementation costs to capitalize as assets or expense as incurred. Capitalized costs are amortized over the term of the hosting arrangement when the recognized asset is ready for its intended use. The adoption of this guidance will not have a material impact on our Consolidated Financial Statements.

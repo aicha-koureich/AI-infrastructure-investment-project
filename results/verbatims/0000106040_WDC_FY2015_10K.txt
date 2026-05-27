@@ -1,0 +1,20 @@
+FIRM         : WDC (CIK 0000106040) | FY2015
+FILE         : 0000106040_WDC_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The cost of property, plant and equipment is depreciated over the estimated useful lives of the respective assets.
+
+[VERBATIM — Infrastructure IA]
+Western Digital Corporation (the “Company” or “Western Digital”) is a leading developer, manufacturer and provider of data storage solutions that enable consumers, businesses, governments and other organizations to create, manage, experience and preserve digital content. The Company's product portfolio includes hard disk drives (“HDDs”), solid-state drives ("SSDs"), direct attached storage solutions, personal cloud network attached storage solutions, and public and private cloud data center storage solutions. HDDs are the Company's principal products and are today’s primary storage medium for the vast majority of digital content, with the use of solid-state storage products growing rapidly. The Company's products are marketed under the HGST, WD and G-Technology brand names.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+On October 17, 2013, we acquired Virident, a provider of server-side flash storage solutions for virtualization, database, cloud computing and webscale applications. Virident was fully integrated into our HGST subsidiary and became our wholly owned indirect subsidiary. The purchase price of the acquisition was approximately $613 million, consisting of $598 million which was funded with available cash and $15 million related to the fair value of stock options assumed. The acquisition furthered HGST's strategy to address the rapidly changing needs of enterprise customers by delivering intelligent storage solutions that maximize application performance by leveraging the tightly coupled server, storage and network resources of today’s converged datacenter infrastructures.

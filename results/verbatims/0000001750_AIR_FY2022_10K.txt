@@ -1,0 +1,20 @@
+FIRM         : AIR (CIK 0000001750) | FY2022
+FILE         : 0000001750_AIR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : May 31, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, furniture and fixtures , and capitalized software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is computed on the straight-line method over useful lives of 10-40 years for buildings and improvements and 3-10 years for equipment, furniture and fixtures , and capitalized software .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

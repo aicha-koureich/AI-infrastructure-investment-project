@@ -1,0 +1,20 @@
+FIRM         : AYI (CIK 0001144215) | FY2015
+FILE         : 0001144215_AYI_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company recorded amortization expense related to capitalized software costs of $0.4 , $0.4 , and $0.9 in fiscal 2015 , 2014 , and 2013 , respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer's Accounting For Fees Paid In A Cloud Computing Arrangement ||| (“ASU 2015-05”), which provides guidance for a customer's accounting for cloud computing costs. ASU 2015-05 is effective for ||| In April 2015, the FASB issued ASU No. 2015-05, Customer's Accounting For Fees Paid In A Cloud Computing Arrangement (“ASU 2015-05”), which provides guidance for a customer's accounting for cloud computing costs. ASU 2015-05 is effective for

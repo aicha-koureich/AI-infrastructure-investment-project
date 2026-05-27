@@ -1,0 +1,21 @@
+FIRM         : MPWR (CIK 0001280452) | FY2021
+FILE         : 0001280452_MPWR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : 3.0-8.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-8.0 ans
+
+[VERBATIM — Durée de vie]
+Production equipment and software have estimated useful lives of three to eight years. Transportation equipment has estimated useful lives of 5 to 20 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+For the year ended December 31, 2021, revenue from the computing and storage market increased $119.1 million, or 47.0%, from the same period in 2020. This increase was primarily driven by strong sales growth for enterprise notebooks, cloud computing and storage applications. Revenue from the automotive market increased $95.4 million, or 87.5%, from the same period in 2020. This increase was primarily driven by sales growth for highly integrated applications supporting the digital cockpit, advanced driver assistance systems and connectivity. Revenue from the industrial market increased $65.2 million, or 54.5%, from the same period in 2020. This increase was broad-based with each of our primary product lines enjoying better than double-digit revenue growth. Revenue from the communications market increased $21.8 million, or 15.3%, from the same period in 2020. The increase was primarily due to higher sales of products for infrastructure and wireless applications. Revenue from the consumer market increased $61.9 million, or 28.1%, from the same period in 2020. This increase was primarily driven by increased sales for home appliances and smart TV's.

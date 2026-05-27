@@ -1,0 +1,20 @@
+FIRM         : AEO (CIK 0000919012) | FY2022
+FILE         : 0000919012_AEO_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 17. Impairment, Restructuring and COVID-19 – Related Charges
+ASSET CAT.   : information technology, office equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Leases The Company leases all store premises, the Canadian distribution center in Mississauga, Ontario, regional distribution facilities, some of its office space and certain information technology and office equipment. These leases are generally classified as operating leases. Store leases generally provide for a combination of base rentals and contingent rent based on store sales. Additionally, most leases include lessor incentives such as construction allowances and rent holidays. The Company is typically responsible for tenant occupancy costs including maintenance costs, common area charges, real estate taxes and certain other expenses. When measuring operating lease ROU assets and operating lease liabilities, the Company only includes cash flows related to options to extend or terminate leases once those options are executed. Some leases have variable payments. However, because they are not based on an index or rate, they are not included in the measurement of operating lease ROU assets and operating lease liabilities. When determining the present value of future payments for an operating lease that does not have a readily determinable implicit rate, the Company uses its incremental borrowing rate as of the date of initial possession of the leased asset. For leases that qualify for the short-term lease exemption, the Company does not record an operating lease liability or operating lease ROU asset. Short-term lease payments are recognized on a straight-line basis over the lease term of 12 months or less. Refer to Note 11 to the Consolidated Financial Statements for additional information.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

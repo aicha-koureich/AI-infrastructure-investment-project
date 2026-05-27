@@ -1,0 +1,21 @@
+FIRM         : RGP (CIK 0001084765) | FY2019
+FILE         : 0001084765_RGP_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : May 25, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 4. Intangible Assets and Goodwill
+ASSET CAT.   : Furniture, equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+﻿ Building 30 years Furniture 5 to 10 years Leasehold improvements Lesser of useful life of asset or term of lease Computer, equipment and software 3 to 5 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles — Goodwill and Other — Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. In August 2018, the Financial Accounting Standards Board (“ FASB ”) issued ASU 2018-15, which aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). An entity in a hosting arrangement that is a service contract must determine which implementation costs to capitalize as an asset related to the service contract and which costs to expense. Costs that cannot be capitalized include training costs, certain data conversion costs, costs incurred during preliminary project and post implementation stages. Costs that are subject to evaluation for potential capitalization are incurred during the application development stage. The guidance also specifies factors to consider when developing the period over which to amortize the capitalized costs once the arrangement is deployed for usage by the entity and elements to consider in analyzing potential impairment of the asset. ||| The guidance is effective for financial statements for annual periods beginning after December 15, 2019 (for the Company, fiscal 2021) and for interim periods within those fiscal years. However, early adoption is permitted. The Company adopted this guidance prospectively in the first quarter of fiscal 2019 as the Company has an initiative involving a cloud computing arrangement. The initiative is now complete and the amount capitalized during fiscal 2019 was approximately $0.8 million and is accounted for in Other Assets in the Company’s Consolidated Balance Sheet. ||| periods within those fiscal years. However, early adoption is permitted. The Company adopted this guidance prospectively in the first quarter of fiscal 2019 as the Company has an initiative involving a cloud computing arrangement. The initiative is now complete and the amount capitalized during fiscal 2019 was approximately $0.8 million and is accounted for in Other Assets in the Company’s Consolidated Balance Sheet.

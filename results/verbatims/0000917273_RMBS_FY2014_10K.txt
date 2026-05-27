@@ -1,0 +1,20 @@
+FIRM         : RMBS (CIK 0000917273) | FY2014
+FILE         : 0000917273_RMBS_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We are an innovative technology solutions company that brings invention to market. Our customers leverage our customizable platforms, services and tools to improve, differentiate and accelerate the development of products and services. Our extensive technology portfolio addresses the evolving power, performance and security requirements of the mobile, cloud computing and connected device markets. We drive innovations in memory, chip interfaces and architectures, end-to-end security, and advanced LED lighting, while also looking to disruptions and opportunities in tomorrow’s high-growth markets. We generate revenue by licensing our inventions and solutions and providing services to market-leading companies.

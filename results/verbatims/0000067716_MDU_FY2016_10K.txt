@@ -1,0 +1,20 @@
+FIRM         : MDU (CIK 0000067716) | FY2016
+FILE         : 0000067716_MDU_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 13 - Business Segment Data
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2016 2015 2014 (In thousands) Property, plant and equipment: Electric (c) $ 1,888,613 $ 1,786,148 $ 1,457,101 Natural gas distribution (c) 2,179,413 2,076,581 1,904,759 Pipeline and midstream 672,199 758,729 818,388 Construction materials and contracting 1,549,375 1,553,428 1,529,942 Construction services 171,361 163,279 144,395 Other 49,268 49,537 50,937 Less accumulated depreciation, depletion and amortization 2,578,902 2,489,322 2,385,202 Net property, plant and equipment $ 3,931,327 $ 3,898,380 $ 3,520,320
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

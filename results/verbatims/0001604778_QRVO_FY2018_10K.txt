@@ -1,0 +1,24 @@
+FIRM         : QRVO (CIK 0001604778) | FY2018
+FILE         : 0001604778_QRVO_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 30, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 1. The Company recorded restructuring expenses, including accelerated depreciation and impairment charges on certain property and equipment, of
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+The Company recorded restructuring expenses, including accelerated depreciation and impairment charges on certain property and equipment, of
+
+[VERBATIM — Changement de politique]
+The Company periodically evaluates the period over which it expects to recover the economic value of the Company’s property and equipment, considering factors such as changes in machinery and equipment technology, the ability to re-use equipment across generations of process technology and historical usage trends. If the Company determines that the useful lives of its assets are shorter or longer than originally estimated, the rate of depreciation is adjusted to reflect the revised useful lives of the assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract" ||| which clarifies the accounting for implementation costs in cloud computing arrangements. The Company adopted ASU 2018-15, on a prospective basis, in the fourth quarter of fiscal 2019 and there was no material impact to the Company's Consolidated Financial Statements. ||| In August 2018, the FASB issued ASU 2018-15, " Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract" which clarifies the accounting for implementation costs in cloud computing arrangements. The Company adopted ASU 2018-15, on a prospective basis, in the fourth quarter of fiscal 2019 and there was no material impact to the Company's Consolidated Financial Statements.

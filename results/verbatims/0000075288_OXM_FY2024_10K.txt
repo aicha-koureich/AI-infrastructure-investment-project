@@ -1,0 +1,20 @@
+FIRM         : OXM (CIK 0000075288) | FY2024
+FILE         : 0000075288_OXM_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment, including leasehold improvements that are reimbursed by landlords as a tenant improvement allowance and assets under capital leases, if any, is carried at cost less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Other assets as of February 1, 2025, increased primarily due to (1) an increase in capitalizable implementation costs associated with cloud computing arrangements and (2) an increase in the fair value of life insurance policies associated with our deferred compensation plans.

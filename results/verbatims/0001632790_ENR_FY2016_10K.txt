@@ -1,0 +1,23 @@
+FIRM         : ENR (CIK 0001632790) | FY2016
+FILE         : 0001632790_ENR_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 1. Gain/(loss) recognized in Income was recorded as follows: Share option in Selling, general and administrative expense and foreign currency and comm
+ASSET CAT.   : Capitalized Software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized Software Costs – Capitalized software costs are included in other assets. These costs are amortized using the straight-line method over periods of related benefit ranging from three to seven years. Expenditures related to capitalized software are included in the Capital expenditures caption in the Consolidated Statements of Cash Flows. For the twelve months ended September 30, 2016 , 2015 and 2014 , amortization expense was $3.6 , $4.7 and $1.9 in fiscal 2016 , 2015 and 2014 , respectively.
+
+[VERBATIM — Changement de politique]
+– Property, plant and equipment, net is stated at historical costs. Expenditures for new facilities and expenditures that substantially increase the useful life of property, including interest during construction, are capitalized and reported in the Capital expenditures caption in the Consolidated Statements of Cash Flows. Maintenance, repairs and minor renewals are expensed as incurred. When property is retired or otherwise disposed of, the related cost and accumulated depreciation are removed from the accounts, and gains or losses on the disposition are reflected in earnings. Depreciation is generally provided on the straight-line basis by charges to pre-tax earnings at rates based on estimated useful lives. Estimated useful lives range from
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+, which provides criteria to review cloud computing arrangements to determine whether the arrangement contains a software license or is solely a service contract. If the arrangement is determined to be a software license, fees paid to the vendor would be within the scope of internal-use software guidance. If not, the fees paid would be expensed as incurred. The update will be effective for Energizer beginning October 1, 2016. The Company's current accounting for cloud computing arrangements is consistent with this guidance. ||| On April 15, 2015, the FASB issued ASU 2015-05, Intangibles - Goodwill and other - internal-use software (Subtopic 350-40) , which provides criteria to review cloud computing arrangements to determine whether the arrangement contains a software license or is solely a service contract. If the arrangement is determined to be a software license, fees paid to the vendor would be within the scope of internal-use software guidance. If not, the fees paid would be expensed as incurred. The update will be effective for Energizer beginning October 1, 2016. The Company's current accounting for cloud computing arrangements is consistent with this guidance.

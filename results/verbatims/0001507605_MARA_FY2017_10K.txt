@@ -1,0 +1,29 @@
+FIRM         : MARA (CIK 0001507605) | FY2017
+FILE         : 0001507605_MARA_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Our
+historical business is to acquire patents and patent rights and to monetize the value of those assets to generate revenue and
+profit for Marathon Patent Group, Inc. (the “Company”). With the increasing difficulties experienced in the patent
+monetization space associated with judicial and legislative changes over the last couple of years, the Board of Directors
+of the Company began to consider alternate business to enter into during the summer of 2017. Following an analysis of a number
+of different options, on November 1, 2017, we entered into a merger agreement with Global Bit Ventures, Inc. (“GBV”),
+which is focused on mining digital assets. We have since purchased our cryptocurrency mining machines and established a data center
+in Canada to mine digital assets. Following the merger, we intend to add GBV’s existing technical capabilities and digital
+asset miners and expand our activities in the mining of new digital assets, while at the same time harvesting the value of our
+remaining IP assets.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

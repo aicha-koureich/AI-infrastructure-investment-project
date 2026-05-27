@@ -1,0 +1,23 @@
+FIRM         : LUV (CIK 0000092380) | FY2018
+FILE         : 0000092380_LUV_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Classic aircraft as part of this accelerated retirement schedule. This change in retirement dates was considered a change in estimate and was accounted for on a prospective basis as of the dates the decisions were finalized. Therefore, the Company recorded accelerated depreciation expense over the remainder of the useful lives for each Classic aircraft and related parts. See Note 7 for further information regarding the Company's aircraft fleet.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+On August 29, 2018, the Financial Accounting Standards Board (the "FASB") issued ASU No. 2018-15, Intangibles—Goodwill and Other—Internal-Use Software. This new standard requires a customer in a cloud computing arrangement that is a service contract to follow the internal-use software guidance in Accounting Standards Codification ("ASC") 350-40, Accounting for Internal-Use Software, to determine which implementation costs to (i) capitalize as assets and amortize over the term of the hosting arrangement or (ii) expense as incurred. This new standard is effective for public business entities in fiscal years beginning after December 15, 2019. Early adoption is permitted, including during an interim period. Entities have the option to apply this standard prospectively to all implementation costs incurred after the date of adoption or retrospectively. The Company is evaluating this new standard, but does not expect it to have a significant impact on its financial statement presentation or results.

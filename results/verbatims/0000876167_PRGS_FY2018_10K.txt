@@ -1,0 +1,20 @@
+FIRM         : PRGS (CIK 0000876167) | FY2018
+FILE         : 0000876167_PRGS_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1: Nature of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Useful lives by major asset class are as follows: computer equipment and software,
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| ("ASU 2018-15"). ASU 2018-15 amends current guidance to align the accounting for costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing costs associated with developing or obtaining internal-use software. Capitalized implementation costs must be expensed over the term of the hosting arrangement and presented in the same line item in the statement of income as the fees associated with the hosting element (service) of the arrangement. The guidance in ASU 2018-15 is effective for annual reporting periods beginning after December 15, 2019, with early adoption permitted. We are currently accounting for costs incurred in a cloud computing arrangement in accordance with the guidance provided in ASU 2018-15. ||| In August 2018, the FASB issued Accounting Standards Update No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ("ASU 2018-15"). ASU 2018-15 amends current guidance to align the accounting for costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing costs associated with developing or obtaining internal-use software. Capitalized implementation costs must be expensed over the term of the hosting arrangement and presented in the same line item in the statement of income as the fees associated with the hosting element (service) of the arrangement. The guidance in ASU 2018-15 is effective for annual reporting periods beginning after December 15, 2019, with early adoption permitted. We are currently accounting for costs incurred in a cloud computing arrangement in accordance with the guidance provided in ASU 2018-15.

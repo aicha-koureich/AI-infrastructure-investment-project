@@ -1,0 +1,23 @@
+FIRM         : EXC (CIK 0001109357) | FY2020
+FILE         : 0001109357_EXC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 24 — Supplemental Financial Information for Generation’s and the Utility Registrants' utility taxes that are presented on a gross basis.
+ASSET CAT.   : Capitalized Software, equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : A100;B100 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Certain other capitalized software costs are being amortized over longer lives based on the expected life or pursuant to prescribed regulatory requirements.
+
+[VERBATIM — Changement de politique]
+As a result of the decision to early retire Byron and Dresden, Exelon and Generation recognized certain one-time charges for the year ended December 31, 2020 related to materials and supplies inventory reserve adjustments, employee-related costs, including severance benefit costs further discussed below, and construction work-in-progress impairments, among other items. In addition, as a result of the decisions to early retire Byron and Dresden, there are ongoing annual financial impacts stemming from shortening the expected economic useful lives of these nuclear plants primarily related to accelerated depreciation of plant assets (including any ARC), accelerated amortization of nuclear fuel, and changes in ARO accretion expense associated with the changes in decommissioning timing and cost assumptions to reflect an earlier retirement date. See Note 10 — Asset Retirement Obligations for additional information on changes to the nuclear decommissioning ARO balance and Note 12 — Asset Impairments for impairment assessment considerations given to the Midwest asset group as a result of the early retirement decision. The total impact on Exelon's and Generation's Consolidated Statements of Operations and Comprehensive Income is summarized in the table below.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

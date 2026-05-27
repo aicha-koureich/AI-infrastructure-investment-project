@@ -1,0 +1,20 @@
+FIRM         : TILE (CIK 0000715787) | FY2022
+FILE         : 0000715787_TILE_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, furniture
+DURÉE        : 3.0-12.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100;B100 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is computed using the straight-line method over the following estimated useful lives: buildings and improvements – ten to forty years; and furniture and equipment – three to twelve years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

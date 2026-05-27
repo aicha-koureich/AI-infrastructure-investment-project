@@ -1,0 +1,21 @@
+FIRM         : HP (CIK 0000046765) | FY2020
+FILE         : 0000046765_HP_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2020
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 12—Stock-based Compensation
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Up until the end of fiscal year 2019, leases of property, plant and equipment were classified as either capital or operating leases. Payments made under operating leases (net of any incentives received from the lessor) were charged to the income statement on a straight-line basis over the period of the lease (“levelized lease cost”).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : HTZ (CIK 0001657853) | FY2021
+FILE         : 0001657853_HTZ_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost and are depreciated utilizing the straight-line method over the estimated useful lives of the related assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We incurred charges of $213 million for impairment of intangible and other assets in 2020 due primarily to $124 million impairment of technology-related intangible assets and $69 million impairment of capitalized cloud computing implementation costs in our corporate operations due to uncertainty surrounding our financial ability to complete certain information technology projects as a result of COVID-19 and the filing of the Chapter 11 Cases. Additionally, we incurred a charge of $20 million for impairment of the Hertz tradename in our historical International RAC segment as a result of our annual testing of the recoverability of our indefinite-lived intangible assets. ||| (4) Represents the impairment of technology-related intangible assets and capitalized cloud computing cost. In 2020, also represented impairment of other assets and the Hertz tradename. See Note 5, "Goodwill and Intangible Assets, Net," in Part II, Item 8 of this 2021 Annual Report. ||| Represents the impairment of technology-related intangible assets and capitalized cloud computing cost.

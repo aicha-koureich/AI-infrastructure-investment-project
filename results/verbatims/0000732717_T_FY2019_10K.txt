@@ -1,0 +1,23 @@
+FIRM         : T (CIK 0000732717) | FY2019
+FILE         : 0000732717_T_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment costs are depreciated using straight-line methods over their estimated economic lives. Accordingly, when a portion of their depreciable property, plant and equipment is retired in the ordinary course of business, the gross book value is reclassified to accumulated depreciation, and no gain or loss is recognized on the disposition of these assets.
+
+[VERBATIM — Changement de politique]
+Each of the Agreements contains covenants that are customary for an issuer with an investment grade senior debt credit rating, as well as a net debt-to-EBITDA (earnings before interest, taxes, depreciation and amortization, and other modifications described in each agreement) financial ratio covenant requiring AT&T to maintain, as of the last day of each fiscal quarter, a ratio of not more than 3.5-to-1. The events of default are customary for agreements of this type and such events would result in the acceleration of, or would permit the lenders to accelerate, as applicable, required payments and would increase each agreement’s relevant Applicable Margin by 2.00% per annum.
+
+[VERBATIM — Infrastructure IA]
+Data Colocation Operations On December 31, 2018, we sold certain data centers to Brookfield Infrastructure Partners for $ 1,100 and recorded a pre-tax gain of $ 432. The sale included assets; primarily consisting of property, plant and equipment, of $ 298; and goodwill of $ 215.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

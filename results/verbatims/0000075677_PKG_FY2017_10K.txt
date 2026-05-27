@@ -1,0 +1,23 @@
+FIRM         : PKG (CIK 0000075677) | FY2017
+FILE         : 0000075677_PKG_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 18. Commitments, Guarantees, Indemnifications, and Legal Proceedings
+ASSET CAT.   : Machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Year Ended December 31 2017 2016 Buildings $ 0.3 $ 0.3 Machinery and equipment 28.5 28.5 Total 28.8 28.8 Less accumulated amortization (15.2 ) (13.7 ) Total $ 13.6 $ 15.1
+
+[VERBATIM — Changement de politique]
+The amount of depreciation expense was $347.8 million, $324.1 million, and $323.0 million for the years ended December 31, 2017, 2016, and 2015, respectively. In 2017, we recognized incremental depreciation expense of $10.5 million, primarily related to the announced second quarter 2018 discontinuation of uncoated free sheet and coated one-side grades at the Wallula, Washington mill associated with the conversion of the No. 3 paper machine to a high-performance 100% virgin kraft linerboard machine. In 2016, we recognized incremental depreciation expense of $2.9 million, primarily related to facilities closure costs and the Wallula, Washington mill restructuring due to the discontinuation of market pulp production. During the year ended December 31, 2015, we recognized $9.0 million of incremental depreciation expense primarily related to shortening the useful lives of assets related to the restructuring at the DeRidder, Louisiana, mill.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : DV (CIK 0001819928) | FY2024
+FILE         : 0001819928_DV_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-27
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : software, which is
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-2.0 ans | 3.0 ans
+
+[VERBATIM — Durée de vie]
+Once this software is ready for use in the Company’s products, these costs are amortized on a straight-line basis over the estimated useful life of the software, which is 3 years. Amortization expense was $9.8 million, $7.3 million, and $5.5 million on capitalized internal-use software costs during the years ended December 31, 2024, 2023 and 2022, respectively.
+
+[VERBATIM — Infrastructure IA]
+The Company has operating and financing leases for corporate offices, data centers, and certain equipment. The Company determines if an arrangement is a lease at inception and does not recognize a right-of-use (“ROU”) asset or lease liability with a term shorter than 12 months. Additionally, the Company does not separate lease components from non-lease components for the specified asset classes. An ROU asset represents the Company’s right to use an underlying asset for the lease term and lease liabilities represent its obligation to make lease payments arising from the lease. Operating lease ROU assets and lease liabilities are to be recognized at commencement date based on the present value of lease payments not yet paid over the lease term. The lease term includes the minimum unconditional term of the lease, and may include options to extend or terminate the lease when it is reasonably certain at the commencement date that such options will be exercised.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Cost of revenue increased by $9.9 million, or 9%, from $106.6 million in the year ended December 31, 2023 to $116.5 million in the year ended December 31, 2024. The increase was due primarily to growth in Activation revenue which drove increases in partner costs from revenue-sharing arrangements, as well as investments in cloud services to provide the scale and flexibility necessary to support future growth.

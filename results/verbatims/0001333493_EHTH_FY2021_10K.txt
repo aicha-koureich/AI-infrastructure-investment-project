@@ -1,0 +1,23 @@
+FIRM         : EHTH (CIK 0001333493) | FY2021
+FILE         : 0001333493_EHTH_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-04-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 Summary of Business and Significant Accounting Policies
+ASSET CAT.   : Equipment, Computer equipment, Office equipment and furniture
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment – Our property and equipment are summarized as of the periods presented below (in thousands): December 31, 2021 December 31, 2020 Computer equipment and software $ 13,243 $ 20,121 Office equipment and furniture 6,854 6,292 Leasehold improvements 7,458 7,458 Property and equipment, gross 27,555 33,871 Less accumulated depreciation and amortization (15,450) (19,262) Property and equipment, net $ 12,105 $ 14,609
+
+[VERBATIM — Changement de politique]
+(2) Depreciation and amortization has been adjusted to include amortization of software development costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

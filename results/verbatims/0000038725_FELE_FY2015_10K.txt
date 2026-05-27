@@ -1,0 +1,21 @@
+FIRM         : FELE (CIK 0000038725) | FY2015
+FILE         : 0000038725_FELE_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Betterments and major renewals which extend the useful lives or add to the productive capacity of buildings, improvements, and equipment are capitalized.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles-Goodwill and Other Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Agreement ||| . The ASU will require an entity's management to assess, for each annual and interim period, whether a cloud computing arrangement includes a software license. All software licenses within the scope of Subtopic 350-40 will be accounted for consistent with other licenses of intangible assets. If the arrangement does not include a software license, the arrangement should be accounted for as a service contract. The ASU will be effective for interim and annual periods beginning after December 15, 2015 and early adoption is permitted. Entities will have the choice of prospective or retrospective adoption of the standard. The Company does not expect the adoption of this standard beginning in the 2016 fiscal year to have a material impact on the Company's consolidated financial position, results of operations, cash flows, or related disclosures. ||| In April 2015, the FASB issued ASU 2015-05, Intangibles-Goodwill and Other Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Agreement . The ASU will require an entity's management to assess, for each annual and interim period, whether a cloud computing arrangement includes a software license. All software licenses within the scope of Subtopic 350-40 will be accounted for consistent with other licenses of intangible assets. If the arrangement does not include a software license, the arrangement should be accounted for as a service contract. The ASU will be effective for interim and annual periods beginning after December 15, 2015 and early adoption is permitted. Entities will have the choice of prospective or retrospective adoption of the standard. The Company does not expect the adoption of this standard beginning in the 2016 fiscal year to have a material impact on the Company's consolidated financial position, results of operations, cash flows, or related disclosures.

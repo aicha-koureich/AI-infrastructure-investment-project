@@ -1,0 +1,20 @@
+FIRM         : WBS (CIK 0000801337) | FY2014
+FILE         : 0000801337_WBS_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 24: Subsequent Event
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+At December 31, (In thousands) 2014 2013 Land $ 12,987 $ 13,777 Buildings and improvements 95,843 97,586 Leasehold improvements 78,029 74,127 Fixtures and equipment 73,180 70,819 Data processing and software 175,887 162,693 Total premises and equipment 435,926 419,002 Less: Accumulated depreciation and amortization (313,993 ) (297,397 ) Premises and equipment, net $ 121,933 $ 121,605
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : MORN (CIK 0001289419) | FY2015
+FILE         : 0001289419_MORN_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Computer Software, capitalized software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Computer Software and Internal Product Development Costs. We capitalize certain costs in accordance with FASB ASC 350-40, Internal-Use Software , FASB ASC 350-50, Website Development Costs, and FASB ASC 985, Software . Internal product development costs mainly consist of employee costs for developing new web-based products and certain major enhancements of existing products. We amortize these costs on a straight-line basis over the estimated economic life, which is generally three to five years. We include capitalized software development costs related to projects that have not been placed into service in our construction in progress balance.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

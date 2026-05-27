@@ -1,0 +1,24 @@
+FIRM         : MDLZ (CIK 0001103982) | FY2022
+FILE         : 0001103982_MDLZ_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies
+ASSET CAT.   : software, which do not exceed
+DURÉE        : 7.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.9 ans | 4.1 ans | 6.6 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in property, plant and equipment and amortized on a straight-line basis over the estimated useful lives of the software, which do not exceed seven years.
+
+[VERBATIM — Changement de politique]
+(4) In 2022, we recognized non-cash asset write-downs (including accelerated depreciation and other non-cash adjustments, including any gains on sale of assets, primarily real estate, included in the restructuring program totaling $8 million. In 2021, we recognized non-cash asset write-downs (including accelerated depreciation and asset impairments), non-cash pension settlement losses and other non-cash adjustments, partially offset by gains on sale of assets, primarily real estate, included in the restructuring program totaling $73 million.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

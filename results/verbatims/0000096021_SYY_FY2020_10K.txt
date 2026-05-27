@@ -1,0 +1,21 @@
+FIRM         : SYY (CIK 0000096021) | FY2020
+FILE         : 0000096021_SYY_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 27, 2020
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 9. PLANT AND EQUIPMENT
+ASSET CAT.   : equipment, Computer hardware
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Jun. 27, 2020 Jun. 29, 2019 Estimated Useful Lives (In thousands) Plant and equipment at cost: Land $ 493,694 $ 498,180 Buildings and improvements 4,854,307 4,545,099 10-30 years Fleet and equipment 3,561,500 3,697,008 3-10 years Computer hardware and software 1,258,980 1,213,942 3-7 years Total plant and equipment at cost 10,168,481 9,954,229 Accumulated depreciation (5,709,914) (5,452,524) Total plant and equipment, net $ 4,458,567 $ 4,501,705
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Implementation Costs Incurred in a Cloud Computing Arrangement ||| In August 2018, the FASB issued ASU 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract, which aligns the accounting for implementation costs incurred in a cloud computing arrangement that is a service contract with the guidance on capitalizing costs associated with developing or obtaining internal-use software. The guidance amends Accounting Standards Codification (ASC) 350 to include in its scope implementation costs of a cloud computing arrangement that is a service contract and clarifies that a customer should apply ASC 350 to determine which implementation costs should be capitalized in such a cloud computing arrangement. This guidance is effective for fiscal years and interim periods within those fiscal years beginning after December 15, 2019, which is the first quarter of fiscal 2021 for Sysco, with early adoption permitted.

@@ -1,0 +1,20 @@
+FIRM         : F (CIK 0000037996) | FY2019
+FILE         : 0000037996_F_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-01
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract ||| ASU Effective Date (a) 2018-18 Clarifying the Interaction between Collaborative Arrangements and Revenue from Contracts with Customers January 1, 2020 2018-15 Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract January 1, 2020 2016-13 Credit Losses - Measurement of Credit Losses on Financial Instruments January 1, 2020 (b) 2020-01 Clarifying the Interaction between Equity Securities, Equity Method and Joint Ventures, and Derivatives and Hedging January 1, 2021 2019-12 Simplifying the Accounting for Income Taxes January 1, 2021 2018-12 Targeted Improvements to the Accounting for Long Duration Contracts January 1, 2022 ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service

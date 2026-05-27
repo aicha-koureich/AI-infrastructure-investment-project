@@ -1,0 +1,20 @@
+FIRM         : ZD (CIK 0001084048) | FY2018
+FILE         : 0001084048_ZD_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Fixtures, which are comprised primarily of leasehold improvements and equipment under capital leases, are amortized on a straight-line basis over their estimated useful lives or for leasehold improvements, the related lease term, if less.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+j2 Global, Inc., together with its subsidiaries (“j2 Global”, “the Company”, “our”, “us” or “we”), is a leading provider of internet services. Through our Cloud Services business, we provide cloud services to consumers and businesses and license our intellectual property (“IP”) to third parties. In addition, the Cloud Services business includes fax, voice, backup, security and email marketing products. Our Digital Media business specializes in the technology, gaming, broadband, business to business, healthcare, and international markets offering content, tools and services to consumers and businesses. ||| j2 Global was incorporated in 2014 as a Delaware corporation through the creation of a new holding company structure, and our Cloud Services business, operated by our wholly owned subsidiary, j2 Cloud Services, LLC (formerly j2 Cloud Services, Inc.), and its subsidiaries, was founded in 1995. We manage our operations through two businesses: Cloud Services and Digital Media. ||| Our Cloud Services business generates revenues primarily from customer subscription and usage fees and from IP licensing fees. Our Digital Media business generates revenues from advertising and sponsorships, subscription and usage fees, performance marketing and licensing fees.

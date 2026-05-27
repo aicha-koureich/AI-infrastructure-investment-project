@@ -1,0 +1,20 @@
+FIRM         : BSET (CIK 0000010329) | FY2017
+FILE         : 0000010329_BSET_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies
+ASSET CAT.   : equipment, Machinery and equipment
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+This property and equipment is stated at cost less accumulated depreciation. Machinery and equipment are generally depreciated over a period of 5 to 10 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

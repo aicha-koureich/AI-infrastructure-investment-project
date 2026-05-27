@@ -1,0 +1,20 @@
+FIRM         : IVZ (CIK 0000914208) | FY2021
+FILE         : 0000914208_IVZ_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-25
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 1. ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Equipment, Software and Depreciation
+
+[VERBATIM — Infrastructure IA]
+The company leases office space in almost all its locations of business, data centers and certain equipment under non-cancelable operating leases. The operating leases have a weighted-average remaining lease term of 5.41 years for the year ended December 31, 2021 ( 2020: 5.74 years) and generally include one or more options to renew, with renewal terms that can extend the lease term from 1 to 10 years. Certain lease arrangements include an option to terminate the lease if a notification is provided to the landlord with in 1-7.2 years prior to the end of the lease term. The company has sole discretion in exercising lease renewal and termination options. The lease terms used in the company’s lease measurements do not include renewal options as they are not reasonably certain to be exercised as of the date of this report.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

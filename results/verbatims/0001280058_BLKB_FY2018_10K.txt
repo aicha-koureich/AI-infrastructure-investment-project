@@ -1,0 +1,21 @@
+FIRM         : BLKB (CIK 0001280058) | FY2018
+FILE         : 0001280058_BLKB_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 10
+ASSET CAT.   : capitalized software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Qualifying capitalized software development costs are amortized on a straight-line basis over the software asset's estimated useful life, which is generally three to seven years.
+
+[VERBATIM — Infrastructure IA]
+The increase in cost of recurring during 2018 , when compared 2017 , was primarily due to an increase in transaction-based costs of $9.4 million , directly related to an increase in transactional revenue. Also contributing to the increase in cost of recurring revenue were increases in data center costs of $5.9 million , amortization of software development costs of $3.5 million , allocations of depreciation, facilities and IT support costs of $2.7 million and compensation costs, driven by resource additions that are directly related to generating recurring revenue. The inclusion of AcademicWorks, JustGiving and Reeher also contributed to the increase in costs of recurring revenue during 2018 when compared to the same periods in 2017 . The increase in amortization of software development costs was primarily due to investments made on innovation, quality and the integration of our cloud-based solutions.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+The increase in recurring revenue during 2018 , when compared 2017 , was primarily due to positive demand across our portfolio of cloud-based solutions as revenue from subscriptions increased $98.1 million . The inclusion of AcademicWorks, JustGiving and Reeher also contributed to the increase in recurring revenue and their impacts are expected to remain modest in the near term due to U.K. market conditions and our acquisition-related integration efforts. The favorable impact from subscriptions was partially offset by a decrease in maintenance revenue of $20.5 million , during 2018 , when compared 2017 . The decrease in maintenance revenue was primarily related to our ongoing efforts to migrate our existing customer base from on-premises solutions onto our solutions powered by Blackbaud SKY, our modern cloud platform. ||| . The decrease in maintenance revenue was primarily related to our ongoing efforts to migrate our existing customer base from on-premises solutions onto our solutions powered by Blackbaud SKY, our modern cloud platform. ||| During 2018 , we used net cash of $44.9 million , primarily for our acquisition of Reeher, while we spent $146.8 million on investments in acquired companies in 2017 . We used $37.6 million of cash for software development costs, which was up $9.3 million from cash spent during 2017 . The increase in cash outlays for software development costs was primarily driven by development activities related to our cloud-based solutions as well as development activities for Blackbaud SKY, our modern cloud platform.

@@ -1,0 +1,33 @@
+FIRM         : ON (CIK 0001097864) | FY2015
+FILE         : 0001097864_ON_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2: Significant Accounting Policies
+ASSET CAT.   : buildings
+DURÉE        : 30.0-50.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are recorded at cost and are depreciated over estimated useful lives of 30-50 years for buildings and 3-20 years
+for machinery and equipment using straight-line methods.
+
+[VERBATIM — Changement de politique]
+The Credit Agreement contains affirmative and negative
+covenants that are customary for credit agreements of this nature. The negative covenants include, among other things, limitations on asset sales, mergers and acquisitions, indebtedness, liens, investments and transactions with affiliates. The
+Company’s business combinations described in Note 4: “Acquisitions,” represent permitted activities pursuant to the Credit Agreement. The Credit Agreement contains only two financial covenants: (i) a maximum total leverage ratio
+of consolidated total indebtedness to consolidated earnings before interest, taxes, depreciation and amortization and other adjustments described in the Credit Agreement (“consolidated EBITDA”) for the trailing four consecutive quarters of
+3.75 to 1.00; and (ii) a minimum interest coverage ratio of consolidated EBITDA to consolidated interest expense for the trailing four consecutive quarters of 3.50 to 1.0.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2015-05 -
+“Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement” (“ASU 2015-05”) ||| In April 2015, the FASB issued ASU 2015-05, which provides guidance regarding the accounting for fees paid by a customer in cloud computing
+arrangements. If a cloud computing arrangement includes the transfer of a software license, then the customer would account for the payment of fees as an acquisition of software. If there is no software license, the payment of fees would be
+accounted for as a service contract. This ASU is effective in fiscal years beginning after December 15, 2015. An entity can elect to adopt the amendments either prospectively for all arrangements entered into or materially modified after the
+effective date, or retrospectively. Early adoption is permitted. The Company is currently evaluating the impact that the adoption of ASU 2015-05 may have on its consolidated financial statements and has not elected early adoption as of the period
+ended December 31, 2015.

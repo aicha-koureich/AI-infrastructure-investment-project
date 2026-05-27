@@ -1,0 +1,20 @@
+FIRM         : MDU (CIK 0000067716) | FY2017
+FILE         : 0000067716_MDU_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2017-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 - Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Additions to property, plant and equipment are recorded at cost. When regulated assets are retired, or otherwise disposed of in the ordinary course of business, the original cost of the asset is charged to accumulated depreciation. With respect to the retirement or disposal of all other assets, the resulting gains or losses are recognized as a component of income. The Company is permitted to capitalize AFUDC on regulated construction projects and to include such amounts in rate base when the related facilities are placed in service. In addition, the Company capitalizes interest, when applicable, on certain construction projects associated with its other operations. The amount of AFUDC and interest capitalized for the years ended December 31 were as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

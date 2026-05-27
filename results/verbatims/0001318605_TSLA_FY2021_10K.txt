@@ -1,0 +1,21 @@
+FIRM         : TSLA (CIK 0001318605) | FY2021
+FILE         : 0001318605_TSLA_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-03-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 – Summary of Significant Accounting Policies
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+We evaluate the useful lives of these assets on an annual basis, and we test for impairment whenever events or changes in circumstances occur that could impact the recoverability of these assets. For the years ended December 31, 2021, 2020, and 2019, we have recognized no material impairments of capitalized software costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

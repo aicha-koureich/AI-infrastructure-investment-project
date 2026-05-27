@@ -1,0 +1,20 @@
+FIRM         : SSTK (CIK 0001549346) | FY2016
+FILE         : 0001549346_SSTK_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Our investing activities have consisted primarily of capital expenditures to purchase software and equipment related to our data centers, as well as capitalization of software and website development costs, investing in short-term investments and acquisitions. Cash used in investing activities totaled  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

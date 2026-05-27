@@ -1,0 +1,23 @@
+FIRM         : CCS (CIK 0001576940) | FY2019
+FILE         : 0001576940_CCS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+The TCJA significantly reformed the Internal Revenue Code of 1986, as amended. The TCJA, among other things, contains significant changes to corporate taxation, including reduction of the corporate tax rate from a top marginal rate of 35% to a flat rate of 21%, limitation of the tax deduction for interest expense to 30% of adjusted earnings (except for certain small businesses), limitation of the deduction for net operating losses to 80% of current year taxable income, elimination of net operating loss carrybacks, one time taxation of offshore earnings at reduced rates regardless of whether they are repatriated, immediate deductions for certain new investments instead of deductions for depreciation expense over time, and modifying or repealing many business deductions and credits. These changes have adversely affected and could continue to adversely affect our business and financial condition.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

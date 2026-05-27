@@ -1,0 +1,20 @@
+FIRM         : LESL (CIK 0001821806) | FY2020
+FILE         : 0001821806_LESL_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 3, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Summary of Significant Accounting Policies Basis of Presentation and Principles of Consolidation
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software accumulated amortization totaled approximately $11.1 million and $8.7 million as of October 3, 2020 and September 28, 2019, respectively. Capitalized software and development costs remaining to be amortized were approximately $7.0 million and $6.4 million, as of October 3, 2020 and September 28, 2019, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

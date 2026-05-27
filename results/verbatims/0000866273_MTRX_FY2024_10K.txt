@@ -1,0 +1,21 @@
+FIRM         : MTRX (CIK 0000866273) | FY2024
+FILE         : 0000866273_MTRX_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1— Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : equipment, office equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciable lives are as follows: buildings—40 years, construction equipment—3 to 15 years, transportation equipment—3 to 5 years, and office equipment and software—3 to 10 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

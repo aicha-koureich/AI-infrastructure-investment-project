@@ -1,0 +1,20 @@
+FIRM         : CRGY (CIK 0001866175) | FY2022
+FILE         : 0001866175_CRGY_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 – Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, computer hardware, furniture
+DURÉE        : 3.0-30.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Other property, plant, and equipment is recorded at cost and depreciated on a straight-line basis over the estimated useful lives of the respective assets which range from three to thirty years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : TBRG (CIK 0001169445) | FY2022
+FILE         : 0001169445_TBRG_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : computer equipment, furniture, and fixtures
+DURÉE        : 5.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense is computed using the straight-line method over the asset’s useful life, which is generally 5 years for computer equipment, furniture, and fixtures and 30 years for buildings.
+
+[VERBATIM — Changement de politique]
+associated labor costs using an estimated time-equivalent for workload metrics commonly utilized within agile software development environments. With this change, we now estimate these labor costs using the distribution of these agile workload metrics between capitalizable and non-capitalizable units of work. We believe this change is preferable as the new methodology better estimates capitalizable labor costs and is consistent with industry best practices. We have determined that this change in accounting for software development costs is a change in accounting estimate effected by a change in accounting principle and, as such, has been accounted for on a prospective basis. In connection with this change, we capitalized software development costs of $8.8 million during the year ended December 31, 2021. We estimate that the effect of this change was to increase capitalized amounts by approximately $4.6 million for the year ended December 31, 2021, with a corresponding decrease to product development costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Refer to the corresponding discussion of revenues for each of our reportable segments previously provided under the Revenues heading of this Management's Discussion and Analysis. There are no intersegment revenues to be eliminated in computing segment revenue. ||| heading of this Management's Discussion and Analysis. There are no intersegment revenues to be eliminated in computing segment revenue.

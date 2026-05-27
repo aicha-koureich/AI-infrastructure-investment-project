@@ -1,0 +1,20 @@
+FIRM         : WOLF (CIK 0000895419) | FY2023
+FILE         : 0000895419_WOLF_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-07-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 6 – Financial Statement Details
+ASSET CAT.   : Machinery and equipment, Computer hardware, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Dollars) June 25, 2023 June 26, 2022 Machinery and equipment $1,333.4 $1,167.3 Land and buildings 966.4 407.4 Computer hardware/software 76.5 61.9 Furniture and fixtures 8.1 8.0 Leasehold improvements and other 14.5 11.0 Vehicles 0.6 0.6 Finance lease assets 9.6 10.3 Construction in progress 873.5 802.3 Property and equipment, gross 3,282.6 2,468.8 Accumulated depreciation (1,091.2) (987.7) Property and equipment, net $2,191.4 $1,481.1
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

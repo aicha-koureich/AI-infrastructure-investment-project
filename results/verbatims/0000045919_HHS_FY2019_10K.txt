@@ -1,0 +1,20 @@
+FIRM         : HHS (CIK 0000045919) | FY2019
+FILE         : 0000045919_HHS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+(2) Includes purchase obligations related to data center operations, licenses and telecommunication contracts cost that are not reflected on the consolidated balance sheets. For those agreements with variable terms, we do not estimate the total obligation beyond any minimum quantities and/or pricing as of the reporting date.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

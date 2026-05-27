@@ -1,0 +1,20 @@
+FIRM         : FLEX (CIK 0000866374) | FY2018
+FILE         : 0000866374_FLEX_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2019
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 20. QUARTERLY FINANCIAL DATA (UNAUDITED)
+ASSET CAT.   : Machinery and equipment, Furniture, computer equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciable Life (In Years) As of March 31, 2019 2018 (In thousands) Machinery and equipment 3 - 10 $ 3,305,335 $ 3,004,707 Buildings 30 1,111,708 1,154,881 Leasehold improvements up to 30 453,119 414,917 Furniture, fixtures, computer equipment and software 3 - 7 501,994 482,248 Land — 121,976 152,992 Construction-in-progress — 291,458 287,724 5,785,590 5,497,469 Accumulated depreciation and amortization (3,449,377 ) (3,257,963 ) Property and equipment, net $ 2,336,213 $ 2,239,506
+
+[VERBATIM — Infrastructure IA]
+services - innovative design, engineering, manufacturing, and supply chain services and solutions - from conceptual sketch to full-scale production. The Company designs, builds, ships and manages complete packaged consumer and enterprise products, from medical devices and connected automotive systems to sustainable lighting and cloud and data center solutions for companies of all sizes in various industries and end-markets, through its activities in the following segments:  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+in our CEC segment driven by momentum from our cloud and data center business as well as the expansion of network infrastructure programs to support 4G and 5G technology, offset by declines in our data networking business due to weakness with some legacy product lines. Our IEI segment ||| Net sales during fiscal year 2018 increased $1.0 billion or 20% in our IEI segment, which was mainly driven by our industrial, home and lifestyle businesses in addition to growth in our solar energy business. Our CTG segment increased $0.6 billion or 10% largely attributable to stronger sales in our connected living and mobile devices businesses, offset by a decrease in gaming. Our HRS segment increased $0.6 billion or 15% from higher sales in our automotive business. These increases were partially offset by a decrease of $0.7 billion or 8% in our CEC segment, largely attributable to lower sales within our telecom and networking businesses, offset by increased sales in our cloud and data center business. ||| Net sales during fiscal year 2019 increased $0.6 billion or 8% in our CEC segment driven by momentum from our cloud and data center business as well as the expansion of network infrastructure programs to support 4G and 5G technology, offset by declines in our data networking business due to weakness with some legacy product lines. Our IEI segment increased $0.2 billion or 4% , which was mainly driven by new programs and customer launches within our industrial, home and lifestyle

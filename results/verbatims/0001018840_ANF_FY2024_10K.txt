@@ -1,0 +1,23 @@
+FIRM         : ANF (CIK 0001018840) | FY2024
+FILE         : 0001018840_ANF_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : software, generally not exceeding
+DURÉE        : 7.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized costs are amortized on a straight-line basis over the estimated useful lives of the software, generally not exceeding seven years.
+
+[VERBATIM — Changement de politique]
+(1) EBITDA and Adjusted EBITDA are supplemental financial measures that are not defined or prepared in accordance with GAAP. EBITDA is defined as net income before interest, income taxes and depreciation and amortization. Adjusted EBITDA is EBITDA adjusted for asset impairment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Amortization of capitalized cloud computing arrangement implementation costs ||| The Company defers costs incurred with the implementation of a cloud computing arrangement (“CCA”) that is a service contract. The deferred implementation costs of cloud computing arrangements are amortized on a straight-line basis over the term of the cloud computing arrangement, generally ranging from 1 to 5 years, in general and administrative expenses on Consolidated Statements of Operations and Comprehensive Income (Loss). The eligible implementation costs incurred of a cloud computing arrangement are included in other assets on the Consolidated Balance Sheets, and in operating cash flows of the Consolidated statements of cash flows. The deferred CCA implementation costs were $73.3 million and $49.9 million, net of accumulated amortization of $25.5 million and $12.2 million for the years ended February 1, 2025 and February 3, 2024, respectively.

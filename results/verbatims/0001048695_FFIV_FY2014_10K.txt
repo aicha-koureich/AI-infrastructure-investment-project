@@ -1,0 +1,20 @@
+FIRM         : FFIV (CIK 0001048695) | FY2014
+FILE         : 0001048695_FFIV_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are amortized over the remaining estimated economic life of the product.
+
+[VERBATIM — Infrastructure IA]
+F5 Networks, Inc. (the “Company”) is the leading developer and provider of software-defined application services. The Company’s core technology is a full-proxy, programmable, highly-scalable software platform called TMOS, which supports the industry’s broadest array of features and functions designed to ensure that applications delivered over Internet Protocol (IP) networks are secure, fast and available. The Company’s TMOS-based offerings include software products for local and global traffic management, network and application security, access management, web acceleration and a number of other network and application services. These products are available as modules that can run individually or as part of an integrated solution on the Company’s high-performance, scalable, purpose-built BIG-IP appliances and VIPRION chassis-based hardware, or as software-only Virtual Editions designed to run on all major hypervisors. During fiscal year 2014, the Company acquired Defense.Net, Inc. (Defense.Net), a provider of cloud-based security services for protecting data centers and Internet applications from distributed denial-of-service (DDoS) attacks. In connection with its products, the Company offers a broad range of services including consulting, training, installation, maintenance and other technical support services.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

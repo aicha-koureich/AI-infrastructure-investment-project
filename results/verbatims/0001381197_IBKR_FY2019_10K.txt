@@ -1,0 +1,21 @@
+FIRM         : IBKR (CIK 0001381197) | FY2019
+FILE         : 0001381197_IBKR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies Basis of Presentation
+ASSET CAT.   : software are capitalized and amortized over the expected useful life of the developed software, not to exceed
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at historical cost, less accumulated depreciation and amortization. Equipment is depreciated over the estimated useful lives of the assets, while leasehold improvements are amortized over the lesser of the estimated economic useful life of the asset or the term of the lease. Computer equipment is depreciated over three to five years and office furniture and equipment are depreciated over five to seven years . Qualifying costs for internally developed software are capitalized and amortized over the expected useful life of the developed software, not to exceed three years . Upon retirement or disposition of property and equipment, the cost and related accumulated depreciation are removed from the consolidated statements of financial condition and any resulting gain or loss is recorded in other income in the consolidated statements of comprehensive income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

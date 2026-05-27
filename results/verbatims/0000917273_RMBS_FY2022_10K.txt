@@ -1,0 +1,20 @@
+FIRM         : RMBS (CIK 0000917273) | FY2022
+FILE         : 0000917273_RMBS_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2022
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Rambus is an industry-leading provider of chips, silicon IP and innovations that address the fundamental challenges of accelerating data and enable critical performance improvements for data center and other growing markets. The ongoing growth of the cloud, along with the widespread advancement of artificial intelligence (“AI”) and other data-intensive workloads, continue to drive an exponential increase in data usage and demands on data infrastructure. Creating fast and safe connections, both in and across systems, remains one of the most mission-critical design challenges limiting performance in advanced hardware for these markets.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,24 @@
+FIRM         : META (CIK 0001326801) | FY2024
+FILE         : 0001326801_META_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies
+ASSET CAT.   : servers
+DURÉE        : 5.5-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 4.0-5.0 ans | 5.5 ans
+
+[VERBATIM — Durée de vie]
+In January 2025, we completed an assessment of the useful lives of certain servers and network assets, and determined we should extend the estimated useful lives to 5.5 years.
+
+[VERBATIM — Changement de politique]
+In January 2025, we completed an assessment of the useful lives of certain servers and network assets, and determined we should extend the estimated useful lives to 5.5 years.
+
+[VERBATIM — Infrastructure IA]
+Our cost of revenue consists of expenses associated with the delivery and distribution of our products. These mainly include expenses related to the operation of our data centers and technical infrastructure, such as depreciation expense from servers, network infrastructure and buildings, employee compensation which includes payroll, share-based compensation and benefits for employees on our operations teams, and energy and bandwidth costs. Cost of revenue also consists of costs associated with partner arrangements, including traffic acquisition costs and credit card and other fees related to processing customer transactions; RL inventory costs, which consist of cost of products sold and estimated losses on non-cancelable contractual commitments; and content costs.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

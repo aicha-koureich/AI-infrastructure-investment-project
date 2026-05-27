@@ -1,0 +1,23 @@
+FIRM         : SSTK (CIK 0001549346) | FY2013
+FILE         : 0001549346_SSTK_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Cash
+used in investing activities in 2013 was $70.1 million consisting of capital expenditures to purchase software and equipment related to our data centers, as well as
+capitalization of leasehold improvements in the amount of $14.1 million. Additionally, we purchased short-term investments, net of sales, in the amount of $54.4 million and payment of a
+security deposit of $1.8 million in connection with the lease for our new office facilities..  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : NYT (CIK 0000071691) | FY2019
+FILE         : 0000071691_NYT_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 29, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We currently utilize third party subscription-based software services as well as public cloud infrastructure services to provide solutions for many of our computing and bandwidth needs. Any interruptions to these services generally could result in interruptions in service to our subscribers and advertisers and/or the Company’s critical business functions, notwithstanding any business continuity or disaster recovery plans or agreements that may currently be in place with these providers. This could result in unanticipated downtime and/or harm to our reputation and operating results.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

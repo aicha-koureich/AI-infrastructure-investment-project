@@ -1,0 +1,20 @@
+FIRM         : AZTA (CIK 0000933974) | FY2020
+FILE         : 0000933974_AZTA_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 23. Subsequent Events
+ASSET CAT.   : Equipment, Computer equipment, Machinery and equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment Property, plant and equipment were as follows as of September 30, 2020 and 2019 (in thousands): ​ ​ ​ ​ ​ ​ ​ ​ ​ September 30, ​ 2020 2019 Buildings, land, and land use right ​ $ 50,748 ​ $ 50,583 Computer equipment and software ​ 70,673 ​ 61,603 Machinery and equipment ​ 97,806 ​ 89,481 Furniture and fixtures ​ 7,578 ​ 7,423 Leasehold improvements ​ 40,728 ​ 30,612 Capital projects in progress ​ 21,020 ​ 11,701 Right-of-use Asset ​ ​ 2,540 ​ ​ — ​ ​ 291,093 ​ 251,403 Less: accumulated depreciation and amortization ​ (173,428) ​ (150,734) Property, plant and equipment, net ​ $ 117,665 ​ $ 100,669 ​ Depreciation expense was $23.7 million, $19.3 million and $12.5 million, respectively, for the fiscal years ended September 30, 2020, 2019 and 2018.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . The amendments align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). The accounting for the service element of a hosting arrangement that is a service contract is not affected by these amendments. The provisions may be adopted prospectively or retrospectively. This ASU is effective for annual periods, including interim periods within those annual periods, beginning after December 15, 2019 . Early adoption is permitted. The Company is currently evaluating the impact this guidance may have on its consolidated financial statements and related disclosures.

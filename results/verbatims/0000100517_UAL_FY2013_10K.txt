@@ -1,0 +1,27 @@
+FIRM         : UAL (CIK 0000100517) | FY2013
+FILE         : 0000100517_UAL_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+In March 2013, the Company agreed to sell up to 30 Boeing 757-200
+aircraft to FedEx Corporation beginning in April 2013. As of December 31, 2012, the Company operated 133 such aircraft. Given the planned sale of these 30 aircraft, the Company evaluated the entire fleet and determined that no
+impairment existed. In conjunction with that sale, the Company recorded accelerated depreciation of $89 million on these aircraft for the year ended December 31, 2013, and this is classified as Operating expense: Depreciation and amortization
+in the statements of consolidated operations. The accelerated depreciation resulted from changes in the estimated useful lives and salvage values of the 30 aircraft as a result of the planned sale. These changes in estimate decreased net income by
+amounts disclosed above and reduced per share amounts by approximately $0.26 per UAL basic share ($0.23 per UAL diluted share) for the year ended December 31, 2013.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

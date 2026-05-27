@@ -1,0 +1,20 @@
+FIRM         : WYNN (CIK 0001174922) | FY2019
+FILE         : 0001174922_WYNN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 - Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Purchases of property and equipment are stated at cost, and when placed into service, are depreciated over the estimated useful lives of the assets using the straight-line method as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangement Implementation Costs ||| In August 2018, the FASB issued ASU No. 2018-15, Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . The ASU is intended to eliminate potential diversity in practice in accounting for costs incurred to implement cloud computing arrangements that are service contracts by requiring customers in such arrangements to follow internal-use software guidance with respect to such costs, with any resulting deferred implementation costs recognized over the term of the contract in the same income statement line item as the fees associated with the hosting element of the arrangement. The Company adopted the guidance effective January 1, 2020, and this adoption did not have a material effect on its Consolidated Financial Statements. ||| Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

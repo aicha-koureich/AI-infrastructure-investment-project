@@ -1,0 +1,20 @@
+FIRM         : GWRE (CIK 0001528396) | FY2018
+FILE         : 0001528396_GWRE_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. The Company and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Significant items subject to such estimates include, but are not limited to, revenue recognition, the useful lives of property and equipment and intangible assets, allowance for doubtful accounts, valuation allowance for deferred tax assets, stock-based compensation, annual bonus attainment, income tax uncertainties, fair value of convertible senior notes, investments and acquired assets and assumed liabilities including deferred revenue, valuation of goodwill and intangible assets, determination of software development costs to be capitalized, and contingencies.
+
+[VERBATIM — Infrastructure IA]
+Our cost of license and other revenue primarily consists of headcount and related employee costs for our production services employees, cloud infrastructure costs, amortization of our acquired intangible assets, and royalty fees paid to third parties. Our cost of maintenance revenue consists of headcount and related employee costs for our technical support team. Our cost of services revenue primarily consists of headcount and related employee costs for our professional service employees and contractors and travel-related costs. In the instances where we have primary responsibility for the delivery of services, subcontractor fees are expensed as cost of service. In each case, personnel costs include stock-based compensation and allocated overhead.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Our gross margin decreased to 63% for fiscal year 2017, as compared to 64% for fiscal year 2016, primarily due to growing costs associated with license and other revenue as we invest more in our emerging cloud business. In addition, the decrease in our gross margin was also attributable to the effect from implementation for MetLife of InsuranceSuite Cloud.

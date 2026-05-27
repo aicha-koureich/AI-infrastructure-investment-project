@@ -1,0 +1,20 @@
+FIRM         : ACIW (CIK 0000935036) | FY2019
+FILE         : 0000935036_ACIW_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+and concentrate expertise in several geographic locations to support a growing international customer base and competitive needs. We utilize our Irish subsidiaries to manage certain of our intellectual property rights and to oversee and manage certain international product development and commercialization efforts. We increased our SaaS and PaaS capabilities with a data center in Ireland allowing our SaaS and PaaS solutions to be more-broadly offered in the European market. We also continue to grow centers of expertise in Timisoara, Romania and Pune and Bangalore in India, as well as key operational centers such as Cape Town, South Africa and in multiple locations in the United States.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

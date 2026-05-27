@@ -1,0 +1,20 @@
+FIRM         : SCVL (CIK 0000895447) | FY2018
+FILE         : 0000895447_SCVL_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 2, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 – Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 2.0-25.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization of property, equipment and leasehold improvements are taken on the straight-line method over the shorter of the estimated useful lives of the assets or the applicable lease terms.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued guidance that addressed the diversity in practice surrounding the accounting for costs incurred to implement a cloud computing hosting arrangement that is a service contract by establishing a model for capitalizing or expensing such costs, depending on their nature and the stage of the implementation project during which they are incurred. Any capitalized costs are to be amortized over the reasonably certain term of the hosting arrangement and presented in the same line as the service arrangement's fees within the consolidated statements of operations. This guidance also requires enhanced qualitative and quantitative disclosures surrounding hosting arrangements that are service contracts. We are presently in the process of implementing a cloud computing hosting arrangement that is a service contract in connection with our Customer Relationship Management (“CRM”) program. The costs incurred during the application-development stage of our CRM program are being capitalized in accordance with this new guidance and amortized over the term of the contract with our third-party service provider,

@@ -1,0 +1,20 @@
+FIRM         : GPRE (CIK 0001309402) | FY2013
+FILE         : 0001309402_GPRE_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. DEBT
+ASSET CAT.   : equipment, furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2013 2012 Plant equipment $ 749,627 $ 673,454 Buildings and improvements 147,663 90,240 Land and improvements 59,481 57,491 Railroad track and equipment 39,852 34,070 Construction-in-progress 3,789 3,499 Computers and software 7,380 6,228 Office furniture and equipment 1,662 1,636 Leasehold improvements and other 12,111 5,937 Total property and equipment 1,021,565 872,555 Less: accumulated depreciation (215,519) (164,445) Property and equipment, net $ 806,046 $ 708,110
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

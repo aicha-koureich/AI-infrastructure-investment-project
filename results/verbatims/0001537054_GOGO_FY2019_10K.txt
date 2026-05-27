@@ -1,0 +1,34 @@
+FIRM         : GOGO (CIK 0001537054) | FY2019
+FILE         : 0001537054_GOGO_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment, Network equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 1.0-10.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and Equipment and
+Depreciation— Property and equipment, including leasehold improvements, are stated at historical cost, less accumulated depreciation. Network asset inventory and construction in progress, which include materials, transmission and related
+equipment, interest and other costs relating to the construction and development of our network, are not depreciated until they are put into service. Depreciation of property and equipment is computed using the straight-line
+method over the estimated useful lives for owned assets, which are as follows:
+
+[VERBATIM — Changement de politique]
+Improvements to leased property are depreciated over the shorter of the useful life of the improvement or the term of the related lease.
+We reassess the useful lives of leasehold improvements when there are changes to the terms of the underlying lease. Such reassessment has resulted in the useful life of specific assets being adjusted to a shorter period than originally estimated,
+resulting in an increase in annual depreciation expense for those assets. Repairs and maintenance costs are expensed as incurred.
+
+[VERBATIM — Infrastructure IA]
+Cost of service revenue for the CA-NA and CA-ROW segments
+includes network related expenses (ATG and satellite network expenses, including costs for transponder capacity and backhaul, as well as data centers, network operations center and network technical support), aircraft operations, component assembly,
+portal maintenance, revenue share and transactional costs.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued Accounting Standards Update No. 2018-15, Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s
+Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (“ASU 2018-15”), which requires an entity in a hosting arrangement that is a service
+contract to follow the guidance in Subtopic 350-40 to determine which implementation costs to capitalize as an asset related to the service contract and which costs to expense. We will adopt this guidance
+prospectively on January 1, 2020. Adoption of this guidance is not expected to have a material impact on our consolidated financial statements.

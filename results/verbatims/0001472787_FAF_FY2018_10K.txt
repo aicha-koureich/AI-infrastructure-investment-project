@@ -1,0 +1,20 @@
+FIRM         : FAF (CIK 0001472787) | FY2018
+FILE         : 0001472787_FAF_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued updated guidance that is intended to reduce potential diversity in practice in accounting for the costs of implementing cloud computing arrangements (i.e., hosting arrangements) that are service contracts. The updated guidance aligns the requirements for capitalizing implementation costs for these arrangements with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software and hosting arrangements that include an internal-use software license. The updated guidance is effective for interim and annual reporting periods beginning after December 15, 2019, with early adoption permitted. The Company is currently assessing the impact of this guidance on its consolidated financial statements.

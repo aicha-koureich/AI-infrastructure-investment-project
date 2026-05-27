@@ -1,0 +1,21 @@
+FIRM         : CHWY (CIK 0001766502) | FY2022
+FILE         : 0001766502_CHWY_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 29, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation and amortization. Internal-use software costs are amortized using the straight-line method over the estimated useful life of the software when the project is substantially complete and ready for its intended use.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

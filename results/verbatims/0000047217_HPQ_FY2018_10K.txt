@@ -1,0 +1,20 @@
+FIRM         : HPQ (CIK 0000047217) | FY2018
+FILE         : 0000047217_HPQ_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 19: Subsequent Events
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+In August 2018, the Financial Accounting Standards Board (“FASB”) issued guidance, which requires a customer in a cloud computing arrangement (“CCA”) that is a service contract to follow the internal-use software guidance to determine which implementation costs to capitalize as assets or expense as incurred. Capitalized implementation costs related to a CCA that is a service contract will be amortized over the term of the hosting arrangement beginning when the module or component of the hosting arrangement is ready for its intended use. HP is required to adopt the guidance in the first quarter of fiscal year 2021 using a prospective approach. Earlier adoption is permitted. HP has early adopted the guidance in fiscal year 2018 on a prospective basis. The implementation of this guidance did not have a material impact on the Consolidated Financial Statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the Financial Accounting Standards Board (“FASB”) issued guidance, which requires a customer in a cloud computing arrangement (“CCA”) that is a service contract to follow the internal-use software guidance to determine which implementation costs to capitalize as assets or expense as incurred. Capitalized implementation costs related to a CCA that is a service contract will be amortized over the term of the hosting arrangement beginning when the module or component of the hosting arrangement is ready for its intended use. HP is required to adopt the guidance in the first quarter of fiscal year 2021 using a prospective approach. Earlier adoption is permitted. HP has early adopted the guidance in fiscal year 2018 on a prospective basis. The implementation of this guidance did not have a material impact on the Consolidated Financial Statements. ||| Internal Use Software and Cloud Computing Arrangements

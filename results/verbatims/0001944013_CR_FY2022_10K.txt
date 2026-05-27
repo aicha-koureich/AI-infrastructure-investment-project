@@ -1,0 +1,21 @@
+FIRM         : CR (CIK 0001944013) | FY2022
+FILE         : 0001944013_CR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Nature of Operations and Significant Accounting Policies
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is stated at cost and depreciation is calculated by the straight-line method over the estimated useful
+lives of the respective assets, which range from 10 to 25 years for buildings and improvements and three to 10 years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : WBS (CIK 0000801337) | FY2022
+FILE         : 0000801337_WBS_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 6: Premises and Equipment
+ASSET CAT.   : equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The following table summarizes the components of premises and equipment: At December 31, (In thousands) 2022 2021 Land $ 73,916 $ 9,436 Buildings and improvements 106,180 67,501 Leasehold improvements 84,477 65,606 Furniture, fixtures, and equipment 71,542 64,890 Data processing equipment and software 128,153 105,516 Property and equipment 464,268 312,949 Less: Accumulated depreciation and amortization (225,152) (228,318) Property and equipment, net 239,116 84,631 ROU lease assets, net 191,068 119,926 Premises and equipment, net $ 430,184 $ 204,557
+
+[VERBATIM — Infrastructure IA]
+The successful integration of Webster’s and Sterling’s operations depends on the Company’s ability to successfully consolidate business operations, management teams, corporate cultures, operating systems, and controls procedures, and eliminate costs and redundancies. At December 31, 2022, noteworthy accomplishments include: (i) the rebranding of branches and digital assets, (ii) the coordination of credit policies and procedures, (iii) the selection of key operating systems, (iv) the consolidation of cloud data centers, commercial credit risk management systems and commercial client pricing tools, as well as mortgage servicing, payroll, and treasury platforms, (v) the completed transfer of consumer wealth and investment services operations to a third-party provider, (vi) the finalization of governance and executive management structures, (vii) the establishment of a corporate responsibility office to oversee community engagement, philanthropy, and sustainability, and (viii) Company-wide participation at culture-shaping workshops. Other key operating systems and process integration activities are ongoing, and the Company remains well-positioned to successfully execute its core conversion targeted for mid-2023.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

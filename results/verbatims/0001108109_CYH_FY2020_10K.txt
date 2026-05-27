@@ -1,0 +1,20 @@
+FIRM         : CYH (CIK 0001108109) | FY2020
+FILE         : 0001108109_CYH_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 4. GOODWILL AND OTHER INTANGIBLE ASSETS
+ASSET CAT.   : software is generally
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The estimated amortization period for capitalized internal-use software is generally three years. At December 31, 2020, there were approximately $11 million of capitalized costs for internal-use software that is currently in the development stage and will begin amortization once the software project is complete and ready for its intended use. Amortization expense on capitalized internal-use software was $123 million, $121 million and $140 million during the years ended December 31, 2020, 2019 and 2018, respectively. Amortization expense on capitalized internal-use software is estimated to be $123 million in 2021, $75 million in 2022, $34 million in 2023, $9 million in 2024, $7 million in 2025 and $3 million thereafter.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

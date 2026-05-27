@@ -1,0 +1,23 @@
+FIRM         : CF (CIK 0001324404) | FY2016
+FILE         : 0001324404_CF_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+We periodically review the useful lives assigned to our property, plant and equipment, as well as estimated production capacities used to develop UOP depreciation expense, and we change the estimates to reflect the results of those reviews.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : MDU (CIK 0000067716) | FY2018
+FILE         : 0000067716_MDU_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 - Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Additions to property, plant and equipment are recorded at cost. When regulated assets are retired, or otherwise disposed of in the ordinary course of business, the original cost of the asset is charged to accumulated depreciation. With respect to the retirement or disposal of all other assets, the resulting gains or losses are recognized as a component of income. The Company is permitted to capitalize AFUDC on regulated construction projects and to include such amounts in rate base when the related facilities are placed in service. In addition, the Company capitalizes interest, when applicable, on certain construction projects associated with its other operations. The amount of AFUDC for the years ended December 31 were as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15 - Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract In August 2018, the FASB issued guidance on the accounting for implementation costs of a hosting arrangement that is a service contract. The guidance aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract similar to the costs incurred to develop or obtain internal-use software and such capitalized costs to be expensed over the term of the hosting arrangement. Costs incurred during the preliminary and postimplementation stages should continue to be expensed as activities are performed. The capitalized costs are required to be presented on the balance sheet in the same line the prepayment for the fees associated with the hosting arrangement would be presented. In addition, the expense related to the capitalized implementation costs should be presented in the same line on the income statement as the fees associated with the hosting element of the arrangements. The guidance will be effective for the Company on January 1, 2020, including interim periods, and may be applied on a retrospective or a prospective basis with early adoption permitted. The Company adopted the guidance effective January 1, 2019, on a prospective basis. The adoption of the guidance will not have a material impact on its results of operations, financial position, cash flows and disclosures. ||| ASU 2018-15 - Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract

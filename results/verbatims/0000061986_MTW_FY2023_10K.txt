@@ -1,0 +1,20 @@
+FIRM         : MTW (CIK 0000061986) | FY2023
+FILE         : 0000061986_MTW_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies Cash and Cash Equivalents The Company considers all cash, bankers acceptance and short-term investments 
+ASSET CAT.   : equipment, Machinery, Furniture and fixtures, Computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are generally depreciated over the following estimated useful lives according to the Company's policy: Years Building and improvements 10 - 50 Machinery, equipment and tooling 5 - 20 Furniture and fixtures 5 - 10 Computer hardware and software 3 - 5 Rental cranes 5 - 10
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

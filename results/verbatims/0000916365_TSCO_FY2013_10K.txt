@@ -1,0 +1,20 @@
+FIRM         : TSCO (CIK 0000916365) | FY2013
+FILE         : 0000916365_TSCO_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 11 – Segment Reporting:
+ASSET CAT.   : Equipment, Furniture, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 28, 2013 December 29, 2012 ASSETS Current assets: Cash and cash equivalents $ 142,743 $ 138,630 Restricted cash — 8,400 Inventories 979,308 908,116 Prepaid expenses and other current assets 57,359 51,808 Deferred income taxes 29,838 23,098 Total current assets 1,209,248 1,130,052 Property and Equipment: Land 73,350 61,522 Buildings and improvements 581,938 511,188 Furniture, fixtures and equipment 408,021 350,224 Computer software and hardware 140,222 109,121 Construction in progress 65,312 37,122 1,268,843 1,069,177 Accumulated depreciation and amortization (603,911 ) (519,179 ) Property and equipment, net 664,932 549,998 Goodwill 10,258 10,258 Deferred income taxes 92 — Other assets 18,861 16,500 Total assets $ 1,903,391 $ 1,706,808 LIABILITIES AND STOCKHOLDERS’ EQUITY Current liabilities: Accounts payable $ 316,487 $ 320,392 Accrued employee compensation 50,573 48,400 Other accrued expenses 155,615 148,316 Current portion of capital lease obligations 42 38 Income taxes payable 9,424 43,359 Total current liabilities 532,141 560,505 Capital lease obligations, less current maturities 1,200 1,242 Deferred income taxes — 1,477 Deferred rent 76,930 76,236 Other long-term liabilities 46,226 42,374 Total liabilities 656,497 681,834 Stockholders’ equity: Preferred Stock, $1.00 par value; 40 shares authorized; no shares issued — — Common Stock, $0.008 par value; 200,000 shares authorized at December 28, 2013 and December 29, 2012; 166,324 shares issued and 139,654 shares outstanding at December 28, 2013 and 163,390 shares issued and 139,007 shares outstanding at December 29, 2012 (a) 1,331 1,307 Additional paid-in capital (a) 452,668 361,106 Treasury stock, at cost, 26,670 shares at December 28, 2013 and 24,383 shares at December 29, 2012 (a) (838,588 ) (709,172 ) Retained earnings 1,631,483 1,371,733 Total stockholders’ equity 1,246,894 1,024,974 Total liabilities and stockholders’ equity $ 1,903,391 $ 1,706,808
+
+[VERBATIM — Infrastructure IA]
+. The SG&A improvement as a percent of sales was primarily attributable to the leverage of continued solid comparable store sales growth, expense control related to store operating costs and lower year-over-year incentive compensation expense, partially offset by costs related to the new and expanded Southeast distribution center and relocation of our corporate data center. Total SG&A expenses for fiscal  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

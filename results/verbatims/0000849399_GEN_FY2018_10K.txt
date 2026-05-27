@@ -1,0 +1,20 @@
+FIRM         : GEN (CIK 0000849399) | FY2018
+FILE         : 0000849399_GEN_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We enter into arrangements with multiple performance obligations, which may include hardware, software licenses, cloud services, support and maintenance, and professional services. We allocate revenue to each performance obligation on a relative fair value basis based on management’s estimate of stand-alone selling price (SSP). Judgments are required to determine the SSP for each performance obligation. The determination of SSP is made by taking into consideration observable prices in historical transactions. When observable prices in historical transactions are not available or are inconsistent, we estimate SSP based on observable prices in historical transactions of similar products, pricing discount practices, product margins, and other factors that may vary over time depending upon the unique facts and circumstances related to each performance obligation. Changes to the performance obligations in an arrangement, the judgments required to estimate the SSP for the respective performance obligations, and increasing variability in contractual arrangements could materially impact the amount and timing of revenue recognition.

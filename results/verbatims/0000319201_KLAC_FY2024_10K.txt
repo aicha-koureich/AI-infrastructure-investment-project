@@ -1,0 +1,21 @@
+FIRM         : KLAC (CIK 0000319201) | FY2024
+FILE         : 0000319201_KLAC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-08-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1— DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 7.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost, net of accumulated depreciation. Depreciation of property and equipment is based on the straight-line method over the estimated useful lives of the assets.
+
+[VERBATIM — Infrastructure IA]
+In addition, in October 2022, the U.S. government issued regulations that imposed new export licensing requirements for certain U.S. semiconductor and high-performance computing technology (including wafer fab equipment), for the use of such technology for certain end uses in the People’s Republic of China (“China”), and for the provision of support by U.S. Persons to certain advanced IC fabs located in China. The regulations impose export license requirements effectively on all KLA products and services to customers located in China that fabricate certain advanced logic, NAND and DRAM ICs. KLA is also restricted from providing certain U.S. origin tools, software and technology to certain wafer fab equipment manufacturers located in China, absent an export license. In October 2023, the U.S. government issued additional regulations that went into effect in November 2023. These additional rules are designed to update export controls on advanced computing semiconductors and semiconductor manufacturing equipment, as well as items that support supercomputing applications and end-uses, to arms embargoed countries, including China. They adjust the parameters included in the existing regulations that determine whether an advanced computing chip is restricted and impose new measures to address risks of circumvention of the controls established in October 2022. The regulations are very complex and, in January 2024, KLA, among other companies, submitted comments to the government regarding these regulations. We are taking appropriate measures to comply with all government regulations, and will continue to apply for export licenses, when required, to avoid disruption to our customers’ operations. While some export licenses have been obtained by us or our customers, there can be no assurance that export licenses applied for by either us or our customers, now or in the future, will be granted.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

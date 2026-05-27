@@ -1,0 +1,20 @@
+FIRM         : TXNM (CIK 0001108426) | FY2019
+FILE         : 0001108426_TXNM_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-08
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+On September 22, 2017, PNMR Development and AEP OnSite Partners created NMRD to pursue the acquisition, development, and ownership of renewable energy generation projects, primarily in the state of New Mexico. PNMR Development and AEP OnSite Partners each have a 50% ownership interest in NMRD. In December 2017, PNMR Development made a contribution to NMRD of its interest in three 10 MW solar facilities it was constructing and assigned its interests in several agreements related to those facilities to NMRD. The facilities had a book value of $24.8 million , which approximated fair value at that time. AEP OnSite Partners made a cash contribution to NMRD equal to 50% of the value of the 30 MW solar capacity, amounting to $12.4 million , which cash was then distributed from NMRD to PNMR Development. During 2019, 2018, and 2017 PNMR Development and AEP OnSite Partners each made cash contributions of $38.3 million , $9.0 million , and $4.1 million to NMRD for its construction activities. At December 31, 2019 , NMRD’s renewable energy capacity in operation is 85.1 MW, which includes 80 MW of solar-PV facilities to supply energy to the Facebook data center located within PNM’s service territory, 1.9  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Accounting Standards Update 2018-15 – Intangibles - Goodwill and Other - Internal Use Software (Topic 350): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract

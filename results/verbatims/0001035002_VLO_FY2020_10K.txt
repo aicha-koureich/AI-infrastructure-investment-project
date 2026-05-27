@@ -1,0 +1,23 @@
+FIRM         : VLO (CIK 0001035002) | FY2020
+FILE         : 0001035002_VLO_FY2020_10K.html
+FILING DATE  : 2020-12-31
+PERIOD END   : 2021-01-26
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 6. LEASES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Pipelines, Terminals, and Tanks Transportation Feedstock Processing Equipment Energy and Gases Real Estate Other Total Marine Rail Year ended December 31, 2020 Finance lease cost: Amortization of ROU assets $ 109 $ — $ 2 $ 13 $ 4 $ — $ — $ 128 Interest on lease liabilities 92 — — 3 3 — — 98 Operating lease cost 165 156 61 15 7 26 4 434 Variable lease cost 53 40 1 3 — 2 — 99 Short-term lease cost 9 45 — 37 — — — 91 Sublease income — (10) — — — (2) — (12) Total lease cost $ 428 $ 231 $ 64 $ 71 $ 14 $ 26 $ 4 $ 838 Year ended December 31, 2019 Finance lease cost: Amortization of ROU assets $ 44 $ — $ — $ 7 $ 3 $ — $ — $ 54 Interest on lease liabilities 47 — — 1 2 — — 50 Operating lease cost 182 145 52 20 9 27 4 439 Variable lease cost 66 35 — 1 — 1 — 103 Short-term lease cost 9 53 — 29 — — — 91 Sublease income — (27) — — — (3) — (30) Total lease cost $ 348 $ 206 $ 52 $ 58 $ 14 $ 25 $ 4 $ 707
+
+[VERBATIM — Changement de politique]
+Due to the adverse economic conditions discussed above, we reviewed our significant operating assets for the existence of impairment indicators during the year ended December 31, 2020. As a result, we reduced the estimated useful life of the ethanol plant in Riga, Michigan in September 2020 and evaluated six other ethanol plants and one refinery for potential impairment as of December 31, 2020, considering current economic conditions on our future estimated cash flows. Based on our analysis, we determined that the carrying amount of these assets was recoverable, as the undiscounted future cash flows from each asset exceeded its respective carrying value. The impact from the reduction in estimated useful life of the Riga, Michigan ethanol plant did not have a material impact on our results of operations or financial position; however, this plant ceased operations in 2020. We will continue to evaluate the economic conditions and their impact on our assumptions.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| ASU Basis of Adoption 2016-13 Financial Instruments—Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments (including codification improvements in ASUs 2018-19 and 2019-11 and ASU 2020-02—Financial Instruments—Credit Losses (Topic 326): Amendments to SEC Paragraphs Pursuant to SEC Staff Accounting Bulletin No. 119) Cumulative effect 2018-15 Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract Prospectively 2019-12 Income Taxes (Topic 740): Simplifying the Accounting for Income Taxes Prospectively ||| Incurred in a Cloud Computing Arrangement That Is a Service Contract

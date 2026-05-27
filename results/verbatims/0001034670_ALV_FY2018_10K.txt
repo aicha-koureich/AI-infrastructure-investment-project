@@ -1,0 +1,20 @@
+FIRM         : ALV (CIK 0001034670) | FY2018
+FILE         : 0001034670_ALV_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Tooling is generally agreed upon as a separate contract or a separate component of an engineering contract, as a pre-production project. Capitalization of tooling costs is made only when the specific criteria for capitalization of customer funded tooling is met or the criteria for capitalization as Property, Plant & Equipment (P,P&E) for tools owned by the Company are fulfilled. Depreciation on the Company’s own tooling is recognized in the Consolidated Statements of Net Income as Cost of sales.
+
+[VERBATIM — Infrastructure IA]
+We rely extensively on information technology (“IT”) networks and systems, our global data centers and services provided over the internet to process, transmit and store electronic information, and to manage or support a variety of business processes or activities across our facilities worldwide. The secure operation of our IT networks and systems and the proper processing and maintenance of this information are critical to our business operations. We have been, and likely will continue to be, subject to cyber-attacks. To date we have seen no material impact on our business from these attacks or events. Although we seek to deploy comprehensive security measures to prevent, detect, address and mitigate these threats, there has been an increased level of activity, and an associated level of sophistication, in cyber-attacks against large multinational companies. The ever-evolving threats mean we and our third-party service providers and vendors must continually evaluate and adapt our respective systems and processes and overall security environment, as well as those of any companies we acquire. There is no guarantee that these measures will be adequate to safeguard against all data security breaches, system compromises or misuses of data.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We rely on third parties to provide or maintain some of our IT systems, data centers and related services and do not exercise direct control over these systems. Despite the implementation of security measures at third party locations, these IT systems, data centers and cloud services are also vulnerable to security breaches or other disruptions. Additionally, we and certain of our third-party vendors, collect and store personal information in connection with human resources operations and other aspects of our business. While we obtain assurances that any third parties we provide data to will protect this information and, where we believe appropriate, monitor the protections employed by these third parties, there is a risk the confidentiality of data held by us or by third parties may be compromised and expose us to liability for such breach.

@@ -1,0 +1,23 @@
+FIRM         : NX (CIK 0001423221) | FY2016
+FILE         : 0001423221_NX_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Nature of Operations, Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : technology, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The software is then amortized over its estimated useful life.
+
+[VERBATIM — Changement de politique]
+In addition, we evaluated the remaining depreciable lives of property, plant and equipment that will be abandoned or otherwise disposed as of the cease-use date of these plants. We recorded a change in estimate associated with the remaining useful lives of these assets which resulted in an increase in depreciation expense of
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

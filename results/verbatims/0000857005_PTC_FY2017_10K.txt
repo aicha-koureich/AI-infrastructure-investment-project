@@ -1,0 +1,20 @@
+FIRM         : PTC (CIK 0000857005) | FY2017
+FILE         : 0000857005_PTC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+GAAP and non-GAAP operating income in 2017 reflect an increase in gross margin associated with higher revenue and a lower mix of professional services revenue, which has lower margins than our software revenue, partially offset by higher costs associated with our cloud services revenue. Additionally, operating margin improved due to lower restructuring charges in 2017, which were $68.3 million lower in 2017 compared to 2016. ||| Given the difference in revenue recognition between the sale of a perpetual software license (revenue is recognized at the time of sale) and a subscription (revenue is recognized ratably over the subscription term), we use bookings for internal planning, forecasting and reporting of new license and subscription sales and cloud services transactions. ||| an increase of $8.7 million in cloud services hosting costs due to an increase in SaaS revenue and related expenses and an increase in applications hosted in the cloud that support our IT infrastructure.

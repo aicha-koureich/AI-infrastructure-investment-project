@@ -1,0 +1,20 @@
+FIRM         : ATNI (CIK 0000879585) | FY2023
+FILE         : 0000879585_ATNI_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+streaming, demand for cloud services and smart home, business and city solutions as well as macro-economic and population growth in the Cayman Islands and Guyana. However, such increases may be offset by a decrease in demand for our services due to subscribers using alternative methods to receive video and audio content .

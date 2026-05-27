@@ -1,0 +1,27 @@
+FIRM         : ZBH (CIK 0001136869) | FY2014
+FILE         : 0001136869_ZBH_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : computer software, Capitalized software, equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in property, plant and equipment on our balance sheet and amortized on a straight-line or weighted average estimated user basis when the software is ready for its intended use over the estimated useful lives
+of the software, which approximate three to fifteen years.
+
+[VERBATIM — Changement de politique]
+We are required to estimate the number of RSUs that will vest and recognize share-based
+payment expense on a straight-line basis over the requisite service period. As of December 31, 2014, we estimate that approximately 866,000 outstanding RSUs will vest. If our estimate were to change in the future, the cumulative effect of the
+change in estimate will be recorded in that period. Based upon the number of RSUs that we expect to vest, the unrecognized share-based payment expense as of December 31, 2014 was $31.7 million and is expected to be recognized over a
+weighted-average period of 2.2 years. The fair value of RSUs vesting during the years ended December 31, 2014, 2013 and 2012 based upon our stock price on the date of vesting was $29.3 million, $32.5 million and $18.9 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

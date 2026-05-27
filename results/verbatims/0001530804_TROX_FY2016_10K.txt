@@ -1,0 +1,23 @@
+FIRM         : TROX (CIK 0001530804) | FY2016
+FILE         : 0001530804_TROX_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, net is stated at cost less accumulated depreciation, and is depreciated over its estimated useful life using the straight-line method as follows:
+
+[VERBATIM — Changement de politique]
+During 2016, we amended our lease agreement for our TiO 2 pigment facility in Botlek, the Netherlands, which included an option to extend the lease term for an additional 25 years. This amendment increased the estimated useful life used in determining the asset retirement obligation and consequently, we recognized a $10 million reduction to this liability.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

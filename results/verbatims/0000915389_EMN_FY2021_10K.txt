@@ -1,0 +1,21 @@
+FIRM         : EMN (CIK 0000915389) | FY2021
+FILE         : 0000915389_EMN_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 22. Reserve Rollforwards
+ASSET CAT.   : equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+CONSOLIDATED STATEMENTS OF CASH FLOWS For years ended December 31, (Dollars in millions) 2021 2020 2019 Operating activities Net earnings $ 867 $ 489 $ 762 Adjustments to reconcile net earnings to net cash provided by operating activities: Depreciation and amortization 538 574 611 Mark-to-market pension and other postretirement benefit plans (gain) loss, net (267) 240 143 Asset impairment charges 16 146 72 Early debt extinguishment costs 1 1 — Loss from sale of business 552 — — Provision for (benefit from) deferred income taxes (38) (111) 23 Changes in operating assets and liabilities, net of effect of acquisitions and divestitures: (Increase) decrease in trade receivables (281) (31) 170 (Increase) decrease in inventories (389) 291 (80) Increase (decrease) in trade payables 554 (100) (27) Pension and other postretirement contributions (in excess of) less than expenses (185) (136) (119) Variable compensation payments (in excess of) less than expenses 162 87 38 Other items, net 89 5 (89) Net cash provided by operating activities 1,619 1,455 1,504 Investing activities Additions to properties and equipment (555) (383) (425) Proceeds from sale of business 667 — — Acquisitions, net of cash acquired (114) (1) (48) Additions to capitalized software (23) (13) (6) Other items, net (4) 3 (1) Net cash used in investing activities (29) (394) (480) Financing activities Net increase (decrease) in commercial paper and other borrowings (50) (121) (70) Proceeds from borrowings — 249 460 Repayment of borrowings (300) (435) (760) Dividends paid to stockholders (375) (358) (343) Treasury stock purchases (1,000) (60) (325) Other items, net 35 21 (5) Net cash used in financing activities (1,690) (704) (1,043) Effect of exchange rate changes on cash and cash equivalents (5) 3 (3) Net change in cash and cash equivalents (105) 360 (22) Cash and cash equivalents at beginning of period 564 204 226 Cash and cash equivalents at end of period $ 459 $ 564 $ 204
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

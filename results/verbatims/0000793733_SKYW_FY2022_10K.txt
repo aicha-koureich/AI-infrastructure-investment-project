@@ -1,0 +1,23 @@
+FIRM         : SKYW (CIK 0000793733) | FY2022
+FILE         : 0000793733_SKYW_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+As of December 31, 2022, excluding aircraft financed by the Company’s major airline partners that the Company operates for them under contract, the Company had 43 aircraft under long-term lease agreements with remaining terms ranging from one year to eight years. The Company leases 32 CRJ aircraft under a lease agreement that expires in March 2024. During the year ended December 31, 2022, the Company began storing aircraft under this lease agreement, which shortened the Company’s estimated useful life of the aircraft under the lease and resulted in the Company recognizing $11.4 million of accelerated lease expense during the year ended December 31, 2022.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

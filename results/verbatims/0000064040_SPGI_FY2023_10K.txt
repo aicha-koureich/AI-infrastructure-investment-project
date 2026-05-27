@@ -1,0 +1,20 @@
+FIRM         : SPGI (CIK 0000064040) | FY2023
+FILE         : 0000064040_SPGI_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-07
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 1. Accounting Policies
+ASSET CAT.   : Capitalized software, technology
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized costs are amortized from the year the software is ready for its intended use over its estimated useful life, three to seven years, using the straight-line method. Capitalized software development and website implementation costs are included in other non-current assets and are presented net of accumulated amortization.
+
+[VERBATIM — Infrastructure IA]
+We typically have various contractual obligations, which are recorded as liabilities in our consolidated balance sheets, while other items, such as certain purchase commitments and other executory contracts, are not recognized. For example, we are contractually committed to contracts for information-technology outsourcing, certain enterprise-wide information-technology software licensing and maintenance. In the first quarter of 2023, S&P Global and Amazon Web Services (“AWS”) entered into a multi-year strategic collaboration agreement with a purchase obligation of $1.0 billion, before incremental credits, over a five-year period. With AWS as its preferred cloud provider, S&P Global will enhance its cloud infrastructure, accelerate business growth, engineer new innovations for key industry segments, and help their customers navigate rapidly changing market conditions .  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We typically have various contractual obligations, which are recorded as liabilities in our consolidated balance sheets, while other items, such as certain purchase commitments and other executory contracts, are not recognized. For example, we are contractually committed to contracts for information-technology outsourcing, certain enterprise-wide information-technology software licensing and maintenance. In the first quarter of 2023, S&P Global and Amazon Web Services (“AWS”) entered into a multi-year strategic collaboration agreement with a purchase obligation of $1.0 billion, before incremental credits, over a five-year period. With AWS as its preferred cloud provider, S&P Global will enhance its cloud infrastructure, accelerate business growth, engineer new innovations for key industry segments, and help their customers navigate rapidly changing market conditions .

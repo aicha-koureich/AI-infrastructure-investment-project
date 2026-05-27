@@ -1,0 +1,20 @@
+FIRM         : WDC (CIK 0000106040) | FY2021
+FILE         : 0000106040_WDC_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-07-19
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Organization and Basis of Presentation
+ASSET CAT.   : equipment, machinery and equipment, furniture and fixtures
+DURÉE        : 2.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are carried at cost less accumulated depreciation and amortization. The cost of property, plant and equipment is depreciated over the estimated useful lives of the respective assets. The majority of the Company’s machinery and equipment, software, and furniture and fixtures, are depreciated on a straight-line basis over a period of two to seven years.
+
+[VERBATIM — Infrastructure IA]
+Western Digital Corporation (“Western Digital” or “the Company”) is a leading developer, manufacturer, and provider of data storage devices and solutions that address the evolving needs of the information technology (“IT”) industry and the infrastructure that enables the proliferation of data in virtually every other industry. The Company creates environments for data to thrive. The Company is driving the innovation needed to help customers capture, preserve, access and transform an ever-increasing diversity of data. Everywhere data lives, from advanced data centers to mobile sensors to personal devices, the Company’s industry-leading solutions deliver the possibilities of data.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The growth in computing complexity, cloud computing applications, connected mobile devices and Internet connected products, and edge devices is driving unabated growth in the volume of digital content to be stored and used. This growth has led to a creation of new form factors for data storage. The storage industry is increasingly utilizing tiered architectures with HDDs, solid state drives (“SSDs”) and other non-volatile memory-based storage to address an expanding set of uses and applications. We believe our expertise and innovation across both HDD and flash technologies enable us to bring powerful solutions to a broader range of applications. We continuously monitor the full array of storage technologies, including reviewing these technologies with our customers, to ensure we are appropriately resourced to meet our customers’ storage needs.

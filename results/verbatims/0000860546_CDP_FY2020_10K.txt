@@ -1,0 +1,20 @@
+FIRM         : CDP (CIK 0000860546) | FY2020
+FILE         : 0000860546_CDP_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-03
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Percentage of Annualized Rental Revenue of Office and Data Center Shell Properties as of December 31,  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

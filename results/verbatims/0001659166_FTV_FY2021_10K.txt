@@ -1,0 +1,21 @@
+FIRM         : FTV (CIK 0001659166) | FY2021
+FILE         : 0001659166_FTV_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 3.0-10.0 ans | 8.0 ans
+
+[VERBATIM — Durée de vie]
+The provision for depreciation has been computed principally by the straight-line method based on the estimated useful lives of the depreciable assets as follows: Category Useful Life Buildings 30 years Leased assets and leasehold improvements Amortized over the lesser of the economic life of the asset or the term of the lease Machinery and equipment 3 – 10 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

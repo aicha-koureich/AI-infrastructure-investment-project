@@ -1,0 +1,20 @@
+FIRM         : PLXS (CIK 0000785786) | FY2021
+FILE         : 0000785786_PLXS_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 2, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 3. Property, Plant and Equipment
+ASSET CAT.   : Machinery and equipment, Computer hardware, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+2021 2020 Land, buildings and improvements $ 336,939 $ 334,083 Machinery and equipment 420,172 403,894 Computer hardware and software 167,584 147,723 Capital assets in progress 28,085 16,279 Total property, plant and equipment, gross 952,780 901,979 Less: accumulated depreciation (557,686) (518,318) Total property, plant and equipment, net $ 395,094 $ 383,661
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

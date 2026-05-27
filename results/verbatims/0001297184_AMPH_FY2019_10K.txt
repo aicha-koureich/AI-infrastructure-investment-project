@@ -1,0 +1,21 @@
+FIRM         : AMPH (CIK 0001297184) | FY2019
+FILE         : 0001297184_AMPH_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 12. Property, Plant, and Equipment Property, plant, and equipment consist of the following: December 31, 2019 2018 (in thousands) Buildings $ 117
+ASSET CAT.   : Equipment, Machinery and equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-12.0 ans | 4.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Property, Plant, and Equipment Property, plant, and equipment consist of the following: December 31, 2019 2018 (in thousands) Buildings $ 117,928 $ 96,287 Leasehold improvements 29,531 26,755 Land 7,603 7,628 Machinery and equipment 164,802 143,299 Furniture, fixtures, and automobiles 22,043 19,151 Construction in progress 56,354 66,390 Total property, plant, and equipment 398,261 359,510 Less accumulated depreciation (164,405) (149,092) Total property, plant, and equipment, net $ 233,856 $ 210,418 The Company incurred depreciation expense of $17.1 million, $14.5 million, and $13.0 million for the years ended December 31, 2019, 2018, and 2017, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15 Customer’s Accounting for Implementation Cost Incurred in a Cloud Computing Arrangement that is a Service Contract , which aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalized implementation cost incurred to develop or obtain internal-use software (and hosting arrangements that include an internal use software license). The guidance also requires the entity to expense the capitalized implementation cost of a hosting arrangement that is a service contract over the term of the hosting arrangement, which includes reasonable certain renewals. This guidance is effective for our interim and annual reporting periods after December 31, 2019. The adoptions of the guidance will not have a material impact on our consolidated financial statements and related disclosures. ||| Customer’s Accounting for Implementation Cost Incurred in a Cloud Computing Arrangement that is a Service Contract

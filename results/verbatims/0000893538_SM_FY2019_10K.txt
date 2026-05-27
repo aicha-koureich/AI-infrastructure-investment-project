@@ -1,0 +1,20 @@
+FIRM         : SM (CIK 0000893538) | FY2019
+FILE         : 0000893538_SM_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 13 – Accounts Receivable and Accounts Payable and Accrued Expenses
+ASSET CAT.   : equipment, furniture, computer hardware
+DURÉE        : 3.0-30.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+When other property and equipment is sold or retired, the capitalized costs and related accumulated depreciation are removed from the accounts.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (“ASU 2018-15”). ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The Company adopted ASU 2018-15 on January 1, 2020, with prospective application. The adoption of ASU 2018-15 is not expected to have a material impact to the Company’s consolidated financial statements or disclosures. ||| Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

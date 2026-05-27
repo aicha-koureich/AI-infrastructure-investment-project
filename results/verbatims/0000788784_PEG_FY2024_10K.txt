@@ -1,0 +1,20 @@
+FIRM         : PEG (CIK 0000788784) | FY2024
+FILE         : 0000788784_PEG_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Organization, Basis of P resentation and Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+The cost of nuclear fuel is capitalized within Property, Plant and Equipment and amortized to fuel expense using the units-of-production method.
+
+[VERBATIM — Infrastructure IA]
+In addition, long-lived assets are depreciated under the straight-line method based on estimated useful lives. An asset’s operating useful life is generally based upon operational experience with similar asset types and other non-operational factors. In the ordinary course, management, together with an asset’s co-owners in the case of certain of our jointly-owned assets, make a number of decisions that impact the operation of our generation assets beyond the current year. These decisions may have a direct impact on the estimated remaining useful lives of our assets and will be influenced by the financial outlook of the assets, including future market conditions such as forward energy, capacity prices, and long-term agreements to supply large power users, such as data centers, operating and capital investment costs and any state or federal legislation and regulations, among other items.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

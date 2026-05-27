@@ -1,0 +1,25 @@
+FIRM         : SBH (CIK 0001368458) | FY2016
+FILE         : 0001368458_SBH_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In
+April 2015, the FASB issued ASU No. 2015-05, Customer's Accounting for Fees Paid in Cloud Computing Arrangement . This pronouncement provides
+guidance to determine whether a cloud-based computing arrangement includes a software license. If a cloud-based computing arrangement includes a software license, the customer must account for the
+software element of the arrangement consistent with the acquisition of other software licenses. Otherwise, the customer must account for the arrangement as a service contract. The new standard permits
+the use of either the prospective or retrospective transition method. For public companies, this amendment is effective for fiscal years, and interim periods within those fiscal years, beginning after
+December 15, 2015. ||| Customer's Accounting for Fees Paid in Cloud Computing Arrangement

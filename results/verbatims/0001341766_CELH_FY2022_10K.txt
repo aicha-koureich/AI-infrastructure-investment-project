@@ -1,0 +1,20 @@
+FIRM         : CELH (CIK 0001341766) | FY2022
+FILE         : 0001341766_CELH_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-13
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+— Property and equipment are stated at cost less accumulated depreciation and amortization. Depreciation of property and equipment is calculated using the straight-line method over the estimated useful life of the asset generally ranging from
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

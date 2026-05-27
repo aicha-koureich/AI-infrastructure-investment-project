@@ -1,0 +1,20 @@
+FIRM         : BSET (CIK 0000010329) | FY2019
+FILE         : 0000010329_BSET_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : November 30, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued Accounting Standards Update No. 2018 - 15 – Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350 - 40 ): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract, to help entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement (hosting arrangement) by providing guidance for determining when the arrangement includes a software license. The amendments in ASU 2018 - 15 align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal use software license). The accounting for the service element of a hosting arrangement that is a service contract is not affected by the amendments in ASU 2018 - 15. The amendments in ASU 2018 - 15 will become effective for us as of the beginning of our 2021 fiscal year. Early adoption is permitted, including adoption in any interim period. We are currently evaluating the impact that this guidance will have upon our financial position and results of operations, if any.

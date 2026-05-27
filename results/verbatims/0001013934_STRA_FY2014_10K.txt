@@ -1,0 +1,23 @@
+FIRM         : STRA (CIK 0001013934) | FY2014
+FILE         : 0001013934_STRA_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Construction in progress includes costs
+associated with the construction of new campuses and the development of information technology applications. In 2013 and 2014, the Company recorded
+leasehold improvements of $0.3 million and $0.1 million, respectively, which were reimbursed by lessors as lease incentives. In 2013 and 2014, the
+Company wrote off $0.8 million and $13.6 million, respectively, in fixed assets that were fully depreciated and no longer in service.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

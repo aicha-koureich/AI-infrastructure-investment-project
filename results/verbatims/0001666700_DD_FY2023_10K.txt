@@ -1,0 +1,20 @@
+FIRM         : DD (CIK 0001666700) | FY2023
+FILE         : 0001666700_DD_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-15
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Electronics & Industrial net sales were $5,917 million for the year ended December 31, 2022, up 7 percent from $5,554 million for the year ended December, 31 2021. Net sales increased due to a 5 percent increase from portfolio changes, a 3 percent increase in volume, and a 2 percent increase in local price, and partially offset by a 3 percent unfavorable currency impact. The portfolio impact primarily reflects the July 1, 2021 acquisition of Laird PM. Volume growth was led by Semiconductor Technologies which was driven by strong end-market demand primarily due to continued transition to more advanced node technologies and high performance computing. Within Industrial Solutions, volume gains were driven by growth in healthcare and industrial-end markets as well as continued strength in electronics applications. Volumes within Interconnect Solutions were down due to weakness in consumer electronics and smartphones.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

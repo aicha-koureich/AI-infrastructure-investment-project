@@ -1,0 +1,20 @@
+FIRM         : G (CIK 0001398659) | FY2024
+FILE         : 0001398659_G_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-03
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Data-Tech-AI services 2 ||| Data-Tech-AI services ||| New bookings can vary significantly year to year depending in part on the timing of signing of large contracts. The types of services clients are demanding, the duration of the contract and the pace and level of client spending may impact the conversion of new bookings to revenues. For example, bookings for our Digital Operations services, which are typically provided under multi-year contracts, generally convert to revenue over a longer period of time than do bookings for our Data-Tech-AI services, which often include shorter cycle, project-based work.

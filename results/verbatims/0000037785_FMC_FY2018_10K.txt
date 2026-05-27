@@ -1,0 +1,23 @@
+FIRM         : FMC (CIK 0000037785) | FY2018
+FILE         : 0000037785_FMC_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 20: Segment Information
+ASSET CAT.   : Capitalized software, computer software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We amortize capitalized software costs over expected useful lives ranging from three to 10 years .
+
+[VERBATIM — Changement de politique]
+Additionally, as part of these restructuring plans, write-downs of long-lived assets may occur. Two types of assets are impacted: assets to be disposed of by sale and assets to be abandoned. Assets to be disposed of by sale are measured at the lower of carrying amount or estimated net proceeds from the sale. Assets to be abandoned with no remaining future service potential are written down to amounts expected to be recovered. The useful life of assets to be abandoned that have a remaining future service potential are adjusted and depreciation is recorded over the adjusted useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. ||| In August 2018, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) No. 2018-15, Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. The amendments in this ASU align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The new standard is effective for fiscal years beginning after December 15, 2019 (i.e. a January 1, 2020 effective date). We are evaluating the effect the guidance will have on our consolidated financial statements.

@@ -1,0 +1,20 @@
+FIRM         : OXM (CIK 0000075288) | FY2016
+FILE         : 0000075288_OXM_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 28, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies (Continued)
+ASSET CAT.   : equipment, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+of property and equipment impairment charges were recognized related to information technology assets and outlet store assets. No material impairment of fixed assets was recognized in Fiscal 2015 or Fiscal 2014. Depreciation by operating group, as discussed in Note 2, and in our consolidated statements of cash flows includes any fixed asset impairment charges.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : ESAB (CIK 0001877322) | FY2022
+FILE         : 0001877322_ESAB_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-04-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, net is stated at historical cost, which includes the fair values of such assets acquired through acquisitions. Repair and maintenance expenditures are expensed as incurred unless the repair extends the useful life of the asset.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

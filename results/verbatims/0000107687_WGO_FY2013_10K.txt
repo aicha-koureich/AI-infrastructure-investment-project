@@ -1,0 +1,23 @@
+FIRM         : WGO (CIK 0000107687) | FY2013
+FILE         : 0000107687_WGO_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of property and equipment is computed using the straight‑line method on the cost of the assets, less allowance for salvage value where appropriate, at rates based upon their estimated service lives as follows:
+
+[VERBATIM — Changement de politique]
+is not subject to amortization for financial statement purposes, but is amortizable for tax return purposes. During the course of our annual evaluation of goodwill, we have determined that the fair value substantially exceeds the carrying value. Amortizable intangible assets are amortized on a straight-line basis. During the course of our annual review of intangible assets, we identified a decrease in the estimated useful lives of our intangible assets related to the SunnyBrook acquisition. In order to reflect the updated estimated useful lives, the intangible assets have been fully amortized as of
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

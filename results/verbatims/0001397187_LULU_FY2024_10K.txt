@@ -1,0 +1,24 @@
+FIRM         : LULU (CIK 0001397187) | FY2024
+FILE         : 0001397187_LULU_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-21
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost less accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+Acquired finite-lived intangible assets are amortized on a straight-line basis over their estimated useful lives, and are reviewed for impairment when events or circumstances indicate that the asset group to which the intangible assets belong might be impaired. The Company revises the estimated remaining useful life of these assets when events or changes in circumstances warrant a revision. If the Company revises the useful life, the unamortized balance is amortized over the remaining useful life on a prospective basis.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+– an increase in technology costs, including cloud computing amortization, of $27.6 million; ||| an increase in technology costs, including cloud computing amortization, of $27.6 million;

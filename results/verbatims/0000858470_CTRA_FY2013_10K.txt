@@ -1,0 +1,23 @@
+FIRM         : CTRA (CIK 0000858470) | FY2013
+FILE         : 0000858470_CTRA_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies (Continued)
+ASSET CAT.   : equipment is depreciated over
+DURÉE        : 10.0-16.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Properties related to gathering and pipeline systems and equipment are depreciated using the
+straight-line method based on estimated useful lives ranging from 10 to 25 years. Generally pipeline and transmission systems are depreciated over 12 to 25 years, gathering and
+compression equipment is depreciated over 10 years and storage equipment and facilities are depreciated over 10 to 16 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

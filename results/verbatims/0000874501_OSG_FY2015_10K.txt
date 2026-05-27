@@ -1,0 +1,20 @@
+FIRM         : OSG (CIK 0000874501) | FY2015
+FILE         : 0000874501_OSG_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 14. Long-Term Debt
+ASSET CAT.   : furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of furniture and fixtures and electronic data processing equipment is charged over the estimated useful lives of the respective assets, ranging from
+
+[VERBATIM — Infrastructure IA]
+Ambac is responsible for leases on the rental of office space. The executive office of Ambac is located in New York City under a lease agreement that was modified and extended in 2015 to allow Ambac to remain in the same office space through September 2019 and on one floor through the end of 2029, with an option to continue to occupy other currently leased floors through the end of 2029. Rent payments under this lease made through September 2019 will result in the periodic reduction of Segregated Account Junior Surplus Notes that were previously issued to the landlord, beginning in January 2016. Ambac leases additional space for its data center, disaster recovery site and for its international locations under lease agreements that expire periodically through October 2020. An estimate of future net minimum lease payments in each of the next five years ending December 31, and the periods thereafter, is as follows:  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

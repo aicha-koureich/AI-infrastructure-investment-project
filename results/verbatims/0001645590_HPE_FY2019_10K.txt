@@ -1,0 +1,21 @@
+FIRM         : HPE (CIK 0001645590) | FY2019
+FILE         : 0001645590_HPE_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-10-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 21: Equity Method Investments
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+The Company states property, plant and equipment at cost less accumulated depreciation. Estimated useful lives are five to 40 years for buildings and improvements and three to 15 years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+Compute HPE offers both Industry Standard Servers ("ISS"), which are general purpose servers for multi-workload computing, as well as Mission Critical Servers ("MCS"), which are servers optimized for particular workloads. HPE's general purpose servers include the HPE ProLiant, secure and versatile rack and tower servers; HPE BladeSystem, a modular infrastructure that converges server, storage and networking; and HPE Synergy, a composable infrastructure for traditional and cloud-native applications. The Company's workload optimized server portfolio includes the HPE Apollo, and products from the acquisition of Cray, for high performance computing and artificial intelligence, HPE Cloudline for cloud data centers, HPE Edgeline for computing at the network edge and HPE Integrity for mission-critical applications.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

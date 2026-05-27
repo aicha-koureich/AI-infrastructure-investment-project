@@ -1,0 +1,20 @@
+FIRM         : TDAY (CIK 0001579684) | FY2018
+FILE         : 0001579684_TDAY_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-30
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : buildings and improvements, up to 20 years for machinery and equipment, and up to 10 years for furniture, fixtures and computer software
+DURÉE        : 10.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is calculated under the straight-line method over the estimated useful lives, principally up to 40 years for buildings and improvements, up to 20 years for machinery and equipment, and up to 10 years for furniture, fixtures and computer software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+During 2018, we acquired substantially all the assets, properties, and business of certain publications/businesses, which included seven business publications, eight daily newspapers, 16 weekly newspapers, one shopper, a print facility, an events production business, cloud services and digital platforms and related domains, for an aggregate purchase price of $205.7 million , including estimated working capital. ||| shopper, a print facility, an events production business, cloud services and digital platforms and related domains, for an aggregate purchase price of

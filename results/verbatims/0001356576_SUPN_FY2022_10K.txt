@@ -1,0 +1,20 @@
+FIRM         : SUPN (CIK 0001356576) | FY2022
+FILE         : 0001356576_SUPN_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 14. Composition of Other Balance Sheet Items (Continued)
+ASSET CAT.   : equipment, equipment and furniture, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment consists of the following (dollars in thousands): December 31, 2022 December 31, 2021 Lab equipment and furniture $ 12,127 $ 12,287 Leasehold improvements 14,023 14,369 Software 883 4,776 Computer equipment 983 1,944 Construction-in-progress 206 33 28,222 33,409 Less accumulated depreciation and amortization (13,049) (16,454) Total $ 15,173 $ 16,955
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : CVS (CIK 0000064803) | FY2020
+FILE         : 0000064803_CVS_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : B100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+In millions 2020 2019 Land $ 2,134 $ 1,981 Building and improvements 3,950 3,541 Fixtures and equipment 13,125 12,401 Leasehold improvements 6,077 5,611 Software 6,020 5,400 Total property and equipment 31,306 28,934 Accumulated depreciation and amortization (18,700) (16,890) Property and equipment, net $ 12,606 $ 12,044
+
+[VERBATIM — Changement de politique]
+• Additional depreciation expense related to the adjustment of Aetna’s property and equipment to fair value;
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract ||| In August 2018, the FASB issued ASU 2018-15, Intangibles - Goodwill and other - Internal-Use Software (Topic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract. This standard requires a customer in a cloud computing arrangement that is a service contract to follow the internal-use software guidance in Topic 350-40 to determine which implementation costs to capitalize as assets. The Company adopted this new accounting guidance on January 1, 2020 on a prospective basis. The adoption of this standard did not have a material impact on the Company’s consolidated operating results, cash flows, financial condition or related disclosures. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract.

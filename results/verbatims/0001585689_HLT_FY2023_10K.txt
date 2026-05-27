@@ -1,0 +1,21 @@
+FIRM         : HLT (CIK 0001585689) | FY2023
+FILE         : 0001585689_HLT_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2: Basis of Presentation and Summary of Significant Accounting Policies Basis of Presentation
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-8.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost. Costs of improvements that extend the economic life or improve service potential are also capitalized. Capitalized costs are depreciated over their estimated useful lives. Costs for normal repairs and maintenance are expensed as incurred. Right-of-use ("ROU") assets of finance leases are included in property and equipment, net in our consolidated balance sheet; refer to "Leases" below for additional information.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

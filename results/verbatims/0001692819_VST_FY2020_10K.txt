@@ -1,0 +1,23 @@
+FIRM         : VST (CIK 0001692819) | FY2020
+FILE         : 0001692819_VST_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Nuclear fuel is capitalized and reported as a component of our property, plant and equipment in our consolidated balance sheets. Amortization of nuclear fuel is calculated on the units-of-production method and is reported as a component of fuel, purchased power costs and delivery fees in our consolidated statements of operations.
+
+[VERBATIM — Changement de politique]
+In the third quarter of 2020, we recognized impairment losses of $173 million related to our Kincaid coal generation facility in Illinois and $99 million related to our Zimmer coal generation facility in Ohio, each as a result of a significant decrease in the estimated useful life of the facility, reflecting our recently announced plan to retire both facilities by the end of 2027 in response to the final CCR rule (see Notes 4 and 13). The impairment losses are reported in our Sunset segment and include a $260 million write-down of property, plant and equipment and a $12 million write-down of inventory. In determining the fair value of the impaired assets, we equally weighted a market approach valuation based on transactions of similar assets and an income approach valuation discounting our projected cash flows through the respective plant retirement dates.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract — In August 2018, the FASB issued ASU 2018-15, Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. The ASU requires a customer in a cloud hosting arrangement that is a service contract to determine which implementation costs to capitalize and which costs to expense based on the project stage of the implementation. The ASU also requires the customer to expense the capitalized implementation costs over the term of the hosting arrangement. The customer is required to apply the existing impairment and abandonment guidance on the capitalized implementation costs. We adopted this ASU in the first quarter of 2020, and it did not have a material impact on our financial statements. ||| Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.

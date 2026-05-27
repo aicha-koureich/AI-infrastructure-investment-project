@@ -1,0 +1,20 @@
+FIRM         : MLM (CIK 0000916076) | FY2019
+FILE         : 0000916076_MLM_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+In considering business and employment diversity, the Company focuses its geographic footprint along significant transportation corridors, particularly where land is readily available for the construction of fulfillment and/or data centers. The retail sector values transportation corridors, as logistics and distribution are critical considerations for construction supporting that industry. In addition, technology companies view these areas as attractive locations for data centers.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

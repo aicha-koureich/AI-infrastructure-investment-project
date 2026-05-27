@@ -1,0 +1,20 @@
+FIRM         : LUMN (CIK 0000018926) | FY2022
+FILE         : 0000018926_LUMN_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software, less accumulated amortization of $3,895 and $3,624
+
+[VERBATIM — Infrastructure IA]
+• Compute and Application Services , which include our Edge Cloud services, IT solutions, Unified Communications and Collaboration ("UC&C"), data center, content delivery network ("CDN") and managed security services;  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+• Compute and Application Services , which include our Edge Cloud services, IT solutions, Unified Communications and Collaboration ("UC&C"), data center, content delivery network ("CDN") and managed security services; ||| , which include our Edge Cloud services, IT solutions, Unified Communications and Collaboration ("UC&C"), data center, content delivery network ("CDN") and managed security services; ||| • Compute and Application Services increased for the year ended December 31, 2021 compared to December 31, 2020 driven by growth in Managed Security and IT Solutions services to Public Sector customers and an increase in colocation and data center services in our IGAM sales channel. These increases were partially offset by a large customer disconnect for IT Solutions, lower rates for content delivery network services within our IGAM sales channel and a decrease in Cloud Services within our Large Enterprise and IGAM sales channels.

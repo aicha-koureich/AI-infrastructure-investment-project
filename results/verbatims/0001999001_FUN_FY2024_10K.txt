@@ -1,0 +1,20 @@
+FIRM         : FUN (CIK 0001999001) | FY2024
+FILE         : 0001999001_FUN_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 Significant Accounting Policies 44 Note 2 Mergers 51 Note 3 Revenue Recognition 53 Note 4 Long-Lived Assets 54 Note 5 Goodwill and Other Intang
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment is recorded at cost. Costs incurred to improve the performance or extend the useful life of existing assets are capitalized. Costs to maintain such assets in their original operating condition are expensed as incurred, including repair and maintenance costs for routine and recurring maintenance activities. Depreciation is computed on a straight-line basis over the estimated useful lives of the assets. Depreciation expense totaled $317.8 million in 2024, $157.7 million in 2023, and $153.0 million in 2022. The results for the year ended December 31, 2024 include the results of Former Six Flags operations since the Closing Date of the Mergers (see Note 2 ).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

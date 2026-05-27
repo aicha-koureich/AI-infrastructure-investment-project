@@ -1,0 +1,24 @@
+FIRM         : GDYN (CIK 0001743725) | FY2019
+FILE         : 0001743725_GDYN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Grid Dynamics is an
+emerging leader in driving enterprise-level digital transformation in Fortune 1000 companies. Since its inception in 2006 in Menlo
+Park, California, as a grid and cloud consultancy firm, Grid Dynamics has been on the forefront of digital transformation, working
+on big ideas like cloud computing, NOSQL, DevOps, microservices, big data and AI and quickly established itself as a provider of
+choice for technology and digital enterprise companies.

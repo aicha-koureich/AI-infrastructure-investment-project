@@ -1,0 +1,21 @@
+FIRM         : APEI (CIK 0001201792) | FY2014
+FILE         : 0001201792_APEI_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Nature of Business and Significant Accounting Policies
+ASSET CAT.   : equipment upon completion of each program and amortized over an estimated life not to exceed
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 3.0 ans | 5.0 ans | 7.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+All property and equipment are carried at cost less accumulated depreciation, except the acquired assets of HCON, which were recorded at fair value at the acquisition date. These costs are transferred to property and equipment upon completion of each program and amortized over an estimated life not to exceed three years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : MBC (CIK 0001941365) | FY2023
+FILE         : 0001941365_MBC_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment Property, plant and equipment are carried at cost. Depreciation is provided, principally on a straight-line basis, over the estimated useful lives of the assets. Gains or losses resulting from dispositions are included in operating income. Betterments and renewals, which improve and extend the life of an asset, are capitalized; maintenance and repair costs are expensed as incurred. Assets held for use to be disposed of at a future date are depreciated over the remaining useful life. Assets to be sold are written down to fair value less costs to sell at the time the assets are being actively marketed for sale. Estimated useful lives of the related assets are as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

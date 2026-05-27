@@ -1,0 +1,21 @@
+FIRM         : CTKB (CIK 0001831915) | FY2022
+FILE         : 0001831915_CTKB_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-23
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of presentation and summary of significant accounting policies
+ASSET CAT.   : equipment
+DURÉE        : 20.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment, net Property and equipment are recorded at cost, net of accumulated depreciation. The Company’s estimated useful lives of its property and equipment are as follows: Estimated Useful Lives Building 20 years Furniture and fixtures 7 years Laboratory equipment 5 years Office and computer equipment 3 years Leasehold improvements Shorter of expected lease term or estimated useful life Upon sale or retirement of the assets, the cost and related accumulated depreciation are removed from the accounts and the resulting gain or loss is recognized in the consolidated statement of operations and comprehensive income.
+
+[VERBATIM — Infrastructure IA]
+We rely on third-party service providers and technologies to operate critical business systems to process Sensitive Information in a variety of contexts, including, without limitation, cloud-based infrastructure, data center facilities, encryption and authentication technology, employee email, content delivery to customers, and other functions. Our ability to monitor these third parties’ information security practices is limited, and these third parties may not have adequate information security measures in place. If our third-party service providers experience a security incident or other interruption, we could experience adverse consequences. While we may be entitled to damages if our third-party service providers fail to satisfy their data privacy or security-related obligations to us, any award may be insufficient to cover our damages, or we may be unable to recover such award. In addition, supply-chain attacks have increased in frequency and severity, and we cannot guarantee that third parties’ infrastructure in our supply chain or our third-party partners’ supply chains have not been compromised.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

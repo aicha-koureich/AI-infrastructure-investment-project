@@ -1,0 +1,20 @@
+FIRM         : WHD (CIK 0001699136) | FY2021
+FILE         : 0001699136_WHD_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies and Other Items
+ASSET CAT.   : Machinery and equipment, equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2021 2020 Land $ 3,203 $ 3,203 Buildings and improvements 22,532 21,935 Machinery and equipment 56,937 57,726 Vehicles under finance lease 23,450 14,371 Rental equipment 180,704 172,012 Furniture and fixtures 1,755 1,780 Computers and software 3,495 3,530 Gross property and equipment 292,076 274,557 Less: Accumulated depreciation (175,992) (147,221) Net property and equipment 116,084 127,336 Construction in progress 13,033 15,489 Total property and equipment, net $ 129,117 $ 142,825
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : WEN (CIK 0000030697) | FY2019
+FILE         : 0000030697_WEN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 29, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Depreciation and amortization of properties is computed principally on the straight-line basis using the following estimated useful lives of the related major classes of properties: 3 to 20 years for office and restaurant equipment (including technology), 3 to 15 years for transportation equipment and 7 to 30 years for buildings and improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the Financial Accounting Standards Board (“FASB”) issued new guidance on accounting for implementation costs of a cloud computing arrangement that is a service contract. The new guidance aligns the accounting for such implementation costs of a cloud computing arrangement that is a service contract with the guidance on capitalizing costs associated with developing or obtaining internal-use software. The Company adopted this amendment during the first quarter of 2019. The adoption of this guidance did not have a material impact on our consolidated financial statements.

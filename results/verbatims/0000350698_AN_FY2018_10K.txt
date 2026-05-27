@@ -1,0 +1,20 @@
+FIRM         : AN (CIK 0000350698) | FY2018
+FILE         : 0000350698_AN_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 18. COMMITMENTS AND CONTINGENCIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Expenses under real property, equipment, and software leases were $66.2 million in 2018 , $56.3 million in 2017 , and $52.8 million in 2016 . The leases require payment of real estate taxes, insurance, and maintenance in addition to rent. Most of the leases contain renewal options, rent abatements, and rent escalation clauses. Lease expense is recognized on a straight-line basis over the term of the lease, including any option periods, as appropriate. The same lease term is used for lease classification, the amortization period of related leasehold improvements, and the estimation of future lease commitments.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

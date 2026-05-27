@@ -1,0 +1,21 @@
+FIRM         : EME (CIK 0000105634) | FY2023
+FILE         : 0000105634_EME_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+ASSET CAT.   : machinery and equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation, including amortization of assets under finance leases, is recorded using the straight-line method over estimated useful lives of 3 to 10 years for machinery and equipment, 3 to 7 years for vehicles, furniture and fixtures, and computer hardware/software, and 25 years for buildings.
+
+[VERBATIM — Infrastructure IA]
+Revenues of our United States electrical construction and facilities services segment were $2,783.7 million for the year ended December 31, 2023 compared to revenues of $2,433.1 million for the year ended December 31, 2022. This segment’s results included $88.5 million of incremental acquisition revenues for the year ended December 31, 2023. Excluding the impact of acquisitions, revenues of this segment increased by $262.1 million as a result of an increase in revenues within many of the market sectors in which we operate, most notably including: (a) the network and communications market sector, predominantly due to our data center projects, (b) the manufacturing and industrial market sector, from contracts with our energy sector customers, including those for renewable energy projects, (c) the healthcare market sector, as a result of greater activity throughout certain of the regions in which we operate, (d) the hospitality and entertainment market sector, given an increase in projects within the Western region of the United States, and (e) the high-tech manufacturing market sector, due to an increase in projects for various biotech, life-sciences, and pharmaceutical customers as well as certain semiconductor manufacturers. Partially offsetting these increases were modest revenue declines from the commercial market sector and the institutional market sector as well as a reduction in short duration project volume.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

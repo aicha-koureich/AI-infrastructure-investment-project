@@ -1,0 +1,20 @@
+FIRM         : ALLY (CIK 0000040729) | FY2023
+FILE         : 0000040729_ALLY_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of Business, Basis of Presentation, and Significant Accounting Policies
+ASSET CAT.   : equipment, furniture and fixtures, capitalized software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment stated at cost, net of accumulated depreciation and amortization, are reported in other assets on our Consolidated Balance Sheet. Capitalized software is generally amortized on a straight-line basis over its useful life, which generally ranges from three to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

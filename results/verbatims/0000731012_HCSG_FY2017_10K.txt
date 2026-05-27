@@ -1,0 +1,20 @@
+FIRM         : HCSG (CIK 0000731012) | FY2017
+FILE         : 0000731012_HCSG_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 19—Selected Quarterly Financial Data (Unaudited)
+ASSET CAT.   : equipment, Computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2017 December 31, 2016 (in thousands) Housekeeping and Dietary equipment $ 22,349 $ 21,136 Computer hardware and software 12,665 11,750 Other (1) 990 1,133 Total property and equipment, at cost $ 36,004 $ 34,019 Less accumulated depreciation 22,495 20,564 Total property and equipment, net $ 13,509 $ 13,455
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

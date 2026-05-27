@@ -1,0 +1,21 @@
+FIRM         : GDDY (CIK 0001609711) | FY2015
+FILE         : 0001609711_GDDY_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Computer equipment
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-7.0 ans | 3.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated Useful Lives December 31, 2015 2014 Land Indefinite $ 9.0 $ 9.0 Computer equipment 3 years 248.7 209.5 Buildings, including improvements 2-25 years 112.8 102.5 Software 3 years 28.5 24.6 Leasehold improvements Lesser of useful life or remaining lease term 34.1 28.0 Other 1-7 years 9.8 7.6 Building acquired under lease financing obligation 40 years 18.1 18.1 Total property and equipment 461.0 399.3 Less accumulated depreciation and amortization (236.0 ) (178.4 ) Property and equipment, net $ 225.0 $ 220.9
+
+[VERBATIM — Infrastructure IA]
+We lease office and data center space in various locations. Rent expense under operating leases is recognized on a straight-line basis over the lease term taking into consideration rent abatements, scheduled rent increases and any lease incentives.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+, the FASB issued new guidance related to accounting for fees paid in a cloud computing arrangement. The new standard provides guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The new standard is effective for annual and interim reporting periods beginning after ||| In April 2015 , the FASB issued new guidance related to accounting for fees paid in a cloud computing arrangement. The new standard provides guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The new standard is effective for annual and interim reporting periods beginning after December 15, 2015 , with early adoption permitted. We do not expect the adoption of this guidance to have a material impact on our consolidated financial statements.

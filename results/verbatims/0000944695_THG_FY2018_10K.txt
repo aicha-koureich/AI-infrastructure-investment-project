@@ -1,0 +1,20 @@
+FIRM         : THG (CIK 0000944695) | FY2018
+FILE         : 0000944695_THG_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, capitalized software
+DURÉE        : 5.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, equipment, leasehold improvements and capitalized software are recorded at cost, less accumulated depreciation and amortization. The estimated useful life for capitalized software is generally 5 to 7 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASC Update No. 2018-15, Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (“ASC Update No. 2018-15”). This ASC update requires the capitalization of implementation costs incurred in a hosting arrangement that is a service contract consistent with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). The guidance also requires an entity to expense the capitalized implementation costs of a hosting arrangement that is a service contract over the term of the hosting agreement, and apply impairment guidance consistent with long-lived assets. ASC Update No. 2018-15 also provides specific guidelines related to the presentation of these capitalized implementation costs and related expenses in the financial statements. The updated guidance is effective for interim and annual periods beginning after December 15, 2019, and should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. Early adoption is permitted, including interim periods. The Company does not expect the adoption of ASC Update No. 2018-15 to have a material impact on its financial position or results of operations. ||| Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

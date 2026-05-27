@@ -1,0 +1,20 @@
+FIRM         : NMIH (CIK 0001547903) | FY2017
+FILE         : 0001547903_NMIH_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4,
+ASSET CAT.   : equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Software and equipment are stated at cost, less accumulated amortization and depreciation. Amortization of software and depreciation of equipment commences at the beginning of the month following our placement of the assets into use.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

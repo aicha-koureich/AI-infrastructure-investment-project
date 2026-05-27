@@ -1,0 +1,20 @@
+FIRM         : FISV (CIK 0000798354) | FY2023
+FILE         : 0000798354_FISV_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are amortized using the straight-line method over their estimated useful lives, generally five years.
+
+[VERBATIM — Infrastructure IA]
+The Company primarily leases office space, data centers and equipment from third parties. The Company determines if a contract is a lease at inception. A contract contains a lease if the contract conveys the right to control the use of an identified asset for a period of time in exchange for consideration. The lease term begins on the commencement date, which is the date the Company takes possession or obtains control of the asset, and may include options to extend or terminate the lease when it is reasonably certain that the option will be exercised. Many of the Company’s leases contain renewal options for varying periods, which can be exercised at the Company’s sole discretion. Leases are classified as operating or finance leases based on factors such as the lease term, lease payments, and the economic life, fair value and estimated residual value of the asset. Certain leases include options to purchase the leased asset at the end of the lease term, which is assessed as a part of the Company’s lease classification determination. The Company’s leases have remaining lease terms ranging from one month to 20 years.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

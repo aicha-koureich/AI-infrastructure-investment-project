@@ -1,0 +1,23 @@
+FIRM         : BSX (CIK 0000885725) | FY2013
+FILE         : 0000885725_BSX_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of (in millions) December 31, 2013 December 31, 2012 Land $ 81 $ 81 Buildings and improvements 917 873 Equipment, furniture and fixtures 2,461 2,348 Capital in progress 211 218 3,670 3,520 Less: accumulated depreciation 2,124 1,956 $ 1,546 $ 1,564
+
+[VERBATIM — Changement de politique]
+We expect to record additional termination benefits related to our restructuring initiatives in 2014 when we identify with more specificity the job classifications, functions and locations of the remaining head count to be eliminated. Other restructuring costs, which represent primarily contractual cancellations and consulting fees, are being recorded as incurred in accordance with ASC Topic 420. Accelerated depreciation is being recorded over the adjusted remaining useful life of the related assets, and production line transfer costs are being recorded as incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : MGM (CIK 0000789570) | FY2022
+FILE         : 0000789570_MGM_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 — BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are generally depreciated over the following estimated useful lives on a straight-line basis:
+
+[VERBATIM — Changement de politique]
+The enactment of the new Macau gaming law in June 2022 provides for material changes to the legal form of gaming concessions in Macau, including discontinuing and prohibiting gaming subconcessions subsequent to their expiration, and also includes material changes to the rights and obligations provided for under the new gaming concessions. As a result, the Company determined that the MGM Grand Paradise gaming subconcession and new gaming concession are two separate units of account. Additionally, in June 2022, the Company reassessed the useful life of the gaming subconcession intangible asset and determined that, given the new gaming law and the resulting changes described above, the useful life would no longer be based on the initial term of the MGM Cotai land concession, which ends in January 2038, and that the useful life should be revised to align with the cessation of the subconcession rights, which ended on December 31, 2022. Accordingly, amortization of the MGM Grand Paradise gaming subconcession was recognized on a straight-line basis over its reduced useful life. The gaming subconcession was fully amortized as of December 31, 2022.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

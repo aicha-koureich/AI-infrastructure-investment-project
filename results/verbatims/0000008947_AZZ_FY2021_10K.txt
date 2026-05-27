@@ -1,0 +1,23 @@
+FIRM         : AZZ (CIK 0000008947) | FY2021
+FILE         : 0000008947_AZZ_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 28, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 2. Property, Plant and Equipment
+ASSET CAT.   : Machinery and equipment, Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2022 2021 Land $ 22,318 $ 21,439 Building and structures 176,747 158,190 Machinery and equipment 283,333 253,027 Furniture, fixtures, software and computers 33,994 31,695 Automotive equipment 5,350 3,714 Construction in progress 14,623 26,223 536,365 494,288 Less accumulated depreciation (305,517) (287,199) Property, plant, and equipment, net $ 230,848 $ 207,089
+
+[VERBATIM — Changement de politique]
+Pro forma results presented above reflect: (i) incremental depreciation relating to fair value adjustments to property, plant, and equipment and (ii) amortization adjustments relating to fair value estimates of intangible assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

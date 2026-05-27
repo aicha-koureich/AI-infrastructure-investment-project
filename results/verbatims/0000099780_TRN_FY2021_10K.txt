@@ -1,0 +1,24 @@
+FIRM         : TRN (CIK 0000099780) | FY2021
+FILE         : 0000099780_TRN_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, office equipment
+DURÉE        : 1.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : Hopper (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 5.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+We are the lessee of operating leases predominantly for railcars, as well as office buildings, manufacturing equipment, and office equipment. Our operating leases have remaining lease terms ranging from one year to fifteen years, some of which include options to extend for up to five years, and some of which include options to terminate within one year. As of December 31, 2021, we had no material finance leases in which we were the lessee. Certain of our operating leases include lease incentives, which reduce the right-of-use asset and are recognized on a straight-line basis over the lease term. As applicable, the lease liability is also reduced by the amount of lease incentives that have not yet been reimbursed by the lessor.
+
+[VERBATIM — Changement de politique]
+In early 2020, we finalized an assessment of the estimated useful lives and salvage value assumptions for the railcars in our lease fleet. Based upon analysis of historical fleet data, review of industry standards, and consideration of certain economic factors by railcar type, we determined that it was appropriate to revise the useful lives and salvage values of certain railcar types in our lease fleet. The net impact of these changes, which took effect January 1, 2020, resulted in a change in the weighted average useful life from approximately 34 years to approximately 37 years. This change was accounted for as a change in accounting estimate, which is required to be accounted for on a prospective basis. For the years ended December 31, 2021 and 2020, this change in estimate resulted in a decrease in depreciation expense and a corresponding increase in income from continuing operations of approximately $30.8 million, as well as an increase in net income of approximately $23.7 million. Further, earnings per share increased $0.23 and $0.20 per share for the years ended December 31, 2021 and 2020, respectively. See Note 11 for further information regarding impairment of long-lived assets related to our small cube covered hopper railcars recorded in the year ended December 31, 2020.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

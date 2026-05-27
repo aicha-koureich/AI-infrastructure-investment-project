@@ -1,0 +1,20 @@
+FIRM         : SEIC (CIK 0000350894) | FY2013
+FILE         : 0000350894_SEIC_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Equipment, purchased software and furniture and fixtures have useful lives ranging from
+
+[VERBATIM — Infrastructure IA]
+Capital expenditures. Our capital expenditures in 2013 , 2012 and 2011 primarily include purchased software and equipment for our data center operations. Our expenditures in 2012 include a purchase of $10.0 million for specific front office client management technology. During the third quarter 2013, we began construction of an additional building at our corporate headquarters. The total cost of the expansion is estimated to be at least $10.6 million and is expected to be completed in the second quarter of 2014.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

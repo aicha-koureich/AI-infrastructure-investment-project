@@ -1,0 +1,20 @@
+FIRM         : DVA (CIK 0000927066) | FY2015
+FILE         : 0000927066_DVA_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05, Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement , which amends ASC 350-40, Intangibles-Goodwill and Other-Internal-Use Software . This ASU provides guidance to customers about whether a cloud computing arrangement includes a software license. If an arrangement includes a software license, the accounting for the license will be consistent with licenses of other intangible assets. If the arrangement does not include a license, the arrangement will be accounted for as a service contract. The amendments in this ASU are effective for us beginning January 1, 2016 and can be adopted prospectively or retrospectively. We are currently assessing the effects of adopting this ASU on our consolidated financial statements, however, the adoption is not expected to have a material impact on our consolidated financial statements. ||| Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement

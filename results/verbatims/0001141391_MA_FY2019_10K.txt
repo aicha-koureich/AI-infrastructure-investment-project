@@ -1,0 +1,21 @@
+FIRM         : MA (CIK 0001141391) | FY2019
+FILE         : 0001141391_MA_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 . Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 10.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Property, equipment and right-of-use assets - Property and equipment are stated at cost less accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Depreciation and amortization expenses increased 14% , or 15% on a currency-neutral basis in 2019 versus the prior year. Current year results include growth of approximately 7 percentage points from acquisitions with the remaining increase primarily driven by amortization of certain intangible assets and depreciation on data center assets.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

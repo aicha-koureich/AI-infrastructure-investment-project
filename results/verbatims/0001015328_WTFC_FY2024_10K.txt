@@ -1,0 +1,21 @@
+FIRM         : WTFC (CIK 0001015328) | FY2024
+FILE         : 0001015328_WTFC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : software and computer-related equipment
+DURÉE        : 2.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-7.0 ans | 2.0-15.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Premises and equipment, including leasehold improvements, are stated at cost less accumulated depreciation and amortization. Useful lives generally range from two to 15 years for furniture, fixtures and equipment, two to seven years for software and computer-related equipment and seven to 39 years for buildings and improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Premises and equipment, including leasehold improvements, are stated at cost less accumulated depreciation and amortization. Depreciation and amortization are computed using the straight-line method over the estimated useful lives of the related assets. Useful lives generally range from two to 15 years for furniture, fixtures and equipment, two to seven years for software and computer-related equipment and seven to 39 years for buildings and improvements. Land improvements are amortized over a period of 15 years and leasehold improvements are amortized over the shorter of the useful life of the improvement or the term of the respective lease including any lease renewals deemed to be reasonably assured. Land, antique furnishings and artwork are not subject to depreciation. Expenditures for major additions and improvements are capitalized, and maintenance and repairs are charged to expense as incurred. Eligible costs related to the configuration, coding, testing and installation of internal use software and qualifying cloud computing arrangements are capitalized.

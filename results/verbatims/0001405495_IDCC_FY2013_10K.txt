@@ -1,0 +1,20 @@
+FIRM         : IDCC (CIK 0001405495) | FY2013
+FILE         : 0001405495_IDCC_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 14. VARIABLE INTEREST ENTITIES
+ASSET CAT.   : Computer equipment, equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2013 2012 Computer equipment and software $ 25,368 $ 28,143 Engineering and test equipment 11,631 11,604 Building and improvements 7,902 7,800 Leasehold improvements 6,477 4,655 Furniture and fixtures 1,166 1,578 Land 695 695 Property and equipment, gross 53,239 54,475 Less: accumulated depreciation (43,704 ) (46,651 ) Property and equipment, net $ 9,535 $ 7,824
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

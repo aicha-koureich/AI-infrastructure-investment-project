@@ -1,0 +1,20 @@
+FIRM         : VLO (CIK 0001035002) | FY2019
+FILE         : 0001035002_VLO_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-03-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| ASU Basis of Adoption 2016-13 Financial Instruments—Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments (including codification improvements in ASUs 2018-19 and 2019-11 and ASU 2020-02— Financial Instruments—Credit Losses (Topic 326): Amendments to SEC Paragraphs Pursuant to SEC Staff Accounting Bulletin No. 119) Cumulative effect 2018-15 Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract Prospectively 2019-12 Income Taxes (Topic 740): Simplifying the Accounting for Income Taxes Prospectively

@@ -1,0 +1,21 @@
+FIRM         : VIAV (CIK 0000912093) | FY2017
+FILE         : 0000912093_VIAV_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 19. Subsequent Events
+ASSET CAT.   : building and improvements
+DURÉE        : 2.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is computed by the straight-line method over the following estimated useful lives of the assets: 10 to 50 years for building and improvements, 2 to 20 years for machinery and equipment, and 2 to 5 years for furniture, fixtures, software and office equipment.
+
+[VERBATIM — Infrastructure IA]
+net revenue decrease of $4.7 million from our Data Center primarily relating to prior large deals that did not recur in the current period.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

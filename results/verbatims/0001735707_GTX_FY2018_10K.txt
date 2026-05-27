@@ -1,0 +1,20 @@
+FIRM         : GTX (CIK 0001735707) | FY2018
+FILE         : 0001735707_GTX_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We are in the process of installing and implementing information technology infrastructure to support certain of our business functions, including accounting and reporting, manufacturing process control, customer service, inventory control and distribution. We may incur substantially higher costs than currently anticipated as we transition from the existing transactional and operational systems and data centers we currently use as part of Honeywell. If we are unable to transition effectively, we may incur temporary interruptions in business operations. Any delay in implementing, or operational interruptions suffered while implementing, our new information technology infrastructure could disrupt our business and have a material adverse effect on our results of operations.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : TMO (CIK 0000097745) | FY2023
+FILE         : 0000097745_TMO_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-22
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 16. Restructuring and Other Costs
+ASSET CAT.   : equipment, machinery and equipment, Machinery
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The company generally provides for depreciation and amortization using the straight-line method over the estimated useful lives of the property as follows: buildings and improvements, 25 to 40 years; machinery and equipment (including software), 3 to 10 years; and leasehold improvements, the shorter of the term of the lease or the life of the asset. Property, plant and equipment consists of the following: December 31, December 31, (In millions) 2023 2022 Land $ 458 $ 454 Buildings and improvements 3,593 3,153 Machinery, equipment and leasehold improvements 9,235 7,967 Construction in progress 2,238 2,695 Property, plant and equipment, at cost 15,524 14,269 Less: Accumulated depreciation and amortization 6,076 4,989 Property, plant and equipment, net $ 9,448 $ 9,280
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

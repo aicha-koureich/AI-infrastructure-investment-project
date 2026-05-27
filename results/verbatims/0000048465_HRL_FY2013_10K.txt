@@ -1,0 +1,20 @@
+FIRM         : HRL (CIK 0000048465) | FY2013
+FILE         : 0000048465_HRL_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 27, 2013
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

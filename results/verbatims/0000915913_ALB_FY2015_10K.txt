@@ -1,0 +1,20 @@
+FIRM         : ALB (CIK 0000915913) | FY2015
+FILE         : 0000915913_ALB_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued accounting guidance which clarifies the proper method of accounting for fees paid in a cloud computing arrangement. The guidance requires software licenses included in a cloud computing arrangement to be accounted for consistently with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the arrangement should be accounted for as a service contract. This new requirement will be effective for annual periods, including interim periods within those annual periods, beginning after December 15, 2015. Early adoption is permitted. We do not expect this guidance to have a significant impact on our financial statements.

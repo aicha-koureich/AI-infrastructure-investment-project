@@ -1,0 +1,21 @@
+FIRM         : PZZA (CIK 0000901491) | FY2014
+FILE         : 0000901491_PZZA_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 28, 2014
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies (continued)
+ASSET CAT.   : equipment
+DURÉE        : 2.0-3.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+This equipment is amortized over the term of the agreement, which is generally two to three years, and is recognized in other general expenses in our consolidated statements of income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

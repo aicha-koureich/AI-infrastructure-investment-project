@@ -1,0 +1,23 @@
+FIRM         : KLIC (CIK 0000056978) | FY2016
+FILE         : 0000056978_KLIC_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 1, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 18: SUBSEQUENT EVENTS
+ASSET CAT.   : equipment, Machinery, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of (in thousands) October 1, 2016 October 3, 2015 Inventories, net: Raw materials and supplies $ 16,376 $ 23,541 Work in process 22,733 24,110 Finished goods 69,266 50,518 108,375 98,169 Inventory reserves (21,080 ) (19,073 ) $ 87,295 $ 79,096 Property, plant and equipment, net: Buildings and building improvements $ 34,472 $ 33,760 Leasehold improvements 19,963 19,512 Data processing equipment and software 29,476 28,861 Machinery, equipment, furniture and fixtures 54,730 52,106 138,641 134,239 Accumulated depreciation (88,299 ) (81,005 ) $ 50,342 $ 53,234 Accrued expenses and other current liabilities: Wages and benefits $ 24,248 $ 19,166 Accrued customer obligations (1) 13,077 9,215 Commissions and professional fees 10,908 3,880 Deferred rent 2,920 2,450 Severance (2) 1,296 1,645 Other 11,505 9,615 $ 63,954 $ 45,971
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment are carried at cost. The cost of additions and those improvements which increase the capacity or lengthen the useful lives of assets are capitalized while repair and maintenance costs are expensed as incurred. Depreciation and amortization are provided on a straight-line basis over the estimated useful lives as follows: buildings
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU 2015-05, which provides additional guidance to customers about whether a cloud computing arrangement includes a software license. Under ASU 2015-05, if a software cloud computing arrangement contains a software license, customers should account for the license element of the arrangement in a manner consistent with the acquisition of other software licenses. If the arrangement does not contain a software license, customers should account for the arrangement as a service contract. ASU 2015-05 also removes the requirement to analogize to ASC 840-10 – Leases to determine the asset acquired in a software licensing arrangement. The Company will adopt this guidance in the first quarter of 2017 prospectively to all arrangements entered into or materially modified after the effective date. The adoption of this guidance is not expected to have a significant impact on our financial statements.

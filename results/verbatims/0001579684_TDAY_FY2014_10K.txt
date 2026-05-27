@@ -1,0 +1,22 @@
+FIRM         : TDAY (CIK 0001579684) | FY2014
+FILE         : 0001579684_TDAY_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 30, 2012
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : buildings and improvements
+DURÉE        : 1.0-9.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-9.0 ans | 1.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is calculated under the straight-line method over the estimated useful lives, principally
+4 to 38 years for buildings and improvements, 1 to 15 years for machinery and equipment, and 1 to 9 years for furniture, fixtures and computer software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

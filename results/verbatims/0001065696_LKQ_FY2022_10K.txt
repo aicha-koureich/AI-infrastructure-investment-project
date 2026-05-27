@@ -1,0 +1,21 @@
+FIRM         : LKQ (CIK 0001065696) | FY2022
+FILE         : 0001065696_LKQ_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 5. Property, Plant and Equipment
+ASSET CAT.   : equipment
+DURÉE        : 3.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+December 31, Useful Life 2022 2021 Land and improvements 10 - 20 years (1) $ 217 $ 204 Buildings and improvements 20 - 40 years 409 415 Machinery and equipment 3 - 20 years 776 739 Computer equipment and software 3 - 10 years 124 115 Vehicles and trailers 3 - 10 years 141 145 Furniture and fixtures 5 - 7 years 61 58 Leasehold improvements 1 - 20 years 398 350 Finance lease assets 107 101 2,233 2,127 Less—Accumulated depreciation (1,049) (987) Construction in progress 52 159 Total property, plant and equipment, net $ 1,236 $ 1,299
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

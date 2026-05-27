@@ -1,0 +1,21 @@
+FIRM         : CYTK (CIK 0001061983) | FY2020
+FILE         : 0001061983_CYTK_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-01-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — Organization and Accounting Policies Basis of Presentation
+ASSET CAT.   : computer equipment and software
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation and are depreciated on a straight-line basis over the estimated useful lives of the related assets, which are generally three years for computer equipment and software, five years for laboratory equipment and office equipment, and seven years for furniture and fixtures.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

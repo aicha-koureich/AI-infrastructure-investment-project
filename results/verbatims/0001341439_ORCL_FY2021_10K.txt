@@ -1,0 +1,20 @@
+FIRM         : ORCL (CIK 0001341439) | FY2021
+FILE         : 0001341439_ORCL_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-06-13
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Our quarterly hardware revenues are difficult to predict. Our hardware revenues, cost of hardware and hardware operating margins that we report are affected by many factors, including our manufacturing partners’ abilities to timely manufacture or deliver a few large hardware transactions, with this factor becoming more pronounced in recent periods due to global supply chain constraints for certain technology components; our strategy for and the position of our hardware products relative to competitor offerings; customer demand for competing offerings, including cloud infrastructure offerings; the strength of general economic and business conditions; governmental budgetary constraints; whether customers decide to purchase hardware support contracts at or in close proximity to the time of hardware product sale; the percentage of our hardware support contract customer base that renews its support contracts and the close association between hardware products, which have a finite life, and customer demand for related hardware support as hardware products age; customer decisions to either maintain or upgrade their existing hardware infrastructure to newly developed technologies that are available; and foreign currency rate fluctuations .  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Cloud services and license support revenues, which include: ||| cloud services revenues, which provide customers access to Oracle Cloud applications and infrastructure technologies via cloud-based deployment models that Oracle develops, provides unspecified updates and enhancements for, deploys, hosts, manages and supports and that ||| customers access by entering into a subscription agreement with us for a stated period. Oracle Cloud Services arrangements are generally billed in advance of the cloud services being performed; generally have durations of one to three years; are generally renewed at the customer’s option; and are generally recognized as revenues ratably over the contractual period of the cloud contract or, in the case of usage model contracts, as the cloud services are consumed over time .

@@ -1,0 +1,21 @@
+FIRM         : WEX (CIK 0001309108) | FY2013
+FILE         : 0001309108_WEX_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 22. Quarterly Financial Results (Unaudited)
+ASSET CAT.   : Furniture, equipment, Computer software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Below is the estimated useful lives for assets placed in service during 2013 and beyond: Estimated Useful Lives Furniture, fixtures and equipment 3 to 5 years Computer software 18 months to 7 years Leasehold improvements up to 5 years
+
+[VERBATIM — Infrastructure IA]
+During 2013 , we had $ 39.5 million of capital expenditures. A significant portion of our capital expenditures are for the development of internal-use computer software primarily to enhance product features and functionality in the United States and abroad. During 2013, we also capitalized approximately $13 million related to the consolidation of our data centers. We expect total capital expenditures for 2014 to be approximately $40 to $45 million. Our capital spending is financed primarily through internally generated funds.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

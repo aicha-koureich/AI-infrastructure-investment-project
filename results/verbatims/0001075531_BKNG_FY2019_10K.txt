@@ -1,0 +1,20 @@
+FIRM         : BKNG (CIK 0001075531) | FY2019
+FILE         : 0001075531_BKNG_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Information technology expenses consist primarily of: (1) software license and system maintenance fees; (2) outsourced data center and cloud computing costs; (3) payments to contractors; and (4) data communications and other expenses associated with operating our services. Information technology expenses increased during the year ended December 31, 2019 , compared to the year ended December 31, 2018 , due to increased outsourced data center and cloud computing costs to support the growth in our businesses, software fees and payments to contractors.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Information technology expenses consist primarily of: (1) software license and system maintenance fees; (2) outsourced data center and cloud computing costs; (3) payments to contractors; and (4) data communications and other expenses associated with operating our services. Information technology expenses increased during the year ended December 31, 2019 , compared to the year ended December 31, 2018 , due to increased outsourced data center and cloud computing costs to support the growth in our businesses, software fees and payments to contractors. ||| , due to increased outsourced data center and cloud computing costs to support the growth in our businesses, software fees and payments to contractors.

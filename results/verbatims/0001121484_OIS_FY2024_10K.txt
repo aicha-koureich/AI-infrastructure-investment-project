@@ -1,0 +1,20 @@
+FIRM         : OIS (CIK 0001121484) | FY2024
+FILE         : 0001121484_OIS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Customer spending in the natural gas shale plays has declined in recent years due to technological advancements that have led to significant amounts of natural gas being produced from prolific basins in the Northeastern United States and from associated gas produced from the drilling and completion of unconventional oil wells in the United States. However, the extended outlook for natural gas in the United States is positive with increased exports of LNG, as well as increased power needs for the technology sector, namely data centers.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

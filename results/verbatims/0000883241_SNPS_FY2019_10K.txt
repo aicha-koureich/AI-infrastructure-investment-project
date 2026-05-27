@@ -1,0 +1,20 @@
+FIRM         : SNPS (CIK 0000883241) | FY2019
+FILE         : 0000883241_SNPS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 6. Fair Value Measures
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+A summary of property and equipment, at cost less accumulated depreciation and amortization, as of October 31,
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Semiconductor & System Design. This segment includes our advanced silicon design, verification products and services, and semiconductor IP portfolio, which encompasses products and services that serve companies primarily in the semiconductor and electronics industries. EDA includes digital, custom IC design and Field Programmable Gate Array (FPGA) design software, verification products, and manufacturing software products. Designers use these products to automate the IC design process and to reduce errors. For IP, we are a leading provider of high-quality, silicon-proven IP solutions for system-on-chips (SoCs). This includes IP that has been optimized to address specific application requirements for the mobile, automotive, digital home, internet of things, and cloud computing markets, enabling designers to quickly develop SoCs in these areas. ||| This segment includes our advanced silicon design, verification products and services, and semiconductor IP portfolio, which encompasses products and services that serve companies primarily in the semiconductor and electronics industries. EDA includes digital, custom IC design and Field Programmable Gate Array (FPGA) design software, verification products, and manufacturing software products. Designers use these products to automate the IC design process and to reduce errors. For IP, we are a leading provider of high-quality, silicon-proven IP solutions for system-on-chips (SoCs). This includes IP that has been optimized to address specific application requirements for the mobile, automotive, digital home, internet of things, and cloud computing markets, enabling designers to quickly develop SoCs in these areas.

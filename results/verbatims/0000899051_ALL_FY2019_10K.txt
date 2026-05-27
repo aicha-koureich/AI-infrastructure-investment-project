@@ -1,0 +1,20 @@
+FIRM         : ALL (CIK 0000899051) | FY2019
+FILE         : 0000899051_ALL_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment is carried at cost less accumulated depreciation. Property and equipment depreciation is calculated using the straight-line method over the estimated useful lives of the assets, generally 3 to 10 years for equipment and 40 years for real property. Accumulated depreciation on property and equipment was $2.60 billion and $2.41 billion as of December 31, 2019 and 2018 , respectively. Depreciation expense on property and equipment was $326 million , $299 million and $290 million in 2019 , 2018 and 2017 , respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

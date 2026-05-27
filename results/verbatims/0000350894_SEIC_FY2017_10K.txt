@@ -1,0 +1,23 @@
+FIRM         : SEIC (CIK 0000350894) | FY2017
+FILE         : 0000350894_SEIC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2017-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment, furniture and fixtures
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+When property and equipment are retired or disposed of, the related cost and accumulated depreciation are removed from the accounts and any resulting gain or loss is included in the results of operations for the respective period. Equipment, purchased software and furniture and fixtures have useful lives ranging from 3 to 5 years .
+
+[VERBATIM — Changement de politique]
+The amount of amortization expense recognized related to the SEI Wealth Platform is based upon management’s estimate of its useful life. Management continually reassesses the estimated useful life of the Platform and any change in management’s estimate could result in the remaining amortization expense to be accelerated or spread out over a longer period. The initial version of the Platform was placed into service in July 2007 with an estimated useful life of 15 years . All significant enhancements to the Platform were being amortized over the remaining useful life and would have been fully amortized by June 2022. As a result of recent development efforts, successful client installation onto the Platform of a large-scale regional bank and market acceptance as evidenced by a contractual arrangement with a large-scale national bank, the Company adjusted the remaining useful life of certain components and functionality of the Platform that were placed into service during the past several years. This change in estimate was applied prospectively effective October 1, 2017. The initial version of the Platform and certain subsequent releases were not adjusted. The adjustment resulted in a decrease to the Company's amortization expense in 2017 of $4,347 , and accordingly, increased income from operations by $4,347 and increased net income by $3,156 , or $0.02 diluted earnings per share. As of December 31, 2017, the Platform has a weighted average remaining life of 8.2 years . Amortization expense for the Platform was $46,505 , $45,047 and $42,401 in 2017 , 2016 and 2015 , respectively, and is included in Amortization expense on the accompanying Consolidated Statements of Operations.
+
+[VERBATIM — Infrastructure IA]
+Capital expenditures. Our capital expenditures in 2017 , 2016 and 2015 primarily include purchased software and equipment for our data center operations. Our expenditures in 2016 also include software and equipment for a new U.S. disaster recovery site. Our expenditures in 2015 include $13.8 million to relocate our London operations to a new facility. In 2018, we intend to expand our corporate headquarters. Cash outlays during 2018 for the expansion are estimated to range from approximately $12.0 million to $15.0 million . This phase of the expansion is currently estimated to be completed in late 2019.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

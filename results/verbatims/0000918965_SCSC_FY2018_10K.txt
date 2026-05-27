@@ -1,0 +1,21 @@
+FIRM         : SCSC (CIK 0000918965) | FY2018
+FILE         : 0000918965_SCSC_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+The revenue associated with rental offerings to customers is recognized in net sales and the cost associated with such offering is recognized as depreciation on the capitalized equipment in cost of goods sold in the Consolidated Income Statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Our key suppliers include Aruba/HPE, Axis, AudioCodes, Avaya, Barco, Bematech, Brocade/Ruckus, CenturyLink/Level 3, Cisco, Comcast Business, Datalogic, Dell, Dialogic, Elo, F5, Fortinet, Epson, Hanwha, Honeywell, HID, Ingenico, Jabra, March Networks, Mitel, NCR, Oracle, Panasonic, Plantronics/Polycom, RingCentral, Samsung, Sony, Spectralink, Toshiba Global Commerce Solutions, Ubiquiti, Unify, Verifone, Verizon, Windstream, XO and Zebra Technologies. We also offer customers significant choices in cloud services through our Intelisys business, including offerings in contact center, infrastructure and unified communications. ||| , the Company acquired Canpango, a global Salesforce implementation and consulting partner with deep knowledge of customer relationship management ("CRM") and integration with telecom systems. Canpango’s professional services are complementary to our cloud services offerings. Canpango joins the Company's Worldwide Communications & Services operating segment. ||| On August 20, 2018 , the Company acquired Canpango, a global Salesforce implementation and consulting partner with deep knowledge of customer relationship management ("CRM") and integration with telecom systems. Canpango’s professional services are complementary to our cloud services offerings. Canpango joins the Company's Worldwide Communications & Services operating segment.

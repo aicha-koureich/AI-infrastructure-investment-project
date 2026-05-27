@@ -1,0 +1,20 @@
+FIRM         : CBSH (CIK 0000022356) | FY2016
+FILE         : 0000022356_CBSH_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+years for equipment. Leasehold improvements are amortized over the shorter of their estimated useful lives or remaining lease terms. Maintenance and repairs are charged to non-interest expense as incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The FASB issued ASU 2015-05, "Customer's Accounting for Fees Paid in a Cloud Computing Arrangement", in April 2015. The amendments provide guidance to customers about whether a cloud computing arrangement includes a software license. Arrangements containing a license should be recorded as consistent with the acquisition of software licenses, whereas arrangements that do not include a software license should be recorded as consistent with the accounting for service contracts. These amendments were effective for interim and annual periods beginning January 1, 2016. The adoption did not have a significant effect on the Company's consolidated financial statements. ||| Intangible Assets The FASB issued ASU 2015-05, "Customer's Accounting for Fees Paid in a Cloud Computing Arrangement", in April 2015. The amendments provide guidance to customers about whether a cloud computing arrangement includes a software license. Arrangements containing a license should be recorded as consistent with the acquisition of software licenses, whereas arrangements that do not include a software license should be recorded as consistent with the accounting for service contracts. These amendments were effective for interim and annual periods beginning January 1, 2016. The adoption did not have a significant effect on the Company's consolidated financial statements.

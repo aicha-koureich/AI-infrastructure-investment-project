@@ -1,0 +1,20 @@
+FIRM         : FTK (CIK 0000928054) | FY2013
+FILE         : 0000928054_FTK_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 — Summary of Significant Accounting Policies
+ASSET CAT.   : computer software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized costs are included in property and equipment and are amortized on a straight-line basis over the estimated useful life of the software beginning when the software project is substantially complete and placed in service.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

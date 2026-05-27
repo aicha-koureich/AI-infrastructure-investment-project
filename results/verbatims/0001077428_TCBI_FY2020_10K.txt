@@ -1,0 +1,20 @@
+FIRM         : TCBI (CIK 0001077428) | FY2020
+FILE         : 0001077428_TCBI_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Capitalized software
+DURÉE        : 1.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Costs incurred in connection with development or purchase of internal use software and cloud computing arrangements, including in-substance software licenses, are capitalized. Amortization is computed on a straight-line basis over the estimated useful life of the asset, which generally ranges from one to five years. Capitalized software is included in other assets in the consolidated balance sheets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Costs incurred in connection with development or purchase of internal use software and cloud computing arrangements, including in-substance software licenses, are capitalized. Amortization is computed on a straight-line basis over the estimated useful life of the asset, which generally ranges from one to five years. Capitalized software is included in other assets in the consolidated balance sheets.

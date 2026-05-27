@@ -1,0 +1,23 @@
+FIRM         : MTSI (CIK 0001493594) | FY2019
+FILE         : 0001493594_MTSI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 27, 2019
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 3 - Acquisitions
+ASSET CAT.   : Computer equipment, Furniture and fixtures, Machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Asset Classification Estimated Useful Life (In Years) Buildings and improvements 20 – 40 Capital lease assets 5 - 20 Computer equipment and software 2 – 5 Furniture and fixtures 7 – 10 Leasehold improvements Shorter of useful life or term of lease Machinery and equipment 2 – 7
+
+[VERBATIM — Changement de politique]
+In connection with the impairment of certain customer relationships and acquired technology intangible assets in 2019 , we revised the useful lives of these intangible assets to reflect the estimated period over which these assets are expected to contribute to future cash flows, resulting in weighted-average amortization periods for our customer relationships and acquired technology of nine years and seven years , respectively. See Note 17 - Impairments , for additional information related to the impairment of our intangible assets.
+
+[VERBATIM — Infrastructure IA]
+Revenue Recognition —Substantially all of our revenue is derived from sales of high-performance RF, microwave, millimeterwave and lightwave semiconductor solutions into three primary markets: Telecom, Data Centers and I&D.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

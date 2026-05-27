@@ -1,0 +1,21 @@
+FIRM         : TRMK (CIK 0000036146) | FY2019
+FILE         : 0000036146_TRMK_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Significant Accounting Policies
+ASSET CAT.   : buildings
+DURÉE        : 30.0-9.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 30.0-9.0 ans
+
+[VERBATIM — Durée de vie]
+Premises and equipment are reported at cost, less accumulated depreciation and amortization. Depreciation is charged to expense over the estimated useful lives of the assets, which are up to thirty-nine years for buildings and three to ten years for furniture and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15, “Intangibles-Goodwill and Other–Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force).” ||| Issued in August 2018, ASU 2018-15 aims to reduce complexity in the accounting for costs of implementing a cloud computing service arrangement. ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). The amendments of ASU 2018-15 require an entity to follow the guidance in FASB ASC Subtopic 350-40, “Intangibles-Goodwill and Other-Internal-Use Software,” in order to determine which implementation costs to capitalize as an asset related to the service contract and which costs to expense. The amendments of ASU 2018-15 also require an entity to expense the capitalized implementation costs of a hosting arrangement that is a service contract over the term of the hosting arrangement (i.e. the noncancellable period of the arrangement plus periods covered by (1) an option to extend the arrangement if the entity is reasonably certain to exercise that option, (2) an option to terminate the arrangement if the entity is reasonably certain not to exercise the option, and (3) an option to extend (or not to terminate) the arrangement in which exercise of the option is in the control of the vendor). ASU 2018-15 also requires an entity to present the expense related to the capitalized implementation costs in the same line item in the statement of income as the fees associated with the hosting element (service) of the arrangement, and to classify payments for capitalized implementation costs in the statement of cash flows in the same manner as payments made for fees associated with the hosting element. ASU 2018-15

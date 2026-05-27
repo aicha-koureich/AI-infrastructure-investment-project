@@ -1,0 +1,27 @@
+FIRM         : TRV (CIK 0000086312) | FY2015
+FILE         : 0000086312_TRV_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+In September 2015, the FASB issued updated guidance regarding business combinations that requires an acquirer to recognize post-close
+measurement adjustments for provisional amounts in the period the adjustment amounts are determined rather than retrospectively. The acquirer is also required to recognize, in the same period's
+financial statements, the effect on earnings of changes in depreciation, amortization, or other income effects, if any, as a result of the provisional amount, calculated as if the accounting had been
+completed at the acquisition date. The updated guidance is to be applied prospectively effective for annual and interim periods beginning after December 15, 2015. In connection with business
+combinations which have already been completed, the adoption of this guidance is not expected to have a material effect on the Company's results of operations, financial position or liquidity.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

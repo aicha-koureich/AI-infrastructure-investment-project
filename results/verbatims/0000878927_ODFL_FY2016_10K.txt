@@ -1,0 +1,20 @@
+FIRM         : ODFL (CIK 0000878927) | FY2016
+FILE         : 0000878927_ODFL_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of property and equipment is calculated using the straight-line method over the estimated useful lives of the related assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU 2015-05, "Customer's Accounting for Fees Paid in a Cloud Computing Arrangement" (Topic 350). This ASU provides additional guidance for software licenses within a cloud computing arrangement. Under ASU 2015-05, if a cloud computing arrangement contains a software license, customers should account for the license element of the arrangement in a manner consistent with the acquisition of other software licenses. If the arrangement does not contain a software license, customers should account for the arrangement as a service contract. We adopted the provisions of ASU 2015-05 in the first quarter of 2016 without a material impact on our financial position, results of operations or cash flows.

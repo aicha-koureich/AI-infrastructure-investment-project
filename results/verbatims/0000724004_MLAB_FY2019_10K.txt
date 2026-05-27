@@ -1,0 +1,20 @@
+FIRM         : MLAB (CIK 0000724004) | FY2019
+FILE         : 0000724004_MLAB_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Services: We generally generate service revenues from three categories: 1) discrete installation or testing of our hardware and software, 2) discrete but recurring calibration and maintenance of our hardware or, 3) contracted and recurring testing and maintenance services and software license subscriptions. Performance obligations arise from service contracts when discrete services are contracted in advance and performed at a future time, often at the time of the customer's choosing. In this case, the performance obligation is satisfied and revenue is recognized upon the customer's acceptance of the completion of specified work. Alternately, service revenue may be recognized for contracted services or maintenance provided continually over a period of time, and our performance obligations are satisfied by completing any service that is contractually required, if applicable, or simply by the passage of time if no services are required or requested. For contracted services, revenue is recognized on a straight-line basis over the life of the service contract, which is a faithful depiction of these annual service contracts that may or may not be invoked. Evidence of a service arrangement may be in the form of a formal contract or a purchase order.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : AME (CIK 0001037868) | FY2019
+FILE         : 0001037868_AME_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-02-12
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost. Expenditures for additions to plant facilities, or that extend their useful lives, are capitalized. The cost of minor tools, jigs and dies, and maintenance and repairs is charged
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles – Goodwill and Other – Internal-Use Software (“ASU 2018-15”), that requires implementation costs incurred by customers in cloud computing arrangements to be deferred and recognized over the term of the arrangement, if those costs would be capitalized by the customer in a software licensing arrangement under the internal-use software guidance in ASC Topic 350, Intangibles – Goodwill and Other . ASU 2018-15 requires a customer to disclose the nature of its hosting arrangements that are service contracts and provide disclosures as if the deferred implementation costs were a separate, major depreciable asset class. ASU 2018-15 is effective for interim and annual periods beginning after December 15, 2019. The Company does not expect the adoption of ASU 2018-15 to have a material impact on the Company’s consolidated results of operations, financial position, cash flows and financial statement disclosures.

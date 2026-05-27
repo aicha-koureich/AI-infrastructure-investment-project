@@ -1,0 +1,23 @@
+FIRM         : NE (CIK 0001895262) | FY2023
+FILE         : 0001895262_NE_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-22
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — Organization and Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Drilling equipment and facilities are depreciated using the straight-line method over their estimated useful lives as of the date placed in service or
+
+[VERBATIM — Changement de politique]
+The pro forma results include, among others, (i) a reduction in Maersk Drilling’s historically reported depreciation expense related to adjustments of property and equipment values, (ii) adjustments to reflect certain acquisition related costs incurred directly in connection with the Business Combination as if it had occurred on February 6, 2021, (iii) an adjustment to reflect the gain on sale as if the Rig Transaction (discussed below) had occurred on February 6, 2021, and (iv) net adjustments to increase contract drilling services revenue related to off-market customer contract assets and liabilities recognized in connection with the Business Combination with Maersk Drilling on a pro forma basis.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

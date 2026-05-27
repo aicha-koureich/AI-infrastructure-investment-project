@@ -1,0 +1,23 @@
+FIRM         : VST (CIK 0001692819) | FY2021
+FILE         : 0001692819_VST_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-04-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Nuclear fuel is capitalized and reported as a component of our property, plant and equipment in our consolidated balance sheets. Amortization of nuclear fuel is calculated on the units-of-production method and is reported as a component of fuel, purchased power costs and delivery fees in our consolidated statements of operations.
+
+[VERBATIM — Changement de politique]
+In response to the global pandemic related to COVID-19, the CARES Act was signed into law in March 2020. The CARES Act provides numerous relief provisions for corporate taxpayers, including modification of the utilization limitations on net operating losses, favorable expansion of the deduction for business interest expense under IRC Section 163(j) (Section 163(j)), the ability to accelerate timing of refundable AMT credits and the temporary suspension of certain payment requirements for the employer portion of social security taxes. Additionally, the final Section 163(j) regulations were issued in July 2020 and provided a critical correction to the proposed regulations with respect to the computation of adjusted taxable income. In 2021, Vistra is benefiting from the final 163(j) regulations and able to utilize its remaining 163(j) carryforward of $12 million. Certain provisions in the final 163(j) regulations begin to sunset in 2022, for which Vistra will continue its legislative monitoring and advocacy efforts to amend consistent with the intent of the law, including the permanent addback of depreciation and amortization to adjusted taxable income. Vistra is also utilizing the CARES Act payroll deferral mechanism to defer the payment of approximately $22 million from 2020 to 2021 and 2022. We paid approximately half of the previously deferred taxes in December 2021.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract — In August 2018, the FASB issued ASU 2018-15, Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. The ASU requires a customer in a cloud hosting arrangement that is a service contract to determine which implementation costs to capitalize and which costs to expense based on the project stage of the implementation. The ASU also requires the customer to expense the capitalized implementation costs over the term of the hosting arrangement. The customer is required to apply the existing impairment and abandonment guidance on the capitalized implementation costs. We adopted this ASU in the first quarter of 2020, and it did not have a material impact on our financial statements. ||| Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.

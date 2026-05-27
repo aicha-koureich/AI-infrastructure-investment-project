@@ -1,0 +1,20 @@
+FIRM         : IVZ (CIK 0000914208) | FY2013
+FILE         : 0000914208_IVZ_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment, computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment includes owned property, leasehold improvements, computer hardware/software and other equipment and is stated at cost less accumulated depreciation or amortization and any previously recorded impairment in value. Amounts incurred are presented as work-in-progress until the construction or purchase of the property and equipment is substantially complete and ready for its intended use, which, at that point, will begin to be depreciated or amortized. Depreciation is provided on property and equipment at rates calculated to write off the cost, less estimated residual value, of each asset on a straight-line basis over its expected useful life: owned buildings over
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

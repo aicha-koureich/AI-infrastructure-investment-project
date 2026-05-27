@@ -1,0 +1,20 @@
+FIRM         : RMBS (CIK 0000917273) | FY2016
+FILE         : 0000917273_RMBS_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Rambus creates innovative hardware and software technologies, driving advancements from the data center to the mobile edge. Our chips, customizable IP cores, patent licenses, software, services, and other innovations improve the competitive advantage of our customers. We collaborate with the industry, partnering with leading ASIC and SoC designers, foundries, IP developers, processor companies, EDA companies and validation labs. Our innovations are integrated into a wide range of devices and systems, powering and securing diverse applications, including Big Data, Internet of Things, mobile, consumer and media platforms.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

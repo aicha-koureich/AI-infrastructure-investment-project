@@ -1,0 +1,20 @@
+FIRM         : DXPE (CIK 0001020710) | FY2019
+FILE         : 0001020710_DXPE_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING AND BUSINESS POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of property and equipment is computed using the straight-line method over their estimated useful lives.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| based on a consensus of the FASB’s Emerging Issues Task Force (EITF) that requires implementation costs incurred by customers in cloud computing arrangements (CCAs) to be deferred and recognized over the term of the arrangement, if those costs would be capitalized by the customer in a software licensing arrangement under the internal-use software guidance in ASC 350-40, “Intangibles-Goodwill and Other-Internal-Use Software”. The ASU does not affect the accounting by cloud service providers, other software vendors or customers’ accounting for software licensing arrangements. The ASU will require companies to recognize deferred implementation costs to expense over the ‘term of the hosting arrangement’. Under the ASU, the term of the hosting arrangement comprises the non-cancellable period of the CCA plus any optional renewal periods that are reasonably certain to be exercised by the customer or for which exercise of the option is controlled by the vendor. The guidance is effective for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years. We will adopt the new standard beginning January 1, 2020. We do not anticipate that the new standard will have a material impact on our results of operations. ||| Intangibles-Goodwill and Other . In August 2018, the FASB issued ASU No. 2018-15, Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract based on a consensus of the FASB’s Emerging Issues Task Force (EITF) that requires implementation costs incurred by customers in cloud computing arrangements (CCAs) to be deferred and recognized over the term of the arrangement, if those costs would be capitalized by the customer in a software licensing arrangement under the internal-use software guidance in ASC 350-40, “Intangibles-Goodwill and Other-Internal-Use Software”. The ASU does not affect the accounting by cloud service providers, other software vendors or customers’ accounting for software licensing arrangements. The ASU will require companies to recognize deferred implementation costs to expense over the ‘term of the hosting arrangement’. Under the ASU, the term of the hosting arrangement comprises the non-cancellable period of the CCA plus any optional renewal periods that are reasonably certain to be exercised by the customer or for which exercise of the option is controlled by the vendor. The guidance is effective for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years. We will adopt the new standard beginning January 1, 2020. We do not anticipate that the new standard will have a material impact on our results of operations.

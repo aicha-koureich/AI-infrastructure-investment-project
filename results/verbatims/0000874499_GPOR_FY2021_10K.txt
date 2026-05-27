@@ -1,0 +1,20 @@
+FIRM         : GPOR (CIK 0000874499) | FY2021
+FILE         : 0000874499_GPOR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 21. Subsequent Events
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Successor Predecessor December 31, 2021 December 31, 2020 Assets Current assets: Cash and cash equivalents $ 3,260 $ 89,861 Accounts receivable—oil and natural gas sales 232,854 119,879 Accounts receivable—joint interest and other 20,383 12,200 Prepaid expenses and other current assets 12,359 160,664 Short-term derivative instruments 4,695 27,146 Total current assets 273,551 409,750 Property and equipment: Oil and natural gas properties, full-cost method Proved oil and natural gas properties 1,917,833 9,359,866 Unproved properties 211,007 1,457,043 Other property and equipment 5,329 88,538 Total property and equipment 2,134,169 10,905,447 Less: accumulated depletion, depreciation and amortization (278,341) (8,819,178) Total property and equipment, net 1,855,828 2,086,269 Other assets: Equity investments — 24,816 Long-term derivative instruments 18,664 322 Operating lease assets 322 342 Other assets 19,867 18,372 Total other assets 38,853 43,852 Total assets $ 2,168,232 $ 2,539,871
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

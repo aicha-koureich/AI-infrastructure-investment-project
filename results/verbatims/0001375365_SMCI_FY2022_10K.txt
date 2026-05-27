@@ -1,0 +1,20 @@
+FIRM         : SMCI (CIK 0001375365) | FY2022
+FILE         : 0001375365_SMCI_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-08-09
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are amortized using the straight-line amortization method over the estimated useful life of the applicable software.
+
+[VERBATIM — Infrastructure IA]
+We are a Silicon Valley-based provider of accelerated compute platforms that are application-optimized high performance and high-efficiency server and storage systems for a variety of markets, including enterprise data centers, cloud computing, artificial intelligence, 5G and edge computing. Our Total IT Solutions include complete servers, storage systems, modular blade servers, blades, workstations, full rack scale solutions, networking devices, server sub-systems, server management and security software. We also provide global support and services to help our customers install, upgrade and maintain their computing infrastructure.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+We are a Silicon Valley-based provider of accelerated compute platforms that are application-optimized high performance and high-efficiency server and storage systems for a variety of markets, including enterprise data centers, cloud computing, artificial intelligence, 5G and edge computing. Our Total IT Solutions include complete servers, storage systems, modular blade servers, blades, workstations, full rack scale solutions, networking devices, server sub-systems, server management and security software. We also provide global support and services to help our customers install, upgrade and maintain their computing infrastructure.

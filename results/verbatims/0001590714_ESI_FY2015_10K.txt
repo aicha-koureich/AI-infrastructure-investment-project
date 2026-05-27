@@ -1,0 +1,20 @@
+FIRM         : ESI (CIK 0001590714) | FY2015
+FILE         : 0001590714_ESI_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer's Accounting for Fees Paid in a Cloud Computing Arrangement.” ||| This update provides explicit guidance to customers utilizing a cloud computing solution to help determine whether such an arrangement includes a software license, in which case the accounting applied would be similar to that of other software license arrangements. Otherwise, the arrangement would be accounted for as a service contract. The guidance is effective prospectively for fiscal years and interim periods beginning after December 15, 2015, with early adoption permitted. We do not expect this ASU to have a material impact on our financial statements. ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) - In April 2015, the FASB issued ASU No. 2015-05, “ Customer's Accounting for Fees Paid in a Cloud Computing Arrangement.” This update provides explicit guidance to customers utilizing a cloud computing solution to help determine whether such an arrangement includes a software license, in which case the accounting applied would be similar to that of other software license arrangements. Otherwise, the arrangement would be accounted for as a service contract. The guidance is effective prospectively for fiscal years and interim periods beginning after December 15, 2015, with early adoption permitted. We do not expect this ASU to have a material impact on our financial statements.

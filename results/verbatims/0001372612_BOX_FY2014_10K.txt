@@ -1,0 +1,27 @@
+FIRM         : BOX (CIK 0001372612) | FY2014
+FILE         : 0001372612_BOX_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : technology, servers, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-3.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Cost of revenue consists primarily of costs related to providing our subscription services to our paying customers, including employee
+compensation and related expenses for datacenter operations, customer support and professional services personnel, payments to outside technology service providers, depreciation of servers and equipment, security services and other tools, as well as
+amortization of acquired technology.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We intend to continue scaling our organization to meet the increasingly complex needs of our customers. Our sales and customer success teams
+are organized to efficiently serve organizations ranging from small businesses to the world’s largest global organizations. We have invested and expect to continue to invest heavily in our sales and marketing teams to sell our services around
+the world, as well as in our development efforts to deliver additional features and capabilities of our cloud services to address customers’ evolving needs. We also expect to continue to make significant investments in both our datacenter
+infrastructure to meet the needs of our growing user base and our professional services organization to address the strategic needs of our customers in more complex deployments and to drive broader adoption across a wide array of use cases. As a
+result of our continuing investments to scale our business in each of these areas, we do not expect to be profitable for the foreseeable future.

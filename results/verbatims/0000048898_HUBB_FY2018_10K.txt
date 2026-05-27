@@ -1,0 +1,21 @@
+FIRM         : HUBB (CIK 0000048898) | FY2018
+FILE         : 0000048898_HUBB_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-15.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment values are stated at cost less accumulated depreciation. Property, plant, and equipment placed in service prior to January 1, 1999 are depreciated over their estimated useful lives, principally, using accelerated methods.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued an Accounting Standards Update (ASU 2018-15) "Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract", which clarifies the accounting for implementation costs in cloud computing arrangements. ASU 2018-15 is effective in the first quarter of fiscal 2020, and early adoption is permitted. The Company is currently assessing the impact of adopting this standard on its financial statements.

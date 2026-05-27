@@ -1,0 +1,20 @@
+FIRM         : ROP (CIK 0000882835) | FY2015
+FILE         : 0000882835_ROP_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Capitalized Software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software balances, net of accumulated amortization, were $4.6 million and $4.7 million at December 31, 2015 and 2014, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued an update providing guidance to determine whether the fee paid by an entity for a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the software license element of the arrangement should be accounted for consistently with the acquisition of other software licenses. A cloud computing arrangement that does not include a software license should be accounted for as a service contract. The update is effective for annual periods beginning after December 15, 2015, and may be adopted prospectively or retrospectively. The Company does not expect this update to have a material impact on its results of operations, financial condition or cash flows.

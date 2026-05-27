@@ -1,0 +1,20 @@
+FIRM         : GD (CIK 0000040533) | FY2022
+FILE         : 0000040533_GD_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-07
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• An IDIQ contract from the National Geospatial-Intelligence Agency (NGA) to provide hybrid cloud services and IT design, engineering, and operations and sustainment services. The contract has a maximum potential value of $4.5 billion over 10 years. ||| An IDIQ contract from the National Geospatial-Intelligence Agency (NGA) to provide hybrid cloud services and IT design, engineering, and operations and sustainment services. The contract has a maximum potential value of $4.5 billion over 10 years.

@@ -1,0 +1,20 @@
+FIRM         : DELL (CIK 0001571996) | FY2017
+FILE         : 0001571996_DELL_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 2, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 9
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+, respectively. General and administrative expenses include items for the Company's administrative functions, such as finance, legal, human resources, and information technology support. These functions include costs for items such as salaries, maintenance and supplies, insurance, depreciation expense, and allowance for doubtful accounts.
+
+[VERBATIM — Infrastructure IA]
+main product groups: software-defined data center; hybrid cloud computing; and end-user computing.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+VMware provides compute, cloud, mobility, networking and security infrastructure software to businesses that provides a flexible digital foundation for the applications that empower businesses to serve their customers globally. VMware offers a broad portfolio of virtualization technologies across three main product groups: software-defined data center; hybrid cloud computing; and end-user computing.

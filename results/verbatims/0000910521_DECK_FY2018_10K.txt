@@ -1,0 +1,20 @@
+FIRM         : DECK (CIK 0000910521) | FY2018
+FILE         : 0000910521_DECK_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 12. Reportable Operating Segments
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+marketing, depreciation, amortization, and the direct costs of employees within those reportable operating segments. The Company does not allocate corporate overhead costs or non-operating income and expenses to reportable operating segments, which include unallocable overhead costs associated with distribution centers, certain executive and stock compensation, accounting, finance, legal, information technology, human resources, and facilities, among others.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| . The Company enters into various cloud computing arrangements that are governed by service contracts (hosting arrangements) to support operations. Beginning October 1, 2018, the Company early adopted Accounting Standard Update (ASU) No. 2018-15, ||| Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract,

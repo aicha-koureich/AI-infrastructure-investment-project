@@ -1,0 +1,22 @@
+FIRM         : UCTT (CIK 0001275014) | FY2013
+FILE         : 0001275014_UCTT_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 27, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Organization and Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Equipment and Leasehold Improvements — Equipment and leasehold improvements are stated at cost, or, in the case of equipment under
+capital leases, the present value of future minimum lease payments at inception of the related lease. Depreciation and amortization are computed using the straight-line method over the lesser of the estimated useful lives of the assets or the terms
+of the leases. Useful lives range from three to fifteen years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

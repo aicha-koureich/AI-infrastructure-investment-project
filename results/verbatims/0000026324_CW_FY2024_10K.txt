@@ -1,0 +1,21 @@
+FIRM         : CW (CIK 0000026324) | FY2024
+FILE         : 0000026324_CW_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 4.7 ans | 5.7 ans | 7.2 ans | 7.6 ans
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment are carried at cost less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Backed by strong funding and legislative support, the U.S. Department of Energy has allocated $3.2 billion for advanced nuclear through its Advanced Reactor Demonstration Program (ARDP) to accelerate the development and demonstration of SMRs and advanced reactors through cost-shared partnerships with U.S. industry. The industry is also benefiting from an influx of investment from major technology companies including Amazon, Microsoft and Google to support electricity production to power data centers. We continue to grow our exposure in this market, and are actively engaged with all major 300MW+ reactor designers to develop partnerships and secure content for the design and development of critical systems and equipment expected to be deployed globally. According to a 2022 Nuclear Energy Institute (NEI) survey, its member utilities see a role for more than 90 gigawatts of nuclear power in support of their decarbonization goals, which translates to the potential for 300 new SMRs by 2050, and represents only a fraction of the potential global demand for these technologies. We anticipate SMR development and prototypes will begin to shift to production orders by the end of this decade, before reaching a steady-state of production by the middle of the next decade, providing a tremendous long-term growth opportunity.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

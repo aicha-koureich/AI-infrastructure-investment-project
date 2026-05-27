@@ -1,0 +1,20 @@
+FIRM         : LITE (CIK 0001633978) | FY2019
+FILE         : 0001633978_LITE_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 20. Operating Segments and Geographic Information
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost. Depreciation is computed by the straight-line method generally over the following estimated useful lives of the assets:
+
+[VERBATIM — Infrastructure IA]
+On December 10, 2018, we completed our merger with Oclaro, Inc. (“Oclaro”), a provider of optical components and modules for the long-haul, metro and data center markets. Our consolidated financial statements include the operating results of Oclaro for the period from the date of acquisition through  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. ||| On December 10, 2018, we acquired all of the outstanding common stock of Oclaro, a provider of optical components and modules for the long-haul, metro and data center markets. Oclaro’s products provide differentiated solutions for optical networks and high-speed interconnects driving the next wave of streaming video, cloud computing, application virtualization and other bandwidth-intensive and high-speed applications. This acquisition strengthens our product portfolio, including gaining Oclaro’s indium phosphide laser and photonic integrated circuit and coherent component and module capabilities; broadens our revenue mix; and positions us strongly to meet the future needs of our customers. ||| In August 2018, FASB issued ASU 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. ASU 2018-15 requires an entity in a hosting arrangement that is a service contract to follow the guidance in Subtopic 350-40 to determine which implementation costs to capitalize as an asset related to the service contract and which costs to expense. Implementation costs capitalized must be expensed over the term of the hosting arrangement, including the period covered by an option to extend the arrangement. The standard is effective for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years, and should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. Early adoption is permitted, including adoption in any interim period, for all entities. We early adopted ASU 2018-15, which did not have a material impact on our consolidated financial statements.

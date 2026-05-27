@@ -1,0 +1,20 @@
+FIRM         : DELL (CIK 0001571996) | FY2020
+FILE         : 0001571996_DELL_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-01-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 — DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Capitalized Software
+DURÉE        : 2.0-4.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized Software Development Costs — Software development costs related to the development of new product offerings are capitalized subsequent to the establishment of technological feasibility, which is demonstrated by the completion of a detailed program design or working model, if no program design is completed. The Company amortizes capitalized costs on a straight-line basis over the estimated useful lives of the products, which generally range from two to four years.
+
+[VERBATIM — Infrastructure IA]
+VMware, Inc. completed other acquisitions during the fiscal year ended January 31, 2020 which were not material, individually or in aggregate, to the Consolidated Financial Statements. VMware, Inc. expects that these acquisitions will enhance its product features and capabilities for its software-defined data center solutions and software-as-a-service offerings.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+• Client Solutions Group (“CSG”) — CSG includes branded hardware (such as desktops, workstations, and notebooks) and branded peripherals (such as displays and projectors), as well as third-party software and peripherals. Our computing devices are designed with our commercial and consumer customers’ needs in mind, and we seek to optimize performance, reliability, manageability, design, and security. In addition to our traditional hardware business, we have a portfolio of thin client offerings that we believe will allow us to benefit from the growth trends in cloud computing. For our customers that are seeking to simplify client lifecycle management, Dell PC as a Service offering combines hardware, software, lifecycle services, and financing into one all-encompassing solution that provides predictable pricing per seat per month. CSG also offers attached software, peripherals, and services, including support and deployment, configuration, and extended warranty services. ||| — CSG includes branded hardware (such as desktops, workstations, and notebooks) and branded peripherals (such as displays and projectors), as well as third-party software and peripherals. Our computing devices are designed with our commercial and consumer customers’ needs in mind, and we seek to optimize performance, reliability, manageability, design, and security. In addition to our traditional hardware business, we have a portfolio of thin client offerings that we believe will allow us to benefit from the growth trends in cloud computing. For our customers that are seeking to simplify client lifecycle management, Dell PC as a Service offering combines hardware, software, lifecycle services, and financing into one all-encompassing solution that provides predictable pricing per seat per month. CSG also offers attached software, peripherals, and services, including support and deployment, configuration, and extended warranty services.

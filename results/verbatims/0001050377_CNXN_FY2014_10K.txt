@@ -1,0 +1,22 @@
+FIRM         : CNXN (CIK 0001050377) | FY2014
+FILE         : 0001050377_CNXN_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Net sales to small- and medium-sized businesses increased in dollars as a percentage of net sales due to higher demand for desktops and our focus on growing solution sales. Software and networking product sales each
+grew at a faster rate than overall SMB sales due to our investments in solution selling and increased customer demand. Increased need for security and office productivity led to increased software sales, and the growing demand for data center
+products led to increased networking sales.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

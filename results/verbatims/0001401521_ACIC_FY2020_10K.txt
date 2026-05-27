@@ -1,0 +1,20 @@
+FIRM         : ACIC (CIK 0001401521) | FY2020
+FILE         : 0001401521_ACIC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 3 in our Notes to Consolidated Financial Statements for a discussion regarding the fair value measurem
+ASSET CAT.   : capitalized software
+DURÉE        : 7.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We amortize the capitalized software costs related to our data warehouse, claims system and policy administration system over its expected seven -year useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

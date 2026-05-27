@@ -1,0 +1,23 @@
+FIRM         : MDLZ (CIK 0001103982) | FY2015
+FILE         : 0001103982_MDLZ_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies
+ASSET CAT.   : software, which do not exceed
+DURÉE        : 7.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in property, plant and equipment and amortized on a straight-line basis over the estimated useful lives
+of the software, which do not exceed seven years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued an ASU that provides guidance on evaluating whether a cloud computing arrangement includes a software license.
+If there is a software license component, software licensing accounting should be applied; otherwise, service contract accounting should be applied. The ASU is effective for fiscal years beginning after December 15, 2015, with early adoption
+permitted. We adopted the new standard on January 1, 2016 and on a prospective basis. The standard is not expected to have a material impact on our consolidated financial statements.

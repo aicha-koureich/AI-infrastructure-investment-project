@@ -1,0 +1,23 @@
+FIRM         : UIS (CIK 0000746838) | FY2019
+FILE         : 0000746838_UIS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — Summary of significant accounting policies
+ASSET CAT.   : machinery, office equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The estimated lives used, in years, are as follows: buildings, 20 – 50 ; machinery and office equipment, 4 – 7 ; rental equipment, 4 ; and internal-use software, 3 – 10 .
+
+[VERBATIM — Changement de politique]
+Due to the maturity of the company’s proprietary enterprise software product, the company increased the time between its major releases as its product has a longer useful life. As a result, the company adjusted the remaining useful life of its proprietary enterprise software product, which represents approximately 66% of the company’s marketable software, to five years . The useful lives of the remaining products classified as marketable software remain at three years , which is consistent with prior years. As of December 31, 2019, $67.1 million of marketable software was in process and the remaining $119.7 million has a weighted-average remaining life of 3.2 years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal - Use Software (Subtopic 350-40) : Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract which clarifies the accounting for implementation costs incurred in a cloud computing arrangement that is a service contract. This update is effective for fiscal years beginning after December 15, 2019. The new guidance can be applied retrospectively or prospectively to all implementation costs incurred after the date of adoption. The company will adopt the new guidance on January 1, 2020, on a prospective basis, and does not expect the adoption to have a material impact on its consolidated results of operations and financial position. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| which clarifies the accounting for implementation costs incurred in a cloud computing arrangement that is a service contract. This update is effective for fiscal years beginning after December 15, 2019. The new guidance can be applied retrospectively or prospectively to all implementation costs incurred after the date of adoption. The company will adopt the new guidance on January 1, 2020, on a prospective basis, and does not expect the adoption to have a material impact on its consolidated results of operations and financial position.

@@ -1,0 +1,20 @@
+FIRM         : BANC (CIK 0001169770) | FY2014
+FILE         : 0001169770_BANC_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 26 – SUBSEQUENT EVENTS
+ASSET CAT.   : Equipment, furniture
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment are stated at cost less accumulated depreciation and amortization. Depreciation and amortization are computed using the straight-line method with the following estimated useful lives: building 40 years and leasehold improvements-life of lease, and furniture, fixtures, and equipment 3 to 7 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

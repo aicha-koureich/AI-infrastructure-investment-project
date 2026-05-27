@@ -1,0 +1,20 @@
+FIRM         : INSP (CIK 0001609550) | FY2020
+FILE         : 0001609550_INSP_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Computer equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2020 2019 Computer equipment and software $ 1,305 $ 790 Manufacturing equipment 2,285 1,050 Other equipment 249 68 Leasehold improvements 192 192 Construction in process 3,125 1,950 Property and equipment, cost 7,156 4,050 Less: accumulated depreciation and amortization (1,845) (1,005) Property and equipment, net $ 5,311 $ 3,045
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : GO (CIK 0001771515) | FY2019
+FILE         : 0001771515_GO_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-03-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1—Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment — Property and equipment is stated at cost less accumulated depreciation and includes expenditures for significant improvements to leased premises. Depreciation of property and equipment is calculated using the straight-line method over the estimated useful lives of the assets, generally ranging from three to 15 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (“ASU 2018-15”). ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. ASU 2018-15 is effective retrospectively for fiscal years and interim periods within those years beginning after December 15, 2019. We will adopt ASU 2018-15 beginning in the first quarter of fiscal 2020. We do not expect the adoption of ASU 2018-15 to have a material impact on our consolidated financial statements. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

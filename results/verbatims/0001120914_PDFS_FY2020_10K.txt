@@ -1,0 +1,20 @@
+FIRM         : PDFS (CIK 0001120914) | FY2020
+FILE         : 0001120914_PDFS_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : capitalized software
+DURÉE        : 5.0-6.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company’s capitalized software development costs consist of internal compensation related costs and external direct costs incurred during the application development stage and are amortized over their useful lives, generally five to six years.
+
+[VERBATIM — Infrastructure IA]
+There are other business trends that may affect our business opportunities generally. For instance, the demand for consumer electronics, communications devices, and high-performance computing continues to drive technological innovation in the semiconductor industry as the need for products with greater performance, lower power consumption, reduced costs, and smaller size continues to grow with each new product generation. In addition, advances in computing systems and mobile devices continue to fuel demand for higher capacity memory chips. To meet these demands, IC manufacturers and designers are constantly challenged to improve the overall performance of their ICs by designing and manufacturing ICs with more embedded applications to create greater functionality while lowering power and cost per transistor. As this trend continues, companies will continually be challenged to improve process capabilities to optimally produce ICs with minimal random and systematic yield loss, which is driven by the lack of compatibility between the design and its respective manufacturing process. We believe that these difficulties will continue to create a need for our products and services that address yield loss across the IC product life cycle.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| In August 2018, the FASB issued ASU No. 2018 - 15, Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350 - 40 ): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. The new guidance clarifies the accounting for implementation costs incurred to develop or obtain internal-use software in cloud computing arrangements. Further, the standard also requires entities to expense the capitalized implementation costs of a hosting arrangement over the term of the hosting arrangement. This standard was effective for the Company beginning in the first quarter of 2020. ASU No. 2018 - 15 should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. The Company adopted ASU No. 2018 - 15 on January 1, 2020 on a prospective basis. There was no material impact on the Company’s consolidated financial statements as a result of adoption of ASU No. 2018 - 15. As of December 31, 2020, the implementation costs capitalized by the Company pertaining to a cloud computing arrangement, which related to sales order and customer relation management, amounted to $0.4 million. The capitalized implementation costs were included in other noncurrent assets on the Consolidated Balance Sheet and within the operating activities section of the Company’s Consolidated Statement of Cash Flows for the year ended December 31, 2020. When the module or component of the hosting arrangement is ready for its intended use, the Company expects to amortize the capitalized implementation costs over the respective noncancellable period of the arrangement plus the period covered by an option to extend the arrangement that is reasonably certain of being exercised. The amortization expense related to these assets for the year ended December 31, 2020 was immaterial.

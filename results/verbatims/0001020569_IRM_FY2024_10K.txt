@@ -1,0 +1,20 @@
+FIRM         : IRM (CIK 0001020569) | FY2024
+FILE         : 0001020569_IRM_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Trends in facility occupancy costs are impacted by: • the total number of facilities we occupy; • the mix of properties we own versus properties we lease; • fluctuations in per square foot occupancy costs; • the levels of utilization of these properties; and • data center power costs. Trends in total wages and benefits in dollars and as a percentage of total revenue are influenced by : • changes in headcount and compensation levels ; • achievement of incentive compensation targets ; • workforce productivity ; and • variability in costs associated with medical insurance and workers’ compensation.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+• organic storage rental revenue growth driven by increased volume in faster growing markets and our Global Data Center Business segment and revenue management. ||| • Our organic storage rental revenue growth is primarily driven by revenue management in our Global RIM Business segment, where we expect volume to be relatively stable in the near term, as well as by growth in our Global Data Center Business segment, primarily driven by lease commencements. ||| Our organic storage rental revenue growth is primarily driven by revenue management in our Global RIM Business segment, where we expect volume to be relatively stable in the near term, as well as by growth in our Global Data Center Business segment, primarily driven by lease commencements.

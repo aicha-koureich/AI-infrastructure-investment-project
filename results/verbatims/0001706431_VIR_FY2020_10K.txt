@@ -1,0 +1,20 @@
+FIRM         : VIR (CIK 0001706431) | FY2020
+FILE         : 0001706431_VIR_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 7. Collaboration and License Agreements
+ASSET CAT.   : equipment, Computer equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2020 2019 (in thousands) Laboratory equipment $ 16,769 $ 11,986 Computer equipment 556 540 Furniture and fixtures 1,444 1,351 Leasehold improvements 7,274 7,121 Construction in progress 1,135 142 Property and equipment, gross 27,178 21,140 Less accumulated depreciation and amortization (9,232 ) (4,832 ) Total property and equipment, net $ 17,946 $ 16,308
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

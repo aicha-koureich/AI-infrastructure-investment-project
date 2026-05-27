@@ -1,0 +1,20 @@
+FIRM         : OKE (CIK 0001039684) | FY2023
+FILE         : 0001039684_OKE_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-29
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment, information technology equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Leases - We lease certain buildings, warehouses, office space, land and equipment, including pipeline equipment, rail cars and information technology equipment. In addition, as a result of the Magellan Acquisition, we also lease tank and pipeline capacity. Our lease payments are generally straight-line and the exercise of lease renewal options, which vary in term, is at our sole discretion. We include renewal periods in a lease term if we are reasonably certain to exercise available renewal options. Our lease agreements do not include any residual value guarantees or material restrictive covenants. We apply the short-term policy election, which allows us to exclude from recognition leases with an initial term of 12 months or less. Our weighted-average discount rates represent the rate implicit in the lease or our incremental borrowing rate for a term equal to the remaining term of the lease.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

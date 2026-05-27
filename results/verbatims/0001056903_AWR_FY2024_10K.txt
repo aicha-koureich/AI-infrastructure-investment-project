@@ -1,0 +1,23 @@
+FIRM         : AWR (CIK 0001056903) | FY2024
+FILE         : 0001056903_AWR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense for regulated utilities, excluding amortization expense and depreciation on transportation equipment, totale d $39.8 million, $38.3 million and $37.3 million for the years ended December 31, 2024, 2023 and 2022, respectively. Depreciation computed on regulated utilities’ transportation equipment is recorded in other operating expenses and totaled $0.6 million , $0.9 million and $0.4 million for the years 2024, 2023 and 2022, respectively. For the year ended December 31, 2023, approximately $0.2 million of additional depreciation expense on GSWC's transportation equipment was recorded that relates to the cumulative retroactive impact for the full year of 2022 approved in the final CPUC decision in GSWC's general rate case that resulted from an increase to the transportation equipment composite depreciation rates that are retroactive to January 1, 2022.
+
+[VERBATIM — Changement de politique]
+AWR Year Ended December 31, (dollars in thousands) 2024 2023 2022 Federal taxes on pretax income at statutory rate $ 31,383 $ 34,969 $ 21,433 Increase (decrease) in taxes resulting from: State income tax, net of federal benefit 6,508 9,785 4,335 Excess deferred tax amortization (1,467) (1,648) (1,311) Flow-through on fixed assets 1,075 1,067 1,076 Flow-through on removal costs (3,096) (2,255) (1,802) Investment tax credit (69) (71) (71) Excess deferred tax adjustment - change in estimate (5,015) — — Other – net 854 (248) 4 Total income tax expense from operations $ 30,173 $ 41,599 $ 23,664 Pretax income from operations $ 149,441 $ 166,520 $ 102,060 Effective income tax rate 20.2 % 25.0 % 23.2 %
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

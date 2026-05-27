@@ -1,0 +1,20 @@
+FIRM         : BHE (CIK 0000863436) | FY2021
+FILE         : 0000863436_BHE_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 4—Goodwill and Other Intangible Assets
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+respectively, of purchased software costs were capitalized. Amortization on the statements of cash flow for 2021, 2020 and 2019 was as follows:
+
+[VERBATIM — Infrastructure IA]
+Computing. 2021 sales increased 16% to $199.4 million from $171.3. million in 2020. The increase was primarily due to the planned ramp of high-performance computing programs.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

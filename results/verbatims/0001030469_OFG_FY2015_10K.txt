@@ -1,0 +1,41 @@
+FIRM         : OFG (CIK 0001030469) | FY2015
+FILE         : 0001030469_OFG_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 27
+– OFG BANCORP (HOLDING COMPANY ONLY) FINANCIAL INFORMATION
+ASSET CAT.   : EQUIPMENT, Furniture and fixtures, Information technology
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+OFG
+BANCORP NOTES TO
+CONSOLIDATED FINANCIAL STATEMENTS – (Continued) In connection with the FDIC-assisted
+acquisition, the Company recognized an FDIC shared-loss expense, net in the
+consolidated statements of operations, which consists of the following, for the
+years ended December 31, 2015, 2014 and 2013: Year Ended December 31, 2015 2014 2013 (In thousands) FDIC indemnification asset expense $ (36,398) $ (62,285) $ (66,253) Change in true-up payment obligation (2,677) (3,471) (3,014) Reimbursement to FDIC for recoveries (2,144) - - Final settlement with the FDIC on commercial loans (1,589) - - Total FDIC shared-loss expense, net (42,808) $ (65,756) $ (69,267) NOTE 8 — PREMISES AND EQUIPMENT Premises and equipment at December 31,
+2015 and 2014 are stated at cost less accumulated depreciation and amortization
+as follows: Useful Life December 31, (Years) 2015 2014 (In thousands) Land — $ 5,638 $ 5,680 Buildings and improvements 40 64,392 65,430 Leasehold improvements 5 — 10 20,166 23,000 Furniture and fixtures 3 — 7 13,656 12,739 Information technology and other 3 — 7 23,226 26,422 127,078 133,271 Less: accumulated depreciation and amortization (52,488) (52,672) $ 74,590 $ 80,599 Depreciation and amortization of premises and equipment totaled $ 11.1 million in 2015, $ 10.2 million in 2014 and $ 10.3 million in 2013.
+
+[VERBATIM — Changement de politique]
+Prospectively,
+for debt securities for which other-than-temporary impairments was recognized
+in earnings, the difference between the new amortized cost basis and the cash
+flows expected to be collected will be accreted as interest income. If upon
+subsequent evaluation, there is a significant increase in the cash flows
+expected to be collected or if actual cash flows are significantly greater than
+cash flows previously expected, such changes will be accounted for as a
+prospective adjustment to the accretable yield. Subsequent increases and
+decreases (if not other-than-temporary impairment) in the fair value of
+available-for-sale securities will be included in other comprehensive income
+(loss).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

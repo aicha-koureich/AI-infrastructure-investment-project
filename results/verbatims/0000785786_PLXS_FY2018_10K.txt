@@ -1,0 +1,20 @@
+FIRM         : PLXS (CIK 0000785786) | FY2018
+FILE         : 0000785786_PLXS_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 17. Quarterly Financial Data (Unaudited)
+ASSET CAT.   : Machinery and equipment, Computer hardware, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2018 2017 Land, buildings and improvements $ 267,809 $ 262,428 Machinery and equipment 364,034 348,593 Computer hardware and software 130,645 117,404 Capital assets in progress 38,469 12,790 Total property, plant and equipment, gross 800,957 741,215 Less: accumulated depreciation (459,651 ) (426,550 ) Total property, plant and equipment, net $ 341,306 $ 314,665
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

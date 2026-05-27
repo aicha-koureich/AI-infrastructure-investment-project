@@ -1,0 +1,21 @@
+FIRM         : HPQ (CIK 0000047217) | FY2022
+FILE         : 0000047217_HPQ_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-11-18
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 5. Recognize revenue when (or as) the performance obligation is satisfied - Revenue is recognized when, or as, a
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-15.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+HP reflects property, plant and equipment at cost less accumulated depreciation. Estimated useful lives are five to 40 years for buildings and improvements and three to 15 years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Internal Use Software and Cloud Computing Arrangements

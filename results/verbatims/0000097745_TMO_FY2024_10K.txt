@@ -1,0 +1,20 @@
+FIRM         : TMO (CIK 0000097745) | FY2024
+FILE         : 0000097745_TMO_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 15. Stock-based Compensation Expense
+ASSET CAT.   : equipment, machinery and equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The company generally provides for depreciation and amortization using the straight-line method over the estimated useful lives of the property as follows: buildings and improvements, 25 to 40 years; machinery and equipment (including software), 3 to 10 years; and leasehold improvements, the shorter of the term of the lease or the life of the asset.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

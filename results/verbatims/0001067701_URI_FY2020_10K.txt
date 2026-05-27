@@ -1,0 +1,23 @@
+FIRM         : URI (CIK 0001067701) | FY2020
+FILE         : 0001067701_URI_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 2.0-39.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost and depreciated over their estimated useful lives using the straight-line method. The range of estimated useful lives for property and equipment is two to 39 years.
+
+[VERBATIM — Changement de politique]
+(5) This reflects the impact of extending the useful lives of equipment acquired in the RSC, NES, Neff, BakerCorp and BlueLine acquisitions, net of the impact of additional depreciation associated with the fair value mark-up of such equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

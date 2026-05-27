@@ -1,0 +1,23 @@
+FIRM         : STZ (CIK 0000016918) | FY2022
+FILE         : 0000016918_STZ_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF BUSINESS, BASIS OF PRESENTATION, AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment is stated at cost. Major additions and improvements are recognized as an increase to the property accounts, while maintenance and repairs are expensed as incurred. The cost of properties sold or otherwise disposed of and the related accumulated depreciation are eliminated from the balance sheet accounts at the time of disposal and resulting gains and losses are included as a component of operating income.
+
+[VERBATIM — Changement de politique]
+For the Years Ended February 28, 2023 February 28, 2022 February 28, 2021 (in millions) Cost of product sold Settlements of undesignated commodity derivative contracts $ (76.7) $ (35.9) $ 31.6 Net gain (loss) on undesignated commodity derivative contracts (15.0) 109.9 25.1 Flow through of inventory step-up (4.5) (0.1) (0.4) Strategic business development costs (1.2) (2.6) (29.8) Net flow through of reserved inventory 1.2 12.1 — Recovery of (loss on) inventory write-down 0.2 (1.0) (70.4) COVID-19 incremental costs — — (7.6) Accelerated depreciation — — (0.1) Comparable Adjustments, Cost of product sold (96.0) 82.4 (51.6)
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

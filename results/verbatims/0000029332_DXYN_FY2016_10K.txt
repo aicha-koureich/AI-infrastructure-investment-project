@@ -1,0 +1,20 @@
+FIRM         : DXYN (CIK 0000029332) | FY2016
+FILE         : 0000029332_DXYN_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Provisions for depreciation and amortization of property, plant and equipment have been computed for financial reporting purposes using the straight-line method over the estimated useful lives of the related assets, ranging from
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+"Customer's Accounting for Fees Paid in a Cloud Computing Arrangement." ||| ASU 2015-05 provides guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The guidance did not change GAAP for a customer's accounting for service contracts. The adoption of this ASU in 2016 did not have a significant impact on the Consolidated Financial Statements. ||| In April 2015, the FASB issued ASU No. 2015-05, "Customer's Accounting for Fees Paid in a Cloud Computing Arrangement." ASU 2015-05 provides guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The guidance did not change GAAP for a customer's accounting for service contracts. The adoption of this ASU in 2016 did not have a significant impact on the Consolidated Financial Statements.

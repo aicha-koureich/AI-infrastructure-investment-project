@@ -1,0 +1,21 @@
+FIRM         : KEYS (CIK 0001601046) | FY2016
+FILE         : 0001601046_KEYS_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. OVERVIEW, BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software is included in property, plant and equipment and is depreciated over
+
+[VERBATIM — Infrastructure IA]
+Keysight’s net revenue of $2,918 million in 2016 increased 2 percent when compared to 2015. Foreign currency movements had no impact on the year-over-year comparison. The revenue increase associated with acquisitions accounted for approximately 5 percentage points for the year ended October 31, 2016 when compared to 2015. Excluding acquisitions, revenue declined year-over-year as weakness in the smartphone supply chain and restructuring and consolidation activities in the industry offset strength in 5G technologies and data center expansion. Net revenue of $2,856 million in 2015 decreased 3 percent when compared to 2014. Foreign currency movements had an unfavorable impact of 4 percentage points on the year-over-year comparison. The revenue increase associated with acquisitions accounted for approximately 1 percentage point for the year ended October 31, 2015 when compared to 2014.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

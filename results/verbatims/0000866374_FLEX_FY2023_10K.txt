@@ -1,0 +1,20 @@
+FIRM         : FLEX (CIK 0000866374) | FY2023
+FILE         : 0000866374_FLEX_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF ACCOUNTING POLICIES Basis of Presentation and Principles of Consolidation
+ASSET CAT.   : Machinery and equipment, Furniture, computer equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciable Life (In Years) As of March 31, 2024 2023 (In millions) Machinery and equipment 2 - 10 $ 3,960 $ 3,728 Buildings 30 1,212 1,162 Leasehold improvements Shorter of lease term or useful life of the improvement 651 586 Furniture, fixtures, computer equipment and software, and other 3 - 7 549 543 Land — 123 124 Construction-in-progress — 214 399 6,709 6,542 Accumulated depreciation and amortization (4,440) (4,200) Property and equipment, net $ 2,269 $ 2,342
+
+[VERBATIM — Infrastructure IA]
+On December 1, 2021, the Company completed the business acquisition of Anord Mardix, a global leader in critical power solutions for an initial purchase consideration of $523 million, net of $25 million cash acquired, with an additional $17 million deferred purchase price paid out in the fourth quarter of fiscal year 2022, for a total purchase consideration of $539 million. The acquisition added to the Company's portfolio of Power products and expanded its offering in the data center market. For reporting purposes, Anord Mardix was included in the Industrial reporting unit within the FRS segment. The allocation of the purchase price to the tangible and identifiable intangible assets acquired and liabilities assumed was based on their estimated fair values as of the date of acquisition. The excess of the purchase price over the tangible and identifiable intangible assets acquired and liabilities assumed has been allocated to goodwill. The results of operations of the acquisition were included in the Company’s consolidated financial results beginning on the date of acquisition, and the total amount of net income and revenue were not material to the Company's consolidated financial results for fiscal year 2022.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

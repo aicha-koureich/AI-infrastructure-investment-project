@@ -1,0 +1,21 @@
+FIRM         : GRMN (CIK 0001121788) | FY2017
+FILE         : 0001121788_GRMN_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 30, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies Basis of Presentation and Principles of Consolidation
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment
+are recorded at cost and depreciated using the straight-line method over the following estimated useful lives:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

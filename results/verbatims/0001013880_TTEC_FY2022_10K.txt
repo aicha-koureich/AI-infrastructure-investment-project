@@ -1,0 +1,20 @@
+FIRM         : TTEC (CIK 0001013880) | FY2022
+FILE         : 0001013880_TTEC_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The increase in revenue for the TTEC Digital segment was driven by increases in the cloud platform and the system integration practice including the acquisition of Avtex.

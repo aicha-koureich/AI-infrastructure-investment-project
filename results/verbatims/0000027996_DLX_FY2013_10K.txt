@@ -1,0 +1,20 @@
+FIRM         : DLX (CIK 0000027996) | FY2013
+FILE         : 0000027996_DLX_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 13: Debt and lease obligations
+ASSET CAT.   : information technology, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+related to information technology hardware. The lease obligations will be paid through October 2017. The related assets are included in property, plant and equipment in the consolidated balance sheet as of December 31, 2013. Depreciation of the leased assets is included in depreciation expense in the 2013 consolidated statement of cash flows. A portion of the leased assets have not yet been placed in service. The balance of those assets placed in service as of December 31, 2013 was a cost basis of
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

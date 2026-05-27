@@ -1,0 +1,20 @@
+FIRM         : GEN (CIK 0000849399) | FY2014
+FILE         : 0000849399_GEN_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Enterprise Security : Our Enterprise Security segment protects organizations so they can securely conduct business while leveraging new platforms and data. These products include Secure Socket Layer (“SSL”) Certificates, authentication, mail and web security, data center security, data loss prevention, information security services, endpoint security and management, encryption, and mobile security offerings.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

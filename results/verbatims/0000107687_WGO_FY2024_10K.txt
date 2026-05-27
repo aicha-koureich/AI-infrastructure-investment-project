@@ -1,0 +1,23 @@
+FIRM         : WGO (CIK 0000107687) | FY2024
+FILE         : 0000107687_WGO_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 6. Property, Plant, and Equipment
+ASSET CAT.   : equipment, Machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment is stated at cost, net of accumulated depreciation and consists of the following: (in millions) August 31, 2024 August 26, 2023 Land $ 14.6 $ 14.6 Buildings and building improvements 279.3 247.3 Machinery and equipment 171.8 159.3 Software 72.0 52.7 Transportation 7.8 7.2 Construction in progress 24.5 49.3 Property, plant, and equipment, gross 570.0 530.4 Less: Accumulated depreciation 231.1 203.1 Property, plant, and equipment, net $ 338.9 $ 327.3
+
+[VERBATIM — Changement de politique]
+We monitor and evaluate operating performance of our reportable segments based on Adjusted EBITDA. EBITDA is defined as net income before interest expense, provision for income taxes, and depreciation and amortization expense. Adjusted EBITDA is defined as net income before interest expense, provision for income taxes, depreciation and amortization expense, and other pretax adjustments made in order to present comparable results period over period. Examples of items excluded from Adjusted EBITDA include acquisition-related costs, litigation reserves, change in fair value of note receivable and other investments, contingent consideration fair value adjustment, goodwill impairment, loss on note repurchase, and non-operating income or loss.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

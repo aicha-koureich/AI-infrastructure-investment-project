@@ -1,0 +1,21 @@
+FIRM         : TRN (CIK 0000099780) | FY2014
+FILE         : 0000099780_TRN_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 20. Selected Quarterly Financial Data (Unaudited)
+ASSET CAT.   : equipment, machinery and equipment
+DURÉE        : 2.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 2.0-10.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment are stated at cost and depreciated over their estimated useful lives using the straight-line method. The estimated useful lives are: buildings and improvements - 3 to 30 years ; leasehold improvements - the lesser of the term of the lease or 7 years ; machinery and equipment - 2 to 10 years ; information systems hardware and software - 2 to 5 years ; and railcars in our lease fleet - generally 35 years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

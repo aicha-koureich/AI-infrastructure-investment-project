@@ -1,0 +1,26 @@
+FIRM         : STX (CIK 0001137789) | FY2013
+FILE         : 0001137789_STX_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 28, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Equipment and
+buildings are
+depreciated using the straight-line method over the estimated useful lives of the assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+On December 19, 2011, the Company completed the acquisition of Samsung Electronics Co., Ltd's ("Samsung") hard
+disk drive business pursuant to an Asset Purchase Agreement ("APA") by which the Company acquired certain assets and liabilities of Samsung relating to the research and development, manufacture and
+sale of hard-disk drives. The transaction and related agreements are expected to improve the Company's position as a supplier of 2.5-inch products; position the Company to better address rapidly
+evolving opportunities in markets including, but not limited to, mobile computing, cloud computing and solid state storage; expand the Company's customer access in China and Southeast Asia; and
+accelerate time to market for new products.

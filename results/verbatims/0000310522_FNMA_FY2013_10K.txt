@@ -1,0 +1,20 @@
+FIRM         : FNMA (CIK 0000310522) | FY2013
+FILE         : 0000310522_FNMA_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Our business resiliency program is designed to provide reasonable assurance for continuity of critical business operations in the event of disruptions caused by the loss of facilities, technology or personnel. We are currently building an out-of-region data center for disaster recovery in order to increase the geographic diversity of our business continuity plans. This data center is expected to be operational later in 2014. Despite the planning, testing and preparation of back up venues that we engage in, a catastrophic event may still result in a significant business disruption and financial losses. See “Risk Factors” for a discussion of the risks to our business relating to a catastrophic event that could disrupt our business.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

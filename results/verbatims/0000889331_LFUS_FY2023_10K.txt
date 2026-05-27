@@ -1,0 +1,20 @@
+FIRM         : LFUS (CIK 0000889331) | FY2023
+FILE         : 0000889331_LFUS_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2027-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 18. Related Party Transactions
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+In March 2023, the FASB issued ASU No. 2023-01, "Leases (Topic 842): Common Control Arrangements". The standard requires that leasehold improvements associated with common control leases be: 1) Amortized by the lessee over the useful life of the leasehold improvements to the common control group (regardless of the lease term) as long as the lessee controls the use of the underlying asset (the leased asset) through a lease. However, if the lessor obtained the right to control the use of the underlying asset through a lease with another entity not within the same common control group, the amortization period may not exceed the amortization period of the common control group. 2) Accounted for as a transfer between entities under common control through an adjustment to equity (or net assets for not-for-profit entities) if, and when, the lessee no longer controls the use of the underlying asset. Additionally, those leasehold improvements are subject to the impairment guidance in Topic 360, Property, Plant, and Equipment. This standard is effective for fiscal years beginning after December 15, 2023 including interim periods within those fiscal years. The Company does not expect any material effect on the Company's Consolidated Financial Statements.
+
+[VERBATIM — Infrastructure IA]
+• Electronics Segment : Consists of one of the broadest product offerings in the industry, including fuses and fuse accessories, positive temperature coefficient (“PTC”) resettable fuses, electromechanical switches and interconnect solutions, polymer electrostatic discharge (“ESD”) suppressors, varistors, reed switch based magnetic sensing, gas discharge tubes; semiconductor products such as discrete transient voltage suppressor (“TVS”) diodes, TVS diode arrays, protection and switching thyristors, silicon and silicon carbide metal-oxide-semiconductor field effect transistors (“MOSFETs”) and diodes; and insulated gate bipolar transistors (“IGBT”) technologies. The segment covers a broad range of end markets, including industrial motor drives and power conversion, automotive electronics, electric vehicle and related charging infrastructure, aerospace, power supplies, data centers and telecommunications, medical devices, alternative energy and energy storage, building and home automation, appliances, and mobile electronics.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

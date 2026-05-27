@@ -1,0 +1,20 @@
+FIRM         : ANDE (CIK 0000821026) | FY2016
+FILE         : 0000821026_ANDE_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Once a project is complete, we estimate the useful life of the internal-use software, and we periodically assess whether the software is impaired. Changes in our estimates related to internal-use software would increase or decrease operating expenses or amortization recorded during the period.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

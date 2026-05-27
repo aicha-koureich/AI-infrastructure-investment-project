@@ -1,0 +1,21 @@
+FIRM         : FN (CIK 0001408710) | FY2021
+FILE         : 0001408710_FN_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-06-25
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of significant accounting policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Land improvements 10 years Building and building improvements 5-30 years Leasehold improvements Shorter of useful life or lease term Manufacturing equipment 3-7 years Office equipment 3-7 years Motor vehicles 3-5 years Computer hardware 3-5 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

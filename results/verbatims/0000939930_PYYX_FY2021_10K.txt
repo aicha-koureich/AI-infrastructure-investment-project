@@ -1,0 +1,20 @@
+FIRM         : PYYX (CIK 0000939930) | FY2021
+FILE         : 0000939930_PYYX_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-06-02
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 16. Goodwill and Other Intangibles, Net
+ASSET CAT.   : equipment, Machinery and equipment
+DURÉE        : 2.0-19.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment is stated at cost and depreciated using the straight-line method over the estimated useful lives of the assets. Machinery and equipment are depreciated over a range of two to nineteen years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

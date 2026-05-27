@@ -1,0 +1,21 @@
+FIRM         : ISRG (CIK 0001035267) | FY2015
+FILE         : 0001035267_ISRG_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 12. EMPLOYEE BENEFIT PLANS
+ASSET CAT.   : Equipment and furniture
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Useful Lives Building Up to 30 years Building improvements Up to 15 years Leasehold improvements Lesser of useful life or term of lease Equipment and furniture 5 years Computer equipment 3 years Enterprise-wide software Up to 5 years Purchased software Lesser of 3 years or life of license
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer’s Accounting of Fees Paid in Cloud Computing Arrangement ||| guidance on accounting for fees paid in cloud computing arrangements. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a services contract. All software licenses recognized under this guidance will be accounted for consistent with other licenses of intangible assets. The guidance becomes effective for the Company for the first quarter of fiscal 2016. The guidance is not expected to have a material effect on the Company's Consolidated Financial Statements. ||| In April 2015, the FASB issued ASU No. 2015-05, Customer’s Accounting of Fees Paid in Cloud Computing Arrangement ,

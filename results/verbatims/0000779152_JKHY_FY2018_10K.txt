@@ -1,0 +1,20 @@
+FIRM         : JKHY (CIK 0000779152) | FY2018
+FILE         : 0000779152_JKHY_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 14: SUBSEQUENT EVENTS
+ASSET CAT.   : EQUIPMENT, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+AND SUBSIDIARIES CONSOLIDATED BALANCE SHEETS (In Thousands, Except Share and Per Share Data) June 30, 2018 June 30, 2017 ASSETS CURRENT ASSETS: Cash and cash equivalents $ 31,440 $ 114,765 Receivables, net 291,630 276,923 Income tax receivable 21,671 20,135 Prepaid expenses and other 84,810 66,894 Deferred costs 38,985 41,314 Total current assets 468,536 520,031 PROPERTY AND EQUIPMENT, net 286,850 282,934 OTHER ASSETS: Non-current deferred costs 95,540 96,847 Computer software, net of amortization 288,172 247,317 Other non-current assets 107,775 82,525 Customer relationships, net of amortization 115,034 90,433 Other intangible assets, net of amortization 38,467 36,393 Goodwill 649,929 552,465 Total other assets 1,294,917 1,105,980 Total assets $ 2,050,303 $ 1,908,945 LIABILITIES AND STOCKHOLDERS' EQUITY CURRENT LIABILITIES: Accounts payable $ 34,510 $ 6,841 Accrued expenses 97,848 81,574 Deferred revenues 355,538 382,777 Total current liabilities 487,896 471,192 LONG-TERM LIABILITIES: Non-current deferred revenues 93,094 128,607 Deferred income tax liability 189,613 219,541 Debt, net of current maturities — 50,000 Other long-term liabilities 12,872 7,554 Total long-term liabilities 295,579 405,702 Total liabilities 783,475 876,894 STOCKHOLDERS' EQUITY Preferred stock - $1 par value; 500,000 shares authorized, none issued — — Common stock - $0.01 par value; 250,000,000 shares authorized; 103,278,562 shares issued at June 30, 2018; 103,083,299 shares issued at June 30, 2017 1,033 1,031 Additional paid-in capital 464,138 452,016 Retained earnings 1,856,917 1,585,278 Less treasury stock at cost 26,107,903 shares at June 30, 2018; 25,660,212 shares at June 30, 2017; (1,055,260 ) (1,006,274 ) Total stockholders' equity 1,266,828 1,032,051 Total liabilities and equity $ 2,050,303 $ 1,908,945
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+compared to the prior year. The increase was driven by increased outsourcing and cloud services, as well as increased transaction and digital processing. Excluding deconversion fees from each period and Vanguard Software Group revenue from fiscal ||| Revenue in the Complementary segment increased 7% for the fiscal year ended June 30, 2018 compared to the prior year. The increase was driven by increased outsourcing and cloud services, as well as increased transaction and digital processing. Excluding deconversion fees from each period and Vanguard Software Group revenue from fiscal 2018 , revenue increased 6% . Cost of revenue increased 6% , but was a consistent percentage of total revenue in fiscal 2018 and fiscal 2017 .

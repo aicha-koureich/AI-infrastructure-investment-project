@@ -1,0 +1,20 @@
+FIRM         : CARG (CIK 0001494259) | FY2021
+FILE         : 0001494259_CARG_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, technology, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+These expenses include personnel and related expenses for our customer support team, including salaries, benefits, incentive compensation, and stock-based compensation, third-party service provider expenses such as advertising, data center and networking expenses, depreciation expense associated with our property and equipment, amortization of developed technology, amortization of capitalized website development and allocated overhead expenses.
+
+[VERBATIM — Infrastructure IA]
+Marketplace cost of revenue includes expenses related to supporting and hosting digital product offerings. These expenses include personnel and related expenses for our customer support team, including salaries, benefits, incentive compensation, and stock-based compensation, third-party service provider expenses such as advertising, data center and networking expenses, depreciation expense associated with our property and equipment, amortization of developed technology, amortization of capitalized website development and allocated overhead expenses. The Company allocates overhead expenses, such as rent and facility expenses, information technology expense, and employee benefit expense, to all departments based on headcount. As such, general overhead expenses are reflected in cost of revenue and each operating expense category.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

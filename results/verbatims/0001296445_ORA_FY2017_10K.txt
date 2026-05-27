@@ -1,0 +1,23 @@
+FIRM         : ORA (CIK 0001296445) | FY2017
+FILE         : 0001296445_ORA_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 — BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Such amounts are amortized using the straight-line method and included in income tax provision over the life of the related property, plant and equipment.
+
+[VERBATIM — Changement de politique]
+Year Ended December 31, 2017 2016 2015 (Dollars in thousands) Other deferred tax expense (exclusive of the effect of other components listed below) $ 1,833 $ (1,105 ) $ 541 Usage (benefit) of operating loss carryforwards - U.S. 73,049 (14,072 ) (30,596 ) Change in valuation allowance (58,757 ) 16,411 (14,324 ) Change in foreign valuation allowance — — (49,701 ) Change in foreign income tax 26,579 18,073 14,965 Change in lease transaction — — (452 ) Change in tax monetization transaction (23,234 ) 48,000 16,386 Change in depreciation 129,408 (55,462 ) 28,370 Change in foreign tax credits (86,206 ) — — Change in withholding tax 14,400 — — Change in state and investment tax credits (144 ) — — Change in intangible drilling costs (118,610 ) 10,227 10,335 Change in production tax credits and alternative minimum tax credit (2,070 ) (11,659 ) 610 Basis difference in partnership interests (12,433 ) 7,660 (10,870 ) $ (56,185 ) $ 18,073 $ (34,736 )
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

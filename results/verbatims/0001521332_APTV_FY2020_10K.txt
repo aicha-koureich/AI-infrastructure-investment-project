@@ -1,0 +1,20 @@
+FIRM         : APTV (CIK 0001521332) | FY2020
+FILE         : 0001521332_APTV_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 22. SEGMENT REPORTING
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+(1) Includes property, plant and equipment, net of accumulated depreciation and operating lease right-of-use assets of $380 million and $413 million as of December 31, 2020 and 2019, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

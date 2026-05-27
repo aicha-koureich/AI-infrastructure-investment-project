@@ -1,0 +1,20 @@
+FIRM         : EBS (CIK 0001367644) | FY2015
+FILE         : 0001367644_EBS_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 8. Property, plant and equipment
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+For the year ended December 31, 2015, the Company recorded amortization of capitalized software of $0.4 million. There was no amortization of capitalized software costs for the year ended December 31, 2014 and 2013.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

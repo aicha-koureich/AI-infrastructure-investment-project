@@ -1,0 +1,21 @@
+FIRM         : HUM (CIK 0000049071) | FY2023
+FILE         : 0000049071_HUM_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is computed using the straight-line method over estimated useful lives ranging from 3 to 10 years for equipment, 3 to 5 years for computer software, and 10 to 20 years for buildings.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

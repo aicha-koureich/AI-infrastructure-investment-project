@@ -1,0 +1,20 @@
+FIRM         : AMKR (CIK 0001047127) | FY2017
+FILE         : 0001047127_AMKR_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 12
+ASSET CAT.   : Machinery and equipment, computer equipment, Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2017 2016 (In thousands) Land $ 224,894 $ 240,719 Land use rights 26,845 26,845 Buildings and improvements 1,384,846 1,362,007 Machinery and equipment 4,938,291 4,483,523 Software and computer equipment 200,500 205,969 Furniture, fixtures and other equipment 15,722 21,313 Construction in progress 104,910 87,037 Total property, plant and equipment 6,896,008 6,427,413 Less accumulated depreciation and amortization (4,200,943 ) (3,862,765 ) Total property, plant and equipment, net $ 2,695,065 $ 2,564,648
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

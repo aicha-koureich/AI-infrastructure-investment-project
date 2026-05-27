@@ -1,0 +1,21 @@
+FIRM         : ZD (CIK 0001084048) | FY2019
+FILE         : 0001084048_ZD_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 1.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 1.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+The estimated useful lives of property and equipment range from 1 to 10 years. Fixtures, which are comprised primarily of leasehold improvements and equipment under finance leases, are amortized on a straight-line basis over their estimated useful lives or for leasehold improvements, the related lease term, if less.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Average monthly revenue per Cloud Business Customer (ARPU) (1)(2) ||| Quarterly ARPU is calculated using our standard convention of applying the average of the quarter’s beginning and ending base to the total revenue for the quarter. We believe ARPU provides investors an understanding of the average monthly revenues we recognize associated with each Cloud Services customer. As ARPU varies based on fixed subscription fee and variable usage components, we believe it can serve as a measure by which investors can evaluate trends in the types of services, levels of services and the usage levels of those services across our Cloud Services customer base. ||| Cloud Services customers are defined as paying direct inward dialing numbers for fax and voice services, and direct and resellers’ accounts for other services.

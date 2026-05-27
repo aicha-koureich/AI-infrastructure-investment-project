@@ -1,0 +1,24 @@
+FIRM         : HLT (CIK 0001585689) | FY2019
+FILE         : 0001585689_HLT_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2: Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-8.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost. Costs of improvements that extend the economic life or improve service potential are also capitalized. Capitalized costs are depreciated over their estimated useful lives. Costs for normal repairs and maintenance are expensed as incurred.
+
+[VERBATIM — Changement de politique]
+• Performance shares are settled at the end of a three -year performance period with: (i) 50 percent of the awards subject to achievement based on the compound annual growth rate ("CAGR") of the Company's earnings before interest expense, a provision for income taxes and depreciation and amortization ("EBITDA"), adjusted to exclude certain items ("Adjusted EBITDA"), referred to as EBITDA CAGR, and (ii) 50 percent of the awards subject to achievement based on the Company’s free cash flow ("FCF") per share CAGR, referred to as FCF CAGR. The total number of performance shares that vest related to each performance measure is based on an achievement factor that ranges from a zero percent to 200 percent payout, with 100 percent being the target. The grant date fair value per share is equal to the closing stock price on the date of grant.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the Financial Accounting Standards Board ("FASB") issued ASU No. 2018-15 ("ASU 2018-15"), Intangibles – Goodwill and Other – Internal-use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. This ASU aligns guidance for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with guidance for capitalizing implementation costs to develop or obtain internal-use software. Capitalized implementation costs will be amortized over the term of the arrangement and presented in the same line item in the statement of operations as the fees associated with the service contract. We elected, as permitted by the standard, to early adopt ASU 2018-15 on a prospective basis as of January 1, 2019. The adoption did not have a material effect on our consolidated financial statements. ||| Intangibles – Goodwill and Other – Internal-use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. ||| This ASU aligns guidance for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with guidance for capitalizing implementation costs to develop or obtain internal-use software. Capitalized implementation costs will be amortized over the term of the arrangement and presented in the same line item in the statement of operations as the fees associated with the service contract. We elected, as permitted by the standard, to early adopt ASU 2018-15 on a prospective basis as of January 1, 2019. The adoption did not have a material effect on our consolidated financial statements.

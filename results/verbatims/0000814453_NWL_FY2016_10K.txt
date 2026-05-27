@@ -1,0 +1,23 @@
+FIRM         : NWL (CIK 0000814453) | FY2016
+FILE         : 0000814453_NWL_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+,” to help entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement. The amendments provide guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license element, then the customer should account for the software license element arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The Company prospectively adopted this guidance as of January 1, 2016, and the adoption did not have a material impact on the Company’s results of operations, cash flows or financial condition.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles - Goodwill and Other -Internal-Use Software (Subtopic 350-40), Customers Accounting for Fees Paid in a Cloud Computing Arrangement ||| ,” to help entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement. The amendments provide guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license element, then the customer should account for the software license element arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The Company prospectively adopted this guidance as of January 1, 2016, and the adoption did not have a material impact on the Company’s results of operations, cash flows or financial condition. ||| In April 2015, the FASB issued ASU No. 2015-05, “ Intangibles - Goodwill and Other -Internal-Use Software (Subtopic 350-40), Customers Accounting for Fees Paid in a Cloud Computing Arrangement ,” to help entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement. The amendments provide guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license element, then the customer should account for the software license element arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The Company prospectively adopted this guidance as of January 1, 2016, and the adoption did not have a material impact on the Company’s results of operations, cash flows or financial condition.

@@ -1,0 +1,20 @@
+FIRM         : PNR (CIK 0000077360) | FY2023
+FILE         : 0000077360_PNR_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : computer software, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The costs of computer software developed or obtained for internal use are amortized on a straight-line basis unless another systematic and rational basis is more representative of the software’s use. When property or capitalized software is retired or otherwise disposed of, the recorded cost of the assets and their related accumulated depreciation are removed from the Consolidated Balance Sheets and any related gains or losses are included in income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : MATV (CIK 0001000623) | FY2019
+FILE         : 0001000623_MATV_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 . Summary of Significant Accounting Policies
+ASSET CAT.   : capitalized software
+DURÉE        : 7.0-None ans
+POLICY CHANGE: No
+HARDWARE     : TPU (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amortization of capitalized software was $1.9 million , $1.6 million and $1.1 million for the years ended December 31, 2019 , 2018 and 2017 , respectively. Accumulated amortization of capitalized software costs was $36.9 million and $35.5 million at December 31, 2019 and 2018 , respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, "Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract." The new standard provides updated guidance surrounding implementation costs associated with cloud computing arrangements that are service contracts. The provisions of this ASU are effective for years beginning after December 15, 2020, with early adoption permitted. The Company is currently in the process of evaluating the impact of the pronouncement and does not expect the adoption of this guidance to have a material impact on the consolidated financial statements.

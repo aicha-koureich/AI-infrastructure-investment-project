@@ -1,0 +1,20 @@
+FIRM         : ADBE (CIK 0000796343) | FY2013
+FILE         : 0000796343_ADBE_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 19. SELECTED QUARTERLY FINANCIAL DATA (unaudited)
+ASSET CAT.   : equipment, Furniture and fixtures, Server
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2013 2012 Computers and equipment $ 731,767 $ 702,270 Furniture and fixtures 82,904 84,697 Server hardware under capital lease 61,007 35,303 Capital projects in-progress 54,593 63,980 Leasehold improvements 235,859 222,262 Land 106,283 114,941 Buildings 175,325 175,222 Total 1,447,738 1,398,675 Less accumulated depreciation and amortization (787,964 ) (734,373 ) Property and equipment, net $ 659,774 $ 664,302
+
+[VERBATIM — Infrastructure IA]
+Cost of subscription revenue consists of expenses related to operating our network infrastructure, including depreciation expenses and operating lease payments associated with computer equipment, data center costs, salaries and related expenses of network operations, implementation, account management and technical support personnel, amortization of intangible assets and allocated overhead. We enter into contracts with third-parties for the use of their data center facilities and our data center costs largely consist of the amounts we pay to these third-parties for rack space, power and similar items.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Our Digital Media business also includes our Document Services products and solutions, including Acrobat. In fiscal 2013 we continued to drive solid adoption of our Acrobat family of products primarily through license agreements with enterprise customers. During fiscal 2013, a higher percentage of these agreements were ETLAs, which like ETLAs with our creative customers, cause more revenue to be recognized over time rather than at the time of contract signing. This has caused reported Document Services revenue in fiscal 2013 to decline compared to revenue achieved in fiscal 2012, with the benefit of ETLAs improving our growth potential over time. In addition to Acrobat, we also drove strong adoption of subscription based services including Acrobat cloud services and our EchoSign e-signing solution. Combined, adoption of Acrobat through ETLAs and our Document Services subscription offerings helped grow Document Services ARR to ||| Our total deferred revenue of $828.8 million as of November 29, 2013 increased by $209.2 million , or 34% from November 30, 2012 , primarily due to increases in ETLAs and renewals for our Adobe Marketing Cloud services. ||| , primarily due to increases in ETLAs and renewals for our Adobe Marketing Cloud services.

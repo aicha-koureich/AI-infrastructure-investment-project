@@ -1,0 +1,20 @@
+FIRM         : MARA (CIK 0001507605) | FY2015
+FILE         : 0001507605_MARA_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU 2015-05, Intangibles-Goodwill and Other — Internal-Use Software; Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement . Prior to this ASU, U.S. GAAP did not include explicit guidance about a customer’s accounting for fees paid in a cloud computing arrangement. Examples of cloud computing arrangements include software as a service, platform as a service, infrastructure as a service, and other similar hosting arrangements. This ASU provides guidance to customers about whether a cloud computing arrangement includes a software license, in which case the customer should account for such license consistent with the acquisitions of other software licenses. If the cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The ASU does not change the accounting for service contracts. The new standard is effective for us on January 1, 2016 with early adoption permitted. We do not expect the adoption of ASU 2015-05 to have a significant impact on our consolidated financial statements.

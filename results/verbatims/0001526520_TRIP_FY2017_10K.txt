@@ -1,0 +1,23 @@
+FIRM         : TRIP (CIK 0001526520) | FY2017
+FILE         : 0001526520_TRIP_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We record property and equipment at cost, net of accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+Intangible assets with estimable useful lives, or definite-live intangibles, are carried at cost and are amortized on a straight-line basis over their estimated useful lives and reviewed for impairment upon certain triggering events. We routinely review the remaining estimated useful lives of definite-lived intangible assets. If we reduce the estimated useful life assumption, the remaining unamortized balance is amortized over the revised estimated useful life.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue consists of expenses that are directly related or closely correlated to revenue generation, including direct costs, such as ad serving fees, flight search fees, credit card fees and other transaction costs, and data center costs. In addition, cost of revenue includes personnel and overhead expenses, including salaries, benefits, stock-based compensation expense and bonuses for certain customer support personnel who are directly involved in revenue generation.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : ELV (CIK 0001156039) | FY2022
+FILE         : 0001156039_ELV_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-13
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : computer equipment and software, and the lesser of the remaining life of the building lease, if any, or 7 years for furniture and other equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100;B100;B200 (3 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and Equipment: Property and equipment is recorded at cost, net of accumulated depreciation. Depreciation is computed principally by the straight-line method over estimated useful lives ranging from fifteen to thirty years for buildings and improvements, three to five years for computer equipment and software, and the lesser of the remaining life of the building lease, if any, or seven years for furniture and other equipment. Certain costs related to the development or purchase of internal-use software are capitalized and amortized over estimated useful lives ranging from three to ten years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

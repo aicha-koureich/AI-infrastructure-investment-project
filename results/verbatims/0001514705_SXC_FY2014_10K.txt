@@ -1,0 +1,23 @@
+FIRM         : SXC (CIK 0001514705) | FY2014
+FILE         : 0001514705_SXC_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Plants and equipment are depreciated on a straight-line basis over their estimated useful lives. Coke and energy plant, machinery and equipment are depreciated over
+
+[VERBATIM — Changement de politique]
+We revised the estimated useful lives of certain assets to be retired at our Indiana Harbor cokemaking facility and recorded additional depreciation of
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

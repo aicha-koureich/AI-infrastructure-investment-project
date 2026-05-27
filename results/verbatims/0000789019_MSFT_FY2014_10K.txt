@@ -1,0 +1,31 @@
+FIRM         : MSFT (CIK 0000789019) | FY2014
+FILE         : 0000789019_MSFT_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2014
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: NOTE 1 — ACCOUNTING POLICIES
+ASSET CAT.   : equipment, computer software, computer equipment, furniture
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-10.0 ans | 2.0-3.0 ans | 3.0-7.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment is stated at cost and depreciated using the straight-line method over the shorter of the estimated useful life of the asset
+or the lease term. The estimated useful lives of our property and equipment are generally as follows: computer software developed or acquired for internal use, three to seven years; computer equipment, two to three years; buildings and improvements,
+five to 15 years; leasehold improvements, two to 20 years; and furniture and equipment, one to 10 years.
+
+[VERBATIM — Infrastructure IA]
+We will continue to invest in sales, marketing, product support infrastructure, and existing and advanced areas of technology. Additions to
+property and equipment will continue, including new facilities, data centers, and computer systems for research and development, sales and marketing, support, and administrative staff. We expect capital expenditures to increase in coming years in
+support of our cloud and devices strategy. We have operating leases for most U.S. and international sales and support offices and certain equipment. We have not engaged in any related party transactions or arrangements with unconsolidated entities
+or other persons that are reasonably likely to materially affect liquidity or the availability of capital resources.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+With Azure, we are one of very few cloud vendors that run at a scale that meets the needs of businesses of all sizes and complexities.
+We believe the combination of Azure and Windows Server makes us the only company with a public, private, and hybrid cloud platform that can power modern business. We are working to enhance the return on IT investment by enabling enterprises to
+combine their existing datacenters and our public cloud into a single cohesive infrastructure. Businesses can deploy applications in their own datacenter, a partner’s datacenter, or in our datacenters with common security, management, and
+administration across all environments, with the flexibility and scale they desire. ||| Commercial Other , comprising: Enterprise Services, including Premier Support Services and Microsoft Consulting Services; Commercial Cloud, comprising
+Office 365 Commercial, other Microsoft Office online offerings, Dynamics CRM Online, and Microsoft Azure; and certain other commercial products and online services not included in the categories above. ||| Commercial revenue increased $4.2 billion or 9%, due mainly to growth in revenue from our on-premises licensing businesses and Commercial Cloud.
+Collectively, Office Commercial and Office 365 Commercial revenue grew 8%. Collectively, our server products revenue, including Microsoft Azure, grew 13%. Commercial gross margin increased $3.3 billion or 9%, in line with revenue.

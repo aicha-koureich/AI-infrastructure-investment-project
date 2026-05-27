@@ -1,0 +1,20 @@
+FIRM         : NOC (CIK 0001133421) | FY2013
+FILE         : 0001133421_NOC_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 15. UNAUDITED SELECTED QUARTERLY DATA
+ASSET CAT.   : Machinery, equipment, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31 Useful life in years, $ in millions Useful Life 2013 2012 Land and land improvements Up to 40 (1) $ 373 $ 373 Buildings and improvements Up to 45 1,450 1,421 Machinery and other equipment Up to 20 4,243 4,233 Capitalized software costs 3-5 418 413 Leasehold improvements Length of Lease (1) 659 593 Property, plant and equipment, at cost 7,143 7,033 Accumulated depreciation (4,337 ) (4,146 ) Property, plant and equipment, net $2,806 $2,887
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

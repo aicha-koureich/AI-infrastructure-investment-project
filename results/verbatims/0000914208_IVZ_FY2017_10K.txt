@@ -1,0 +1,20 @@
+FIRM         : IVZ (CIK 0000914208) | FY2017
+FILE         : 0000914208_IVZ_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 10 , "Other Comprehensive Income/(Loss)." In the management of its cross-border fund operations, foreign currency forward and swap contracts are 
+ASSET CAT.   : Technology, Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+$ in millions December 31, 2017 December 31, 2016 Technology and Other Equipment 261.0 242.3 Software 621.9 467.4 Land and Buildings 87.5 68.2 Leasehold Improvements 204.4 210.9 Work in Process 44.8 117.0 Property, Equipment and Software, Gross 1,219.6 1,105.8 Less: Accumulated Depreciation (728.9 ) (641.1 ) Property, Equipment and Software, Net 490.7 464.7
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

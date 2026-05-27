@@ -1,0 +1,20 @@
+FIRM         : JKHY (CIK 0000779152) | FY2019
+FILE         : 0000779152_JKHY_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 14: SUBSEQUENT EVENTS
+ASSET CAT.   : EQUIPMENT, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+AND SUBSIDIARIES CONSOLIDATED BALANCE SHEETS (In Thousands, Except Share and Per Share Data) June 30, 2019 June 30, 2018 ASSETS CURRENT ASSETS: Cash and cash equivalents $ 93,628 $ 31,440 Receivables, net 310,080 297,271 Income tax receivable 17,817 21,671 Prepaid expenses and other 106,466 96,069 Deferred costs 35,102 22,991 Assets held for sale 6,355 1,300 Total current assets 569,448 470,742 PROPERTY AND EQUIPMENT, net 272,474 285,550 OTHER ASSETS: Non-current deferred costs 90,084 74,865 Computer software, net of amortization 318,969 288,172 Other non-current assets 134,743 110,299 Customer relationships, net of amortization 100,653 115,034 Other intangible assets, net of amortization 31,514 38,467 Goodwill 666,944 649,929 Total other assets 1,342,907 1,276,766 Total assets $ 2,184,829 $ 2,033,058 LIABILITIES AND STOCKHOLDERS' EQUITY CURRENT LIABILITIES: Accounts payable $ 9,850 $ 30,360 Accrued expenses 120,360 88,764 Deferred revenues 339,752 328,931 Total current liabilities 469,962 448,055 LONG-TERM LIABILITIES: Non-current deferred revenues 54,554 40,984 Deferred income tax liability 217,010 208,303 Other long-term liabilities 14,290 12,872 Total long-term liabilities 285,854 262,159 Total liabilities 755,816 710,214 STOCKHOLDERS' EQUITY Preferred stock - $1 par value; 500,000 shares authorized, none issued — — Common stock - $0.01 par value; 250,000,000 shares authorized; 103,496,026 shares issued at June 30, 2019; 103,278,562 shares issued at June 30, 2018 1,035 1,033 Additional paid-in capital 472,029 464,138 Retained earnings 2,066,073 1,912,933 Less treasury stock at cost 26,507,903 shares at June 30, 2019; 26,107,903 shares at June 30, 2018 (1,110,124 ) (1,055,260 ) Total stockholders' equity 1,429,013 1,322,844 Total liabilities and equity $ 2,184,829 $ 2,033,058
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

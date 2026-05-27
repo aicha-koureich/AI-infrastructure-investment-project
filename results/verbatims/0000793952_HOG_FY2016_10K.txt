@@ -1,0 +1,24 @@
+FIRM         : HOG (CIK 0000793952) | FY2016
+FILE         : 0000793952_HOG_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 22. Subsequent Events
+ASSET CAT.   : equipment and land improvements
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans | 5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+The following useful lives are used to depreciate the various classes of property, plant and equipment: buildings – 30 years; building equipment and land improvements – 7 years; machinery and equipment – 3 to 10 years; furniture and fixtures – 5 years; and software – 3 to 7 years.
+
+[VERBATIM — Changement de politique]
+– The Company periodically evaluates the carrying value of long-lived assets to be held and used when events and circumstances warrant such review. If the carrying value of a long-lived asset is considered impaired, a loss is recognized based on the amount by which the carrying value exceeds the fair value of the long-lived asset for assets to be held and used. The Company also reviews the useful life of its long-lived assets when events and circumstances indicate that the actual useful life may be shorter than originally estimated. In the event that the actual useful life is deemed to be shorter than the original useful life, depreciation is adjusted prospectively so that the remaining book value is depreciated over the revised useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05 Customer's Accounting for Fees Paid in a Cloud Computing Arrangement, which amends ASC 350-40, "Intangibles-Goodwill and Other Internal-Use Software" (ASU 2015-05). ASU 2015-05 provides guidance to customers about whether a cloud computing arrangement includes a software license. If an arrangement includes a software license, the accounting for the license will be consistent with the licenses of other intangible assets. If the arrangement does not include a license, the arrangement will be accounted for as a service contract. The Company adopted ASU 2015-05 prospectively on January 1, 2016. The adoption of ASU 2015-05 had no material impact on the Company's consolidated financial statements.

@@ -1,0 +1,20 @@
+FIRM         : CTAS (CIK 0000723254) | FY2018
+FILE         : 0000723254_CTAS_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : May 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 18. Supplemental Guarantor Information
+ASSET CAT.   : equipment
+DURÉE        : 10.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of internal use software begins when the software is ready for service and continues on the straight-line method over the estimated useful life, generally 10 years. Accumulated depreciation related to internal use software included in accumulated depreciation were $88.8 million and $78.3 million at May 31, 2018 and 2017, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

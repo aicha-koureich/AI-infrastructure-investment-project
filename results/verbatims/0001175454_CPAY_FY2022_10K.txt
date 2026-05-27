@@ -1,0 +1,23 @@
+FIRM         : CPAY (CIK 0001175454) | FY2022
+FILE         : 0001175454_CPAY_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-20
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : computer software, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Software development costs are amortized using the straight-line method over the estimated useful life of the software. Amortization expense for software totaled $59.1 million, $46.7 million and $40.2 million in 2022, 2021 and 2020, respectively.
+
+[VERBATIM — Changement de politique]
+Changes in foreign exchange rates resulted in $18.4 million and $32.7 million decreases to the carrying values of other intangible assets in the years ended December 31, 2022 and 2021, respectively. Amortization expense related to intangible assets for the years ended December 31, 2022, 2021, and 2020 was $227.2 million, $205.5 million, and $184.2 million, respectively. Due to rebranding activity, the Company reassessed the useful lives of certain trademarks. This resulted in a reclassification of $45.6 million from indefinite to finite-lived assets. At the time of change in estimate, which was applied prospectively, the Company tested these trademarks for impairment, which resulted in no impairment charge.
+
+[VERBATIM — Infrastructure IA]
+The Company primarily leases office space, data centers, vehicles, and equipment. Some of our leases contain variable lease payments, typically payments based on an index. The Company’s leases have remaining lease terms of one year to thirty years, some of which include options to extend from one to five years or more. The exercise of lease renewal options is typically at the Company's sole discretion; therefore, the majority of renewals to extend the lease terms are not reasonably certain to exercise and are not included in Right of Use (ROU) assets and lease liabilities. Variable lease payments based on an index or rate are initially measured using the index or rate in effect at lease commencement. Additional payments based on the change in an index or rate are recorded as a period expense when incurred. Lease modifications result in remeasurement of the lease liability as of the modification date.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

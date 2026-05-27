@@ -1,0 +1,24 @@
+FIRM         : CMG (CIK 0001058090) | FY2014
+FILE         : 0001058090_CMG_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Leasehold improvements, property and equipment are recorded at cost. Internal costs directly associated with the acquisition, development
+and construction of a restaurant are capitalized and were $7,756, $9,024 and $10,038 for the years ended December 31, 2014, 2013 and 2012, respectively. Expenditures for major renewals and improvements are capitalized while expenditures for
+minor replacements, maintenance and repairs are expensed as incurred. Depreciation is calculated using the straight-line method over the estimated useful lives of the assets. Leasehold improvements are amortized over the shorter of the lease term,
+which generally includes reasonably assured option periods, or the estimated useful lives of the assets. Upon retirement or disposal of assets, the accounts are relieved of cost and accumulated depreciation and the related gain or loss, if any, is
+reflected in loss on disposal of assets in the consolidated statement of income and comprehensive income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

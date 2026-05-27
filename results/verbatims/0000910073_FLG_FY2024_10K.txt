@@ -1,0 +1,20 @@
+FIRM         : FLG (CIK 0000910073) | FY2024
+FILE         : 0000910073_FLG_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2027-03-17
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 - Summary of Significant Accounting Policies
+ASSET CAT.   : premises
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises, furniture, fixtures, and equipment and leasehold improvements are carried at cost less accumulated depreciation computed on a straight-line basis over the estimated useful lives of the respective assets or the shorter of the related lease term or the estimated useful life of the improvement (generally 20 years for premises and three to ten years for furniture, fixtures, and equipment).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

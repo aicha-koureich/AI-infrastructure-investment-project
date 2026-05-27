@@ -1,0 +1,20 @@
+FIRM         : ADNT (CIK 0001670541) | FY2017
+FILE         : 0001670541_ADNT_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 8
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Costs for molds, dies and other tools used to make products that will be sold under long-term supply arrangements are capitalized within property, plant and equipment if Adient has title to the assets or has the non-cancelable right to use the assets during the term of the supply arrangement. Capitalized items, if specifically designed for a supply arrangement, are amortized over the term of the arrangement; otherwise, amounts are amortized over the estimated useful lives of the assets. The carrying values of assets capitalized in accordance with the foregoing policy are periodically reviewed for impairment whenever events or changes in circumstances indicate that its carrying amount may not be recoverable. At September 30, 2017 and 2016, approximately
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

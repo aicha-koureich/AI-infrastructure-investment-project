@@ -1,0 +1,20 @@
+FIRM         : CVLT (CIK 0001169561) | FY2017
+FILE         : 0001169561_CVLT_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 14. Subsequent Event
+ASSET CAT.   : servers, equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+March 31, 2018 2017 Land $ 9,445 $ 9,445 Buildings 103,244 103,244 Computers, servers and other equipment 37,132 35,274 Furniture and fixtures 15,594 14,912 Leasehold improvements 10,143 7,040 Purchased software 1,425 1,335 Construction in process 57 1,147 177,040 172,397 Less: Accumulated depreciation and amortization (48,428 ) (40,078 ) $ 128,612 $ 132,319
+
+[VERBATIM — Infrastructure IA]
+In fiscal 2018, the Company also started selling appliances that integrate the Company's software with hardware and address a wide-range of business needs and use cases, ranging from support for remote or branch offices with limited IT staff up to large corporate data centers. Revenue related to appliances is recognized when control of the appliances passes to the customer; typically upon delivery. Revenue to date related to appliances has not been significant.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : CCOI (CIK 0001158324) | FY2014
+FILE         : 0001158324_CCOI_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 12. Subsequent Events: (Continued)
+ASSET CAT.   : Software
+DURÉE        : 3.0-8.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Type of asset Depreciation or amortization period Indefeasible rights of use (IRUs) Shorter of useful life or the IRU lease agreement; generally 15 to 20 years Network equipment 3 to 8 years Leasehold improvements Shorter of lease term, including reasonably assured renewal periods, or useful life Software 5 years Owned buildings 40 years Office and other equipment 3 to 7 years System infrastructure 5 to 10 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

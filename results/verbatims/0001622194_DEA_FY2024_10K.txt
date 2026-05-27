@@ -1,0 +1,20 @@
+FIRM         : DEA (CIK 0001622194) | FY2024
+FILE         : 0001622194_DEA_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-08
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B100 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

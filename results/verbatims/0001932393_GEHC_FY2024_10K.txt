@@ -1,0 +1,20 @@
+FIRM         : GEHC (CIK 0001932393) | FY2024
+FILE         : 0001932393_GEHC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-03
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 0 . Subsequent Events
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of property, plant, and equipment
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+(1) Non-current Other primarily consists of indemnity assets associated with separation agreements with GE, capitalized costs associated with cloud computing arrangements, tax receivables, and derivative instruments.

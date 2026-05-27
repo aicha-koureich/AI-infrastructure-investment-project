@@ -1,0 +1,20 @@
+FIRM         : LNTH (CIK 0001521036) | FY2023
+FILE         : 0001521036_LNTH_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-09
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Certain costs to obtain or develop computer software are capitalized and amortized over the estimated useful life of the software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+During 2021, we announced that EXINI was granted 510(k) clearance by the FDA in the U.S. and received CE marking in Europe for aPROMISE. We commercially launched aPROMISE under the name PYLARIFY AI in the U.S. in November 2021. During the second quarter of 2022, we received a new 510(k) clearance for an updated version of our PYLARIFY AI platform. ||| During the third quarter of 2023, in collaboration with Curium, we customized and released our PYLARIFY AI platform for use in Europe. At the European Association of Nuclear Medicine meeting in Vienna, the PYLARIFY AI presentation was awarded the Top Rated Oral Presentation for response evaluation of metastatic prostate cancer patients.

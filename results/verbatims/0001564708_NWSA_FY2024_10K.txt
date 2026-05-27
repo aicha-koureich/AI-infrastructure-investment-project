@@ -1,0 +1,21 @@
+FIRM         : NWSA (CIK 0001564708) | FY2024
+FILE         : 0001564708_NWSA_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-08-13
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 7. PROPERTY, PLANT AND EQUIPMENT
+ASSET CAT.   : equipment, Machinery and equipment, Capitalized software
+DURÉE        : 3.0-50.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-15.0 ans | 5.0-10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Original Useful Lives As of June 30, 2024 2023 (in millions) Property, plant and equipment: Land $ 121 $ 121 Buildings and leaseholds 3 to 50 years 1,527 1,515 Digital set top units and installations 5 to 10 years 1,171 1,142 Machinery and equipment 2 to 20 years 945 1,302 Capitalized software 2 to 15 years 2,206 1,925 Finance lease right-of-use assets 15 years 125 121 Construction in progress 215 275 Total Property, plant and equipment 6,310 6,401 Accumulated depreciation and amortization (a) (4,396) (4,359) Total Property, plant and equipment, net $ 1,914 $ 2,042
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In accordance with ASC 350-24, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract, the Company evaluates upfront costs, including implementation, set-up or other costs (collectively, “implementation costs”), for hosting arrangements under the internal-use software framework. Costs related to preliminary project activities and post implementation activities are expensed as incurred, whereas costs incurred in the development stage are generally capitalized as prepaid assets within Other Current Assets in the Balance Sheet. Capitalized implementation costs are amortized on a straight-line basis over the expected term of the hosting arrangement, which includes consideration of the non-cancellable contractual term and reasonably certain renewals. Amortization of capitalized implementation costs is included in the same line item in the Statements of Operations as the expense for fees for the associated hosting arrangement. Refer to Note 7—Property, Plant and Equipment for further detail. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract,

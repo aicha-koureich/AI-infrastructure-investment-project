@@ -1,0 +1,21 @@
+FIRM         : TAP (CIK 0000024545) | FY2020
+FILE         : 0000024545_TAP_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-07-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 10, "Goodwill and Intangible Assets "
+ASSET CAT.   : information technology, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-15.0 ans | 3.0-5.0 ans | 3.0-10.0 ans | 4.0 ans | 5.0 ans | 7.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+This line item additionally includes amortization costs associated with intangible assets, as well as certain depreciation costs related to non-production equipment and share-based compensation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued authoritative guidance intended to address a customer’s accounting for implementation costs incurred in a cloud computing arrangement that is a service contract. This guidance aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The guidance also requires presentation of the capitalized implementation costs in the statement of financial position and in the statement of cash flows in the same line item that a prepayment for the fees of the associated hosting arrangement would be presented, and the expense related to the capitalized implementation costs to be presented in the same line item in the statement of operations as the fees associated with the hosting element (service) of the arrangement. We adopted this guidance prospectively in the first quarter of 2020, which did not have a material impact on our financial statements. However, the adoption of this guidance resulted in the change in presentation of capitalized implementation costs related to hosting arrangements from properties to other assets on the consolidated balance sheet, as well as the expense related to such costs no longer being classified as depreciation expense and cash flows related to those costs no longer being presented as investing activities beginning in the first quarter of 2020.

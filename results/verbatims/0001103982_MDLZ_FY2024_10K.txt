@@ -1,0 +1,20 @@
+FIRM         : MDLZ (CIK 0001103982) | FY2024
+FILE         : 0001103982_MDLZ_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies
+ASSET CAT.   : software, which do not exceed
+DURÉE        : 7.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in property, plant and equipment and amortized on a straight-line basis over the estimated useful lives of the software, which do not exceed seven years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| We capitalize certain implementation costs of cloud computing arrangements during the application-development stage, consistent with the capitalization criteria used for internal use software. Capitalized costs are recorded to other assets on the consolidated balance sheets and within net cash provided by operating activities on the ||| consolidated statement of cash flows. Capitalized cloud computing arrangement implementation costs are amortized using the straight-line method over the remaining term of the contract.

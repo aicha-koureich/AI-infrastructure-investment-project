@@ -1,0 +1,20 @@
+FIRM         : LYV (CIK 0001335258) | FY2022
+FILE         : 0001335258_LYV_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 3—LONG-LIVED ASSETS, INTANGIBLES, AND GOODWILL
+ASSET CAT.   : equipment, Computer equipment, capitalized software, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment consisted of the following: December 31, 2022 2021 (in thousands) Land, buildings and improvements $ 1,648,488 $ 1,324,278 Computer equipment and capitalized software 910,793 910,581 Furniture and other equipment 535,719 411,403 Construction in progress 244,618 173,865 3,339,618 2,820,127 Less: accumulated depreciation 1,851,955 1,728,198 $ 1,487,663 $ 1,091,929
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

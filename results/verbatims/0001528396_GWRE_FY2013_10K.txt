@@ -1,0 +1,20 @@
+FIRM         : GWRE (CIK 0001528396) | FY2013
+FILE         : 0001528396_GWRE_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 9. Segment Information
+ASSET CAT.   : Computer hardware
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Computer hardware 3 years Software 3 years Furniture and fixtures 3 years Leasehold improvements Shorter of the lease term or estimated useful life
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

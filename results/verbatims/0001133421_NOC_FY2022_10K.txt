@@ -1,0 +1,20 @@
+FIRM         : NOC (CIK 0001133421) | FY2022
+FILE         : 0001133421_NOC_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Machinery, equipment, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31 Useful life in years, $ in millions Useful Life 2022 2021 Land and land improvements Up to 40 (1) $ 741 $ 636 Buildings and improvements Up to 45 3,272 3,019 Machinery and other equipment Up to 20 8,774 8,064 Capitalized software costs 3-5 524 481 Leasehold improvements Lease Term (2) 2,747 2,513 Property, plant and equipment, at cost 16,058 14,713 Accumulated depreciation (7,258) (6,819) Property, plant and equipment, net $ 8,800 $ 7,894
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

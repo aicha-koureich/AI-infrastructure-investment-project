@@ -1,0 +1,23 @@
+FIRM         : VCYT (CIK 0001384101) | FY2016
+FILE         : 0001384101_VCYT_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies (Continued)
+ASSET CAT.   : equipment, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Cost of revenue is expensed as incurred and includes material and service costs, cytopathology testing services performed by a third-party pathology group, stock-based compensation expense, direct labor costs, equipment and infrastructure expenses associated with testing samples, shipping charges to transport samples, and allocated overhead including rent, information technology, equipment depreciation and utilities.
+
+[VERBATIM — Changement de politique]
+-year period, which was management's estimate of the life of the agreement, in part because after that period either party could have terminated the agreement without penalty. Effective August 12, 2014, the Company extended the amortization period from January 2016 to June 2016, the modified earliest period either party could terminate the agreement without penalty. The Company accounted for the change in accounting estimate prospectively. The agreement was terminable by either party with
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

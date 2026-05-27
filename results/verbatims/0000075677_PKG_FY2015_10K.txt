@@ -1,0 +1,23 @@
+FIRM         : PKG (CIK 0000075677) | FY2015
+FILE         : 0000075677_PKG_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : technology, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The costs attributable to these software systems are amortized over their estimated useful lives based on various factors such as the effects of obsolescence, technology, and other economic factors.
+
+[VERBATIM — Changement de politique]
+, respectively, of incremental depreciation expense primarily related to shortening the useful lives of assets related to the restructuring at the DeRidder, Louisiana, mill.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

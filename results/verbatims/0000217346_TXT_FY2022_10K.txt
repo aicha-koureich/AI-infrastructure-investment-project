@@ -1,0 +1,23 @@
+FIRM         : TXT (CIK 0000217346) | FY2022
+FILE         : 0000217346_TXT_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 19.
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, principally depreciation
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment are recorded at cost and are depreciated primarily using the straight-line method.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : FDX (CIK 0001048911) | FY2021
+FILE         : 0001048911_FDX_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-05-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1: DESCRIPTION OF BUSINESS SEGMENTS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : EQUIPMENT
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Expenditures for major additions, improvements and flight equipment modifications are capitalized when such costs are determined to extend the useful life of the asset or are part of the cost of acquiring the asset.
+
+[VERBATIM — Changement de politique]
+Prior to the amendment of the Five-Year Credit Agreement and entry into the current 364-Day Credit Agreement on March 16, 2021, our credit agreements contained a financial covenant requiring us to maintain a ratio of debt to consolidated earnings (excluding noncash retirement plans MTM adjustments, noncash pension service costs and noncash asset impairment charges) before interest, taxes, depreciation and amortization (“adjusted EBITDA”) of not more than 3.75 to 1.0, calculated as of May 31, 2021 on a rolling four-quarters basis. Effective March 16, 2021, we are required to maintain a ratio of debt to adjusted EBITDA of not more than 3.5 to 1.0, calculated as of the end of the applicable quarter on a rolling four-quarter basis. The ratio of our debt to adjusted EBITDA was 1.97 to 1.0 at May 31, 2021.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+PROPERTY AND EQUIPMENT . Expenditures for major additions, improvements and flight equipment modifications are capitalized when such costs are determined to extend the useful life of the asset or are part of the cost of acquiring the asset. Expenditures for equipment overhaul costs of engines or airframes prior to their operational use are capitalized as part of the cost of such assets as they are costs required to ready the asset for its intended use. Maintenance and repairs costs are charged to expense as incurred, except for certain aircraft engine maintenance costs incurred under third-party service agreements. These agreements result in costs being expensed based on cycles or hours flown and are subject to annual escalation. These service contracts transfer risk to third-party service providers and generally fix the amount we pay for maintenance to the service provider as a rate per cycle or flight hour, in exchange for maintenance and repairs under a predefined maintenance program. We capitalize certain direct internal and external costs associated with the development of internal-use software, including implementation of cloud computing service arrangements. Gains and losses on sales of property used in operations are classified within operating expenses and historically have been nominal. ||| In August 2018, the FASB issued ASU 2018-15 that reduces the complexity of accounting for costs of implementing a cloud computing service arrangement and aligns the accounting for capitalizing implementation costs of hosting arrangements, regardless of whether they convey a license to the hosted software. We adopted this standard effective June 1, 2020 and applied these changes prospectively. The adoption of this standard did not have a material impact on our consolidated financial statements and related disclosures. ||| . Expenditures for major additions, improvements and flight equipment modifications are capitalized when such costs are determined to extend the useful life of the asset or are part of the cost of acquiring the asset. Expenditures for equipment overhaul costs of engines or airframes prior to their operational use are capitalized as part of the cost of such assets as they are costs required to ready the asset for its intended use. Maintenance and repairs costs are charged to expense as incurred, except for certain aircraft engine maintenance costs incurred under third-party service agreements. These agreements result in costs being expensed based on cycles or hours flown and are subject to annual escalation. These service contracts transfer risk to third-party service providers and generally fix the amount we pay for maintenance to the service provider as a rate per cycle or flight hour, in exchange for maintenance and repairs under a predefined maintenance program. We capitalize certain direct internal and external costs associated with the development of internal-use software, including implementation of cloud computing service arrangements. Gains and losses on sales of property used in operations are classified within operating expenses and historically have been nominal.

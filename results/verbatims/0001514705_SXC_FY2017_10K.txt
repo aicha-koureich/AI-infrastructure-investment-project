@@ -1,0 +1,23 @@
+FIRM         : SXC (CIK 0001514705) | FY2017
+FILE         : 0001514705_SXC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 20. Supplemental Condensed Combining and Consolidating Financial Information
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Properties, plants and equipment (net of accumulated depreciation of $733.2 million and $625.9 million at December 31, 2017 and 2016, respectively)
+
+[VERBATIM — Changement de politique]
+The unaudited pro forma combined results of operations reflect historical results adjusted for interest expense, depreciation adjustments based on the fair value of acquired property, plant and equipment, amortization of acquired identifiable intangible assets, and income tax expense.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : ZTS (CIK 0001555280) | FY2021
+FILE         : 0001555280_ZTS_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Significant Accounting Policies
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in Property, plant and equipment and are amortized using the straight-line method over the estimated useful life of 5 to 10 years. Depreciation expense for capitalized software was $52 million in 2021 , $46 million in 2020 and $27 million in 2019.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

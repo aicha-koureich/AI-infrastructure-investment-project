@@ -1,0 +1,23 @@
+FIRM         : VST (CIK 0001692819) | FY2017
+FILE         : 0001692819_VST_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2017
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+On December 22, 2017, President Trump signed into law a comprehensive tax reform bill (the TCJA), that significantly reforms the Internal Revenue Code. The TCJA, among other things, contains significant changes to corporate taxation, including a reduction of the corporate income tax rate, a partial limitation on the deductibility of business interest expense, limitation of the deduction for certain net operating losses to 80% of current year taxable income, an indefinite net operating loss carryforward, immediate deductions for certain new investments instead of deductions for depreciation expense over time and the modification or repeal of many business deductions and credits. While we expect a beneficial impact from the TCJA from the reduction in corporate tax rates and immediate deductions for certain new investments, we continue to examine the tax reform legislation, as its overall impact is uncertain, and note that certain provisions of the TCJA or its interaction with existing law could adversely affect the Company's business and financial condition. The impact of this tax reform legislation on our stockholders is also uncertain and could be adverse.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

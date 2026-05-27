@@ -1,0 +1,21 @@
+FIRM         : JYNT (CIK 0001612630) | FY2014
+FILE         : 0001612630_JYNT_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1: Nature of Operations and Summary of Significant Accounting Policies
+ASSET CAT.   : software is amortized on a straight line basis over its estimated useful life, generally
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Internal use software is amortized on a straight line basis over its estimated useful life, generally 5 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

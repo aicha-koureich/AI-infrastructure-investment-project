@@ -1,0 +1,20 @@
+FIRM         : BFH (CIK 0001101215) | FY2015
+FILE         : 0001101215_BFH_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+During the year ended December 31, 2015, Epsilon announced new multi-year agreements with Nature's Way, a dietary supplement brand, to serve as the digital agency of record across a number of brands and to provide CRM marketing services, and with Turner Broadcasting System, Inc., a Time Warner company, to provide analytics and data services to support the Turner Data Cloud infrastructure .  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

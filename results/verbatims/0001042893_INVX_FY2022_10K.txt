@@ -1,0 +1,20 @@
+FIRM         : INVX (CIK 0001042893) | FY2022
+FILE         : 0001042893_INVX_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are carried at cost, with depreciation provided on a straight-line basis over their estimated useful lives. We capitalize costs incurred to enhance, improve and extend the useful lives of our property and equipment and expense costs incurred to repair and maintain the existing condition of our assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

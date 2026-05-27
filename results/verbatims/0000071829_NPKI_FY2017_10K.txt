@@ -1,0 +1,23 @@
+FIRM         : NPKI (CIK 0000071829) | FY2017
+FILE         : 0000071829_NPKI_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 4 — Property, Plant and Equipment
+ASSET CAT.   : Machinery and equipment, Computer hardware, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In thousands) 2017 2016 Land $ 11,504 $ 11,505 Buildings and improvements 132,322 121,967 Machinery and equipment 284,337 248,229 Computer hardware and software 33,738 30,544 Furniture and fixtures 5,926 5,829 Construction in progress 8,607 19,417 476,434 437,491 Less accumulated depreciation (215,419 ) (186,700 ) 261,015 250,791 Composite mats (rental fleet) 101,968 100,543 Less accumulated depreciation - composite mats (47,663 ) (47,680 ) 54,305 52,863 Property, plant and equipment, net $ 315,320 $ 303,654
+
+[VERBATIM — Changement de politique]
+, we revised our estimated useful lives and end-of-life residual values for composite mats included in our rental fleet as of January 1, 2016 resulting in a decrease in depreciation expense of approximately
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

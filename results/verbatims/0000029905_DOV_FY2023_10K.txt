@@ -1,0 +1,21 @@
+FIRM         : DOV (CIK 0000029905) | FY2023
+FILE         : 0000029905_DOV_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, machinery and equipment, furniture and fixtures
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+When property or equipment is sold or otherwise disposed of, the related cost and accumulated depreciation are removed from the respective accounts and the gain or loss realized on disposition is reflected in earnings. The Company depreciates its assets on a straight-line basis over their estimated useful lives as follows: buildings and improvements 5 to 31.5 years; machinery and equipment 3 to 15 years; furniture and fixtures 3 to 7 years; vehicles 3 to 7 years; and software 3 to 10 years.
+
+[VERBATIM — Infrastructure IA]
+The organic revenue decline was due to reduced shipments for single-use components used in biopharmaceutical manufacturing, as well as a decline in connector demand in core medical and industrial end markets, due to channel and end customer focus on inventory reductions. This was partially offset by customer pricing, along with continued demand strength in thermal connectors, hygienic dosing systems, plastics and polymer processing solutions equipment, and bearings and compression components. We expect segment revenue growth in 2024, mostly driven by the acquisition of FW Murphy, with stable organic revenue performance year-over-year. We expect positive demand trends in connectors supported by recent specification wins in high performance computing applications and improving customer sentiment in bioprocessing, as well as continued solid demand in hygienic dosing systems and bearings and compression components, offset by slower expected demand in our polymer processing equipment business after several very strong years.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

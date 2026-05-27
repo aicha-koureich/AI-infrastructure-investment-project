@@ -1,0 +1,23 @@
+FIRM         : PEG (CIK 0000788784) | FY2017
+FILE         : 0000788784_PEG_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3. Early Plant Retirements
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The cost of nuclear fuel is capitalized within Property, Plant and Equipment and amortized to fuel expense using the units-of-production method.
+
+[VERBATIM — Changement de politique]
+due to the significant shortening of the expected economic useful lives of Hudson and Mercer.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

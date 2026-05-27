@@ -1,0 +1,21 @@
+FIRM         : DXC (CIK 0001688568) | FY2020
+FILE         : 0001688568_DXC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-04-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 - Summary of Significant Accounting Policies
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B200 (2 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-15.0 ans | 4.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Amortization of capitalized software development costs is determined separately for each software product.
+
+[VERBATIM — Infrastructure IA]
+The Company has operating and finance leases for data centers, corporate offices and certain equipment. Our leases have remaining lease terms of one to 12 years, some of which include options to extend the leases for up to 10 years, and some of which include options to terminate the leases within one to three years.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+August 2018 ASU 2018-15, "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract" ||| This update helps entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement (hosting arrangement) by providing guidance for determining when the arrangement includes a software license. Entities have the option to apply this standard prospectively to all implementation costs incurred after the date of adoption or retrospectively. ||| Date Issued and ASU Date Adopted and Method Description Impact June 2016 ASU 2016-13, “Financial Instruments - Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments” April 1, 2020 Modified retrospective This update requires the measurement and recognition of expected credit losses using the current expected credit loss model for financial assets held at amortized cost, which includes the Company’s trade accounts receivable, certain financial instruments and contract assets. It replaces the existing incurred loss impairment model with an expected loss methodology. The recorded credit losses are adjusted each period for changes in expected lifetime credit losses. The standard requires a cumulative effect adjustment to the statement of financial position as of the beginning of the first reporting period in which the guidance is effective. The Company adopted this standard using the modified retrospective approach and recorded an immaterial cumulative effect adjustment in retained earnings as of April 1, 2020. August 2018 ASU 2018-15, "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract" April 1, 2020 Prospective This update helps entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement (hosting arrangement) by providing guidance for determining when the arrangement includes a software license. Entities have the option to apply this standard prospectively to all implementation costs incurred after the date of adoption or retrospectively. The Company adopted this standard using the prospective method and determined that the adoption of ASU 2018-15 had no material impact to its condensed consolidated financial statements.

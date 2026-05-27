@@ -1,0 +1,20 @@
+FIRM         : RMD (CIK 0000943819) | FY2023
+FILE         : 0000943819_RMD_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-06-30
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment, Machinery and equipment, Computer equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment 2023 2022 Machinery and equipment $ 443,781 $ 390,634 Computer equipment and software 189,568 199,671 Furniture and fixtures 61,663 54,098 Vehicles and aircraft 20,587 19,231 Clinical, demonstration and rental equipment 115,696 105,440 Leasehold improvements 91,499 80,855 Land 52,055 51,864 Buildings 231,019 229,502 Property, plant and equipment, at cost $ 1,205,868 $ 1,131,295 Accumulated depreciation and amortization (668,012) (633,114) Property, plant and equipment, net $ 537,856 $ 498,181
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

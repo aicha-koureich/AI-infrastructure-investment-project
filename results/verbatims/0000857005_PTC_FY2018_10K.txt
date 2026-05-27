@@ -1,0 +1,20 @@
+FIRM         : PTC (CIK 0000857005) | FY2018
+FILE         : 0000857005_PTC_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We sell subscription and perpetual licenses to our software, support for perpetual licenses, cloud services and professional services. ||| of contracts to maintain new and/or previously purchased perpetual licenses, for which revenue is recognized ratably over the term of the contract. Our subscription revenue includes an immaterial amount of Software as a Service (SaaS) and cloud services for which revenue is generally recognized ratably over the term of the contract. Consulting and training professional services engagements typically result from sales of new licenses, and for which revenue is recognized over the term of the engagement. Our revenue recognition practices are described below in “ ||| an increase of $8.6 million in cloud services hosting costs; of which $3.7 million is included in cost of license and subscription revenue.

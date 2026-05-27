@@ -1,0 +1,21 @@
+FIRM         : QLYS (CIK 0001107843) | FY2024
+FILE         : 0001107843_QLYS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-06
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 4. Property and Equipment, Net
+ASSET CAT.   : Computer equipment, Computer software, Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+December 31, 2024 2023 (in thousands) Computer equipment $ 187,281 $ 179,002 Computer software 26,229 26,133 Leasehold improvements 23,429 20,924 Scanner appliances 18,978 18,369 Furniture, fixtures and equipment 5,204 6,699 Total property and equipment 261,121 251,127 Less: accumulated depreciation and amortization (230,772) (218,528) Property and equipment, net $ 30,349 $ 32,599
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

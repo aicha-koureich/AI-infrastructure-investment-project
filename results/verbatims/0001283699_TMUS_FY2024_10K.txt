@@ -1,0 +1,21 @@
+FIRM         : TMUS (CIK 0001283699) | FY2024
+FILE         : 0001283699_TMUS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2028-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 9 – Debt
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 8.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in Property and equipment, net on our Consolidated Balance Sheets and are amortized on a straight-line basis over the estimated useful life of the asset.
+
+[VERBATIM — Infrastructure IA]
+Property and equipment consists of buildings and equipment, including certain network server equipment, wireless communications systems, leasehold improvements, capitalized software, leased wireless devices and construction in progress. Wireless communications systems include assets to operate our wireless network and information technology data centers, including tower assets, leasehold improvements and asset retirement costs. Leasehold improvements include asset improvements other than those related to the wireless network.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+On May 24, 2024, we entered into a securities purchase agreement with United States Cellular Corporation (“UScellular”), Telephone and Data Systems, Inc., and USCC Wireless Holdings, LLC, pursuant to which, among other things, we will acquire substantially all of UScellular’s wireless operations and select AWS, PCS, 600 MHz, 700 MHz and other spectrum assets for an aggregate purchase price of approximately $4.4 billion, payable in cash and the assumption of up to $2.0 billion of debt through an exchange offer to be made to certain UScellular debtholders prior to closing. To the extent any debtholders do not participate in the exchange, their bonds will continue as obligations of UScellular, and the cash portion of the purchase price will be correspondingly increased. The transaction is expected to close in mid-2025, subject to customary closing conditions and receipt of certain regulatory approvals. Upon closing of the transaction, we expect to account for the UScellular transaction as a business combination and to consolidate the acquired operations.

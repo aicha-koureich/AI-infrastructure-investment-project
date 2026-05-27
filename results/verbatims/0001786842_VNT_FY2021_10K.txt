@@ -1,0 +1,21 @@
+FIRM         : VNT (CIK 0001786842) | FY2021
+FILE         : 0001786842_VNT_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-24
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 6. PROPERTY, PLANT AND EQUIPMENT
+ASSET CAT.   : equipment, Machinery and equipment, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+The classes of property, plant and equipment as of December 31 are summarized as follows: ($ in millions) 2021 2020 Land and improvements $ 6.1 $ 6.1 Buildings and leasehold improvements 68.2 65.5 Machinery and equipment 282.6 265.6 Gross property, plant and equipment 356.9 337.2 Less: accumulated depreciation (256.3) (240.4) Property, plant and equipment, net (a) $ 100.6 $ 96.8 (a) Includes property, plant and equipment, net in the United States of $73.8 million and $74.0 million as of December 31, 2021 and 2020, respectively. Amortization of these software costs for the years ended December 31, 2021 and 2020 was $0.6 million and $0.4 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

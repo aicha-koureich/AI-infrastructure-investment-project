@@ -1,0 +1,20 @@
+FIRM         : FLEX (CIK 0000866374) | FY2015
+FILE         : 0000866374_FLEX_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 21. QUARTERLY FINANCIAL DATA (UNAUDITED)
+ASSET CAT.   : Machinery and equipment, Furniture, computer equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciable Life (In Years) As of March 31, 2016 2015 (In thousands) Machinery and equipment 3 - 10 $ 3,187,590 $ 2,928,903 Buildings 30 1,144,798 1,067,837 Leasehold improvements up to 30 397,340 459,926 Furniture, fixtures, computer equipment and software 3 - 7 477,203 440,878 Land — 127,927 123,633 Construction-in-progress — 178,851 140,786 5,513,709 5,161,963 Accumulated depreciation and amortization (3,256,076 ) (3,069,796 ) Property and equipment, net $ 2,257,633 $ 2,092,167
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+includes our mobile devices business, including smart phones; our consumer electronics business, including connected living, wearable electronics including digital sport, game consoles, and connectivity devices; and our high-volume computing business, including various supply chain solutions for notebook personal computer ("PC"), tablets, and printers; in addition, our CTG group is expanding its business relationships to include supply chain optimization for non-electronics products such as shoes and clothing; Industrial and Emerging Industries ("IEI"), which is comprised of semiconductor and capital equipment, office solutions, household industrial and lifestyle, industrial automation and kiosks, energy and metering, and lighting; and ||| segment is primarily attributable to broad softness in our telecom businesses directly due to decreased demand for our customer products from North American carriers. The decrease in revenue in our CTG segment is primarily due to softness in our personal computing business.

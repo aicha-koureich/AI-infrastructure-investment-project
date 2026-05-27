@@ -1,0 +1,21 @@
+FIRM         : AMG (CIK 0001004434) | FY2023
+FILE         : 0001004434_AMG_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment and furniture and fixtures range from
+DURÉE        : 2.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0 ans | 3.0 ans | 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+The estimated useful lives of office equipment and furniture and fixtures range from two years to ten years and three years to ten years, respectively. Computer software developed or obtained for internal use is amortized over the estimated useful life of the software, generally two years to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

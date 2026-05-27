@@ -1,0 +1,20 @@
+FIRM         : MMS (CIK 0001032220) | FY2021
+FILE         : 0001032220_MMS_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+• Our balance sheet includes a number of long-lived assets, including property and equipment, capitalized software, operating lease right-of-use assets, deferred contract costs, and intangible assets. These assets are depreciated or amortized over their estimated useful economic lives but are subject to impairment if events indicate that the carrying amounts may not be recoverable.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the Financial Accounting Standards Board ("FASB") issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) - Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . This accounting guidance requires customers in cloud-computing arrangements to identify and defer certain implementation costs in a manner broadly consistent with that of existing guidance on the costs to develop or obtain internal-use software. Costs capitalized under this guidance will be expensed over the term of the cloud computing arrangement. We adopted this guidance on October 1, 2020, using a prospective approach. ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) - Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| . This accounting guidance requires customers in cloud-computing arrangements to identify and defer certain implementation costs in a manner broadly consistent with that of existing guidance on the costs to develop or obtain internal-use software. Costs capitalized under this guidance will be expensed over the term of the cloud computing arrangement. We adopted this guidance on October 1, 2020, using a prospective approach.

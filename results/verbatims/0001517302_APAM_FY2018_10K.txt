@@ -1,0 +1,23 @@
+FIRM         : APAM (CIK 0001517302) | FY2018
+FILE         : 0001517302_APAM_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 16. Property and Equipment
+ASSET CAT.   : equipment, Computer software, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+The composition of property and equipment at December 31, 2018 and 2017 are as follows: As of December 31, 2018 2017 Computers and equipment $ 8,000 $ 7,770 Computer software 4,554 4,372 Furniture and fixtures 10,566 8,658 Leasehold improvements 37,551 27,357 Total Cost 60,671 48,157 Less: Accumulated depreciation (31,533 ) (27,132 ) Property and equipment, net of accumulated depreciation $ 29,138 $ 21,025
+
+[VERBATIM — Changement de politique]
+Deferred Tax Asset - Amortizable Basis Amounts Payable Under Tax Receivable Agreements December 31, 2016 $ 653,942 $ 586,246 2017 Follow-On Offering 113,419 96,406 2017 Holdings Common Unit Exchanges 28,134 23,914 Amortization (42,891 ) — Payments under TRAs (1) — (30,234 ) Tax Reform - change in federal corporate tax rate (341,669 ) (290,418 ) Change in estimate (245 ) (501 ) December 31, 2017 $ 410,690 $ 385,413 2018 Follow-On Offering 7,687 6,534 2018 Holdings Common Unit Exchanges 16,199 13,770 Amortization (29,851 ) — Payments under TRAs (1) — (36,111 ) Change in estimate (10 ) (251 ) December 31, 2018 $ 404,715 $ 369,355 (1) Interest payments of $115 thousand and $85 thousand were paid in addition to these TRA payments for the years ended December 31, 2018 and 2017, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract, which aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The capitalized implementation costs will be expensed over the term of the hosting arrangement. The Company currently expenses implementation costs in hosting arrangements as the costs are incurred. The new guidance will be effective on January 1, 2020. The Company is currently evaluating the impact of adoption on its consolidated financial statements, but expects certain types of costs will be capitalized that would have previously been expensed as incurred. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract,

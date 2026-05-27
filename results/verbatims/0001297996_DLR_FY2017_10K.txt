@@ -1,0 +1,21 @@
+FIRM         : DLR (CIK 0001297996) | FY2017
+FILE         : 0001297996_DLR_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 20. Quarterly Financial Information (Digital Realty Trust, L.P.) (unaudited)
+ASSET CAT.   : Technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 7.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+As of December 31, 2017 (in thousands) Property Type Land Acquired Ground Lease Buildings and Improvements (1) Tenant Improvements Accumulated Depreciation and Amortization Net Investment in Properties Internet Gateway Data Centers $ 109,844 $ — $ 1,940,495 $ 99,174 $ (778,659 ) $ 1,370,854 Data Centers 1,010,306 11,150 13,147,042 453,712 (2,430,984 ) 12,191,226 Technology Manufacturing 11,959 — 1,564 76 (31 ) 13,568 Technology Office 2,067 — 23,029 — (16,779 ) 8,317 Other 2,165 — 103,275 78 (11,774 ) 93,744 $ 1,136,341 $ 11,150 $ 15,215,405 $ 553,040 $ (3,238,227 ) $ 13,677,709
+
+[VERBATIM — Infrastructure IA]
+high-quality, carrier-neutral data centers in Europe from Equinix, which we refer to as the European Portfolio Acquisition. The purchase price was  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

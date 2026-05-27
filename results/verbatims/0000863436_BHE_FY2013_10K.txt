@@ -1,0 +1,28 @@
+FIRM         : BHE (CIK 0000863436) | FY2013
+FILE         : 0000863436_BHE_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note
+5—Goodwill and Other Intangible Assets
+ASSET CAT.   : Not disclosed
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of
+December 31, 2013 and 2012, purchased software, net of accumulated amortization
+totaled $2.5 million and $1.9 million,
+respectively. The accumulated amortization of purchased software costs at
+December 31, 2013 and 2012 was $25.0 million
+and $24.1 million, respectively. Capitalized
+purchased software costs are amortized straight-line over the estimated useful
+life of the related software, which ranges from 3 to 7 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

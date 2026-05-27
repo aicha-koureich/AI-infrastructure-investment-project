@@ -1,0 +1,23 @@
+FIRM         : EFC (CIK 0001411342) | FY2015
+FILE         : 0001411342_EFC_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+For debt securities (including non-Agency MBS) that are deemed not to be of high credit quality at the time of purchase, interest income is recognized based on the effective interest method. For purposes of determining the effective interest rate, management estimates the future expected cash flows of its investment holdings based on assumptions including, but not limited to, assumptions for future prepayment rates, default rates, and loss severities (each of which may in turn incorporate various macro-economic assumptions, such as future housing prices). These assumptions are re-evaluated not less than quarterly. Principal write-offs are generally treated as realized losses. Changes in projected cash flows, as applied to the current amortized cost of the security, may result in a prospective change in the yield/interest income recognized on such securities.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

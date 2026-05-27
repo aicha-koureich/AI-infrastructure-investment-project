@@ -1,0 +1,20 @@
+FIRM         : LLY (CIK 0000059478) | FY2024
+FILE         : 0000059478_LLY_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 19: Segment Information
+ASSET CAT.   : equipment, computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2024 2023 2022 Interest income $ 175.2 $ 173.6 $ 62.8 Interest expense 780.6 485.9 331.6 Depreciation and amortization 1,766.6 1,527.3 1,522.5 Asset impairment, restructuring, and other special charges 860.6 67.7 244.6 Earnings (loss) in equity method investments 89.8 (10.1) (138.0) Income taxes 2,090.4 1,314.2 561.6 Expenditures for long-lived assets (1) 5,560.8 3,830.2 2,289.2 (1) Includes expenditures for property and equipment and computer software costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : TTSH (CIK 0001552800) | FY2019
+FILE         : 0001552800_TTSH_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued a final standard which provides guidance on the accounting for costs of implementation activities performed in a cloud computing arrangement that is a service contract. The standard requires customers of cloud computing services to recognize an intangible asset for the software license and, to the extent that payments attributable to the software license are made over time, a liability is also recognized. The standard also allows customers of cloud computing services to capitalize certain implementation costs. The standard is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019. The standard will become effective for us at the beginning of our fiscal year 2020. We have evaluated the effect of the standard on our consolidated financial statements and related disclosures, a nd have determined the impact will be immaterial. ||| license are made over time, a liability is also recognized. The standard also allows customers of cloud computing services to capitalize certain implementation costs. The standard is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019. The standard will become effective for

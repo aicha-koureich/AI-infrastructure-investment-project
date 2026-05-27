@@ -1,0 +1,20 @@
+FIRM         : FHB (CIK 0000036377) | FY2024
+FILE         : 0000036377_FHB_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment and the shorter of the lease term or remaining useful life for
+DURÉE        : 3.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment, including leasehold improvements, are stated at cost less accumulated depreciation and amortization. Depreciation and amortization are computed on a straight-line basis over the estimated useful lives of 7 to 39 years for premises, 3 to 20 years for equipment and the shorter of the lease term or remaining useful life for leasehold improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : BRBR (CIK 0001772016) | FY2021
+FILE         : 0001772016_BRBR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 — SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : software. Total depreciation expense was $2.5, $2.9 and $3.1 in fiscal 2021
+DURÉE        : 1.0-3.0 ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-3.0 ans | 2.0-13.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated useful lives range from 2 to 13 years for machinery and equipment; 1 to 33 years for buildings, building improvements and leasehold improvements; and 1 to 3 years for software.
+
+[VERBATIM — Infrastructure IA]
+Prior to the IPO, the Company used certain functions and services performed by Post. These functions and services included legal, finance, internal audit, treasury, information technology support, insurance and tax matters, the use of office and/or data center space, payroll processing services and tax compliance services. Costs for these functions and services performed by Post were allocated to the Company based on a reasonable activity base (including specific costs, revenue, net assets and headcount, or a combination of such items) or another reasonable method. For the year ended September 30, 2019, allocated costs were $12.6, which included $6.7 of costs related to the separation from Post. Costs related to the separation from Post were $0.2 and $1.9 for the years ended September 30, 2021 and 2020, respectively. Allocated costs and costs related to the separation from Post were included in “Selling, general and administrative expenses” in the Consolidated Statements of Operations.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

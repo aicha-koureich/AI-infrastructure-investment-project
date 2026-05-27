@@ -1,0 +1,20 @@
+FIRM         : ACIC (CIK 0001401521) | FY2015
+FILE         : 0001401521_ACIC_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 12
+ASSET CAT.   : Computer hardware, furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Year Ended December 31, 2015 2014 Land $ 2,114 $ 2,114 Building and building improvements 4,298 1,469 Computer hardware and software 13,574 6,001 Office furniture and equipment 1,831 1,319 Leasehold improvements 141 141 Total, at cost 21,958 11,044 Less: accumulated depreciation and amortization (4,823 ) (3,022 ) Property and equipment, net $ 17,135 $ 8,022
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : PANW (CIK 0001327567) | FY2014
+FILE         : 0001327567_PANW_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 17. Selected Quarterly Financial Data (Unaudited)
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+July 31, 2014 2013 Computers, equipment, and software $ 38,147 $ 27,239 Leasehold improvements 21,258 10,176 Demonstration units 14,832 11,401 Furniture and fixtures 5,129 2,746 Total property and equipment 79,366 51,562 Less: accumulated depreciation (30,622 ) (19,476 ) Total property and equipment, net $ 48,744 $ 32,086
+
+[VERBATIM — Infrastructure IA]
+We derive revenue from sales of our products and services, which together comprise our platform. Product revenue is generated from sales of our Next-Generation Firewall, which is available in hardware and virtualized form factors. Our Next-Generation Firewall incorporates our proprietary PAN-OS operating system, which provides a consistent set of capabilities across our entire product line. These capabilities include: application visibility and control (App-ID), user identification (User-ID), site-to-site virtual private network (VPN), remote access Secure Sockets Layer (SSL) VPN, and Quality-of-Service (QoS). Our products are designed for different performance requirements throughout an organization, ranging from the PA-200, which is designed for enterprise remote offices, to the PA-7050, which is designed for data centers and high-speed networks. The same firewall functionality that is delivered in the hardware appliances is also available in the VM-Series virtual firewalls, which secure virtualized and cloud-based computing environments. Multiple firewalls can jointly use our WildFire appliance, WF-500, which identifies, analyzes, and blocks known and unknown malware in a private cloud-based environment. Our platform can be centrally managed in both virtualized and hardware appliances across an organization with our Panorama product. In addition, our GlobalProtect appliance, GP-100, provides mobile device management, malware detection, and shares device state information to safely enable mobile devices for business use.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

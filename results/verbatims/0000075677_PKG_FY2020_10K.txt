@@ -1,0 +1,20 @@
+FIRM         : PKG (CIK 0000075677) | FY2020
+FILE         : 0000075677_PKG_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-01-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 13
+ASSET CAT.   : Machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Year Ended December 31, 2020 2019 Buildings $ 0.3 $ 0.3 Machinery and equipment 28.5 28.5 Total 28.8 28.8 Less accumulated amortization (19.6 ) (18.1 ) Total $ 9.2 $ 10.7 Current portion of finance lease obligations $ 1.6 $ 1.5 Long-term portion of finance lease obligations 14.4 16.0 Total finance lease obligations $ 16.0 $ 17.5
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+During 2019, the Company early adopted ASU 2018-15, Intangibles – Goodwill and Other – Internal Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract , which includes amendments to align the accounting for costs incurred to implement a cloud computing arrangement that is a service contract with the guidance on capitalizing costs associated with developing or obtaining internal-use software. As of December 31, 2020, capitalized costs associated with cloud computing arrangements were $4.0 million. These costs were immaterial as of December 31, 2019. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

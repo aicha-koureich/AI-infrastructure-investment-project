@@ -1,0 +1,23 @@
+FIRM         : ANDE (CIK 0000821026) | FY2018
+FILE         : 0000821026_ANDE_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 3. Property, Plant and Equipment
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense on property, plant and equipment amounted to $46.5 million , $48.3 million and $48.9 million for the years ended 2018 , 2017 and 2016 , respectively.
+
+[VERBATIM — Changement de politique]
+In December 2017, the 2017 Tax Act was enacted. The 2017 Tax Act includes a number of changes to previous U.S. tax laws that impact the company, most notably a reduction of the U.S. corporate income tax rate from 35 percent to 21 percent for tax years beginning after December 31, 2017. The 2017 Tax Act also provides for a one-time transition tax on certain foreign earnings and the acceleration of depreciation for certain assets placed into service after September 27, 2017 as well as prospective changes which began in 2018, including repeal of the domestic manufacturing deduction, capitalization of research and development expenditures, additional limitations on executive compensation and limitations on the deductibility of interest.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract. This ASU reduces the complexity of accounting for costs of implementing a cloud computing service arrangement. This standard aligns the accounting for implementation costs of hosting arrangements, regardless of whether they convey a license to the hosted software. The guidance is effective for fiscal years beginning after December 15, 2020. The Company is still evaluating the impact of this standard.

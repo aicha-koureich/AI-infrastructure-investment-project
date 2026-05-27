@@ -1,0 +1,21 @@
+FIRM         : QDEL (CIK 0001906324) | FY2022
+FILE         : 0001906324_QDEL_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-8.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Asset type Useful life Building and building improvements 7-47 years Machinery and equipment 3-15 years Customer leased instruments 3-8 years Computer software 3-5 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Amortization of deferred cloud computing implementation costs ||| Fiscal Year Ended (In millions) 2022 2021 2020 North America $ 1,614.6 $ 1,028.5 $ 1,205.2 EMEA 31.7 28.1 55.5 China 104.1 24.1 30.5 Other 92.7 43.0 28.0 Total segment Adjusted EBITDA 1,843.1 1,123.7 1,319.2 Corporate (1) (512.1) (152.9) (203.9) Depreciation and amortization (283.6) (52.7) (48.8) Acquisition and integration costs (136.0) (9.6) (3.7) Interest expense, net (75.7) (5.8) (8.5) Unwind inventory fair value adjustment (60.6) — — Loss on extinguishment of debt (24.0) — (10.4) (Loss) gain on investments (5.8) 1.5 — Amortization of deferred cloud computing implementation costs (5.4) (3.7) (1.1) Employee compensation charges and other costs (3.7) — — Impairment of long-lived assets (2.8) — — EU medical device regulation transition costs (2) (1.5) — — Tax indemnification expense (0.3) — — Change in fair value of acquisition contingencies (0.1) (0.2) (1.4) Derivative mark-to-market gain (loss) 4.4 — (1.1) Income before provision for income taxes $ 735.9 $ 900.3 $ 1,040.3

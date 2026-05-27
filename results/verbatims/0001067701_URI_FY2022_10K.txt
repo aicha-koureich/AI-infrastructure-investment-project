@@ -1,0 +1,23 @@
+FIRM         : URI (CIK 0001067701) | FY2022
+FILE         : 0001067701_URI_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-25
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-40.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost and depreciated over their estimated useful lives using the straight-line method. The range of estimated useful lives for property and equipment is three to 40 years.
+
+[VERBATIM — Changement de politique]
+(1) Depreciation of rental equipment and non-rental depreciation were adjusted for the fair value mark-ups, and the changes in useful lives and salvage values, of the equipment acquired in the General Finance acquisition.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

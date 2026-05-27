@@ -1,0 +1,20 @@
+FIRM         : TTMI (CIK 0001116942) | FY2021
+FILE         : 0001116942_TTMI_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 3, 2022
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We are a leading global printed circuit board (PCB) manufacturer, focusing on quick-turn and volume production of technologically advanced PCBs and backplane assemblies as well as a global designer and manufacturer of high-frequency radio frequency (RF) and microwave components and assemblies. We focus on providing time-to-market and volume production of advanced technology products and offer a one-stop design, engineering and manufacturing solution to our customers. This one-stop design, engineering and manufacturing solution allows us to align technology development with the diverse needs of our customers and to enable them to reduce the time required to develop new products and bring them to market. We serve a diversified customer base consisting of approximately 1,600 customers in various markets throughout the world, including aerospace and defense, data center computing, automotive components, medical, industrial and instrumentation related products, as well as networking/communications infrastructure products. Our customers include both original equipment manufacturers (OEMs) and electronic manufacturing services (EMS) providers.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

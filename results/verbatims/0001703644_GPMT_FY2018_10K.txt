@@ -1,0 +1,23 @@
+FIRM         : GPMT (CIK 0001703644) | FY2018
+FILE         : 0001703644_GPMT_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Year Ended December 31, 2018 2017 2016 Cash Flows From Operating Activities: Net income $ 63,075 $ 53,305 $ 35,357 Adjustments to reconcile net income to net cash provided by operating activities: Accretion of discounts and net deferred fees on loans held-for-investment (12,852 ) (7,963 ) (7,244 ) Amortization of deferred debt issuance costs on convertible senior notes and securitized debt obligations 3,785 4,573 1,375 Equity based compensation 3,496 1,087 — Depreciation of fixed assets 19 — — Net change in assets and liabilities: Increase in accrued interest receivable (3,163 ) (3,360 ) (2,178 ) Increase in prepaid expenses (665 ) (390 ) — Increase in other assets (3,203 ) (5,072 ) (5,431 ) Increase in accrued interest payable 3,275 2,464 582 Increase (decrease) in unearned interest income 313 54 (12 ) Increase in income taxes payable — — (70 ) (Decrease) increase in other payables to affiliates — (21,460 ) 13,173 Increase (decrease) in other liabilities 3,339 6,258 (47 ) Increase in 10% cumulative redeemable preferred stock — 1,000 — Net cash provided by operating activities 57,419 30,496 35,505 Cash Flows From Investing Activities: Originations, acquisitions and additional fundings of loans held-for-investment, net of deferred fees (1,319,529 ) (1,032,478 ) (775,731 ) Proceeds from repayment of loans held-for-investment 468,734 100,466 1,377 Principal payments on available-for-sale securities — — 2,202 Principal payments on held-to-maturity securities 15,473 6,083 15,008 Decrease (increase) in due from counterparties — 249 (249 ) Net cash used in investing activities (835,322 ) (925,680 ) $ (757,393 )
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

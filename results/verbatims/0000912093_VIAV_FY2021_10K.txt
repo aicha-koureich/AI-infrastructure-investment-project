@@ -1,0 +1,20 @@
+FIRM         : VIAV (CIK 0000912093) | FY2021
+FILE         : 0000912093_VIAV_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-07-03
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Basis of Presentation
+ASSET CAT.   : equipment, machinery and equipment, furniture, office equipment
+DURÉE        : 2.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost, net of accumulated depreciation. Depreciation is computed using a straight-line method, over the estimated useful lives of the assets: building and improvements 10 to 50 years; machinery and equipment 2 to 20 years; and furniture, fixtures, software and office equipment 2 to 10 years.
+
+[VERBATIM — Infrastructure IA]
+SE net revenue decreased by $11.4 million, or 11.1%, during fiscal 2021 when compared to fiscal 2020. This was primarily driven by decreased volume in our Data Center and Growth Assurance products.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

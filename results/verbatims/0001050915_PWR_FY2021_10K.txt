@@ -1,0 +1,23 @@
+FIRM         : PWR (CIK 0001050915) | FY2021
+FILE         : 0001050915_PWR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 18. DETAIL OF CERTAIN ACCOUNTS:
+ASSET CAT.   : machinery, equipment, Office equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful December 31, Lives in Years 2021 2020 Land N/A $ 86,013 $ 69,389 Buildings and leasehold improvements 5-30 318,499 249,106 Operating machinery, equipment and vehicles 1-25 2,603,149 2,297,120 Office equipment, furniture and fixtures and information technology systems 3-10 259,776 244,113 Construction work in progress N/A 91,502 20,900 Finance lease assets and rental purchase options (see Note 11) 5-20 64,256 52,160 Property and equipment, gross 3,423,195 2,932,788 Less — Accumulated depreciation and amortization (1,503,498) (1,372,132) Property and equipment, net of accumulated depreciation $ 1,919,697 $ 1,560,656
+
+[VERBATIM — Changement de politique]
+These pro forma combined historical results were adjusted for the following: a reduction of interest and other financing expenses as a result of the repayment of outstanding indebtedness of the acquired businesses; an increase in interest and other financing expenses as a result of the cash consideration paid; an increase in amortization expense due to the intangible assets recorded; elimination of inter-company sales; changes in depreciation expense to adjust acquired property and equipment to the acquisition date fair value and to conform with Quanta’s accounting policies; an increase in the number of outstanding shares of Quanta common stock; reclassifications to conform the acquired businesses’ presentation to Quanta’s accounting policies; and elimination of certain transaction costs incurred by one of the acquired businesses and directly related to the acquisition of the business by Quanta.
+
+[VERBATIM — Infrastructure IA]
+During the year ended December 31, 2021, Quanta also acquired the following businesses: three businesses located in the United States that provide electric power construction and related services; a communications services business located in the United States that performs data center connection services; a business located in the United States that designs, develops and holds a certification for the manufacture of personal protective breathing equipment and related monitoring devices primarily used in the refining and petrochemical industries, including in connection with catalyst services; a business that provides turnaround and catalyst change-out services to the refining and petrochemical industries primarily in the United States and Canada; a business located in Canada that provides front-end land services for infrastructure development projects in Canada and the United States; a business located in the United States that primarily provides horizontal directional drilling services; and a communications services business located in the United States. The aggregate consideration for these acquisitions was $328.8 million paid or payable in cash (subject to certain adjustments) and 187,093 shares of Quanta common stock, which had a fair value of $16.9 million as of the applicable acquisition dates. The results of the manufacturing business and the turnaround and catalyst change-out business are generally included in the Underground Utility and Infrastructure Solutions segment and the results of the remaining businesses are generally included in the Electric Power Infrastructure Solutions segment.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

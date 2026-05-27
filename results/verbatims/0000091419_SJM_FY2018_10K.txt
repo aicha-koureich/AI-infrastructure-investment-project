@@ -1,0 +1,20 @@
+FIRM         : SJM (CIK 0000091419) | FY2018
+FILE         : 0000091419_SJM_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 17: Quarterly Results of Operations (Unaudited)
+ASSET CAT.   : machinery and equipment
+DURÉE        : 1.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant, and Equipment: Property, plant, and equipment is recognized at cost and is depreciated on a straight-line basis over the estimated useful life of the asset ( 3 to 20 years for machinery and equipment, 1 to 7 years for capitalized software costs, and 5 to 40 years for buildings, fixtures, and improvements).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Other – Internal-Use Software (Subtopic 350-40) Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| related to third-party cloud computing services during 2020.

@@ -1,0 +1,23 @@
+FIRM         : UPBD (CIK 0000933036) | FY2023
+FILE         : 0000933036_UPBD_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-06-30
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+The following unaudited pro forma combined results of operations present our financial results as if the acquisition of Acima had been completed on January 1, 2021. These unaudited pro forma results may not necessarily reflect the actual results of operations that would have been achieved, nor are they necessarily indicative of future results of operations. The unaudited pro forma information reflects the step-up and step-down depreciation and amortization adjustments for the fair value of the assets acquired, adjustments to stock compensation expense as a result of Aggregate Stock Consideration subject to restricted stock awards, the adjustments in interest expense due to the elimination of historical debt and placement of the new debt, and the related adjustments to the income tax provision. In addition, the pro forma net income has been adjusted to include transaction expenses and other non-recurring costs as of January 1, 2021. The unaudited pro forma financial information is as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

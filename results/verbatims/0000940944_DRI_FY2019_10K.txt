@@ -1,0 +1,20 @@
+FIRM         : DRI (CIK 0000940944) | FY2019
+FILE         : 0000940944_DRI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : May 26, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Capitalized software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software, which is a component of other assets, is recorded at cost less accumulated amortization. Capitalized software is amortized using the straight-line method over estimated useful lives ranging from 3 to 10 years. The cost of capitalized software and related accumulated amortization was as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40). This update aligns the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. This update is effective for us in the first quarter of fiscal 2021, however, we elected to early adopt this guidance during the quarter ended November 25, 2018, using a prospective approach. The adoption of this guidance did not have a material impact on our consolidated financial statements.

@@ -1,0 +1,20 @@
+FIRM         : FAF (CIK 0001472787) | FY2016
+FILE         : 0001472787_FAF_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued updated guidance intended to clarify the accounting treatment for cloud computing arrangements that include software licenses. Under the updated guidance, if a cloud computing arrangement includes a software license, the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The updated guidance is effective for interim and annual reporting periods beginning after December 15, 2015, with early adoption permitted. The Company elected to adopt the updated guidance prospectively for all arrangements entered into or materially modified after the effective date. The adoption of this guidance did not have a material impact on the Company’s consolidated financial statements. The financial statement line items impacted by the adoption of the updated guidance include other intangible assets, net and depreciation and amortization. See Note 6 Other Intangible Assets to the consolidated financial statements for further information on the Company’s internal-use software licenses.

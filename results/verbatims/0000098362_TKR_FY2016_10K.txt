@@ -1,0 +1,20 @@
+FIRM         : TKR (CIK 0000098362) | FY2016
+FILE         : 0000098362_TKR_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2016-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 - Significant Accounting Policies
+ASSET CAT.   : computer software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, net is valued at cost less accumulated depreciation. The useful lives are approximately 30 years for buildings, three to ten years for computer software and three to 20 years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU 2015-05, "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement." ASU 2015-05 provides guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. Prior to the issuance of this new accounting guidance, there was no explicit guidance about a customer's accounting for fees paid in a cloud computing arrangement. On January 1, 2016, the Company adopted the provisions of ASU 2015-05 on a prospective basis. The adoption of ASU 2015-05 did not have a material impact on the Company's results of operations or financial condition.

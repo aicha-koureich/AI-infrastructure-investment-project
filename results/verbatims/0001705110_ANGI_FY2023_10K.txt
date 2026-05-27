@@ -1,0 +1,24 @@
+FIRM         : ANGI (CIK 0001705110) | FY2023
+FILE         : 0001705110_ANGI_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Summary of Significant Accounting Policies
+ASSET CAT.   : software, which is typically
+DURÉE        : 2.0-3.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-3.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation of internally developed software commences when the software is available for release for its intended use and is recorded on a straight-line basis over the estimated useful life of the software, which is typically 2-3 years.
+
+[VERBATIM — Changement de politique]
+Adjusted Earnings Before Interest, Taxes, Depreciation and Amortization (“Adjusted EBITDA”) is a non-GAAP financial measure. See “ Principles of Financial Reporting ” for the definition of Adjusted EBITDA and a reconciliation of net
+
+[VERBATIM — Infrastructure IA]
+We believe that the facilities for our management and operations are generally adequate for our current and near-term future needs. Our facilities, most of which are leased, consist of executive and administrative offices, sales offices and data centers. We do not anticipate any future problems renewing or obtaining suitable leases for us or any of our businesses. We currently lease approximately 152,000 square feet of office for our corporate headquarters, Angi business and administrative and sales force personnel in Denver, Colorado.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Purchase obligations include (i) $13.0 million for the final payment related to a three-year cloud computing arrangement, with the final payment expected to be made by September 2024, (ii) $8.4 million related to technology contracts spend, and (iii) $3.5 million related to media spend to be made in 2024.

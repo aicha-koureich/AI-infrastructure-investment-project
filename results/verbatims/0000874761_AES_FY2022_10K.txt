@@ -1,0 +1,23 @@
+FIRM         : AES (CIK 0000874761) | FY2022
+FILE         : 0000874761_AES_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. GENERAL AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment — Property, plant and equipment are stated at cost, net of accumulated depreciation. The cost of renewals and improvements that extend the useful life of property, plant and equipment are capitalized.
+
+[VERBATIM — Changement de politique]
+During the year ended December 31, 2021, the Company increased the asset retirement obligations and corresponding assets at AES Clean Energy and Chile by $93 million and $36 million, respectively. The increase at AES Clean Energy is mostly due to the initial recognition of asset retirement obligations as a result of the New York Wind acquisition. The increase in Chile is primarily due to shortened useful lives of the Ventanas and Angamos coal plants, additional liabilities incurred due to the development of the Andes Solar 2b plant, and an upward revision of estimated cash flows at the Los Cururos plant.
+
+[VERBATIM — Infrastructure IA]
+Decrease at AES Clean Energy driven by increased costs associated with growing the business, partially offset by higher revenue from new projects and the Company’s agreement to supply Google’s data centers with 24/7 carbon-free energy  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

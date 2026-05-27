@@ -1,0 +1,28 @@
+FIRM         : CUBI (CIK 0001488813) | FY2013
+FILE         : 0001488813_CUBI_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 3 – SIGNIFICANT ACCOUNTING POLICIES AND BASIS OF PRESENTATION
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Bank premises and equipment are stated at cost less accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+Estimates of cash flows from purchased credit-impaired (“PCI”) loans were revised during the third quarter of 2012
+due to a conversion to a more sophisticated and precise loan valuation system. In accordance with the guidance in ASC 310-30, interest income is based on an acquired loan’s expected cash flows. Complex models are needed to calculate loan-level
+and/or pool level expected cash flows in accordance with ASC 310-30. The loan data analysis provided by the new software is a more precise quantification of future cash flows than the analysis that was previously calculated manually. Upon conversion
+to the new software, acquisition date loan values were loaded into the system and the new software calculated their fair values using its complex valuation model. Conversion to the new system was completed in September 2012. To adjust the
+acquisition date loan balances recorded on Customers Bank’s books to the amounts calculated by the new software, approximately $4.5 million was recognized in other non-interest income in the third quarter of 2012. The revised valuation for the
+PCI acquisition date loan balances due to the conversion to the new software is accounted for prospectively as a change in accounting estimate.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

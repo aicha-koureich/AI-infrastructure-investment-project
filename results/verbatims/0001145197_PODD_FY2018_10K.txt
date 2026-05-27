@@ -1,0 +1,20 @@
+FIRM         : PODD (CIK 0001145197) | FY2018
+FILE         : 0001145197_PODD_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 9 . Property and Equipment, Net
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense related to property and equipment was $13.8 million , $12.7 million and $12.6 million for the years ended December 31, 2018 , 2017 and 2016 , respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| ("ASU 2018-15"). ASU 2018-15 requires that entities capitalize certain costs to implement a cloud computing arrangement that is service contract consistent with the rules applicable to internal use software capitalization projects. The Company adopted this new guidance effective January 1, 2019 prospectively. Upon adoption, the Company will defer eligible costs related to the implementation of cloud computing arrangements within other current and non-current assets and will amortize these costs to the same income statement line as the associated cloud operating expenses. ||| In August 2018, the FASB issued ASU 2018-15, Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ("ASU 2018-15"). ASU 2018-15 requires that entities capitalize certain costs to implement a cloud computing arrangement that is service contract consistent with the rules applicable to internal use software capitalization projects. The Company adopted this new guidance effective January 1, 2019 prospectively. Upon adoption, the Company will defer eligible costs related to the implementation of cloud computing arrangements within other current and non-current assets and will amortize these costs to the same income statement line as the associated cloud operating expenses.

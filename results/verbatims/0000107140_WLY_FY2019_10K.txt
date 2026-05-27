@@ -1,0 +1,21 @@
+FIRM         : WLY (CIK 0000107140) | FY2019
+FILE         : 0000107140_WLY_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : April 30, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 22. Subsequent Events
+ASSET CAT.   : Capitalized Software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized Software Amortization Expense
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles-Goodwill and Other-Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract ||| In August 2018, the FASB issued ASU 2018-15, “Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract.” ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The standard is effective for us on May 1, 2020, and interim periods within that fiscal year, with early adoption permitted. This ASU may be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. We will adopt the new standard on May 1, 2020 prospectively to all implementation costs that will be incurred on or after the date of adoption. The impact will be based on future implementation costs for cloud computing arrangements, which we currently do not expect to have a material impact on our consolidated financial statements and related disclosures.

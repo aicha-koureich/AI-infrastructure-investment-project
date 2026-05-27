@@ -1,0 +1,21 @@
+FIRM         : WYNN (CIK 0001174922) | FY2021
+FILE         : 0001174922_WYNN_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 19 - Business Combination
+ASSET CAT.   : trademarks
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+In addition, the Company acquired software totaling $31.5 million, which is included in Property and equipment in the table above and is being amortized over an estimated useful life of three years. The estimated useful lives approximate the pattern in which the economic benefits of the intangible assets and software are expected to be realized.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

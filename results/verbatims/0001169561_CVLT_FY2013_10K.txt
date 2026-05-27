@@ -1,0 +1,20 @@
+FIRM         : CVLT (CIK 0001169561) | FY2013
+FILE         : 0001169561_CVLT_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 12. Subsequent Event
+ASSET CAT.   : servers, equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+March 31, 2014 2013 Construction in process $ 79,182 $ 10,162 Computers, servers and other equipment 27,827 25,513 Leasehold improvements 8,911 8,279 Furniture and fixtures 2,409 2,183 Purchased software 2,291 1,970 120,620 48,107 Less: Accumulated depreciation and amortization (31,719 ) (26,995 ) $ 88,901 $ 21,112
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In February 2013, our CommVault Simpana 10.0 software suite (“Simpana 10”) was made available for public release. We believe Simpana 10 extends our data protection and archiving leadership to deliver secure, self-service access from mobile devices, speed the adoption of cloud computing and extract value from Big Data. Simpana 10 includes major technology advancements such as Enhanced IntelliSnap™ snapshot management; Simpana OnePass™ with Exchange; tighter integration with Microsoft Hyper-V, VMware vSphere 5.1 and vCloud Director 5.1; workflow automation; fourth-generation parallel deduplication; and customizable web-based reporting, dashboards and cloud-based analytics. Our Simpana 10 architecture efficiently stores all protected data in a virtual repository, called ContentStore, and opens access to simplify the way end users search, analyze and repurpose data across an enterprise.

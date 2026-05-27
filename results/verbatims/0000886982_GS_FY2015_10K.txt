@@ -1,0 +1,23 @@
+FIRM         : GS (CIK 0000886982) | FY2015
+FILE         : 0000886982_GS_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 13.
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, leasehold improvements and equipment in the table above is net of accumulated depreciation and amortization of $7.77 billion and
+$8.98 billion as of December 2015 and December 2014, respectively. Substantially all property and equipment is
+depreciated on a straight-line basis over the useful life of the asset. Certain costs of software
+developed or obtained for internal use are capitalized and amortized on a straight-line basis over the useful life of the software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

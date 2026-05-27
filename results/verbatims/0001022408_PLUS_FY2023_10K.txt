@@ -1,0 +1,20 @@
+FIRM         : PLUS (CIK 0001022408) | FY2023
+FILE         : 0001022408_PLUS_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2024
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Managed services for infrastructure and cloud proactively monitor and manage a broad range of technologies on-premises and in the cloud with services such as Managed Services for Azure, Managed WebEx Calling, Managed WebEx Call Center, network and firewall management and Managed Power Protection to ensure support of a broad cross-section of technologies spanning multiple Original Equipment Manufacturer (OEM) solutions. These solutions are built in a flexible subscription model to monitor, manage, and maximize business critical technologies—including cloud, security, data center, mobility, and collaboration based on an ITIL Framework backed with SOC 1 Type 2 and SOC 2 Type 2 attestations. We also provide e Plus® Automated Virtual Assistant (AVA) for Collaboration Spaces. e Plus AVA TM uses robotic process automation accompanied by e Plus Managed Services to present an exceptional experience for users in video-enabled conference rooms and workspaces.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Managed services for infrastructure and cloud proactively monitor and manage a broad range of technologies on-premises and in the cloud with services such as Managed Services for Azure, Managed WebEx Calling, Managed WebEx Call Center, network and firewall management and Managed Power Protection to ensure support of a broad cross-section of technologies spanning multiple Original Equipment Manufacturer (OEM) solutions. These solutions are built in a flexible subscription model to monitor, manage, and maximize business critical technologies—including cloud, security, data center, mobility, and collaboration based on an ITIL Framework backed with SOC 1 Type 2 and SOC 2 Type 2 attestations. We also provide e Plus® Automated Virtual Assistant (AVA) for Collaboration Spaces. e Plus AVA TM uses robotic process automation accompanied by e Plus Managed Services to present an exceptional experience for users in video-enabled conference rooms and workspaces. ||| Our solutions are comprised of world class leading technologies from partners such as Amazon Web Services (“AWS”), Arista Networks, Check Point, Cisco Systems, Citrix, Commvault, Crowdstrike, Deepwatch, Dell EMC, F5 Networks, Foresite, Fortinet, Gigamon, HPE, Juniper Networks, Lenovo, Microsoft, NetApp, Nutanix, NVIDIA, Oracle, Palo Alto Networks, Proficio, Pure Storage, Rubrik, Splunk, Varonis, and VMware by Broadcom, among many others. ||| Our scale and financial resources have enabled us to continue investing in engineering and technology resources to stay at the forefront of technology trends. Our cloud/hosted, proprietary software solutions are focused on giving our customers more control over their IT supply chain, by automating and optimizing the procurement and management of their owned, leased, and consumption-based assets. These solutions have expanded to include private marketplace experiences to our customers to support platforms such as those on AWS marketplace.

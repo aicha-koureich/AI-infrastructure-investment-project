@@ -1,0 +1,21 @@
+FIRM         : CASY (CIK 0000726958) | FY2013
+FILE         : 0000726958_CASY_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : April 30, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization Depreciation of property and equipment and amortization of capital lease assets are computed principally by the straight-line method over the following estimated
+useful lives:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

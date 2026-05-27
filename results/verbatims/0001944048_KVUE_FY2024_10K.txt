@@ -1,0 +1,20 @@
+FIRM         : KVUE (CIK 0001944048) | FY2024
+FILE         : 0001944048_KVUE_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 3. Property, Plant, and Equipment and Cloud Computing Arrangements
+ASSET CAT.   : Machinery and equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(Dollars in Millions) December 29, 2024 December 31, 2023 Machinery and equipment $ 2,250 $ 2,447 Buildings and building equipment 1,599 1,749 Software 102 1,491 Construction in progress 542 480 Land and land improvements 57 76 Total property, plant, and equipment, gross 4,550 6,243 Less: accumulated depreciation (2,701) (4,201) Total property, plant, and equipment, net (1) $ 1,849 $ 2,042
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+(3) Depreciation includes the amortization of integration and development costs capitalized in connection with cloud computing arrangements. ||| Depreciation includes the amortization of integration and development costs capitalized in connection with cloud computing arrangements.

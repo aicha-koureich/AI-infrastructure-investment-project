@@ -1,0 +1,21 @@
+FIRM         : KLAC (CIK 0000319201) | FY2021
+FILE         : 0000319201_KLAC_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1— DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100;B200 (2 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 7.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost, net of accumulated depreciation. Depreciation of property and equipment is based on the straight-line method over the estimated useful lives of the assets.
+
+[VERBATIM — Infrastructure IA]
+The increase in product revenues by 21% in the fiscal year ended June 30, 2021 compared to the prior year is primarily attributable to strong demand for many of our products, especially our inspection and metrology portfolios, due to the continued growth in the 5G market and increased demand for high-performance computing and advanced packaging. These increases were partially offset by softer demand and oversupply in the display markets.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued an ASU to align the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The guidance clarifies which costs should be capitalized including the cost to acquire the license and the related implementation costs. We adopted this update beginning in the first quarter of our fiscal year ending June 30, 2021 on a prospective basis and the adoption had no material impact on our Consolidated Financial Statements.

@@ -1,0 +1,20 @@
+FIRM         : PTC (CIK 0000857005) | FY2015
+FILE         : 0000857005_PTC_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+A majority of our software license sales to date have been perpetual licenses, where customers own the software license and revenue is recognized at the time of sale. Due to evolving customer preferences, our plan to increase our recurring revenue base, as well as acquisitions we have made in the IoT and cloud services space, we began offering our products under a subscription license model in 2015. A small but growing percentage of our business now consists of ratably recognized subscriptions. Under a subscription, customers do not own the software license but pay a periodic fee for the right to use our software, including access to technical support. Beginning October 1, 2015 we launched the second phase of our subscription program with the goal of accelerating our transition to a predominantly subscription-based licensing model. To drive that acceleration, we launched new pricing and packaging for subscriptions and new sales incentive compensation plans to drive our business toward subscription. We are targeting that by 2018, a significant majority of our L&S bookings could be subscription. In 2016, we expect that subscription bookings will increase over 2015, but will still constitute significantly less than a majority of bookings. If a greater percentage of our customers elect our subscription offering in 2016 than our base case assumption, it will have an adverse impact on revenue, operating margin, cash flow and EPS growth relative to our expectations. In addition, subscription orders tend to be smaller in size than perpetual deals. ||| Through 2014, we classified revenue in three categories: 1) license; 2) service; and 3) support. Because we introduced subscription-based licenses in 2015, we have revised our revenue reporting. Effective with the beginning of the first quarter of 2015, we report revenue as follows: 1) license and subscriptions (L&S); 2) support; and 3) professional services. L&S revenue includes perpetual license revenue, subscription revenue and cloud services revenue. Cloud service offerings were previously reflected in service revenue and cost of service revenue. Consulting and training service revenue and consulting and training cost of service revenue are now referred to as professional services revenue and cost of professional services revenue. The discussion that follows reflects our revised reporting structure. ||| Gross margin as a percentage of total revenue in 2015 compared to 2014 reflects lower L&S margins due to a higher mix of cloud services revenue (due to our acquisition of Axeda), which has lower margins than license revenue, and higher support volume. Support revenue comprised 54% of our total revenue in 2015 compared to 51% in both 2014 and 2013.

@@ -1,0 +1,20 @@
+FIRM         : ASRT (CIK 0001808665) | FY2020
+FILE         : 0001808665_ASRT_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-12
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, less accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Accounting for Cloud Computing Arrangements (Subtopic 350-40), which provides new guidance on the accounting for implementation, set-up, and other upfront costs incurred in a hosted cloud computing arrangement. Under the new guidance, entities will apply the same criteria for capitalizing implementation costs as they would for an internal-use software license arrangement. Effective January 1, 2020, the Company adopted the standard using the prospective approach to eligible costs incurred on or after the date of adoption. The adoption of this guidance did not have a material impact on the Company’s condensed consolidated financial statements. ||| Accounting for Cloud Computing Arrangements ||| (Subtopic 350-40), which provides new guidance on the accounting for implementation, set-up, and other upfront costs incurred in a hosted cloud computing arrangement. Under the new guidance, entities will apply the same criteria for capitalizing implementation costs as they would for an internal-use software license arrangement. Effective January 1, 2020, the Company adopted the standard using the prospective approach to eligible costs incurred on or after the date of adoption. The adoption of this guidance did not have a material impact on the Company’s condensed consolidated financial statements.

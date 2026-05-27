@@ -1,0 +1,20 @@
+FIRM         : GNRC (CIK 0001474735) | FY2023
+FILE         : 0001474735_GNRC_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment, including internal use software and software to provide a service, is recorded at cost and depreciated using the straight-line method over the estimated useful lives of the assets, which are summarized below (in years).
+
+[VERBATIM — Infrastructure IA]
+In June 2022, the Company acquired Electronic Environments Co. LLC and related subsidiaries (collectively EEC). Headquartered in Marlborough, Massachusetts, EEC is an industrial generator distributor as well as a provider of data center and telecom facility design, build, maintenance, and repair services.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Property and equipment, including internal use software and software to provide a service, is recorded at cost and depreciated using the straight-line method over the estimated useful lives of the assets, which are summarized below (in years). Costs of leasehold improvements are amortized over the lesser of the term of the lease (including renewal option periods) or the estimated useful lives of the improvements. The Company capitalizes significant software enhancements. Implementation costs incurred in cloud computing arrangements that are service contracts are recorded in prepaid expenses and other assets and operating lease and other assets on the Consolidated Balance Sheets and are amortized over the expected service period. Finance lease right of use assets are included in property and equipment. Refer to Note 10, “Leases,” to the consolidated financial statements for the Company's lease disclosure.

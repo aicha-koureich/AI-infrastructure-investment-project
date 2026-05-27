@@ -1,0 +1,20 @@
+FIRM         : COO (CIK 0000711404) | FY2024
+FILE         : 0000711404_COO_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3. Acquisitions and Joint Venture for further information.
+ASSET CAT.   : equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We record property, plant, and equipment at cost. We compute depreciation expense using the straight-line method over the estimated useful lives of the assets. Useful lives are generally 3 to 15 years except for buildings which are depreciated over 30 to 40 years and leasehold improvements, which we amortize over the shorter of the useful life or the lease term. We charge maintenance and repairs to expense as we incur them.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| The Company capitalizes certain costs related to the acquisition and development of internal use software, including implementation costs incurred in a cloud computing arrangement, during the application development stages of projects. Capitalized implementation costs are amortized on a straight-line basis over the expected term of the hosting arrangement, which includes consideration of the non-cancellable contractual term and reasonably certain renewals. Costs incurred during the preliminary project or the post-implementation/operation stages of the project are expensed as incurred. Implementation costs are included in “Other assets” in our Consolidated Balance Sheets. Amortization of capitalized implementation costs is included in the same line item in the Consolidated Statements of Income as the expense for fees for the associated hosting arrangement.

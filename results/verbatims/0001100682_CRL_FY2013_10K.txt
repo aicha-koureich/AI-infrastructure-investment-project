@@ -1,0 +1,23 @@
+FIRM         : CRL (CIK 0001100682) | FY2013
+FILE         : 0001100682_CRL_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 28, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 12. DISCONTINUED OPERATIONS
+ASSET CAT.   : Machinery and equipment, Furniture and fixtures, Computer hardware, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 28, 2013 December 29, 2012 Land $ 40,157 $ 40,812 Buildings 694,074 697,547 Machinery and equipment 367,244 356,960 Leasehold improvements 37,959 34,916 Furniture and fixtures 24,013 25,681 Vehicles 3,859 3,736 Computer hardware and software 112,328 107,171 Construction in progress 42,075 46,186 Total 1,321,709 1,313,009 Less accumulated depreciation (645,527 ) (595,989 ) Net property, plant and equipment $ 676,182 $ 717,020
+
+[VERBATIM — Changement de politique]
+to cost of sales for the disposition of facilities that we own. Following the impairment, the long-lived asset group was classified as held-for-use as we ceased operations over the following several months. We have commenced a search for a buyer of the facility. We continue to utilize the facility in a limited capacity and, accordingly, we have not yet met the criteria for classifying the facility as held-for-sale. Once these conditions are met, we will classify the long-lived assets as held-for-sale, cease depreciation and adjust the assets to fair value quarterly.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : NVDA (CIK 0001045810) | FY2013
+FILE         : 0001045810_NVDA_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 26, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+During fiscal years 2014, 2013 and 2012, the charges we took to cost of sales for inventory provisions were primarily related to the write-off of excess quantities of certain older generations of GPU and Tegra Processor products whose inventory levels were higher than our updated forecasts of future demand for those products. As a fabless semiconductor company, we must make commitments to purchase inventory based on forecasts of future customer demand. In doing so, we must account for our third-party manufacturers' lead times and constraints. We also adjust to other market factors, such as product offerings and pricing actions by our competitors, new product transitions, and macroeconomic conditions - all of which may impact demand for our products.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+For the cloud computing platform, we launched GRID VCA - the industry's first visual computing appliance that enables businesses to deploy cloud-based, GPU-accelerated applications through any Windows, Linux or Mac client on their network. We also announced that VMware Horizon View supports NVIDIA GRID technology and that Citrix’s XenDesktop 7 has fully integrated our GRID vGPU technology to share GPUs across virtual machines. Finally, we announced an IP licensing initiative designed to bring our GPU technology to new markets and generate revenue from markets previously inaccessible to us.

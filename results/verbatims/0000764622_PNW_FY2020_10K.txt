@@ -1,0 +1,20 @@
+FIRM         : PNW (CIK 0000764622) | FY2020
+FILE         : 0000764622_PNW_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-10-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 20. Changes in Accumulated Other Comprehensive Loss
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Palo Verde sale leaseback property, plant and equipment, net of accumulated depreciation
+
+[VERBATIM — Infrastructure IA]
+For the three years 2018 through 2020, annual retail electricity sales were about flat, adjusted to exclude the effects of weather variations. We currently project that annual retail electricity sales in kWh will increase in the range of 0.5% to 1.5% for 2021 and increase on average in the range of 1.0% to 2.0% during 2021 through 2023, including the effects of customer conservation, energy efficiency and distributed renewable generation initiatives, but excluding the effects of weather variations. This projected sales growth range now includes our estimated contributions of several large data centers, but not all, and we will continue to estimate contributions and evaluate sales guidance as these customers develop more usage history. These estimates could be further impacted by slower than expected growth of the Arizona economy, slower than expected ramp-up of the new data centers, or acceleration of the expected effects of customer conservation, energy efficiency, distributed renewable generation initiatives.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

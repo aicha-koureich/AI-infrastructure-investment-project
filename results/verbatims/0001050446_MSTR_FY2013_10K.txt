@@ -1,0 +1,23 @@
+FIRM         : MSTR (CIK 0001050446) | FY2013
+FILE         : 0001050446_MSTR_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Subscription services revenues. Subscription services revenues are
+primarily derived from MicroStrategy Cloud services offerings that are recognized on a subscription basis over the service period of the contract. Subscription services revenues increased $9.1 million during 2013, as compared to the prior year,
+primarily due to an increase in the number of new customers as our MicroStrategy Cloud business has continued to grow. Subscription services revenues increased $3.0 million in 2012, as compared to the prior year, where we only recognized $0.1
+million in subscription services revenue as we only began to offer MicroStrategy Cloud services in the second half of 2011.

@@ -1,0 +1,21 @@
+FIRM         : ACIC (CIK 0001401521) | FY2013
+FILE         : 0001401521_ACIC_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 10
+ASSET CAT.   : software costs related to policy administration system over an initial
+DURÉE        : 6.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0 ans | 6.0 ans
+
+[VERBATIM — Durée de vie]
+We capitalize certain direct development costs associated with internal-use software and we classify these costs within other assets on our Consolidated Balance Sheets because the total amount ( $1,816,000 at December 31, 2013 and $553,000 at December 31, 2012 ) is not material to our consolidated financial statements. We expect to amortize the capitalized software costs related to policy administration system over an initial six year period which coincides with the length of our contract term with our policy administrator and the amount of time we expect the software to be useful to us. We expect to amortize the costs related to our new claims processing system over its expected 5 year useful life, beginning in the second quarter of 2014.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

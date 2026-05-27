@@ -1,0 +1,23 @@
+FIRM         : BRO (CIK 0000079282) | FY2017
+FILE         : 0000079282_BRO_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+(in thousands, except per share data) For the Year Ended December 31, 2017 2016 2015 REVENUES Commissions and fees $ 1,857,270 $ 1,762,787 $ 1,656,951 Investment income 1,626 1,456 1,004 Other income, net 22,451 2,386 2,554 Total revenues 1,881,347 1,766,629 1,660,509 EXPENSES Employee compensation and benefits 994,652 925,217 856,952 Other operating expenses 283,470 262,872 251,055 (Gain)/loss on disposal (2,157 ) (1,291 ) (619 ) Amortization 85,446 86,663 87,421 Depreciation 22,698 21,003 20,890 Interest 38,316 39,481 39,248 Change in estimated acquisition earn-out payables 9,200 9,185 3,003 Total expenses 1,431,625 1,343,130 1,257,950 Income before income taxes 449,722 423,499 402,559 Income taxes 50,092 166,008 159,241 Net income $ 399,630 $ 257,491 $ 243,318 Net income per share: Basic $ 2.86 $ 1.84 $ 1.72 Diluted $ 2.81 $ 1.82 $ 1.70 Dividends declared per share $ 0.56 $ 0.50 $ 0.45
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

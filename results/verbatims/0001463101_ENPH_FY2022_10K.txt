@@ -1,0 +1,21 @@
+FIRM         : ENPH (CIK 0001463101) | FY2022
+FILE         : 0001463101_ENPH_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3 .
+ASSET CAT.   : equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+The Company includes the following in cost of revenues: product costs, warranty, manufacturing personnel and logistics costs, freight costs, inventory write-downs, hosting services costs related to the Company’s Enlighten service offering and design and proposal services, depreciation and amortization of manufacturing test equipment and amortization of capitalized software development costs related to the Company’s Enlighten service offering, lead acquisition costs, design and proposal services, and employee-related expenses associated with proposal and permitting services and design and proposal service customer support.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

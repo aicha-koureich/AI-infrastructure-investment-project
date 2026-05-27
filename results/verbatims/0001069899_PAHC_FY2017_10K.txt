@@ -1,0 +1,23 @@
+FIRM         : PAHC (CIK 0001069899) | FY2017
+FILE         : 0001069899_PAHC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2017
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in property, plant and equipment on the consolidated balance sheets and are amortized on a straight-line basis over 3 to 7 years.
+
+[VERBATIM — Changement de politique]
+impairment loss is the excess of the asset’s carrying value over its fair value. In addition, we periodically reassess the estimated remaining useful lives of our long-lived and amortizable intangible assets. Changes to estimated useful lives would affect the amount of depreciation and amortization recorded in the consolidated statements of operations. During the three months ended June 30, 2017, we determined that certain intangible assets related to technology within the Animal Health segment were impaired, based on changes to future product sales assumptions, and recorded an impairment charge of $713 as a component of selling, general and administrative expenses in our consolidated statements of operations. There were no significant asset impairments or changes in estimated remaining useful lives of our long-lived or amortizable intangible assets in the periods included in the consolidated financial statements prior to 2017.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2015-05, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40) , provides guidance regarding the treatment of cloud computing arrangements and if an arrangement

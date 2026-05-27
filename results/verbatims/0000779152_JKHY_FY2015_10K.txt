@@ -1,0 +1,20 @@
+FIRM         : JKHY (CIK 0000779152) | FY2015
+FILE         : 0000779152_JKHY_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 14. SUBSEQUENT EVENTS
+ASSET CAT.   : EQUIPMENT, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+AND SUBSIDIARIES CONSOLIDATED BALANCE SHEETS (In Thousands, Except Share and Per Share Data) June 30, 2015 June 30, 2014 ASSETS CURRENT ASSETS: Cash and cash equivalents $ 148,313 $ 70,377 Receivables, net 245,387 224,041 Income tax receivable 2,753 7,937 Prepaid expenses and other 69,096 61,074 Deferred costs 27,950 27,077 Total current assets 493,499 390,506 PROPERTY AND EQUIPMENT, net 296,332 291,675 OTHER ASSETS: Non-current deferred costs 96,423 78,458 Computer software, net of amortization 191,541 160,391 Other non-current assets 52,432 44,657 Customer relationships, net of amortization 122,204 136,602 Other intangible assets, net of amortization 34,038 25,653 Goodwill 550,366 552,761 Total other assets 1,047,004 998,522 Total assets $ 1,836,835 $ 1,680,703 LIABILITIES AND STOCKHOLDERS' EQUITY CURRENT LIABILITIES: Accounts payable $ 9,933 $ 10,516 Accrued expenses 78,962 63,299 Accrued income taxes 5,543 — Deferred income tax liability 7,034 30,094 Notes payable and current maturities of long term debt 2,595 5,407 Deferred revenues 339,544 337,493 Total current liabilities 443,611 446,809 LONG TERM LIABILITIES: Non-current deferred revenues 192,443 155,375 Non-current deferred income tax liability 150,223 97,720 Debt, net of current maturities 50,102 3,729 Other long-term liabilities 8,922 9,683 Total long term liabilities 401,690 266,507 Total liabilities 845,301 713,316 STOCKHOLDERS' EQUITY Preferred stock - $1 par value; 500,000 shares authorized, none issued — — Common stock - $0.01 par value; 250,000,000 shares authorized; 102,695,214 shares issued at June 30, 2015; 102,429,926 shares issued at June 30, 2014 1,027 1,024 Additional paid-in capital 424,536 412,512 Retained earnings 1,266,443 1,131,632 Less treasury stock at cost 21,842,632 shares at June 30, 2015; 19,794,559 shares at June 30, 2014 (700,472 ) (577,781 ) Total stockholders' equity 991,534 967,387 Total liabilities and equity $ 1,836,835 $ 1,680,703
+
+[VERBATIM — Infrastructure IA]
+During the year the Profitstars® division of the Company sold its TeleWeb suite of Internet and mobile banking software products to Data Center Inc. (DCI). Goodwill allocated to the carrying amount of the net assets sold was calculated based on the relative fair values of the business disposed of and the portion of the reporting unit (in which the business resided) that was retained, multiplied by the reporting unit's carrying value of goodwill.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

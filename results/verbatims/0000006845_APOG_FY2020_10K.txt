@@ -1,0 +1,21 @@
+FIRM         : APOG (CIK 0000006845) | FY2020
+FILE         : 0000006845_APOG_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 27, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies and Related Data
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment (PP&E) is recorded at cost. Significant improvements and renewals that extend the useful life of the asset are capitalized. Repairs and maintenance are charged to expense as incurred. When an asset is retired or otherwise disposed of, the cost and related accumulated depreciation are removed from the accounts and any related gains or losses are included in selling, general and administrative expenses. Long-lived assets to be held and used, such as PP&E, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

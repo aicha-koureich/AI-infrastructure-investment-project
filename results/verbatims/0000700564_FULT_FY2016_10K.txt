@@ -1,0 +1,21 @@
+FIRM         : FULT (CIK 0000700564) | FY2016
+FILE         : 0000700564_FULT_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0 ans | 8.0 ans
+
+[VERBATIM — Durée de vie]
+Premises and equipment are stated at cost, less accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASC Update 2015-05, "Customer's Accounting for Fees Paid in a Cloud Computing Arrangement." ASC Update 2015-05 provides explicit guidance to determine when a customer's fees paid in a cloud computing arrangement is for the acquisition of software licenses, services, or both. ASC Update 2015-05 was effective for public business entities' annual and interim reporting periods beginning after December 15, 2015, with earlier adoption permitted.

@@ -1,0 +1,21 @@
+FIRM         : FFIV (CIK 0001048695) | FY2022
+FILE         : 0001048695_FFIV_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are amortized over the remaining estimated economic life of the product.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• Revenues . The majority of our product revenues are derived from sales of our application security and delivery solutions including our BIG-IP software and systems, F5 NGINX software, and our Silverline offerings. Our BIG-IP software solutions are sold both on a perpetual license and a subscription basis. We sell F5 NGINX on a subscription basis. Our Silverline solution is a managed services offering, also sold on a subscription basis. During our fiscal year 2022, we launched F5 Distributed Cloud Services. F5 Distributed Cloud Services provides security, multi-cloud networking, and edge-based computing solutions, encompassing software solutions from what were previously branded as our Shape, Volterra, and Silverline product offerings. F5 Distributed Cloud Services are offered on a subscription basis, under a unified software-as-a-service ("SaaS") platform. We also derive revenues from the sales of global services including annual maintenance contracts, training and consulting services. ||| . The majority of our product revenues are derived from sales of our application security and delivery solutions including our BIG-IP software and systems, F5 NGINX software, and our Silverline offerings. Our BIG-IP software solutions are sold both on a perpetual license and a subscription basis. We sell F5 NGINX on a subscription basis. Our Silverline solution is a managed services offering, also sold on a subscription basis. During our fiscal year 2022, we launched F5 Distributed Cloud Services. F5 Distributed Cloud Services provides security, multi-cloud networking, and edge-based computing solutions, encompassing software solutions from what were previously branded as our Shape, Volterra, and Silverline product offerings. F5 Distributed Cloud Services are offered on a subscription basis, under a unified software-as-a-service ("SaaS") platform. We also derive revenues from the sales of global services including annual maintenance contracts, training and consulting services.

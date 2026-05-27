@@ -1,0 +1,20 @@
+FIRM         : ORA (CIK 0001296445) | FY2024
+FILE         : 0001296445_ORA_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 11 — LONG-TERM DEBT, CREDIT AGREEMENTS AND FINANCE LIABILITY
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+On November 20, 2024, the Company completed the drawdown of the full loan amount (the “Bottleneck Loan”), bearing an annual interest rate of 6.31%. The loan will be repaid in 30 semi-annual repayments based on a sculpted amortization schedule starting on May 29, 2025. The NPA contains customary terms and conditions for senior secured notes issued in a private placement, including, without limitation, affirmative and negative covenants such as information reporting, minimum debt service coverage ratios, and prohibitions on certain fundamental changes of the borrower. The NPA also contains customary events of default with customary cure and notice periods, including, without limitation, nonpayment, breach of covenant, and certain events of bankruptcy. The Company provided a guaranty to the note holders covering certain outstanding obligations towards vendors of equipment installed in the project. Covenants will be first calculated on the date of the first principal payment in the second quarter of 2025.
+
+[VERBATIM — Infrastructure IA]
+• Increased Demand for Baseload and Data Centers: There has been increased demand for energy generated from geothermal and other renewable resources in the U.S. driven by both baseload requirements and the growing energy needs of data centers.. This is largely due to legislative and regulatory requirements and incentives, such as state RPS and federal tax credits such as PTCs or ITCs (which are discussed in more detail in the section entitled “Government Grants and Tax Benefits” below). We believe that future demand is expected to  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

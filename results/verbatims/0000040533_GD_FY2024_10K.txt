@@ -1,0 +1,20 @@
+FIRM         : GD (CIK 0000040533) | FY2024
+FILE         : 0000040533_GD_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• $515 from the National Geospatial-Intelligence Agency (NGA) to provide hybrid cloud services and IT design, engineering, and operations and sustainment services. ||| $515 from the National Geospatial-Intelligence Agency (NGA) to provide hybrid cloud services and IT design, engineering, and operations and sustainment services. ||| • $235 from the Centers for Medicare and Medicaid Services (CMS) to provide cloud services and software tools and to support the Benefits Coordination & Recovery Center. The contracts including options have a maximum potential value of $470.

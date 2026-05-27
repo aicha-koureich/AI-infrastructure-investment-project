@@ -1,0 +1,21 @@
+FIRM         : VRSN (CIK 0001014473) | FY2019
+FILE         : 0001014473_VRSN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : computer equipment, software, office equipment, and furniture and fixtures
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation. Depreciation is calculated using the straight-line method over the estimated useful lives of the assets of 35 to 47 years for buildings, 10 years for building improvements and three years to five years for computer equipment, software, office equipment, and furniture and fixtures.
+
+[VERBATIM — Infrastructure IA]
+Verisign leases a small portion of its office space and a portion of its data center facilities under operating leases, the longest of which extends into 2024. Rental expenses under operating leases were not material in any period presented.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

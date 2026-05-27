@@ -1,0 +1,30 @@
+FIRM         : EGBN (CIK 0001050441) | FY2018
+FILE         : 0001050441_EGBN_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note
+1 – Summary of Significant Accounting Policies
+ASSET CAT.   : computer software and hardware
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Premises
+and equipment are stated at cost less accumulated depreciation and amortization computed using the straight-line method for financial
+reporting purposes. Premises and equipment are depreciated over the useful lives of the assets, which generally range from three
+to seven years for furniture, fixtures and equipment, three to five years for computer software and hardware, and five to twenty
+years for building improvements.
+
+[VERBATIM — Infrastructure IA]
+The Bank has outstanding obligations under its current core data processing contract that expire
+in March 2025 and two other vendor arrangements that relate to network infrastructure and data center services, one expires in
+July 2020 and the other expires in December 2019.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The Bank has outstanding obligations under its current core data processing contract that expire
+in March 2025 and two other vendor arrangements that relate to network infrastructure and data center services, one expires in
+July 2020 and the other expires in December 2019.

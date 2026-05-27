@@ -1,0 +1,20 @@
+FIRM         : CMS (CIK 0000811156) | FY2021
+FILE         : 0000811156_CMS_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2030-12-01
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 19, Variable Interest Entities
+ASSET CAT.   : computer software, computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+If computer software is integral to computer hardware, then its cost is capitalized and depreciated with the hardware.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

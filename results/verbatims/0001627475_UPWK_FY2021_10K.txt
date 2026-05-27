@@ -1,0 +1,21 @@
+FIRM         : UPWK (CIK 0001627475) | FY2021
+FILE         : 0001627475_UPWK_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5—Balance Sheet Components
+ASSET CAT.   : Computer equipment, furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-3.0 ans | 2.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+(In thousands) 2021 2020 Computer equipment and software $ 5,493 $ 4,819 Internal-use software and platform development costs 25,738 20,727 Leasehold improvements 11,644 14,613 Office furniture and fixtures 3,365 3,354 Total property and equipment 46,240 43,513 Less: accumulated depreciation (24,911) (15,374) Property and equipment, net $ 21,329 $ 28,139
+
+[VERBATIM — Infrastructure IA]
+the year ended December 31, 2021, third-party hosting costs increased $2.4 million, as compared to the same period in 2020, driven by our use of two AWS data centers during the period in connection with our migration from the AWS facility in California to the AWS facility in Oregon.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Cost of Revenue. Cost of revenue consists primarily of the cost of payment processing fees, amounts paid to talent to deliver services for clients under our managed services offering, personnel-related costs for our services and support personnel, third-party hosting fees for our use of AWS, and the amortization expense associated with capitalized internal-use software and platform development costs. We define personnel-related costs as salaries, bonuses, benefits, travel and entertainment, and stock-based compensation costs for employees and the costs related to other service providers we engage. ||| Cost of revenue consists primarily of the cost of payment processing fees, amounts paid to talent to deliver services for clients under our managed services offering, personnel-related costs for our services and support personnel, third-party hosting fees for our use of AWS, and the amortization expense associated with capitalized internal-use software and platform development costs. We define personnel-related costs as salaries, bonuses, benefits, travel and entertainment, and stock-based compensation costs for employees and the costs related to other service providers we engage. ||| the year ended December 31, 2021, third-party hosting costs increased $2.4 million, as compared to the same period in 2020, driven by our use of two AWS data centers during the period in connection with our migration from the AWS facility in California to the AWS facility in Oregon.

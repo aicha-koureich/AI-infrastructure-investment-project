@@ -1,0 +1,20 @@
+FIRM         : CVLT (CIK 0001169561) | FY2023
+FILE         : 0001169561_CVLT_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-04-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 6. Property and Equipment
+ASSET CAT.   : servers, equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+March 31, 2024 2023 Computers, servers and other equipment $ 45,620 $ 43,135 Furniture and fixtures 2,965 3,264 Leasehold improvements 8,180 8,433 Purchased software 2,586 1,862 Construction in process 189 111 59,540 56,805 Less: Accumulated depreciation and amortization (51,579) (48,518) $ 7,961 $ 8,287
+
+[VERBATIM — Infrastructure IA]
+We also offer appliances that integrate our software with hardware and address a wide-range of business needs and use cases, ranging from support for remote or branch offices with limited IT staff up to large corporate data centers. Our appliances are almost exclusively sold via a software only model in which we sell software to a third party, which assembles an integrated appliance that is sold to end user customers. As a result, the revenues and costs associated with hardware are usually not included in our financial statements.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Incorporated in Delaware in 1996, Commvault Systems, Inc. provides its customers with a scalable platform that enhances customers' cyber resiliency by protecting their data in a world of increasing threats. We provide these products and services for their data across many types of environments, including on-premises, hybrid and multi-cloud. Our offerings are delivered via self-managed software, software-as-a-service ("SaaS"), integrated appliances, or managed by partners. Customers use our Commvault Cloud platform to protect themselves from threats like ransomware and recover their data efficiently.

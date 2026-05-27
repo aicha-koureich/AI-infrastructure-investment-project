@@ -1,0 +1,20 @@
+FIRM         : WEX (CIK 0001309108) | FY2018
+FILE         : 0001309108_WEX_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 8. Property, Equipment and Capitalized Software, Net
+ASSET CAT.   : equipment, capitalized software, Furniture, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, equipment and capitalized software, net consist of the following: December 31, (In thousands) 2018 2017 Furniture, fixtures and equipment $ 78,167 $ 69,695 Computer software 355,209 308,362 Leasehold improvements 25,516 23,248 Capital leases — 759 Construction in progress 36,726 26,772 Total 495,618 428,836 Less: accumulated depreciation and amortization (307,750 ) (264,928 ) Total property, equipment and capitalized software, net $ 187,868 $ 163,908
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+This standard clarifies the accounting for capitalizing implementation costs in a cloud computing arrangement that is a service contract. The standard provides that implementation costs be treated using the same criteria used for internal-use software development costs, with amortization expense being recorded in the same income statement expense line as the hosted service costs and over the expected term of the hosting arrangement.

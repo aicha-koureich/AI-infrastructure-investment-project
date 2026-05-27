@@ -1,0 +1,20 @@
+FIRM         : LSCC (CIK 0000855658) | FY2018
+FILE         : 0000855658_LSCC_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 29, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 22 - Quarterly Financial Data (Unaudited)
+ASSET CAT.   : equipment, furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In thousands) December 29, 2018 December 30, 2017 Production equipment and software 160,979 155,492 Leasehold improvements 12,648 13,277 Office furniture and equipment 2,623 2,914 176,250 171,683 Accumulated depreciation and amortization (141,367 ) (131,260 ) $ 34,883 $ 40,423
+
+[VERBATIM — Infrastructure IA]
+Data Center Computing  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+, which clarifies the accounting for implementation costs in cloud computing arrangements. This guidance is effective for interim and annual reporting periods beginning after December 15, 2019, and early adoption is permitted. We are currently assessing the impact of ASU 2018-15 on our consolidated financial statements and related disclosures. ||| In August 2018, the FASB issued ASU 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) , which clarifies the accounting for implementation costs in cloud computing arrangements. This guidance is effective for interim and annual reporting periods beginning after December 15, 2019, and early adoption is permitted. We are currently assessing the impact of ASU 2018-15 on our consolidated financial statements and related disclosures.

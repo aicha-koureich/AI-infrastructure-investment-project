@@ -1,0 +1,20 @@
+FIRM         : DG (CIK 0000029534) | FY2024
+FILE         : 0000029534_DG_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 31, 2025
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Basis of presentation and accounting policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amounts included in the Company’s property and equipment balances and their estimated lives are summarized as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

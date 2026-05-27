@@ -1,0 +1,20 @@
+FIRM         : NI (CIK 0001111711) | FY2024
+FILE         : 0001111711_NI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-03
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 11. Asset Retirement Obligations
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Represents the deferral of certain costs, including depreciation and amortization incurred in connection with improvements to its information technology systems through the design, development, and implementation of a new WAM program for the scheduling, dispatch, and execution of work and the management of underlying assets.
+
+[VERBATIM — Infrastructure IA]
+NIPSCO’s 2024 Plan was submitted to the IURC on December 9, 2024. The 2024 Plan informs future generation investments required to ensure reliability for NIPSCO’s customers and incorporates factors such as anticipated load growth from data centers and other economic development opportunities, new EPA emissions rules, and evolving MISO resource accreditation rules. We have seen an acceleration of customer interest in our northern Indiana service territory in the form of data center development. We believe data center development can enhance our local tax base, diversify the employment base across the state of Indiana, and provide greater value to existing customers and shareholders. We are evaluating the potential for data center development in our service territory, including ways to effectively manage the potential power demand, generation sources, and transmission capabilities to meet potential load growth from any data center customer, while at the same time focusing on our environmental goals. We expect the management of large load growth would require new generation resources, including gas-fired resource, and transmission capabilities.We plan to move as efficiently as possible while maintaining the integrity of our commercial, planning, regulatory, procurement and operational execution processes.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In addition to these capital expenditures, we made $29.0 million of advanced deposits for project costs related to the construction of the R.M. Schahfer gas peaker as part of our generation transition and invested $65.7 million in deferred cloud computing costs in 2024. We also made $454.2 million of capital investments in the form of milestone payments to the renewable generation asset developers in 2023 that were recognized in capital expenditures in 2024.

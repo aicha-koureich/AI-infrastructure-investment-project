@@ -1,0 +1,21 @@
+FIRM         : BL (CIK 0001666134) | FY2019
+FILE         : 0001666134_BL_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-02-19
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Significant Accounting Policies
+ASSET CAT.   : machinery and equipment and purchased software
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment is stated at cost less accumulated depreciation. Depreciation is computed using the straight-line method over the estimated useful lives of the assets, which is generally three to five years for machinery and equipment and purchased software and five years for furniture and fixtures.
+
+[VERBATIM — Infrastructure IA]
+The Company has leases for office space, equipment, and data centers. The Company’s leases have remaining initial lease terms of less than one year to approximately six years, some of which include options to extend the leases for up to ten years, and some of which include options to terminate the leases within one year.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In September 2018 , the Company entered into an agreement with Japanese Cloud Computing and M30 LLC (the “Investors”) to engage in the investment, organization, management, and operation of a Japanese subsidiary (“BlackLine K.K.”) of the Company that is focused on the sale of the Company's products in Japan. In October 2018, the Company

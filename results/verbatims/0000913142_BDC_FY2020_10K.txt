@@ -1,0 +1,21 @@
+FIRM         : BDC (CIK 0000913142) | FY2020
+FILE         : 0000913142_BDC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2: Summary of Significant Accounting Policies
+ASSET CAT.   : computer equipment and software
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100;B100 (2 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0-10.0 ans | 5.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+We calculate depreciation on a straight-line basis over the estimated useful lives of the related assets ranging from 10 to 40 years for buildings, 5 to 12 years for machinery and equipment, and 5 to 10 years for computer equipment and software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : BELFB (CIK 0000729580) | FY2014
+FILE         : 0000729580_BELFB_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : buildings and leasehold improvements, and from 1 to 15 years for machinery and equipment
+DURÉE        : 1.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation - Property, plant and equipment are stated at cost less accumulated depreciation and amortization. The estimated useful lives primarily range from 1 to 39 years for buildings and leasehold improvements, and from 1 to 15 years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+On June 19, 2014, the Company completed its acquisition of Power Solutions for $109.9 million, net of cash acquired. Power Solutions is a leading provider of high-efficiency and high-density power conversion products for server, storage and networking equipment, industrial applications and power systems. Power Solutions offers a premier line of standard, modified-standard and custom designed AC/DC, DC/DC and other specific power conversion products for a variety of technologies in data centers, telecommunications and industrial applications. The acquisition of Power Solutions brings a complementary, industry-leading power product portfolio to Bel's existing line of power products, expands our current customer base in the areas of server, storage and networking equipment and adds industrial and additional transportation applications to the Company's product offering.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

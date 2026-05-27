@@ -1,0 +1,20 @@
+FIRM         : MTUS (CIK 0001598428) | FY2020
+FILE         : 0001598428_MTUS_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 - Significant Accounting Policies
+ASSET CAT.   : computer software, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software projects are amortized over the estimated useful lives of the software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The standard aligns the requirements for capitalizing implementation costs in cloud computing software arrangements with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. ||| Standards Adopted Description Date of Adoption ASU 2016-13, Measurement of Credit Losses on Financial Instruments (Topic 326) The standard changes how entities will measure credit losses for most financial assets, including trade and other receivables, and replaces the current incurred loss approach with an expected loss model. January 1, 2020 ASU 2018-13, Fair Value Measurement (Topic 820) The standard eliminates, modifies and adds disclosure requirements for fair value measurements. January 1, 2020 ASU 2018-14, Compensation - Retirement Benefits - Defined Benefit Plans - General (Subtopic 715-20) The standard eliminates, modifies and adds disclosure requirements for employers that sponsor defined benefit pension or other postretirement plans. January 1, 2020 ASU 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) The standard aligns the requirements for capitalizing implementation costs in cloud computing software arrangements with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. January 1, 2020 ASU 2020-04, Reference Rate Reform (Topic 848) The standard provides optional expedients and exceptions for applying generally accepted accounting principles to contracts, hedging relationships and other transactions affected by reference rate reform if certain criteria are met. March 12, 2020

@@ -1,0 +1,20 @@
+FIRM         : NUE (CIK 0000073309) | FY2020
+FILE         : 0000073309_NUE_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is stated at cost, except for property, plant and equipment acquired through acquisitions which is recorded at acquisition date fair value. With the exception of our natural gas wells, depreciation primarily is provided on a straight-line basis over the estimated useful lives of the assets. Depletion of all capitalized costs associated with our natural gas producing properties is expensed on a unit-of-production basis by individual field as the gas from the proved developed reserves is produced. The costs of acquiring unproved natural gas leasehold acreage are capitalized. When proved reserves are found on unproved properties, the associated leasehold cost is transferred to proved properties. Unproved leases are reviewed periodically for any impairment triggering event, and a valuation allowance is provided for any estimated decline in value. The costs of planned major maintenance activities are capitalized as part of other current assets and amortized over the period until the next scheduled major maintenance activity. All other repairs and maintenance activities are expensed when incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

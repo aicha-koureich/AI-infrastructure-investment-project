@@ -1,0 +1,20 @@
+FIRM         : OSPN (CIK 0001044777) | FY2019
+FILE         : 0001044777_OSPN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+2. SaaS : We generate SaaS revenues from our cloud services offerings. SaaS revenues include fees from customers for access to the OneSpan Sign (formerly eSignLive) suite of solutions. Our standard customer arrangements generally do not provide the customer with the right to take possession of the software supporting the cloud-based application service at any time. As such, these arrangements are considered service contracts and revenue is recognized ratably over the service period of the contract. ||| : We generate SaaS revenues from our cloud services offerings. SaaS revenues include fees from customers for access to the OneSpan Sign (formerly eSignLive) suite of solutions. Our standard customer arrangements generally do not provide the customer with the right to take possession of the software supporting the cloud-based application service at any time. As such, these arrangements are considered service contracts and revenue is recognized ratably over the service period of the contract. ||| Subscription Revenue: We generate subscription revenues from our cloud services offerings. Subscription revenues mostly include fees from customers for access to the OneSpan Sign, TID, and Dealflo solutions. Our standard customer arrangements do not provide the customer with the right to take possession of the software supporting the cloud-based application service at any time. As such, these arrangements are considered service contracts and revenue is recognized ratably over the service period of the contract. Customer payments are normally in advance for annual service.

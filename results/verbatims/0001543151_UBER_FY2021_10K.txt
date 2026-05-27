@@ -1,0 +1,21 @@
+FIRM         : UBER (CIK 0001543151) | FY2021
+FILE         : 0001543151_UBER_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-01
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment Estimated Useful Life Land Indefinite Buildings
+DURÉE        : 30.0-45.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Property and Equipment Estimated Useful Life Land Indefinite Buildings 30-45 years Site improvements 5-15 years Leased vehicles 3-10 years Computer equipment 3-5 years Furniture and fixtures 3-5 years Dockless e-bikes 3 years Internal-use software 2 years Leased computer equipment Shorter of estimated useful life or lease term Leasehold improvements Shorter of estimated useful life or lease term
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

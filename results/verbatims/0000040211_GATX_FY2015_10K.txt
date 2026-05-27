@@ -1,0 +1,23 @@
+FIRM         : GATX (CIK 0000040211) | FY2015
+FILE         : 0000040211_GATX_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+In 2014, we completed a review of the estimated useful lives used for our North American railcar fleet and determined that the economic service life of many of our railcars differed from the useful life that was used to calculate depreciation. As a result, effective January 1, 2014, we revised the estimated useful lives from a range of
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

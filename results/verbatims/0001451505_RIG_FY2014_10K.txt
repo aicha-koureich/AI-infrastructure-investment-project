@@ -1,0 +1,23 @@
+FIRM         : RIG (CIK 0001451505) | FY2014
+FILE         : 0001451505_RIG_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Operating revenues and expenses —We recognize operating revenues as they are realized and earned and can be reasonably measured, based on contractual dayrates, and when collectability is reasonably assured. In connection with drilling contracts, we may receive revenues for preparation and mobilization of equipment and personnel or for capital improvements to rigs. We defer the revenues earned and incremental costs incurred that are directly related to contract preparation and mobilization and recognize such revenues and costs over the primary contract term of the drilling project using the straight-line method. We amortize, in operating and maintenance costs and expenses, the fees related to contract preparation and mobilization on a straight-line basis over the estimated firm period of drilling, which is consistent with the general pace of activity, level of services being provided and dayrates being earned over the life of the contract. For contractual daily rate contracts, we recognize the losses for loss contracts as such losses are incurred. We recognize the costs of relocating drilling units without contracts to more promising market sectors as such costs are incurred. Upon completion of drilling contracts, we recognize in earnings any demobilization fees received and expenses incurred. We defer capital upgrade revenues received and recognize such revenues over the primary contract term of the drilling project. We depreciate the actual costs incurred for the capital upgrade on a straight-line basis over the estimated useful life of the asset. We defer the periodic survey and drydock costs incurred in connection with obtaining regulatory certification to operate our rigs and well control systems on an ongoing basis, and we recognize such costs over the period until the next survey using the straight-line method.
+
+[VERBATIM — Changement de politique]
+During the year ended December 31, 2013, we adjusted the useful lives for five rigs, extending the estimated useful lives from between 29 and 40 years to between 35 and 44 years. During the year ended December 31, 2012, we adjusted the useful lives for three rigs, extending the estimated useful lives from between 29 and 30 years to between 35 and 38 years. We deemed the life extensions appropriate for each of these rigs based on the respective contracts under which the rigs were operating and the additional life-extending work, upgrades and inspections we performed on the rigs. In each of the years ended December 31, 2013 and 2012, the changes in estimated useful lives of these rigs resulted in a reduction in annual depreciation expense of $3 million ($0.01 per diluted share) and $27 million ($0.08 per diluted share), respectively, which had no tax effect for any period.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

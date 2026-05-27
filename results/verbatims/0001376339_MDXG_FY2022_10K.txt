@@ -1,0 +1,20 @@
+FIRM         : MDXG (CIK 0001376339) | FY2022
+FILE         : 0001376339_MDXG_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-27
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost and depreciated on a straight-line method over their estimated useful lives, principally three to seven years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

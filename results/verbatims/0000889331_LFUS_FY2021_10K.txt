@@ -1,0 +1,20 @@
+FIRM         : LFUS (CIK 0000889331) | FY2021
+FILE         : 0000889331_LFUS_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-29
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+• Electronics Segment : Consists of one of the broadest product offerings in the industry, including fuses and fuse accessories, positive temperature coefficient (“PTC”) resettable fuses, polymer electrostatic discharge (“ESD”) suppressors, varistors, reed switch based magnetic sensing, gas discharge tubes; semiconductor products such as discrete transient voltage suppressor (“TVS”) diodes, TVS diode arrays, protection and switching thyristors, silicon and silicon carbide metal-oxide-semiconductor field effect transistors (“MOSFETs”) and diodes; and insulated gate bipolar transistors (“IGBT”) technologies. The segment covers a broad range of end markets, including industrial motor drives and power conversion, automotive electronics, electric vehicle and related infrastructure, power supplies, data centers and telecommunications, medical devices, alternative energy and energy storage, building and home automation, appliances, and mobile electronics.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

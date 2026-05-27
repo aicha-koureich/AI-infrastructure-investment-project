@@ -1,0 +1,24 @@
+FIRM         : MSFT (CIK 0000789019) | FY2021
+FILE         : 0000789019_MSFT_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 7 — PROPERTY AND EQUIPMENT
+ASSET CAT.   : server, network equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0 ans | 3.0 ans | 4.0 ans | 8.0 ans | 12.0 ans | 13.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation expense declined in fiscal year 2021 due to the change in estimated useful lives of our server and network equipment.
+
+[VERBATIM — Changement de politique]
+In July 2020, we completed an assessment of the useful lives of our server and network equipment and determined we should increase the estimated useful life of server equipment from three years to four years and increase the estimated useful life of network equipment from two years to four years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Office Commercial products and cloud services revenue increased 13% driven by Office 365 Commercial growth of 22%. ||| Office Consumer products and cloud services revenue increased 10% and Microsoft 365 Consumer subscribers increased to 51.9 million. ||| Dynamics products and cloud services revenue increased 25% driven by Dynamics 365 growth of 43%.

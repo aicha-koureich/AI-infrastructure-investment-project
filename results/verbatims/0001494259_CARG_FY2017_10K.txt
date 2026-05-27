@@ -1,0 +1,20 @@
+FIRM         : CARG (CIK 0001494259) | FY2017
+FILE         : 0001494259_CARG_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies Basis of Presentation
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+These costs include salaries, benefits, incentive compensation and stock‑based compensation expense related to the customer support team, and third‑party service provider costs such as data center and networking expenses, allocated overhead, depreciation and amortization expense associated with the Company’s property and equipment, and amortization of capitalized website development costs.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue primarily consists of costs related to supporting and hosting the Company’s website and product offerings. These costs include salaries, benefits, incentive compensation and stock‑based compensation expense related to the customer support team, and third‑party service provider costs such as data center and networking expenses, allocated overhead, depreciation and amortization expense associated with the Company’s property and equipment, and amortization of capitalized website development costs.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

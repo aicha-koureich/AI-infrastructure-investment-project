@@ -1,0 +1,21 @@
+FIRM         : ADBE (CIK 0000796343) | FY2019
+FILE         : 0000796343_ADBE_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : November 29, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : computers and other equipment,
+DURÉE        : 1.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-6.0 ans | 1.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+We record property and equipment at cost less accumulated depreciation and amortization. Property and equipment are depreciated using the straight-line method over their estimated useful lives ranging from 1 to 20 years for computers and other equipment, which includes our corporate jet, 1 to 6 years for furniture and fixtures, 5 to 20 years for building improvements and up to 40 years for buildings.
+
+[VERBATIM — Infrastructure IA]
+Cost of subscription revenue consists of third-party royalties and expenses related to operating our network infrastructure, including depreciation expense and operating lease payments associated with computer equipment, data center costs, salaries and related expenses of network operations, implementation, account management and technical support personnel, amortization of certain intangible assets and allocated overhead. We enter into contracts with third parties for hosting services and use of data center facilities. Our data center costs largely consist of the amounts we pay to these third parties for rack space, power and similar items. Cost of subscription revenue also includes media costs related to impressions purchased from third-party ad inventory sources for our Adobe Advertising Cloud offerings.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+During fiscal 2018, we completed our acquisitions of Marketo, a privately held marketing cloud platform company, for $4.73 billion and Magento, a privately held commerce platform company, for $1.64 billion , and integrated them into our Digital Experience reportable segment. ||| During fiscal 2018, we completed our acquisitions of Marketo, a privately held marketing cloud platform company, for ||| Our contracts with customers may include multiple goods and services. For example, some of our offerings include both on-premise and/or on-device software licenses and cloud services. Determining whether the software licenses and the cloud services are distinct from each other, and therefore performance obligations to be accounted for separately, or not distinct from each other, and therefore part of a single performance obligation, may require significant judgment. We have concluded that the on-premise/on-device software licenses and cloud services provided in our Creative Cloud and Document Cloud subscription offerings are not distinct from each other such that revenue from each offering should be recognized ratably over the subscription period for which the cloud services are provided. In reaching this conclusion, we considered the nature of our promise to Creative Cloud and Document Cloud customers, which is to provide a complete end-to-end creative design or document workflow solution that operates seamlessly across multiple devices and teams. We fulfill this promise by providing access to a solution that integrates cloud-based and on-premise/on-device features that, together through their integration, provide functionalities, utility and workflow efficiencies that could not be obtained from either the on-premise/on-device software or cloud services on their own.

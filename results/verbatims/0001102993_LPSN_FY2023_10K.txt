@@ -1,0 +1,20 @@
+FIRM         : LPSN (CIK 0001102993) | FY2023
+FILE         : 0001102993_LPSN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 6. Property and Equipment, Net
+ASSET CAT.   : Computer equipment, Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, Useful Life (Years) 2023 2022 (In thousands) Computer equipment and software 3 to 5 $ 123,580 $ 128,206 Internal-use software development costs 5 181,079 161,633 Finance lease right-of-use assets 2 3,060 3,083 Furniture, equipment and building improvements The lesser of 5 or estimated useful life 327 506 Property and equipment, at cost 308,046 293,428 Less: accumulated depreciation (188,721) (155,706) Property and equipment, net 119,325 137,722 Less assets held for sale (Note 20) — (11,223) Total Property and equipment, net $ 119,325 $ 126,499
+
+[VERBATIM — Infrastructure IA]
+We also lease certain facilities and data centers under non-cancellable operating lease arrangements that expire at various dates through 2028. See Note 10 – Leases in the Notes to the Consolidated Financial Statements under Item 8 of this Annual Report on Form 10-K for additional information regarding our lease obligations.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+performance obligation is deemed to occur over time. We recognize this revenue over time on a ratable basis over the contract term, beginning on the date that access to the Conversational Cloud platform is made available to the customer. The passage of time is deemed to be the most faithful depiction of the transfer of control of the services as the customer simultaneously receives and consumes the benefit provided by our performance. Subscription contracts are generally one year or longer in length, billed monthly, quarterly or annually in advance. Additionally, for certain of our larger customers, we may provide call center labor through an arrangement with one or more of several qualified vendors. For most of these customers, we pass the fee we incur with the labor provider and its fee for the hosted services through to our customers in the form of a fixed fee for each order placed via our online engagement solutions. For these Gainshare arrangements, we act as a principal in a transaction if we control the specified goods or services before they are transferred to the customer. ||| Our purchase obligations consist of agreements to purchase goods and services entered into in the ordinary course of business. As of December 31, 2023, the value of our non-cancellable unconditional purchase obligations was approximately $36.0 million , primarily relating to contracts with vendors in connection with IT infrastructure and cloud computing-related services. See Note 12 – Commitments and Contingencies in the Notes to the Consolidated Financial Statements under Item 8 of this Annual Report on Form 10-K for additional information regarding our purchase obligations. ||| , primarily relating to contracts with vendors in connection with IT infrastructure and cloud computing-related services. See Note 12 –

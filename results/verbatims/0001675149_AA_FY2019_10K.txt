@@ -1,0 +1,20 @@
+FIRM         : AA (CIK 0001675149) | FY2019
+FILE         : 0001675149_AA_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles – Goodwill and Other – Internal-Use Software. This ASU aligns the accounting for cloud computing implementation costs with that of costs to develop or obtain internal-use software, meaning such costs that are part of the application development stage are capitalized as an asset and amortized over the term of the arrangement, otherwise, such costs are expensed as incurred. It also clarifies the classification of amounts related to capitalized implementation costs in the financial statements. This guidance becomes effective for the Company on January 1, 2020, with early adoption permitted. Management has completed our assessment of the impact related to this guidance and concluded that the adoption of this guidance will not have a material impact on the Company’s Consolidated Financial Statements.

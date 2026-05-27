@@ -1,0 +1,21 @@
+FIRM         : PRK (CIK 0000805676) | FY2024
+FILE         : 0000805676_PRK_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Software
+DURÉE        : 3.0-12.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Buildings 30 Years Building improvements 5 to 10 Years Equipment, furniture and fixtures 3 to 12 Years Software 3 Years or the contractual useful life of the software Leasehold improvements Shorter of the remaining lease period or the estimated useful life of the improvement
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

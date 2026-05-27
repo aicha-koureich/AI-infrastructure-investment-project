@@ -1,0 +1,23 @@
+FIRM         : SGI (CIK 0001206264) | FY2017
+FILE         : 0001206264_SGI_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Computer equipment, Machinery and equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful Lives (in years) Buildings 25-30 Computer equipment and software 3-5 Leasehold improvements 4-7 Machinery and equipment 3-7 Office furniture and fixtures 5-7
+
+[VERBATIM — Changement de politique]
+and 2016 after the change in estimate to reduce accumulated performance based stock compensation amortization to actual cost based on updated projected or final financial results.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

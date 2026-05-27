@@ -1,0 +1,20 @@
+FIRM         : MGEE (CIK 0001161728) | FY2018
+FILE         : 0001161728_MGEE_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment
+DURÉE        : 5.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+For internal use software, the useful lives range from five to fifteen years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued amended authoritative guidance within the codification's Intangibles – Goodwill and Other – Internal-Use Software topic. The amended authoritative guidance aligns the requirements for capitalizing implementation costs incurred in a cloud computing arrangement (hosting arrangement) that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangement that include an internal-use software license). Costs for implementation activities in the development stage are capitalized depending on the nature of the costs and presented in the same line item on the balance sheet as amounts prepaid for the hosted service. Costs incurred during the preliminary and postimplementation stages are expensed as the activities are performed. The costs capitalized as part of implementation stage should be expensed over the term of the hosting contract, which includes any renewable option periods, and presented in the same line on the income statement as the fees for the associated hosted service.

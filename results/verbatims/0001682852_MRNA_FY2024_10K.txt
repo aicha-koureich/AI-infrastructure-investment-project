@@ -1,0 +1,21 @@
+FIRM         : MRNA (CIK 0001682852) | FY2024
+FILE         : 0001682852_MRNA_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 6
+ASSET CAT.   : equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated Useful Life Land and land improvements Not depreciated Buildings and building improvements Up to 40 years Manufacturing and laboratory equipment 5 years Leasehold improvements Lesser of estimated useful life of improvement or remaining life of related lease Computer equipment and software 3 to 5 years Furniture, fixtures and other 5 years Right-of-use asset, financing Lease term
+
+[VERBATIM — Infrastructure IA]
+We have significant future capital requirements including expected operating expenses to conduct research and development activities, operate our organization, and meet capital expenditure needs. We anticipate maintaining substantial expenses across all areas of our ongoing activities, particularly as we continue research and development of our development candidates and clinical activities for our investigational medicines. This also extends to our manufacturing costs, including our arrangements with our supply and manufacturing partners. Our ongoing work on our norovirus, flu+COVID combination, CMV, RSV, and next-generation COVID vaccine candidates, INT, development of any new COVID vaccines against variants of SARS-CoV-2, late-stage clinical development, investments in digital capabilities and artificial intelligence technologies, and buildout of global commercial, regulatory, sales and marketing infrastructure and manufacturing facilities will require significant cash outflows in future periods, most of which may not be reimbursed or otherwise paid for by our partners or collaborators. In addition, we have substantial facility, lease and purchase obligations. We have also entered into various collaboration and licensing agreements, as well as a research and development funding arrangement with a third party. These arrangements collectively encompass the funding of specific research and development activities, with the distinction that under the research and development funding arrangement, we receive funding. However, for all these arrangements, we may be obligated to make potential future milestone and royalty payments.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

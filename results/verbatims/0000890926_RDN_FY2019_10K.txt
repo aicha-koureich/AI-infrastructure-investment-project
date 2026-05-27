@@ -1,0 +1,20 @@
+FIRM         : RDN (CIK 0000890926) | FY2019
+FILE         : 0000890926_RDN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 19 - Quarterly Financial Data (Unaudited)
+ASSET CAT.   : equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Software, property and equipment are carried at cost, net of accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles-Goodwill and Other-Internal-Use Software. This ASU requires the capitalization of implementation costs for activities performed in a cloud computing arrangement that is a service contract. The new standard aligns the accounting for implementation costs of hosting arrangements that are service contracts with the accounting for capitalizing internal-use software. This update is effective for fiscal years beginning after December 15, 2019, including interim periods within those fiscal years. We elected to early adopt this update effective December 31, 2019. The adoption of this update did not have a material effect on our financial statements and disclosures.

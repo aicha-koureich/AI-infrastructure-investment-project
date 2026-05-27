@@ -1,0 +1,23 @@
+FIRM         : ST (CIK 0001477294) | FY2018
+FILE         : 0001477294_ST_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 11. Goodwill and Other Intangible Assets, Net
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+During the years ended December 31, 2018 and 2017, we wrote-off approximately $0.2 million and $1.1 million , respectively, of fully-amortized capitalized software that was not in use.
+
+[VERBATIM — Changement de politique]
+Expenditures for maintenance and repairs are charged to expense as incurred, whereas major improvements that increase asset values and extend useful lives are capitalized.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

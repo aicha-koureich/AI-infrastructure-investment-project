@@ -1,0 +1,20 @@
+FIRM         : AVD (CIK 0000005981) | FY2023
+FILE         : 0000005981_AVD_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Equipment, Machinery and equipment, furniture
+DURÉE        : 3.0-25.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(2) Property, Pla nt and Equipment Property, plant and equipment at December 31, 2023 and 2022 consist of the following: 2023 2022 Estimated useful lives Land $ 2,765 $ 2,757 Buildings and improvements 21,088 20,794 10 to 40 years Machinery and equipment 148,912 142,980 3 to 25 years Office furniture, fixtures and equipment 10,622 13,231 3 to 10 years Automotive equipment 1,247 1,584 5 to 20 years Construction in progress 10,553 5,897 Total gross value 195,187 187,243 Less accumulated depreciation ( 120,627 ) ( 116,331 ) Total net value $ 74,560 $ 70,912 Domestic $ 69,615 $ 66,268 International 4,945 4,644 Total net value $ 74,560 $ 70,912 For the years ended December 31, 2023, 2022, and 2021, the Company’s aggregate depreciation expense related to property, plant and equipment was $ 8,352 , $ 7,974 , and $ 8,530 , respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

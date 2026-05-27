@@ -1,0 +1,20 @@
+FIRM         : CCI (CIK 0001051470) | FY2021
+FILE         : 0001051470_CCI_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 4. Property and Equipment
+ASSET CAT.   : Information technology, equipment
+DURÉE        : 2.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful Lives As of December 31, 2021 2020 Land (a) — $ 2,259 $ 2,171 Buildings 40 years 218 147 Communications infrastructure assets 1-20 years 23,289 22,027 Information technology assets and other 2-7 years 587 557 Construction in process — 853 1,063 Total gross property and equipment 27,206 25,965 Less: accumulated depreciation (11,937) (10,803) Total property and equipment, net $ 15,269 $ 15,162
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+◦ We expect existing and potential new tenant demand for our communications infrastructure will result from (1) new technologies, (2) increased usage of mobile entertainment, mobile internet, and machine-to-machine applications, (3) adoption of other emerging and embedded wireless devices (including smartphones, laptops, tablets, wearables and other devices), (4) increasing smartphone penetration, (5) wireless carrier focus on expanding both network quality and capacity, including the use of both towers and small cells, (6) the adoption of other bandwidth-intensive applications (such as cloud services and video communications), (7) the availability of additional spectrum and (8) increased government initiatives to support connectivity throughout the U.S. ||| We expect existing and potential new tenant demand for our communications infrastructure will result from (1) new technologies, (2) increased usage of mobile entertainment, mobile internet, and machine-to-machine applications, (3) adoption of other emerging and embedded wireless devices (including smartphones, laptops, tablets, wearables and other devices), (4) increasing smartphone penetration, (5) wireless carrier focus on expanding both network quality and capacity, including the use of both towers and small cells, (6) the adoption of other bandwidth-intensive applications (such as cloud services and video communications), (7) the availability of additional spectrum and (8) increased government initiatives to support connectivity throughout the U.S.

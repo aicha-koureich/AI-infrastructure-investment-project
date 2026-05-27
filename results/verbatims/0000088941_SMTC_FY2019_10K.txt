@@ -1,0 +1,24 @@
+FIRM         : SMTC (CIK 0000088941) | FY2019
+FILE         : 0000088941_SMTC_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 26, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 7 : Property, Plant and Equipment
+ASSET CAT.   : Machinery and equipment, Computer hardware, Furniture, office equipment
+DURÉE        : 3.0-8.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-8.0 ans | 3.0-13.0 ans | 5.0-7.0 ans | 5.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+(in thousands) Estimated Useful Lives January 26, 2020 January 27, 2019 Land $ 12,143 $ 11,314 Buildings 7 to 39 years 35,801 32,229 Leasehold improvements 5 to 12 years 10,148 9,863 Machinery and equipment 3 to 8 years 196,270 185,045 Computer hardware and software 3 to 13 years 68,748 67,746 Furniture and office equipment 5 to 7 years 5,236 5,364 Construction in progress 10,859 2,960 Property, plant and equipment, gross 339,205 314,521 Less: accumulated depreciation and amortization (214,787 ) (196,033 ) Property, plant and equipment, net $ 124,418 $ 118,488
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment are stated at cost or at fair market value at time of acquisition. Depreciation is computed over the estimated useful lives of the related asset type or term of the operating lease using the straight-line method for financial statement purposes. Maintenance and repairs are charged to expense as incurred and the costs of additions and betterments that increase the useful lives of the assets are capitalized.
+
+[VERBATIM — Infrastructure IA]
+We are a leading global supplier of high-performance analog and mixed-signal semiconductors and advanced algorithms and were incorporated in Delaware in 1960. We design, develop, manufacture, and market a broad range of products that are sold principally into applications within the enterprise computing, communications, high-end consumer, and industrial end markets. Enterprise computing end markets include data center related equipment, passive optical networks, storage networks, desktops, notebooks, servers, printers, monitors, and computer peripherals. Communications end-market applications include wireless base stations, long-haul optical networks, carrier networks, switches and routers, cable modems, backplane signal conditioners, wireless LAN, and other communication infrastructure equipment. The high-end consumer end market includes handheld devices, smartphones, tablets, wireless charging, set-top boxes, digital televisions, digital video recorders, thunderbolt cables and other consumer equipment. Applications for the industrial market include analog and digital video broadcast studio equipment, video-over-IP solutions, automated meter reading, smart grid, wireless charging, military and aerospace, medical, security systems, automotive, IoT, industrial and home automation, and other industrial equipment. Our end customers are primarily OEMs and their suppliers.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

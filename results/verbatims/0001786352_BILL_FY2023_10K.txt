@@ -1,0 +1,23 @@
+FIRM         : BILL (CIK 0001786352) | FY2023
+FILE         : 0001786352_BILL_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 8 – PROPERTY AND EQUIPMENT
+ASSET CAT.   : equipment, Capitalized software, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+June 30, 2023 2022 Software and equipment $ 20,971 $ 20,102 Capitalized software 53,950 21,457 Furniture and fixtures 12,598 10,608 Leasehold improvements 39,068 35,105 Property and equipment, gross 126,587 87,272 Less: accumulated depreciation and amortization (45,023) (30,287) Property and equipment, net $ 81,564 $ 56,985
+
+[VERBATIM — Changement de politique]
+The unaudited pro forma information below summarizes the combined results (in thousands) of the Company and Invoice2go as if the Company’s acquisition of Invoice2go closed on July 1, 2020, but does not necessarily reflect the combined actual results of operations of the Company and Invoice2go that would have been achieved, nor are they necessarily indicative of future results of operations. The unaudited pro forma information reflects certain adjustments that were directly attributable to the acquisition of Invoice2go, including additional depreciation and amortization adjustments for the fair value of the assets acquired and liabilities assumed. The pro forma net loss for the year ended June 30, 2022 was adjusted to exclude nonrecurring acquisition-related costs of $19.0 million. The pro forma net loss for the year ended June 30, 2021 was adjusted to exclude nonrecurring acquisition-related costs of $20.6 million.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

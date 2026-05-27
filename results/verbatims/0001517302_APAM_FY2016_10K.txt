@@ -1,0 +1,23 @@
+FIRM         : APAM (CIK 0001517302) | FY2016
+FILE         : 0001517302_APAM_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 20. Subsequent Events
+ASSET CAT.   : equipment, Computer software, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+The composition of property and equipment at December 31, 2016 and 2015 are as follows: As of December 31, 2016 2015 Computers and equipment $ 8,197 $ 7,551 Computer software 5,366 4,966 Furniture and fixtures 7,920 6,892 Leasehold improvements 23,207 19,673 Total Cost 44,690 39,082 Less: Accumulated depreciation (24,672 ) (21,087 ) Property and equipment, net of accumulated depreciation $ 20,018 $ 17,995
+
+[VERBATIM — Changement de politique]
+Amounts Payable Under Tax Receivable Agreements Deferred Tax Asset - Amortizable Basis December 31, 2014 $ 489,154 $ 551,952 2015 Follow-On Offering and Holdings Common Unit Exchanges 107,740 126,753 Amortization — (33,128 ) Payments under TRAs (1) (20,040 ) — Change in estimate 12,247 14,677 December 31, 2015 589,101 660,254 2016 Holdings Common Unit Exchanges 25,480 29,977 Amortization — (35,953 ) Payments under TRAs (1) (27,685 ) — Change in estimate (650 ) (336 ) December 31, 2016 $ 586,246 $ 653,942 (1) Interest payments of $127 thousand and $179 thousand were paid in addition to these TRA payments for the years ended December 31, 2016 and 2015, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : PZZA (CIK 0000901491) | FY2017
+FILE         : 0000901491_PZZA_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies
+ASSET CAT.   : equipment is amortized over the term of the lease agreement, which is generally
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+This equipment is amortized over the term of the lease agreement, which is generally three years, and is recognized in general and administrative expenses in our consolidated statements of income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

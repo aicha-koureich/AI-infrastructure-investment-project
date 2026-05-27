@@ -1,0 +1,23 @@
+FIRM         : WING (CIK 0001636222) | FY2019
+FILE         : 0001636222_WING_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 28, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+We define “EBITDA” as net income before interest expense, net, income tax expense, and depreciation and amortization. We define “Adjusted EBITDA” as EBITDA further adjusted for management fees and expense reimbursement, a management agreement termination fee, transaction costs, costs and fees associated with investments in our strategic initiatives, and stock-based compensation expense. We caution investors that amounts presented in accordance with our definitions of EBITDA and Adjusted EBITDA may not be comparable to similar measures disclosed by our competitors, because not all companies and analysts calculate EBITDA and Adjusted EBITDA in the same manner. We present EBITDA and Adjusted EBITDA because we consider them to be important supplemental measures of our performance and believe they are frequently used by securities analysts, investors and other interested parties in the evaluation of companies in our industry. Management believes that investors’ understanding of our performance is enhanced by including these non-GAAP financial measures as a reasonable basis for comparing our ongoing results of operations. Many investors are interested in understanding the performance of our business by comparing our results from ongoing operations period over period and would ordinarily add back non-cash expenses such as depreciation and amortization, as well as items that are not part of normal day-to-day operations of our business.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

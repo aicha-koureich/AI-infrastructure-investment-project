@@ -1,0 +1,32 @@
+FIRM         : FIX (CIK 0001035983) | FY2013
+FILE         : 0001035983_FIX_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies (Continued)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Approximately 83% of our revenue was earned on a project basis and recognized through the percentage of completion method of
+accounting. Under this method, contract revenue recognizable at any time during the life of a contract is determined by multiplying expected total contract revenue by the percentage of contract costs
+incurred at any time to total estimated contract costs. More specifically, as part of the negotiation and bidding process in connection with obtaining installation contracts, we estimate our contract
+costs, which include all direct materials (exclusive of rebates), labor and subcontract costs and indirect costs related to contract performance, such as indirect labor, supplies, tools, repairs and
+depreciation costs. These contract costs are included in our results of operations under the caption "Cost of Services." Then, as we perform under those contracts, we measure costs incurred, compare
+them to total estimated costs to complete the contract and recognize a corresponding proportion of contract revenue. Labor costs are considered to be incurred as the work is performed. Subcontractor
+labor is recognized as the work is performed, but is generally subjected to approval as to milestones or other evidence of completion. Non-labor project costs consist of purchased equipment,
+prefabricated materials and other materials. Purchased equipment on our projects is substantially produced to job specifications and is a value added element to our work. The costs are considered to
+be incurred when title is transferred to us, which typically is upon delivery to the work site. Prefabricated materials, such as ductwork and piping, are generally performed at our shops and
+recognized as contract costs when fabricated for the unique specifications of the job. Other materials
+
+[VERBATIM — Infrastructure IA]
+Revenue —Revenue increased $26.1 million, or 2.0% to $1,357.3 million in 2013 compared to 2012. The increase is primarily due to our
+Arizona operation ($23.5 million) and our EAS operation ($47.3 million) which performed a significant amount of project work during 2013. This increase was partially offset by lower
+revenue in our large operation headquartered in Virginia ($53.1 million), which had a fast-paced, large data center project in the first half of 2012 which did not reoccur in 2013 due to its
+completion in the prior year.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

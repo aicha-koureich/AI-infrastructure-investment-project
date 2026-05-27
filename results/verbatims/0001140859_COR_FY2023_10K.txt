@@ -1,0 +1,23 @@
+FIRM         : COR (CIK 0001140859) | FY2023
+FILE         : 0001140859_COR_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-11-21
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 13
+ASSET CAT.   : buildings and improvements and from 3 to 10 years for machinery, equipment, and other
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost and depreciated using the straight-line method over the estimated useful lives of the assets, which range from 3 to 40 years for buildings and improvements and from 3 to 10 years for machinery, equipment, and other.
+
+[VERBATIM — Changement de politique]
+As described in Note 1, the Company changed its name to Cencora, Inc. on August 30, 2023. In connection with the name change and gradual and planned transition away from other tradenames used, the Company reclassified $651.0 million of trade names from indefinite-lived to finite-lived. The shortened useful lives of these trade names, all of which were acquired through prior acquisitions made by the Company, range from less than one year to three years. The future amortization expense amounts below reflect the impact of the intangible assets' revised useful lives.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

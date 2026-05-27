@@ -1,0 +1,20 @@
+FIRM         : UNFI (CIK 0001020859) | FY2018
+FILE         : 0001020859_UNFI_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : July 28, 2018
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 15. SUBSEQUENT EVENTS
+ASSET CAT.   : equipment, Office equipment, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Original Estimated Useful Lives (Years) 2018 2017 (In thousands, except years) Land $ 52,929 $ 52,989 Buildings and improvements 20-40 446,665 396,733 Leasehold improvements 5-20 106,014 138,466 Warehouse equipment 3-30 185,669 173,591 Office equipment 3-10 85,734 95,794 Computer software 3-7 155,329 147,647 Motor vehicles 3-7 4,884 4,657 Construction in progress 22,105 17,968 1,059,329 1,027,845 Less accumulated depreciation and amortization 488,183 425,755 Net property and equipment $ 571,146 $ 602,090
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

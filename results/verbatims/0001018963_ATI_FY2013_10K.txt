@@ -1,0 +1,23 @@
+FIRM         : ATI (CIK 0001018963) | FY2013
+FILE         : 0001018963_ATI_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 19. Selected Quarterly Financial Data
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In millions) 2013 2012 2011 Depreciation of property, plant and equipment $ 156.8 $ 157.0 $ 141.3 Software and other amortization 23.8 24.4 21.4 Total depreciation and amortization $ 180.6 $ 181.4 $ 162.7
+
+[VERBATIM — Changement de politique]
+Amortization expense from continuing operations related to intangible assets was approximately $5 million for the years ended December 31, 2013 and 2012 . For each of the years ending December 31, 2014 through 2018, annual amortization expense is expected to be $ 9.1 million , which includes the impact of the Company’s change in estimate of the period of future benefit of trademark intangible assets from indefinite life to a 15 year useful life beginning in 2014. No impairment of indefinite-lived intangible assets was determined to exist for the years ended December 31, 2013 or 2012 .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : ACIW (CIK 0000935036) | FY2022
+FILE         : 0000935036_ACIW_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+• Total operating expenses for the year ended December 31, 2022, included $5.8 million of European data center migration expenses, $3.0 million of divestiture transaction-related expenses, and $3.6 million of CEO transition expenses during the period. Total operating expenses for the year ended December 31, 2021, included $13.4 million of expense related to significant transactions and cost reduction strategies implemented during the period.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Adoption of cloud technology . ACI has recognized the industry's technical inflection point in the transition from traditional on-premise infrastructure to the public cloud, and we are supporting our customers' cloud strategies. Public and private cloud technology innovations allow the financial services ecosystem to accelerate innovation and ensure scalability and resiliency while improving operating economics over time. As banks and intermediaries, merchants, and billers seek to transition their systems to make use of cloud technology, our investments and partnerships, as demonstrated by our product enablement and initial optimization onto Microsoft Azure, enable us to leverage those cloud technology benefits today and for the future while preserving ACI's fundamental base of performance, resiliency, and scalability. ||| ACI has recognized the industry's technical inflection point in the transition from traditional on-premise infrastructure to the public cloud, and we are supporting our customers' cloud strategies. Public and private cloud technology innovations allow the financial services ecosystem to accelerate innovation and ensure scalability and resiliency while improving operating economics over time. As banks and intermediaries, merchants, and billers seek to transition their systems to make use of cloud technology, our investments and partnerships, as demonstrated by our product enablement and initial optimization onto Microsoft Azure, enable us to leverage those cloud technology benefits today and for the future while preserving ACI's fundamental base of performance, resiliency, and scalability.

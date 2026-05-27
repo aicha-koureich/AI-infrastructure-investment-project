@@ -1,0 +1,20 @@
+FIRM         : INVE (CIK 0001036044) | FY2013
+FILE         : 0001036044_INVE_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Additionally, to meet increasing customer demand for RFID and NFC inlays, tags, labels and cards, we have in the past added new manufacturing capacity at our production facility in Singapore and currently are expanding production capacity with the addition of assembly lines at our facility in California and via partnerships with external manufacturers. Additionally, we continue to invest in enhancements to our data center infrastructure to support the expected growth of our cloud service offerings.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Identiv is a global security technology company that provides trust solutions in the connected world, including premises, information and everyday items. CIOs, CSOs and product departments rely upon Identiv’s trust solutions to reduce risk and achieve compliance, and to protect brand identity. Identiv trust solutions are implemented using standards-driven products and technology, such as hardware, software, digital certificates, mobility and cloud services. ||| standards-driven products and technology, such as hardware, software, digital certificates, mobility and cloud services.

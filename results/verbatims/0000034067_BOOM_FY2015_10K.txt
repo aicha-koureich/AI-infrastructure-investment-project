@@ -1,0 +1,20 @@
+FIRM         : BOOM (CIK 0000034067) | FY2015
+FILE         : 0000034067_BOOM_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are recorded at cost, except for assets acquired in acquisitions which are recorded at fair value. Additions and improvements are capitalized. Maintenance and repairs are charged to operations as the costs are incurred. Depreciation is computed using the straight-line method over the estimated useful life of the related asset (except leasehold improvements which are depreciated over the shorter of their estimated useful life or the lease term) as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : TXNM (CIK 0001108426) | FY2015
+FILE         : 0001108426_TXNM_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+In May 2013, PNMR received a refund of federal income taxes paid in prior years, which primarily was due to bonus tax depreciation and changes in the Company’s method of accounting for repairs expense for income tax purposes. The total refund was
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

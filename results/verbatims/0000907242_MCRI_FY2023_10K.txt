@@ -1,0 +1,20 @@
+FIRM         : MCRI (CIK 0000907242) | FY2023
+FILE         : 0000907242_MCRI_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-14
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, less accumulated depreciation and amortization. Property and equipment is depreciated principally on a straight-line basis over the estimated useful lives as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The Company’s finite-lived intangible assets at December 31, 2023 consist of assets related to a cloud computing arrangement related to a hotel management system that is being amortized over 5 years.

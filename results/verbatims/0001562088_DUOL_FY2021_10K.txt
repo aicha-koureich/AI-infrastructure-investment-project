@@ -1,0 +1,20 @@
+FIRM         : DUOL (CIK 0001562088) | FY2021
+FILE         : 0001562088_DUOL_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Significant estimates and assumptions reflected in the Consolidated Financial Statements include, but are not limited to, useful lives of property and equipment, valuation of deferred tax assets and liabilities, stock-based compensation, common stock valuation, operating lease right-of-use assets and liabilities, capitalization of internally developed software and associated useful lives and contingent liabilities.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Implementation costs for cloud computing included in Current liabilities ||| DUOLINGO, INC. AND SUBSIDIARIES CONSOLIDATED STATEMENTS OF CASH FLOWS (Amounts in thousands) Year Ended December 31, 2021 2020 Cash flows from operating activities: Net loss $ (60,135) $ (15,776) Adjustments to reconcile net loss to net cash used for operating activities: Depreciation and amortization 2,726 2,256 Stock-based compensation 40,804 17,031 Changes in assets and liabilities: Deferred revenue 43,475 28,485 Accounts receivable (12,713) (10,445) Deferred cost of revenues (10,634) (6,653) Prepaid expenses and other current assets (4,048) (1,712) Accounts payable 5,622 (1,615) Accrued expenses and other current liabilities 3,708 6,213 Noncurrent assets and liabilities 365 (76) Net cash provided by operating activities 9,170 17,708 Cash flows from investing activities: Capitalized software (2,620) (638) Purchase of property and equipment (3,586) (3,376) Net cash used for investing activities (6,206) (4,014) Cash flows from financing activities: Issuance of common stock in connection with the initial public offering, net of underwriting discounts and issuance costs 426,191 — Net proceeds from issuance of convertible preferred stock — 44,923 Proceeds from exercise of stock options 12,480 2,030 Repurchases of stock options (7,335) — Repurchase of common stock (868) — Net cash provided by financing activities 430,468 46,953 Net increase in cash and cash equivalents 433,432 60,647 Cash and cash equivalents - Beginning of period 120,490 59,843 Cash and cash equivalents - End of period $ 553,922 $ 120,490 Supplemental disclosure of cash flow information: Cash paid for interest $ — $ — Cash paid for income taxes $ 132 $ — Supplemental disclosure of noncash operating activities: Implementation costs for cloud computing included in Current liabilities $ 64 $ — Supplemental disclosure of noncash investing activities: Capitalized software included in Current liabilities $ 342 $ 500 Property and equipment included in Current liabilities $ 230 $ — ||| In August 2018, the FASB issued Accounting Standard Update (“ASU”) No. 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract (ASU 2018-15) . ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The Company adopted this guidance on January 1, 2021 and it did not have a material impact on its Consolidated Financial Statements and related disclosures upon adoption.

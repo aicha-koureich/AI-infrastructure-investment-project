@@ -1,0 +1,20 @@
+FIRM         : WDAY (CIK 0001327811) | FY2021
+FILE         : 0001327811_WDAY_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-04-02
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 6. Property and Equipment, Net
+ASSET CAT.   : equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of January 31, 2022 2021 Computers, equipment, and software $ 1,071,141 $ 931,456 Buildings 691,896 494,599 Leasehold improvements 158,037 204,273 Land and land improvements 80,553 37,065 Furniture, fixtures, and transportation equipment 79,723 54,193 Property and equipment, gross 2,081,350 1,721,586 Less accumulated depreciation and amortization (958,275) (749,183) Property and equipment, net $ 1,123,075 $ 972,403
+
+[VERBATIM — Infrastructure IA]
+We have entered into operating lease agreements for our office space, data centers, and other property and equipment. Operating lease right-of-use assets and operating lease liabilities are recognized at the lease commencement date based on the present value of the lease payments over the lease term. Right-of-use assets also include adjustments related to prepaid or deferred lease payments and lease incentives. As most of our leases do not provide an implicit interest rate, we use our incremental borrowing rate to determine the present value of lease payments.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In addition, we rely upon third-party hosted infrastructure partners globally, including AWS, Google LLC, and Microsoft Corporation, to serve customers and operate certain aspects of our services. Given this, any disruption of or interference at our hosted infrastructure partners would impact our operations and our business could be adversely impacted.

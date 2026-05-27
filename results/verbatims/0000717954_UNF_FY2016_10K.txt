@@ -1,0 +1,20 @@
+FIRM         : UNF (CIK 0000717954) | FY2016
+FILE         : 0000717954_UNF_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 27, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 20.0-8.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company depreciates, on a straight-line basis, the amount added to property, plant and equipment and recognizes accretion expense in connection with the discounted liability over the various remaining lives which range from approximately one to twenty-eight years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

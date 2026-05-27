@@ -1,0 +1,20 @@
+FIRM         : MDU (CIK 0000067716) | FY2020
+FILE         : 0000067716_MDU_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-03-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 - Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Additions to property, plant and equipment are recorded at cost. When regulated assets are retired, or otherwise disposed of in the ordinary course of business, the original cost of the asset is charged to accumulated depreciation. With respect to the retirement or disposal of all other assets, the resulting gains or losses are recognized as a component of income. The Company is permitted to capitalize AFUDC on regulated construction projects and to include such amounts in rate base when the related facilities are placed in service. In addition, the Company capitalizes interest, when applicable, on certain construction projects associated with its other operations. The amount of AFUDC for the years ended December 31 was as follows:
+
+[VERBATIM — Infrastructure IA]
+Revenues: Increase of $477.8 million, largely resulting from higher inside specialty contracting workloads from an increase in customer demand for hospitality, data center and high-tech projects. Also contributing to the increase was higher outside specialty contracting workloads, primarily resulting from increased utility customer demand.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

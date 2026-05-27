@@ -1,0 +1,20 @@
+FIRM         : HVT (CIK 0000216085) | FY2014
+FILE         : 0000216085_HVT_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Cash flows used in investing activities. Net cash used in investing activities was $41.4 million, $20.1 million and $24.8 million for 2014, 2013 and 2012, respectively. In each of these years, the amounts of cash used in investing activities consisted principally of capital expenditures related to store construction and improvements and information technology projects, refer to our Store Expansion and Capital Expenditures discussion below. During 2014, in addition to the expenditures for new stores and one store's major expansion, we purchased $10.0 million in certificates of deposit. During 2013, we invested in our distribution system for future expansion and added capacity to our internal cloud architecture to support our sales systems and video communications. During 2012, we completed information technology projects replacing our core network that controls the communication between our stores and data centers and invested in cloud infrastructure.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

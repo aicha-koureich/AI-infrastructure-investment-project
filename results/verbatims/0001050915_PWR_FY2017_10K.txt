@@ -1,0 +1,20 @@
+FIRM         : PWR (CIK 0001050915) | FY2017
+FILE         : 0001050915_PWR_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 19. SUBSEQUENT EVENTS:
+ASSET CAT.   : equipment, Office equipment, furniture and fixtures, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful December 31, Lives in Years 2017 2016 Land N/A $ 48,832 $ 45,919 Buildings and leasehold improvements 5-30 155,628 137,515 Operating equipment and vehicles 5-25 1,834,715 1,634,850 Office equipment, furniture and fixtures and information technology systems 3-10 170,115 145,174 Construction work in progress N/A 60,587 73,461 2,269,877 2,036,919 Less — Accumulated depreciation and amortization (981,275 ) (862,825 ) Property and equipment, net $ 1,288,602 $ 1,174,094
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

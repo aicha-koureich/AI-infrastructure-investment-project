@@ -1,0 +1,20 @@
+FIRM         : EXPI (CIK 0001495932) | FY2024
+FILE         : 0001495932_EXPI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+The Company operates in a cloud-based model which gives us an insignificant physical geographical footprint. Despite this, we are impacted by environmental regulations, particularly those focusing on emissions associated with data centers and cloud-based operations. However, sustainable investing and environmental, social, and governance practices continue to be the focus of increased regulatory scrutiny across jurisdictions. For example, in the U.S., the U.S. Securities and Exchange Commission (“SEC”) adopted climate disclosure rules in March 2024 to require public issuers to include enhanced disclosure regarding corporate climate-related information in their periodic reports and registration statements; however, the SEC stayed the effectiveness of such rules in April 2024 due to litigation initiated immediately following the SEC’s adoption of such rules. If implemented, such rules would require disclosure of information about climate-related risks that are reasonably likely to have a material impact on an issuer’s business or results of operations, as well as certain climate-related financial statement metrics.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : AAON (CIK 0000824142) | FY2023
+FILE         : 0000824142_AAON_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The most significant estimates include, but are not limited to, inventory valuation, inventory reserves, warranty accrual, workers' compensation accrual, medical insurance accrual, income taxes, useful lives of property, plant, and equipment, estimated future use of leased property, share-based compensation, revenue percentage of completion and estimated costs to complete.
+
+[VERBATIM — Changement de politique]
+During the first quarter of 2022, a review of the Company's useful lives for certain sheet metal manufacturing equipment at our Longview, Texas facilities resulted in a change in estimate that increased the useful lives from between ten and twelve years to fifteen years.
+
+[VERBATIM — Infrastructure IA]
+Year Ended December 31, 2023 AAON Oklahoma AAON Coil Products BASX Total (in thousands) Rooftop Units $ 804,254 $ — $ — $ 804,254 Condensing Units 61 42,739 — 42,800 Air Handlers — 44,040 17,790 61,830 Outdoor Mechanical Rooms 208 298 — 506 Cleanroom Systems — — 45,191 45,191 Data Center Cooling Solutions — 8,247 93,052 101,299 Water-Source Heat Pumps 3,128 12,770 — 15,898 Part Sales 66,413 6 1,277 67,696 Other 23,855 4,220 969 29,044 $ 897,919 $ 112,320 $ 158,279 $ 1,168,518 Year Ended December 31, 2022 AAON Oklahoma AAON Coil Products BASX Total (in thousands) Rooftop Units $ 579,363 $ — $ — $ 579,363 Condensing Units 302 46,287 — 46,589 Air Handlers — 47,442 14,434 61,876 Outdoor Mechanical Rooms 612 855 — 1,467 Cleanroom Systems — — 47,020 47,020 Data Center Cooling Solutions — — 53,522 53,522 Water-Source Heat Pumps 11,529 8,797 — 20,326 Part Sales 52,927 — 671 53,598 Other 19,112 3,909 2,006 25,027 $ 663,845 $ 107,290 $ 117,653 $ 888,788 Year Ended December 31, 2021 AAON Oklahoma AAON Coil Products BASX 1 Total (in thousands) Rooftop Units $ 398,461 $ — $ — $ 398,461 Condensing Units 762 25,989 — 26,751 Air Handlers — 26,589 95 26,684 Outdoor Mechanical Rooms 820 464 — 1,284 Cleanroom Systems — — 2,288 2,288 Data Center Cooling Solutions — — 1,688 1,688 Water-Source Heat Pumps 10,831 10,343 — 21,174 Part Sales 41,127 1 — 41,128 Other 11,844 3,203 12 15,059 $ 463,845 $ 66,589 $ 4,083 $ 534,517 1 BASX was acquired on December 10, 2021. We have included the results of BASX's operations in our consolidated financial statements beginning December 11, 2021.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

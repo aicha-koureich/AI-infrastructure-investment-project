@@ -1,0 +1,23 @@
+FIRM         : HP (CIK 0000046765) | FY2017
+FILE         : 0000046765_HP_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 4.0-15.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost less accumulated depreciation. Substantially all property, plant and equipment are depreciated using the straight-line method based on the estimated useful lives of the assets (contract drilling equipment, 4-15 years; real estate buildings and equipment, 10-45 years; and other, 2-23 years).
+
+[VERBATIM — Changement de politique]
+During fiscal 2015, our valuation of long-lived assets resulted in $39.2 million of impairment charges to reduce the carrying value of seven SCR land rigs within our International Land segment to their estimated fair value of $20.6 million which was based on a discounted cash flow analysis. Our discounted cash flow analysis consisted of creating projected cash flows that a market participant would reasonably develop and then applying an appropriate risk adjusted rate. Six of these rigs along with other rig related assets were classified as held for sale at September 30, 2016. When the assets were originally classified as held for sale, the Latin American drilling market appeared to be trending upward. As marketing efforts continued, buyer interest diminished due to the Latin American market remaining flat in terms of rig counts and oil prices. Since that point, the market remained flat in terms of rig counts and oil prices. During the third quarter of fiscal 2017, we determined the equipment no longer met the held for sale criteria and reclassified it to property, plant and equipment. Our 2017 results of operations reflect a $2.2 million depreciation catch-up adjustment as a result of this decision. The equipment is recorded at its carrying value which is lower than its estimated fair value.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

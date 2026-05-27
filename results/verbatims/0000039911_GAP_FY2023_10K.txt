@@ -1,0 +1,20 @@
+FIRM         : GAP (CIK 0000039911) | FY2023
+FILE         : 0000039911_GAP_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 3, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+• lease and other occupancy related cost, depreciation, and amortization related to our store operations, distribution centers, information technology, and certain corporate functions; and
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+When assets are sold or retired, the cost and related accumulated depreciation are removed from the accounts, with any resulting gain or loss recorded within operating expenses on the Consolidated Statements of Operations. Costs of maintenance and repairs are expensed as incurred. Costs incurred to implement cloud computing arrangements hosted by third-party vendors are capitalized when incurred during the application development phase and amortized on a straight-line basis over the contractual term, plus any reasonably certain renewal periods, of the cloud computing arrangement. Capitalized amounts related to such arrangements are recorded within other current assets and other long-term assets on our Consolidated Balance Sheets and were not material for fiscal 2023, 2022, or 2021.

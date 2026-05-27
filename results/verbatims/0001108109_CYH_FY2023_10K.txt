@@ -1,0 +1,23 @@
+FIRM         : CYH (CIK 0001108109) | FY2023
+FILE         : 0001108109_CYH_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 4. GOODWILL AND OTHER INTANGIBLE ASSETS
+ASSET CAT.   : software is generally
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+The estimated amortization period for capitalized internal-use software is generally three years . At December 31, 2023 , there were approximately $ 68 million of capitalized costs for internal-use software that is currently in the development stage and will begin amortization once the software project is complete and ready for its intended use. Amortization expense on capitalized internal-use software was $ 80 million, $ 85 million and $ 108 million during the years ended December 31, 2023, 2022 and 2021 , respectively. Amortization expense on capitalized internal-use software is estimated to be $ 57 million in 2024, $ 39 million in 2025, $ 27 million in 2026, $ 12 million in 2027, $ 7 million in 2028 and $ 2 million thereafter.
+
+[VERBATIM — Changement de politique]
+Physician Income Guarantees . The Company enters into physician recruiting agreements under which it supplements physician income to a minimum amount over a period of time, typically one year , while the physicians establish themselves in the community. As part of the agreements, the physicians are committed to practice in the community for a period of time, typically three years , which extends beyond their income guarantee period. The Company records an asset and liability for the estimated fair value of minimum revenue guarantees on new agreements and the asset is amortized over the life of each respective agreement. Adjustments to the ultimate value of the guarantee paid to physicians are recognized in the period that the change in estimate is identified. As of December 31, 2023 and 2022 , the unamortized portion of these physician income guarantees was $ 9 million and $ 12 million, respectively, and is recorded in other assets in the consolidated balance sheets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

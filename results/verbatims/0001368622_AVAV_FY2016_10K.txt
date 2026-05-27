@@ -1,0 +1,21 @@
+FIRM         : AVAV (CIK 0001368622) | FY2016
+FILE         : 0001368622_AVAV_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : April 30, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Organization and Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 2.0-7.0 ans | 3.0-7.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+The Company finances the purchase of certain IT equipment and perpetual software licenses with capital lease arrangements. The assets and liabilities under capital leases are recorded at the lesser of the present value of aggregate future minimum lease payments, including estimated bargain purchase options, or the fair value of the asset under lease. Assets under capital leases are depreciated using the straight-line method over the lesser of the estimated useful life of the asset or the term of the lease.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : FIVE (CIK 0001177609) | FY2017
+FILE         : 0001177609_FIVE_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+. The TCJA also provides for acceleration of depreciation for certain assets placed into service after September 27, 2017, as well as prospective changes beginning in 2018, including additional limitations on deductibility of executive compensation and employee meal benefits.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

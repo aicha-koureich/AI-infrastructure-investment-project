@@ -1,0 +1,20 @@
+FIRM         : EVTC (CIK 0001559865) | FY2020
+FILE         : 0001559865_EVTC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cost of revenues in 2020 increased by $13.5 million or 6% when compared to prior year. The increase is primarily related to an increase in salaries and compensation costs, mainly driven by increased headcount including the PlacetoPay acquisition, and special incentives paid in connection with COVID-19, coupled with increases in professional services related to programming fees and increases in cloud services. ||| Payment Services - Puerto Rico & Caribbean segment revenues in 2020 decreased by $0.8 million to $124.8 million when compared to prior year. The decrease was driven by the absence of revenue from a one-time project in the prior year of $2.7 million and lower transaction volumes in ATH and POS. These decreases were partially offset by incremental revenue recognized from ATH Movil and ATH Movil Business, as the pandemic forced consumers to shift towards digital channels, and new issuing services provided to several health care companies. Adjusted EBITDA decreased by $11.7 million to $66.9 million primarily due to an increase in cloud computing arrangement related expenses, coupled with higher operating expenses related to post-implementation costs from an electronic benefits project and higher cost of sales directly related to new services.

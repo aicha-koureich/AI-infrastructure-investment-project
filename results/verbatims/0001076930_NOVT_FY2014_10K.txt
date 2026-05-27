@@ -1,0 +1,23 @@
+FIRM         : NOVT (CIK 0001076930) | FY2014
+FILE         : 0001076930_NOVT_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : machinery and equipment
+DURÉE        : 1.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are recorded at cost, adjusted for any impairment, less accumulated depreciation. Estimated useful lives for buildings and building improvements range from 3 to 30 years and 1 to 10 years for machinery and equipment.
+
+[VERBATIM — Changement de politique]
+A hypothetical depreciation of 10% in foreign currency exchange rate, primarily cumulative translation adjustments from the quoted foreign currency exchange rates as of December 31, 2014 would impact shareholder equity by $9.1 million or 4%. We did not hold foreign currency rate derivative contracts as of December 31, 2014.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

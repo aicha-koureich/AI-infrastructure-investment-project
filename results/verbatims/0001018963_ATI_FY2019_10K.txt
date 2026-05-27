@@ -1,0 +1,20 @@
+FIRM         : ATI (CIK 0001018963) | FY2019
+FILE         : 0001018963_ATI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 4. Property, Plant and Equipment
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In millions) 2019 2018 2017 Depreciation of property, plant and equipment $ 127.1 $ 131.9 $ 135.2 Software and other amortization 24.0 24.5 25.6 Total depreciation and amortization $ 151.1 $ 156.4 $ 160.8
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

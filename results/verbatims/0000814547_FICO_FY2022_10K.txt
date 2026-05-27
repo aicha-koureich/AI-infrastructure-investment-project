@@ -1,0 +1,21 @@
+FIRM         : FICO (CIK 0000814547) | FY2022
+FILE         : 0000814547_FICO_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-09-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Nature of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment and software
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 6.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated Useful Life Data processing equipment and software 3 years to 6 years Office furniture and equipment 3 years to 7 years Leasehold improvements Shorter of estimated useful life or lease term Equipment under finance lease Shorter of estimated useful life or lease term
+
+[VERBATIM — Infrastructure IA]
+We lease office space and data centers under operating lease arrangements, which constitute the majority of our lease obligations. We also enter into finance lease agreements from time to time for certain computer equipment. For any lease with a lease term in excess of 12 months, the related lease assets and liabilities are recognized on our consolidated balance sheets as either operating or finance leases at the commencement of an agreement where it is determined that a lease exists. We have lease agreements that contain both lease and non-lease components, and we have elected to combine these components together and account for them as a single lease component for all classes of assets. Leases with a lease term of 12 months or less are not recorded on our consolidated balance sheets. Furthermore, we recognize lease expense for these leases on a straight-line basis over the lease term.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The fiscal 2022 over 2021 decrease of $24.5 million in research and development expenses was primarily attributable to a $20.1 million decrease in personnel and labor costs as a result of decreased headcount, and a $3.0 million decrease in third-party cloud computing costs. Research and development expenses as a percentage of revenues decreased to 11% during fiscal 2022 from 13% during fiscal 2021. ||| The fiscal 2022 from 2021 decrease in selling, general and administrative expenses of $12.4 million was primarily attributable to a $27.6 million decrease in personnel and labor costs, partially offset by a $6.4 million increase in marketing costs, a $5.1 million increase in travel costs, a $3.4 million increase in insurance costs, and a $0.8 million increase in third-party cloud computing costs. The decrease in personnel and labor costs was primarily a result of decreased headcount, decreased fringe benefit costs related to our supplemental retirement and savings plan, and lower non-capitalizable commission cost, partially offset by higher share-based compensation. The increase in marketing and travel costs was primarily driven by a company-wide marketing event held during fiscal 2022. In addition, travel costs increased as certain COVID-19 related restrictions have been relaxed. Selling, general and administrative expenses as a percentage of revenues decreased to 28% during fiscal 2022 from 30% during fiscal 2021. ||| Our SaaS products provide customers with access to and standard support for our software on a subscription basis, delivered through our own infrastructure or third-party cloud services. The SaaS transaction contracts typically include a guaranteed minimum fee per period that allows up to a certain level of usage and a consumption-based variable fee in excess of the minimum threshold; or a consumption-based variable fee not subject to a minimum threshold. The nature of our SaaS arrangements is to provide continuous access to our hosted solutions in the cloud, i.e., a stand-ready obligation that comprises a series of distinct service periods (e.g., a series of distinct daily, monthly or annual periods of service). We estimate the total variable consideration at contract inception — subject to any constraints that may apply — and update the estimates as new information becomes available and recognize the amount ratably over the SaaS service period, unless we determine it is appropriate to allocate the variable amount to each distinct service period and recognize revenue as each distinct service period is performed.

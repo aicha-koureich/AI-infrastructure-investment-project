@@ -1,0 +1,20 @@
+FIRM         : SFNC (CIK 0000090498) | FY2021
+FILE         : 0000090498_SFNC_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 7:
+ASSET CAT.   : equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In thousands) 2021 2020 Right-of-use lease assets $ 48,855 $ 31,348 Premises and equipment: Land 101,728 90,953 Buildings and improvements 320,844 293,338 Furniture, fixtures and equipment 107,122 100,863 Software 66,947 64,877 Construction in progress 9,117 763 Accumulated depreciation and amortization (171,144) (140,450) Total premises and equipment, net $ 483,469 $ 441,692
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

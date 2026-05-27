@@ -1,0 +1,23 @@
+FIRM         : EWBC (CIK 0001069157) | FY2019
+FILE         : 0001069157_EWBC_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and Equipment, Net — The Company’s premises and equipment are stated at cost less accumulated depreciation and amortization.
+
+[VERBATIM — Changement de politique]
+The Company grants restricted stock units (“RSUs”), which include service conditions for vesting. Additionally, some of the Company’s RSUs contain performance goals and market conditions that are required to be met in order for the awards to vest. RSUs vest ratably over three years or cliff vest after three or five years of continued employment from the date of the grant. RSUs are authorized to settle predominantly in shares of the Company’s common stock. Compensation cost for those awards is based on quoted market price of the Company’s common stock at the grant date. Certain RSUs will be settled in cash, which subjects these RSUs to variable accounting whereby the compensation cost is adjusted to fair value based on changes in the Company’s stock price up to the settlement date. Compensation cost is amortized on a straight-line basis over the requisite service period for the entire award, which is generally the maximum vesting period of the award. Effective January 1, 2017, the Company prospectively adopted ASU 2016-09, Compensation — Stock Compensation (Topic 718) : Improvement to Employee Share-Based Payment Accounting . As a result of its adoption, all excess tax benefits and deficiencies on share-based payment awards are recognized within Income tax expense on the Consolidated Statement of Income. Before 2017, the tax benefits were recorded as increases to Additional paid-in capital on the Consolidated Balance Sheet.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15, Intangibles — Goodwill and Other — Internal-Use Software (Subtopic 350-40) Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| The ASU amends ASC Topic 350-40 to align the accounting for costs incurred in a cloud computing arrangement with the guidance on developing internal use software. Specifically, if a cloud computing arrangement is deemed to be a service contract, certain implementation costs are eligible for capitalization. The new guidance prescribes the balance sheet and income statement presentation and cash flow classification for the capitalized costs and related amortization expense. The amendments in this ASU should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

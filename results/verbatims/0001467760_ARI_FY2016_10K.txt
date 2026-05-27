@@ -1,0 +1,20 @@
+FIRM         : ARI (CIK 0001467760) | FY2016
+FILE         : 0001467760_ARI_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Data Center - Manassas, VA  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

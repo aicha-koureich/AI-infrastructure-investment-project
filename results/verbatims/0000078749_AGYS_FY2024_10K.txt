@@ -1,0 +1,21 @@
+FIRM         : AGYS (CIK 0000078749) | FY2024
+FILE         : 0000078749_AGYS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : furniture, equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 7.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+The estimated useful lives for depreciation and amortization are as follows: buildings and building improvements – 7 to 30 years ; furniture – 7 to 10 years ; equipment – 3 to 10 years ; software – 3 to 10 years ; and leasehold improvements over the shorter of the economic life or the lease term. Amounts capitalized are amortized over the estimated useful lives of the software, ranging from 3 to 10 years, beginning with the project’s completion.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+General and administrative. General and administrative increased $5.6 million, or 18.3%, in fiscal 2024 compared to fiscal 2023 due to investments in our information security infrastructure along with hiring and increased compensation rates across our administrative teams, increased travel, and higher subscription charges for cloud computing arrangements. ||| General and administrative increased $5.6 million, or 18.3%, in fiscal 2024 compared to fiscal 2023 due to investments in our information security infrastructure along with hiring and increased compensation rates across our administrative teams, increased travel, and higher subscription charges for cloud computing arrangements.

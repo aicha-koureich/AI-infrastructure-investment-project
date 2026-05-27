@@ -1,0 +1,24 @@
+FIRM         : CHDN (CIK 0000020212) | FY2023
+FILE         : 0000020212_CHDN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-02
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 1.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : Blackwell (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 2.0-10.0 ans | 3.0 ans
+
+[VERBATIM — Durée de vie]
+Our capital maintenance expenditures relate to the replacement of existing fixed assets with a useful life greater than one year that are obsolete, exhausted, or no longer cost effective to repair. Our capital project expenditures represent fixed asset additions related to land or building improvements to new or existing assets or purchases of new (non-replacement) equipment or software related to specific projects deemed necessary expenditures.
+
+[VERBATIM — Changement de politique]
+Eliminations include the elimination of intersegment transactions. We utilize non-GAAP measures, including EBITDA (earnings before interest, taxes, depreciation and amortization) and Adjusted EBITDA. Our chief operating decision maker utilizes Adjusted EBITDA to evaluate segment performance, develop strategy, and allocate resources. Adjusted EBITDA includes the following adjustments:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

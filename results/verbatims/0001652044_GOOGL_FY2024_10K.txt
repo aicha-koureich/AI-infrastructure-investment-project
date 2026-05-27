@@ -1,0 +1,20 @@
+FIRM         : GOOGL (CIK 0001652044) | FY2024
+FILE         : 0001652044_GOOGL_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies
+ASSET CAT.   : servers and network equipment generally over a period of
+DURÉE        : 7.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : TPU (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation. We depreciate data center and office buildings over periods of seven to 40 years.
+
+[VERBATIM — Infrastructure IA]
+Property and equipment is comprised of technical infrastructure, office space, corporate and other assets currently in service, and assets not yet in service. Technical infrastructure includes data center land, buildings and leasehold improvements, and servers and network equipment. Office space includes office land, buildings and leasehold improvements. Assets not yet in service are those that are not ready for our intended use, including data center buildings and servers in the process of construction or assembly.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Alphabet is a collection of businesses — the largest of which is Google. We report Google in two segments, Google Services and Google Cloud; we also report all non-Google businesses collectively as Other Bets. For further details on our segments, see Part I, Item 1 Business and Note 15 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K. ||| The continuing evolution of the online world has contributed to the growth of our business and our revenues since inception. We expect that this evolution will continue to benefit our business and our revenues, although at a slower pace than we have experienced historically. In addition, we face increasing competition for user engagement and advertisers, including from other developers and providers of AI products and services, which may affect our revenues. ||| We continue to make significant research and development investments in areas of strategic focus as we seek to develop new, innovative offerings, improve our existing offerings, and rapidly and responsibly deploy AI across our businesse s. We also expect to increase, relative to 2024, our i nvestment in our technical infrastructure, including servers, network equipment, and data centers, to support the growth of our business and our long-term initiatives, in particular in support of AI products and services. In addition, acquisitions and strategic investments remain important elements in our use of capital and contribute to the breadth and depth of our offerings, expand our expertise in engineering and other functional areas, and build strong partnerships around strategic initiatives.

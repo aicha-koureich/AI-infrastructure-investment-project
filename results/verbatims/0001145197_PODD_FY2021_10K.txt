@@ -1,0 +1,21 @@
+FIRM         : PODD (CIK 0001145197) | FY2021
+FILE         : 0001145197_PODD_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-15.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are amortized over their estimated useful life and recorded within cost of revenues.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Net cash used in operating activities of $68.1 million in 2021 was primarily attributable to net income, as adjusted for depreciation and amortization, loss on extinguishment of debt, non-cash interest, and stock-based compensation, partially offset by a $263.6 million working capital cash outflow. The working capital outflow was driven by a $154.4 million increase in inventories, a $71.3 million increase in accounts receivable and a $46.7 million increase in prepaid expenses and other assets, partially offset by a $24.4 million increase in accrued expenses and other liabilities. The increase in inventories was primarily driven by a planned inventory build to satisfy demand and the addition of our third highly automated manufacturing line. The increase in accounts receivable was primarily due to an increase in U.S. pharmacy channel, which has longer payment terms. The increase in prepaid expenses and other assets was primarily driven by an increase in cloud computing implementation

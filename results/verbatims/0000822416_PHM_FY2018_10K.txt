@@ -1,0 +1,21 @@
+FIRM         : PHM (CIK 0000822416) | FY2018
+FILE         : 0000822416_PHM_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4
+ASSET CAT.   : equipment, furniture
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 3.0-5.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is computed by the straight-line method based upon estimated useful lives as follows: office furniture and equipment - 3 to 10 years; leasehold improvements - life of the lease; software and hardware - 3 to 5 years; model park improvements and furnishings - 1 to 5 years. Property and equipment are included in other assets and totaled $92.9 million net of accumulated depreciation of $209.3 million at December 31, 2018 and $70.7 million net of accumulated depreciation of $206.5 million at December 31, 2017 .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

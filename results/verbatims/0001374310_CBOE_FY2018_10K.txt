@@ -1,0 +1,20 @@
+FIRM         : CBOE (CIK 0001374310) | FY2018
+FILE         : 0001374310_CBOE_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+The Company currently leases office space, data centers and remote network operations centers, with lease terms remaining ranging from three months to one hundred months as of December 31, 2018. Total rent expense related to these lease obligations, reflected in technology support services and facilities costs line items on the consolidated statements of income, for the years ended December 31, 2018, 2017, and 2016 were $10.1 million, $7.6 million and $4.4 million, respectively.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

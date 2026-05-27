@@ -1,0 +1,20 @@
+FIRM         : GPN (CIK 0001123360) | FY2018
+FILE         : 0001123360_GPN_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 5 —PROPERTY AND EQUIPMENT
+ASSET CAT.   : Equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Range of Depreciable Lives (Years) 2018 2017 (in thousands) Land $ 3,518 $ 2,742 Buildings 25-30 27,179 29,309 Equipment 2-20 337,589 280,774 Software 2-10 539,879 411,975 Leasehold improvements 3-15 73,298 63,154 Furniture and fixtures 3-7 45,346 24,054 1,026,809 812,008 Less accumulated depreciation and amortization (503,827 ) (314,336 ) Work-in-progress 130,560 90,676 $ 653,542 $ 588,348
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is Service Contract ||| (A Consensus of the FASB Emerging Issues Task Force)." ASU 2018-15 provides additional guidance on the accounting for costs of implementation activities performed in a cloud computing arrangement that is a service contract. The amendments in this update also provide additional disclosure requirements to disclose the nature of an entity’s hosting arrangements that are service contracts. ASU 2018-15 is effective for annual and interim periods beginning after December 15, 2019. We are evaluating the effect of ASU 2018-15 on our consolidated financial statements. ||| In August 2018, the FASB issued ASU 2018-15, "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is Service Contract (A Consensus of the FASB Emerging Issues Task Force)." ASU 2018-15 provides additional guidance on the accounting for costs of implementation activities performed in a cloud computing arrangement that is a service contract. The amendments in this update also provide additional disclosure requirements to disclose the nature of an entity’s hosting arrangements that are service contracts. ASU 2018-15 is effective for annual and interim periods beginning after December 15, 2019. We are evaluating the effect of ASU 2018-15 on our consolidated financial statements.

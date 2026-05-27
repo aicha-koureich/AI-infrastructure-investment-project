@@ -1,0 +1,20 @@
+FIRM         : TPR (CIK 0001116132) | FY2022
+FILE         : 0001116132_TPR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-07-02
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Capital expenditure & cloud computing implementation commitments ||| Total capital expenditures and cloud computing implementation costs were $161.6 million in fiscal 2022 as the Company continues to prioritize investing in digital capabilities. Certain cloud computing implementation costs are recognized within Prepaid expenses and Other assets on the Consolidated Balance Sheets. ||| Total Fiscal 2023 Fiscal 2024 – 2025 Fiscal 2026 – 2027 Fiscal 2028 and Beyond (millions) Capital expenditure & cloud computing implementation commitments $ 49.7 $ 41.0 $ 8.7 $ — $ — Inventory purchase obligations 460.7 460.7 — — — Operating lease obligations 2,064.8 365.2 556.3 373.6 769.7 Finance lease obligations 4.1 1.4 2.7 — — Debt repayment 1,700.0 $ 31.2 353.4 418.8 896.6 Interest on outstanding debt 347.5 60.1 114.6 88.8 84.0 Mandatory transition tax payments (1) 127.1 31.8 95.3 — — Other 323.5 177.1 141.6 4.8 — Total $ 5,077.4 $ 1,168.5 $ 1,272.6 $ 886.0 $ 1,750.3

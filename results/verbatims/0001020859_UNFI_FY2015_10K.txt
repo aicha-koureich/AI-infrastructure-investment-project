@@ -1,0 +1,20 @@
+FIRM         : UNFI (CIK 0001020859) | FY2015
+FILE         : 0001020859_UNFI_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 1, 2015
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company has additional operating divisions that do not meet the quantitative thresholds for reportable segments and are therefore aggregated under the caption of "Other". "Other" includes a retail division, which engages in the sale of natural foods and related products to the general public through retail storefronts on the east coast of the United States, a manufacturing division, which engages in importing, roasting and packaging of nuts, seeds, dried fruit and snack items, and the Company's branded product lines. "Other" also includes certain corporate operating expenses that are not allocated to operating divisions, which consist of depreciation, salaries, retainers, and other related expenses of officers, directors, corporate finance (including professional services), information technology, governance, legal, human resources and internal audit that are necessary to operate the Company's headquarters located in Providence, Rhode Island.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

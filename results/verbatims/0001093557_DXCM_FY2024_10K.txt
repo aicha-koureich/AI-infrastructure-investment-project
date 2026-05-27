@@ -1,0 +1,20 @@
+FIRM         : DXCM (CIK 0001093557) | FY2024
+FILE         : 0001093557_DXCM_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+In the ordinary course of our business, we collect and store sensitive data, such as our proprietary business information and that of our clients, contractors, vendors and others as well as personally identifiable information of our customers, potential customers, vendors and others, which data may include sensitive information, in our data centers and on our networks. Our employees, contractor and vendors may also have access to and may use personal health information in the ordinary course of our business. The secure processing, maintenance and transmission of this information is critical to our operations. Despite our security measures and business controls, our information technology and infrastructure may be vulnerable to attacks by hackers (including nation states or state-sponsored organizations), viruses, malware, breaches due to employee, contractor or vendor error, or malfeasance or other disruptions or subject to the inadvertent or intentional unauthorized release of information. Any such occurrence could compromise our networks and the information stored thereon could be accessed, publicly disclosed, lost or stolen. Any such access, acquisition, disclosure or other loss of information could result in legal claims or proceedings, and liability under laws that protect the privacy of personal information, including regulatory penalties, disrupt our operations and the services we provide to our clients or damage our reputation, any of which could adversely affect our profitability, revenue and competitive position.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

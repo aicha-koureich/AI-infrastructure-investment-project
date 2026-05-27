@@ -1,0 +1,20 @@
+FIRM         : CMI (CIK 0000026172) | FY2021
+FILE         : 0000026172_CMI_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Lease expense for operating leases is recognized on a straight-line basis over the lease term. Lease expense for finance leases are generally front-loaded as the finance lease ROU asset is depreciated on a straight-line basis, but interest expense on the liability is recognized utilizing the interest method that results in more expense during the early years of the lease. We have lease agreements with lease and non-lease components, primarily related to real estate, vehicle and information technology (IT) assets. For vehicle and real estate leases, we account for the lease and non-lease components as a single lease component. For IT leases, we allocate the payment between the lease and non-lease components based on the relative value of each component. See Note 8, "LEASES," for additional information.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

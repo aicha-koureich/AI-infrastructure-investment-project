@@ -1,0 +1,20 @@
+FIRM         : JBL (CIK 0000898293) | FY2024
+FILE         : 0000898293_JBL_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-10-28
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Beginning September 1, 2024, we reorganized our internal structure to focus on speed, precision, and solutions and as a result of our organizational realignment, we will report our business in the following three segments: Regulated Industries, Intelligent Infrastructure, and Connected Living and Digital Commerce. Our Regulated Industries segment is focused on regulated markets and includes revenues from customers primarily in the automotive and transportation, healthcare and packaging, and renewable energy infrastructure industries. Our Intelligent Infrastructure segment is focused on the modern digital ecosystem including artificial intelligence (“AI”) infrastructure and includes revenues from customers primarily in the capital equipment, cloud and data center infrastructure, and networking and communications industries. Our Connected Living and Digital Commerce segment is focused on digitalization and automation, including warehouse automation, and robotics, and includes revenues from customers primarily in the connected living and digital commerce industries.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Net revenue decreased during the fiscal year ended August 31, 2024, compared to the fiscal year ended August 31, 2023. Specifically, the EMS segment net revenue decreased 18% primarily due to: (i) a 9% decrease in revenues from existing customers within our 5G, wireless, and cloud business, primarily driven by the continued transitioning to a customer-controlled consignment model in our cloud business during fiscal year 2024, (ii) a 4% decrease in revenues from existing customers within our industrial and semi-capital equipment business, (iii) a 3% decrease in revenues from existing customers within our digital print and retail business, and (iv) a 2% decrease in revenues from existing customers within our networking and storage business. The DMS segment net revenue decreased 16% due to: (i) a 13% decrease primarily driven by the divestiture of the Mobility Business, (ii) a 3% decrease in revenues from existing customers within our connected devices business, and (iii) a 1% decrease in revenues from existing customers within our healthcare and packaging business. The decrease is partially offset by a 1% increase in revenues from existing customers within our automotive and transportation business.

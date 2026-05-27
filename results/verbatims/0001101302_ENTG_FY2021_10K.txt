@@ -1,0 +1,20 @@
+FIRM         : ENTG (CIK 0001101302) | FY2021
+FILE         : 0001101302_ENTG_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+demand perspective, during 2021 we continued to see strong demand for our leading-edge products, largely driven by accelerated digitalization, 5G applications and high-performance computing.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

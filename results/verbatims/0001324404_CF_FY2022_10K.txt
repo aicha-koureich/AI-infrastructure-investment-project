@@ -1,0 +1,23 @@
+FIRM         : CF (CIK 0001324404) | FY2022
+FILE         : 0001324404_CF_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization are computed using the straight-line method and are recorded over the estimated useful life of the property, plant and equipment.
+
+[VERBATIM — Changement de politique]
+Environmental expenditures that relate to current operations are expensed or capitalized as appropriate. Expenditures that relate to an existing condition caused by past operations are expensed. Expenditures that increase the capacity or extend the useful life of an asset, improve the safety or efficiency of the operations, or mitigate or prevent future environmental contamination are capitalized. Liabilities are recorded when it is probable that an obligation has been incurred and the costs can be reasonably estimated. Environmental liabilities are not discounted.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

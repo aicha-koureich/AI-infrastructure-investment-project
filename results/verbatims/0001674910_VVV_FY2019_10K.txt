@@ -1,0 +1,20 @@
+FIRM         : VVV (CIK 0001674910) | FY2019
+FILE         : 0001674910_VVV_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 2 4 - Subsequent Events
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Valvoline Inc. and Consolidated Subsidiaries Consolidated Statements of Cash Flows Years ended September 30 (In millions) 2019 2018 2017 Cash flows from operating activities Net income $ 208 $ 166 $ 304 Adjustments to reconcile to cash flows from operations Depreciation and amortization 61 54 42 Deferred income taxes 23 145 117 Equity income from unconsolidated affiliates, net of distributions (3) (4) (4) Pension contributions (10) (16) (412) Loss (gain) on pension and other postretirement plan remeasurements 69 38 (68) Stock-based compensation expense 9 12 9 Other, net (2) 4 3 Change in assets and liabilities (a) Accounts receivable (30) (38) (22) Inventories (10) (4) (35) Payables and accrued liabilities 37 (2) — Other assets and liabilities (27) (35) (64) Total cash provided by (used in) operating activities 325 320 (130) Cash flows from investing activities Additions to property, plant and equipment (108) (93) (68) Acquisitions, net of cash acquired (78) (125) (68) Other investing activities, net (2) 5 1 Total cash used in investing activities (188) (213) (135) Cash flows from financing activities Net transfers from Ashland — — 5 Proceeds from borrowings, net of issuance costs 750 304 470 Repayments on borrowings (734) (108) (90) Repurchases of common stock — (325) (50) Purchase of additional ownership in subsidiary (1) (15) — Cash dividends paid (80) (58) (40) Other financing activities (6) (7) — Total cash (used in) provided by financing activities (71) (209) 295 Effect of currency exchange rate changes on cash, cash equivalents, and restricted cash (3) (3) (1) Increase (decrease) in cash, cash equivalents, and restricted cash 63 (105) 29 Cash, cash equivalents, and restricted cash - beginning of year 96 201 172 Cash, cash equivalents, and restricted cash - end of year $ 159 $ 96 $ 201 Supplemental disclosures Interest paid $ 67 $ 53 $ 35 Income taxes paid $ 25 $ 26 $ 26
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• In August 2018, the FASB issued new accounting guidance related to fees paid by a customer in a cloud computing arrangement, which aligns the accounting for implementation costs incurred in a cloud computing arrangement that is a service arrangement with the existing capitalization guidance for implementation costs incurred to develop or obtain internal-use software. Valvoline adopted this guidance prospectively on October 1, 2018 and capitalized approximately $4 million of cloud computing arrangement implementation costs during fiscal 2019. The adoption of this guidance did not have a material impact on the Company’s consolidated financial statements. ||| In August 2018, the FASB issued new accounting guidance related to fees paid by a customer in a cloud computing arrangement, which aligns the accounting for implementation costs incurred in a cloud computing arrangement that is a service arrangement with the existing capitalization guidance for implementation costs incurred to develop or obtain internal-use software. Valvoline adopted this guidance prospectively on October 1, 2018 and capitalized approximately $4 million of cloud computing arrangement implementation costs during fiscal 2019. The adoption of this guidance did not have a material impact on the Company’s consolidated financial statements.

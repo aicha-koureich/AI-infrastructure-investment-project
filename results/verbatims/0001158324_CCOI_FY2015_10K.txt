@@ -1,0 +1,27 @@
+FIRM         : CCOI (CIK 0001158324) | FY2015
+FILE         : 0001158324_CCOI_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 2. Property and equipment: (Continued)
+ASSET CAT.   : network equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+In January 2015, the Company entered into a purchase agreement with a vendor. Under the purchase agreement the Company is required to
+purchase a total of $28.9 million of network equipment during the eighteen month term. As of December 31, 2015, the Company was required to make an additional $3.0 million of
+purchases under the purchase agreement. In March 2015, the Company entered into an installment payment agreement ("IPA") with this vendor. Under the IPA the Company may purchase up to
+$25.0 million of network equipment in exchange for interest free note obligations each with a twenty-four month term. There are no payments under each note obligation for the first six months
+followed by eighteen equal installment payments for the remaining eighteen month term. As of December 31, 2015, there was $21.2 million of note obligations outstanding under the IPA,
+secured by the related equipment. The Company recorded the assets purchased and the present value of the note obligation utilizing an imputed interest rate. The resulting discount totaling
+$0.8 million as of December 31, 2015, under the note obligations is being amortized over the note term using the effective interest rate method.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

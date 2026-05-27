@@ -1,0 +1,20 @@
+FIRM         : ADSK (CIK 0000769397) | FY2015
+FILE         : 0000769397_ADSK_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Computer equipment, furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Computer equipment, software, and furniture are depreciated using the straight-line method over the estimated useful lives of the assets, which range from
+
+[VERBATIM — Infrastructure IA]
+Cost of subscription revenue includes the labor costs of providing product support to our maintenance and cloud subscription customers, including rent and occupancy, shipping and handling costs, professional services fees related to operating our network infrastructure, depreciation expense and operating lease payments associated with computer equipment, data center costs, salaries, related expenses of network operations, and allocated IT and facilities costs.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+the revenue for the period from our maintenance, desktop, cloud services and enterprise license offerings, including portions of revenue allocated to license & other revenue for those offerings. It excludes revenue from Autodesk Consulting Services, and subscription revenue related to education offerings, consumer product offerings, select Creative Finishing product offerings, Autodesk Buzzsaw, Autodesk Constructware, and third party products. Recurring revenue acquired with the acquisition of a business is captured and may cause variability in the comparison of this calculation. ||| primarily due to higher employee related costs as a result of increased premium support headcount as well as an increase in cloud services related expenses. ||| Recurring revenue represents the revenue for the period from our maintenance, desktop, cloud services and enterprise license offerings, including portions of revenue allocated to license & other revenue for those offerings. It excludes revenue from Autodesk Consulting Services, and subscription revenue related to education offerings, consumer product offerings, select Creative Finishing product offerings, Autodesk Buzzsaw, Autodesk Constructware, and third party products. Recurring revenue acquired with the acquisition of a business is captured and may cause variability in the comparison of this calculation. Recurring revenue is a statistical measure rather than a non-GAAP measure and is not meant as a substitute for net revenues.

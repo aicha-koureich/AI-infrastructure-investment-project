@@ -1,0 +1,20 @@
+FIRM         : GNW (CIK 0001276520) | FY2023
+FILE         : 0001276520_GNW_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: note 2 for a discussion of our policy for evaluating and measuring the allowance for credit losses related to our available-for-sale fixed maturity se
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amortization expense related to PVFP and capitalized software was $34 million, $38 million and $47 million for the years ended December 31, 2023, 2022 and 2021, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

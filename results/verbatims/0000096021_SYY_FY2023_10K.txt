@@ -1,0 +1,21 @@
+FIRM         : SYY (CIK 0000096021) | FY2023
+FILE         : 0000096021_SYY_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-07-01
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 8. PLANT AND EQUIPMENT
+ASSET CAT.   : equipment, Computer hardware
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Jul. 1, 2023 Jul. 2, 2022 Estimated Useful Lives (In thousands) Plant and equipment at cost: Land $ 493,051 $ 489,556 Buildings and improvements 5,768,715 5,335,446 10-30 years Fleet and equipment 4,215,364 3,886,923 3-10 years Computer hardware and software 1,587,229 1,499,514 3-5 years Total plant and equipment at cost 12,064,359 11,211,439 Accumulated depreciation (7,149,310) (6,755,019) Total plant and equipment, net $ 4,915,049 $ 4,456,420
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

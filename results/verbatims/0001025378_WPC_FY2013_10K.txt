@@ -1,0 +1,23 @@
+FIRM         : WPC (CIK 0001025378) | FY2013
+FILE         : 0001025378_WPC_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 17
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized costs are amortized on a straight-line basis over the software’s estimated useful life, which is
+
+[VERBATIM — Changement de politique]
+We carry land and buildings and personal property at cost less accumulated depreciation. We capitalize improvements and significant renovations that increase the useful life of the properties, while we expense replacements, maintenance and repairs that do not improve or extend the lives of the respective assets as incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

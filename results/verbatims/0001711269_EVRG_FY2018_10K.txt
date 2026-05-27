@@ -1,0 +1,20 @@
+FIRM         : EVRG (CIK 0001711269) | FY2018
+FILE         : 0001711269_EVRG_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 20. QUARTERLY OPERATING RESULTS (UNAUDITED)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+KANSAS CITY POWER & LIGHT COMPANY Consolidated Statements of Cash Flows Year Ended December 31 2018 2017 2016 CASH FLOWS FROM (USED IN) OPERATING ACTIVITIES: (millions) Net income $ 162.9 $ 179.8 $ 225.0 Adjustments to reconcile income to net cash from operating activities: Depreciation and amortization 281.3 266.3 247.5 Amortization of nuclear fuel 26.2 32.1 26.6 Amortization of deferred refueling outage 13.5 18.3 19.0 Net deferred income taxes and credits 48.6 82.5 92.4 Allowance for equity funds used during construction (1.4 ) (6.0 ) (6.6 ) Payments for asset retirement obligations (13.1 ) (25.5 ) (15.0 ) Other 3.9 7.5 8.8 Changes in working capital items: Accounts receivable 36.5 13.8 (12.4 ) Accounts receivable pledged as collateral — (20.0 ) — Fuel inventory and supplies 19.4 (5.2 ) 6.3 Prepaid expenses and other current assets 7.2 8.4 (73.2 ) Accounts payable (34.6 ) 11.7 (30.5 ) Accrued taxes 16.1 9.1 67.9 Other current liabilities 10.4 (0.1 ) 10.4 Changes in other assets 42.9 31.7 66.5 Changes in other liabilities 37.9 6.5 (9.4 ) Cash Flows from Operating Activities 657.7 610.9 623.3 CASH FLOWS FROM (USED IN) INVESTING ACTIVITIES: Additions to property, plant and equipment (430.7 ) (468.6 ) (447.9 ) Purchase of securities - trusts (35.1 ) (33.6 ) (31.9 ) Sale of securities - trusts 27.1 30.3 28.6 Other investing activities 4.8 0.9 (0.3 ) Cash Flows (used in) Investing Activities (433.9 ) (471.0 ) (451.5 ) CASH FLOWS FROM (USED IN) FINANCING ACTIVITIES: Short term debt, net 8.0 34.6 (47.4 ) Collateralized short-term borrowings, net — 20.0 — Proceeds from long-term debt 465.6 296.2 — Retirements of long-term debt (519.9 ) (281.0 ) — Cash dividends paid (180.0 ) (212.0 ) (122.0 ) Other financing activities 2.9 — (0.2 ) Cash Flows (used in) Financing Activities (223.4 ) (142.2 ) (169.6 ) NET CHANGE IN CASH AND CASH EQUIVALENTS 0.4 (2.3 ) 2.2 CASH AND CASH EQUIVALENTS: Beginning of period 2.2 4.5 2.3 End of period $ 2.6 $ 2.2 $ 4.5
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| In August 2018, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) No. 2018-15, Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract , which aligns the requirements for recording implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. An entity in a hosting arrangement that is a service contract will need to determine which project stage (that is, preliminary project stage, application development stage or post-implementation stage) an implementation activity relates. Costs for implementation activities in the application development stage are recorded as a prepaid asset depending on the nature of the costs, while costs incurred during the preliminary project and post-implementation stages are expensed as the activities are incurred. Costs that are recorded to a prepaid asset are to be expensed over the term of the hosting arrangement. The new guidance is effective for annual periods beginning after December 15, 2019, and interim periods within those fiscal years. The new guidance can be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. Early adoption is permitted. The Evergy Companies early adopted ASU No. 2018-15 prospectively as of January 1, 2019. The adoption of ASU No. 2018-15 did not have a material impact on the Evergy Companies.

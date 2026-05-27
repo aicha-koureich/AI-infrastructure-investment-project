@@ -1,0 +1,20 @@
+FIRM         : VMC (CIK 0001396009) | FY2024
+FILE         : 0001396009_VMC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4
+ASSET CAT.   : machinery and equipment
+DURÉE        : 3.0-35.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is generally computed by the straight-line method at rates based on the estimated service lives of the various classes of assets, which include machinery and equipment (3 to 35 years), buildings (7 to 20 years) and land improvements (3 to 20 years). Capitalized costs for software under our control (by ownership or license) are included in machinery and equipment and are depreciated on a straight-line basis beginning when the software project is substantially complete.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

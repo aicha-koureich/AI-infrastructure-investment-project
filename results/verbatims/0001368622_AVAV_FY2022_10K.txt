@@ -1,0 +1,23 @@
+FIRM         : AVAV (CIK 0001368622) | FY2022
+FILE         : 0001368622_AVAV_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-05-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Organization and Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of property and equipment, including amortization of leasehold improvements, are provided using the straight-line method over the following estimated useful lives:
+
+[VERBATIM — Changement de politique]
+The Company monitors conditions related to these assets to determine whether events and circumstances warrant a revision to the remaining amortization period. The Company tests its intangible assets with finite lives for potential impairment whenever management concludes events or changes in circumstances indicate that the carrying amount may not be recoverable. The original estimate of an asset's useful life and the impact of an event or circumstance on either an asset's useful life or carrying value involve significant judgment. Due to the closure of all the Company’s MUAS COCO sites, the Company revised the estimated useful life for the MUAS customer relationships which resulted in accelerated intangible amortization expenses of $34,149,000 during the fiscal year ended April 30, 2023.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

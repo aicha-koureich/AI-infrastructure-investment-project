@@ -1,0 +1,20 @@
+FIRM         : GLW (CIK 0000024741) | FY2016
+FILE         : 0000024741_GLW_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+An increase of $328 million in the Optical Communications segment, driven by higher sales of enterprise network products, up $170 million, due to an acquisition completed in the first quarter of 2015 and an increase in data center products sales. Sales of carrier network products also increased by $158 million driven by growth in fiber-to-the-home products in North America and the impact of two small acquisitions completed in the first quarter of 2015;  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

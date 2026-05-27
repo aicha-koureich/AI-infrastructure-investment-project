@@ -1,0 +1,21 @@
+FIRM         : BL (CIK 0001666134) | FY2018
+FILE         : 0001666134_BL_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Significant Accounting Policies
+ASSET CAT.   : machinery and equipment and purchased software
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment is stated at cost less accumulated depreciation. Depreciation is computed using the straight-line method over the estimated useful lives of the assets, which is generally three to five years for machinery and equipment and purchased software and five years for furniture and fixtures.
+
+[VERBATIM — Infrastructure IA]
+Although the Company is evaluating the impact of adopting this guidance on its consolidated financial statements, the Company expects that most of its operating lease commitments will be recognized as operating lease liabilities and right-of-use assets upon adoption of the new guidance. The Company’s operating leases primarily include real estate (office space), equipment, and data centers. Capital leases are not material. The Company will elect a number of practical expedients allowed under the guidance, including not reassessing lease identification, lease classification or initial direct costs for existing leases as of the adoption date. The Company will adopt the guidance as of January 1, 2019, and comparative periods will not be adjusted. The Company is implementing changes to internal controls to enable the preparation of financial information. The Company expects the adoption of the new accounting guidance to have a material impact on its consolidated balance sheet.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In September 2018, the Company entered into an agreement with Japanese Cloud Computing and M30 LLC (the “Investors”) to engage in the investment, organization, management, and operation of a Japanese subsidiary (“BlackLine K.K.”) of the Company that is focused on the sale of the Company's products in Japan. In October 2018, the Company initially contributed approximately $4.5 million in cash in exchange for 51% of the outstanding common stock of BlackLine K.K. As the Company controls a majority stake in BlackLine K.K., the entity will be consolidated.

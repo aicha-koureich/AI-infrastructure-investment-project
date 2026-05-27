@@ -1,0 +1,20 @@
+FIRM         : GT (CIK 0000042582) | FY2018
+FILE         : 0000042582_GT_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Accounting Policies A summary of the significant accounting policies used in the preparation of the accompanying consoli
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Additions and improvements that substantially extend the useful life of property, plant and equipment, and interest costs incurred during the construction period of major projects are capitalized. Property, plant and equipment are depreciated to their estimated residual values over their estimated useful lives, and reviewed for impairment
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the Financial Accounting Standards Board (“FASB”) issued an accounting standards update with new guidance requiring a customer in a cloud computing arrangement that is a service contract to follow existing internal-use software guidance to determine which implementation costs to capitalize as an asset. The standards update is effective for fiscal years and interim periods beginning after December 15, 2019, with early adoption permitted, and may be applied retrospectively or as of the beginning of the period of adoption. The adoption of this accounting standards update is not expected to have a material impact on our consolidated financial statements.

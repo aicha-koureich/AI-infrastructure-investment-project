@@ -1,0 +1,20 @@
+FIRM         : CVI (CIK 0001376139) | FY2014
+FILE         : 0001376139_CVI_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 8 ("Insurance Claims")
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Selling, general and administrative expenses (exclusive of depreciation and amortization) consist primarily of legal expenses, treasury, accounting, marketing, human resources, information technology and maintaining the corporate and administrative offices in Texas and Kansas.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

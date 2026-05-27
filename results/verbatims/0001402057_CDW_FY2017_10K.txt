@@ -1,0 +1,21 @@
+FIRM         : CDW (CIK 0001402057) | FY2017
+FILE         : 0001402057_CDW_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 3
+ASSET CAT.   : Machinery and equipment, equipment, Computer software, Furniture and fixtures
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Classification Estimated Useful Lives Machinery and equipment 5 to 10 years Building and leasehold improvements 5 to 25 years Computer and data processing equipment 3 to 5 years Computer software 3 to 5 years Furniture and fixtures 5 to 10 years
+
+[VERBATIM — Infrastructure IA]
+Revenue from professional services is either recognized as provided for services billed at an hourly rate, recognized using a percentage of completion model for fixed fee project work or recognized using a proportional performance model for services provided at a fixed fee. Revenues for cloud computing solutions including Software as a Service (“SaaS”) and Infrastructure as a Service (“IaaS”) arrangements with one time invoicing to the customer are recognized at the time of invoice. Revenues for data center services such as managed and remote managed services, server co-location, internet connectivity, data backup and storage, and SaaS and IaaS arrangements where the customer is invoiced over time are recognized over the period service is provided.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+ranges from discrete hardware and software products to integrated IT solutions such as mobility, security, data center optimization, cloud computing, virtualization and collaboration. ||| Revenue from professional services is recognized in either of two ways: services as an hourly rate (recognized using a percentage of completion model) or a fixed fee (recognized using a proportional performance model for the fixed fee). Revenues for cloud computing solutions including SaaS and IaaS arrangements with one time invoicing to the customer are recognized at the time of invoice. Revenues for data center services such as managed and remote managed services, server co-location, internet connectivity, data backup and storage, and SaaS and IaaS arrangements where the customer is invoiced over time are recognized over the period service is provided.

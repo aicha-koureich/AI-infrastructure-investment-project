@@ -1,0 +1,20 @@
+FIRM         : DLR (CIK 0001297996) | FY2020
+FILE         : 0001297996_DLR_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Construction in progress and space held for development includes the cost of land, the cost of construction of buildings, improvements and fixed equipment, and costs for design and engineering. Other costs, such as interest, legal, property taxes and corporate project supervision, which can be directly associated with the project during construction, are also included in construction in progress and space held for development. Land held for development includes parcels of land owned by the Company, upon which the Company intends to develop and own data centers, but has yet to commence development.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

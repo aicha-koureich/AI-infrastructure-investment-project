@@ -1,0 +1,20 @@
+FIRM         : CAL (CIK 0000014707) | FY2020
+FILE         : 0000014707_CAL_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 30, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Other assets on the consolidated balance sheets include $15.5 million and $16.2 million of computer software costs as of January 30, 2021 and February 1, 2020, respectively, which are net of accumulated amortization of $131.1 million and $126.1 million as of the end of the respective periods. In addition, other assets on the consolidated balance sheets include $9.6 million and $8.0 million of implementation costs for software as a service as of January 30, 2021 and February 1, 2020, respectively, which are net of accumulated amortization of $0.6 million and $0.3 million as of the end of the respective periods.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

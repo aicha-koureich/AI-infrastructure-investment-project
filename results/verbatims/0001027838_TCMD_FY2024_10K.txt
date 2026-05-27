@@ -1,0 +1,20 @@
+FIRM         : TCMD (CIK 0001027838) | FY2024
+FILE         : 0001027838_TCMD_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost and are depreciated using the straight-line method over their estimated useful lives of three to seven years. The value of demonstration equipment in the possession of our field sales representatives is capitalized and depreciated over the estimated useful life of the equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We capitalize certain implementation costs incurred during the development stage of implementing new software. Capitalized costs are included within prepaid expenses and other current assets and other non-current assets on the Consolidated Balance Sheets. We expense costs as incurred during the post-implementation/operation stage. Capitalized implementation costs are amortized on a straight-line basis over the contractual term of the cloud computing arrangement, which includes renewal options that are reasonably certain to be exercised.

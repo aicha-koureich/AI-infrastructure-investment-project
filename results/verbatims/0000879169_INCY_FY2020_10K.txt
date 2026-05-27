@@ -1,0 +1,20 @@
+FIRM         : INCY (CIK 0000879169) | FY2020
+FILE         : 0000879169_INCY_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment, net is stated at cost, less accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, “Intangibles – Goodwill and Other – Internal-Use Software,” an update to Subtopic ASC 350-40. The guidance directs accounting for service contracts for cloud computing arrangements to follow guidance within ASC 350-40 to determine capitalization of implementation costs. The guidance is effective for fiscal years beginning after December 15, 2019 and may be applied on either a retrospective or prospective basis. We adopted this guidance for the period beginning January 1, 2020 on a prospective basis. New contracts for development of internal-use software were assessed and no qualifying contracts were identified during the period. We will continue to assess contracts and will disclose material, qualifying contracts if identified in future periods.

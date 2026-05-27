@@ -1,0 +1,20 @@
+FIRM         : ES (CIK 0000072741) | FY2019
+FILE         : 0000072741_ES_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-02-26
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 15. LEASES
+ASSET CAT.   : information technology, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Eversource, including CL&P, NSTAR Electric and PSNH, has entered into lease agreements as a lessee for the use of land, office space, service centers, vehicles, information technology, and equipment. These lease agreements are classified as either finance or operating leases and the liability and right-of-use asset are recognized on the balance sheet at lease commencement. Leases with an initial term of 12 months or less are not recorded on the balance sheet and are recognized as lease expense on a straight-line basis over the lease term.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

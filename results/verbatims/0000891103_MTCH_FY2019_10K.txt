@@ -1,0 +1,21 @@
+FIRM         : MTCH (CIK 0000891103) | FY2019
+FILE         : 0000891103_MTCH_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-11-05
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 12—Segment Information
+ASSET CAT.   : Capitalized software, computer equipment, Furniture, equipment
+DURÉE        : 2.0-3.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-3.0 ans | 3.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+Asset Category Estimated Useful Lives Buildings and leasehold improvements 3 to 39 Years Capitalized software and computer equipment 2 to 3 Years Furniture and other equipment 3 to 12 Years
+
+[VERBATIM — Infrastructure IA]
+The Company leases land, office space, data center facilities and equipment used in connection with its operations under various operating leases, the majority of which contain escalation clauses.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The purchase obligations primarily consist of payments for cloud computing arrangements, advertising commitments, and a remaining payment related to a 50% interest in a corporate aircraft. For additional information on purchase obligations, see " Note 14—Commitments and Contingencies " to the consolidated financial statements included in " Item 8—Consolidated Financial Statements and Supplementary Data ."

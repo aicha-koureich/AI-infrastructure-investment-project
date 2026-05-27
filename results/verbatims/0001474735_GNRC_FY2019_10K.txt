@@ -1,0 +1,20 @@
+FIRM         : GNRC (CIK 0001474735) | FY2019
+FILE         : 0001474735_GNRC_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Increasing penetration opportunity. Many potential customers are still not aware of the costs and benefits of automatic backup power solutions. We estimate that penetration rates for home standby generators are only approximately 4.75% of the addressable market of homes in the United States. The decision to purchase backup power for many light-commercial buildings such as convenience stores, restaurants and gas stations is more return-on-investment driven and as a result these applications have relatively lower penetration rates as compared to buildings used in code-driven or mission critical applications such as hospitals, wastewater treatment facilities, 911 call centers, data centers and certain industrial locations. The emergence of lower cost, cleaner burning natural gas fueled generators has helped to increase the penetration of standby generators over the past decade in the light-commercial market. In addition, the installed base of backup power for telecommunications infrastructure is still increasing due to a variety of factors including the impending rollout of next-generation 5G wireless networks enabling new technologies and the growing importance for critical communications and other uninterrupted voice and data services. We believe by expanding our distribution network, continuing to develop our product lines, and targeting our marketing efforts, we can continue to build awareness and increase penetration for our standby generators for residential, commercial and industrial purposes.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+On April 1, 2019, the Company adopted ASU 2018 - 15, Intangibles – Goodwill and Other – Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract. This guidance was issued to address the diversity in practice related to the accounting for costs of implementation activities performed in a cloud computing arrangement that is a service contract. The Company adopted this standard prospectively, impacting all implementation costs incurred after adoption. The adoption did not have a material impact on the Company’s results of operations and financial position.

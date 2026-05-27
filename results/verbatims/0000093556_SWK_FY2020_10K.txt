@@ -1,0 +1,23 @@
+FIRM         : SWK (CIK 0000093556) | FY2020
+FILE         : 0000093556_SWK_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 2, 2021
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 3. Exhibits
+ASSET CAT.   : EQUIPMENT, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : B100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+PROPERTY, PLANT AND EQUIPMENT — The Company generally values property, plant and equipment (“PP&E”), including capitalized software, at historical cost less accumulated depreciation and amortization.
+
+[VERBATIM — Changement de politique]
+The Company has an interest coverage covenant that must be maintained to permit continued access to its committed credit facilities described above. The interest coverage ratio tested for covenant compliance compares adjusted Earnings Before Interest, Taxes, Depreciation and Amortization to adjusted Interest Expense ("adjusted EBITDA"/"adjusted Interest Expense"). In April 2020, the Company entered into an amendment to its 5-Year Credit Agreement to: (a) amend the definition of Adjusted EBITDA to allow for additional adjustment addbacks, which primarily relate to anticipated incremental charges related to the COVID-19 pandemic, for amounts incurred beginning in the second quarter of 2020 through the second quarter of 2021, and (b) lower the minimum interest coverage ratio from 3.5 to 2.5 times for the period from and including the second quarter of 2020 through the end of fiscal year 2021. These amendments are also applicable to the new 364-Day Credit Agreement described above.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+NEW ACCOUNTING STANDARDS ADOPTED — In August 2018, the FASB issued Accounting Standards Update ("ASU") 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract. The standard aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The Company adopted this standard in the first quarter of 2020 and it did not have a material impact on its consolidated financial statements. ||| Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract.

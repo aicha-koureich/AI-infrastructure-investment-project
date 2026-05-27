@@ -1,0 +1,20 @@
+FIRM         : ASH (CIK 0001674862) | FY2023
+FILE         : 0001674862_ASH_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-10-19
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

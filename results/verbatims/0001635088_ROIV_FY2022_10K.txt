@@ -1,0 +1,20 @@
+FIRM         : ROIV (CIK 0001635088) | FY2022
+FILE         : 0001635088_ROIV_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2023
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+performance of adequate and well-controlled human clinical trials in accordance with applicable IND regulations and requirements, GCP requirements and other clinical trial-related regulations to establish the safety and efficacy of the investigational product for each proposed indication; ||| the FDA or other relevant regulatory authorities may not accept data generated at clinical trial sites, including in situations where the authorities deem that the data was not generated in compliance with GCP, ethical standards or applicable data protection laws; ||| monitoring and assuring regulatory compliance for clinical trials, manufacturing and testing of good applicable practice (“GxP”) (e.g., GCP, GLP and GMP regulated) products;

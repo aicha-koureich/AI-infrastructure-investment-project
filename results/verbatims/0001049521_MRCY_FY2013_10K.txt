@@ -1,0 +1,23 @@
+FIRM         : MRCY (CIK 0001049521) | FY2013
+FILE         : 0001049521_MRCY_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : JUNE 30, 2013
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+, respectively, of fully depreciated computer equipment and software assets that were no longer in use by the Company.
+
+[VERBATIM — Changement de politique]
+Property and equipment are the long-lived, physical assets of the Company acquired for use in the Company’s normal business operations and are not intended for resale by the Company. These assets are recorded at cost. Renewals and betterments that increase the useful lives of the assets are capitalized. Repair and maintenance expenditures that increase the efficiency of the assets are expensed as incurred. Equipment under capital lease is recorded at the present value of the minimum lease payments required during the lease period. Depreciation is based on the estimated useful lives of the assets using the straight-line method (see Note F).
+
+[VERBATIM — Infrastructure IA]
+MCE utilizes leading edge, high performance computing technologies architected by leveraging open standards and open architectures to address highly data-intensive applications that include signal, sensor and image processing. All of this while addressing the packaging challenges, often referred to as “SWaP” (size, weight, and power) that are common in military as well as some commercial applications. In addition, MCE designs and builds RF and microwave components and subsystems to meet the needs of the EW, SIGINT and other high bandwidth communications requirements and applications.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : AAPL (CIK 0000320193) | FY2021
+FILE         : 0000320193_AAPL_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 25, 2021
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : machinery and equipment, including product tooling and manufacturing process equipment
+DURÉE        : 5.0-7.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Depreciation on property, plant and equipment is recognized on a straight-line basis over the estimated useful lives of the assets, which for buildings is the lesser of 40 years or the remaining life of the building; between one and five years for machinery and equipment, including product tooling and manufacturing process equipment; and the shorter of lease term or useful life for leasehold improvements. Capitalized costs related to internal-use software are amortized on a straight-line basis over the estimated useful lives of the assets, which range from five to seven years. Depreciation and amortization expense on property and equipment was $9.5 billion, $9.7 billion and $11.3 billion during 2021, 2020 and 2019, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

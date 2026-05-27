@@ -1,0 +1,23 @@
+FIRM         : CAT (CIK 0000018230) | FY2024
+FILE         : 0000018230_CAT_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 9. Property, plant and equipment
+ASSET CAT.   : Machinery, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, (Millions of dollars) Useful Lives (Years) 2024 2023 Land — $ 612 $ 616 Buildings and land improvements 20-45 7,281 7,154 Machinery, equipment and other 2-10 12,523 12,150 Software 3-7 1,609 1,607 Equipment leased to others 1-7 5,701 5,837 Construction-in-process — 1,751 1,259 Total property, plant and equipment, at cost 29,477 28,623 Less: Accumulated depreciation (16,116) (15,943) Property, plant and equipment–net $ 13,361 $ 12,680
+
+[VERBATIM — Changement de politique]
+During the term of our leases, we monitor residual values. For operating leases, we record adjustments to depreciation expense reflecting changes in residual value estimates prospectively on a straight-line basis. For finance leases, we recognize residual value adjustments through a reduction of finance revenue over the remaining lease term.
+
+[VERBATIM — Infrastructure IA]
+In Energy & Transportation, demand is expected to remain strong in Power Generation, as we expect growth for both reciprocating engines and turbines and turbine-related services in 2025 as compared to 2024. Overall strength in Power Generation, for both prime and backup power applications, continues to be driven by increasing energy demands to support data center growth related to cloud computing and generative artificial intelligence (AI). Through continued focus on improving manufacturing efficiencies, along with initial stages of our investment to increase large engine output capability, we expect growth in reciprocating engines for Power Generation in 2025. We also expect growth in turbines and turbine-related services for Power Generation, driven by increased customer demand. For Oil and Gas, we expect moderate growth in 2025 as compared to 2024. We expect reciprocating engines and services to be slightly down in 2025 due to continuing capital discipline by our customers, industry consolidation and efficiency improvements in our customers’ operations. We expect growth for turbines and turbine-related services in Oil & Gas in 2025 as compared to 2024. For turbines and turbine-related services used in Oil & Gas applications, backlog remains strong, and we see continued healthy order and inquiry activity. Demand for products in Industrial applications in 2025 is expected to remain at a relatively low level, similar to 2024. In Transportation, we anticipate growth in 2025, driven by rail services.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In Energy & Transportation, demand is expected to remain strong in Power Generation, as we expect growth for both reciprocating engines and turbines and turbine-related services in 2025 as compared to 2024. Overall strength in Power Generation, for both prime and backup power applications, continues to be driven by increasing energy demands to support data center growth related to cloud computing and generative artificial intelligence (AI). Through continued focus on improving manufacturing efficiencies, along with initial stages of our investment to increase large engine output capability, we expect growth in reciprocating engines for Power Generation in 2025. We also expect growth in turbines and turbine-related services for Power Generation, driven by increased customer demand. For Oil and Gas, we expect moderate growth in 2025 as compared to 2024. We expect reciprocating engines and services to be slightly down in 2025 due to continuing capital discipline by our customers, industry consolidation and efficiency improvements in our customers’ operations. We expect growth for turbines and turbine-related services in Oil & Gas in 2025 as compared to 2024. For turbines and turbine-related services used in Oil & Gas applications, backlog remains strong, and we see continued healthy order and inquiry activity. Demand for products in Industrial applications in 2025 is expected to remain at a relatively low level, similar to 2024. In Transportation, we anticipate growth in 2025, driven by rail services.

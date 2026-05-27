@@ -1,0 +1,23 @@
+FIRM         : OTIS (CIK 0001781335) | FY2021
+FILE         : 0001781335_OTIS_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-14
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2: Summary of Significant Accounting Policies
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Fixed Assets. Fixed assets, including software capitalized for internal-use, are recorded at cost. Depreciation of fixed assets is computed over the fixed assets' useful lives on a straight-line basis, unless another systematic and rational basis is more representative of the fixed asset's pattern of use. See Note 8, "Fixed Assets" for further details of useful lives.
+
+[VERBATIM — Changement de politique]
+In August 2018, the FASB issued ASU 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . The new standard provides updated guidance surrounding implementation costs associated with cloud computing arrangements that are service contracts. The provisions of this ASU were effective for years beginning after December 15, 2019. The Company adopted this standard prospectively effective January 1, 2020. The adoption of this ASU did not have a material impact on our Consolidated Financial Statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . The new standard provides updated guidance surrounding implementation costs associated with cloud computing arrangements that are service contracts. The provisions of this ASU were effective for years beginning after December 15, 2019. The Company adopted this standard prospectively effective January 1, 2020. The adoption of this ASU did not have a material impact on our Consolidated Financial Statements. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| . The new standard provides updated guidance surrounding implementation costs associated with cloud computing arrangements that are service contracts. The provisions of this ASU were effective for years beginning after December 15, 2019. The Company adopted this standard prospectively effective January 1, 2020. The adoption of this ASU did not have a material impact on our Consolidated Financial Statements.

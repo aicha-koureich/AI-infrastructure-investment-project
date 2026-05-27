@@ -1,0 +1,20 @@
+FIRM         : V (CIK 0001403161) | FY2018
+FILE         : 0001403161_V_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 15—Related Parties
+ASSET CAT.   : equipment, technology, furniture
+DURÉE        : 2.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, equipment and technology are recorded at historical cost less accumulated depreciation and amortization, which are computed on a straight-line basis over the asset’s estimated useful life. Depreciation and amortization of technology, furniture, fixtures and equipment are computed over estimated useful lives ranging from 2 to 10 years. Fully depreciated assets are retained in property, equipment and technology, net, until removed from service.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, which requires implementation costs incurred by customers in cloud computing arrangements to be deferred and recognized over the term of the arrangement, if those costs would be capitalized by the customer in a software licensing arrangement under the internal-use software guidance. The standard will be effective for the Company on October 1, 2020. However, the Company is evaluating the effect that ASU 2018-15 will have on its consolidated financial statements and is considering early adoption of the standard.

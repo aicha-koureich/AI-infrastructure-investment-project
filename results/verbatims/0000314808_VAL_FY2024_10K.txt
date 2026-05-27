@@ -1,0 +1,20 @@
+FIRM         : VAL (CIK 0000314808) | FY2024
+FILE         : 0000314808_VAL_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 13
+ASSET CAT.   : equipment
+DURÉE        : 3.0-35.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Our property and equipment is depreciated on a straight-line basis, after allowing for salvage values, over the estimated useful lives of our assets. Drilling rigs and related equipment are depreciated over estimated useful lives ranging from three to 35 years. Other equipment, including computer and communications hardware and software, is depreciated over estimated useful lives ranging from two to six years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

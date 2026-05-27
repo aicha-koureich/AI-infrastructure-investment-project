@@ -1,0 +1,20 @@
+FIRM         : ENTA (CIK 0001177648) | FY2018
+FILE         : 0001177648_ENTA_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 15. Selected Quarterly Financial Data (unaudited)
+ASSET CAT.   : office equipment, Furniture, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+September 30, 2018 2017 (in thousands) Laboratory and office equipment $ 11,110 $ 9,521 Leasehold improvements 3,739 3,717 Purchased software 1,039 775 Furniture 630 595 Computer equipment 331 245 Construction in progress 617 250 17,466 15,103 Less: Accumulated depreciation and amortization (9,092 ) (7,054 ) $ 8,374 $ 8,049
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

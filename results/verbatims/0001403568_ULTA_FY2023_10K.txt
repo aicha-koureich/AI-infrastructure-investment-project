@@ -1,0 +1,20 @@
+FIRM         : ULTA (CIK 0001403568) | FY2023
+FILE         : 0001403568_ULTA_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-03-13
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 19. Subsequent events
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment Property and equipment consists of the following: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ February 3, ​ January 28, (In thousands) 2024 2023 Equipment and fixtures ​ $ 1,297,428 ​ $ 1,147,870 Leasehold improvements ​ 928,900 ​ 855,695 Electronic equipment and software ​ 774,441 ​ 663,497 Construction-in-progress ​ 193,260 ​ 196,117 ​ ​ 3,194,029 ​ 2,863,179 Less: accumulated depreciation and amortization ​ (2,011,694) ​ (1,853,906) Property and equipment, net ​ $ 1,182,335 ​ $ 1,009,273 ​ ​ 6.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud computing arrangements ||| Cloud computing arrangements (software-as-a-service contracts) and related implementation costs that are capitalized are amortized on a straight-line basis over the contract term ( 1 month to 5 years ). These amounts are classified within prepaid expenses and other current assets and other long-term assets in the consolidated balance sheets. ||| Cloud computing costs (1)

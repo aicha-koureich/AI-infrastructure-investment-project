@@ -1,0 +1,20 @@
+FIRM         : PENN (CIK 0000921738) | FY2018
+FILE         : 0000921738_PENN_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 15, “Segment Information,”
+ASSET CAT.   : Equipment
+DURÉE        : 1.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment: Property and equipment are stated at cost, less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, “Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.” These amendments align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contact with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). The accounting for the service element of a hosting arrangement that is a service contract is not affected by these amendments. The guidance is effective for public companies for fiscal years, and interim fiscal periods within those fiscal years, beginning after December 15, 2019, with early adoption permitted. The Company is currently evaluating this guidance to determine the impact to its Consolidated Financial Statements.

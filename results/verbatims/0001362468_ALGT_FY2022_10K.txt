@@ -1,0 +1,20 @@
+FIRM         : ALGT (CIK 0001362468) | FY2022
+FILE         : 0001362468_ALGT_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2030-04-20
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 5 — Property and Equipment
+ASSET CAT.   : equipment, Computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31, (in thousands) 2022 2021 Flight equipment $ 2,937,767 $ 2,573,657 Computer hardware and software 209,808 160,237 Land and buildings/leasehold improvements 62,227 59,735 Other property and equipment 95,156 78,192 Sunseeker Resort 320,572 83,864 Total property and equipment 3,625,530 2,955,685 Less accumulated depreciation and amortization (814,837) (696,178) Property and equipment, net $ 2,810,693 $ 2,259,507
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

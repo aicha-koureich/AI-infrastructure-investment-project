@@ -1,0 +1,21 @@
+FIRM         : HRB (CIK 0000012659) | FY2022
+FILE         : 0000012659_HRB_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: note 4
+ASSET CAT.   : computers and other equipment
+DURÉE        : 2.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 3.0-5.0 ans | 8.0 ans
+
+[VERBATIM — Durée de vie]
+PROPERTY AND EQUIPMENT – Buildings, equipment and leasehold improvements are initially recorded at cost and are depreciated over the estimated useful life of the assets using the straight-line method. Estimated useful lives are generally 15 to 40 years for buildings, two to five years for computers and other equipment, three to five years for purchased software and up to eight years for leasehold improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

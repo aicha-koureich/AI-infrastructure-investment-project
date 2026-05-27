@@ -1,0 +1,20 @@
+FIRM         : BAC (CIK 0000070858) | FY2017
+FILE         : 0000070858_BAC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 Summary of Significant Accounting Principles
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment are carried at cost less accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+was primarily due to lower operating costs, a reduction from the sale of the non-U.S. consumer credit card business and lower litigation expense, partially offset by a $316 million impairment charge related to certain data centers in the process of being sold and $145 million for the shared success discretionary year-end bonus awarded to certain employees.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

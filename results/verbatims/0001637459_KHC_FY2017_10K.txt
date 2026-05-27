@@ -1,0 +1,23 @@
+FIRM         : KHC (CIK 0001637459) | FY2017
+FILE         : 0001637459_KHC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Background and Basis of Presentation
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in property, plant and equipment and amortized on a straight-line basis over the estimated useful lives of the software, which do not exceed
+
+[VERBATIM — Changement de politique]
+Employee severance and other termination benefit packages are primarily determined based on established benefit arrangements, local statutory requirements, or historical benefit practices. We recognize the contractual component of these benefits when payment is probable and estimable; additional elements of severance and termination benefits associated with non-recurring benefits are recognized ratably over each employee’s required future service period. Charges for accelerated depreciation are recognized on long-lived assets that will be taken out of service before the end of their normal service, in which case depreciation estimates are revised to reflect the use of the asset over its shortened useful life. Asset impairments establish a new fair value basis for assets held for disposal or sale and those assets are written down to expected net realizable value if carrying value exceeds fair value. All other costs are recognized as incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

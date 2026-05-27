@@ -1,0 +1,20 @@
+FIRM         : CHRW (CIK 0001043277) | FY2021
+FILE         : 0001043277_CHRW_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-09
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : EQUIPMENT
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+PROPERTY AND EQUIPMENT. Property and equipment are recorded at cost. Maintenance and repair expenditures are charged to expense as incurred. Depreciation is computed using the straight-line method over the estimated lives of the assets. Amortization of leasehold improvements is computed over the shorter of the lease term or the estimated useful lives of the improvements.
+
+[VERBATIM — Infrastructure IA]
+• Selling, general, and administrative (“SG&A”) expenses increased 6.1 percent to $526.4 million, primarily due to the increases in purchased services and warehouse expenses, partially offset by decreases in amortization and bad debt expenses and by an $11.5 million loss on the sale-leaseback of a company-owned data center in 2020.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

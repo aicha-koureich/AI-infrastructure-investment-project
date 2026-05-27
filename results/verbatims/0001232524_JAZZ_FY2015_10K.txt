@@ -1,0 +1,20 @@
+FIRM         : JAZZ (CIK 0001232524) | FY2015
+FILE         : 0001232524_JAZZ_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05, “Intangibles-Goodwill and Other-Internal-Use Software”, or ASU No. 2015-05. ASU No. 2015-05 provides guidance on whether a cloud computing arrangement contains a software license to be accounted for as internal-use software to assist in the evaluation of the accounting for fees paid by a customer in the arrangement. ASU No. 2015-05 will be effective for us beginning January 1, 2016 and may be applied either prospectively to new cloud computing arrangements or retrospectively. This guidance is not expected to have a material impact on our financial position or results of operations.

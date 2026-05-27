@@ -1,0 +1,20 @@
+FIRM         : ARES (CIK 0001176948) | FY2024
+FILE         : 0001176948_ARES_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-06-30
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Acquisition-related costs increased by $45.4 million for the year ended December 31, 2024 compared to the prior year. Acquisition-related costs generally precede a business combination, varying with the size, scale and complexity of the transaction. The majority of the costs incurred in the current year are related to the GCP Acquisition. The GCP Acquisition is expected to close in the first half of 2025. We also incurred costs in the current year for various strategic acquisitions, including the WSM Acquisition which was completed in the fourth quarter of 2024. We expect to continue to incur acquisition-related costs until acquisitions are completed. ||| Acquisition-related costs generally precede a business combination, varying with the size, scale and complexity of the transaction. The majority of the costs incurred in the current year are related to the GCP Acquisition. The GCP Acquisition is expected to close in the first half of 2025. We also incurred costs in the current year for various strategic acquisitions, including the WSM Acquisition which was completed in the fourth quarter of 2024. We expect to continue to incur acquisition-related costs until acquisitions are completed. ||| • Interest and dividend income, primarily due to: (i) interest income generated from our investments in CLOs; and (ii) $11.5 million of interest income generated from capital raised in anticipation of the GCP Acquisition, which was temporarily invested in treasury-backed securities. Following the completion of the GCP Acquisition, this portion of interest income will subside

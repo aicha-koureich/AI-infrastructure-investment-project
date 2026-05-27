@@ -1,0 +1,23 @@
+FIRM         : BLKB (CIK 0001280058) | FY2020
+FILE         : 0001280058_BLKB_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-19
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 19. Restructuring
+ASSET CAT.   : capitalized software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Qualifying capitalized software development costs are amortized on a straight-line basis over the software asset's estimated useful life, which is generally 3 to 7 years. We write off the gross carrying amount and accumulated amortization balances for all fully amortized software development cost assets.
+
+[VERBATIM — Changement de politique]
+During the third quarter of 2020, we adjusted our workforce strategy to provide more flexibility for our employees to work remotely when our offices reopen. This change is expected to create efficiencies within our real estate strategy as we optimize our footprint and shift toward more collaborative workspaces within our offices. As a result, during the three months ended September 30, 2020, we reduced the estimate d useful lives of our operating lease ROU assets for certain of our office locations we expected to exit. We recorded $16.2 million in incremental operating lease costs during 2020 related to this change in accounting estimate, which accounts for a substantial portion of the increase in operating lease costs during 2020. For these same office locations, we also reduced the estimated useful lives of certain facilities-related fixed assets, which resulted in incremental depreciation expense of $4.6 million during 2020 (see Note 7). During the twelve months ended December 31, 2020, we also recorded $4.0 million in impairments of op erating lease ROU assets associated with certain leased office spaces we have ceased using as a result of our adjusted workforce strategy. These impairment charges are reflected in general and administrative expense.
+
+[VERBATIM — Infrastructure IA]
+Cost of recurring revenue is primarily comprised of compensation costs for customer support and production IT personnel, hosting and data center costs, third-party contractor expenses, third-party royalty and data expenses, allocated depreciation, facilities and IT support costs, amortization of intangible assets from business combinations, amortization of software development costs, transaction-based costs related to payments services including remittances of amounts due to third-parties and other costs incurred in providing support and recurring services to our customers.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Decrease in maintenance revenue of $14.7 million primarily related to our continuing efforts to migrate customers from legacy on-premises solutions onto our solutions powered by Blackbaud SKY, our modern cloud platform ||| Decrease in maintenance revenue of $18.4 million primarily related to our continuing efforts to migrate customers from legacy on-premises solutions onto our solutions powered by Blackbaud SKY, our modern cloud platform ||| + Increase in transactional revenue of $18.3 million, including an accelerated shift toward virtual and online fundraising and charitable giving related to COVID-19 + Increase in contractual recurring revenue of $15.5 million related to positive demand from customers across our portfolio of cloud solutions - Decrease in maintenance revenue of $14.7 million primarily related to our continuing efforts to migrate customers from legacy on-premises solutions onto our solutions powered by Blackbaud SKY, our modern cloud platform

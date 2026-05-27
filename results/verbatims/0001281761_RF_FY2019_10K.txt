@@ -1,0 +1,23 @@
+FIRM         : RF (CIK 0001281761) | FY2019
+FILE         : 0001281761_RF_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2029-08-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 9. PREMISES AND EQUIPMENT
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2019 2018 (In millions) Land $ 446 $ 481 Premises and improvements 1,783 1,830 Furniture and equipment 1,023 994 Software 756 699 Leasehold improvements 407 379 Construction in progress 199 220 4,614 4,603 Accumulated depreciation and amortization (2,654 ) (2,558 ) $ 1,960 $ 2,045
+
+[VERBATIM — Changement de politique]
+Regions sponsors stock plans which most commonly include restricted stock (i.e., unvested common stock) units, restricted stock awards, performance stock units and stock options. The Company accounts for share-based payments under the fair value recognition provisions whereby compensation cost is measured based on the estimated fair value of the award at the grant date and is recognized in the consolidated financial statements on a straight-line basis over the requisite service period for service-based awards. The fair value of restricted stock units, restricted stock awards or performance stock units is determined based on the closing price of Regions common stock on the date of grant. Historical data is also used to estimate future employee attrition, which is considered in calculating estimated forfeitures. Estimated forfeitures are adjusted when actual forfeitures differ from estimates, resulting in the recognition of compensation cost only for awards that vest. The effect of a change in estimated forfeitures is recognized through a cumulative catch-up adjustment that is included in salaries and employee benefits expense in the period of the change in estimate. The fair value of stock options where vesting is based on service is estimated at the date of grant using a Black-Scholes option pricing model and related assumptions. As compensation cost is recognized, a deferred tax asset is recorded that represents an estimate of the future tax deduction from exercise or release of restrictions. At the time the share-based awards are exercised, cancelled, have expired, or restrictions are released, the Company may be required to recognize an adjustment to tax expense depending on the market price of the Company’s common stock.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15, Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement ||| This ASU amends Topic 350-40, Intangibles-Goodwill and Other-Internal-Use Software, regarding a customer's accounting for implementation, set-up, and other upfront costs incurred in a cloud computing arrangement that is hosted by the vendor, i.e. a service contract. Customers will apply the same criteria for capitalizing implementation costs as they would for an arrangement that has a software license. The amendments also prescribe the balance sheet, income statement, and cash flow classification of the capitalized implementation costs and related amortization expense, and require additional quantitative and qualitative disclosures.

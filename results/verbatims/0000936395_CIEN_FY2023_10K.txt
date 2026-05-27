@@ -1,0 +1,21 @@
+FIRM         : CIEN (CIK 0000936395) | FY2023
+FILE         : 0000936395_CIEN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-10-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 27: Commitments and Contingencies
+ASSET CAT.   : equipment, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0 ans | 3.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Types of expense incurred in research and development include employee compensation, prototype equipment, consulting and third-party services, depreciation, facility costs and information technology.
+
+[VERBATIM — Infrastructure IA]
+Ciena’s solutions include Networking Platforms, including its Optical Networking portfolio and Routing and Switching portfolio, which can be applied from the network core to end-user access points, and which allow network operators to scale capacity, increase transmission speeds, allocate traffic efficiently and adapt dynamically to changing end-user service demands. Ciena’s Optical Networking portfolio, which was previously referred to as Ciena’s Converged Packet Optical portfolio, includes products that support long haul and regional networks, submarine and data center interconnect networks, and metro and edge networks. Ciena’s Routing and Switching portfolio includes products and solutions that enable efficient internet protocol (“IP”) transport in next-generation metro, core, aggregation, and access networks, including in enterprise edge and broadband access applications.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Cloud computing arrangements (1) ||| Cloud Computing Arrangements ||| Ciena capitalizes certain costs related to hosting arrangements that are service contracts (cloud computing arrangements). Capitalized costs are included in Other long-term assets in the Consolidated Balance Sheets and are amortized on a straight-line basis over the estimated useful life.

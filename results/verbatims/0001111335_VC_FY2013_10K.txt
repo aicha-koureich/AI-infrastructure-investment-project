@@ -1,0 +1,24 @@
+FIRM         : VC (CIK 0001111335) | FY2013
+FILE         : 0001111335_VC_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. Summary of Significant Accounting Policies Basis of Presentation:
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-8.0 ans | 6.0 ans
+
+[VERBATIM — Durée de vie]
+Research and development expenses include salary and related employee benefits, contractor fees, information technology, occupancy, telecommunications and depreciation.
+
+[VERBATIM — Changement de politique]
+The Company defines Adjusted EBITDA as net income attributable to the Company, plus net interest expense, provision for income taxes and depreciation and amortization, as further adjusted to eliminate the impact of asset impairments, gains or losses on divestitures, discontinued operations, net restructuring expenses and other reimbursable costs, non-cash stock-based compensation expense, certain employee charges and benefits, reorganization items and other non-operating gains and losses. Adjusted EBITDA is presented as a supplemental measure of the Company's financial performance that management believes is useful to investors because the excluded items may vary significantly in timing or amounts and/or may obscure trends useful in evaluating and comparing the Company's operating activities across reporting periods. Not all companies use identical calculations and, accordingly, the Company's presentation of Adjusted EBITDA may not be comparable to other similarly titled measures of other companies. Adjusted EBITDA is not a recognized term under accounting principles generally accepted in the United States (“U.S. GAAP”) and does not purport to be a substitute for net income as an indicator of operating performance or cash flows from operating activities as a measure of liquidity. Adjusted EBITDA has limitations as an analytical tool and is not intended to be a measure of cash flow available for management's discretionary use, as it does not consider certain cash requirements such as interest payments, tax payments and debt service requirements. In addition, the Company uses Adjusted EBITDA (i) as a factor in incentive compensation decisions, (ii) to evaluate the effectiveness of the Company's business strategies and (iii) the Company's credit agreements use measures similar to Adjusted EBITDA to measure compliance with certain covenants.
+
+[VERBATIM — Infrastructure IA]
+-year outsourcing agreement with International Business Machines (“IBM”) pursuant to which the Company outsources information technology services on a global basis. In 2010, the agreement was amended to include only legacy mainframe and data center services out of the U.S. with the ability to terminate for convenience during the term of the agreement. At the end of 2013, Visteon terminated the mainframe portion of the services. Expenses incurred under the IBM arrangement were approximately  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+-year outsourcing agreement with International Business Machines (“IBM”) pursuant to which the Company outsources information technology services on a global basis. In 2010, the agreement was amended to include only legacy mainframe and data center services out of the U.S. with the ability to terminate for convenience during the term of the agreement. At the end of 2013, Visteon terminated the mainframe portion of the services. Expenses incurred under the IBM arrangement were approximately ||| In January 2003, the Company commenced a 10 -year outsourcing agreement with International Business Machines (“IBM”) pursuant to which the Company outsources information technology services on a global basis. In 2010, the agreement was amended to include only legacy mainframe and data center services out of the U.S. with the ability to terminate for convenience during the term of the agreement. At the end of 2013, Visteon terminated the mainframe portion of the services. Expenses incurred under the IBM arrangement were approximately $13 million during the years ended December 31, 2013, 2012 and 2011. Expenses for 2014 are estimated to be $2 million .

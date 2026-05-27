@@ -1,0 +1,20 @@
+FIRM         : NMIH (CIK 0001547903) | FY2018
+FILE         : 0001547903_NMIH_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Accounting Principles
+ASSET CAT.   : equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Software and equipment are stated at cost, less accumulated amortization and depreciation. Amortization of software and depreciation of equipment commences at the beginning of the month following our placement of the assets into use.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+(Subtopic 350-40). This update applies to cloud computing arrangements hosted by a vendor and provides companies with guidance on the criteria for capitalizing implementation, set-up and other up-front costs incurred in association with these arrangements. The standard will take effect for public business entities for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019. We are currently evaluating the impact the adoption of this ASU will have, if any, on our consolidated financial statements. ||| In August 2018, the FASB issued ASU 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40). This update applies to cloud computing arrangements hosted by a vendor and provides companies with guidance on the criteria for capitalizing implementation, set-up and other up-front costs incurred in association with these arrangements. The standard will take effect for public business entities for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019. We are currently evaluating the impact the adoption of this ASU will have, if any, on our consolidated financial statements.

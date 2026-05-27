@@ -1,0 +1,21 @@
+FIRM         : UFCS (CIK 0000101199) | FY2016
+FILE         : 0000101199_UFCS_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 16. ACCUMULATED OTHER COMPREHENSIVE INCOME
+ASSET CAT.   : Computer equipment and software
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 7.0 ans | 30.0-9.0 ans
+
+[VERBATIM — Durée de vie]
+Useful Life Computer equipment and software Three years Furniture and fixtures Seven years Leasehold improvements Shorter of the lease term or useful life of the asset Real estate Seven to thirty-nine years Airplane Five years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued guidance which clarifies customers' accounting for fees paid for cloud computing arrangements. The new standard provides guidance to customers about whether a cloud computing arrangement includes a software license or whether the arrangement is considered a service contract. The new guidance is effective for annual and interim periods beginning after December 15, 2015. The Company adopted the new guidance as of January 1, 2016. The adoption of the new guidance had no impact on the Company's financial position or results of operations as we have no material cloud computing arrangements.

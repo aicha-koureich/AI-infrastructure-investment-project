@@ -1,0 +1,21 @@
+FIRM         : COLB (CIK 0000887343) | FY2024
+FILE         : 0000887343_COLB_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2028-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Premises and Equipment - Premises and equipment are stated at cost less accumulated depreciation and amortization. Depreciation is allocated over the estimated useful life of equipment, generally three to ten years, and premises, up to 39 years, on a straight-line or accelerated basis. Costs associated with designing software configuration, installation, coding programs and testing systems are capitalized and amortized using the straight-line method over three to seven years. Implementation costs incurred for software that is part of a hosting arrangement are capitalized in other assets and amortized on a straight-line basis over the life of the contract.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

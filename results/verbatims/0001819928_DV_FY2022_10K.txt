@@ -1,0 +1,21 @@
+FIRM         : DV (CIK 0001819928) | FY2022
+FILE         : 0001819928_DV_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : software, which is
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-2.0 ans | 3.0 ans
+
+[VERBATIM — Durée de vie]
+Once this software is ready for use in the Company’s products, these costs are amortized on a straight-line basis over the estimated useful life of the software, which is 3 years. Amortization expense was $5.5 million, $3.7 million, and $1.4 million on capitalized internal-use software costs during the years ended December 31, 2022, 2021 and 2020, respectively.
+
+[VERBATIM — Infrastructure IA]
+The Company has operating and financing leases for corporate offices, data centers, and certain equipment. The Company determines if an arrangement is a lease at inception and does not recognize a right-of-use (“ROU”) asset or lease liability with a term shorter than 12 months. Additionally, the Company does not separate lease components from non-lease components for the specified asset classes. An ROU asset represents the Company’s right to use an underlying asset for the lease term and lease liabilities represent its obligation to make lease payments arising from the lease. Operating lease ROU assets and lease liabilities are to be recognized at commencement date based on the present value of lease payments not yet paid over the lease term. As the Company’s operating leases do not provide an implicit rate, the Company uses an incremental borrowing rate based on the information available on the adoption date in determining the present value of lease payments not yet paid. The incremental borrowing rate for United States dollar denominated leases was calculated by considering current market yields and the Company’s existing debt rates to determine a yield. In order to assess a premium or discount for the lease tenor and develop an incremental borrowing rate curve, the analysis compared the Company’s existing debt yield to the appropriate market yield curve corresponding to the Company’s secured rating. The curve one notch higher was used as the incremental borrowing rate focuses on secured borrowing rates, which tend to carry higher credit ratings when issued. The corporate yield curve was adjusted based on the Company’s implied incremental borrowing rate premium or discount at each tenor to reach a concluded incremental borrowing rate curve. Using the calculated United States dollar incremental borrowing rate, the international incremental borrowing rates were determined by adjusting for specific country risk.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Cost of revenue increased by $23.5 million, or 43%, from $54.4 million in the year ended December 31, 2021 to $77.9 million in the year ended December 31, 2022. The increase was primarily due to growth in Activation (f/k/a Advertiser – programmatic) revenue which drove increases in partner costs from revenue-sharing arrangements, as well as accelerated investments in cloud services to provide scale and flexibility necessary to support future growth.

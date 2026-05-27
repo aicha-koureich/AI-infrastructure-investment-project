@@ -1,0 +1,20 @@
+FIRM         : VMC (CIK 0001396009) | FY2018
+FILE         : 0001396009_VMC_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : machinery and equipment, Capitalized software
+DURÉE        : 3.0-35.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is generally computed by the straight-line method at rates based on the estimated service lives of the various classes of assets, which include machinery and equipment ( 3 to 35 years), buildings ( 7 to 20 years) and land improvements ( 8 to 20 years). Capitalized software costs are included in machinery and equipment and are depreciated on a straight-line basis beginning when the software project is substantially complete.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

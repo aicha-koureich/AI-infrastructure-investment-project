@@ -1,0 +1,23 @@
+FIRM         : RSG (CIK 0001060391) | FY2022
+FILE         : 0001060391_RSG_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+We record property and equipment at cost. Expenditures for major additions and improvements to facilities are capitalized, while maintenance and repairs are charged to expense as incurred. When property is retired or otherwise disposed, the related cost and accumulated depreciation are removed from the accounts and any resulting gain or loss is reflected in the consolidated statements of income.
+
+[VERBATIM — Changement de politique]
+We revise the estimated useful lives of property and equipment acquired through business acquisitions to conform with our policies. The estimated useful lives of our property and equipment are as follows: Buildings and improvements 5 - 30 years Vehicles 5 - 20 years Landfill equipment 5 - 7 years Other equipment 3 - 25 years Furniture and fixtures 3 - 10 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

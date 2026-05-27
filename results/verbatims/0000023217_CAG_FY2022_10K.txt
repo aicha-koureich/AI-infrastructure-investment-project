@@ -1,0 +1,23 @@
+FIRM         : CAG (CIK 0000023217) | FY2022
+FILE         : 0000023217_CAG_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-05-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUM MARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment — Property, plant and equipment are carried at cost. Depreciation has been calculated using the straight-line method over the estimated useful lives of the respective classes of assets as follows:
+
+[VERBATIM — Changement de politique]
+During fiscal 2021, we updated our cost estimates associated with certain asset retirement obligations at several manufacturing facilities largely due to recent experience of physically closing a wastewater lagoon. This change in estimate resulted in a non-cash increase to our long-lived assets in the amount of $27.4 million and will result in additional depreciation in future periods generally ranging from 15-25 years. The fair value of our asset retirement obligations was measured using cost estimates to settle our future obligations (including an estimate of inflation) and discounted to present value using a credit-adjusted risk-free rate.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

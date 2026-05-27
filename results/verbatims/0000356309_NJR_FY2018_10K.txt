@@ -1,0 +1,23 @@
+FIRM         : NJR (CIK 0000356309) | FY2018
+FILE         : 0000356309_NJR_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 12. Income Taxes
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+ITCs at NJNG are deferred and amortized as a reduction to the tax provision over the average lives of the related equipment in accordance with regulatory treatment.
+
+[VERBATIM — Changement de politique]
+On January 31, 2018, the BPU issued an Order which directed New Jersey utilities to submit filings to the BPU by March 2, 2018, to propose the prospective change in base rates as a result of the Tax Act to be effective April 1, 2018, the method to return to customers the overcollection of taxes in base rates from January 1, 2018, through March 31, 2018 and an outline of the method by which the excess deferred taxes would be returned to customers. The excess deferred taxes are primarily related to timing differences associated with utility plant depreciation and are subject to IRS normalization rules, which require amortization over the remaining life of the utility plant.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

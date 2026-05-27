@@ -1,0 +1,23 @@
+FIRM         : BAC (CIK 0000070858) | FY2020
+FILE         : 0000070858_BAC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 Summary of Significant Accounting Principles
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Corporation provides equipment financing to its customers through a variety of lessor arrangements. Direct financing leases and sales-type leases are carried at the aggregate of lease payments receivable plus the estimated residual value of the leased property less unearned income, which is accreted to interest income over the lease terms using methods that approximate the interest method. Operating lease income is recognized on a straight-line basis. The Corporation's lease arrangements generally do not contain non-lease components.
+
+[VERBATIM — Changement de politique]
+Client Balances Client balances managed under advisory and/or discretion of GWIM are AUM and are typically held in diversified portfolios. Fees earned on AUM are calculated as a percentage of clients’ AUM balances. The asset management fees charged to clients per year depend on various factors, but are commonly driven by the breadth of the client’s relationship. The net client AUM flows represent the net change in clients’ AUM balances over a specified period of time, excluding market appreciation/depreciation and other adjustments. Client balances increased $302.0 billion, or 10 percent, to $3.3 trillion at December 31, 2020 compared to December 31, 2019. The increase in client balances was primarily due to higher market valuations and positive client flows.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

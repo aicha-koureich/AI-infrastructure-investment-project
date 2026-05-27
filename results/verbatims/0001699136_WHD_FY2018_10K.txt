@@ -1,0 +1,20 @@
+FIRM         : WHD (CIK 0001699136) | FY2018
+FILE         : 0001699136_WHD_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 13. Quarterly Financial Information (Unaudited)
+ASSET CAT.   : Machinery and equipment, equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2018 2017 Land $ 3,614 $ 2,241 Buildings and improvements 20,803 11,657 Machinery and equipment 47,606 43,528 Vehicles under capital lease 25,165 15,557 Rental equipment 124,002 85,292 Furniture and fixtures 1,623 1,110 Computers and software 3,094 2,636 Gross property and equipment 225,907 162,021 Less: Accumulated depreciation (96,412) (72,917) Net property and equipment 129,495 89,104 Construction in progress 12,559 5,550 Total property and equipment, net $ 142,054 $ 94,654
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

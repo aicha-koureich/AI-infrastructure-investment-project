@@ -1,0 +1,20 @@
+FIRM         : PRGS (CIK 0000876167) | FY2015
+FILE         : 0000876167_PRGS_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1: Nature of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Useful lives by major asset class are as follows: computer equipment and software,
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

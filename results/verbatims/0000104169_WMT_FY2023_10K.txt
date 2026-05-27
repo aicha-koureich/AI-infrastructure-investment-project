@@ -1,0 +1,20 @@
+FIRM         : WMT (CIK 0000104169) | FY2023
+FILE         : 0000104169_WMT_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-23
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Our strategy, which includes investments in eCommerce, technology, including the use of artificial intelligence technology, talent, supply chain automation, acquisitions, joint ventures, store remodels and other customer initiatives may not adequately or effectively allow us to continue to grow our eCommerce business, increase comparable sales, maintain or grow our overall market position or otherwise offset the impact on the growth of our business of a moderated pace of new store and club openings and sustain the current pace of remodels. The success of this strategy will depend in large measure on our ability to continue building and delivering a seamless omni-channel shopping experience and interconnected ecosystem for our customers that deepens and maintains our relationships with our customers across our various businesses and partnerships and reinforces our overall enterprise strategy. The success of this strategy is further subject to the related risks discussed in this Item 1A . With the interconnected components of this enterprise strategy and an increasing allocation of capital expenditures focused on these initiatives, changes in customer or member perceptions about our reputation or our failure to successfully execute on individual components of this strategy may adversely affect our market position, net sales and financial performance, which could also result in impairment charges to intangible assets or other long-lived assets. In addition, a greater concentration of eCommerce sales, including increasing online grocery sales, could result in a reduction in the amount of traffic in our stores and clubs, which would, in turn, reduce the opportunities for cross-store or cross-club sales of merchandise that such traffic creates and could reduce our sales within our stores and clubs and materially adversely affect our financial performance.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : RMAX (CIK 0001581091) | FY2014
+FILE         : 0001581091_RMAX_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 31, 2015
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property and equipment, including leasehold improvements, are initially recorded at cost. Depreciation is provided for on a straight-line method over the estimated useful lives of each asset class and commences when the property is placed in service. Amortization of leasehold improvements is provided for on a straight-line method over the estimated benefit period of the related assets or the lease term, if shorter.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

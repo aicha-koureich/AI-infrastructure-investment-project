@@ -1,0 +1,20 @@
+FIRM         : MTN (CIK 0000812011) | FY2017
+FILE         : 0000812011_MTN_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : July 31, 2017
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 1. Organization and Business
+ASSET CAT.   : Machinery and equipment, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+July 31, 2017 2016 Land and land improvements $ 553,655 $ 440,300 Buildings and building improvements 1,210,864 1,025,515 Machinery and equipment 987,080 866,008 Furniture and fixtures 280,292 284,959 Software 108,048 103,754 Vehicles 59,596 58,159 Construction in progress 49,359 39,396 Gross property, plant and equipment 3,248,894 2,818,091 Accumulated depreciation (1,534,740 ) (1,454,277 ) Property, plant and equipment, net $ 1,714,154 $ 1,363,814
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

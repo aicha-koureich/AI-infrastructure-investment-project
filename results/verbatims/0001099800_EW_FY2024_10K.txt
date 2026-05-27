@@ -1,0 +1,21 @@
+FIRM         : EW (CIK 0001099800) | FY2024
+FILE         : 0001099800_EW_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+ASSET CAT.   : software.
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is principally calculated for financial reporting purposes on the straight-line method over the estimated useful lives of the related assets, which range from 10 to 40 years for buildings and improvements, from 3 to 15 years for machinery and equipment, and from 3 to 5 years for software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

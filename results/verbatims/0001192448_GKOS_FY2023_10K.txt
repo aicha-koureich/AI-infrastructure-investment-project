@@ -1,0 +1,20 @@
+FIRM         : GKOS (CIK 0001192448) | FY2023
+FILE         : 0001192448_GKOS_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3.
+ASSET CAT.   : Equipment, Furniture and fixtures, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Table of Contents Property and Equipment, Net Property and equipment consisted of the following (in thousands): ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ December 31, ​ ​ ​ 2023 ​ 2022 ​ ​ ​ ​ ​ ​ ​ ​ Buildings $ 874 ​ $ 874 ​ Equipment ​ ​ 29,843 ​ ​ 24,701 ​ Furniture and fixtures ​ ​ 8,287 ​ 6,908 ​ Leasehold improvements ​ ​ 70,332 ​ 60,621 ​ Computer equipment and software ​ ​ 3,906 ​ ​ 3,580 ​ Land ​ ​ 7,068 ​ ​ 7,068 ​ Construction in progress ​ ​ 17,379 ​ 17,875 ​ ​ ​ ​ 137,689 ​ 121,627 ​ Less accumulated depreciation and amortization ​ (34,477) ​ (27,224) ​ ​ $ 103,212 ​ $ 94,403 ​ ​ Depreciation and amortization expense related to property and equipment was $7.3 million, $6.6 million and $4.8 million for the years ended December 31, 2023, December 31, 2022 and December 31, 2021, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

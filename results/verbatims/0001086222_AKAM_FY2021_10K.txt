@@ -1,0 +1,23 @@
+FIRM         : AKAM (CIK 0001086222) | FY2021
+FILE         : 0001086222_AKAM_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : network providers with terms typically ranging from several months to
+DURÉE        : 5.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Cost of revenue also includes employee costs for services delivery and network operation, build-out and support of the Company's network; network storage costs; cost of software licenses; depreciation of network equipment used to deliver the Company’s services; amortization of network-related internal-use software; and costs for the production of live events streamed by the Company for customers.
+
+[VERBATIM — Changement de politique]
+Significant estimates, judgments and assumptions used in these financial statements include, but are not limited to, those related to revenue, accounts receivable and related reserves, valuation and impairment of investments and marketable securities, valuation and useful lives of acquired intangible assets, useful lives and realizability of long-lived assets, capitalized internal-use software development costs, income tax reserves and accounting for stock-based compensation.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue consists primarily of fees paid to network providers for bandwidth and to third-party network data centers for housing servers, also known as co-location costs. Cost of revenue also includes employee costs for services delivery and network operation, build-out and support of the Company's network; network storage costs; cost of software licenses; depreciation of network equipment used to deliver the Company’s services; amortization of network-related internal-use software; and costs for the production of live events streamed by the Company for customers. The Company enters into contracts for bandwidth with third-party network providers with terms typically ranging from several months to five years. These contracts generally commit the Company to pay minimum monthly fees plus additional fees for bandwidth usage above the committed level. In some circumstances, internet service providers (“ISPs”) make rack space available for the Company to locate its servers and provide access to their bandwidth at a discount or no cost. Although the Company does not provide any goods or services to the ISPs or the ISPs’ customers under these arrangements, the ISPs and their customers indirectly benefit by accessing content through a local Company server, resulting in better content delivery. The Company records the cost of these vendor relationships at their negotiated transaction price, which is either at a discount or no cost.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In February 2022, we announced our intention to acquire Linode Limited Liability Company, or Linode, for approximately $900.0 million, net of cash acquired and subject to post-closing adjustments. Linode is an infrastructure-as-a-service platform provider that allows for developer-friendly cloud computing capabilities. The acquisition is intended to enhance our edge computing services by creating a unique cloud platform to build, run and secure applications from the cloud to the edge. The acquisition is expected to close in March 2022. Linode has approximately 250 employees, and the acquisition is expected to be accretive to our earnings per share in 2022. ||| We are currently organized and operate in one reportable and operating segment: providing cloud services for delivering, optimizing and securing content and business applications over the internet. Effective on March 1, 2021, we reorganized into two groups, both of which utilize the Akamai Intelligent Edge Platform and our global sales organization: the Security Technology Group and the Edge Technology Group. These groups are aligned with our product offerings. Revenue from the Security Technology Group was previously reported as revenue from Cloud Security Solutions, and revenue from the Edge Technology Group was previously reported as revenue from content delivery network services and all other solutions. The Security Technology Group includes solutions that are designed to keep infrastructure, websites, applications and users safe, while the Edge Technology Group includes solutions that enable business online, including media delivery, web performance and edge computing solutions.

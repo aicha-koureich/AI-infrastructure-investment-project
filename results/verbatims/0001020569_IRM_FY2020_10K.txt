@@ -1,0 +1,20 @@
+FIRM         : IRM (CIK 0001020569) | FY2020
+FILE         : 0001020569_IRM_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Data center lease-based intangible assets amortization (3)  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Revenue is recognized when or as control of promised goods or services is transferred to the customer, in an amount that reflects the consideration we expect to be entitled to in exchange for those goods or services. See Note 2.r. to Notes to Consolidated Financial Statements included in this Annual Report for additional details on our revenue recognition policies. Revenue for all our lines of business, with the exception of storage revenues in our Global Data Center Business (which is subject to leasing guidance), is recognized under Accounting Standards Update No. 2014-09, Revenue from Contracts with Customers (Topic 606) (“ASU 2014-09”), the application of which requires that we make estimates and judgements that may affect the amount and timing of revenue we recognize. ||| Our Global Data Center Business footprint spans nine markets in the United States: Denver, Colorado; Kansas City, Missouri; Boston, Massachusetts; Boyers, Pennsylvania; Manassas, Virginia; Edison, New Jersey; Columbus, Ohio; and Phoenix and Scottsdale, Arizona and four international markets: Amsterdam, London, Singapore and, through an unconsolidated joint venture, Frankfurt. We provide mission-critical data centers that are designed and operated to protect and ensure the continued operation of IT infrastructure for our customers. Data centers are highly specialized and secure assets that serve as centralized repositories of server, storage and network equipment. They are capital intensive and designed to provide the space, power, cooling and network connectivity necessary to efficiently operate mission-critical IT equipment. The demand for data center infrastructure is being driven by many factors, but most importantly by significant growth in data as well as an increased demand for outsourcing. In order to attract and retain customers, as well as sustain growth in our existing and new markets, we must have the capability to tailor our facilities and invest capital to meet the customers’ needs. Our estimate of fair value reflects the expected growth in each of our data center markets along with the corresponding capital investments required to meet demand. The business is primarily comprised of acquisitions completed in 2018 and late 2017; therefore, we would expect that the fair value of this reporting unit will closely approximate its carrying value. ||| GLOBAL DATA CENTER BUSINESS (IN THOUSANDS)

@@ -1,0 +1,23 @@
+FIRM         : AXTA (CIK 0001616862) | FY2018
+FILE         : 0001616862_AXTA_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Software costs are amortized on a straight-line basis over their estimated useful lives.
+
+[VERBATIM — Changement de politique]
+Restructuring charges incurred during 2018 and 2017 included actions to reduce operational costs through activities to rationalize our manufacturing footprint, including the impacts from the announced closure of our Mechelen, Belgium manufacturing facility announced during the year ended December 31, 2018 . We are projecting to incur aggregate pre-tax charges of approximately $120 - 130 million , subject to future changes in estimates, in connection with the announced closure and transfer of production to other Axalta facilities. Components of the pre-tax charges include estimated non-cash accelerated depreciation costs of approximately $50 - 60 million associated with the reduced useful lives of the impacted manufacturing assets. Also included in these projections were $70.6 million in severance costs incurred during the year ended December 31, 2018 , as previously communicated. No impairments to the associated long-lived assets were recorded. Manufacturing assets were also assessed, including assessment of assets totaling $55.8 million ( €47.7 million ) at our Mechelen, Belgium manufacturing facility, and as a result, useful lives of the assets were truncated.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

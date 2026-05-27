@@ -1,0 +1,20 @@
+FIRM         : NOC (CIK 0001133421) | FY2016
+FILE         : 0001133421_NOC_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 6. INCOME TAXES
+ASSET CAT.   : Machinery, equipment, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31 Useful life in years, $ in millions Useful Life 2016 2015 Land and land improvements Up to 40 (1) $ 415 $ 381 Buildings and improvements Up to 45 1,798 1,618 Machinery and other equipment Up to 20 4,711 4,610 Capitalized software costs 3-5 439 406 Leasehold improvements Length of Lease (2) 1,056 898 Property, plant and equipment, at cost 8,419 7,913 Accumulated depreciation (4,831 ) (4,849 ) Property, plant and equipment, net $ 3,588 $ 3,064
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

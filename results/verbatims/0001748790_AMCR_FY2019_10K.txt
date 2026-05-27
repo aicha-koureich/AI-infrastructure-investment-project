@@ -1,0 +1,23 @@
+FIRM         : AMCR (CIK 0001748790) | FY2019
+FILE         : 0001748790_AMCR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 - Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Restructuring Costs: Restructuring costs are recognized when the liability is incurred. The Company calculates severance obligations based on its standard customary practices. Accordingly, the Company records provisions for severance when probable and estimable and the Company has committed to the restructuring plan. In the absence of a standard customary practice or established local practice, liabilities for severance are recognized when incurred. If fixed assets are to be disposed of as a result of the Company’s restructuring efforts, the assets are written off when the Company commits to dispose of them and they are no longer in use. Depreciation is accelerated on fixed assets for the period of time the asset continues to be used until the asset ceases to be used. Other restructuring costs, including costs to relocate equipment, are generally recorded as the cost is incurred or the service is provided.
+
+[VERBATIM — Changement de politique]
+increase the useful lives or capacity of existing PP&E. Cost of constructed assets includes capitalized interest incurred during the construction period. Maintenance and repairs that do not improve efficiency or extend economic life are expensed as incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

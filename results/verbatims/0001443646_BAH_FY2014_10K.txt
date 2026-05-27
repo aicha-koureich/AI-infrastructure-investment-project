@@ -1,0 +1,20 @@
+FIRM         : BAH (CIK 0001443646) | FY2014
+FILE         : 0001443646_BAH_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost, and the balances are presented net of accumulated depreciation. Furniture and equipment is depreciated over
+
+[VERBATIM — Infrastructure IA]
+Our Networks & Information Technology Infrastructure (NITI) capabilities include expertise in the area of enterprise operations, network services and communications, data center operations, and data storage. We apply our NITI expertise to physical, virtualized, cloud, and hybrid form factors networks. Network enabled services involve active directory identity management, radio frequency, mobile device management, and unified communications solutions. We provide the services and oversight clients require for IT infrastructure transformation, implementation, and operations. We offer network engineering and design expertise to optimize client network and communications performance.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

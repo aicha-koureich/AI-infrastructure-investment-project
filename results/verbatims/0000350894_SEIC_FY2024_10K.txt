@@ -1,0 +1,21 @@
+FIRM         : SEIC (CIK 0000350894) | FY2024
+FILE         : 0000350894_SEIC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment, furniture and fixtures
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+When property and equipment are retired or disposed of, the related cost and accumulated depreciation are removed from the accounts and any resulting gain or loss is included in the results of operations for the respective period. Equipment, purchased software and furniture and fixtures have useful lives ranging from 3 to 5 years.
+
+[VERBATIM — Infrastructure IA]
+• Capital expenditures. Capital expenditures in 2024, 2023 and 2022 primarily include capital outlays for purchased software and equipment for data center operations. We continue to evaluate improvements to our information technology infrastructure which, if implemented, will result in additional expenditures for purchased software and equipment for data center operations.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

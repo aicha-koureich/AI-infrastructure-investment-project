@@ -1,0 +1,20 @@
+FIRM         : COO (CIK 0000711404) | FY2021
+FILE         : 0000711404_COO_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• $28.0 million decrease in the net changes in prepayments and other assets primarily due to the capitalized cloud computing costs and increase in prepaid inventory; and ||| $28.0 million decrease in the net changes in prepayments and other assets primarily due to the capitalized cloud computing costs and increase in prepaid inventory; and

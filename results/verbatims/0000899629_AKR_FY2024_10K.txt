@@ -1,0 +1,20 @@
+FIRM         : AKR (CIK 0000899629) | FY2024
+FILE         : 0000899629_AKR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-11
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 11. Leases As Lessor The Company has approximately 1,300 leases in the leasing of shopping centers and other retail properties that are either owned o
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B100 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+As Lessee The Company has properties in its portfolio that are currently owned by third parties. We also lease real estate for equipment and office space. We lease these properties pursuant to ground leases that provide us the right to operate each such property, and generally provide terms ranging from five ye ars to 98 years . Minimum Rental Payments Year Ending December 31, Operating Leases (a) Finance Leases (a) 2025 $ 5,338 $ 1,319 2026 5,246 1,350 2027 4,450 1,350 2028 4,236 1,396 2029 3,700 1,414 Thereafter 12,267 155,319 35,237 162,148 Interest ( 7,317 ) ( 130,774 ) Total $ 27,920 $ 31,374 (a) Minimum rental payments include $ 7.3 million of interest related to operating leases and $ 130.8 m illion related to finance leases and exclude options or renewals not reasonably certain of exercise. Additional disclosures regarding the Company’s leases as lessee are as follows (dollars in thousands): Year Ended December 31, 2024 2023 2022 Lease Cost Finance lease cost: Amortization of right-of-use assets $ 1,338 $ 1,244 $ 903 Interest on lease liabilities 2,061 1,239 410 Subtotal 3,399 2,483 1,313 Operating lease cost 5,265 5,291 5,338 Variable lease cost 276 228 80 Total lease cost $ 8,940 $ 8,002 $ 6,731 Cash Paid Payments of operating lease obligations - operating activities $ 5,438 $ 5,386 $ 5,364 Payments of interest on finance lease obligations - operating activities 2,061 1,239 410 Payments of finance lease obligations - financing activities 2,437 100 — As of December 31, 2024 2023 Other Information Weighted-average remaining lease term - finance leases (years) 56.8 58.3 Weighted-average remaining lease term - operating leases (years) 8.7 9.7 Weighted-average discount rate - finance leases 6.5 % 6.5 % Weighted-average discount rate - operating leases 5.1 % 5.1 %
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

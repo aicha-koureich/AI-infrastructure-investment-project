@@ -1,0 +1,20 @@
+FIRM         : UNF (CIK 0000717954) | FY2020
+FILE         : 0000717954_UNF_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-08-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 1.0-25.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company depreciates, on a straight-line basis, the amount added to property, plant and equipment and recognizes accretion expense in connection with the discounted liability over the various remaining lives which range from approximately one to twenty-five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued guidance that addresses customer’s accounting for implementation costs incurred in a cloud computing arrangement that is a service contract and also adds certain disclosure requirements related to implementation costs incurred for internal-use software and cloud computing arrangements. This guidance aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). This guidance is effective for annual reporting periods, and any interim periods within those annual periods, that begin after December 15, 2019 with early adoption permitted. The amendments in this update can be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. Accordingly, the guidance will be effective for the Company on August 30, 2020. The Company is currently evaluating the impact that this guidance will have on its financial statements and related disclosures.

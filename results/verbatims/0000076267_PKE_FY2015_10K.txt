@@ -1,0 +1,20 @@
+FIRM         : PKE (CIK 0000076267) | FY2015
+FILE         : 0000076267_PKE_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 28, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Other balance sheet data Other balance sheet data consisted of the following: February 28, March 2, 2016 2015 Inventories: Raw materials $ 5,462 $ 
+ASSET CAT.   : equipment, Machinery, furniture and fixtures, Technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Other balance sheet data Other balance sheet data consisted of the following: February 28, March 2, 2016 2015 Inventories: Raw materials $ 5,462 $ 7,376 Work-in-process 2,215 3,114 Finished goods 2,172 3,605 Manufacturing supplies 365 344 $ 10,214 $ 14,439 Property, plant and equipment: Land, buildings and improvements $ 39,915 $ 42,019 Machinery, equipment, furniture and fixtures 130,143 130,585 170,058 172,604 Less: accumulated depreciation and amortization 148,546 146,067 $ 21,512 $ 26,537 Goodwill and other intangible assets: Goodwill $ 9,776 $ 9,776 Other intangibles 57 64 $ 9,833 $ 9,840 Accrued liabilities: Payroll and payroll related $ 2,078 $ 2,117 Employee benefits 279 262 Workers' compensation 241 300 Professional fees 762 671 Restructuring (Note 8) 64 182 Other 1,156 1,235 $ 4,580 $ 4,767 Property, Plant and Equipment – The New England Laminates Co., Inc. building in Newburgh, New York is held for sale.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

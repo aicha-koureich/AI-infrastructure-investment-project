@@ -1,0 +1,20 @@
+FIRM         : IDA (CIK 0001057877) | FY2021
+FILE         : 0001057877_IDA_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2091-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Accounting for the economics of rate regulation impacts multiple financial statement line items and disclosures, such as property, plant, and equipment; regulatory assets and liabilities; operating revenues; operation and maintenance expense; depreciation expense; and income tax expense.
+
+[VERBATIM — Infrastructure IA]
+Brisbie, LLC (Brisbie) Data Center : In December 2021, Idaho Power filed an application with the IPUC for approval of a special contract for electric service for a new large load customer, Brisbie, LLC (Brisbie), for a new 960,000 square-foot enterprise data center expected to begin operations in 2025. Brisbie is a wholly-owned subsidiary of Meta Platforms, Inc. Idaho regulations require any utility customer with an average load exceeding 20 MW to enter into a special contract with Idaho Power. Brisbie, in addition to its large load service requirements in excess of 20 MW, has a sustainability objective to support 100 percent of its operations with new renewable resources. Under the proposed special contract, Idaho Power would procure enough renewable resources to provide Brisbie with 100 percent renewable energy on an annual basis for Brisbie’s facility. In  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

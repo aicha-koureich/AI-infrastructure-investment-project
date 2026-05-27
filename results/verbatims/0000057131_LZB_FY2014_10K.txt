@@ -1,0 +1,21 @@
+FIRM         : LZB (CIK 0000057131) | FY2014
+FILE         : 0000057131_LZB_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : April 25, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 19: Fair Value Measurements (Continued)
+ASSET CAT.   : equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+(Amounts in thousands) Estimated Useful Lives 4/25/2015 4/26/2014 Buildings and building fixtures 3 - 40 years $ 202,482 $ 161,490 Machinery and equipment 3 - 15 years 142,949 140,561 Information systems and software 3 - 10 years 72,200 64,208 Land — 15,409 15,344 Land improvements 3 - 30 years 14,747 10,820 Transportation equipment 3 - 10 years 17,051 17,420 Furniture and fixtures 3 - 15 years 20,996 14,104 Construction in progress 14,195 31,233 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 500,029 455,180 Accumulated depreciation (325,993 ) (327,645 ) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Net property, plant and equipment $ 174,036 $ 127,535 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

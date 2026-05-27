@@ -1,0 +1,23 @@
+FIRM         : VST (CIK 0001692819) | FY2024
+FILE         : 0001692819_VST_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of our property, plant, and equipment (except for nuclear fuel) is calculated on a straight-line basis over the estimated service lives of the properties.
+
+[VERBATIM — Changement de politique]
+The final Section 163(j) regulations, which limits qualified deductions for business interest expense, were issued in July 2020 and provided a critical correction to the proposed regulations regarding the computation of adjusted taxable income. As of January 1, 2022, certain provisions in the final Section 163(j) regulations have sunset, including the add-back of depreciation and amortization to adjusted taxable income. As a result, under the law as currently enacted, Vistra's deductible business interest expense was significantly limited for the 2024 tax year and will continue to be so limited under current law going forward. Vistra remains active in legislative monitoring and advocacy efforts to support a legislative solution to reinstate and make permanent the add-back of depreciation and amortization to adjusted taxable income.
+
+[VERBATIM — Infrastructure IA]
+Historically, the base case assumption for U.S. electricity demand was for modest growth driven by the interplay of growth in population, industrial activity (such as an on-shore manufacturing) and new demand sources (such as electric vehicles), partially offset by continued advancements in energy efficiency. Multiple demand drivers such as emergence of large load data centers and electrification of oil field operations (specifically in the Permian Basin of west Texas), are expected to continue to accelerate load growth in the geographic regions we serve. We are in various discussions with interested counterparties for the potential sale of power from our nuclear and gas facilities pursuant to long-term agreements to supply large load facilities. Such potential transactions are subject to certain risks and uncertainties, including potential regulatory review and/or approval and adverse legislative action, which could impact the timing of, and our ability to consummate, any potential transaction.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : ANDE (CIK 0000821026) | FY2014
+FILE         : 0000821026_ANDE_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 12 - RELATED PARTIES
+ASSET CAT.   : Machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, (in thousands) 2014 2013 Land $ 23,380 $ 21,801 Land improvements and leasehold improvements 71,817 67,153 Buildings and storage facilities 275,059 231,976 Machinery and equipment 333,559 308,215 Software 55,436 13,351 Construction in progress 29,620 48,135 788,871 690,631 Less: accumulated depreciation and amortization 335,264 303,173 $ 453,607 $ 387,458
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

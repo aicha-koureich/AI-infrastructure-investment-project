@@ -1,0 +1,20 @@
+FIRM         : XRX (CIK 0001770450) | FY2024
+FILE         : 0001770450_XRX_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 – Recent Accounting Pronouncements and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Buildings and equipment are depreciated over their estimated useful lives. Equipment on operating leases is depreciated to estimated salvage value over the lease term.
+
+[VERBATIM — Infrastructure IA]
+In the second quarter 2024, Xerox entered into a seven year agreement with Tata Consulting Services (TCS), for the purpose of consolidating Xerox’s technology services to improve business outcomes, migrate legacy data centers to the cloud, deploy a cloud-based digital ERP platform to transform business processes, and incorporate generative artificial intelligence (GenAI) into operations to help drive sustainable growth. The agreement expanded Xerox's previous partnership entered into with TCS in 2021, under which TCS will continue to provide business processing outsourcing services in support of our global finance and accounting organization; there were no changes to the terms of the business processing outsourcing services agreement. Xerox can terminate the arrangement with 90 days' notice, subject to payment of a termination fee.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In connection with the technology agreement with TCS, Xerox also entered into seven-year agreements with both SAP Limited (SAP), who will provide Xerox with a cloud-based digital ERP platform, and Microsoft, who will provide their Azure cloud platform services.

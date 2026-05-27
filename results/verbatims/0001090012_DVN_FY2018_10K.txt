@@ -1,0 +1,20 @@
+FIRM         : DVN (CIK 0001090012) | FY2018
+FILE         : 0001090012_DVN_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 24 – Supplemental Quarterly Financial Information (Unaudited)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized costs of wells and related equipment and facilities, including estimated asset retirement costs, net of estimated salvage values and less accumulated amortization are depreciated over proved developed reserves associated with those capitalized costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The FASB issued ASU 2018-05-15, Intangibles, Goodwill and Other Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract . This ASU will require a customer in a cloud computing arrangement (i.e., hosting arrangement) that is a service contract to follow the internal-use software guidance in ASC 350-40 to determine which implementation costs to capitalize as assets or expense as incurred. Capitalized implementation costs related to a hosting arrangement that is a service contract will be amortized over the term of the hosting arrangement, beginning when the module or component of the hosting arrangement is ready for its intended use. This ASU is effective for annual and interim periods beginning January 1, 2020, with early adoption permitted. Entities have the option to adopt the ASU using either a retrospective approach or a prospective approach applied to all implementation costs incurred after the date of the adoption. Devon is currently evaluating the provisions of this ASU and assessing the impact it may have on its consolidated financial statements. ||| Intangibles, Goodwill and Other Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract

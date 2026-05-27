@@ -1,0 +1,24 @@
+FIRM         : ONB (CIK 0000707179) | FY2015
+FILE         : 0000707179_ONB_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 25 – SEGMENT INFORMATION
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation and software amortization
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+FASB ASC 350 – In April 2015, the FASB issued an update (ASU No. 2015-05, Customer’s Accounting for Fees Paid
+in a Cloud Computing Arrangement) impacting FASB ASC 350-40, Intangibles: Goodwill and Other: Internal- Use Software. This update is part of the FASB’s Simplification Initiative. The amendments in this update provide guidance to customers about
+whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of
+other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The guidance will not change generally accepted accounting principles for a
+customer’s accounting for service contracts. The amendments in this update became effective for interim and annual periods beginning after December 15, 2015 and did not have a material impact on the consolidated financial statements.

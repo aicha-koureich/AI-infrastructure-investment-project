@@ -1,0 +1,20 @@
+FIRM         : PEN (CIK 0001321732) | FY2016
+FILE         : 0001321732_PEN_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 15. Selected Quarterly Financial Data (Unaudited)
+ASSET CAT.   : Machinery and equipment, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2016 2015 Machinery and equipment $ 9,734 $ 8,559 Furniture and fixtures 4,246 2,091 Leasehold improvements 10,207 1,564 Software 1,221 666 Computers 884 565 Construction in progress 2,193 577 Total property and equipment 28,485 14,022 Less: Accumulated depreciation and amortization (7,021 ) (5,071 ) Property and equipment, net $ 21,464 $ 8,951
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

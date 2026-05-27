@@ -1,0 +1,20 @@
+FIRM         : SMP (CIK 0000093389) | FY2014
+FILE         : 0000093389_SMP_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Leasehold improvements are depreciated over the shorter of the estimated useful life or the term of the lease. Costs related to maintenance and repairs which do not prolong the assets useful lives are expensed as incurred. We assess our property, plant and equipment to be held and used for impairment when indicators are present that the carrying value may not be recoverable.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : BRBR (CIK 0001772016) | FY2024
+FILE         : 0001772016_BRBR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 — SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : software. Total depreciation expense was $1.5, $1.7 and $1.6 in fiscal 2024
+DURÉE        : 1.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated useful lives range from 3 to 10 years for machinery and equipment; 1 to 33 years for buildings, building improvements and leasehold improvements; and 1 to 5 years for software.
+
+[VERBATIM — Infrastructure IA]
+The Company uses certain functions and services performed by Post under a master services agreement (the “MSA”). These functions and services include finance, internal audit, treasury, information technology support, insurance and tax matters, the use of office and/or data center space, payroll processing services and tax compliance services. Prior to the Spin-off, Post also provided legal services to the Company. The MSA was amended and restated upon completion of the Spin-off to provide for similar services following the Spin-off and such other services as BellRing and Post may agree. The MSA was further amended on August 4, 2023 to modify the scope and pricing, and extended the term of certain services provided under it, none of which modifications are expected to materially increase the aggregate fees payable under the MSA. During the years ended September 30, 2024, 2023 and 2022, MSA fees were $3.4, $4.0 and $4.6, respectively. MSA fees were reported in “Selling, general and administrative expenses” in the Consolidated Statements of Operations.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

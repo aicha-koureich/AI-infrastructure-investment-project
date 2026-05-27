@@ -1,0 +1,21 @@
+FIRM         : SSNC (CIK 0001402436) | FY2022
+FILE         : 0001402436_SSNC_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Summary of Significant Accounting Policies
+ASSET CAT.   : capitalized software
+DURÉE        : 2.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 3.0-5.0 ans | 7.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Amortization of capitalized software costs is calculated by the greater of (a) the ratio that current gross revenues for a product bear to the total of current and anticipated future gross revenues for that product or (b) the straight-line method over the remaining estimated economic life of the product, including the period being reported on, typically two to five years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

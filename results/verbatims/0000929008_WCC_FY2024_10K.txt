@@ -1,0 +1,24 @@
+FIRM         : WCC (CIK 0000929008) | FY2024
+FILE         : 0000929008_WCC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2032-03-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 7. PROPERTY, BUILDINGS AND EQUIPMENT
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-8.0 ans
+
+[VERBATIM — Durée de vie]
+As of December 31, 2024 2023 (In millions) Buildings and leasehold improvements $ 246.9 $ 202.6 Furniture, fixtures and equipment 404.4 359.9 Software costs 316.5 292.6 967.8 855.1 Accumulated depreciation and amortization (554.1) (502.5) 413.7 352.6 Land 25.3 25.0 Construction in progress 3.9 46.0 Property, buildings and equipment, net $ 442.9 $ 423.6
+
+[VERBATIM — Changement de politique]
+The President and Chief Executive Officer serves as the Company’s Chief Operating Decision Maker (“CODM”). The CODM allocates resources and evaluates the performance of the Company’s reportable segments based on adjusted earnings before interest, taxes, depreciation and amortization (“adjusted EBITDA”), which is the Company’s measure of segment profit or loss. The CODM considers budget-to-actual and year-over-year variances for net sales and adjusted EBITDA when making decisions about allocating resources to the segments.
+
+[VERBATIM — Infrastructure IA]
+On December 5, 2024, through its wholly-owned subsidiary Anixter Inc., the Company acquired 100% of the equity securities of Ascent, LLC (“Ascent”). Headquartered in St. Louis, Missouri, Ascent is a provider of data center facility management services with over 300 employees in the U.S. and Canada. Ascent’s expertise in engineering and design-build consultation services, in addition to daily site operations, extends the Company’s suite of capabilities and solutions that serve the entire lifecycle of the data center. The Company funded the purchase price paid at closing with cash on hand as well as borrowings under its revolving credit facility.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Cloud computing arrangement amortization (5) ||| (4) Loss on abandonment of assets represents the write-off of certain capitalized cloud computing arrangement implementation costs relating to a third-party developed operations management software product in favor of an application with functionality that better suits the Company’s operations. ||| (5) Cloud computing arrangement amortization consists of expense recognized in selling, general and administrative expenses for capitalized implementation costs for cloud computing arrangements to support our digital transformation initiatives.

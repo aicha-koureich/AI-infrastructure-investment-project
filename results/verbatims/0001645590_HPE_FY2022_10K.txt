@@ -1,0 +1,24 @@
+FIRM         : HPE (CIK 0001645590) | FY2022
+FILE         : 0001645590_HPE_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-10-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 20: Equity Method Investments
+ASSET CAT.   : servers and storage equipment assets from
+DURÉE        : 4.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 3.0-5.0 ans | 3.0-15.0 ans | 4.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+As of November 1, 2021, the Company increased its expected useful life of new servers and storage equipment assets from four years to five years. Concurrently, the Company completed an assessment of its existing server and storage equipment assets and extended the remaining useful lives of such assets by one year.
+
+[VERBATIM — Changement de politique]
+As of November 1, 2021, the Company increased its expected useful life of new servers and storage equipment assets from four years to five years. Concurrently, the Company completed an assessment of its existing server and storage equipment assets and extended the remaining useful lives of such assets by one year.
+
+[VERBATIM — Infrastructure IA]
+At October 31, 2022, the Company’s goodwill was $17.4 billion, of which $2.9 billion related to the High Performance Computing and Artificial Intelligence (HPC & AI) reporting unit. As discussed in Note 11 to the consolidated financial statements, goodwill is tested for impairment at least annually at the reporting unit level and more frequently when warranted based on indicators of impairment. Auditing management’s goodwill impairment test for the HPC & AI reporting unit was complex and highly judgmental due to the significant estimation required to determine the fair value of the reporting unit. In particular, the fair value estimate of the HPC & AI reporting unit was sensitive to significant assumptions, such as changes in the weighted average cost of capital, revenue growth rate, operating margin and terminal value, which are affected by expectations about future market or economic conditions.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In response to the aforementioned challenges, we are accelerating our development and innovation efforts in the areas of our strategic focus, including the Intelligent Edge and HPC & AI businesses, while at the same time, strengthening our core Compute and Storage businesses, by investing in key areas of growth and accelerating our as-a-service pivot to become the edge-to-cloud company for our customers and partners with our HPE GreenLake edge-to-cloud platform. ||| During the fiscal period, we announced significant advancements to our HPE GreenLake edge-to-cloud platform, our flagship hybrid offering that enables organizations to modernize all their applications and data, from edge to cloud and supports multi-cloud experiences everywhere – including clouds that live on-premises, at the edge, in a colocation facility, and in a public cloud. The platform advancements included a unified operating experience with one view of all services edge to cloud along with convergence with the Aruba Central cloud service, twelve new cloud services including network as-a-service, data services, high performance computing functions, compute operations management, and availability of the HPE GreenLake edge-to-cloud platform in the online marketplaces of several leading distributors. We also launched HPE GreenLake for Private Cloud Enterprise, which is a private cloud experience for traditional and cloud-native workloads. These updates strengthen the HPE GreenLake edge-to-cloud platform and help customers drive their data modernization needs. ||| Our pivot to as-a-service continues its strong momentum with the addition of HPE GreenLake Cloud Services. Our mix of ARR is becoming more software-rich as we build our HPE GreenLake edge-to-cloud platform, which is improving our margin profile. On the innovation front, we announced a transformative new data storage services platform that brings our cloud operations model to wherever data lives by unifying data operations. The platform will be available through HPE GreenLake Central and includes a new data services cloud console and a suite of software subscription services that simplifies and automates global infrastructure at scale. We will continue to invest aggressively in HPE GreenLake Cloud Services to provide a true cloud experience and operating model, whether at the edge, on-premises or across multiple clouds.

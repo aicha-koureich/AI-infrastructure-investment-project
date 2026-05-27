@@ -1,0 +1,20 @@
+FIRM         : SNX (CIK 0001177394) | FY2015
+FILE         : 0001177394_SNX_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 18—COMMITMENTS AND CONTINGENCIES:
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of November 30, 2015 2014 Property and equipment, net: Land $ 21,581 $ 22,402 Equipment, computers and software 202,310 157,931 Furniture and fixtures 45,470 38,113 Buildings, building improvements and leasehold improvements 167,893 134,291 Construction-in-progress 11,799 12,783 Total property and equipment, gross 449,053 365,520 Less: Accumulated depreciation (200,426 ) (164,717 ) $ 248,627 $ 200,803
+
+[VERBATIM — Infrastructure IA]
+The Technology Solutions segment distributes peripherals, IT systems, including data center server and storage solutions, system components, software, networking/communications/security equipment, consumer electronics (“CE”) and complementary products to a variety of customers, including value-added resellers, system integrators and retailers. The Company also provides systems design and integration solutions.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued new guidance to customers about whether a cloud computing arrangement includes a software license. If the cloud computing arrangement includes a software license, the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If the cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The new standard may be applied prospectively or retrospectively and is effective for annual reporting periods beginning after December 15, 2015 and interim periods within those annual periods, with early adoption permitted. The Company does not expect the adoption of this standard to have a material impact on its Consolidated Financial Statements.

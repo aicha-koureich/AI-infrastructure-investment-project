@@ -1,0 +1,20 @@
+FIRM         : OMCL (CIK 0000926326) | FY2017
+FILE         : 0000926326_OMCL_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Our investments have been consistent with the strategies outlined above. To differentiate our solutions from others available in the market, in December 2016 we announced the XT Series, our new generation of medication and supply automation that is fully integrated on our Unity enterprise platform. The XT Series includes automated medication and supply dispensing cabinets, the Anesthesia Workstation, and Controlled Substance Manager. The XT Automated Medication Cabinets have been integrated with Connect-Rx® from Aesynt, so customers in the United States and Canada who use AcuDose-Rx® cabinets can take advantage of the new hardware without changing their software or server infrastructure. As part of this product introduction we developed a new hardware and electronics architecture for the XT Series. The new design enables more medications to be stocked within the same footprint-the XT cabinets offer up to 50% more capacity compared with similar units on the market. In November 2017, we introduced our new IVX Workflow Solution. This new solution powered by IVX Cloud services helps enable pharmacies to safely and efficiently compound and prepare IV treatments. In December 2017, we announced our XR2 Central Pharmacy Automated System, allowing customers to more fully automate their central pharmacies.

@@ -1,0 +1,20 @@
+FIRM         : HPE (CIK 0001645590) | FY2017
+FILE         : 0001645590_HPE_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 22: Equity Method Investments
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company recognizes revenue for software-as-a-service ("SaaS") arrangements as the service is delivered, generally on a straight-line basis, over the contractual period of performance.
+
+[VERBATIM — Infrastructure IA]
+Hewlett Packard Enterprise Company ("we", "us", "our", "Hewlett Packard Enterprise", "HPE", or "the Company") is an industry leading technology company that enables customers to go further, faster. With a deep and comprehensive portfolio, spanning the cloud to the data center to the intelligent edge, its technology and services help customers around the world make better business outcomes. Hewlett Packard Enterprise's customers range from small- and medium-sized businesses ("SMBs") to large global enterprises.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB amended the existing accounting standards for intangible assets. The amendments provide explicit guidance to customers in determining the accounting for fees paid in a cloud computing arrangement, wherein the arrangements that do not convey a software license to the customer are accounted for as service contracts. The amendments also eliminate the practice of accounting for software licenses as executory contracts which may result in more software assets being capitalized. The Company adopted the amendments in the first quarter of fiscal 2017 and applied them retrospectively to all periods presented, as permitted by the standard. The adoption of these amendments did not have a material impact on the Company's Consolidated and Combined Financial Statements.

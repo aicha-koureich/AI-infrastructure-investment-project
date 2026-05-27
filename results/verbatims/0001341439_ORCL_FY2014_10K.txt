@@ -1,0 +1,32 @@
+FIRM         : ORCL (CIK 0001341439) | FY2014
+FILE         : 0001341439_ORCL_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : May 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Oracle Corporation provides products and services that address all
+aspects of corporate information technology (IT) environments—application, platform and infrastructure—and are available to customers either via cloud computing or on-premises deployment models. Our products include database and middleware
+software, application software, cloud infrastructure software, and hardware systems (Oracle Engineered Systems, servers, storage, networking and industry specific products), along with support and related services. We offer over 400,000 worldwide
+customers a choice of deployment models to best suit their needs including (1) the deployment of our products via our Oracle Cloud offerings, (2) the acquisition of Oracle products and services for an on-premises IT environment or
+(3) a mix of these two models.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Oracle Corporation provides products and services that address all
+aspects of corporate information technology (IT) environments—application, platform and infrastructure—and are available to customers either via cloud computing or on-premises deployment models. Our products include database and middleware
+software, application software, cloud infrastructure software, and hardware systems (Oracle Engineered Systems, servers, storage, networking and industry specific products), along with support and related services. We offer over 400,000 worldwide
+customers a choice of deployment models to best suit their needs including (1) the deployment of our products via our Oracle Cloud offerings, (2) the acquisition of Oracle products and services for an on-premises IT environment or
+(3) a mix of these two models. ||| For customers opting for a cloud computing model, Oracle offers a wide range of services in all three
+primary layers of the cloud: Software as a Service (SaaS), Platform as a Service (PaaS) and Infrastructure as a Service (IaaS). Our Oracle Cloud offerings are designed to be: rapidly deployable to enable customers shorter time to innovation; easily
+maintainable to reduce integration and testing work; and cost effective by requiring lower upfront customer investment. Our Oracle Cloud offerings integrate the software, hardware and services on the customers’ behalf in IT environments that we
+deploy, support and manage for the customer. We are a leader in the core technologies of cloud IT environments, including database and middleware software as well as enterprise applications, virtualization, clustering, large-scale systems management
+and related infrastructure. Our products and services are the building blocks of our Oracle Cloud services, our partners’ cloud services and our customers’ cloud IT environments. ||| Software and Cloud Business

@@ -1,0 +1,23 @@
+FIRM         : LUV (CIK 0000092380) | FY2015
+FILE         : 0000092380_LUV_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Company will record accelerated depreciation expense over the remainder of the useful lives for each aircraft and its related parts. The impact of this change on the year ended December 31, 2015 was immaterial. The impact of this change in estimate in 2016 is an approximate
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

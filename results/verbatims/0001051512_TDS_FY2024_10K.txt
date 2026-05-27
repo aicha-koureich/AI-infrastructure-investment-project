@@ -1,0 +1,23 @@
+FIRM         : TDS (CIK 0001051512) | FY2024
+FILE         : 0001051512_TDS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-12-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 Summary of Significant Accounting Policies and Recent Accounting Pronouncements
+ASSET CAT.   : technology, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+There were no material changes to the assigned useful lives of the various categories of property, plant and equipment in 2024, 2023 or 2022. See Note 10 — Property, Plant and Equipment for additional details related to useful lives.
+
+[VERBATIM — Changement de politique]
+TDS Telecom has definite-lived franchise rights as a result of past acquisitions of cable businesses. Franchise rights are intangible assets that provide their holder with the right to operate a business in a certain geographical location as sanctioned by the franchiser, usually a government agency. Franchise rights are generally granted for ten years and may be renewed for additional terms upon approval by the granting authority. TDS anticipates that future renewals of its franchise rights will be granted. TDS reviews franchise rights for impairment whenever events or changes in circumstances indicate that the assets might be impaired. TDS re-evaluates the useful life used for amortization of franchise rights each year or whenever events or circumstances warrant to determine if changes in technology or other business changes which may require a revision of its remaining useful life. During 2024, TDS changed its estimated useful life for franchise rights from 15 years to 12 years. Franchise rights are included in Other intangible assets in the Consolidated Balance Sheet.
+
+[VERBATIM — Infrastructure IA]
+On May 31, 2024, TDS entered into an agreement to sell its HMS operations, which operated through wholly-owned subsidiaries OneNeck IT Solutions LLC and OneNeck Data Center Holdings LLC, to a third-party for a purchase price, subject to adjustment as specified in the agreement, of $101 million, with an additional $9 million of contingent proceeds. The transaction closed on September 3, 2024, and TDS received proceeds of $91 million and recognized a book gain of $19 million in (Gain) loss on sale of business and other exit costs, net in the Consolidated Statement of Operations.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+On October 17, 2024, UScellular, and certain subsidiaries of UScellular, entered into a License Purchase Agreement (Verizon Purchase Agreement) with Verizon Communications Inc. (Verizon) to sell certain AWS, Cellular and PCS wireless spectrum licenses and agreed to grant Verizon certain rights to lease such licenses prior to the transaction close for total proceeds of $1,000 million. As of December 31, 2024, UScellular's book value of the wireless spectrum licenses to be sold was $586 million. The transaction is subject to regulatory approval and other customary closing conditions, and is contingent on the closing of the T-Mobile transaction and the termination of the T-Mobile Short-Term Spectrum Manager Lease Agreement.

@@ -1,0 +1,20 @@
+FIRM         : CNX (CIK 0001070412) | FY2024
+FILE         : 0001070412_CNX_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-27
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1—SIGNIFICANT ACCOUNTING POLICIES:
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Expenditures which extend the useful lives of existing plant and equipment are capitalized. Planned major maintenance costs which do not extend the useful lives of existing plant and equipment are expensed as incurred.
+
+[VERBATIM — Infrastructure IA]
+On January 3, 2025, the Department of the Treasury issued final rules regarding the Inflation Reduction Act’s Section 45V Hydrogen Production Tax Credit. The Department of Treasury's recognition of captured waste coal mine methane (CMM) as a feedstock for hydrogen production is validation of its inherent environmental and economic benefits and an important step in continuing to monetize the value of this unique asset. The Company has now successfully validated the premium pricing that low-carbon intensity waste methane capture (CMM) blends enjoy in the manufacturing, hydrogen production, and power generation sectors. However, CNX believes that the final 45V implementation rules are overly restrictive across a range of feedstocks and do not currently appear to create sufficient economic incentives for the Company to expand its CMM capture operations for hydrogen end use. Notwithstanding the specifics of the 45V rule, the Company intends to utilize this important validation of the product to pursue other incentive pathways across these sectors, as well as establish similar markets in artificial intelligence (AI) data centers, transportation, aviation, voluntary market platforms, and government/regulatory platforms arenas.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

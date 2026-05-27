@@ -1,0 +1,21 @@
+FIRM         : LITE (CIK 0001633978) | FY2021
+FILE         : 0001633978_LITE_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-07-03
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : building and improvements
+DURÉE        : 2.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is computed by the straight-line method generally over the following estimated useful lives of the assets: 10 to 40 years for building and improvements, 3 to 5 years for machinery and equipment, and 2 to 5 years for furniture, fixtures, software and office equipment.
+
+[VERBATIM — Infrastructure IA]
+On December 10, 2018, we completed our merger with Oclaro, Inc. (“Oclaro”), a provider of optical components and modules for the long-haul, metro and data center markets. Our consolidated financial statements include the operating results of Oclaro beginning from the date of acquisition. Refer to “Note 4. Business Combinations” for further discussion of the merger.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Our primary strategic focus for several years has been technology and product leadership combined with close customer relationships in long-term healthy and growing markets. We believe this strategy is even more apt, and our long-term opportunity is not diminished, with COVID-19. We believe there are long-term opportunities, as the world’s experience with COVID-19 is driving an increasingly digital and virtual world touching all aspects of life and work that increasingly emphasizes communications systems, cloud services, augmented and virtual reality, and enhanced security. Additionally, ever advancing electronic devices are needed to consume, produce, and communicate digital and virtual content. All these trends could drive the need for higher volumes of higher performing optical devices that we could supply. As such, we expect to continue to invest strongly in new products, technology, and customer programs.

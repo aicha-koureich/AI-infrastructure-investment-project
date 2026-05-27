@@ -1,0 +1,20 @@
+FIRM         : IR (CIK 0001699150) | FY2024
+FILE         : 0001699150_IR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-03
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 2 6 : Subsequent Events
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, net of accumulated depreciation of $567.5 and $500.8, respectively
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

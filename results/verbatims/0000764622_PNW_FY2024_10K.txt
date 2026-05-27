@@ -1,0 +1,23 @@
+FIRM         : PNW (CIK 0000764622) | FY2024
+FILE         : 0000764622_PNW_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-25
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 21. New Accounting Standards
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Palo Verde sale leaseback property, plant and equipment, net of accumulated depreciation
+
+[VERBATIM — Changement de politique]
+Court Resolution Surcharge. The CRS mechanism permits APS to recover certain costs associated with investments and expenses for APS’s purchase and installation of SCR technology for Four Corners Units 4 and 5 and a change in APS’s allowable return on equity as required by the Arizona Court of Appeals and approved by the ACC in Decision No. 78979. The CRS went into effect on July 1, 2023, at a rate of $0.00175 per kWh. The rate is designed to recover $59.6 million in revenue lost by APS between December 2021 and June 20, 2023, and the prospective recovery of ongoing costs related to the SCR investments and expense and the allowable return on equity difference in current base rates. The portion of the CRS representing the recovery of the $59.6 million of lost revenue between December 2021 and June 20, 2023, $26.2 million of which has been collected as of December 31, 2024, will cease upon full collection of the lost revenue. Additionally, the CRS tariff was updated to remove the return on equity component and account for SCR-related depreciation and deferral adjustments approved in Decision No. 79293 in the 2022 Rate Case. See “2019 Retail Rate Case” above for more information.
+
+[VERBATIM — Infrastructure IA]
+• Equity investment in SAI Advanced Power Solutions (“SAI”), a private corporation that manufactures electrical switchgear equipment used by data centers. El Dorado accounts for this investment under the equity method, with a December 31, 2024 investment carrying value of zero. SAI has seen an increased demand for their customized switchgear products. El Dorado has no funding commitments to SAI.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

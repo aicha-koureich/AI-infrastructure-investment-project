@@ -1,0 +1,23 @@
+FIRM         : ENOV (CIK 0001420800) | FY2024
+FILE         : 0001420800_ENOV_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 19. Segment Information
+ASSET CAT.   : information technology, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+These categories include: employee costs such as salary, wages, and benefits, bonuses and incentives; information technology and communication costs; office and site costs such as rent and utilities, insurance, office supplies, equipment and depreciation; and legal, accounting, and compliance costs.
+
+[VERBATIM — Changement de politique]
+Year Ended December 31, 2024 2023 2022 (In thousands) Prevention & Recovery: Net sales $ 1,097,957 $ 1,076,776 $ 1,027,628 Segment cost of sales 523,586 516,616 507,821 Segment research and development 35,745 35,075 33,465 Segment operating expense 399,620 394,772 369,388 Total segment expenses 958,951 946,463 910,674 Add: Depreciation 20,590 22,188 24,390 Adjusted EBITDA (non-GAAP) $ 159,596 $ 152,501 $ 141,344 Reconstructive: Net sales $ 1,009,666 $ 630,421 $ 535,473 Segment cost of sales 333,624 197,039 171,628 Segment research and development 55,553 40,256 27,362 Segment operating expense 500,274 337,804 294,047 Total segment expenses 889,451 575,099 493,037 Add: Depreciation 96,708 61,404 52,290 Adjusted EBITDA (non-GAAP) $ 216,923 $ 116,726 $ 94,726 Total: Net sales $ 2,107,623 $ 1,707,197 $ 1,563,101 Adjusted EBITDA (non-GAAP) $ 376,519 $ 269,227 $ 236,070
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

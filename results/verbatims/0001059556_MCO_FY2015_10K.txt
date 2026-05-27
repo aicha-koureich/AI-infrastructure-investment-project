@@ -1,0 +1,30 @@
+FIRM         : MCO (CIK 0001059556) | FY2015
+FILE         : 0001059556_MCO_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost and are depreciated using the straight-line method over their estimated useful lives.
+
+[VERBATIM — Changement de politique]
+In April 2015, the FASB issued ASU No. 2015-05 “Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement”. This ASU provides guidance on
+accounting for fees paid by a customer in a cloud computing arrangement. In accordance with the ASU, a cloud computing arrangement that contains a software license should be accounted for consistently with the acquisition of other software licenses.
+If no software license is present in the contract, the entity should account for the arrangement as a service contract. The Company can elect to apply this ASU either retrospectively or prospectively effective for annual and interim reporting
+periods beginning after December 15, 2015, and early adoption is permitted. The adoption of this ASU in 2016 will not have a material impact on the Company’s financial statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05 “Customer’s Accounting
+for Fees Paid in a Cloud Computing Arrangement”. This ASU provides guidance on accounting for fees paid by a customer in a cloud computing arrangement. In accordance with the ASU, a cloud computing arrangement that contains a software license
+should be accounted for consistently with the acquisition of other software licenses. If no software license is present in the contract, the entity should account for the arrangement as a service contract. The Company can elect to apply this ASU
+either retrospectively or prospectively effective for annual and interim reporting periods beginning after December 15, 2015, and early adoption is permitted. The adoption of this ASU in 2016 will not have a material impact on the
+Company’s financial statements.

@@ -1,0 +1,20 @@
+FIRM         : AWRE (CIK 0001015739) | FY2013
+FILE         : 0001015739_AWRE_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 6. PROPERTY AND EQUIPMENT
+ASSET CAT.   : Computer equipment, Furniture and fixtures, Office equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2013 2012 Land $ 1,056 $ 1,080 Building and improvements 9,060 9,060 Computer equipment 557 605 Purchased software 88 131 Furniture and fixtures 778 779 Office equipment 191 181 Total 11,730 11,836 Less accumulated depreciation and amortization (6,148 ) (5,932 ) Property and equipment, net $ 5,582 $ 5,904
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

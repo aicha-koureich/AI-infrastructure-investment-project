@@ -1,0 +1,21 @@
+FIRM         : LULU (CIK 0001397187) | FY2019
+FILE         : 0001397187_LULU_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 2, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 . SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud computing arrangement implementation costs ||| In August 2018, the FASB clarified ASC 350-40, Intangibles - Goodwill and Other - Internal-Use Software , for certain aspects of accounting for implementation costs incurred in a cloud computing arrangement that is a service contract. Under the update, an entity expenses costs incurred in the preliminary-project and post-implementation-operation stages. An entity also capitalizes certain costs incurred during the application-development stage, as well as certain costs related to enhancements. The ASU does not change the accounting for the service component of a cloud computing arrangement. This standard is effective beginning in the first quarter of 2020, with early adoption permitted. The Company adopted this guidance in the first quarter of fiscal 2019, and it did not have a material impact on the Company's consolidated financial statements. ||| , for certain aspects of accounting for implementation costs incurred in a cloud computing arrangement that is a service contract. Under the update, an entity expenses costs incurred in the preliminary-project and post-implementation-operation stages. An entity also capitalizes certain costs incurred during the application-development stage, as well as certain costs related to enhancements. The ASU does not change the accounting for the service component of a cloud computing arrangement. This standard is effective beginning in the first quarter of 2020, with early adoption permitted. The Company adopted this guidance in the first quarter of fiscal 2019, and it did not have a material impact on the Company's consolidated financial statements.

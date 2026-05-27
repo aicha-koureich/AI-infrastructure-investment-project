@@ -1,0 +1,23 @@
+FIRM         : IAC (CIK 0001800227) | FY2023
+FILE         : 0001800227_IAC_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2028-12-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 11 —Dotdash Meredith Restructuring Charges, Transaction-Related Expenses and Change-in-Control Payments
+ASSET CAT.   : furniture, equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation in 2023 increased from 2022 due primarily to increases of $28.9 million at Dotdash Meredith and $16.1 million at Angi Inc. The increase at Dotdash Meredith was due primarily to an impairment of leasehold improvements and furniture and equipment of $25.3 million in the first quarter of 2023 related to unoccupied leased space and a $4.2 million write-off of certain leasehold improvements and furniture and equipment during the second quarter of 2023, partially offset by the inclusion of a $7.0 million impairment recorded in the third quarter of 2022 of leasehold improvements and furniture and equipment related to the consolidation of certain leased spaces, as described above under "Dotdash Meredith Restructuring and Other Charges." The increase at Angi Inc. was due primarily to an increase in capitalized software projects placed in service and investments in capitalized software.
+
+[VERBATIM — Changement de politique]
+• Adjusted Earnings Before Interest, Taxes, Depreciation and Amortization ("Adjusted EBITDA") - is a non-GAAP financial measure. See " Principles of Financial Reporting " for the definition of Adjusted EBITDA and a reconciliation of net earnings (loss) attributable to IAC shareholders to operating loss to Adjusted EBITDA for the years ended December 31, 2023, 2022 and 2021.
+
+[VERBATIM — Infrastructure IA]
+IAC believes that the facilities for its management and operations are generally adequate for its current and near-term future needs. IAC’s facilities, most of which are leased by IAC’s businesses in various cities and locations in the United States and various jurisdictions abroad, generally consist of executive and administrative offices, operations centers, data centers and sales offices.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Purchase obligations include future payments of (i) $43.0 million for the final payment related to a three-year cloud computing arrangement, with payment expected to be made by September 2024, (ii) $12.0 million related to advertisement placement services in 2024, (iii) $4.9 million related to office productivity and email tools, (iv) $4.5 million related to research tools and (v) $3.5 million related to media spend to be made in 2024.

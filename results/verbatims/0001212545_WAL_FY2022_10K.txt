@@ -1,0 +1,20 @@
+FIRM         : WAL (CIK 0001212545) | FY2022
+FILE         : 0001212545_WAL_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 7. PREMISES AND EQUIPMENT
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2022 2021 (in millions) Bank premises $ 95 $ 92 Construction in progress 60 43 Furniture, fixtures, and equipment 97 59 Land and improvements 32 32 Leasehold improvements 66 41 Software 83 41 Total 433 308 Accumulated depreciation and amortization (157) (126) Premises and equipment, net $ 276 $ 182
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

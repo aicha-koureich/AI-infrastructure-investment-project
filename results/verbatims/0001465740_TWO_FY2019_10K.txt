@@ -1,0 +1,23 @@
+FIRM         : TWO (CIK 0001465740) | FY2019
+FILE         : 0001465740_TWO_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+The adoption of this ASU will impact the Company’s accounting for the purchase of certain beneficial interests with purchased credit deterioration or when there is a “significant” difference between contractual cash flows and expected cash flows. For these securities, the Company will record an allowance for credit losses with an increase in amortized cost above the purchase price of the same amount. Subsequent adverse or favorable changes in expected cash flows will be recognized immediately in earnings as a provision for or reduction in credit losses, respectively. Adverse changes will be reflected as an increase to the allowance for credit losses and favorable changes will be reflected as a decrease to the allowance for credit losses. The allowance for credit losses is limited to the difference between the beneficial interest’s fair value and its amortized cost, and any remaining adverse changes in these circumstances are reflected as a prospective adjustment to accretable yield. If the allowance for credit losses has been reduced to zero, the remaining favorable changes are reflected as a prospective adjustment to accretable yield. The Company will not adjust the effective interest rate in subsequent periods for prepayment assumption changes and the Company will not adjust the effective interest rate in subsequent periods for variable-rate changes. Any changes in the allowance for credit losses due to the time-value-of-money will be accounted for in the income statement as credit loss expense rather than a reduction to interest income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : MGPI (CIK 0000835011) | FY2016
+FILE         : 0000835011_MGPI_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1: NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are typically stated at cost. Additions, including those that increase the life or utility of an asset, are capitalized and all properties are depreciated over their estimated remaining useful lives. Depreciation and amortization are computed using the straight line method over the following estimated useful lives:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+which amends a number of Topics in the FASB ASC. The ASU is part of an ongoing FASB project to facilitate Codification updates for non-substantive technical corrections, clarifications, and improvements that are not expected to have a significant effect on accounting practice or create a significant administrative cost to most entities. The ASU will apply to all reporting entities within the scope of the affected accounting guidance. Most amendments are effective upon issuance (December 2016). Certain amendments that require transition guidance are effective for: Public business entities, for annual and interim periods in fiscal years beginning after December 15, 2016 (for cloud computing arrangements); All other entities, for annual periods in fiscal years beginning after December 15, 2017, and interim periods in fiscal years beginning after December 15, 2018 (for cloud computing arrangements); and All entities, for annual and interim periods in fiscal years beginning after December 15, 2016 (for certain others, including the change to fair value measurement disclosures). Early adoption is permitted for the amendments that require transition guidance. The Company is evaluating the effect that ASU 2016-19 will have on its consolidated financial statements and related disclosures and is not planning to early adopt the new standard. ||| Recent Accounting Pronouncements. In December 2016, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") 2016-19, Technical Corrections and Improvements, which amends a number of Topics in the FASB ASC. The ASU is part of an ongoing FASB project to facilitate Codification updates for non-substantive technical corrections, clarifications, and improvements that are not expected to have a significant effect on accounting practice or create a significant administrative cost to most entities. The ASU will apply to all reporting entities within the scope of the affected accounting guidance. Most amendments are effective upon issuance (December 2016). Certain amendments that require transition guidance are effective for: Public business entities, for annual and interim periods in fiscal years beginning after December 15, 2016 (for cloud computing arrangements); All other entities, for annual periods in fiscal years beginning after December 15, 2017, and interim periods in fiscal years beginning after December 15, 2018 (for cloud computing arrangements); and All entities, for annual and interim periods in fiscal years beginning after December 15, 2016 (for certain others, including the change to fair value measurement disclosures). Early adoption is permitted for the amendments that require transition guidance. The Company is evaluating the effect that ASU 2016-19 will have on its consolidated financial statements and related disclosures and is not planning to early adopt the new standard.

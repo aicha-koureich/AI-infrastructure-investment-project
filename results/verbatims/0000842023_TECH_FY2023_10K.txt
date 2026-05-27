@@ -1,0 +1,23 @@
+FIRM         : TECH (CIK 0000842023) | FY2023
+FILE         : 0000842023_TECH_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-07-07
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of Business and Summary of Significant Accounting Policies:
+ASSET CAT.   : equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Equipment is depreciated using the straight-line method over an estimated useful life of 3 to 5 years.
+
+[VERBATIM — Changement de politique]
+In conjunction with the Asuragen acquisition that occurred in fiscal year 2021, the Company reassessed the useful life of a tradename from a previous acquisition due to the planned integration and cobranding strategy developed with the most recent transaction. As a result, the Company accelerated the amortization of the trade name to be consistent with the life used for the Asuragen trade name. The accelerated amortization resulted in a $1.4 million impact in fiscal 2021, a $5.7 million impact in fiscal years 2022 through 2025, and a $4.3 million impact in fiscal year 2026.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

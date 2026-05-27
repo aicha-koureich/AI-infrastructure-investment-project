@@ -1,0 +1,20 @@
+FIRM         : FELE (CIK 0000038725) | FY2020
+FILE         : 0000038725_FELE_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment, computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of plant and equipment is calculated on a straight line basis over the following estimated useful lives:
+
+[VERBATIM — Infrastructure IA]
+During the third quarter ended September 30, 2018, the Company acquired, in separate transactions, substantially all of the assets of the Stationary Power Division (“SPD”) of Midtronics, Inc., and 100 percent of the ownership interest in Industrias Rotor Pump S.A. (“Industrias Rotor Pump”), located in the United States and Argentina, respectively. Neither of the acquisitions were material individually or in the aggregate, and the final combined purchase price was $37.0 million. SPD offers a variety of products to users in the electrical substation monitoring, data center and mobile telecommunications markets. Industrias Rotor Pump is the leading provider of water pumping equipment in Argentina.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

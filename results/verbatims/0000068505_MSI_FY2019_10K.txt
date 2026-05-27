@@ -1,0 +1,21 @@
+FIRM         : MSI (CIK 0000068505) | FY2019
+FILE         : 0000068505_MSI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 15. Intangible Assets and Goodwill
+ASSET CAT.   : equipment
+DURÉE        : 7.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+On March 13, 2017, the Company completed the acquisition of Interexport, a managed service provider for communications systems to public safety and commercial customers in Chile, for a purchase price of $98 billion Chilean pesos, or approximately $147 million U.S. dollars based on cash payments of $55 million , net of cash acquired, and assumed liabilities of $92 million , primarily related to capital leases. As a result of the acquisition, the Company recognized $61 million of identifiable intangible assets, $70 million of acquired property, plant and equipment and $16 million of net other tangible assets. The estimated identifiable intangible assets were classified as $56 million of customer-related intangibles and $5 million of other intangibles and will be amortized over a period of seven years . The business is part of the Software and Services segment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

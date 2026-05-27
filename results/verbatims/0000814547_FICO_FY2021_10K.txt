@@ -1,0 +1,21 @@
+FIRM         : FICO (CIK 0000814547) | FY2021
+FILE         : 0000814547_FICO_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-10-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Nature of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment and software
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 6.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated Useful Life Data processing equipment and software 3 years to 6 years Office furniture and equipment 3 years to 7 years Leasehold improvements Shorter of estimated useful life or lease term Equipment under capital lease Shorter of estimated useful life or lease term
+
+[VERBATIM — Infrastructure IA]
+We lease office space and data centers under operating lease arrangements, which constitute the majority of our lease obligations. We also enter into finance lease agreements from time to time for certain computer equipment. For any lease with a lease term in excess of 12 months, the related lease assets and liabilities are recognized on our consolidated balance sheets as either operating or finance leases at the commencement of an agreement where it is determined that a lease exists. We have lease agreements that contain both lease and non-lease components, and we have elected to combine these components together and account for them as a single lease component for all classes of assets. Leases with a lease term of 12 months or less are not recorded on our consolidated balance sheets. Furthermore, we recognize lease expense for these leases on a straight-line basis over the lease term.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Our SaaS products provide customers with access to and standard support for our software on a subscription basis, delivered through our own infrastructure or third-party cloud services. The SaaS transaction contracts typically include a guaranteed minimum fee per period that allows up to a certain level of usage and a consumption-based variable amount in excess of the minimum threshold; or a consumption-based variable fee not subject to a minimum threshold. The nature of our SaaS arrangements is to provide continuous access to our hosted solutions in the cloud, i.e., a stand-ready obligation that comprises a series of distinct service periods (e.g., a series of distinct daily, monthly or annual periods of service). We estimate the total variable consideration at contract inception — subject to any constraints that may apply — and update the estimates as new information becomes available and recognize the amount ratably over the SaaS service period, unless we determine it is appropriate to allocate the variable amount to each distinct service period and recognize revenue as each distinct service period is performed. ||| In August 2018, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) No. 2018-15, Intangibles—Goodwill and Other (Topic 350): Internal-Use Software (“ASU 2018-15”). ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. We adopted ASU 2018-15 in the first quarter of our fiscal 2021 and the adoption did not have a significant impact on our consolidated financial statements. ||| (“ASU 2018-15”). ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. We adopted ASU 2018-15 in the first quarter of our fiscal 2021 and the adoption did not have a significant impact on our consolidated financial statements.

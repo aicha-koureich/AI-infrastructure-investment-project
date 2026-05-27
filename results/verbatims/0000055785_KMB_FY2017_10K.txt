@@ -1,0 +1,20 @@
+FIRM         : KMB (CIK 0000055785) | FY2017
+FILE         : 0000055785_KMB_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 1 . Accounting Policies
+ASSET CAT.   : software, which generally does not exceed
+DURÉE        : 16.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost and are depreciated on the straight-line method. Machinery and equipment are depreciated over their estimated useful lives, primarily ranging from 16 to 20 years . Computer software costs are amortized on the straight-line method over the estimated useful life of the software, which generally does not exceed 5 years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

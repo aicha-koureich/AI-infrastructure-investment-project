@@ -1,0 +1,20 @@
+FIRM         : XPER (CIK 0001788999) | FY2023
+FILE         : 0001788999_XPER_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We have lease arrangements for office and research facilities, data centers and office equipment. As of December 31, 2023, fixed lease payment obligations amounted to $49.9 million, with $16.8 million payable within 12 months. See Note 10— Leases of the Notes to Consolidated Financial Statements for additional information on lease obligations and maturities.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Selling, general and administrative expenses for the year ended December 31, 2023 were $233.4 million as compared to $217.4 million for the year ended December 31, 2022, an increase of $16.0 million, or 7%. The increase was primarily due to increases in stock-based compensation expense and cloud computing expense.

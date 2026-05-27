@@ -1,0 +1,20 @@
+FIRM         : HRL (CIK 0000048465) | FY2024
+FILE         : 0000048465_HRL_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-10-27
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : software and equipment
+DURÉE        : 3.0-14.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant, and Equipment: Property, Plant, and Equipment are stated at cost and the Company recognizes depreciation using the straight-line method over the estimated useful life of the assets. Costs associated with software developed or obtained for internal use, including third-party development fees incurred during the application development stage, are capitalized and amortized on a straight-line basis. Depreciation has been computed principally using asset lives of 20 to 40 years for buildings and 3 to 14 years for software and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

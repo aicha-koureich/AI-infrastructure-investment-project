@@ -1,0 +1,20 @@
+FIRM         : DAN (CIK 0000026780) | FY2018
+FILE         : 0000026780_DAN_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+its new lease accounting standard. The primary focus of the standard is on the accounting by lessees. This standard requires lessees to recognize a right-of-use asset and a lease liability for virtually all leases (other than leases that meet the definition of a short-term lease) on the balance sheet. The recognition, measurement and presentation of expenses and cash flows arising from a lease by a lessee have not significantly changed from current GAAP. Operating leases will result in straight-line expense while finance leases will result in a front-loaded expense pattern in the income statement. Quantitative and qualitative disclosures are required to provide insight into the extent of revenue and expense recognized and expected to be recognized from leasing arrangements. Approximately three-fourths of our global lease portfolio represents leases of real estate, including manufacturing, assembly and office facilities, while the remainder represents leases of personal property, including manufacturing, material handling and IT equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15, Intangibles – Goodwill and Other – Internal-Use Software, Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| . This guidance allows for capitalization of implementation costs associated with certain cloud computing arrangements. This guidance becomes effective January 1, 2020 and early adoption is permitted. The guidance is to be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. We do not expect the adoption of this guidance to impact our consolidated financial statements. ||| In August 2018, the FASB issued ASU 2018-15, Intangibles – Goodwill and Other – Internal-Use Software, Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . This guidance allows for capitalization of implementation costs associated with certain cloud computing arrangements. This guidance becomes effective January 1, 2020 and early adoption is permitted. The guidance is to be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. We do not expect the adoption of this guidance to impact our consolidated financial statements.

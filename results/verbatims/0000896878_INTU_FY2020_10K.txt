@@ -1,0 +1,20 @@
+FIRM         : INTU (CIK 0000896878) | FY2020
+FILE         : 0000896878_INTU_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : July 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 1
+ASSET CAT.   : Equipment, Computer software, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Life in July 31, (Dollars in millions) Years 2020 2019 Equipment 3-5 $ 226 $ 421 Computer software 2-6 870 860 Furniture and fixtures 5 93 90 Leasehold improvements 2-16 298 278 Land NA 79 79 Buildings 5-30 372 368 Capital in progress NA 90 65 2,028 2,161 Less accumulated depreciation and amortization (1,294 ) (1,381 ) Total property and equipment, net $ 734 $ 780
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Internal-Use Software - In August 2018 the FASB issued Accounting Standards Update (ASU) 2018-15, “ Intangibles—Goodwill and Other (Topic 350): Internal-Use Software.” This standard aligns the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The standard is effective for fiscal years beginning after December 15, 2019, including interim periods within those fiscal years, which means that it will be effective for us in the first quarter of our fiscal year beginning August 1, 2020. Early adoption is permitted. We do not expect the adoption of ASU 2018-15 to have a material impact on our consolidated financial statements. ||| This standard aligns the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The standard is effective for fiscal years beginning after December 15, 2019, including interim periods within those fiscal years, which means that it will be effective for us in the first quarter of our fiscal year beginning August 1, 2020. Early adoption is permitted. We do not expect the adoption of ASU 2018-15 to have a material impact on our consolidated financial statements.

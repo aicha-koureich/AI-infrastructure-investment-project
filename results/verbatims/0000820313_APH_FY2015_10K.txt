@@ -1,0 +1,20 @@
+FIRM         : APH (CIK 0000820313) | FY2015
+FILE         : 0000820313_APH_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1
+ASSET CAT.   : machinery and equipment
+DURÉE        : 20.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are carried at cost less accumulated depreciation. Depreciation is recorded on a straight-line basis over the respective asset lives determined on a composite basis by asset group or on a specific item basis using the estimated useful lives of such assets, which range from 3 to 12 years for machinery and equipment and 20 to 40 years for buildings. The Company assesses the impairment of property and equipment subject to depreciation, whenever events or changes in circumstances indicate the carrying value may not be recoverable.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

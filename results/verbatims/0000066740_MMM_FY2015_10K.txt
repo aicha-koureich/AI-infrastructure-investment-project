@@ -1,0 +1,21 @@
+FIRM         : MMM (CIK 0000066740) | FY2015
+FILE         : 0000066740_MMM_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. Significant Accounting Policies
+ASSET CAT.   : equipment, machinery and equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-15.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation of property, plant and equipment generally is computed using the straight-line method based on the estimated useful lives of the assets. The estimated useful lives of machinery and equipment primarily range from three to fifteen years, with the majority in the range of five to ten years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05, Customer’s Accounting for Fees Paid in a Cloud Arrangement , which requires a customer to determine whether a cloud computing arrangement contains a software license. If the arrangement contains a software license, the customer would account for fees related to the software license element in a manner consistent with accounting for the acquisition of other acquired software licenses. If the arrangement does not contain a software license, the customer would account for the arrangement as a service contract. An arrangement would contain a software license element if both (1) the customer has the contractual right to take possession of the software at any time during the hosting period without significant penalty and (2) it is feasible for the customer to either run the software on its own hardware or contract with another party unrelated to the vendor to host the software. For 3M, this ASU is effective January 1, 2016, with early adoption permitted. The standard provides for adoption either fully retrospectively or prospectively to arrangements entered into, or materially modified, after the effective date. The Company does not expect this ASU to have a material impact on 3M’s consolidated results of operations and financial condition. ||| , which requires a customer to determine whether a cloud computing arrangement contains a software license. If the arrangement contains a software license, the customer would account for fees related to the software license element in a manner consistent with accounting for the acquisition of other acquired software licenses. If the arrangement does not contain a software license, the customer would account for the arrangement as a service contract. An arrangement would contain a software license element if both (1) the customer has the contractual right to take possession of the software at any time during the hosting period without significant penalty and (2) it is feasible for the customer to either run the software on its own hardware or contract with another party unrelated to the vendor to host the software. For 3M, this ASU is effective January 1, 2016, with early adoption permitted. The standard provides for adoption either fully retrospectively or prospectively to arrangements entered into, or materially modified, after the effective date. The Company does not expect this ASU to have a material impact on 3M’s consolidated results of operations and financial condition.

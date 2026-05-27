@@ -1,0 +1,20 @@
+FIRM         : LYV (CIK 0001335258) | FY2013
+FILE         : 0001335258_LYV_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1—THE COMPANY AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost or fair value at date of acquisition. Depreciation, which is recorded for both owned assets and assets under capital leases, is computed using the straight-line method over their estimated useful lives, which are as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

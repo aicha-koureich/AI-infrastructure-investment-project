@@ -1,0 +1,20 @@
+FIRM         : SDGR (CIK 0001490978) | FY2023
+FILE         : 0001490978_SDGR_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Software products and services. The decrease in cost of revenues for software products and services during the year ended December 31, 2023 as compared to the year ended December 31, 2022 was attributable to decreases of approximately $0.9 million in personnel-related expense and approximately $0.1 million in other expenses, offset by an increase of approximately $0.9 million in cloud computing expense. ||| The decrease in cost of revenues for software products and services during the year ended December 31, 2023 as compared to the year ended December 31, 2022 was attributable to decreases of approximately $0.9 million in personnel-related expense and approximately $0.1 million in other expenses, offset by an increase of approximately $0.9 million in cloud computing expense. ||| Drug discovery. The decrease in cost of revenues for drug discovery during the year ended December 31, 2023 as compared to the year ended December 31, 2022 was attributable to decreases of approximately $4.6 million in personnel-related expense reflecting the redeployment of our discovery organization towards proprietary drug discovery programs, approximately $0.5 million in cloud computing expense, and approximately $0.1 million in royalty expense, offset by increases of approximately $1.1 million in third-party CRO costs associated with the expansion and progression of collaborative programs, and approximately $0.2 million in other expenses.

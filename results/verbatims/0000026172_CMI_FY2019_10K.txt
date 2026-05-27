@@ -1,0 +1,20 @@
+FIRM         : CMI (CIK 0000026172) | FY2019
+FILE         : 0000026172_CMI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Lease expense for operating leases is recognized on a straight-line basis over the lease term. Lease expense for finance leases are generally front-loaded as the finance lease ROU asset is depreciated on a straight-line basis, but interest expense on the liability is recognized utilizing the interest method that results in more expense during the early years of the lease. We have lease agreements with lease and non-lease components, primarily related to real estate, vehicle and information technology (IT) assets. For vehicle and real estate leases, we account for the lease and non-lease components as a single lease component. For IT leases, we allocate the payment between the lease and non-lease components based on the relative value of each component. See Note 9 , " LEASES ," for additional information.
+
+[VERBATIM — Infrastructure IA]
+North American sales increase d $192 million , representing 79 percent of the total change in Distribution segment sales, largely due to increased demand across the power generation product line mostly for improved data center orders, partially offset by decreased engine sales in oil and gas markets.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued a new standard that aligns the accounting for implementation costs incurred in a cloud computing arrangement accounted for as a service contract with the model currently used for internal use software costs. Under the new standard, costs that meet certain criteria will be required to be capitalized on the balance sheet and subsequently amortized over the term of the hosting arrangement. The standard is effective for us beginning on January 1, 2020. We will adopt this standard on a prospective basis as allowed by the standard and as a result the adoption will not have an impact on our Consolidated Financial Statements.

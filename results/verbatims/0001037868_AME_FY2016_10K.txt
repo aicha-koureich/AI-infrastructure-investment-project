@@ -1,0 +1,29 @@
+FIRM         : AME (CIK 0001037868) | FY2016
+FILE         : 0001037868_AME_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+In April 2015, the FASB issued ASU No. 2015-05 , Customer’s
+Accounting for Fees Paid in a Cloud Computing Arrangement (“ASU 2015-05”). ASU 2015-05 is intended to help entities evaluate the accounting for
+fees paid by a customer in a cloud computing arrangement. The guidance clarifies that customers should determine whether a cloud computing arrangement includes the license of software by applying the same guidance cloud service providers use to make
+this determination. The Company prospectively adopted ASU 2015-05 effective January 1, 2016 and the adoption did not have a significant impact on the Company’s consolidated results of
+operations, financial position or cash flows.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05 , Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement (“ASU 2015-05”). ASU 2015-05 is intended to help entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement. The guidance clarifies that customers should determine whether a cloud
+computing arrangement includes the license of software by applying the same guidance cloud service providers use to make this determination. The Company prospectively adopted ASU 2015-05 effective
+January 1, 2016 and the adoption did not have a significant impact on the Company’s consolidated results of operations, financial position or cash flows.

@@ -1,0 +1,22 @@
+FIRM         : LRN (CIK 0001157408) | FY2014
+FILE         : 0001157408_LRN_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2014
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Summary of Significant Accounting Policies (Continued)
+ASSET CAT.   : software, which is generally
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+The Company amortizes these costs over the estimated useful life of
+the software, which is generally three years. Capitalized software development costs are stated at cost less accumulated amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

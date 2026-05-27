@@ -1,0 +1,28 @@
+FIRM         : GOGO (CIK 0001537054) | FY2013
+FILE         : 0001537054_GOGO_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, furniture, and fixtures associated with the move before and after the reassessment was
+DURÉE        : 9.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0 ans | 9.0 ans
+
+[VERBATIM — Durée de vie]
+As a result we shortened the estimated useful lives of the leasehold improvements, office equipment, furniture, and fixtures related to our existing corporate office. The weighted average useful life of the
+leasehold improvements, office equipment, furniture, and fixtures associated with the move before and after the reassessment was nine years and five years, respectively.
+
+[VERBATIM — Changement de politique]
+Under agreements with certain of our airline partners to upgrade certain fleets to our new ATG-4 airborne equipment from our existing ATG
+airborne equipment, on a quarterly basis we reassess the useful lives of the ATG component parts requiring replacement.
+
+[VERBATIM — Infrastructure IA]
+Network operations costs are the costs of operating and maintaining our ATG network, including backhaul, site leases, cell site operations,
+data centers, network operations center, network technical support, aircraft operations, component assembly and portal maintenance. A significant portion of our network operations costs are relatively fixed in nature and do not fluctuate directly
+with revenue. Additionally, commencing August 14, 2012, the CA-NA segment includes expenses related to our licensing of Canadian ATG spectrum.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

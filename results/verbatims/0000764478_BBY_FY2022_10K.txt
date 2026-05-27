@@ -1,0 +1,21 @@
+FIRM         : BBY (CIK 0000764478) | FY2022
+FILE         : 0000764478_BBY_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : software for internal use are capitalized and amortized over the expected useful life of the software, generally from
+DURÉE        : 2.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Costs associated with the acquisition or development of software for internal use are capitalized and amortized over the expected useful life of the software, generally from two year s to five year s.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Costs associated with implementing cloud computing arrangements that are service contracts are capitalized using methodology similar to internal-use software, but are included in Other Assets on our Consolidated Balance Sheets.

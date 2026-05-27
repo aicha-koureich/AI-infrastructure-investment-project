@@ -1,0 +1,20 @@
+FIRM         : RHI (CIK 0000315213) | FY2022
+FILE         : 0000315213_RHI_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-09
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : technology, computer software, equipment, Capitalized software
+DURÉE        : 2.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are amortized using the straight-line method over the estimated useful life of the software, ranging from two to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Capital expenditures, including $40 million related to cloud computing implementations, in 2022, totaled $101 million, approximately 80.0% of which represented investments in software initiatives and technology infrastructure, both of which are important to the Company’s sustainability and future growth opportunities. Capital expenditures for cloud computing arrangements are included in cash flows from operating activities on the Company’s Consolidated Statements of Cash Flows. Capital expenditures included amounts spent on tenant improvements and furniture and equipment in the Company’s leased offices. The Company currently expects 2023 capitalized expenditures will range from $100 million to $120 million, of which $65 million to $75 million relates to software initiatives and technology infrastructure, including capitalized costs relating to the implementation of cloud computing arrangements.

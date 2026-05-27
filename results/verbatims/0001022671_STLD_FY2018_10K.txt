@@ -1,0 +1,20 @@
+FIRM         : STLD (CIK 0001022671) | FY2018
+FILE         : 0001022671_STLD_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 15. Quarterly Financial Information (unaudited, in thousands, except per share data)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+﻿ ﻿ ﻿ Years Ended December 31, ﻿ 2018 2017 2016 ﻿ Operating activities: Net income $ 1,255,805 $ 805,796 $ 360,006 ﻿ Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 317,198 298,999 296,109 Asset impairment charge - - 132,839 Equity-based compensation 43,317 36,197 31,656 Deferred income taxes 61,827 (135,899) 53,846 Other adjustments (1,245) 14,068 20,676 Changes in certain assets and liabilities: Accounts receivable (145,873) (139,054) (106,617) Inventories (246,213) (242,883) (115,575) Other assets (3,475) 4,002 12,044 Accounts payable 37,904 96,062 106,521 Income taxes receivable/payable 26,471 (33,889) (13,921) Accrued expenses 69,753 36,021 75,176 Net cash provided by operating activities 1,415,469 739,420 852,760 ﻿ Investing activities: Purchases of property, plant and equipment (239,390) (164,935) (198,160) Purchases of short-term investments (268,783) - - Proceeds from maturities of short term investments 40,000 - - Acquisition of business, net of cash acquired (433,998) (6,192) (123,351) Other investing activities 6,907 32,022 8,618 Net cash used in investing activities (895,264) (139,105) (312,893) ﻿ Financing activities: Issuance of current and long-term debt 445,607 620,041 473,903 Repayment of current and long-term debt (455,491) (609,914) (728,993) Dividends paid (168,913) (145,565) (135,767) Purchases of treasury stock (523,569) (252,242) (25,034) Other financing activities (18,501) (25,655) (9,534) Net cash used in financing activities (720,867) (413,335) (425,425) ﻿ Increase (decrease) in cash and equivalents, and restricted cash (200,662) 186,980 114,442 Cash and equivalents, and restricted cash at beginning of period 1,035,085 848,105 733,663 ﻿ Cash and equivalents, and restricted cash at end of period $ 834,423 $ 1,035,085 $ 848,105 ﻿ Supplemental disclosure information: Cash paid for interest $ 124,034 $ 135,381 $ 150,679 Cash paid for income taxes, net $ 288,429 $ 296,493 $ 159,950
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

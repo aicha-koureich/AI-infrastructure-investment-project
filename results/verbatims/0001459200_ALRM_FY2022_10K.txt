@@ -1,0 +1,21 @@
+FIRM         : ALRM (CIK 0001459200) | FY2022
+FILE         : 0001459200_ALRM_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-03-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 6. Property and Equipment, Net
+ASSET CAT.   : Furniture, office equipment, computer software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Furniture, fixtures and office equipment, computer software and hardware, leasehold improvements and real property and improvements are recorded at cost and presented net of depreciation. Furniture, fixtures and office equipment and computer software and hardware are depreciated on a straight-line basis over lives ranging from three to five years. Internal-use software is amortized on a straight-line basis over a three-year period.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

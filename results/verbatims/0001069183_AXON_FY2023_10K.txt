@@ -1,0 +1,21 @@
+FIRM         : AXON (CIK 0001069183) | FY2023
+FILE         : 0001069183_AXON_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 21 – Subsequent Event
+ASSET CAT.   : Equipment, Furniture, office equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Table of Contents Note 6 - Property and Equipment Property and equipment consisted of the following at December 31, 2023 and December 31, 2022 (in thousands): ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Estimated ​ ​ ​ ​ ​ ​ ​ Useful Life December 31, 2023 December 31, 2022 Land ​ N/A ​ $ 51,612 ​ $ 51,612 Building and leasehold improvements ​ 3- 39 years ​ ​ 32,092 ​ ​ 25,874 Production equipment ​ 3- 5 years ​ 105,245 ​ 57,170 Computers, equipment and software ​ 3- 5 years ​ 30,778 ​ 25,154 Furniture and office equipment ​ 3- 5 years ​ 8,383 ​ 7,420 Vehicles ​ 5 years ​ 7,451 ​ 4,027 Capitalized internal software development costs ​ 3 - 5 years ​ 14,799 ​ 14,198 Construction-in-process ​ N/A ​ 55,397 ​ 62,283 Total cost ​ ​ ​ 305,757 ​ 247,738 Less: Accumulated depreciation ​ ​ ​ (105,224) ​ (77,895) Property and equipment, net ​ ​ $ 200,533 ​ $ 169,843 ​ Construction-in-process included $31.0 million and $28.3 million related to the development of our new campus at December 31, 2023 and December 31, 2022, respectively. Depreciation and amortization expense related to property and equipment was $28.1 million, $20.4 million and $15.8 million for the years ended December 31, 2023, 2022 and 2021, respectively, of which $13.6 million, $8.5 million and $6.3 million was included in cost of sales for the respective years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Axon Evidence and Cloud Services ||| Net sales for the TASER segment for the year ended December 31, 2023 increased $81.0 million, or 15.2%, primarily due to an increase of $51.2 million in TASER devices (professional) and an $11.6 million increase in cartridge revenue. The increase in TASER devices (professional) revenue was the result of increased unit sales and premium product mix. We continue to see strong adoption of our next generation product, TASER 10, which began shipping in the first quarter of 2023. The increase in cartridge revenue was primarily attributable to growing sales of next generation TASER products. Net sales for Axon Evidence and cloud services increased $16.0 million due to an increase in the number of cloud-connected TASER devices in the field, as well as an increase in VR revenue . ||| Net sales for the Software and Sensors segment for the year ended December 31, 2023 increased $292.4 million, or 44.4%, as we continue to add users and associated devices to our network. The increase in the aggregate number of users and average revenue per user, driven primarily by software add-ons, drove the majority of the increase in Axon Evidence and cloud services revenue of $194.3 million in addition to increased professional services revenue associated with new product installations, including Axon Fleet cameras. The $55.1 million increase in Axon Fleet systems revenue was primarily driven by higher unit sales. Net sales of Axon Body cameras and accessories increased $25.7 million on higher volume driven by demand for our next generation product, Axon Body 4, which began shipping at the end of the second quarter of 2023. An increase in cameras and docks in the field drove the $12.8 million increase in extended warranties, as most of those devices are sold with extended warranties.

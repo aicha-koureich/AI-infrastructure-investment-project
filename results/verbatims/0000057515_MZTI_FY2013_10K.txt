@@ -1,0 +1,21 @@
+FIRM         : MZTI (CIK 0000057515) | FY2013
+FILE         : 0000057515_MZTI_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, machinery and equipment
+DURÉE        : 2.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost less accumulated depreciation. Estimated useful lives for buildings and improvements range generally from two to 45 years while machinery and equipment range generally from two to 20
+years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

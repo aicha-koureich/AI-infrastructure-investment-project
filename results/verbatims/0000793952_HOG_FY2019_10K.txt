@@ -1,0 +1,24 @@
+FIRM         : HOG (CIK 0000793952) | FY2019
+FILE         : 0000793952_HOG_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : software. Accelerated methods of depreciation are used for income tax purposes
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment, net – Property, plant and equipment is recorded at cost, net of accumulated depreciation and amortization. The estimated useful lives of each class of property, plant and equipment generally consist of 30 years for buildings, 7 years for building and land improvements, 3 to 10 years for machinery and equipment, and 3 to 7 years for software.
+
+[VERBATIM — Changement de politique]
+Long-lived Assets – The Company periodically evaluates the carrying value of long-lived assets to be held and used when events and circumstances warrant such review. If the carrying value of a long-lived asset is considered impaired, a loss is recognized based on the amount by which the carrying value exceeds the fair value of the long-lived asset for assets to be held and used. The Company also reviews the useful life of its long-lived assets when events and circumstances indicate that the actual useful life may be shorter than originally estimated. In the event that the actual useful life is deemed to be shorter than the original useful life, depreciation is adjusted prospectively so that the remaining book value is depreciated over the revised useful life. Refer to Note 3 for additional details surrounding the Company's restructuring activities impacting long-lived assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) (ASU 2018-15). The new guidance requires a customer in a cloud computing arrangement that is a service contract to follow the existing internal-use software guidance to determine which implementation costs to capitalize as assets or expense as incurred. The guidance is effective for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years. The Company does not expect the adoption of ASU 2018-15 to have a material impact on its financial statements.

@@ -1,0 +1,20 @@
+FIRM         : WTW (CIK 0001140536) | FY2020
+FILE         : 0001140536_WTW_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 20 — Supplemental Disclosures of Cash Flow Information
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Furniture, equipment and software Leasehold improvements Land and buildings Total Cost: at January 1, 2019 $ 1,130 $ 488 $ 92 $ 1,710 Additions 268 68 — 336 Acquisitions 7 3 — 10 Disposals (117 ) (15 ) — (132 ) Reclassification due to ASC 842 (i) — — (3 ) (3 ) Foreign exchange 14 6 1 21 Cost: at December 31, 2019 1,302 550 90 1,942 Additions 238 31 — 269 Acquisitions 1 — — 1 Disposals (64 ) (12 ) (1 ) (77 ) Abandonment of long-lived asset (ii) (35 ) — — (35 ) Foreign exchange 31 9 1 41 Cost: at December 31, 2020 $ 1,473 $ 578 $ 90 $ 2,141 Depreciation: at January 1, 2019 $ (519 ) $ (197 ) $ (52 ) $ (768 ) Depreciation expense (179 ) (57 ) (4 ) (240 ) Disposals 109 11 — 120 Foreign exchange (5 ) (2 ) (1 ) (8 ) Depreciation: at December 31, 2019 (594 ) (245 ) (57 ) (896 ) Depreciation expense (ii) (214 ) (55 ) (4 ) (273 ) Disposals 56 10 — 66 Foreign exchange (17 ) (6 ) (1 ) (24 ) Depreciation: at December 31, 2020 $ (769 ) $ (296 ) $ (62 ) $ (1,127 ) Net book value: At December 31, 2019 $ 708 $ 305 $ 33 $ 1,046 At December 31, 2020 $ 704 $ 282 $ 28 $ 1,014
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

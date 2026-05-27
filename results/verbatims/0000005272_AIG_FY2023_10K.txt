@@ -1,0 +1,20 @@
+FIRM         : AIG (CIK 0000005272) | FY2023
+FILE         : 0000005272_AIG_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : buildings
+DURÉE        : 10.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The cost of buildings and furniture and equipment is depreciated principally on the straight-line basis over their estimated useful lives (maximum of 40 years for buildings and 10 years for furniture and fixtures). Capitalized software costs, which represent costs directly related to obtaining, developing or upgrading internal use software, are capitalized and amortized using the straight-line method over a period generally not exceeding ten years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

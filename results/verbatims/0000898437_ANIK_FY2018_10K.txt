@@ -1,0 +1,32 @@
+FIRM         : ANIK (CIK 0000898437) | FY2018
+FILE         : 0000898437_ANIK_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies Use of Estimates The preparation of financial statements
+in conformity with generally accepted accountin
+ASSET CAT.   : Computer equipment, Furniture and fixtures, Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Asset Estimated useful life (in years) Computer equipment and software 3-10 Furniture and fixtures 5-7 Equipment 5-20 Leasehold improvements Shorter of useful life or term of lease
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No.
+2018-15, Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40), which amends ASU No.
+2015-05, Customers Accounting for Fees in a Cloud Computing Agreement, to help entities evaluate the accounting for fees
+paid by a customer in a cloud computing arrangement (hosting arrangement) by providing guidance for determining when the arrangement
+includes a software license. The most significant change will align the requirements for capitalizing implementation costs incurred
+in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop
+or obtain internal-use software and hosting arrangements that include an internal-use software license. Accordingly, the amendments
+in ASU 2018-15 require an entity in a hosting arrangement that is a service contract to follow the guidance in Subtopic 350-40
+to determine which implementation costs to capitalize as an asset related to the service contract and which costs to expense. ASU
+2018-15 is effective for fiscal years and interim periods beginning after December 15, 2019. Early adoption is permitted, including
+adoption in any interim period for all entities. The Company is assessing ASU 2018-15 and the impact that adopting this new accounting
+standard will have on its consolidated financial statements and footnote disclosures.

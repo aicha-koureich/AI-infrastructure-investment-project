@@ -1,0 +1,20 @@
+FIRM         : WEX (CIK 0001309108) | FY2024
+FILE         : 0001309108_WEX_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, equipment and capitalized software are stated at cost, net of accumulated depreciation and amortization. Depreciation and amortization for all other property, equipment and capitalized software is primarily computed using the straight-line method over the estimated useful lives shown below as of December 31, 2024.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Gross cloud computing costs (inclusive of in-process amounts) ||| Net cloud computing costs ||| Cloud Computing Arrangements

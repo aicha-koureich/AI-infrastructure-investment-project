@@ -1,0 +1,20 @@
+FIRM         : ENPH (CIK 0001463101) | FY2021
+FILE         : 0001463101_ENPH_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3 .
+ASSET CAT.   : equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company includes the following in cost of revenues: product costs, warranty, manufacturing personnel and logistics costs, freight costs, inventory write-downs, hosting services costs related to the Company’s Enlighten service offering and design and proposal services, depreciation and amortization of manufacturing test equipment and amortization of capitalized software development costs related to the Company’s Enlighten service offering, design and proposal services, and employee-related expenses associated with proposal and permitting services and design and proposal service customer support.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The Company capitalizes implementation costs related to cloud computing (i.e. hosting) arrangements that are accounted for as a service contract that meets the accounting requirement for capitalization as such implementation costs were incurred to develop or utilize internal-use software hosted by a third party vendor. The capitalized implementation costs are recorded as part of “Other assets” on the consolidated balance sheet and is amortized over the length of the service contract. ||| Property, plant and equipment, including internal-use software, and capitalized implementation costs related to cloud computing arrangements, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset (asset group) may not be recoverable. An impairment loss would be recognized when the carrying amount of an asset exceeds the estimated undiscounted future cash flows expected to result from the use of the asset and its eventual disposition. The amount of the impairment loss to be recorded is calculated by the excess of the asset’s carrying value over its fair value. Fair value is generally determined using a discounted cash flow analysis. The Company recorded asset impairment charges for specific assets that were no longer in use of approximately zero, zero and $1.1 million for the years ended 2021, 2020 and 2019, respectively. There were no events or changes in circumstances that may indicate the carrying amount of remaining assets is not recoverable.

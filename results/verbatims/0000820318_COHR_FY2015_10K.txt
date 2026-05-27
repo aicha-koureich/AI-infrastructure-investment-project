@@ -1,0 +1,20 @@
+FIRM         : COHR (CIK 0000820318) | FY2015
+FILE         : 0000820318_COHR_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Operating (loss) income for the year ended June 30, 2014 for II-VI Photonics decreased 101% to an operating loss of $(0.1) million, compared to operating income of $15.0 million for fiscal year June 30, 2013. The decrease in operating income was the result of the acquisition of II-VI Network Solutions in fiscal year 2014. The segment recorded $1.6 million of purchase accounting adjustments relating to the fair value of inventory as well as lower gross margin at II-VI Network Solutions caused by higher material cost and production inefficiencies, all of which negatively impacted operating income in fiscal year 2014. In addition, the legacy businesses experienced a downward shift in gross margin as the technology shifted to higher speed networks in the optical communications industry resulting i n price erosion on shipments of the segment’s legacy products. In addition, operating expenses increased when compared to the prior fiscal year, primarily due to increased compensation costs in China as well as higher levels of investment regarding internal research and development of next generation products aimed at serving higher speed networks and data centers.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

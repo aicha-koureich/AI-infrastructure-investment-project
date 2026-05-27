@@ -1,0 +1,20 @@
+FIRM         : KBR (CIK 0001357615) | FY2019
+FILE         : 0001357615_KBR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 . Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are reported at cost less accumulated depreciation except for those assets that have been written down to their fair values due to impairment. The cost of property, plant and equipment sold or otherwise disposed of and the related accumulated depreciation are removed from the accounts and any resulting gain or loss is included in operating income for the respective period.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. This ASU requires customers in a hosting arrangement that is a service contract to capitalize certain implementation costs as if the arrangement was an internal-use software project. ASU No. 2018-15 is effective for interim and annual reporting periods beginning after December 15, 2019, with early adoption permitted. We do not expect the adoption of ASU No. 2018-15 to have a material impact on our financial position, results of operations or cash flows.

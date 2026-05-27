@@ -1,0 +1,20 @@
+FIRM         : IBP (CIK 0001580905) | FY2021
+FILE         : 0001580905_IBP_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 6 – PROPERTY AND EQUIPMENT
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We recorded the following depreciation and amortization expense on our property and equipment, by income statement category (in thousands):
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intermountain West Insulation (“IWI”) in March 2021, Alert Insulation ("Alert") and Alpine Construction Services ("Alpine") in April 2021, General Ceiling & Partitions, Inc. ("GCP") in June 2021, Five Star Building Products, LLC and Five Star Building Products of Southern Utah, LLC (collectively "Five Star") in September 2021, Denison Glass and Mirror, Inc. ("DGM") and CFI Insulation ("CFI") in November 2021, and AMD Distribution ("AMD") in December 2021 . In each table, “Other” represents acquisitions that were individually immaterial in that year. Net income (loss), as noted below, includes amortization, taxes and interest allocations when appropriate. ||| 2021 Acquisitions Date Acquisition Type Cash Paid Seller Obligations Total Purchase Price Revenue Net Income (Loss) IWI 03/01/2021 Share $ 42,098 $ 5,959 $ 48,057 $ 36,259 $ 3,373 Alert 4/13/2021 Asset 5,850 2,980 8,830 13,494 (151) Alpine 4/19/2021 Asset 7,945 2,208 10,153 8,267 189 GCP 6/7/2021 Asset 9,700 1,427 11,127 7,125 83 Five Star 9/13/2021 Share 26,308 5,466 31,774 6,861 (119) DGM 11/1/2021 Asset 11,634 2,069 13,703 2,198 (462) CFI 11/22/2021 Share 13,450 1,145 14,595 1,289 53 AMD 12/13/2021 Asset 119,490 6,631 126,121 3,707 (225) Other Various Asset 6,540 1,284 7,824 3,231 (102) Total $ 243,015 $ 29,169 $ 272,184 $ 82,431 $ 2,639 ||| 2021 IWI Alert Alpine GCP Five Star DGM CFI AMD Other Total Estimated fair values: Cash $ 168 $ — $ — $ — $ 1,472 $ — $ 67 $ — $ — $ 1,707 Accounts receivable 5,122 4,710 — 3,067 4,597 4,007 1,318 8,393 446 31,660 Inventories 1,157 765 359 — 1,399 6 311 7,540 345 11,882 Other current assets 3,014 738 — — 330 1,016 26 — 74 5,198 Property and equipment 796 693 726 206 1,161 853 714 1,133 932 7,214 Intangibles 25,200 2,770 5,543 5,670 17,400 8,800 7,699 52,800 4,072 129,954 Goodwill 23,282 940 3,582 2,695 6,482 3,447 6,799 56,327 2,063 105,617 Other non-current assets 264 132 — — — 213 — — 18 627 Accounts payable and other current liabilities (8,416) (1,184) (57) (493) (1,040) (4,625) (242) (23) (123) (16,203) Deferred income tax liabilities — — — — — — (2,089) — — (2,089) Other long-term liabilities (2,530) (734) — (18) (27) (14) (8) (49) (3) (3,383) Fair value of assets acquired and purchase price 48,057 8,830 10,153 11,127 31,774 13,703 14,595 126,121 7,824 272,184 Less seller obligations 5,959 2,980 2,208 1,427 5,466 2,069 1,145 6,631 1,284 29,169 Cash paid $ 42,098 $ 5,850 $ 7,945 $ 9,700 $ 26,308 $ 11,634 $ 13,450 $ 119,490 $ 6,540 $ 243,015

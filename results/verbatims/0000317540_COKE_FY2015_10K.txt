@@ -1,0 +1,23 @@
+FIRM         : COKE (CIK 0000317540) | FY2015
+FILE         : 0000317540_COKE_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 3, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 25. Subsequent Events
+ASSET CAT.   : Machinery and equipment, equipment, Furniture and fixtures
+DURÉE        : 5.0-20.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Jan. 3 Dec. 28, Estimated In Thousands 2016 2014 Useful Lives Land $ 24,731 $ 14,762 Buildings 134,496 120,533 8-50 years Machinery and equipment 165,733 154,897 5-20 years Transportation equipment 251,712 190,216 4-20 years Furniture and fixtures 59,500 45,623 3-10 years Cold drink dispensing equipment 398,867 345,391 5-17 years Leasehold and land improvements 94,208 75,104 5-20 years Software for internal use 97,760 91,156 3-10 years Construction in progress 24,632 6,528 Total property, plant and equipment, at cost 1,251,639 1,044,210 Less: Accumulated depreciation and amortization 725,819 685,978 Property, plant and equipment, net $ 525,820 $ 358,232
+
+[VERBATIM — Changement de politique]
+In 2013, the Company changed the useful lives of certain cold drink dispensing equipment to reflect the estimated remaining useful lives.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued new guidance on whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, the arrangement should be accounted for consistent with the acquisition of other software licenses, otherwise, the arrangement should be accounted for consistent with other service contracts. The new guidance is effective for annual and interim periods beginning after December 15, 2015. The Company is in the process of evaluating the impact of the new guidance on the Company’s consolidated financial statements.

@@ -1,0 +1,20 @@
+FIRM         : OGE (CIK 0001021635) | FY2021
+FILE         : 0001021635_OGE_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 16. Rate Matters and Regulation
+ASSET CAT.   : EQUIPMENT
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31 (In millions) 2021 2020 ASSETS CURRENT ASSETS Cash and cash equivalents $ — $ 1.1 Accounts receivable, less reserve of $2.4 and $2.6, respectively 162.3 157.8 Accrued unbilled revenues 65.0 67.6 Income taxes receivable 2.6 8.1 Fuel inventories 40.6 36.5 Materials and supplies, at average cost 117.9 116.2 Fuel clause under recoveries 151.9 — Other 73.3 41.2 Total current assets 613.6 428.5 OTHER PROPERTY AND INVESTMENTS Investment in unconsolidated affiliates — 374.3 Equity securities investment in Energy Transfer 785.1 — Other 120.0 109.8 Total other property and investments 905.1 484.1 PROPERTY, PLANT AND EQUIPMENT In service 13,899.8 13,296.7 Construction work in progress 252.0 145.5 Total property, plant and equipment 14,151.8 13,442.2 Less: accumulated depreciation 4,318.9 4,067.6 Net property, plant and equipment 9,832.9 9,374.6 DEFERRED CHARGES AND OTHER ASSETS Regulatory assets 1,230.8 415.6 Other 24.0 16.0 Total deferred charges and other assets 1,254.8 431.6 TOTAL ASSETS $ 12,606.4 $ 10,718.8
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

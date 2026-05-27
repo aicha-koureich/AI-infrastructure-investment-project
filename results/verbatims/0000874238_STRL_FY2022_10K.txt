@@ -1,0 +1,20 @@
+FIRM         : STRL (CIK 0000874238) | FY2022
+FILE         : 0000874238_STRL_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Basis of Presentation
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Contract costs include all direct material, labor, subcontract and other costs and those indirect costs determined to relate to contract performance, such as indirect salaries and wages, equipment repairs and depreciation, insurance and payroll taxes.
+
+[VERBATIM — Infrastructure IA]
+Kimes Acquisition— On December 28, 2021, Sterling completed the acquisition of Kimes & Stone (“Kimes”) for an all-cash purchase price of approximately $7,600. Kimes provides a diversified services offering of soil stabilization for site development on e-commerce projects such as large fulfillment and distribution centers and data centers, as well as soil stabilization for roadways and manufacturing plant construction. The transaction includes a fleet of soil stabilization equipment and working capital. The results of Kimes’ are included within Plateau which is included within our E-Infrastructure Solutions segment.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

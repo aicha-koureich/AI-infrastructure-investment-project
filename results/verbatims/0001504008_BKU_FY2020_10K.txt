@@ -1,0 +1,20 @@
+FIRM         : BKU (CIK 0001504008) | FY2020
+FILE         : 0001504008_BKU_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 17 Quarterly Financial Information (Unaudited)
+ASSET CAT.   : Furniture, equipment, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B200;Hopper (3 modèle(s))
+
+[VERBATIM — Durée de vie]
+2020 2019 Buildings and improvements $ 430 $ — Leasehold improvements 69,863 72,627 Furniture, fixtures and equipment 35,903 36,492 Computer equipment 21,358 22,729 Software, software licensing rights and capitalized costs of CCA 74,087 59,568 Aircraft and automobiles 11,620 11,593 213,261 203,009 Less: accumulated depreciation (153,138) (144,905) Premises, equipment and software, net $ 60,123 $ 58,104 Buildings held for sale, net $ 1,427 $ 6,789
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

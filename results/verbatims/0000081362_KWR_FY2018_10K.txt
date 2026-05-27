@@ -1,0 +1,25 @@
+FIRM         : KWR (CIK 0000081362) | FY2018
+FILE         : 0000081362_KWR_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Depreciation is computed using the straight-line method on an
+individual asset basis over the following estimated useful lives: buildings and
+improvements, 10 to 45 years; and machinery and equipment, 1 to 15 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : HTZ (CIK 0001657853) | FY2022
+FILE         : 0001657853_HTZ_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 20—Segment Information
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+(13) Represents miscellaneous items. For 2022, primarily includes certain bankruptcy claims, certain professional fees and charges related to the settlement of bankruptcy claims and certain non-cash stock-based compensation charges. For 2021, primarily includes $100 million associated with the suspension of depreciation during the first quarter for the Donlen business while classified as held for sale, partially offset by $17 million for certain professional fees, $14 million of charges related to the settlement of bankruptcy claims, charges for a multiemployer pension plan withdrawal liability and letter of credit fees. For 2020, primarily includes $16 million associated with the Donlen Sale, partially offset by charges of $18 million for losses associated with certain vehicle damages which were recorded in the second quarter, costs associated with the Company's information technology and finance transformation programs, partially offset by a $20 million gain on the sale of non-vehicle capital assets, which was recorded in the first quarter.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We incurred charges of $213 million for impairment of intangible and other assets in 2020 due primarily to $124 million impairment of technology-related intangible assets and $69 million impairment of capitalized cloud computing implementation costs in our corporate operations due to uncertainty surrounding our financial ability to complete certain information technology projects as a result of COVID-19 and the filing of the Chapter 11 Cases. Additionally, we incurred a charge of $20 million for impairment of the Hertz tradename in our historical International RAC segment as a result of our annual testing of the recoverability of our indefinite-lived intangible assets. ||| (4) Represents the impairment of technology-related intangible assets and capitalized cloud computing cost. In 2020, also represented impairment of other assets and the Hertz tradename. See Note 5, "Goodwill and Intangible Assets, Net," in Part II, Item 8 of this 2022 Annual Report. ||| Represents the impairment of technology-related intangible assets and capitalized cloud computing cost.

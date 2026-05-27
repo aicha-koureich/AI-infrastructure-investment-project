@@ -1,0 +1,20 @@
+FIRM         : INTU (CIK 0000896878) | FY2017
+FILE         : 0000896878_INTU_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2017-07-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 14. Selected Quarterly Financial Data (Unaudited)
+ASSET CAT.   : Equipment, Computer software, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Life in July 31, (Dollars in millions) Years 2017 2016 Equipment 3-5 $ 579 $ 533 Computer software 3-6 749 619 Furniture and fixtures 5 82 73 Leasehold improvements 2-16 310 296 Land NA 81 60 Buildings 5-30 547 403 Capital in progress NA 71 256 2,419 2,240 Less accumulated depreciation and amortization (1,389 ) (1,209 ) Total property and equipment, net $ 1,030 $ 1,031
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

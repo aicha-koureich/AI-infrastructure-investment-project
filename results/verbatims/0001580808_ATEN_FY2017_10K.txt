@@ -1,0 +1,21 @@
+FIRM         : ATEN (CIK 0001580808) | FY2017
+FILE         : 0001580808_ATEN_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+These expenses consist of personnel costs, and to a lesser extent, prototype materials, depreciation and certain allocated facilities and information technology costs.
+
+[VERBATIM — Infrastructure IA]
+A10 Networks, Inc. (together with our subsidiaries, the “Company”, “we”, “our” or “us”) was incorporated in California in 2004 and reincorporated in Delaware in March 2014. We are headquartered in San Jose, California and have wholly-owned subsidiaries throughout the world including Asia and Europe. Our solutions enable our customers to secure and optimize the performance of their data center and cloud applications and secure their users, applications and infrastructure from internet, web and network threats at scale. Our product portfolio consists of  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

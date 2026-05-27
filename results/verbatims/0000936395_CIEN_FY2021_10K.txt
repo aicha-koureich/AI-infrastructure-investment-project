@@ -1,0 +1,21 @@
+FIRM         : CIEN (CIK 0000936395) | FY2021
+FILE         : 0000936395_CIEN_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-10-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 28: Subsequent Events
+ASSET CAT.   : equipment, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Types of expense incurred in research and development include employee compensation, prototype equipment, consulting and third-party services, depreciation, facility costs and information technology.
+
+[VERBATIM — Infrastructure IA]
+Ciena’s solutions include Networking Platforms, including Ciena’s Converged Packet Optical and Routing and Switching portfolios, which can be applied from the network core to end-user access points, and which allow network operators to scale capacity, increase transmission speeds, allocate traffic efficiently and adapt dynamically to changing end-user service demands. Ciena’s Converged Packet Optical portfolio includes products that support the connection of content to content, including in long haul and regional, submarine and data center interconnect networks, and users to content, including in metro and edge networks. Ciena’s Routing and Switching portfolio includes products and solutions that enable efficient internet protocol (“IP”) transport in next-generation metro, edge, access and aggregation networks, connecting users to content in applications that include 5G and Internet of Things (“IoT”), mobile backhaul, optical access, virtualization and enterprise services.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

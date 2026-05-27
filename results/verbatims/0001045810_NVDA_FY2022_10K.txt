@@ -1,0 +1,20 @@
+FIRM         : NVDA (CIK 0001045810) | FY2022
+FILE         : 0001045810_NVDA_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-29
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B100;DGX;H100;HGX;Hopper;NVIDIA (7 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+NVIDIA pioneered accelerated computing to help solve the most challenging computational problems. Since our original focus on PC graphics, we have expanded to several other large and important computationally intensive fields. Fueled by the sustained demand for exceptional 3D graphics and the scale of the gaming market, NVIDIA has leveraged its GPU architecture to create platforms for scientific computing, AI, data science, AV, robotics, metaverse and 3D internet applications.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+We will offer enterprise customers NVIDIA AI cloud services directly and through our network of partners. Examples of these services include NVIDIA DGX Cloud, which is cloud-based infrastructure and software for training AI models, and customizable pretrained AI models. NVIDIA has partnered with leading cloud service providers to host these services in their data centers. ||| We entered into multi-year cloud service agreements in the second half of fiscal year 2023 to these offerings and our research and development activities. NVIDIA AI cloud services may not be successful and will take time, resources and investment. We also offer or plan to offer standalone software solutions for AI including NVIDIA AI Enterprise, NVIDIA Omniverse, NVIDIA DRIVE for automotive, and several other software solutions. These new business models or strategies may not be successful and we may fail to sell any meaningful standalone software or as-a-service solutions. We may incur significant costs and may not achieve any significant revenue from these offerings. ||| Data Center revenue for fiscal year 2023 was $15.01 billion, up 41% from fiscal year 2022. The strong growth in Data Center revenue was influenced by hyperscaler and cloud usage of our accelerated computing platforms and networking portfolio. In Data Center, we announced the NVIDIA Hopper GPU architecture and began ramping the first products based on the architecture, including the NVIDIA H100 Tensor Core GPU. The NVIDIA OVX server reference design launched for digital twins and other Omniverse applications. We completed two new large language models for cloud AI services — NVIDIA NeMo LLM and NVIDIA BioNeMo LLM. Additionally, we announced the NVIDIA Spectrum-4 end-to-end 400Gbps networking platform and began shipping Quantum-2 in December 2022.

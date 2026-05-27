@@ -1,0 +1,23 @@
+FIRM         : SO (CIK 0000092122) | FY2019
+FILE         : 0000092122_SO_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : Blackwell (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Depreciation studies are conducted periodically to update the composite rates. These studies are filed with the respective state PSC and/or other applicable state and federal regulatory agencies for the traditional electric operating companies and natural gas distribution utilities. Effective January 1, 2020, Georgia Power's and Atlanta Gas Light's depreciation rates were revised by the Georgia PSC in connection with their respective base rate cases. On November 26, 2019, an updated depreciation study was filed with the Mississippi PSC in conjunction with the Mississippi Power 2019 Base Rate Case requesting a $16 million increase in total annual depreciation. See Note 2 for additional information.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

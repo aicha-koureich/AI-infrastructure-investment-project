@@ -1,0 +1,20 @@
+FIRM         : DCI (CIK 0000029644) | FY2019
+FILE         : 0000029644_DCI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : July 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 19. Quarterly Financial Information (Unaudited)
+ASSET CAT.   : Machinery and equipment, Computer software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+July 31, 2019 2018 Land $ 24.2 $ 22.8 Buildings 325.3 310.8 Machinery and equipment 813.5 769.1 Computer software 142.8 132.6 Construction in progress 114.3 64.4 Less: accumulated depreciation (831.2 ) (790.4 ) Net property, plant and equipment $ 588.9 $ 509.3
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| The Company capitalizes certain costs incurred during the application development stage of implementation of internal use software in cloud computing arrangements. Amounts capitalized are on a straight-line basis over a period of ||| Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

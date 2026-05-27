@@ -1,0 +1,23 @@
+FIRM         : NKTR (CIK 0000906709) | FY2024
+FILE         : 0000906709_NKTR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3 — Consolidated Financial Statement Details Inventory Inventory consists of the following (in thousands): December 31, 2024 2023 Raw materials $
+ASSET CAT.   : Equipment, Computer equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment Property, plant and equipment consists of the following (in thousands): December 31, 2024 2023 Building and leasehold improvements $ 3,881 $ 43,184 Laboratory equipment 552 14,537 Computer equipment and software 14,616 22,438 Manufacturing equipment — 24,315 Furniture, fixtures, and other 27 541 Depreciable property, plant and equipment at cost 19,076 105,015 Less: accumulated depreciation ( 15,910 ) ( 86,898 ) Depreciable property, plant and equipment, net 3,166 18,117 Construction-in-progress 245 739 Property, plant and equipment, net $ 3,411 $ 18,856
+
+[VERBATIM — Changement de politique]
+Interest expense on liabilities related to the sales of future royalties is imputed on the unamortized portion using the effective interest method. We periodically assess the estimated royalty payments under our licensees, and, as the amount or timing of such payments of these estimates change, we prospectively adjust the imputed interest rate and the related amortization of the respective liability. The actual interest rate will be affected by the timing of the royalty payments and changes in the forecasted revenue.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

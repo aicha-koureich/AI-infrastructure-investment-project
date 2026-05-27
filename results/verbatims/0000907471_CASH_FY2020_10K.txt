@@ -1,0 +1,21 @@
+FIRM         : CASH (CIK 0000907471) | FY2020
+FILE         : 0000907471_CASH_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-09-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : buildings, and range from 2 years to 15 years for leasehold improvements, and for furniture, fixtures and equipment
+DURÉE        : 2.0-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B200 (2 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Buildings, furniture, fixtures, leasehold improvements and equipment are carried at cost, less accumulated depreciation and amortization. Capital leases, where the Company is the lessee, are included in premises and equipment at the capitalized amount less accumulated amortization. The Company primarily uses the straight-line method of depreciation over the estimated useful lives of the assets, which is 39 years for buildings, and range from two years to 15 years for leasehold improvements, and for furniture, fixtures and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

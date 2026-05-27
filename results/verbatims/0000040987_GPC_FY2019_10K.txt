@@ -1,0 +1,20 @@
+FIRM         : GPC (CIK 0000040987) | FY2019
+FILE         : 0000040987_GPC_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, machinery and equipment
+DURÉE        : 5.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization are primarily determined on a straight-line basis over the following estimated useful lives of each asset: buildings and improvements, 10 to 40 years; machinery and equipment, 5 to 15 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . ASU No. 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop internal-use software. These provisions should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. ASU 2018-15 is effective for periods beginning after December 15, 2019, with an option to adopt early. The adoption of ASU 2018-15 is not expected to have a significant impact on the Company’s financial position, results of operations or disclosures. The Company does not plan to early adopt the standard. ||| Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

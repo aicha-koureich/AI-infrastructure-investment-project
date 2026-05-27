@@ -1,0 +1,20 @@
+FIRM         : SCVL (CIK 0000895447) | FY2023
+FILE         : 0000895447_SCVL_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 3, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 – Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : 2.0-25.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment is stated at cost and is depreciated or amortized using the straight-line method over the shorter of the estimated useful lives of the assets or the applicable lease terms.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements that are Service Contracts ||| We account for the costs to implement hosted cloud computing arrangements that are considered to be service contracts in current and noncurrent other assets. We capitalize these costs based on the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. We amortize the costs over the anticipated service contract period for the hosted arrangement. ||| Note 7 – Cloud Computing Arrangements that are Service Contracts

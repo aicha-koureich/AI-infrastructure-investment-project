@@ -1,0 +1,20 @@
+FIRM         : HSIC (CIK 0001000228) | FY2019
+FILE         : 0001000228_HSIC_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 28, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 3 – Property and Equipment, Net Property and equipment are stated at cost, net of accumulated depreciation. Depreciation is computed primarily un
+ASSET CAT.   : Equipment, Machinery, Furniture, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Note 3 – Property and Equipment, Net Property and equipment are stated at cost, net of accumulated depreciation. Property and equipment, including related estimated useful lives, consisted of the following: December 28, December 29, 2019 2018 Land $ 18,030 $ 17,985 Buildings and permanent improvements 121,823 127,012 Leasehold improvements 104,089 103,929 Machinery and warehouse equipment 124,640 108,249 Furniture, fixtures and other 99,083 120,693 Computer equipment and software 330,926 427,237 798,591 905,105 Less accumulated depreciation ( 468,946) ( 590,884) Property and equipment, net $ 329,645 $ 314,221 Estimated Useful Lives (in years) Buildings and permanent improvements 40 Machinery and warehouse equipment 5- 10 Furniture, fixtures and other 3- 10 Computer equipment and software 3- 10 Property and equipment related depreciation expense for the years ended December 28, 2019, December 29, 2018 and December 30, 2017 was $ 64.4 million, $ 58.1 million and $ 54.7 million.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

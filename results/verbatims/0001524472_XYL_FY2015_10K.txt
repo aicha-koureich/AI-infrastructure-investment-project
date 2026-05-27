@@ -1,0 +1,21 @@
+FIRM         : XYL (CIK 0001524472) | FY2015
+FILE         : 0001524472_XYL_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 20
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+reportable segments: Water Infrastructure and Applied Water. The Water Infrastructure segment, focuses on the transportation, treatment and testing of water, offering a range of products including water and wastewater pumps, treatment and testing equipment, and controls and systems. The Applied Water segment, encompasses the uses of water and focuses on the residential, commercial, industrial and agricultural markets offering a wide range of products, including pumps, valves and heat exchangers. Our Regional selling locations consist primarily of selling and marketing organizations and related support that offer products and services across both of our reportable segments. Corporate and other consists of corporate office expenses including compensation, benefits, occupancy, depreciation, and other administrative costs, as well as charges related to certain matters, such as environmental matters that are managed at a corporate level and are not included in the business segments in evaluating performance or allocating resources.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued guidance regarding whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license then the software license element of the arrangement should be accounted for in a manner that is consistent with accounting for the acquisition of other software licenses. If a cloud computing arrangement does not include a software license then the arrangement should be accounted for as a service contract. This guidance is effective for interim and annual periods beginning after December 15, 2015. The guidance may be applied (1) retrospectively or (2) prospectively to arrangements entered into, or materially modified after the effective date. Early adoption is permitted. We elected to early adopt this standard effective in the second quarter of 2015 with retrospective application. Our adoption of this guidance did not have any impact on our financial condition or results of operations.

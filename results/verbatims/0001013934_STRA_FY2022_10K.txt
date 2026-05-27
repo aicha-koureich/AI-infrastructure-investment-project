@@ -1,0 +1,20 @@
+FIRM         : STRA (CIK 0001013934) | FY2022
+FILE         : 0001013934_STRA_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2031-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies
+ASSET CAT.   : equipment, computer software
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization of property and equipment is calculated using the straight-line method over the estimated useful lives ranging from three years to 40 years. Included in the 2020, 2021, and 2022 depreciation and amortization expense amount is $6.9 million, $7.2 million and $3.2 million of depreciation expense, respectively, related to computer software acquired in the Capella Education Company merger in 2018 and content acquired in the ANZ acquisition in 2020, which is included in Amortization of intangible assets on the consolidated statements of income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud computing costs ||| Cloud computing arrangements ||| The Company defers certain commissions earned by third party international agents that are considered incremental and recoverable costs of obtaining a contract with customers of ANZ. These costs are amortized over the period of benefit which ranges from one to two years. In accordance with ASU 2018-15, which the Company adopted on January 1, 2020, the Company defers implementation costs incurred in cloud computing arrangements and amortizes these costs over the term of the arrangement.

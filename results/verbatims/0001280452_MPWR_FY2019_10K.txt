@@ -1,0 +1,21 @@
+FIRM         : MPWR (CIK 0001280452) | FY2019
+FILE         : 0001280452_MPWR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : 3.0-8.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-8.0 ans
+
+[VERBATIM — Durée de vie]
+Production equipment and software have estimated useful lives of three to eight years. Transportation equipment has estimated useful lives of 5 to 20 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+For the year ended December 31, 2019, revenue from the communications market increased $14.2 million, or 20.1%, from the same period in 2018. This increase was primarily driven by higher demand in infrastructure sales including the 5G network. Revenue from the computing and storage market increased $30.1 million, or 18.9%, from the same period in 2018. This increase was primarily driven by strength in the high-performance notebook and cloud computing markets, which was partially offset by lower demand in the solid-state drive storage market. Revenue from the automotive market increased $10.2 million, or 12.8%, from the same period in 2018. This increase was primarily driven by higher sales of products for infotainment applications. Revenue from the industrial market increased $10.9 million, or 12.3%, from the same period in 2018. This increase was primarily driven by higher sales in power source and security products. Revenue from the consumer market decreased $19.9 million, or 10.8%, from the same period in 2018. This decrease was primarily due to a decrease in demand for high volume consumer-related products, as well as lower sales from specialty lighting, chargers and gaming products. This decrease was partially offset by higher demand for wearables and home appliance products. ||| For the year ended December 31, 2018, revenue from the computing and storage market increased $58.3 million, or 57.9%, from the same period in 2017. This increase was primarily driven by strength in the solid-state drive storage, cloud computing and high-performance notebook markets. Revenue from the automotive market increased $26.2 million, or 48.6%, from the same period in 2017. This increase was primarily driven by higher sales of products for infotainment, safety and connectivity applications. Revenue from the industrial market increased $25.6 million, or 40.7%, from the same period in 2017. This increase was primarily driven by higher sales in power source, security and meter products. Revenue from the communications market increased $7.0 million, or 11.0%, from the same period in 2017. This increase was primarily driven by higher demand in networking applications. Revenue from the consumer market decreased $5.6 million, or 3.0%, from the same period in 2017. This decrease was primarily due to softness in demand for high volume consumer-related products, particularly those sold in the greater China region. This decrease was partially offset by higher demand for products related to home appliance, specialty lighting and internet-of-things applications.

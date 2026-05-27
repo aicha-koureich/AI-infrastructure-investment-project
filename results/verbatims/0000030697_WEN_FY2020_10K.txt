@@ -1,0 +1,23 @@
+FIRM         : WEN (CIK 0000030697) | FY2020
+FILE         : 0000030697_WEN_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 3, 2021
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Depreciation and amortization of properties is computed principally on the straight-line basis using the following estimated useful lives of the related major classes of properties: 3 to 20 years for office and restaurant equipment (including technology), 3 to 15 years for transportation equipment and 7 to 30 years for buildings and improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

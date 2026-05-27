@@ -1,0 +1,20 @@
+FIRM         : BLFS (CIK 0000834365) | FY2023
+FILE         : 0000834365_BLFS_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Organization and significant accounting policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company also generates revenue from the leasing of our property and equipment, operating right-of-use assets, and evo cold chain systems to customers pursuant to service contracts or rental arrangements entered into with the customer. Revenue from these arrangements is not within the scope of FASB ASC Topic 606 as it is within the scope of FASB ASC Topic 842, Leases . All customers leasing shippers currently do so under month-to-month rental arrangements. We account for these rental transactions as operating leases and record rental revenue on a straight-line basis over the rental term.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

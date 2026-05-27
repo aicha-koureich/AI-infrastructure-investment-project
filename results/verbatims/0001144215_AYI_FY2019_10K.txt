@@ -1,0 +1,20 @@
+FIRM         : AYI (CIK 0001144215) | FY2019
+FILE         : 0001144215_AYI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 17 — Quarterly Financial Data (Unaudited)
+ASSET CAT.   : buildings and related improvements
+DURÉE        : 10.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is determined principally on a straight-line basis using estimated useful lives of plant and equipment ( 10 to 40 years for buildings and related improvements and 3 to 15 years for machinery and equipment) for financial reporting purposes, while accelerated depreciation methods are used for income tax purposes.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract (“ASU 2018-15”), which will require companies to apply internal-use software guidance to determine the implementation costs of these arrangements that can be capitalized. Capitalized implementation costs will be required to be amortized over the term of the arrangement, beginning when the cloud computing arrangement is ready for its intended use. ASU 2018-15 is effective for fiscal years (and interim reporting periods within those years) beginning after December 15, 2019. The standard allows changes to be applied either retrospectively or prospectively. We will adopt the standard as required in fiscal 2021. The provisions of ASU 2018-15 are not expected to have a material effect on our financial condition, results of operations, or cash flows. ||| Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract ||| (“ASU 2018-15”), which will require companies to apply internal-use software guidance to determine the implementation costs of these arrangements that can be capitalized. Capitalized implementation costs will be required to be amortized over the term of the arrangement, beginning when the cloud computing arrangement is ready for its intended use. ASU 2018-15 is effective for fiscal years (and interim reporting periods within those years) beginning after December 15, 2019. The standard allows changes to be applied either retrospectively or prospectively. We will adopt the standard as required in fiscal 2021. The provisions of ASU 2018-15 are not expected to have a material effect on our financial condition, results of operations, or cash flows.

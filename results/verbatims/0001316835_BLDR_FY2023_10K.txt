@@ -1,0 +1,21 @@
+FIRM         : BLDR (CIK 0001316835) | FY2023
+FILE         : 0001316835_BLDR_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, computer software, information technology, furniture and fixtures
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Internal use computer software costs are included in information technology, furniture and fixtures, and generally depreciated using the straight-line method over the estimated useful lives of the assets, generally three years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

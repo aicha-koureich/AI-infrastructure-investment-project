@@ -1,0 +1,21 @@
+FIRM         : AAPL (CIK 0000320193) | FY2018
+FILE         : 0000320193_AAPL_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : machinery and equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+for machinery and equipment, including product tooling and manufacturing process equipment; and the shorter of lease term or useful life for leasehold improvements. Capitalized costs related to internal-use software are amortized on a straight-line basis over the estimated useful lives of the assets, which range from
+
+[VERBATIM — Infrastructure IA]
+, which includes product tooling and manufacturing process equipment; data centers; corporate facilities and infrastructure, including information systems hardware, software and enhancements; and retail store facilities.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

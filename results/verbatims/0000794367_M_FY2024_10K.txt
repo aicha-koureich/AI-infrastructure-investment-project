@@ -1,0 +1,20 @@
+FIRM         : M (CIK 0000794367) | FY2024
+FILE         : 0000794367_M_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : 4.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company capitalizes purchased and internally-developed software as well as implementation costs associated with cloud computing arrangements and amortizes such costs to expense on a straight-line basis generally over four to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The Company capitalizes purchased and internally-developed software as well as implementation costs associated with cloud computing arrangements and amortizes such costs to expense on a straight-line basis generally over four to five years. Capitalized software is included in other assets on the Consolidated Balance Sheets.

@@ -1,0 +1,21 @@
+FIRM         : ELV (CIK 0001156039) | FY2019
+FILE         : 0001156039_ELV_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : computer equipment and software, and the lesser of the remaining life of the building lease, if any, or 7 years for furniture and other equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-10.0 ans | 7.0 ans | 30.0-9.0 ans
+
+[VERBATIM — Durée de vie]
+Property and Equipment: Property and equipment is recorded at cost, net of accumulated depreciation. Depreciation is computed principally by the straight-line method over estimated useful lives ranging from fifteen to thirty-nine years for buildings and improvements, three to five years for computer equipment and software, and the lesser of the remaining life of the building lease, if any, or seven years for furniture and other equipment. Certain costs related to the development or purchase of internal-use software are capitalized and amortized over estimated useful lives ranging from five to ten years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued Accounting Standards Update No. 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract , or ASU 2018-15. The amendments in ASU 2018-15 require implementation costs incurred by customers in cloud computing arrangements to be deferred and recognized over the term of the arrangement, if those costs would be capitalized by the customer in a software licensing arrangement under the internal-use software guidance. The amendments also require an entity to disclose the nature of its hosting arrangements and adhere to certain presentation requirements in its balance sheet, income statement and statement of cash flows. We adopted ASU 2018-15 on January 1, 2020 using a prospective approach for all implementation costs incurred after the date of adoption, and the adoption did not have an impact on our consolidated financial position, results of operations or cash flows. ||| Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract ||| , or ASU 2018-15. The amendments in ASU 2018-15 require implementation costs incurred by customers in cloud computing arrangements to be deferred and recognized over the term of the arrangement, if those costs would be capitalized by the customer in a software licensing arrangement under the internal-use software guidance. The amendments also require an entity to disclose the nature of its hosting arrangements and adhere to certain presentation requirements in its balance sheet, income statement and statement of cash flows. We adopted ASU 2018-15 on January 1, 2020 using a prospective approach for all implementation costs incurred after the date of adoption, and the adoption did not have an impact on our consolidated financial position, results of operations or cash flows.

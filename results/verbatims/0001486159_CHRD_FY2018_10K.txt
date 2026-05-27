@@ -1,0 +1,20 @@
+FIRM         : CHRD (CIK 0001486159) | FY2018
+FILE         : 0001486159_CHRD_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 25. Quarterly Financial Data — Unaudited
+ASSET CAT.   : furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company’s produced and flowback water disposal facilities, natural gas processing plants, pipelines, buildings, furniture, software, equipment and leasehold improvements are recorded at cost and are depreciated on the straight-line method based on expected lives of the individual assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

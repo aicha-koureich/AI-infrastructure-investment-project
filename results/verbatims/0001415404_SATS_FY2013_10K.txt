@@ -1,0 +1,21 @@
+FIRM         : SATS (CIK 0001415404) | FY2013
+FILE         : 0001415404_SATS_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2013
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+EchoStar Technologies segment capital expenditures for the year ended December 31, 2012 decreased by $11.6 million, or 14.3%, compared
+to the same period in 2011, primarily due to the construction of a data center in 2011 that did not occur in 2012.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

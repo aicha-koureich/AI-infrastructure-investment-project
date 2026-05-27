@@ -1,0 +1,20 @@
+FIRM         : LNT (CIK 0000352541) | FY2014
+FILE         : 0000352541_LNT_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 16(d)
+ASSET CAT.   : equipment, computer software
+DURÉE        : 5.0-30.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Corporate Services and Other property, plant and equipment is depreciated using the straight-line method over periods ranging from 5 to 30 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

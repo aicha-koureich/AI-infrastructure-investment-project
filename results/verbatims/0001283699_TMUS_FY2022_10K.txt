@@ -1,0 +1,23 @@
+FIRM         : TMUS (CIK 0001283699) | FY2022
+FILE         : 0001283699_TMUS_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-10
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 16 - Wireline
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in Property and equipment, net on our Consolidated Balance Sheets and are amortized on a straight-line basis over the estimated useful life of the asset.
+
+[VERBATIM — Changement de politique]
+Our leasing programs (“Leasing Programs”), which include JUMP! On Demand and the Sprint Flex Lease Program, allow customers to lease a device (handset or tablet) generally over an initial period of 18 months and upgrade the device with a new device when eligibility requirements are met. We depreciate leased devices to their estimated residual value, on a group basis, using the straight-line method over the estimated useful life of the device. The estimated useful life reflects the period for which we estimate the group of leased devices will provide utility to us, which may be longer than the initial lease term based on customer options in the Sprint Flex Lease program to renew the lease on a month-to-month basis after the initial lease term concludes. In determining the estimated useful life, we consider the lease term (e.g., 18 months and month-to-month renewal options for the Sprint Flex Lease Program), trade-in activity and write-offs for lost and stolen devices. Lost and stolen devices are incorporated into the estimates of depreciation expense and recognized as an adjustment to accumulated depreciation when the loss event occurs. Our policy of using the group method of depreciation has been applied to acquired leased devices as well as leases originated subsequent to the Merger. Acquired leased devices are grouped based on the age of the device. Revenues associated with the leased devices, net of lease incentives, are generally recognized on a straight-line basis over the lease term.
+
+[VERBATIM — Infrastructure IA]
+Property and equipment consists of buildings and equipment, wireless communications systems, leasehold improvements, capitalized software, leased wireless devices and construction in progress. Buildings and equipment include certain network server equipment. Wireless communications systems include assets to operate our wireless network and information technology data centers, including tower assets, leasehold improvements and asset retirement costs. Leasehold improvements include asset improvements other than those related to the wireless network.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

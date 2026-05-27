@@ -1,0 +1,20 @@
+FIRM         : STLD (CIK 0001022671) | FY2022
+FILE         : 0001022671_STLD_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of the Business and Summary of Significant Accounting Policies (Continued)
+ASSET CAT.   : plant, machinery and equipment
+DURÉE        : 10.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The company assigns each fixed asset a useful life ranging from 3 to 20 years for plant, machinery and equipment, and 10 to 40 years for buildings and improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

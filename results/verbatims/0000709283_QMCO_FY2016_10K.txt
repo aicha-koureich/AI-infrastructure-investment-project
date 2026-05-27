@@ -1,0 +1,21 @@
+FIRM         : QMCO (CIK 0000709283) | FY2016
+FILE         : 0000709283_QMCO_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2017
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 3 : SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Machinery and equipment 3 to 5 years Computer equipment 3 to 5 years ERP software 10 years Other software 3 years Furniture and fixtures 5 years Other office equipment 5 years Leasehold improvements Shorter of useful life or life of lease
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

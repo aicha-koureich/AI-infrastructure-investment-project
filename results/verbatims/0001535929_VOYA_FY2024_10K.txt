@@ -1,0 +1,20 @@
+FIRM         : VOYA (CIK 0001535929) | FY2024
+FILE         : 0001535929_VOYA_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 21. Consolidated and Nonconsolidated Investment Entities
+ASSET CAT.   : Not disclosed
+DURÉE        : 5.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Contract cost assets represent costs incurred to obtain or fulfill contracts for non-insurance financial services and software subscriptions and services that are expected to be recovered and, thus, have been capitalized and are subject to amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : BCO (CIK 0000078890) | FY2022
+FILE         : 0000078890_BCO_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 - Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software, machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful Lives Years Buildings 16 to 25 Building leasehold improvements 3 to 10 Vehicles 3 to 10 Capitalized software 3 to 5 Other machinery and equipment 3 to 10
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : PNW (CIK 0000764622) | FY2023
+FILE         : 0000764622_PNW_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 21. New Accounting Standards
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Palo Verde sale leaseback property, plant and equipment, net of accumulated depreciation
+
+[VERBATIM — Infrastructure IA]
+Retail electricity sales in kWh, adjusted to exclude the effects of weather variations, increased 1.5% for the year ended December 31, 2023, compared with the prior-year period. While steady customer growth was somewhat offset by weaker usage among residential customers, energy savings driven by customer conservation, energy efficiency, and distributed renewable generation initiatives, the main drivers of positive sales for this period were continued strong sales to commercial and industrial customers and the ramp-up of new data center customers.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

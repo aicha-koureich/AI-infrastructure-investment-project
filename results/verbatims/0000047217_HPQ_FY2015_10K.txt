@@ -1,0 +1,33 @@
+FIRM         : HPQ (CIK 0000047217) | FY2015
+FILE         : 0000047217_HPQ_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1: Overview and Summary of Significant Accounting Policies (Continued)
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+HP
+recognizes revenue for hosting or software-as-a-service ("SaaS") arrangements as the service is delivered, generally on a straight-line basis, over the contractual period of
+performance.
+
+[VERBATIM — Infrastructure IA]
+Impairment of data center assets  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In EG, we are experiencing challenges due to multiple market trends, including the increasing demand for hyperscale computing
+infrastructure products, the transition to cloud computing and a highly competitive pricing environment. In addition, demand for our Business Critical Systems ("BCS") products continues to weaken as
+has the overall market for UNIX products. The effect of lower BCS and traditional storage revenue along with a higher mix of ISS density optimized server products and midrange Converged Storage
+solutions is impacting support attach opportunities in Technology Services ("TS"). To be successful in overcoming these challenges, we must address business model shifts and go-to-market execution
+challenges, while continuing to pursue new product innovation that builds on our existing capabilities in areas such as cloud and data center computing, software-defined networking, storage, blade
+servers and wireless networking. ||| EG net revenue increased 0.7% (increased 6.3% on a constant currency basis) in fiscal 2015. The increase in EG net revenue was due
+primarily to growth in ISS and from our acquisition of Aruba in May 2015, partially offset primarily by unfavorable currency impacts led by the euro and a net revenue decline in TS. However, we
+continued to experience challenges due to market trends, including the transition to cloud computing, as well as product and technology transitions, along with a highly competitive pricing
+environment. ||| EG net revenue decreased 1.0% (decreased 0.6% on a constant currency basis) in fiscal 2014. In EG, we continued to experience revenue
+challenges due to market trends, including the transition to cloud computing, as well as product and technology transitions, along with a highly competitive pricing environment. The decline in EG net
+revenue was due to net revenue declines in TS, BCS and Storage partially offset by net revenue growth in ISS and Networking.

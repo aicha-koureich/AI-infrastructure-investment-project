@@ -1,0 +1,20 @@
+FIRM         : BLMN (CIK 0001546417) | FY2020
+FILE         : 0001546417_BLMN_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-26
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies Basis of Presentation - The Company’s consolidated financial statements include the accounts and ope
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Fixtures and Equipment - Property, fixtures and equipment are stated at cost, net of accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

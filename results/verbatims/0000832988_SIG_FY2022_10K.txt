@@ -1,0 +1,20 @@
+FIRM         : SIG (CIK 0000832988) | FY2022
+FILE         : 0000832988_SIG_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-07-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 16. Property, plant and equipment, net
+ASSET CAT.   : Furniture and fixtures, Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(in millions) January 28, 2023 January 29, 2022 Land and buildings $ 21.0 $ 21.7 Leasehold improvements 684.1 640.9 Furniture and fixtures 729.9 698.3 Equipment 160.9 133.5 Software 268.9 251.5 Construction in progress 74.4 78.9 Total $ 1,939.2 $ 1,824.8 Accumulated depreciation and amortization (1,352.7) (1,248.9) Property, plant and equipment, net $ 586.5 $ 575.9
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Capitalized amounts for cloud computing arrangements accounted for as service contracts are included in other assets in the consolidated balance sheets. These costs primarily consist of payroll and payroll-related costs for employees directly associated with ||| the implementation of cloud computing projects, consulting fees, and development fees. Amortization of these costs is recorded on a straight-line basis over the life of the service contract, ranging from two to four years. The carrying amount of these assets as of January 28, 2023 was $127.8 million (January 29, 2022: $80.7 million).

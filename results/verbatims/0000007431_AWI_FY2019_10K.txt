@@ -1,0 +1,21 @@
+FIRM         : AWI (CIK 0000007431) | FY2019
+FILE         : 0000007431_AWI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment, Machinery and equipment, computer equipment, furniture
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans | 3.0-15.0 ans | 5.0-7.0 ans | 13.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Property plant and equipment is recorded at cost reduced by accumulated depreciation. Machinery and equipment includes manufacturing equipment (depreciated over 3 to 15 years), computer equipment (depreciated over 3 to 5 years) and office furniture and equipment (depreciated over 5 to 7 years). Within manufacturing equipment, assets that are subject to accelerated obsolescence or wear out quickly, such as dryer components, are depreciated over shorter periods (3 to 7 years). Heavy production equipment, such as conveyors and production presses, are depreciated over longer periods (13 to 15 years). Computer software is depreciated over 3 to 7 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, “Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract,” which amends ASC 350-40 Intangibles – Goodwill and Other – Internal-Use Software. The ASU requires implementation costs incurred by customers in cloud computing arrangements to be deferred and recognized over the term of the arrangement, if these costs were capitalized by the customer in a software licensing arrangement. This guidance is effective for fiscal years beginning after December 15, 2019. The adoption of this standard will not have a material impact on our financial condition, results of operations or cash flows. ||| “Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract,”

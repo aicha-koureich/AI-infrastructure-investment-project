@@ -1,0 +1,23 @@
+FIRM         : WABC (CIK 0000311094) | FY2024
+FILE         : 0000311094_WABC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1: Business and Accounting Policies Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : 20.0-50.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment are stated at cost, less accumulated depreciation and amortization. Estimated useful lives of premises and equipment range from 20 to 50 years and from 3 to 20 years, respectively.
+
+[VERBATIM — Changement de politique]
+FASB ASU 2020-04 , Reference Rate Reform (Topic 848): Facilitation of the Effects of Reference Rate Reform on Financial Reporting , was issued March 2020. The ASU provides optional expedients and exceptions for applying GAAP to loan and lease agreements, derivative contracts, and other transactions affected by the anticipated transition away from LIBOR toward new interest rate benchmarks. For transactions that are modified because of reference rate reform and that meet certain scope guidance (i) modifications of loan agreements should be accounted for by prospectively adjusting the effective interest rate and the modification will be considered "minor" so that any existing unamortized origination fees/costs would carry forward and continue to be amortized and (ii) modifications of lease agreements should be accounted for as a continuation of the existing agreement with no reassessments of the lease classification and the discount rate or remeasurements of lease payments that otherwise would be required for modifications not accounted for as separate contracts. ASU 2020-04 also provides numerous optional expedients for derivative accounting. In December 2022, the FASB issued ASU 2022-06, Reference Rate Reform (Topic 848): Deferral of the Sunset Date of Topic 848. ” The ASU 2022-06 deferred the sunset date of ASU 2020-04 to December 2024. As of March 31, 2024, all contracts and transactions within the scope of ASU 2020-04 have transitioned to alternative reference rates. The accounting effects of the transition to alternative reference rates were applied prospectively as an adjustment to the effective interest rate and did not have a material impact on the Company’s consolidated financial statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

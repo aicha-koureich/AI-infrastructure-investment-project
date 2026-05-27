@@ -1,0 +1,33 @@
+FIRM         : MSFT (CIK 0000789019) | FY2013
+FILE         : 0000789019_MSFT_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2013
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: NOTE 1 — ACCOUNTING POLICIES
+ASSET CAT.   : computer software developed or acquired for internal use
+DURÉE        : 2.0-3.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 2.0-3.0 ans | 2.0-10.0 ans | 3.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment is stated at cost and depreciated using the straight-line method over the shorter of the estimated useful life of the asset
+or the lease term. The estimated useful lives of our property and equipment are generally as follows: computer software developed or acquired for internal use, three years; computer equipment, two to three years; buildings and improvements, five to
+15 years; leasehold improvements, two to 10 years; and furniture and equipment, one to five years.
+
+[VERBATIM — Infrastructure IA]
+Helping businesses move to the cloud is one of our largest
+opportunities. Cloud-based solutions provide customers with software, services, and content over the Internet by way of shared computing resources located in centralized data centers. The shift to the cloud is driven by three important economies of
+scale: larger data centers can deploy computational resources at significantly lower cost per unit than smaller ones; larger data centers can coordinate and aggregate diverse customer, geographic, and application demand patterns improving the
+utilization of computing, storage, and network resources; and multi-tenancy lowers application maintenance labor costs for large public clouds. Because of the improved economics, the cloud offers unique levels of elasticity and agility that enable
+new solutions and applications. For businesses of all sizes, the cloud creates the opportunity to focus on innovation while leaving non-differentiating activities to reliable and cost-effective providers.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Unique to Microsoft, we continue to design and deliver cloud solutions that allow our customers to use both the cloud and their on-premise assets
+however best suits their own needs. For example, a company can choose to deploy Office or Microsoft Dynamics on premise, as a cloud service, or a combination of both. With Windows Server 2012, Windows Azure, and System Center infrastructure,
+businesses can deploy applications in their own datacenter, a partner’s datacenter, or in Microsoft’s datacenter with common security, management, and administration across all environments, with the flexibility and scale they desire.
+These hybrid capabilities allow customers to fully harness the power of the cloud so they can achieve greater levels of efficiency and tap new areas of growth. ||| Server and Tools develops and markets technology and
+related services that enable information technology professionals and their systems to be more productive and efficient. Server and Tools product and service offerings include Windows Server, Microsoft SQL Server, Windows Azure, Visual Studio,
+System Center products, Windows Embedded device platforms, and Enterprise Services. Enterprise Services comprise Premier product support services and Microsoft Consulting Services. We also offer developer tools, training, and certification.
+Approximately 80% of Server and Tools revenue comes from product revenue, including purchases through volume licensing programs, licenses sold to OEMs, and retail packaged product, while the remainder comes from Enterprise Services.

@@ -1,0 +1,21 @@
+FIRM         : LOPE (CIK 0001434588) | FY2021
+FILE         : 0001434588_LOPE_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 4. Summary of Significant Accounting Policies
+ASSET CAT.   : Technology, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 10.75 ans
+
+[VERBATIM — Durée de vie]
+This expense category includes salaries, benefits and share-based compensation, information technology costs, amortization of content development costs and other costs associated with these support services.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

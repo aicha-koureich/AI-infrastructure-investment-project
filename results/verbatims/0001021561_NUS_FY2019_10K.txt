@@ -1,0 +1,20 @@
+FIRM         : NUS (CIK 0001021561) | FY2019
+FILE         : 0001021561_NUS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Topic 350): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract . This new guidance aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The guidance is effective for interim and annual reporting periods beginning after December 15, 2019 and should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. The adoption of this guidance is not expected to have a material impact on the Company’s consolidated financial statements. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract

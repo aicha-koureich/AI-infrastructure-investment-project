@@ -1,0 +1,20 @@
+FIRM         : SMPL (CIK 0001702744) | FY2018
+FILE         : 0001702744_SMPL_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 25, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5
+ASSET CAT.   : Furniture and fixtures, Computer equipment, Machinery and equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+August 25, 2018 August 26, 2017 (In thousands) (Successor) (Successor) Furniture and fixtures $ 638 $ 69 Computer equipment and software 305 161 Machinery and equipment 233 289 Website development costs 1,746 899 Leasehold improvements 337 310 Construction in progress 507 525 Property and equipment, gross 3,766 2,253 Less: accumulated depreciation and amortization (1,201 ) (148 ) Property and equipment, net $ 2,565 $ 2,105
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

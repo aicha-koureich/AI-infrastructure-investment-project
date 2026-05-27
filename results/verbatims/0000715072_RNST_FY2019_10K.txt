@@ -1,0 +1,24 @@
+FIRM         : RNST (CIK 0000715072) | FY2019
+FILE         : 0000715072_RNST_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Significant Accounting Policies (continued)
+ASSET CAT.   : computer equipment and autos
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Premises and Equipment : Premises and equipment are stated at cost less accumulated depreciation. Depreciation is computed primarily by use of the straight-line method for furniture, fixtures, equipment, autos and premises. The annual provisions for depreciation have been computed primarily using estimated lives of forty years for premises, three to seven years for furniture and equipment and three to five years for computer equipment and autos.
+
+[VERBATIM — Changement de politique]
+This determination is further supported by quarterly valuations, which are performed by third parties, of each security obtained by the Company. The Company does not intend to sell the investments before recovery of the investments' amortized cost, and it is not more likely than not that the Company will be required to sell the investments before recovery of the investments’ amortized cost, which may be at maturity. At December 31, 2019 , management did not, and does not currently, believe such securities will be settled at a price less than the amortized cost of each investment, but the Company previously concluded that it was probable that there had been an adverse change in estimated cash flows for both trust preferred securities and recognized credit related impairment losses on these securities in 2011. For the years ended December 31, 2019 , 2018 and 2017 , the Company determined the pooled trust preferred securities and their estimated cash flow were fairly valued, and no additional impairment was recognized during these periods.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

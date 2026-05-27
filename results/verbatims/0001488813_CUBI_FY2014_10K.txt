@@ -1,0 +1,24 @@
+FIRM         : CUBI (CIK 0001488813) | FY2014
+FILE         : 0001488813_CUBI_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 23 – SELECTED QUARTERLY FINANCIAL DATA (UNAUDITED)
+ASSET CAT.   : Furniture, equipment
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+December 31, Expected Useful Life 2014 2013 (in thousands) Leasehold improvements 3 to 25 years $ 11,680 $ 11,507 Furniture, fixtures and equipment 5 to 10 years 4,504 4,353 IT equipment 3 to 5 years 4,696 3,740 Automobiles 5 to 10 years 174 172 21,054 19,772 Accumulated depreciation (10,244 ) (8,147 ) Total $ 10,810 $ 11,625
+
+[VERBATIM — Changement de politique]
+was recognized as reduction to the provision for loan losses in the third quarter of 2012. The revised valuation for the PCI acquisition date loan balances due to the conversion to the new software was accounted for prospectively as a change in accounting estimate.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

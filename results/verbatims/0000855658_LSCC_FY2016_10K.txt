@@ -1,0 +1,20 @@
+FIRM         : LSCC (CIK 0000855658) | FY2016
+FILE         : 0000855658_LSCC_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 - Nature of Operations and Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost. Depreciation and amortization are computed using the straight-line method for financial reporting purposes over the estimated useful lives of the related assets, generally
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : SMP (CIK 0000093389) | FY2016
+FILE         : 0000093389_SMP_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Machinery and equipment, equipment, Furniture and fixtures
+DURÉE        : 7.0-12.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0 ans | 3.0-8.0 ans | 3.0-12.0 ans | 7.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated Life Buildings 25 to 33-1/2 years Building improvements 10 to 25 years Machinery and equipment 7 to 12 years Tools, dies and auxiliary equipment 3 to 8 years Furniture and fixtures 3 to 12 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

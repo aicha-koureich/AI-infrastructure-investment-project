@@ -1,0 +1,21 @@
+FIRM         : DFIN (CIK 0001669811) | FY2017
+FILE         : 0001669811_DFIN_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Significant Accounting Policies
+ASSET CAT.   : buildings, the lesser of 7 years or the lease term for leasehold improvements and from 3 to 15 years for machinery and equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-15.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment —Property, plant and equipment are recorded at cost and depreciated on a straight-line basis over their estimated useful lives. Useful lives range from 15 to 40 years for buildings, the lesser of 7 years or the lease term for leasehold improvements and from 3 to 15 years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

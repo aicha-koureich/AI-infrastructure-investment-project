@@ -1,0 +1,20 @@
+FIRM         : DVN (CIK 0001090012) | FY2017
+FILE         : 0001090012_DVN_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Changes to the Consolidated Statement of Cash Flows As Reported Under For the Year Ended December 31, 2017 Under Full Cost Changes Successful Efforts Net earnings $ 1,871 $ (793 ) $ 1,078 Depreciation, depletion and amortization 1,579 495 2,074 Exploratory dry hole expense and unproved leasehold impairments — 219 219 Gains and losses on asset sales (5 ) (212 ) (217 ) Deferred income tax benefit (252 ) (42 ) (294 ) Share-based compensation 158 40 198 Other (108 ) (14 ) (122 ) Net cash from operating activities 3,216 (307 ) 2,909 Capital expenditures (3,074 ) 315 (2,759 ) Divestitures of property and equipment 425 (8 ) 417 Net cash from investing activities (2,517 ) 307 (2,210 )
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

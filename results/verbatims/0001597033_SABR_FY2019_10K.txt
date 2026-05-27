@@ -1,0 +1,21 @@
+FIRM         : SABR (CIK 0001597033) | FY2019
+FILE         : 0001597033_SABR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-03-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Business and Significant Accounting Policies
+ASSET CAT.   : Furniture and fixtures, Equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Buildings Lesser of lease term or 35 years Leasehold improvements Lesser of lease term or useful life Furniture and fixtures 5 to 15 years Equipment, general office and computer 3 to 5 years Software developed for internal use 3 to 5 years
+
+[VERBATIM — Infrastructure IA]
+We maintain and make enhancements to our products, services, technologies and systems in response to technological developments, industry standards, trends, and customer demands. We deploy resources in research and development in order to help maintain a competitive advantage and deliver innovation to the marketplace. Software developed for internal use includes costs incurred to enhance our infrastructure, software applications, and reservation systems. Additionally, we rely on other third-party providers, including DXC, Amazon Web Services, Inc., Google Cloud, and Microsoft Corporation, to operate computer data centers and network systems and provide hosting services. The aggregation of these costs represents our total technology expenditures of $1,034 million, $999 million, and $940 million for the years ended December 31, 2019, 2018, and 2017 respectively. These amounts include hosting, third-party software and expensed research and development costs of $945 million, $744 million, and $675 million for the years ended December 31, 2019, 2018, and 2017, respectively, and capitalized software development expenditures of $89 million, $256 million, and $264 million for these respective periods. This definition of total technology expenditures does not include computer equipment or other property, plant, and equipment. See "Factors Affecting Our Results—Technology transformation and change in mix of technology spend."  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+We maintain and make enhancements to our products, services, technologies and systems in response to technological developments, industry standards, trends, and customer demands. We deploy resources in research and development in order to help maintain a competitive advantage and deliver innovation to the marketplace. Software developed for internal use includes costs incurred to enhance our infrastructure, software applications, and reservation systems. Additionally, we rely on other third-party providers, including DXC, Amazon Web Services, Inc., Google Cloud, and Microsoft Corporation, to operate computer data centers and network systems and provide hosting services. The aggregation of these costs represents our total technology expenditures of $1,034 million, $999 million, and $940 million for the years ended December 31, 2019, 2018, and 2017 respectively. These amounts include hosting, third-party software and expensed research and development costs of $945 million, $744 million, and $675 million for the years ended December 31, 2019, 2018, and 2017, respectively, and capitalized software development expenditures of $89 million, $256 million, and $264 million for these respective periods. This definition of total technology expenditures does not include computer equipment or other property, plant, and equipment. See "Factors Affecting Our Results—Technology transformation and change in mix of technology spend."

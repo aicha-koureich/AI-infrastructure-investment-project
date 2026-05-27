@@ -1,0 +1,20 @@
+FIRM         : HWC (CIK 0000750577) | FY2018
+FILE         : 0000750577_HWC_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, “Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.” The amendments in this Update improve current GAAP by clarifying the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract, which aligns with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal use software license). The amendments in this Update are effective for public business entities for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years. Early adoption is permitted. The Company early adopted this standard during the third quarter of 2018. Adoption of this standard did not have a material impact upon the Company’s financial condition or results of operations.

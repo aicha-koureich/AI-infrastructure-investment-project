@@ -1,0 +1,20 @@
+FIRM         : NDSN (CIK 0000072331) | FY2023
+FILE         : 0000072331_NDSN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-10-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — Significant accounting policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment and depreciation — Property, plant and equipment are carried at cost. Plant and equipment are depreciated for financial reporting purposes using the straight-line method over the estimated useful lives of the assets or, in the case of property under finance leases, over the terms of the leases.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

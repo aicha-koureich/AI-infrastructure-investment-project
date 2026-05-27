@@ -1,0 +1,20 @@
+FIRM         : ICE (CIK 0001571949) | FY2019
+FILE         : 0001571949_ICE_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We recognize rent expense monthly on a straight-line basis for each respective operating lease, as a reduction to the right-of-use asset. We recognized $41 million , $38 million and $39 million of rent expense for office space as rent and occupancy expense in 2019 , 2018 , and 2017 , respectively, and $21 million , $21 million and $19 million of rent expense for data center facilities as technology and communication expense in 2019 , 2018 , and 2017 , respectively, within our consolidated income statement. We do not have any significant variable lease costs related to building and maintenance costs, real estate taxes, or other charges.
+
+[VERBATIM — Infrastructure IA]
+Desktops and connectivity services provide the connection to our exchanges, clearing houses and data centers and comprise hosting, colocation, infrastructure, technology-based information platforms, workstations and connectivity solutions through the ICE Global Network.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

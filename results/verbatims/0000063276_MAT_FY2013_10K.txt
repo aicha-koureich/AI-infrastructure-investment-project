@@ -1,0 +1,22 @@
+FIRM         : MAT (CIK 0000063276) | FY2013
+FILE         : 0000063276_MAT_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1—Summary of Significant Accounting Policies
+ASSET CAT.   : buildings
+DURÉE        : 10.0-20.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment are stated at cost less accumulated depreciation and amortization. Depreciation is computed using the straight-line method over estimated useful lives of 10 to 30 years for
+buildings, 3 to 10 years for machinery and equipment, and 10 to 20 years, not to exceed the lease term, for
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

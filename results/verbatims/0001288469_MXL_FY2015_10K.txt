@@ -1,0 +1,20 @@
+FIRM         : MXL (CIK 0001288469) | FY2015
+FILE         : 0001288469_MXL_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We are a provider of radio frequency, or RF, and mixed-signal integrated circuits for cable and satellite broadband communications, the connected home, and for data center, metro, and long-haul fiber networks. Our high performance RF receiver products capture and process digital and analog broadband signals to be decoded for various applications. These products include both RF receivers and RF receiver systems-on-chip (SoCs), which incorporate our highly integrated radio system architecture and the functionality necessary to receive and demodulate broadband signals, and physical medium devices that provide a constant current source, current-to-voltage regulation, and data alignment and retiming functionality in optical interconnect applications. Through our acquisition of Entropic Communications, Inc., or Entropic, in April of 2015, we provide semiconductor solutions for the connected home, ranging from MoCA® (Multimedia over Coax Alliance) solutions that transform how traditional HDTV broadcast and Internet Protocol- (IP) based streaming video content is seamlessly, reliably, and securely delivered, processed, and distributed into and throughout the home. Our products enable the reception, distribution and display of broadband video and data content in a wide range of electronic devices, including Pay-TV operator set-top boxes and voice and data gateways, hybrid analog and digital televisions and consumer terrestrial set-top boxes, Direct Broadcast Satellite outdoor units, and optical modules for data center, metro, and long-haul transport network applications.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

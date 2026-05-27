@@ -1,0 +1,20 @@
+FIRM         : OGN (CIK 0001821825) | FY2022
+FILE         : 0001821825_OGN_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Summary of Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+equipment and office furnishings. Depreciation expense was $96 million in 2022, $92 million in 2021, and $56 million in 2020. Repairs and maintenance costs are expensed as incurred as they do not extend the economic life of an asset.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

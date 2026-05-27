@@ -1,0 +1,20 @@
+FIRM         : SCL (CIK 0000094049) | FY2015
+FILE         : 0000094049_SCL_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05, Intangibles - Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement . This ASU provides guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The amendments in ASU No. 2015-05 will be effective for annual periods, including interim periods within those annual ||| Intangibles - Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement ||| periods, beginning after December 15, 2015. Early adoption is permitted. An entity can elect to adopt the amendments either prospectively to all arrangements entered into or materially m odified after the effective date or retrospectively. Based on the Company’s current cloud computing arrangements, the Company does not believe that adoption of ASU No. 2015-05 will have a material effect on the Company’s financial position, results of oper ations and cash flows.

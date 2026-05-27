@@ -1,0 +1,20 @@
+FIRM         : MTW (CIK 0000061986) | FY2017
+FILE         : 0000061986_MTW_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 22. Quarterly Financial Data (Unaudited)
+ASSET CAT.   : Machinery, equipment, Furniture and fixtures, Computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(in millions) 2017 2016 Land $ 25.4 $ 23.6 Building and improvements 196.4 $ 225.0 Machinery, equipment and tooling 263.6 $ 292.6 Furniture and fixtures 15.6 $ 16.7 Computer hardware and software 114.4 $ 126.0 Rental cranes 90.2 $ 89.0 Construction in progress 17.3 $ 16.7 Total cost 722.9 789.6 Less accumulated depreciation (428.0 ) (480.8 ) Property, plant and equipment-net $ 294.9 $ 308.8
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

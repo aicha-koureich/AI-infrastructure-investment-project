@@ -1,0 +1,20 @@
+FIRM         : ALV (CIK 0001034670) | FY2020
+FILE         : 0001034670_ALV_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Tooling is generally agreed upon as a separate contract or a separate component of an engineering contract, as a pre-production project. Capitalization of tooling costs is made only when the specific criteria for capitalization of customer funded tooling is met or the criteria for capitalization as Property, Plant & Equipment (P,P&E) for tools owned by the Company are fulfilled. Depreciation on the Company’s own tooling is recognized in the Consolidated Statements of Income as Cost of sales.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles-Goodwill and Other-Internal Use Software (Subtopic 350-40), Customer’s accounting for implementation costs incurred in a cloud computing arrangement that is a service contract , which align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). The accounting for the service element of a hosting arrangement that is a service contract is not affected by the amendments in ASU 2018-15. The amendments in ASU 2018-15 are effective for public business entities for annual periods beginning after December 15, 2019, and interim periods within those annual years. The Company adopted ASU 2018-15 prospectively as of January 1, 2020 and the impact on the consolidated financial statements has not been material during 2020. The future impact of ASU 2018-15 will depend on the nature of the Company’s future cloud computing arrangements. ||| Intangibles-Goodwill and Other-Internal Use Software (Subtopic 350-40), Customer’s accounting for implementation costs incurred in a cloud computing arrangement that is a service contract

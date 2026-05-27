@@ -1,0 +1,20 @@
+FIRM         : ELAN (CIK 0001739104) | FY2018
+FILE         : 0001739104_ELAN_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 12. Property and Equipment
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Provisions for depreciation of buildings and equipment are computed generally by the straight-line method at rates based on their estimated useful lives (
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

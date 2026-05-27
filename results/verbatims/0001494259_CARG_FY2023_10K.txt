@@ -1,0 +1,20 @@
+FIRM         : CARG (CIK 0001494259) | FY2023
+FILE         : 0001494259_CARG_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-02
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies Basis of Presentation The consolidated financial statements have been prepared in conformity with accoun
+ASSET CAT.   : Equipment, Server, computer equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment Property and equipment are stated at cost less accumulated depreciation and amortization using the straight‑line method over the estimated useful lives of the assets. The estimated useful lives of the Company’s property and equipment are as follows: Estimated Useful Life (In Years) Server and computer equipment 3 Capitalized internal-use software 3 Capitalized website development 3 Furniture and fixtures 3 to 5 Right-of-use assets Lease term, or asset life if shorter Leasehold improvements Lease term, or asset life if shorter Expenditures for repairs and maintenance are charged to expense as incurred, whereas major betterments are capitalized as additions to property and equipment.
+
+[VERBATIM — Infrastructure IA]
+During the year ended December 31, 2023, capitalized equipment decreased $ 6,551 due primarily to the disposal of the data center assets as a result of the Company's migration onto a cloud-based hosting platform. The disposal of the data center assets resulted in a $ 460 gain on sale in our U.S. Marketplace segment, recognized within other (expense) income, net on the consolidated income statements.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

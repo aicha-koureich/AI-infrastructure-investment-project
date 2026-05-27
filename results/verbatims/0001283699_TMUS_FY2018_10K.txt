@@ -1,0 +1,21 @@
+FIRM         : TMUS (CIK 0001283699) | FY2018
+FILE         : 0001283699_TMUS_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 5 – Property and Equipment
+ASSET CAT.   : network equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 10.0 ans | 12.0 ans
+
+[VERBATIM — Durée de vie]
+, respectively, as a result of adjustments to useful lives of network equipment expected to be replaced in connection with our network transformation and decommissioning the MetroPCS CDMA network and redundant network cell sites.
+
+[VERBATIM — Infrastructure IA]
+Property and equipment consists of buildings and equipment, wireless communication systems, leasehold improvements, capitalized software, leased wireless devices and construction in progress. Buildings and equipment include certain network server equipment. Wireless communication systems include assets to operate our wireless network and IT data centers, including tower assets and leasehold improvements, assets related to the liability for the retirement of long-lived assets and capital leases. Leasehold improvements include asset improvements other than those related to the wireless network.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| In August 2018, the FASB issued ASU 2018-15, “Intangibles - Goodwill and Other - Internal-Use Software (Topic 350): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract.” The standard aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The standard will become effective for us beginning January 1, 2020 and can be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. Early adoption is permitted for us at any time. We are currently evaluating the impact this guidance will have on our Consolidated Financial Statements and the timing of adoption. ||| In March 2017, we closed on an agreement with a third party for the exchange of certain AWS and PCS spectrum licenses. Upon closing of the transaction, we recorded the spectrum licenses received at their estimated fair value of approximately $123 million and recognized a gain of $37 million included in Gains on disposal of spectrum licenses in our Consolidated Statements of Comprehensive Income .

@@ -1,0 +1,20 @@
+FIRM         : MC (CIK 0001596967) | FY2019
+FILE         : 0001596967_MC_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-02-04
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Office equipment and furniture
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+—Office equipment and furniture and fixtures are stated at cost less accumulated depreciation, which is determined using the straight‑line method over the estimated useful lives of the assets, ranging from three to seven years, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued Accounting Standards Update No. 2018-15, “Goodwill and Other —Internal Use Software” (“ASU 2018-15”). ASU 2018-15 clarifies the appropriate accounting for implementation, setup, and other upfront costs for cloud computing service contracts. The amendment aligns the requirements for capitalizing implementation costs incurred in cloud computing arrangements with the requirements for capitalizing costs to develop or obtain internal-use software. ASU 2018-15 is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019. Early adoption is permitted. Upon initial evaluation, the Company expects to capitalize future implementation costs of certain cloud computing arrangements, but does not anticipate such amounts to be material to our consolidated financial statements.

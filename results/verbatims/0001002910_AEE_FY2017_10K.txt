@@ -1,0 +1,20 @@
+FIRM         : AEE (CIK 0001002910) | FY2017
+FILE         : 0001002910_AEE_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 3
+ASSET CAT.   : Capitalized software, Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are classified within “Property, Plant, and Equipment, Net” on the balance sheet and are amortized on a straight-line basis over the expected period of benefit, ranging from
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

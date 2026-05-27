@@ -1,0 +1,23 @@
+FIRM         : ALB (CIK 0000915913) | FY2022
+FILE         : 0000915913_ALB_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1—Summary of Significant Accounting Policies:
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment include costs of assets constructed, purchased or leased under a finance lease, related delivery and installation costs and interest incurred on significant capital projects during their construction periods. Expenditures for renewals and betterments also are capitalized, but expenditures for normal repairs and maintenance are expensed as incurred. Costs associated with yearly planned major maintenance are generally deferred and amortized over 12 months or until the same major maintenance activities must be repeated, whichever is shorter. The cost and accumulated depreciation applicable to assets retired or sold are removed from the respective accounts, and gains or losses thereon are included in income.
+
+[VERBATIM — Changement de politique]
+We incur costs in resource exploration, evaluation and development during the different phases of our resource development projects. Exploration costs incurred before the declaration of proven and probable resources are generally expensed as incurred. After proven and probable resources are declared, exploration, evaluation and development costs necessary to bring the property to commercial capacity or increase the capacity or useful life are capitalized. Any costs to maintain the production capacity in a property under production are expensed as incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : AVNT (CIK 0001122976) | FY2017
+FILE         : 0001122976_AVNT_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 16 — SUBSEQUENT EVENTS
+ASSET CAT.   : buildings
+DURÉE        : 40.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+machinery and equipment and up to 40 years for buildings. Software is amortized over periods not exceeding 10 years. Property, plant and equipment is generally depreciated on accelerated methods for income tax purposes.
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment is generally depreciated on accelerated methods for income tax purposes.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

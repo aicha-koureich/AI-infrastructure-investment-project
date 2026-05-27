@@ -1,0 +1,21 @@
+FIRM         : TISI (CIK 0000318833) | FY2024
+FILE         : 0000318833_TISI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 11 - Debt
+ASSET CAT.   : equipment
+DURÉE        : 2.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 2.0-10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Classification Useful Life Buildings 20-40 years Enterprise Resource Planning (“ERP”) System 15 years Leasehold improvements 2-20 years Machinery and equipment 2-20 years Furniture and fixtures 2-10 years Computers and computer software 2-5 years Automobiles 2-5 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud-based software arrangements. The costs incurred to implement cloud computing arrangements hosted by third party vendors are capitalized when incurred during the application development phase and recognized as Prepaid expenses and other current assets for the current portion or Other assets for the long-term portion. Implementation costs are subsequently amortized on a straight-line basis over the expected term of the related cloud service, beginning on the date the related software or module is ready for its intended use. The amortization of cloud-based software implementation costs is recorded as a component of Selling, general, and administrative expenses, the same line item as the expense for the associated hosting arrangement. The carrying value of cloud computing implementation costs are tested for impairment when an event or circumstance indicates that the asset might be impaired. Cloud computing arrangement implementation costs are classified within operating activities in the consolidated statements of cash flows. ||| The costs incurred to implement cloud computing arrangements hosted by third party vendors are capitalized when incurred during the application development phase and recognized as Prepaid expenses and other current assets for the current portion or Other assets for the long-term portion. Implementation costs are subsequently amortized on a straight-line basis over the expected term of the related cloud service, beginning on the date the related software or module is ready for its intended use. The amortization of cloud-based software implementation costs is recorded as a component of Selling, general, and administrative expenses, the same line item as the expense for the associated hosting arrangement. The carrying value of cloud computing implementation costs are tested for impairment when an event or circumstance indicates that the asset might be impaired. Cloud computing arrangement implementation costs are classified within operating activities in the consolidated statements of cash flows.

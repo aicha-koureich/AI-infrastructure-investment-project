@@ -1,0 +1,28 @@
+FIRM         : ABR (CIK 0001253986) | FY2016
+FILE         : 0001253986_ABR_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+In
+the fourth quarter of 2016, we revised the assumption used in determining amortization periods on the MSR portfolio we acquired in connection with the Acquisition in the third quarter
+of 2016. This change in estimate resulted in an increase in our quarterly MSR amortization, which is included in servicing revenue, net in our consolidated statements of income. The effect of this
+non-cash change was a reduction in our net income of approximately $3.4 million, or $0.07 per diluted share, for 2016. Excluding the addition of new MSRs in future periods, we expect this
+change in estimate to reduce net income by approximately $1.4 million for the first quarter of 2017, with the impact of this change
+decreasing in future reporting periods as loans mature and repay over the weighted average estimated life remaining.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

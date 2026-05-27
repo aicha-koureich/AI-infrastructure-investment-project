@@ -1,0 +1,20 @@
+FIRM         : XNCR (CIK 0001326732) | FY2019
+FILE         : 0001326732_XNCR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-02-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost and depreciated using the straight-line method over the estimated useful lives of the assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles – Goodwill and Other – Internal Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract , which aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). The accounting for the service element of a hosting arrangement that is a service contract is not affected by the amendment. The amendment is effective for annual periods, including interim periods within those annual periods, beginning after December 15, 2019. The Company does not anticipate that the standard will have a significant impact on its financial statements.

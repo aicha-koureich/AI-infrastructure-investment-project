@@ -1,0 +1,20 @@
+FIRM         : APG (CIK 0001796209) | FY2024
+FILE         : 0001796209_APG_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : information technology, equipment
+DURÉE        : 1.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+rates over similar terms. These rates are assessed on a quarterly basis for measurement of new lease obligations. The operating lease assets are calculated based on the value of the lease liability plus prepaid rental payments less lease incentives that the Company expects to receive. Leases with an initial term of less than one year are not recorded on the Company’s consolidated balance sheets. Operating lease expense is recognized on a straight-line basis over the lease term. Many leases include one or more options to renew, with renewal terms that can extend the lease term for several years. The exercise of lease renewal options is generally at the Company’s sole discretion. Certain leases also include options to purchase the leased assets. The Company's lease terms include these renewal or purchase options when it is reasonably certain that those options will be exercised. The depreciable life of assets and leasehold improvements are limited by the expected lease term, unless there is a transfer of title or purchase option reasonably certain of exercise. The Company’s lease agreements contain lease and non-lease components, which are accounted for as a single lease component for all asset classes except for certain asset classes within its information technology arrangements. Operating lease right-of-use assets are reported as separate lines in the consolidated balance sheets. Finance leases are generally those leases that allow the Company to substantially utilize or pay for the entire asset over its estimated life. For finance leases, the Company recognizes more expense in the initial years of total lease expense recognition due to the accretion of the lease liability and the straight-line amortization of the leased asset. Assets acquired under finance leases are recorded in property and equipment, net.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : DECK (CIK 0000910521) | FY2016
+FILE         : 0000910521_DECK_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 12. Reportable Operating Segments
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The wholesale operations of each brand are managed separately because each requires different marketing, research and development, design, sourcing, and sales strategies. The income (loss) from operations for each of the reportable operating segments includes only those costs which are specifically related to each reportable operating segment, which consist primarily of cost of sales, costs for research and development, design, sales and marketing, depreciation, amortization, and the costs of employees and their respective expenses that are directly related to each reportable operating segment. The unallocated corporate overhead costs include: costs of the distribution centers, certain executive and stock-based compensation, accounting and finance, legal, information technology, human resources, and facilities costs, among others.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

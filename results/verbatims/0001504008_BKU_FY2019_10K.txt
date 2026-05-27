@@ -1,0 +1,20 @@
+FIRM         : BKU (CIK 0001504008) | FY2019
+FILE         : 0001504008_BKU_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 17 Quarterly Financial Information (Unaudited)
+ASSET CAT.   : Furniture, equipment, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+2019 2018 Buildings and improvements $ — $ 7,938 Leasehold improvements 72,627 69,651 Furniture, fixtures and equipment 36,492 36,581 Computer equipment 22,729 22,218 Software and software licensing rights 57,687 47,727 Aircraft and automobiles 11,593 11,614 Capitalized implementation costs of CCA 1,881 805 203,009 196,534 Less: accumulated depreciation (144,905 ) (130,702 ) Premises, equipment and software, net $ 58,104 $ 65,832 Buildings held for sale, net $ 6,789 $ —
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

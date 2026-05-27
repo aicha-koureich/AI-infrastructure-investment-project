@@ -1,0 +1,25 @@
+FIRM         : ACIW (CIK 0000935036) | FY2013
+FILE         : 0000935036_ACIW_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Total operating expenses for the year ended December 31, 2012 increased $193.3 million, or 48.5%, as compared to the same
+period of 2011. Included in operating expenses for the year ended December 31, 2012 were approximately $159.0 million of operating expenses related to the addition of S1. Additionally, there were approximately $31.5 million and $6.7 million of
+significant transaction related expenses incurred in the year ended December 31, 2012, and December 31, 2011, respectively. Included in the $31.5 million of significant transaction related expenses for the year ended December 31, 2012
+were $14.2 million of severance expense and accelerated share-based compensation expense, $4.1 million related to investment banking fees, $5.4 million related to IT outsource termination charges and data center relocations, $4.9 million related to
+facility termination charges and $2.9 million of additional professional fees related to the acquisition of S1. Excluding these expenses, total operating expenses increased $9.5 million in the year ended December 31, 2012 compared to the same
+period in 2011.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

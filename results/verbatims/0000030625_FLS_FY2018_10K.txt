@@ -1,0 +1,20 @@
+FIRM         : FLS (CIK 0000030625) | FY2018
+FILE         : 0000030625_FLS_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2018
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Machinery, equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2018 2017 (Amounts in thousands) Land $ 72,701 $ 84,551 Buildings and improvements 441,006 470,354 Machinery, equipment and tooling 634,838 682,316 Software, furniture and fixtures and other 418,185 402,608 Gross property, plant and equipment(1) 1,566,730 1,639,829 Less: accumulated depreciation (956,634 ) (968,033 ) Property, plant and equipment, net $ 610,096 $ 671,796
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, "Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract." The ASU addresses how entities should account for costs associated with implementing a cloud computing arrangement that is considered a service contract. Per the amendments of the ASU, implementation costs incurred in a cloud computing arrangement that is a service contract should be accounted for in the same manner as implementation costs incurred to develop or obtain software for internal use as prescribed by guidance in ASC350-40. The ASU requires that implementation costs incurred in a cloud computing arrangement be capitalized rather than expensed. Further, the ASU specifies the method for the amortization of costs incurred during implementation, and the manner in which the unamortized portion of these capitalized implementation costs should be evaluated for impairment. The ASU also provides guidance on how to present such implementation costs in the financial statements and also creates additional disclosure requirements. The amendments are effective for fiscal years beginning after December 15, 2019, including interim periods. Early adoption of the ASU requirements is permitted, including adoption in any interim period. The amendments in this ASU should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. We are currently evaluating the impact of ASU No. 2018-15 on our consolidated financial condition and results of operations.

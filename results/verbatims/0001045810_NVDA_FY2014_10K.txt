@@ -1,0 +1,20 @@
+FIRM         : NVDA (CIK 0001045810) | FY2014
+FILE         : 0001045810_NVDA_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 25, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Cash provided by operating activities increased in fiscal year 2015 compared to fiscal year 2014 primarily due to higher net income from revenue growth and contained operating expenses, partially offset by an increase in inventories resulting from the introduction of newly launched Maxwell-based GPUs and certain Tegra SOCs and SHIELD devices, and an increase in accounts receivable. Cash provided by operating activities increased slightly in fiscal year 2014 compared to fiscal year 2013 primarily due to a decrease in operating assets offset by a decrease in net income. The decrease in operating assets was driven mainly by a combination of a decrease in accounts receivable, resulting from strong collections and linear monthly shipments in the fourth quarter of fiscal year 2014, and a decrease in inventories.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

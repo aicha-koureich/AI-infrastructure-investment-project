@@ -1,0 +1,20 @@
+FIRM         : ZTS (CIK 0001555280) | FY2018
+FILE         : 0001555280_ZTS_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4. Revenue
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense for capitalized software was $
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August, 2018, the FASB issued an accounting standards update which expands the scope of costs associated with cloud computing arrangements that must be capitalized. Under the new guidance, costs associated with implementing a cloud computing arrangement that is a service contract must be capitalized and expensed over the term of the hosting arrangement. The provisions of the update are effective beginning January 1, 2020 for interim and annual periods with early adoption permitted for any interim period after issuance of the update. We are currently assessing the timing of our adoption as well as the potential impact that the standard will have on our consolidated financial statements.

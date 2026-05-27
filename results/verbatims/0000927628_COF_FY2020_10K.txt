@@ -1,0 +1,21 @@
+FIRM         : COF (CIK 0000927628) | FY2020
+FILE         : 0000927628_COF_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 20—RELATED PARTY TRANSACTIONS
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Premises and equipment, including leasehold improvements, are carried at cost less accumulated depreciation and amortization. Useful lives for premises and equipment are estimated as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

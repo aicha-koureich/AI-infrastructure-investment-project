@@ -1,0 +1,20 @@
+FIRM         : SR (CIK 0001126956) | FY2017
+FILE         : 0001126956_SR_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 14
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Costs related to software developed or obtained for internal use are capitalized and amortized on a straight-line basis over the estimated useful life of the related software. If software is retired prior to being fully amortized, the difference is recorded as a loss in the income statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

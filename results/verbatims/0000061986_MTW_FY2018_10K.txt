@@ -1,0 +1,20 @@
+FIRM         : MTW (CIK 0000061986) | FY2018
+FILE         : 0000061986_MTW_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+In the ordinary course of business, we collect and store sensitive data and information, including our proprietary and regulated business information and that of our customers, suppliers and business partners, as well as personally identifiable information about our employees. We depend on our information systems to successfully manage our business. We have taken steps to maintain adequate data security by implementing security technologies, internal controls, and network and data center resiliency and recovery processes. However, any inability to successfully manage these systems, including matters related to  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

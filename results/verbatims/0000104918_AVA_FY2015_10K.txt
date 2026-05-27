@@ -1,0 +1,20 @@
+FIRM         : AVA (CIK 0000104918) | FY2015
+FILE         : 0000104918_AVA_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05, "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement." This ASU provides guidance on how organizations should account for fees paid in a cloud computing arrangement, including helping organizations understand whether their arrangement includes a software license. If the arrangement includes a software license, the software license would be accounted for in a manner consistent with internal-use software. If a cloud-computing arrangement does not include a software license, the customer is required to account for the arrangement as a service contract. This ASU is effective for periods beginning on or after December 15, 2015; however, early adoption is permitted. The Company evaluated this standard and determined that it will not early adopt this standard. Upon adoption, an entity can elect to apply this ASU prospectively or retroactively and disclose the method selected. The Company is evaluating this standard and cannot, at this time, estimate the potential impact on its future financial condition, results of operations and cash flows.

@@ -1,0 +1,21 @@
+FIRM         : MTCH (CIK 0000891103) | FY2024
+FILE         : 0000891103_MTCH_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-21
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2—SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 2.0-3.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-3.0 ans | 5.0 ans | 6.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Asset Category Estimated Useful Lives Buildings and building improvements 10 to 39 years Computer equipment and capitalized software 2 to 3 years Furniture and other equipment 5 years Leasehold improvements 6 to 10 years
+
+[VERBATIM — Infrastructure IA]
+The Company leases office space, data center facilities, and equipment used in connection with its operations under various operating leases, many of which contain escalation clauses.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

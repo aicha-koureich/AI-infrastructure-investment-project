@@ -1,0 +1,20 @@
+FIRM         : DORM (CIK 0000868780) | FY2020
+FILE         : 0000868780_DORM_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-26
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 15. Business Segments
+ASSET CAT.   : Machinery, equipment, Furniture, computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(in thousands) December 26, 2020 December 28, 2019 Buildings $ 37,676 $ 37,513 Machinery, equipment and tooling 131,853 126,663 Furniture, fixtures and leasehold improvements 5,468 5,308 Software and computer equipment 84,922 80,397 Total 259,919 249,881 Less-accumulated depreciation and amortization (168,910 ) (148,044 ) Property, plant and equipment, net $ 91,009 $ 101,837
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

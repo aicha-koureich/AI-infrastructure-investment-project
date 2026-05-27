@@ -1,0 +1,26 @@
+FIRM         : VZ (CIK 0000732712) | FY2014
+FILE         : 0000732712_VZ_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Our inability to operate our wireline or wireless networks as a result of cyber attacks, even for a limited
+period of time, may result in significant expenses and/or loss of market share to other communications providers. The costs associated with a major cyber attack on Verizon could include expensive incentives offered to existing customers and business
+partners to retain their business, increased expenditures on cyber security measures and the use of alternate resources, lost revenues from business interruption and litigation. The potential costs associated with these attacks could exceed the
+insurance coverage we maintain. Further, certain of Verizon’s businesses, such as those offering security solutions and infrastructure and cloud services to business customers, could be negatively affected if our ability to protect our own
+networks and systems is called into question as a result of a cyber attack. In addition, if we fail to prevent the theft of valuable information such as financial data, sensitive information about Verizon and intellectual property, or if we fail to
+protect the privacy of customer and employee confidential data against cyber attacks, it could result in damage to our reputation, which could adversely impact customer and investor confidence. Any of these occurrences could result in a material
+adverse effect on our results of operations and financial condition.

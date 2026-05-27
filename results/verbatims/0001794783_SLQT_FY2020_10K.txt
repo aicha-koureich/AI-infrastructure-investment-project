@@ -1,0 +1,21 @@
+FIRM         : SLQT (CIK 0001794783) | FY2020
+FILE         : 0001794783_SLQT_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Computer hardware
+DURÉE        : 3.0-4.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Computer hardware 3 years Equipment 3–4 years Leasehold improvements Shorter of lease period or useful life Furniture and fixtures 7 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

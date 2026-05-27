@@ -1,0 +1,20 @@
+FIRM         : LQDT (CIK 0001235468) | FY2017
+FILE         : 0001235468_LQDT_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2017
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement ||| . ASU 2015-5 provides guidance regarding whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, the software license element of the arrangement must be accounted for in a manner consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the arrangement must be accounted for as a service contract. ASU 2015-5 does not change the accounting for service contracts. ASU 2015-5 is effective for fiscal years, including interim periods within those fiscal years, beginning after December 15, 2015. We adopted this standard beginning in fiscal year 2017, and it had no impact on our financial statements. ||| In April 2015, the FASB issued ASU 2015-5, " Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement . ASU 2015-5 provides guidance regarding whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, the software license element of the arrangement must be accounted for in a manner consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the arrangement must be accounted for as a service contract. ASU 2015-5 does not change the accounting for service contracts. ASU 2015-5 is effective for fiscal years, including interim periods within those fiscal years, beginning after December 15, 2015. We adopted this standard beginning in fiscal year 2017, and it had no impact on our financial statements.

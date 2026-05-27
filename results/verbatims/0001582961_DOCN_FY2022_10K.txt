@@ -1,0 +1,21 @@
+FIRM         : DOCN (CIK 0001582961) | FY2022
+FILE         : 0001582961_DOCN_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment Category Useful Life Computers and equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment is stated at cost, net of accumulated depreciation. Depreciation on property and equipment is calculated using the straight-line method over the estimated useful lives of the assets and is included in depreciation and amortization expense in the Consolidated Statements of Operations. The estimated useful lives of property and equipment are as follows: Property and Equipment Category Useful Life Computers and equipment 5 years Furniture and fixtures 5 years Leasehold improvements Lesser of lease term or remaining useful life Internal-use software 3 years
+
+[VERBATIM — Infrastructure IA]
+Lease expenses for lease payments under operating leases are recognized on a straight-line basis over the lease term. For leases with a term of 12 months or less (short-term leases), the Company elected to not recognize the ROU asset or lease liability and the lease payments are recognized in the Consolidated Statements of Operations on a straight-line basis over the lease term. The Company’s operating lease costs for colocation data center facilities are included in Cost of revenue in the Consolidated Statements of Operations and the operating lease costs for corporate offices are included in General and administrative expenses in the Consolidated Statements of Operations.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+DigitalOcean is a leading cloud computing platform offering on-demand infrastructure and platform tools for startups and small and medium-sized businesses (SMBs). We were founded with the guiding principle that the transformative benefits of the cloud should be easy to leverage, broadly accessible, reliable and affordable. Our platform simplifies cloud computing, enabling our customers to rapidly accelerate innovation and increase their productivity and agility. As of December 31, 2022, we had approximately 677,000 customers using our platform to build, deploy and scale applications, including approximately 129,000 customers paying between $50 and $500 per month (which we refer to as builders) and approximately 15,000 customers paying more than $500 per month (which we refer to as scalers). Our users include software engineers, researchers, data scientists, system administrators, students and hobbyists. Our customers use our platform across numerous industry verticals and for a wide range of use cases, such as web and mobile applications, ||| We offer mission-critical solutions across Infrastructure-as-a-Service (IaaS), including our Droplet virtual machines, storage and networking offerings; Platform-as-a-Service (PaaS), including our Managed Database and Managed Kubernetes offerings; and Software-as-a-Service (SaaS), including our Managed Hosting and Marketplace offerings. Improving the developer experience and increasing productivity are core to our mission. Our cloud platform was designed with simplicity in mind to ensure that startups and SMBs can spend less time managing their infrastructure and more time building innovative applications that drive business growth. Simplicity guides how we design and enhance our easy-to-use-interface, the core capabilities we offer our customers and our approach to predictable and transparent pricing for our solutions. In just minutes, developers can set up thousands of virtual machines, secure their projects, enable performance monitoring and scale up and down as needed. ||| We generate revenue from the usage of our cloud computing platform by our customers, including but not limited to compute, storage and networking services. We recognize revenue based on the customer utilization of these resources. Our pricing is consumption-based and billed monthly in arrears, making it easy for our customers to track usage on an ongoing basis and optimize their deployments.

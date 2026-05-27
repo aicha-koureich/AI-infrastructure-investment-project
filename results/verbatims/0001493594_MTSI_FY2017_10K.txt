@@ -1,0 +1,20 @@
+FIRM         : MTSI (CIK 0001493594) | FY2017
+FILE         : 0001493594_MTSI_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 27. SUBSEQUENT EVENTS
+ASSET CAT.   : Machinery and equipment, Computer equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Asset Classification Estimated Useful Life In Years Buildings and improvements 20 – 40 Machinery and equipment 2 – 7 Computer equipment and software 2 – 5 Furniture and fixtures 7 – 10 Leasehold improvements Shorter of useful life or term of lease
+
+[VERBATIM — Infrastructure IA]
+On January 26, 2017, we completed the acquisition of Applied Micro Circuits Corporation (AppliedMicro), a global provider of silicon solutions for next-generation cloud infrastructure and Cloud Data Centers, as well as connectivity products for edge, metro and long-haul communications equipment (the AppliedMicro Acquisition). We acquired AppliedMicro in order to expand our business in enterprise and Cloud Data Center applications. In connection with the AppliedMicro Acquisition, we acquired all of the outstanding common stock of AppliedMicro for total consideration of  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+rich services such as video on demand and cloud computing, the rapid adoption of cloud-based services and the migration to an application centric architecture, which we expect will drive adoption of higher speed, low latency optical and wireless links.

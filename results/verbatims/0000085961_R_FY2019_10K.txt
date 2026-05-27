@@ -1,0 +1,23 @@
+FIRM         : R (CIK 0000085961) | FY2019
+FILE         : 0000085961_R_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 27. Quarterly Information (unaudited)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We determined that certain lessor arrangements of revenue earning equipment historically accounted for as operating leases should have been accounted for as direct financing leases. Additionally, we evaluated our leases for classification and determined that certain lessee arrangements, primarily real estate leases, historically accounted for as operating leases should have been accounted for as capital leases. The prior period error was corrected by reducing "Lease & related maintenance and rental revenues" by approximately $19 million and $15 million during the years ended December 31, 2018 and 2017 , respectively. We also reduced depreciation expense (included in "Cost of lease & related maintenance and rental") by approximately $17 million and $14 million during the years ended December 31, 2018 and 2017 , respectively. We concluded these errors were not material to any of our previously issued consolidated financial statements.
+
+[VERBATIM — Changement de politique]
+At the end of the second quarter of 2019, we began to experience softening in used vehicle market conditions, which intensified through the third quarter of 2019 and we now expect to continue throughout 2020. In addition, our inventory of used vehicles that is expected to be made available for sale was higher than expected, which has and will impact the volume of used vehicle sales expected to be sold through our wholesale channels. Due to these dynamics and our updated outlook, management concluded that our residual value estimates likely exceeded the expected future values that would be realized upon the sale of power vehicles in our fleet. As a result, we changed the estimates of residual values for our revenue earning equipment in the third quarter of 2019 to reflect more recent multi-year trends and our outlook for the expected used vehicle market. The increase in depreciation expense, resulting from the change in estimate, reduced earnings from continuing operations before income taxes and net earnings by approximately $297 million and $219 million , respectively, in 2019 . This amount included accelerated depreciation of approximately $193 million related to lower residual value estimates of vehicles expected to be sold in the near-term and additional policy depreciation of $104 million . The effect of this change in estimate decreased our diluted earnings per share by $4.19 in 2019 .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| In August 2018, the FASB issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal Use Software (Topic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract , which addresses a customer’s accounting for implementation costs incurred in a cloud computing arrangement (CCA) that is a service contract. ASU 2018-15 aligns the accounting for costs incurred to implement a CCA that is a service arrangement with the guidance on capitalizing costs associated with developing or obtaining internal-use software. The standard is effective for fiscal years beginning after December 15, 2019, with early adoption permitted. Entities are permitted to apply either a retrospective or prospective approach to adopt the guidance. We are currently evaluating the impact of the adoption of this update on our consolidated financial position, results of operations, and cash flows. ||| which addresses a customer’s accounting for implementation costs incurred in a cloud computing arrangement (CCA) that is a service contract. ASU 2018-15 aligns the accounting for costs incurred to implement a CCA that is a service arrangement with the guidance on capitalizing costs associated with developing or obtaining internal-use software. The standard is effective for fiscal years beginning after December 15, 2019, with early adoption permitted. Entities are permitted to apply either a retrospective or prospective approach to adopt the guidance. We are currently evaluating the impact of the adoption of this update on our consolidated financial position, results of operations, and cash flows.

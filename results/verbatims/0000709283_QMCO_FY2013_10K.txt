@@ -1,0 +1,38 @@
+FIRM         : QMCO (CIK 0000709283) | FY2013
+FILE         : 0000709283_QMCO_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 3: SUMMARY OF
+SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are
+carried at cost, less accumulated depreciation and amortization, computed on a
+straight-line basis over the estimated useful lives of the assets as follows:
+
+[VERBATIM — Infrastructure IA]
+Our goals for fiscal 2014 were
+to continue to capitalize on market opportunities while balancing cash flow
+generation and operating profit against revenue growth associated with potential
+opportunities and go-to-market strategies, with an emphasis on delivering
+results that we expect to be more predictable going forward. In some cases, as
+was the case in the second through fourth quarters of fiscal 2014, this means we
+may generate lower overall revenue but more cash flow and profit in order to
+provide greater operating leverage for future revenue increases. Our revenue
+growth strategy in fiscal 2014 was focused on leveraging our StorNext and Lattus
+solutions to drive deeper into rich media and other vertical markets and
+extending the reach of these solutions into the data center and the cloud in
+addition to expanding relationships with our partners and gaining additional
+access to end users through existing and new channel partners. We continued our
+efforts to further leverage our tape automation and DXi expertise, our installed
+product base and our broad data protection product portfolio in order to gain
+market share in the data center.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

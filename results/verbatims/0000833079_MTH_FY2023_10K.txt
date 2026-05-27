@@ -1,0 +1,20 @@
+FIRM         : MTH (CIK 0000833079) | FY2023
+FILE         : 0000833079_MTH_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 — BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment, office equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+At December 31, 2023 and 2022, property and equipment, net consisted of the following (in thousands): At December 31, 2023 2022 Computer and office equipment $ 62,682 $ 66,027 Model home furnishings and capitalized sales office costs 60,043 57,229 Gross property and equipment 122,725 123,256 Accumulated depreciation (73,772) (84,621) Total $ 48,953 $ 38,635
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

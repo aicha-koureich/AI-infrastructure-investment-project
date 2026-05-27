@@ -1,0 +1,21 @@
+FIRM         : ROG (CIK 0000084748) | FY2024
+FILE         : 0000084748_ROG_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 14 – Supplemental Financial Information.
+ASSET CAT.   : computer software, capitalized software, equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+We amortize capitalized internal use software costs using the straight-line method over the estimated useful lives of the software, generally from three to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Additionally, we had a $6.0 million net balance as of December 31, 2024 related to our cloud computing arrangements, which was contained in “Other long-term assets” and “Other current assets” line items in the consolidated statements of financial position.

@@ -1,0 +1,23 @@
+FIRM         : ENS (CIK 0001289308) | FY2020
+FILE         : 0001289308_ENS_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-05-20
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. recognize revenue as the performance obligations are satisfied.
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment are recorded at cost and include expenditures that substantially increase the useful lives of the assets. Depreciation is provided using the straight-line method over the estimated useful lives of the assets as follows: 10 to 33 years for buildings and improvements and 3 to 15 years for machinery and equipment.
+
+[VERBATIM — Changement de politique]
+Property, plant, and equipment are recorded at cost and include expenditures that substantially increase the useful lives of the assets. Depreciation is provided using the straight-line method over the estimated useful lives of the assets as follows: 10 to 33 years for buildings and improvements and 3 to 15 years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+Net sales of our Energy Systems segment in fiscal 2021 increased $22.9 million, or 1.7%, compared to fiscal 2020. This increase was primarily due to a 2% increase from the NorthStar acquisition and a 1% increase in foreign currency translation impact partially offset by a 1% decrease in pricing. Continued strong demand in telecommunication and data center products has offset softness in demand for power supplies from broadband customers.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

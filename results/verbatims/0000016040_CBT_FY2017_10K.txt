@@ -1,0 +1,20 @@
+FIRM         : CBT (CIK 0000016040) | FY2017
+FILE         : 0000016040_CBT_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2017
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

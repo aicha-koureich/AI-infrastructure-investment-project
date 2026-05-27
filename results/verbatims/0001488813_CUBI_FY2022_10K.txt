@@ -1,0 +1,24 @@
+FIRM         : CUBI (CIK 0001488813) | FY2022
+FILE         : 0001488813_CUBI_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 10 – BANK PREMISES AND EQUIPMENT
+ASSET CAT.   : equipment, Furniture
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+The components of bank premises and equipment as of December 31, 2022 and 2021 were as follows: December 31, (amounts in thousands) Expected Useful Life 2022 2021 Leasehold improvements 3 to 25 years $ 13,514 $ 16,020 Furniture, fixtures and equipment 5 to 10 years 6,082 6,063 IT equipment 3 to 5 years 9,389 7,881 Automobiles 3 to 5 years 398 831 29,383 30,795 Accumulated depreciation and amortization (20,358) (21,905) Total $ 9,025 $ 8,890
+
+[VERBATIM — Changement de politique]
+Leased assets under operating leases are carried at amortized cost net of accumulated depreciation and any impairment charges. The depreciation expense of the leased assets is recognized on a straight-line basis over the contractual term of the leases up to their expected residual value. The expected residual value and, accordingly, the monthly depreciation expense, may change throughout the term of the lease. Operating lease rental income for leased assets is recognized in other non-interest income on a straight-line basis over the lease term. Customers periodically reviews its leased assets for impairment. An impairment loss is recognized if the carrying amount of the leased asset exceeds its fair value and is not recoverable. The carrying amount of leased assets is not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the lease payments and the estimated residual value upon the eventual disposition of the leased asset.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

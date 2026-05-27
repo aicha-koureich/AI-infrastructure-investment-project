@@ -1,0 +1,24 @@
+FIRM         : TDAY (CIK 0001579684) | FY2022
+FILE         : 0001579684_TDAY_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-09-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 — Summary of significant accounting policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment, software development costs and depreciation
+
+[VERBATIM — Changement de politique]
+The Company incurred accelerated depreciation, a component of Depreciation and amortization expense in the Consolidated statements of operations and comprehensive income (loss) related to the shortened useful life of assets due to the closing of print facilities and sale of property primarily at the Gannett Media segment, of $12.5 million , $15.3 million, and $49.6 million for the years ended December 31, 2022 , 2021, and 2020, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

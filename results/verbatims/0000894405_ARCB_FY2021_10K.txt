@@ -1,0 +1,23 @@
+FIRM         : ARCB (CIK 0000894405) | FY2021
+FILE         : 0000894405_ARCB_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-25
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Computer Software, capitalized software
+DURÉE        : 2.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+For financial reporting purposes, capitalized software costs are amortized by the straight-line method generally over 2 to 7 years .
+
+[VERBATIM — Changement de politique]
+State depreciation adjustments
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Computer Software for Internal Use, Including Web Site Development and Cloud Computing Costs: The Company capitalizes the costs of software acquired from third parties and qualifying internal computer software costs incurred during the application development stage, or during the implementation stage for cloud computing or hosting arrangements. Costs incurred in the preliminary project stage and postimplementation-operation stage, which includes maintenance and training costs, are expensed as incurred. For financial reporting purposes, capitalized software costs are amortized by the straight-line method generally over 2 to 7 years . Capitalized costs related to cloud computing and hosting arrangements are presented within prepaid expenses in the accompanying consolidated balance sheets. The amount of costs capitalized within any period is dependent on the nature of software development activities and projects in each period. ||| The Company capitalizes the costs of software acquired from third parties and qualifying internal computer software costs incurred during the application development stage, or during the implementation stage for cloud computing or hosting arrangements. Costs incurred in the preliminary project stage and postimplementation-operation stage, which includes maintenance and training costs, are expensed as incurred. For financial reporting purposes, capitalized software costs are amortized by the straight-line method generally over ||| . Capitalized costs related to cloud computing and hosting arrangements are presented within prepaid expenses in the accompanying consolidated balance sheets. The amount of costs capitalized within any period is dependent on the nature of software development activities and projects in each period.

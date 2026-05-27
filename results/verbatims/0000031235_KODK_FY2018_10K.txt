@@ -1,0 +1,23 @@
+FIRM         : KODK (CIK 0000031235) | FY2018
+FILE         : 0000031235_KODK_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are recorded at cost, net of accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+The remaining useful lives of long-lived assets are reviewed in connection with the assessment of recoverability of long-lived assets and the ongoing strategic review of the business and operations. If the review indicates that the remaining useful life of the long-lived asset has changed significantly, the depreciation on that asset is adjusted to facilitate full cost recovery over its revised estimated remaining useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract, which addresses how a customer should account for the costs of implementing a cloud computing service arrangement (also referred to as a “hosting arrangement”). Under ASU 2018-15, entities should account for costs associated with implementing a cloud computing arrangement that is considered a service contract in the same way as implementation costs associated with a software license; implementation costs incurred in the application development stage, such as costs for the cloud computing arrangement’s integration with on-premise software, coding, and configuration or customization, should be capitalized and amortized over the term of the cloud computing arrangement, including periods covered by certain renewal options. The ASU is effective in fiscal years beginning after December 15, 2019 (January 1, 2020 for Kodak) including interim periods within those fiscal years. Early adoption is permitted. The ASU should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. Kodak is currently evaluating the impact and will adopt the ASU prospectively January 1, 2020.

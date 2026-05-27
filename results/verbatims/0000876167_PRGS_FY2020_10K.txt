@@ -1,0 +1,21 @@
+FIRM         : PRGS (CIK 0000876167) | FY2020
+FILE         : 0000876167_PRGS_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-11-30
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1: Nature of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, computer equipment, furniture and fixtures
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Useful lives by major asset class are as follows: computer equipment and software, 3 to 7 years; buildings and improvements, 5 to 39 years; and furniture and fixtures, 5 to 7 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

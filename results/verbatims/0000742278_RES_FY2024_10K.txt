@@ -1,0 +1,21 @@
+FIRM         : RES (CIK 0000742278) | FY2024
+FILE         : 0000742278_RES_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2024
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1: Significant Accounting Policies
+ASSET CAT.   : software
+DURÉE        : 3.0-20.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, including software costs, are reported at cost less accumulated depreciation and amortization, which is provided on a straight-line basis over the estimated useful lives of the assets. Annual depreciation and amortization expenses are computed using the following useful lives: operating equipment, 3 to 20 years; buildings and leasehold improvements, 15 to 39 years or the life of the lease; furniture and fixtures, 5 to 7 years; software, 5 years; and vehicles, 3 to 5 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

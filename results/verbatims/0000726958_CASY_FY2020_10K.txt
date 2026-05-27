@@ -1,0 +1,20 @@
+FIRM         : CASY (CIK 0000726958) | FY2020
+FILE         : 0000726958_CASY_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-06-25
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : software implementation costs range from
+DURÉE        : 2.0-13.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+These costs are expensed on a straight-line basis within operating expenses over the contractual life of the contract with the related software provider. The useful lives utilized for capitalized software implementation costs range from 2-13 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. This standard provides guidance on accounting for costs of implementation activities performed in a cloud computing arrangement that is a service contract. The amendments in the update align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software and hosting arrangements that include an internal-use software license. The Company early adopted this guidance retrospectively, in the first quarter of fiscal 2019. The adoption did not have a material impact on our consolidated financial statements. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. ||| This standard provides guidance on accounting for costs of implementation activities performed in a cloud computing arrangement that is a service contract. The amendments in the update align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software and hosting arrangements that include an internal-use software license. The Company early adopted this guidance retrospectively, in the first quarter of fiscal 2019. The adoption did not have a material impact on our consolidated financial statements.

@@ -1,0 +1,20 @@
+FIRM         : DCH (CIK 0001062231) | FY2020
+FILE         : 0001062231_DCH_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Costs for tooling used to make products sold on long-term supply arrangements for which we have either title to the assets or the noncancelable right to use the assets during the term of the supply arrangement are capitalized in property, plant and equipment. Reimbursable costs for tooling assets for which our customer has title and we do not have a noncancelable right to use during the term of the supply arrangement, are recorded in accounts receivable in our consolidated balance sheets. The reimbursement for the customer-owned tooling is recorded as a reduction of accounts receivable upon collection. Capitalized items and customer receipts in excess of tooling costs specifically related to a supply arrangement are amortized over the shorter of the term of the arrangement or over the estimated useful lives of the related assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+On August 15, 2018, the Financial Accounting Standards Board (FASB) issued Accounting Standard Update (ASU) 2018-15 - Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract (Topic 350-40). ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a cloud computing or hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. This guidance became effective at the beginning of our 2020 fiscal year and we adopted this guidance prospectively on January 1, 2020. The adoption of this standard did not have a material impact on our consolidated financial statements. ||| Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract (Topic 350-40). ||| ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a cloud computing or hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. This guidance became effective at the beginning of our 2020 fiscal year and we adopted this guidance prospectively on January 1, 2020. The adoption of this standard did not have a material impact on our consolidated financial statements.

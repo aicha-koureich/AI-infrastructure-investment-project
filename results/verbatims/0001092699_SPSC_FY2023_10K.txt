@@ -1,0 +1,23 @@
+FIRM         : SPSC (CIK 0001092699) | FY2023
+FILE         : 0001092699_SPSC_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Significant additions or improvements extending asset lives beyond one year are capitalized, while repairs and maintenance are charged to expense as incurred. The assets and related accumulated depreciation and amortization are adjusted for asset retirements and disposals with the resulting gain or loss included in our consolidated statements of comprehensive income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

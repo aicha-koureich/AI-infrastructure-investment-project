@@ -1,0 +1,20 @@
+FIRM         : ANET (CIK 0001596532) | FY2019
+FILE         : 0001596532_ANET_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 4. Financial Statements Details
+ASSET CAT.   : Equipment, machinery, Computer hardware, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2019 2018 Equipment and machinery $ 64,748 $ 55,912 Computer hardware and software 36,627 30,566 Furniture and fixtures 3,774 3,697 Leasehold improvements 31,235 36,447 Building — 35,154 Construction-in-process 265 3,591 Property and equipment, gross 136,649 165,367 Less: accumulated depreciation (97,376 ) (90,012 ) Property and equipment, net $ 39,273 $ 75,355
+
+[VERBATIM — Infrastructure IA]
+We lease various offices and data centers in North America, Europe, Asia and Australia under non-cancelable operating lease arrangements that expire on various dates through 2028 . Some of our leases include options to extend the term of such leases for a period from three months to up to 10 years and/or options to early terminate the leases. As of December 31, 2019 , we did not include any such options in determining the lease terms because we were not reasonably certain that we would exercise those options. Most of our leases require us to pay certain operating expenses in addition to base rent, such as taxes, repairs, and insurance, and contain renewal and escalation clauses.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

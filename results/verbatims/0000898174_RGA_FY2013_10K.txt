@@ -1,0 +1,20 @@
+FIRM         : RGA (CIK 0000898174) | FY2013
+FILE         : 0000898174_RGA_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+, the Company amortized computer software costs of
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

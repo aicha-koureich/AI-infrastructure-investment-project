@@ -1,0 +1,23 @@
+FIRM         : BLKB (CIK 0001280058) | FY2022
+FILE         : 0001280058_BLKB_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 17. Revenue Recognition
+ASSET CAT.   : capitalized software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Qualifying capitalized software and content development costs are amortized on a straight-line basis over the software asset's estimated useful life, which is generally 3 to 7 years. We write off the gross carrying amount and accumulated amortization balances for all fully amortized software and content development cost assets.
+
+[VERBATIM — Changement de politique]
+In October 2021, we made the decision to permanently close our fixed office locations (with the exception of our global headquarters facility in Charleston, South Carolina), effective in December 2021. This change was intended to align our real estate footprint with our transition to a remote-first workforce. We enter into arrangements for smaller more flexible workspaces where ne cessary. As a result, during the twelve months ended December 31, 2021, we reduced the estimated useful lives of our operating lease ROU assets for certain of our office locations we expected to exit. We recorded $5.3 million in incremental operating lease costs during 2021 related to this change in accounting estimate. For these same office locations, we also reduced the estimated useful lives of certain facilities-related fixed assets, which resulted in incremental depreciation expense of $1.7 million during 2021 (see Note 7 to these consolidated financial statements). During the twelve months ended December 31, 2021, we also recorded $3.6 million in impairments of op erating lease ROU assets associated with certain leased office spaces we have ceased using as a result of our adjusted workforce strategy. These impairment charges are reflected in general and administrative expense.
+
+[VERBATIM — Infrastructure IA]
+We are continuing to make critical investments in the business in areas such as digital marketing, engineering, security, customer success and our continued shift of cloud infrastructure to leading public cloud service providers. Our profitability during 2022 reflects the addition of EVERFI and some of these incremental investments.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Increases in amortization expense of capitalized cloud computing implementation costs and third-party contractor costs of $1.0 million and $0.6 million, respectively ||| + Increase in stock-based compensation costs of $13.2 million due to the factors discussed above on page 37 + Increase in compensation expense, excluding stock-based compensation costs, of $4.3 million due to base salary merit increases on July 2021, as well as an increase in headcount + Increase in corporate costs of $3.9 million primarily related to increases in third-party consulting fees and insurance costs, partially offset by decreases in bad debt expense + Increases in amortization expense of capitalized cloud computing implementation costs and third-party contractor costs of $1.0 million and $0.6 million, respectively - Decrease in real estate activity costs of $7.7 million due to our workforce strategy changes made in the third quarter of 2020 - Decrease in rent expense, net of allocated costs, of $2.4 million primarily related to the purchase of our global headquarters facility during the third quarter of 2020 and our exit of certain other office leases globally during the second half of 2020 in-line with changes to our workforce strategy at that time - Decreases in depreciation expense and travel costs of $1.9 million and $0.9 million, respectively ||| (2) Includes amortization expense related to software development costs and amortization expense from capitalized cloud computing implementation costs.

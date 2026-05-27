@@ -1,0 +1,20 @@
+FIRM         : AOS (CIK 0000091142) | FY2019
+FILE         : 0000091142_AOS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Organization and Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The estimated service lives used to compute depreciation are generally 25 to 50 years for buildings, three to 20 years for equipment and three to 15 years for software.
+
+[VERBATIM — Infrastructure IA]
+malicious insiders or breaches of security. We have a response plan in place in the event of a data breach and we continue to take steps to maintain and improve data security and address these risks and uncertainties by implementing and improving internal controls, security technologies, insurance programs, network and data center resiliency and recovery processes. However, any operations failure or breach of security from increasingly sophisticated cyber threats could lead to disruptions of our business activities, the loss or disclosure of both our and our customers’ financial, product and other confidential information and could result in regulatory actions and have a material adverse effect on our financial condition, results of operations and cash flows and our reputation.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

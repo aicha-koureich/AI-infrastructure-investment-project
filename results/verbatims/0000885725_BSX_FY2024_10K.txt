@@ -1,0 +1,23 @@
+FIRM         : BSX (CIK 0000885725) | FY2024
+FILE         : 0000885725_BSX_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-24
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment, furniture and fixtures
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We depreciate buildings over a maximum life of 40 years; building improvements over the remaining useful life of the building structure; equipment, furniture and fixtures over a three to seven year life; and leasehold improvements over the shorter of the useful life of the improvement or the term of the related lease.
+
+[VERBATIM — Changement de politique]
+In November 2024, the FASB issued ASC Update No. 2024-03 Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures . Update No. 2024-03 aims to improve transparency of expense disclosures to enhance investor understanding of an entity's performance and to assist in comparing an entity's performance over time and with that of other entities. Update No. 2024-03 modifies the disclosures over certain costs and expenses and requires entities to disclose (1) the amounts of purchases of inventory, employee compensation, depreciation, intangible asset amortization, and depletion, included in each relevant expense caption, (2) within the same disclosure, certain amounts that are already required to be disclosed under current GAAP, (3) a qualitative description of the amounts remaining in relevant expense captions that are not separately disaggregated quantitatively and (4) the total amount of selling expenses and, in annual reporting periods, an entity’s definition of selling expenses. The amendments in this Update are effective for annual reporting periods beginning after December 15, 2026, and interim reporting periods beginning after December 15, 2027. Update No. 2024-03 allows for early adoption and requires either prospective adoption to financial statements issued for reporting periods after the effective date, or retrospectively to any or all prior periods presented in the financial statements. We are currently assessing the impact of Update No. 2024-03 to our consolidated financial statement disclosures.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : BSY (CIK 0001031308) | FY2022
+FILE         : 0001031308_BSY_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-07
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;NVIDIA (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We enable infrastructure professionals and their organizations, by “going digital” through our software and cloud services offerings, to better design, build, and operate better infrastructure. We were founded in 1984 by the Bentley brothers and on September 25, 2020, we completed our IPO. ||| • Learning benefits, Azure‑based cloud collaboration services, and mobility advantages; and ||| Learning benefits, Azure‑based cloud collaboration services, and mobility advantages; and

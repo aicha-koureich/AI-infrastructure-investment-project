@@ -1,0 +1,20 @@
+FIRM         : CVLT (CIK 0001169561) | FY2014
+FILE         : 0001169561_CVLT_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 12. Selected Quarterly Financial Data (unaudited)
+ASSET CAT.   : servers, equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+March 31, 2015 2014 Land $ 9,445 $ — Buildings 102,880 — Computers, servers and other equipment 33,914 27,827 Furniture and fixtures 14,399 2,409 Leasehold improvements 4,621 8,911 Purchased software 2,463 2,291 Construction in process 619 79,182 168,341 120,620 Less: Accumulated depreciation and amortization (28,133 ) (31,719 ) $ 140,208 $ 88,901
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In February 2013, our CommVault Simpana 10.0 software suite (“Simpana 10”) was made available for public release. We believe Simpana 10 extends our data protection and archiving leadership to deliver secure, self-service access from mobile devices, speed the adoption of cloud computing and extract value from Big Data. Simpana 10 includes major technology advancements such as Enhanced IntelliSnap™ snapshot management; Simpana OnePass™ with Exchange; tighter integration with Microsoft Hyper-V, VMware vSphere 5.1 and vCloud Director 5.1; workflow automation; fourth-generation parallel

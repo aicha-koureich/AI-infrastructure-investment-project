@@ -1,0 +1,20 @@
+FIRM         : AMP (CIK 0000820027) | FY2020
+FILE         : 0000820027_AMP_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-39.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Land, buildings, equipment and internally developed or purchased software are carried at cost less accumulated depreciation or amortization and are reflected within other assets. As of December 31, 2020 and 2019, land, buildings, equipment and software were $602 million and $610 million, respectively, net of accumulated depreciation of $1.9 billion and $1.8 billion, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles – Goodwill and Other – Internal-Use Software – Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| In August 2018, the FASB updated the accounting standards related to customer’s accounting for implementation costs incurred in a cloud computing arrangement (“CCA”) that is a service contract. The update requires implementation costs for a CCA to be evaluated for capitalization using the same approach as implementation costs associated with internal-use software. The update also addresses presentation, measurement and impairment of capitalized implementation costs in a CCA that is a service contract. The update requires new disclosures on the nature of hosting arrangements that are service contracts, significant judgements made when applying the guidance and quantitative disclosures, including amounts capitalized, amortized and impaired. The update is effective for interim and annual periods beginning after December 15, 2019, and can be applied either prospectively or retrospectively. The Company adopted the standard using a prospective approach on January 1, 2020. The adoption of this update did not have a material impact on the Company’s consolidated results of operations or financial condition.

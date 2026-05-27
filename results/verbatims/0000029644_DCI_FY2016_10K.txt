@@ -1,0 +1,20 @@
+FIRM         : DCI (CIK 0000029644) | FY2016
+FILE         : 0000029644_DCI_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : July 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost. Additions, improvements or major renewals are capitalized while expenditures that do not enhance or extend the asset’s useful life are charged to expense as incurred. Depreciation is computed using the straight-line method. Depreciation expense was
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

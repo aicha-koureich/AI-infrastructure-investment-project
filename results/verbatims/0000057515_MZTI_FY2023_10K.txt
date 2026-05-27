@@ -1,0 +1,20 @@
+FIRM         : MZTI (CIK 0000057515) | FY2023
+FILE         : 0000057515_MZTI_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We capitalize certain costs related to hosting arrangements that are service contracts (cloud computing arrangements). Capitalized costs are included in Other Current Assets or Other Noncurrent Assets and are amortized on a straight-line basis over the estimated useful life. In 2022 and 2021, we capitalized $1.6 million and $3.5 million, respectively, of deferred software costs related to cloud computing arrangements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We capitalize certain costs related to hosting arrangements that are service contracts (cloud computing arrangements). Capitalized costs are included in Other Current Assets or Other Noncurrent Assets and are amortized on a straight-line basis over the estimated useful life. In 2022 and 2021, we capitalized $1.6 million and $3.5 million, respectively, of deferred software costs related to cloud computing arrangements.

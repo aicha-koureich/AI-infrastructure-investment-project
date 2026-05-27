@@ -1,0 +1,23 @@
+FIRM         : AVT (CIK 0000008858) | FY2024
+FILE         : 0000008858_AVT_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-06-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of significant accounting policie s
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation, amortization and useful lives — The Company reports property, plant, and equipment at cost, less accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+The components of income tax expense (“tax provision”) are included in the table below. The tax provision for deferred income taxes results from temporary differences arising primarily from net operating losses, inventories valuation, receivables valuation, suspended interest deductions, certain accrued amounts, and depreciation and amortization, net of any changes to valuation allowances.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

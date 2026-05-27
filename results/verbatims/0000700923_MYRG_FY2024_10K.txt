@@ -1,0 +1,20 @@
+FIRM         : MYRG (CIK 0000700923) | FY2024
+FILE         : 0000700923_MYRG_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 4. Lease Obligations
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2024 December 31, 2023 (in thousands) Classification on the Consolidated Balance Sheet Assets Operating lease right-of-use assets Operating lease right-of-use assets $ 42,648 $ 35,012 Finance lease right-of-use assets Property and equipment, net of accumulated depreciation 3,215 2,363 Total right-of-use lease assets $ 45,863 $ 37,375 Liabilities Current Operating lease obligations Current portion of operating lease obligations $ 12,141 $ 9,237 Finance lease obligations Current portion of finance lease obligations 1,046 2,039 Total current obligations 13,187 11,276 Non-current Operating lease obligations Operating lease obligations, net of current maturities 30,496 25,775 Finance lease obligations Finance lease obligations, net of current maturities 1,930 314 Total non-current obligations 32,426 26,089 Total lease obligations $ 45,613 $ 37,365
+
+[VERBATIM — Infrastructure IA]
+MYR Group Inc. (the “Company”) is a holding company of specialty electrical construction service providers conducting operations through wholly-owned subsidiaries. The Company performs construction services in two business segments: Transmission and Distribution (“T&D”) and Commercial and Industrial (“C&I”). T&D customers include investor-owned utilities, cooperatives, private developers, government-funded utilities, independent power producers, independent transmission companies, industrial facility owners and other contractors. T&D provides a broad range of services on electric transmission, distribution networks, substation facilities, clean energy projects and electric vehicle charging infrastructure. T&D services include design, engineering, procurement, construction, upgrade, maintenance and repair services. C&I customers include general contractors, commercial and industrial facility owners, government agencies and developers. C&I provides a broad range of services, which include design, installation, maintenance and repair of commercial and industrial wiring. Typical C&I contracts cover electrical contracting services for airports, hospitals, data centers, hotels, stadiums, commercial and industrial facilities, clean energy projects, manufacturing plants, processing facilities, water/waste-water treatment facilities, mining facilities, intelligent transportation systems, roadway lighting, signalization and electric vehicle charging infrastructure.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

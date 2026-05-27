@@ -1,0 +1,20 @@
+FIRM         : QLYS (CIK 0001107843) | FY2014
+FILE         : 0001107843_QLYS_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Cost of revenues consists primarily of personnel expenses, comprised of salaries, benefits, performance-based compensation and stock-based compensation, for employees who operate our data centers and provide support services to our customers. Other expenses include depreciation of data center equipment and physical scanner appliances and computer hardware provided to certain customers as part of their subscriptions, expenses related to the use of third-party data centers, amortization of third-party technology licensing fees and related maintenance support, fees paid to contractors who supplement or support our operations center personnel and overhead allocations. We expect to continue to make capital investments to expand and support our data center operations, which will increase the cost of revenues in absolute dollars.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In some limited cases, we also provide certain computer equipment used to extend our QualysGuard Cloud Platform into our customers’ private cloud environment.

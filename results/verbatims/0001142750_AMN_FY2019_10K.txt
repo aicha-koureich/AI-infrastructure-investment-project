@@ -1,0 +1,23 @@
+FIRM         : AMN (CIK 0001142750) | FY2019
+FILE         : 0001142750_AMN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : furniture, equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company records furniture, equipment, leasehold improvements and capitalized software at cost less accumulated amortization and depreciation.
+
+[VERBATIM — Changement de politique]
+During the third quarter of 2019, the Company shortened the estimated useful life for the tradenames and trademarks intangible asset as a result of its plan to rebrand the revenue cycle solutions business. Based on this change in circumstances since the date of acquisition, the Company determined that the remaining useful life of this asset was five years and began amortizing its remaining value on a straight-line basis over the remaining useful life.
+
+[VERBATIM — Infrastructure IA]
+The Company leases certain office facilities, data centers, and equipment under various operating leases. The Company’s short-term leases (with initial lease terms of 12 months or less) are primarily related to housing arrangements for healthcare professionals on assignment. Most leases include one or more options to renew, with renewal terms that can extend the lease term up to 10 years. Certain leases also include options to terminate the leases within 3 years.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, “Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.” The standard aligns the requirements for capitalizing implementation costs incurred in a cloud computing arrangement service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The new guidance requires the capitalized implementation costs to be recorded as an other asset and the related amortization of those costs to be recorded in operating expenses. This standard is effective on a prospective or retrospective basis for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019, with early adoption permitted. We have adopted this standard prospectively effective January 1, 2020 and do not expect the adoption to have a material impact on our consolidated financial statements.

@@ -1,0 +1,20 @@
+FIRM         : TRUP (CIK 0001371285) | FY2017
+FILE         : 0001371285_TRUP_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Nature of Operations and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment is recorded at cost and depreciated using the straight-line method over the estimated useful life of the respective asset, estimated to be between three and five years, once the asset is placed into service.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

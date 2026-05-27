@@ -1,0 +1,24 @@
+FIRM         : NSC (CIK 0000702165) | FY2020
+FILE         : 0000702165_NSC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 7. Properties
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : B100;B200;Hopper (3 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 6.0 ans
+
+[VERBATIM — Durée de vie]
+Accumulated Net Book Depreciation December 31, 2020 Cost Depreciation Value Rate (1) ($ in millions) Land $ 2,394 $ — $ 2,394 — Roadway: Rail and other track material 7,153 (1,892) 5,261 2.35 % Ties 5,685 (1,601) 4,084 3.41 % Ballast 2,973 (774) 2,199 2.76 % Construction in process 297 — 297 — Other roadway 14,320 (3,926) 10,394 2.71 % Total roadway 30,428 (8,193) 22,235 Equipment: Locomotives 5,478 (1,911) 3,567 3.56 % Freight cars 2,780 (1,023) 1,757 2.59 % Computers and software 732 (391) 341 9.86 % Construction in process 333 — 333 — Other equipment 1,094 (399) 695 4.70 % Total equipment 10,417 (3,724) 6,693 Other property 91 (68) 23 2.24 % Total properties $ 43,330 $ (11,985) $ 31,345
+
+[VERBATIM — Changement de politique]
+The following are the primary procedures we performed to address this critical audit matter. We applied auditor judgment to determine the nature and extent of procedures to be performed over capitalized property expenditures. We evaluated the design and tested the operating effectiveness of certain internal controls over the Company’s process to capitalize property expenditures, including controls over the determination of whether purchased services and compensation expenditures extend an asset’s useful life or increase its utility. For a sample of property addition expenditures, we inquired and inspected support to evaluate that the expenditure extended an asset’s useful life or increased its utility. We evaluated the sufficiency of audit evidence obtained by assessing the results of the procedures performed, including the appropriateness of the nature of such evidence.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

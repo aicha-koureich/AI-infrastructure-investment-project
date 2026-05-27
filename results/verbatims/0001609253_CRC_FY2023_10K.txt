@@ -1,0 +1,21 @@
+FIRM         : CRC (CIK 0001609253) | FY2023
+FILE         : 0001609253_CRC_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3 Investments and Related Party Transactions
+ASSET CAT.   : software and telecommunications equipment and up to 5 years for computer hardware
+DURÉE        : 1.0-4.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-4.0 ans | 4.0-10.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+We depreciated other property and equipment using the straight-line method based on expected useful lives of the individual assets or group of assets. The useful lives typically include ranges of 4-10 years for leasehold improvements, 1-4 years for software and telecommunications equipment and up to 5 years for computer hardware.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

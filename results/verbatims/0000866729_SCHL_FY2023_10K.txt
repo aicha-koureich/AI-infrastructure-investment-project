@@ -1,0 +1,21 @@
+FIRM         : SCHL (CIK 0000866729) | FY2023
+FILE         : 0000866729_SCHL_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : May 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF THE BUSINESS, BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment are depreciated over periods not exceeding
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software, net of accumulated amortization, was $62.7 and $60.3 at May 31, 2023 and 2022, respectively. Capitalized software is amortized over a period of three to ten years. Amortization expense for capitalized software was $25.3, $26.4 and $27.6 for the fiscal years ended May 31, 2023, 2022 and 2021, respectively. Furniture, fixtures and equipment are depreciated over periods not exceeding ten years. The Company evaluates the depreciation periods of property, plant and equipment to determine whether events or circumstances indicate that the asset’s carrying value is not recoverable or warrant revised estimates of useful lives.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Depreciation and amortization expenses for the fiscal year ended May 31, 2023 were $54.7 million, compared to $56.8 million in the prior fiscal year. The $2.1 million decrease primarily related to the Company's shift to cloud computing arrangements (e.g. software as a service) which resulted in capitalized software being amortized through Selling, general and administrative expenses rather than Depreciation and amortization. Amortization of capitalized cloud software increased $2.4 million when compared to the prior fiscal year which offset the decrease in Depreciation and amortization. Management expects Depreciation and amortization expense to increase as the Company's capitalized spending has and will continue to increase into the next fiscal year.

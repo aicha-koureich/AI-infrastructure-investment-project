@@ -1,0 +1,20 @@
+FIRM         : AMCX (CIK 0001514991) | FY2021
+FILE         : 0001514991_AMCX_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+(1) Selling, general and administrative excludes share-based compensation expenses and cloud computing amortization ||| Cloud computing amortization ||| Years Ended December 31, Change (In thousands) 2021 2020 2019 2021 vs. 2020 2020 vs. 2019 Revenues, net (14,325) (19,675) (30,845) (27.2) % (36.2) % Technical and operating (excluding depreciation and amortization) 21,526 29,256 24,415 (26.4) % 19.8 % Selling, general and administrative (1) (119,866) (119,649) (103,247) 0.2 % 15.9 % Segment adjusted operating income $ (112,665) $ (110,068) $ (109,677) 2.4 % 0.4 % (1) Selling, general and administrative excludes share-based compensation expenses and cloud computing amortization

@@ -1,0 +1,20 @@
+FIRM         : FOXA (CIK 0001754301) | FY2020
+FILE         : 0001754301_FOXA_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-08-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 3.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+In those cases where the Company determines that the estimated useful life of property, plant and equipment should be shortened, the Company depreciates the asset over its revised remaining useful life, thereby increasing depreciation expense.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, “Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract” (“ASU 2018-15”). The amendments in ASU 2018-15 require implementation costs incurred in a hosting arrangement that is a service contract to be capitalized using the same guidance for capitalizing implementation costs incurred to develop or obtain internal-use software. In addition, ASU 2018-15 provides guidance over the term to amortize the capitalized implementation costs and requires specific financial statement presentation and disclosures. ASU 2018-15 is effective for the Company beginning July 1, 2020 on a prospective basis. The Company does not expect the adoption of ASU 2018-15 to have a material impact on its financial statements.

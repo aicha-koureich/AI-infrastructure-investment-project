@@ -1,0 +1,21 @@
+FIRM         : ALGN (CIK 0001097149) | FY2020
+FILE         : 0001097149_ALGN_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 6 "Goodwill and Intangible Assets" of Notes to Consolidated Financial Statements
+ASSET CAT.   : equipment, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+These costs primarily include personnel-related costs, including payroll and stock-based compensation, equipment, material and maintenance costs, outside consulting expenses, depreciation and amortization expense and allocations of corporate overhead expenses including facilities and information technology (“IT”).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, “Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40) Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract,” to clarify the guidance on the costs of implementing a cloud computing hosting arrangement that is a service contract. Under the amendments in this update, the entity is required to follow the guidance in Subtopic 350-40, Internal-Use Software , to determine which implementation costs under the service contract to be capitalized as an asset and which costs to expense. The updated guidance is effective for fiscal years and interim periods within those years beginning after December 15, 2019 either on a retrospective or prospective basis. We adopted this standard in the first quarter of fiscal year 2020 on a prospective basis which did not have any impact on our consolidated financial statements and related disclosures. ||| “Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40) Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract,” ||| to clarify the guidance on the costs of implementing a cloud computing hosting arrangement that is a service contract. Under the amendments in this update, the entity is required to follow the guidance in Subtopic 350-40,

@@ -1,0 +1,20 @@
+FIRM         : ENPH (CIK 0001463101) | FY2019
+FILE         : 0001463101_ENPH_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Equipment, machinery, Furniture and fixtures, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful Life December 31, 2019 2018 (Years) (In thousands) Equipment and machinery 3-10 $ 48,114 $ 43,566 Furniture and fixtures 5-10 2,404 2,239 Computer equipment 3-5 1,698 2,958 Capitalized software costs 3-5 11,656 12,114 Leasehold improvements 3-10 8,713 8,482 Construction in process 8,446 3,536 Total 81,031 72,895 Less accumulated depreciation and amortization (52,095 ) (51,897 ) Property and equipment, net $ 28,936 $ 20,998
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, “Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract,” to reduce diversity in practice in accounting for the costs of implementing cloud computing arrangements that are service contracts. ASU 2018-15 allows entities to apply the guidance in the ASC 350-40, “Intangibles–Goodwill and Other–Internal-Use Software,” to determine which implementation costs are eligible to be capitalized as assets in a cloud computing arrangement that is considered a service contract. ASU 2018-15 is effective for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years. Early adoption is permitted, including adoption in any interim period. Entities have the option to apply the guidance prospectively to all implementation costs incurred after the date of adoption or retrospectively and are required to make certain disclosures in the interim and annual period of adoption. We will adopt the new standard effective January 1, 2020 and do not expect the adoption of this guidance to have a material impact on our consolidated financial statements.

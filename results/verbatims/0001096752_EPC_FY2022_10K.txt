@@ -1,0 +1,23 @@
+FIRM         : EPC (CIK 0001096752) | FY2022
+FILE         : 0001096752_EPC_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 - Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amortization expense associated with capitalized software was $4.7, $4.5, and $5.2 in fiscal 2022, 2021 and 2020, respectively.
+
+[VERBATIM — Changement de politique]
+Estimated useful lives range from two to 10 years for machinery and equipment and three to 30 years for buildings and building improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

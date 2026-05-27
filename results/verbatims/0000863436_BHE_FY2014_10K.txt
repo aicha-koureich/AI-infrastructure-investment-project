@@ -1,0 +1,52 @@
+FIRM         : BHE (CIK 0000863436) | FY2014
+FILE         : 0000863436_BHE_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note
+5—Goodwill and Other Intangible Assets
+ASSET CAT.   : Not disclosed
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of
+December 31, 2014 and 2013, purchased software, net of accumulated amortization
+totaled $2.7 million and $2.5 million,
+respectively. The accumulated amortization of purchased software costs at
+December 31, 2014 and 2013 was $26.6 million
+and $25.0 million, respectively. Capitalized
+purchased software costs are amortized straight-line over the estimated useful
+life of the related software, which ranges from 3 to 7 years.
+
+[VERBATIM — Changement de politique]
+All share-based payments to employees,
+including grants of employee stock options, are recognized in the financial
+statements based on their fair values. The total compensation cost recognized
+for stock-based awards was $6.4 million, $7.1 million and $6.3 million for 2014,
+2013 and 2012, respectively. The total income tax benefit recognized in the
+income statement for stock-based awards was $2.6 million, $2.6 million and
+$2.1 million for 2014, 2013 and 2012, respectively. The compensation
+expense for stock-based awards includes an estimate for forfeitures and is
+recognized over the vesting period of the awards using the straight-line
+method. Cash flows from the tax benefits resulting from tax deductions in excess
+of the compensation cost recognized for stock-based awards (excess tax
+benefits) are classified as cash flows from financing activities. Awards of
+restricted shares, restricted stock units and performance-based restricted
+stock units are valued at the closing market price of the Company’s common
+shares on the date of grant. For performance-based
+restricted stock units, compensation expense is based on the probability that
+the performance goals will be achieved, which is monitored by management
+throughout the requisite service period. If it becomes probable, based on the
+Company’s expectation of performance during the measurement period, that more
+or less than the previous estimate of the awarded shares will vest, an
+adjustment to stock-based compensation expense will be recognized as a change
+in accounting estimate.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

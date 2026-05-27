@@ -1,0 +1,20 @@
+FIRM         : DNUT (CIK 0001857154) | FY2024
+FILE         : 0001857154_DNUT_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-13
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 5 — Property and Equipment, net
+ASSET CAT.   : Machinery and equipment, Computer software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 29, 2024 December 31, 2023 Land $ 11,096 $ 12,115 Buildings 163,116 158,672 Leasehold improvements 243,358 285,012 Machinery and equipment 409,876 355,044 Computer software 95,086 90,019 Construction and projects in progress 34,215 42,816 Property and equipment, gross 956,747 943,678 Less: Accumulated depreciation (445,608) (405,458) Total property and equipment, net (1) $ 511,139 $ 538,220
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

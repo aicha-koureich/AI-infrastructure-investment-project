@@ -1,0 +1,20 @@
+FIRM         : ROK (CIK 0001024478) | FY2024
+FILE         : 0001024478_ROK_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Basis of Presentation and Accounting Policies
+ASSET CAT.   : computer hardware and internal-use software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We calculate depreciation of property using the straight-line method over 3 to 40 years for buildings and improvements, 3 to 20 years for machinery and equipment, and 3 to 10 years for computer hardware and internal-use software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Property, including internal-use software and software to provide a service (e.g. SaaS arrangements), is recorded at cost. Equipment under finance leases are stated at the present value of minimum lease payments. We calculate depreciation of property using the straight-line method over 3 to 40 years for buildings and improvements, 3 to 20 years for machinery and equipment, and 3 to 10 years for computer hardware and internal-use software. We capitalize significant renewals and enhancements and write off replaced units. Implementation costs incurred in a cloud computing arrangement that is a service contract are recorded in Other current assets and Other assets on the Consolidated Balance Sheet and are amortized over the expected service period. We expense maintenance and repairs, as well as renewals of minor amounts. Property acquired during the year that is accrued within Accounts payable or Other current liabilities at year end is considered to be a non-cash investing activity and is excluded from cash used for capital expenditures in the Consolidated Statement of Cash Flows. Capital expenditures of $42.4 million, $42.7 million, and $23.0 million were accrued within Accounts payable and Other current liabilities at September 30, 2024, 2023, and 2022, respectively. ||| We evaluate the recoverability of the recorded amount of long-lived assets, including property, operating lease right-of-use assets, capitalized implementation costs of a cloud computing arrangement, and other intangible assets, whenever events or changes in circumstances indicate that the recorded amount of an asset may not be fully recoverable. Impairment is assessed when the undiscounted expected future cash flows derived from an asset are less than its carrying amount. If we determine that an asset is impaired, we measure the impairment to be recognized as the amount by which the recorded amount of the asset exceeds its fair value. We report assets to be disposed of at the lower of the recorded amount or fair value less cost to sell. We determine fair value using a discounted future cash flow analysis.

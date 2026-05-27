@@ -1,0 +1,20 @@
+FIRM         : RMBS (CIK 0000917273) | FY2019
+FILE         : 0000917273_RMBS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+In 2019, we redefined our perimeter through the successful divestiture of our Payments and Ticketing businesses, which allowed us to focus the Company on providing leading solutions for the semiconductor market. The Rambus product and technology roadmap, as well as our go-to-market strategy, is driven by the application-specific requirements of our focus markets. This not only allows us to better serve our traditional data center and communications markets, but also to expand into new, fast-growing markets that demand the highest levels of performance and security, including automotive, artificial intelligence (AI), Internet of Things (IoT) and government.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

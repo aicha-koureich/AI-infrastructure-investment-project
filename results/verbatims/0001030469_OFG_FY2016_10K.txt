@@ -1,0 +1,44 @@
+FIRM         : OFG (CIK 0001030469) | FY2016
+FILE         : 0001030469_OFG_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 28
+ASSET CAT.   : Furniture and fixtures, Information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Useful Life December 31, (Years) 2016 2015 (In thousands) Land — $ 5,638 $ 5,638 Buildings and improvements 40 64,048 64,392 Leasehold improvements 5 — 10 20,414 20,166 Furniture and fixtures 3 — 7 14,479 13,656 Information technology and other 3 — 7 26,003 23,226 130,582 127,078 Less: accumulated depreciation and amortization (60,175) (52,488) $ 70,407 $ 74,590
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer's
+Accounting for Fees Paid in a Cloud Computing Arrangement. In April 2015, the FASB issued
+ASU No. 2015-05 which provides guidance to customers about whether a cloud
+computing arrangement includes a software license. If a cloud computing
+arrangement includes a software license, the customer should account for the
+software license element of the arrangement consistent with the acquisition of
+other software licenses. If a cloud computing arrangement does not include a
+software license, the customer should account for the arrangement as a service
+contract. The guidance will not change the customer's accounting for service
+contracts. ASU No. 2015-05 is effective for fiscal years, and interim periods,
+beginning after December 15, 2015 with early adoption permitted. The adoption
+of ASU No. 2015-05 on January 1, 2016 did not have a material impact on our
+consolidated financial statements and related disclosures. ||| Customer's
+Accounting for Fees Paid in a Cloud Computing Arrangement. ||| In April 2015, the FASB issued
+ASU No. 2015-05 which provides guidance to customers about whether a cloud
+computing arrangement includes a software license. If a cloud computing
+arrangement includes a software license, the customer should account for the
+software license element of the arrangement consistent with the acquisition of
+other software licenses. If a cloud computing arrangement does not include a
+software license, the customer should account for the arrangement as a service
+contract. The guidance will not change the customer's accounting for service
+contracts. ASU No. 2015-05 is effective for fiscal years, and interim periods,
+beginning after December 15, 2015 with early adoption permitted. The adoption
+of ASU No. 2015-05 on January 1, 2016 did not have a material impact on our
+consolidated financial statements and related disclosures.

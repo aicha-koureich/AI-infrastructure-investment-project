@@ -1,0 +1,22 @@
+FIRM         : LNTH (CIK 0001521036) | FY2015
+FILE         : 0001521036_LNTH_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs, net of accumulated amortization, were $9.1 million and $2.4 million at December 31, 2015
+and 2014, respectively. Amortization expense related to the capitalized software was $1.1 million, $0.7 million and $1.5 million for the years ended December 31, 2015, 2014 and 2013, respectively. Future amortization expense for all capitalized
+software placed in service as of December 31, 2015 is estimated to be $2.2 million, $2.0 million, $2.0 million, $1.7 million and $1.2 million for the years ending December 31, 2016, 2017, 2018, 2019 and 2020, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

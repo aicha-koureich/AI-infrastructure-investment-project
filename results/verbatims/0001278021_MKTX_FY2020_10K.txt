@@ -1,0 +1,20 @@
+FIRM         : MKTX (CIK 0001278021) | FY2020
+FILE         : 0001278021_MKTX_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 8. Capitalized Software, Furniture, Equipment and Leasehold Improvements
+ASSET CAT.   : Capitalized software, furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs, furniture, equipment and leasehold improvements, net of accumulated depreciation and amortization, are comprised of the following:
+
+[VERBATIM — Infrastructure IA]
+Technology and Communications. Technology and communications expense consists primarily of costs relating to maintenance on software and hardware, our internal network connections, data center hosting costs, data feeds provided by outside vendors or service providers and US treasuries licensing fees. The majority of our broker-dealer clients have dedicated high-speed communication lines to our network in order to provide fast data transfer. We charge our broker-dealer clients a monthly fee for these connections, which is recovered against the relevant expenses we incur.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2018-15, “Intangibles—Goodwill and Other—Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract” (“ASU 2018-15”). The standard requires the capitalization of implementation costs incurred in a cloud computing arrangement to be aligned with the requirements for capitalizing costs incurred to develop or obtain internal-use software. The Company adopted ASU 2018-15 effective July 1, 2019 on a prospective basis. Adoption of this guidance did not have a material impact on the Company’s Consolidated Financial Statements. ||| Cloud Computing Costs ||| The Company capitalizes certain costs associated with cloud computing arrangements, including, among other items, employee compensation and related benefits and third-party consulting costs that are part of the application development stage. These costs are setup as a prepaid asset on the balance sheet and are amortized over the period of the hosting service contract. The Company reviews the amounts capitalized for impairment whenever events or changes in circumstances indicate that the carrying amounts of the assets may not be recoverable.

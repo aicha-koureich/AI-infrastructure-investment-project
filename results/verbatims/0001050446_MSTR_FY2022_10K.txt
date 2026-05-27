@@ -1,0 +1,20 @@
+FIRM         : MSTR (CIK 0001050446) | FY2022
+FILE         : 0001050446_MSTR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Net cash provided by operating activities decreased $90.6 million during 2022, as compared to the prior year, due to a $934.3 million increase in net loss and a $47.7 million decrease from changes in operating assets and liabilities, partially offset by an $891.4 million increase in non-cash items (principally related to digital asset impairment losses and deferred taxes). In particular, we had a $23.0 million increase in interest payments, primarily with respect to the 2028 Senior Secured Notes and the 2025 Secured Term Loan, and a $15.0 million increase in income tax payments due primarily to decreased income tax benefits from a lower level of stock option exercises. We also had other increased payments, most notably those related to employee-related costs as we continued to invest in our workforce, and investment in our cloud infrastructure to support the growth in sales of subscription services. Additional transitions of customers from our perpetual license arrangements to our subscription services offerings has also negatively impacted our cash provided by operating activities in 2022 as compared to 2021 as invoicing for subscription services generally occurs over multiple years, whereas perpetual licenses are invoiced up-front.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

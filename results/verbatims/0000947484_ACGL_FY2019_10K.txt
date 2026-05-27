@@ -1,0 +1,23 @@
+FIRM         : ACGL (CIK 0000947484) | FY2019
+FILE         : 0000947484_ACGL_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+ASU 2018-15, “Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) ,” was issued in the 2018 third quarter. This ASU aligns the requirements for capitalizing certain implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The standard is effective for financial statements issued for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019, with early adoption permitted. The guidance provides flexibility in adoption, allowing for either retrospective adjustment or prospective adjustment for all implementation costs incurred after the date of adoption. The Company is currently evaluating the impact of the new guidance on the consolidated financial statements. The Company is currently evaluating the impact of the new guidance on its consolidated financial statements and does not expect this guidance to have a material effect on the Company’s consolidated financial statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15, “Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) ,” was issued in the 2018 third quarter. This ASU aligns the requirements for capitalizing certain implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The standard is effective for financial statements issued for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019, with early adoption permitted. The guidance provides flexibility in adoption, allowing for either retrospective adjustment or prospective adjustment for all implementation costs incurred after the date of adoption. The Company is currently evaluating the impact of the new guidance on the consolidated financial statements. The Company is currently evaluating the impact of the new guidance on its consolidated financial statements and does not expect this guidance to have a material effect on the Company’s consolidated financial statements. ||| ,” was issued in the 2018 third quarter. This ASU aligns the requirements for capitalizing certain implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software.

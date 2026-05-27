@@ -1,0 +1,20 @@
+FIRM         : VYX (CIK 0000070866) | FY2018
+FILE         : 0000070866_VYX_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 18. QUARTERLY INFORMATION (UNAUDITED)
+ASSET CAT.   : Capitalized Software
+DURÉE        : 4.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized Software Certain direct development costs associated with internal-use software are capitalized within other assets and amortized over the estimated useful lives of the resulting software. NCR typically amortizes capitalized internal-use software on a straight-line basis over four to seven years beginning when the asset is substantially ready for use, as this is considered to approximate the usage pattern of the software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued additional guidance for an accounting update that was issued in April 2015 related to accounting for implementation costs incurred in a cloud computing arrangement that is also a service contract. If a cloud computing arrangement also includes an internal-use software, an intangible asset is recognized and a liability is recognized for any payments related to the software license. However, if a cloud computing arrangement does not include a software license, the entity should account for the arrangement as a service contract and any fees associated with the service are expensed as incurred. The new standard is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019, with early adoption permitted. The impact of adopting this guidance is not expected to have a material impact on our consolidated financial statements.

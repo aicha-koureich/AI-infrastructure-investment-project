@@ -1,0 +1,21 @@
+FIRM         : PHIN (CIK 0001968915) | FY2024
+FILE         : 0001968915_PHIN_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+Costs for molds, dies and other tools used to make products sold on long-term supply arrangements for which the Company has title to the assets are capitalized in property, plant and equipment and amortized to cost of sales over the shorter of the term of the arrangement or over the estimated useful lives of the assets, typically three to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

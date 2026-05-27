@@ -1,0 +1,21 @@
+FIRM         : TNC (CIK 0000097134) | FY2024
+FILE         : 0000097134_TNC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Operations and Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Other property, plant and equipment are generally depreciated using the straight-line method based on lives of 3 years to 15 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements – We capitalize implementation costs incurred in cloud computing (i.e., hosting arrangements) during the application development phase, and depreciate the costs over the non-cancellable term of the cloud computing arrangements plus any optional renewal periods that are reasonably certain to be exercised or for which the exercise is controlled by the service provider. We classify the amortization of capitalized implementation costs in the same line item in the consolidated statements of income as the fees associated with the hosting service (i.e., operating and selling and administrative expense) and classify the related payments in the consolidated statements of cash flows in the same manner as payments made for fees associated with the hosting service (i.e. cash flows from operating activities). In addition, the capitalization of implementation costs is reflected in the consolidated balance sheets consistent with the location of prepayment of fees for the hosting element (i.e., within prepaid and other current assets). As of December 31, 2024 and 2023, there was $23.3 million and $0.2 million, respectively, recorded in prepaid and other current assets in the consolidated balance sheets. Amortization expense for the years ended December 31, 2024 and 2023 was not material. ||| Cloud Computing Arrangements ||| – We capitalize implementation costs incurred in cloud computing (i.e., hosting arrangements) during the application development phase, and depreciate the costs over the non-cancellable term of the cloud computing arrangements plus any optional renewal periods that are reasonably certain to be exercised or for which the exercise is controlled by the service provider. We classify the amortization of capitalized implementation costs in the same line item in the consolidated statements of income as the fees associated with the hosting service (i.e., operating and selling and administrative expense) and classify the related payments in the consolidated statements of cash flows in the same manner as payments made for fees associated with the hosting service (i.e. cash flows from operating activities). In addition, the capitalization of implementation costs is reflected in the consolidated balance sheets consistent with the location of prepayment of fees for the hosting element (i.e., within prepaid and other current assets). As of December 31, 2024 and 2023, there was $23.3 million and $0.2 million, respectively, recorded in prepaid and other current assets in the consolidated balance sheets. Amortization expense for the years ended December 31, 2024 and 2023 was not material.

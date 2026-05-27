@@ -1,0 +1,20 @@
+FIRM         : CPS (CIK 0001320461) | FY2024
+FILE         : 0001320461_CPS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Summary of Significant Accounting Policies Basis of Presentation
+ASSET CAT.   : equipment and amortized over the lesser of
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Pre-production Costs Related to Long Term Supply Arrangements – Costs for molds, dies and other tools owned by the Company to produce products under long-term supply arrangements are recorded at cost in property, plant and equipment and amortized over the lesser of three years or the term of the related supply agreement.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

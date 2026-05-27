@@ -1,0 +1,20 @@
+FIRM         : WOLF (CIK 0000895419) | FY2015
+FILE         : 0000895419_WOLF_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 28, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 19 – Quarterly Results of Operations - Unaudited
+ASSET CAT.   : Furniture and fixtures, Machinery and equipment, Computer hardware, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+June 28, 2015 June 29, 2014 Furniture and fixtures $12,525 $12,822 Land and buildings 367,519 355,044 Machinery and equipment 1,060,599 1,046,878 Aircraft and vehicles 10,489 16,292 Computer hardware/software 38,366 35,446 Leasehold improvements and other 6,698 18,890 Construction in progress 178,757 85,068 1,674,953 1,570,440 Accumulated depreciation (1,039,881 ) (964,727 ) Property and equipment, net $635,072 $605,713
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

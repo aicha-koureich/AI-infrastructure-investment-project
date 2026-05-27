@@ -1,0 +1,21 @@
+FIRM         : LSTR (CIK 0000853816) | FY2021
+FILE         : 0000853816_LSTR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-25
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 9. 801
+ASSET CAT.   : equipment, Information technology
+DURÉE        : 7.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 7.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Trailing equipment is being depreciated over 7 to 10 years. Information technology hardware and software is generally being depreciated over 3 to 7 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

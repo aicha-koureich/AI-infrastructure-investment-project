@@ -1,0 +1,20 @@
+FIRM         : EXEL (CIK 0000939767) | FY2016
+FILE         : 0000939767_EXEL_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 16. QUARTERLY FINANCIAL DATA (UNAUDITED)
+ASSET CAT.   : equipment, Computer equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2016 2015 Laboratory equipment $ 4,310 $ 4,749 Computer equipment and software 13,738 11,890 Furniture and fixtures 2,240 2,253 Leasehold improvements 6,646 6,395 Construction-in-progress 19 456 26,953 25,743 Less: accumulated depreciation and amortization (24,882 ) (24,309 ) Property and equipment, net $ 2,071 $ 1,434
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement, ||| ASU 2015-05 provides guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. ASU 2015-05 was effective for all interim and annual reporting periods beginning after December 15, 2015 and therefore we adopted ASU 2015-05 in 2016 on a prospective basis. The adoption of ASU 2015-05 did not have a material impact on our Consolidated Financial Statements during the period of adoption and is not expected to have a material effect on our Consolidated Financial Statements in future periods. ||| In April 2015, the FASB issued ASU No. 2015-05, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement, (“ASU 2015-05”) . ASU 2015-05 provides guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. ASU 2015-05 was effective for all interim and annual reporting periods beginning after December 15, 2015 and therefore we adopted ASU 2015-05 in 2016 on a prospective basis. The adoption of ASU 2015-05 did not have a material impact on our Consolidated Financial Statements during the period of adoption and is not expected to have a material effect on our Consolidated Financial Statements in future periods.

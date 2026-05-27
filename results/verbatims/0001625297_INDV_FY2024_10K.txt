@@ -1,0 +1,20 @@
+FIRM         : INDV (CIK 0001625297) | FY2024
+FILE         : 0001625297_INDV_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2027-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 13. Financial Instruments and Fair Value Measurements
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The estimated useful lives and residual value of property, plant and equipment are assessed periodically and adjusted as required.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

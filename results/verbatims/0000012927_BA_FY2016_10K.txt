@@ -1,0 +1,23 @@
+FIRM         : BA (CIK 0000012927) | FY2016
+FILE         : 0000012927_BA_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 22 - Quarterly Financial Data
+ASSET CAT.   : machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The principal methods of depreciation are as follows: buildings and land improvements, 150% declining balance; and machinery and equipment, sum-of-the-years’ digits. Capitalized internal use software is included in Other assets and amortized using the straight line method over
+
+[VERBATIM — Changement de politique]
+For operating leases, revenue on leased aircraft and equipment is recorded on a straight-line basis over the term of the lease.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

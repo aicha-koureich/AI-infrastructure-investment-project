@@ -1,0 +1,21 @@
+FIRM         : KLAC (CIK 0000319201) | FY2017
+FILE         : 0000319201_KLAC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1— DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 7.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost, net of accumulated depreciation. Depreciation of property and equipment is based on the straight-line method over the estimated useful lives of the assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the Financial Accounting Standards Board (“FASB”) issued an accounting standard update for customer’s cloud based fees. The guidance changes what a customer must consider in determining whether a cloud computing arrangement contains a software license. If the arrangement contains a software license, the customer would account for the fees related to the software license element in accordance with guidance related to internal use software; if the arrangement does not contain a software license, the customer would account for the arrangement as a service contract. The Company adopted this update beginning in the first quarter of its fiscal year ended June 30, 2017 on a prospective basis and there was no impact of adoption on its consolidated financial statements.

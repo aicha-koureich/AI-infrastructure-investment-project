@@ -1,0 +1,21 @@
+FIRM         : YOU (CIK 0001856314) | FY2021
+FILE         : 0001856314_YOU_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-03-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-10.0 ans | 3.0-5.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+During the application development phase, costs are capitalized and amortized on a straight-line basis over such software’s estimated useful life, which is generally 5 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the Financial Accounting Standards Board (“FASB”) issued updated guidance on accounting for implementation costs incurred in a cloud computing arrangement that is a service contract. The Company adopted this guidance as of January 1, 2021 and in accordance with the new guidance, applied it prospectively to implementation costs incurred after the adoption as allowed by the standard. The adoption did not have a material effect on the Company’s consolidated financial statements.

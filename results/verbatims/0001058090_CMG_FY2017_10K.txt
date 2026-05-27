@@ -1,0 +1,24 @@
+FIRM         : CMG (CIK 0001058090) | FY2017
+FILE         : 0001058090_CMG_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Leasehold improvements, property and equipment are recorded at cost. Internal costs directly associated with the acquisition, development and construction of a restaurant are capitalized and were $ 7,507 , $ 8,076 and $ 9,554 for the years ended December 31, 2017, 2016 and 2015, respectively. Expenditures for major renewals and improvements are capitalized while expenditures for minor replacements, maintenance and repairs are expensed as incurred. Depreciation is calculated using the straight-line method over the estimated useful lives of the assets. Leasehold improvements are amortized over the shorter of the lease term, which generally includes reasonably assured option periods, or the estimated useful lives of the assets. Upon retirement or disposal of assets, the accounts are relieved of cost and accumulated depreciation and any related gain or loss is reflected in loss on disposal and impairment of assets in the consolidated statement of income.
+
+[VERBATIM — Changement de politique]
+On December 22, 2017, the Tax Cuts and Jobs Act, ( the “TCJA”) was enacted . The TCJA includes a number of changes to existing U.S. tax laws that impact the Company, most notably a reduction of the U.S. corporate tax rate from 35% to 21% , for tax years beginning after December 31, 2017. We recorded a benefit of $6 ,0 47 ( $0. 21 per basic and diluted earnings per share) in deferred income tax expense for the remeasurement of our net deferred tax liability at the 21% tax rate . The TCJA also provides for acceleration of depreciation for certain assets placed into service after September 27, 2017, as well as prospective changes beginning in 2018, including additional limitations on deductibility of executive compensation and employee meal benefits.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

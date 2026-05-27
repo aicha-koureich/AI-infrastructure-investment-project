@@ -1,0 +1,20 @@
+FIRM         : CLW (CIK 0001441236) | FY2023
+FILE         : 0001441236_CLW_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-19
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 16
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+For The Years Ended December 31, (In millions) 2023 2022 2021 Operating activities Net income (loss) $ 107.7 $ 46.0 $ (28.1) Adjustments to reconcile net income (loss) to net cash flows provided by operating activities: Depreciation and amortization 98.6 103.3 105.0 Equity-based compensation expense 9.9 12.7 9.1 Deferred taxes (14.9) (7.9) (9.7) Defined benefit pension and other postretirement employee benefits (2.0) 3.0 7.2 Amortization of deferred debt costs and debt retirement 4.4 2.0 2.8 Loss on sale or impairment associated with assets 2.1 6.1 35.7 Changes in operating assets and liabilities: (Increase) decrease in accounts receivable (1.3) (16.9) (5.3) (Increase) decrease in inventories 4.0 (46.3) (20.2) (Increase) decrease in other current assets 0.8 (2.4) (1.7) Increase (decrease) in accounts payable and accrued liabilities (21.3) 49.2 1.9 Other, net 2.6 1.5 (0.2) Net cash flows provided by operating activities 190.7 150.2 96.4 Investing activities Additions to property, plant and equipment 1 (73.7) (33.5) (38.4) Net proceeds from divested assets — — 13.3 Net cash flows used in investing activities (73.7) (33.5) (25.1) Financing activities Borrowings on long-term debt 222.0 — — Repayments of long-term debt (325.6) (80.9) (81.0) Taxes paid related to net share settlement of equity awards (4.7) (2.5) (1.7) Repurchases of common stock (17.9) (5.0) — Payments for debt issuance costs (3.1) (0.9) — Other, net — 0.8 0.7 Net cash flows used in financing activities (129.4) (88.6) (82.0) Increase (decrease) in cash, cash equivalents and restricted cash (12.4) 28.2 (10.7) Cash, cash equivalents and restricted cash at beginning of period 54.4 26.2 36.9 Cash, cash equivalents and restricted cash at end of period $ 42.0 $ 54.4 $ 26.2 Supplemental disclosures of cash flow information Cash paid for interest, net of amounts capitalized $ 37.8 $ 33.0 $ 36.0 Cash (received) paid for income taxes $ 16.6 $ 43.0 $ (7.7)
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

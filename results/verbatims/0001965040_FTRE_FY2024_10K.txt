@@ -1,0 +1,21 @@
+FIRM         : FTRE (CIK 0001965040) | FY2024
+FILE         : 0001965040_FTRE_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 3.0-10.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+As a result, the Company reclassified $152.1 and $175.7 from direct costs, exclusive of depreciation and amortization, to selling, general and administrative expenses, exclusive of depreciation and amortization in the consolidated and combined statement of operations for the years ended December 31, 2023 and December 31,2022, respectively, relating to information technology costs and certain facility costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| The Company defers costs incurred with the implementation of a cloud computing arrangement that is a service contract, consistent with its policy for software developed or obtained for internal use. Deferred cloud computing arrangement implementation costs are amortized using the straight-line method over the remaining term of the related hosting contract. As of December 31, 2024 the Company has a current asset of $2.5 included in prepaid expenses and other and a non-current asset of $18.7 included in other assets, net in the consolidated balance sheets that have been deferred in conjunction with implementations. There were no deferred costs for cloud computing arrangements as of December 31, 2023.

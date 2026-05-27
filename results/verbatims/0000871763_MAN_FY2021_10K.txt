@@ -1,0 +1,20 @@
+FIRM         : MAN (CIK 0000871763) | FY2021
+FILE         : 0000871763_MAN_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-17
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Capitalized software, technology
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are amortized using the straight-line method over the estimated useful life of the software which ranges from 3 to 10 years. Amortization expense related to the capitalized software costs was $ 5.5 , $ 1.8 and $ 2.0 for 2021, 2020 and 2019, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

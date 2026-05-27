@@ -1,0 +1,21 @@
+FIRM         : KR (CIK 0000056873) | FY2016
+FILE         : 0000056873_KR_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 28, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. ACCOUNTING POLICIES The following is a summary of the significant accounting policies followed in preparing these financ
+ASSET CAT.   : equipment, Information technology
+DURÉE        : 3.0-9.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-9.0 ans | 3.0-15.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Food production plant and distribution center equipment is depreciated over lives varying from three to 15 years. Information technology assets are generally depreciated over five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : TBBK (CIK 0001295401) | FY2021
+FILE         : 0001295401_TBBK_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 6. Internal Use Software
+ASSET CAT.   : software, which is generally
+DURÉE        : 7.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amortization is provided using the straight-line method over the estimated useful life of the related software, which is generally seven years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

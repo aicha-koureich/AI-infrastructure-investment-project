@@ -1,0 +1,21 @@
+FIRM         : STBA (CIK 0000719220) | FY2019
+FILE         : 0000719220_STBA_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES -- continued
+ASSET CAT.   : Computer Equipment and Software
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+The estimated useful lives for the various asset categories are as follows: 1) Land and Land Improvements Non-depreciating assets 2) Buildings 25 years 3) Furniture and Fixtures 5 years 4) Computer Equipment and Software 5 years or term of license 5) Other Equipment 5 years 6) Vehicles 5 years 7) Leasehold Improvements Lesser of estimated useful life of the asset (generally 15 years unless established otherwise) or the remaining term of the lease, including renewal options in the lease that are reasonably assured of exercise
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| In August 2018, the FASB issued ASU No. 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. The amendments in this ASU apply to an entity that is a customer in a hosting arrangement that is a service contract. These amendments relate to accounting for implementation costs ( e.g ., implementation, setup and other upfront costs). These amendments require an entity in a hosting arrangement that is a service contract to follow the guidance in Subtopic 350-40 to determine which costs to capitalize and which costs to expense. These amendments require the entity to expense the capitalized implementation costs of a hosting arrangement that is a service contract over the term of the hosting arrangement. This ASU is effective for annual and interim periods beginning after December 15, 2019. Early adoption of the amendments is permitted, including adoption in any interim period. We adopted this ASU on January 1, 2020. The amendments in this ASU did not materially impact our Consolidated Balance Sheets or Consolidated Statements of Net Income.

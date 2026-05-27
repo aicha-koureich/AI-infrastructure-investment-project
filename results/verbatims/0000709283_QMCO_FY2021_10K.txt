@@ -1,0 +1,21 @@
+FIRM         : QMCO (CIK 0000709283) | FY2021
+FILE         : 0000709283_QMCO_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-12
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5: Debt
+ASSET CAT.   : software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Machinery and equipment 3 to 5 years Computer equipment 3 to 5 years Other software 3 years Furniture and fixtures 5 years Other office equipment 5 years Leasehold improvements Shorter of useful life or life of lease
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

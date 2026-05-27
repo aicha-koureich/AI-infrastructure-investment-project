@@ -1,0 +1,20 @@
+FIRM         : INDB (CIK 0000776901) | FY2021
+FILE         : 0000776901_INDB_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company reviews long-lived assets, including premises and equipment, for impairment whenever events or changes in business circumstances indicate that the remaining useful life may warrant revision or that the carrying amount of the long-lived asset may not be fully recoverable.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

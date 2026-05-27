@@ -1,0 +1,21 @@
+FIRM         : FDS (CIK 0001013237) | FY2022
+FILE         : 0001013237_FDS_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-08-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : computers and related equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property, equipment and leasehold improvements are stated at cost, less accumulated depreciation and amortization. Property and equipment is depreciated based on the straight-line method over the estimated useful lives of the assets, ranging from three to five years for computers and related equipment and seven years for furniture and fixtures. Repairs and maintenance expenditures, which are not considered leasehold improvements and do not extend the useful life of the property and equipment, are expensed as incurred.
+
+[VERBATIM — Infrastructure IA]
+Each segment records expenses related to its individual operations with the exception of expenditures associated with our data centers, third-party data costs and corporate headquarters charges, which are recorded by the Americas segment and are not allocated to the other segments. The content collection centers, located in India, the Philippines, and Latvia, benefit all our segments and the expenses incurred at these locations are allocated to each segment based on a percentage of revenues.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

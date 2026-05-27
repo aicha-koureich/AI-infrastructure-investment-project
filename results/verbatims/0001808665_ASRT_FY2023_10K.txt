@@ -1,0 +1,23 @@
+FIRM         : ASRT (CIK 0001808665) | FY2023
+FILE         : 0001808665_ASRT_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, less accumulated depreciation and amortization.
+
+[VERBATIM — Changement de politique]
+impairment loss for these asset groups of approximately $36.0 million and $4.8 million, respectively. These impairment charges are classified within Loss on impairment of intangible assets in the Consolidated Statement of Comprehensive (Loss) Income. The fair values of the asset groups were determined using an income approach and used Level 3 inputs, which included estimates of forecasted cash flows for each product. In addition, the Company revised the remaining useful life of the INDOCIN product rights intangible asset to 2.0 years as of December 31, 2023, which management believes better reflects the period over which the Company will consume the economic benefit of the intangible asset. The impact of this change in estimate is reflected in expected future annual amortization expense disclosed below.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

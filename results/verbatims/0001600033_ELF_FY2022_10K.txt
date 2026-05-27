@@ -1,0 +1,20 @@
+FIRM         : ELF (CIK 0001600033) | FY2022
+FILE         : 0001600033_ELF_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Our selling, general and administrative (“SG&A”) expenses primarily consist of marketing and digital expenses, personnel-related costs, including salaries, bonuses, benefits and stock based compensation, warehousing and distribution costs, costs related to merchandising, depreciation of property and equipment, amortization of retail product displays and amortization related to intangible assets and cloud computing costs. See “Critical accounting policies and estimates stock based compensation” below for more detail regarding stock based compensation.

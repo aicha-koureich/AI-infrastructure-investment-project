@@ -1,0 +1,20 @@
+FIRM         : EXR (CIK 0001289490) | FY2021
+FILE         : 0001289490_EXR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES Basis of Presentation
+ASSET CAT.   : equipment, capitalized software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of equipment and fixtures is computed on a straight-line basis over three to five years. During the year ended December 31, 2021 and 2020, the Company recorded amortization expense of $2,428 and $1,571, respectively, relating to capitalized software costs. No significant amortization of software costs was recorded prior to 2020 as the software was still in the application development stage.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

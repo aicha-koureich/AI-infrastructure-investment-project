@@ -1,0 +1,20 @@
+FIRM         : AVNS (CIK 0001606498) | FY2018
+FILE         : 0001606498_AVNS_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 1 . Accounting Policies
+ASSET CAT.   : equipment, Machinery and equipment, computer software
+DURÉE        : 16.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost and depreciated on the straight-line method. Machinery and equipment are depreciated over their estimated useful lives, primarily ranging from 16 to 20 years . Computer software costs are amortized on the straight-line method over the estimated useful life of the software, which is generally three to nine years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles – Goodwill and Other – Internal Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract. ||| In August 2018, the Financial Accounting Standards Board (“FASB”) issued ASU No. 2018-15, Intangibles – Goodwill and Other – Internal Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract. This ASU is intended to reduce complexity by aligning the requirements for capitalizing implementation costs incurred in cloud-based arrangements with the requirements for capitalization of costs incurred to develop internal-use software. Any implementation costs in cloud-based arrangements would then be amortized over the term of the service contract. This ASU is effective for annual periods, and interim periods within those annual periods beginning after December 15, 2019, with early adoption permitted. We do not expect adoption of this ASU to have a material effect on our financial position, results of operations or cash flows.

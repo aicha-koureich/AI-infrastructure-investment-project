@@ -1,0 +1,25 @@
+FIRM         : GRMN (CIK 0001121788) | FY2018
+FILE         : 0001121788_GRMN_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting
+Policies Basis of Presentation and Principles of Consolidation
+ASSET CAT.   : server, equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+The
+revenue and associated costs allocated to the LMU, map care, and/or the server-based traffic service are deferred and recognized
+ratably over the estimated life of the products of approximately 3 years for PNDs, or the estimated map care period in OEM contracts
+of 3-10 years as we believe our efforts related to providing these services are spread evenly throughout the performance period.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

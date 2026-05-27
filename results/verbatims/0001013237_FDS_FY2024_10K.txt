@@ -1,0 +1,21 @@
+FIRM         : FDS (CIK 0001013237) | FY2024
+FILE         : 0001013237_FDS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 11. LEASES
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Our operating lease arrangements relate to our office space and data centers. We review new arrangements at inception to evaluate whether we obtain substantially all the economic benefits of and have the right to control the use of an asset. Our lease ROU assets and lease liabilities are recognized based on the present value of future minimum lease payments at lease commencement or modification date (which includes fixed lease payments and certain qualifying index-based variable payments) over the reasonably certain lease term, leveraging an estimated IBR. Certain adjustments to calculate our lease ROU assets may be required due to prepayments, lease incentives received and initial direct costs incurred. We account for lease and non-lease components as a single lease component, which we recognize over the expected lease term on a straight-line expense basis in occupancy costs (a component of SG&A expense) in our Consolidated Statements of Income.
+
+[VERBATIM — Infrastructure IA]
+Our operating lease arrangements relate to our office space and data centers . We determine if an arrangement qualifies as a lease at inception by evaluating if there is an identified asset and whether we obtain substantially all the economic benefits of and have the right to control the use of an asset. For operating leases with a term greater than one year, we recognize lease right-of-use ("ROU") assets and lease liabilities as the present value of future minimum lease payments over the reasonably certain lease term beginning at the commencement or modification date. The future minimum lease payments include fixed lease payments and certain qualifying index-based variable payments. Our lease ROU assets may further be impacted by prepayments, lease incentives received and initial direct costs incurred. Our operating leases are classified within Lease right-of-use assets, net, Current lease liabilities and Long-term lease liabilities on our Consolidated Balance Sheets.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Our clients rely on us for the delivery of time-sensitive, up-to-date data and applications. Our business is dependent on our ability to process substantial volumes of data and transactions rapidly and efficiently. We currently use multiple providers of cloud services; however, one supplier provided the majority of our cloud computing support for fiscal 2024. We maintain back-up facilities and other redundancies at our data centers, take security measures and have emergency planning procedures to minimize the risk that an event will disrupt our operations.

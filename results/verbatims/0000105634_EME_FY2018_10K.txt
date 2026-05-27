@@ -1,0 +1,20 @@
+FIRM         : EME (CIK 0000105634) | FY2018
+FILE         : 0000105634_EME_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 20 - SUBSEQUENT EVENT
+ASSET CAT.   : Machinery and equipment, Furniture and fixtures, Computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2018 2017 Machinery and equipment $ 151,339 $ 138,592 Vehicles 58,205 55,648 Furniture and fixtures 20,655 20,195 Computer hardware/software 98,415 95,716 Land, buildings and leasehold improvements 97,937 92,145 Construction in progress 14,443 6,779 440,994 409,075 Accumulated depreciation and amortization (306,643 ) (281,919 ) $ 134,351 $ 127,156
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

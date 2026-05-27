@@ -1,0 +1,20 @@
+FIRM         : PYPL (CIK 0001633917) | FY2023
+FILE         : 0001633917_PYPL_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+• Operating lease amounts include minimum rental payments under our non-cancelable operating leases (including leases not yet commenced) primarily for office and data center facilities. The amounts presented are consistent with contractual terms and are not expected to differ significantly from actual results under our existing leases, unless a substantial change in our headcount needs requires us to expand our occupied space or exit an office facility early.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+• Purchase obligation amounts include minimum purchase commitments for cloud computing services, capital expenditures, advertising, and other goods and services entered into in the ordinary course of business. ||| Purchase obligation amounts include minimum purchase commitments for cloud computing services, capital expenditures, advertising, and other goods and services entered into in the ordinary course of business.

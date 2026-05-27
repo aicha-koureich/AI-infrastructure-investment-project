@@ -1,0 +1,20 @@
+FIRM         : TXNM (CIK 0001108426) | FY2024
+FILE         : 0001108426_TXNM_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+PNM’s utility-owned solar and energy storage capacity, as well as solar, energy storage, wind, and geothermal procurements in service as of December 31, 2024, have a total net generation capacity of 2,779 MW. In addition to PNM’s owned and third-party contracted solar facilities, PNM also has a customer distributed solar generation program that represented 308.5 MW at December 31, 2024. The NMPRC has approved plans for PNM to procure energy and RECs from additional resources to serve retail customers and a data center located in PNM’s service territory. PNM’s approved resource plans have a generation capacity of 910 MW and are expected to be in service by summer of 2026. This includes approximately 310 MW of capacity under the Community Solar Act which will allow PNM to provide customers the option of accessing solar energy. In addition, PNM has filed an application with the NMPRC seeking approval of resources to be available for the 2028 summer peak, which are necessary for PNM to meet forecasted peak load requirements to serve its customers and to continue progress towards a carbon-free generating portfolio. For additional discussion of the ETA, the 2026 Resource Application, and the 2028 Resource Application see Notes 16 and 17.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

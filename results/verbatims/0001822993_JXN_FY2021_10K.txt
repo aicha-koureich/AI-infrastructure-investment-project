@@ -1,0 +1,20 @@
+FIRM         : JXN (CIK 0001822993) | FY2021
+FILE         : 0001822993_JXN_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 15. Leases
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company leases office space and equipment under several operating leases that expire at various dates through 2051. The Company determines if a contract is a lease at inception or modification. Lease terms may include options to extend or terminate the lease and are included in the lease measurement when it is reasonably certain that the Company will exercise that option. Right-of-use (“ROU”) assets represent the right to use an underlying asset for the lease term and corresponding lease liabilities represent the obligation to make lease payments arising from the lease. ROU assets and liabilities are determined using the Company’s incremental borrowings rate based upon information available at lease commencement. Certain lease incentives such as free rent periods are recorded as a reduction of the ROU asset. Lease costs for operating leases are recognized on a straight-line basis over the life of the lease.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

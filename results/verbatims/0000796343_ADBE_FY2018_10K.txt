@@ -1,0 +1,20 @@
+FIRM         : ADBE (CIK 0000796343) | FY2018
+FILE         : 0000796343_ADBE_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We record property and equipment at cost less accumulated depreciation and amortization. Property and equipment are depreciated using the straight-line method over their estimated useful lives ranging from
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue of $1.19 billion increased by $184.5 million , or 18% , during fiscal 2018 , from $1.01 billion in fiscal 2017 . The increase was primarily due to increases in media rebill costs associated with our Advertising Cloud offerings and hosting services and data center costs.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+During fiscal 2018, we completed our acquisitions of Marketo, a privately held marketing cloud platform company, for ||| In October 2018, we acquired privately held marketing cloud platform company Marketo. We began integrating Magento, as discussed above, and Marketo into our Digital Experience business in the second half of fiscal 2018. ||| year-over-year growth. Also contributing to the increase in Digital Experience subscription revenue, to a lesser extent, was revenue associated with Magento’s commerce platform offerings and Marketo’s marketing cloud platform offerings. We expect that the addition of Marketo and Magento, and continued demand across our portfolio of Adobe Experience Cloud solutions, will drive revenue growth in future years.

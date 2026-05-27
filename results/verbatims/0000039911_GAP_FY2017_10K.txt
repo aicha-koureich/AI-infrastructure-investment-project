@@ -1,0 +1,20 @@
+FIRM         : GAP (CIK 0000039911) | FY2017
+FILE         : 0000039911_GAP_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 3, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 . Additional Financial Statement Information
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+($ in millions) February 3, 2018 January 28, 2017 Leasehold improvements $ 3,140 $ 3,099 Furniture and equipment 2,623 2,508 Software 1,703 1,600 Land, buildings, and building improvements 1,037 1,000 Construction-in-progress 264 222 Property and equipment, at cost 8,767 8,429 Less: Accumulated depreciation (5,962 ) (5,813 ) Property and equipment, net of accumulated depreciation $ 2,805 $ 2,616
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

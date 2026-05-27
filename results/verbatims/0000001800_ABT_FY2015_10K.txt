@@ -1,0 +1,22 @@
+FIRM         : ABT (CIK 0000001800) | FY2015
+FILE         : 0000001800_ABT_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — Summary of Significant Accounting Policies (Continued)
+ASSET CAT.   : EQUIPMENT
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+PROPERTY
+AND EQUIPMENT — Depreciation and amortization are provided on a straight-line basis over the estimated useful lives of the assets. The following table shows
+estimated useful lives of property and equipment:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

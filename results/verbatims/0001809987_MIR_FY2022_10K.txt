@@ -1,0 +1,20 @@
+FIRM         : MIR (CIK 0001809987) | FY2022
+FILE         : 0001809987_MIR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-21
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Nature of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment are carried at cost, net of accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

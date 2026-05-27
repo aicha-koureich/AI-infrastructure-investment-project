@@ -1,0 +1,23 @@
+FIRM         : OTTR (CIK 0001466593) | FY2014
+FILE         : 0001466593_OTTR_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-40.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment of nonelectric operations are carried at historical cost and are depreciated on a straight‑line basis over the assets’ estimated useful lives (3 to 40 years).
+
+[VERBATIM — Changement de politique]
+Accumulated ARO Accretion/Depreciation Adjustment 1
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

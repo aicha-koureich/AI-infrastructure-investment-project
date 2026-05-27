@@ -1,0 +1,24 @@
+FIRM         : MSFT (CIK 0000789019) | FY2022
+FILE         : 0000789019_MSFT_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-07-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 6
+ASSET CAT.   : Computer equipment, Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-10.0 ans | 2.0-4.0 ans | 3.0-7.0 ans | 4.0 ans | 5.0-15.0 ans | 6.0 ans | 8.0 ans | 12.0 ans
+
+[VERBATIM — Durée de vie]
+(In millions) June 30, 2022 2021 Land $ 4,734 $ 3,660 Buildings and improvements 55,014 43,928 Leasehold improvements 7,819 6,884 Computer equipment and software 60,631 51,250 Furniture and equipment 5,860 5,344 Total, at cost 134,058 111,066 Accumulated depreciation (59,660 ) (51,351 ) Total, net $ 74,398 $ 59,715
+
+[VERBATIM — Changement de politique]
+In July 2022, we completed an assessment of the useful lives of our server and network equipment. Due to investments in software that increased efficiencies in how we operate our server and network equipment, as well as advances in technology, we determined we should increase the estimated useful lives of both server and network equipment from four years to six years. We had previously increased the estimated useful lives of both server and network equipment in July 2020.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Office Commercial products and cloud services revenue increased 13% driven by Office 365 Commercial growth of 18%. ||| Office Consumer products and cloud services revenue increased 11% and Microsoft 365 Consumer subscribers grew to 59.7 million. ||| Dynamics products and cloud services revenue increased 25% driven by Dynamics 365 growth of 39%.

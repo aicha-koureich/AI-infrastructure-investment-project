@@ -1,0 +1,20 @@
+FIRM         : DCI (CIK 0000029644) | FY2018
+FILE         : 0000029644_DCI_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : July 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 19. Quarterly Financial Information (Unaudited)
+ASSET CAT.   : Machinery and equipment, Computer software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+July 31, 2018 2017 Land $ 22.8 $ 20.6 Buildings 310.8 292.5 Machinery and equipment 769.1 742.9 Computer software 132.6 123.9 Construction in progress 64.4 48.9 Less: accumulated depreciation (790.4 ) (744.2 ) Net property, plant and equipment $ 509.3 $ 484.6
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

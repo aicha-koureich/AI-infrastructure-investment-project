@@ -1,0 +1,20 @@
+FIRM         : EQIX (CIK 0001101239) | FY2021
+FILE         : 0001101239_EQIX_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-06-30
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+During the last three years, we have completed a number of business combinations, including the acquisition of GPX in India in the third quarter of 2021, Bell Data Centers in Canada in the fourth quarter of 2020, Packet in March 2020, Axtel in Mexico in January 2020, and Switch Datacenters' AMS1 data center business in Amsterdam, Netherlands in April 2019. The purchase price allocation for these acquisitions has been finalized, except for the GPX India acquisition. As of December 31, 2021 and 2020, we had net intangible assets of $1.9 billion and $2.2 billion, respectively. We recorded amortization expense for intangible assets of $205.5 million, $199.0 million and $196.3 million for the years ended December 31, 2021, 2020 and 2019, respectively. We do not believe there is a reasonable likelihood that there will be a material change in the estimates or assumptions we used to complete the purchase price allocations and the fair value of assets acquired and liabilities assumed. However, if actual results are not consistent with our estimates or assumptions, we may be exposed to losses or gains that could be material, which would be recorded in our consolidated statements of operations in 2021 or beyond.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+During the last three years, we have completed a number of business combinations, including the acquisition of GPX in India in the third quarter of 2021, Bell Data Centers in Canada in the fourth quarter of 2020, Packet in March 2020, Axtel in Mexico in January 2020, and Switch Datacenters' AMS1 data center business in Amsterdam, Netherlands in April 2019. The purchase price allocation for these acquisitions has been finalized, except for the GPX India acquisition. As of December 31, 2021 and 2020, we had net intangible assets of $1.9 billion and $2.2 billion, respectively. We recorded amortization expense for intangible assets of $205.5 million, $199.0 million and $196.3 million for the years ended December 31, 2021, 2020 and 2019, respectively. We do not believe there is a reasonable likelihood that there will be a material change in the estimates or assumptions we used to complete the purchase price allocations and the fair value of assets acquired and liabilities assumed. However, if actual results are not consistent with our estimates or assumptions, we may be exposed to losses or gains that could be material, which would be recorded in our consolidated statements of operations in 2021 or beyond.

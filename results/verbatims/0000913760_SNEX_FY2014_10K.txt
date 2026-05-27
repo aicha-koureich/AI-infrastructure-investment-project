@@ -1,0 +1,20 @@
+FIRM         : SNEX (CIK 0000913760) | FY2014
+FILE         : 0000913760_SNEX_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment is stated at cost, net of accumulated depreciation and amortization and depreciated using the straight-line method over the estimated useful lives of the assets. Certain costs of software developed or obtained for internal use are capitalized and amortized over the estimated useful life of the software. When property and equipment are retired, sold, or otherwise disposed of, the asset’s carrying amount and related accumulated depreciation are removed from the accounts and any gain or loss is included in earnings.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

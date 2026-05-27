@@ -1,0 +1,20 @@
+FIRM         : RHI (CIK 0000315213) | FY2017
+FILE         : 0000315213_RHI_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Computer hardware, Computer software, Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2017 2016 Computer hardware $ 171,515 $ 170,746 Computer software 376,761 374,490 Furniture and equipment 102,424 100,472 Leasehold improvements 148,764 133,541 Other 9,907 9,993 Property and equipment, cost 809,371 789,242 Accumulated depreciation (664,484 ) (627,733 ) Property and equipment, net $ 144,887 $ 161,509
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

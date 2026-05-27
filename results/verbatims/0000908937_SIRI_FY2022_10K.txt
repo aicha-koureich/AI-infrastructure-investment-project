@@ -1,0 +1,20 @@
+FIRM         : SIRI (CIK 0000908937) | FY2022
+FILE         : 0000908937_SIRI_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-25
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+For the years ended December 31, 2022 and 2021, general and administrative expenses were $525 and $514, respectively, an increase of 2%, or $11, and decreased as a percentage of total revenue. The increase was primarily driven by higher legal, data center, and consulting costs, partially offset by lower personnel-related costs.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

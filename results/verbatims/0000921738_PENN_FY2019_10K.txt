@@ -1,0 +1,20 @@
+FIRM         : PENN (CIK 0000921738) | FY2019
+FILE         : 0000921738_PENN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 17, “Segment Information,”
+ASSET CAT.   : Equipment
+DURÉE        : 1.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment: Property and equipment are stated at cost, less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, “Customer’s Accounting for Implementation Cost Incurred in a Cloud Computing Arrangement That Is a Service Contract” (“ASU 2018-15”). Under the new guidance, customers will apply the same criteria for capitalizing implementation costs as they would for an arrangement that has a software license. This will result in certain implementation costs being capitalized; the associated amortization charge will, however, be recorded as an operating expense. Under the previous guidance, costs incurred when implementing a cloud computing arrangement deemed to be a service contract are recorded as an operating expense when incurred. ASU 2018-15 is effective for fiscal years beginning after December 15, 2019, including interim periods within those fiscal years. Entities can choose to adopt the new guidance prospectively to eligible costs incurred on or after the date the guidance is first applied or retrospectively. We have elected to adopt the net guidance on a prospective basis. Although we are still finalizing our assessment of the impact of the adoption of ASU 2018-15, which is effective January 1, 2020, we currently do not expect it to have a material impact on our Consolidated Financial Statements.

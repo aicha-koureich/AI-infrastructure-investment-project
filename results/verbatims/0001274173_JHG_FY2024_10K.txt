@@ -1,0 +1,20 @@
+FIRM         : JHG (CIK 0001274173) | FY2024
+FILE         : 0001274173_JHG_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, equipment and software are recorded at cost. Depreciation is recorded using the straight-line method over the estimated useful life of the related assets (or the lease term, if shorter).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+General, administrative and occupancy expenses increased $6.2 million during the year ended December 31, 2024, compared to the year ended December 31, 2023, primarily due to a $8.2 million increase in the amortization of capitalized cloud computing costs, primarily related to the order management system transformation project, which was completed in the second quarter of 2023, a $7.7 million increase in legal and professional fees primarily due to consultancy fees related to certain acquisition and other project costs, and a $4.2 million increase in hardware and software licensing costs. These increases were partially offset by a $9.3 million charge related to a separately managed account trade error recognized during 2023 and a subsequent insurance reimbursement of $4.7 million recognized during 2024. ||| General, administrative and occupancy expenses increased $15.3 million during the year ended December 31, 2023, compared to the year ended December 31, 2022, primarily due to a $9.6 million increase in the amortization of capitalized cloud computing costs, primarily related to the order management system transformation project, which was completed in the second quarter of 2023, a $9.3 million charge related to a separately managed account trade error and a $4.0 million increase in software costs primarily related to application licensing fees. These increases were partially offset by a $4.6 million reduction in rent-related expenses and a $3.2 million decrease in recruitment fees.

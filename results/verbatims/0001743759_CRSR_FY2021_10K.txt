@@ -1,0 +1,20 @@
+FIRM         : CRSR (CIK 0001743759) | FY2021
+FILE         : 0001743759_CRSR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 17. Subsequent event
+ASSET CAT.   : equipment, Computer equipment, office equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Manufacturing equipment $ 26,094 $ 22,035 Computer equipment, software and office equipment 9,407 9,407 Leasehold improvements 5,154 4,521 Furniture and fixtures 4,709 3,675 Total property and equipment $ 45,364 $ 39,638 Less: Accumulated depreciation and amortization (28,545 ) (23,163 ) Property and equipment, net $ 16,819 $ 16,475
+
+[VERBATIM — Infrastructure IA]
+Our net revenue increased 55.2% in 2020, as compared to 2019, primarily due to a larger number of consumers gaming and working from home as a result of the COVID-19 pandemic. Going into 2021, while the lockdowns and shelter-in-place restrictions were gradually lifted, our net revenue continued to grow by 11.8%, despite the negative impact from the global supply chain and logistics challenges as well as the shortages of reasonably priced GPUs, which led to a decrease in demand for self-built gaming PCs and systems and its related components. We also experienced higher cost of goods sold in 2021 primarily related to expenses on freight and logistics due to supply chain and logistics issues. The full extent of the impact of COVID-19 pandemic remains uncertain, which has and may continue to negatively impact our net revenue and gross margin. While we experienced the aforementioned challenges in 2021 caused by the COIVD-19 pandemic, our 2021 revenue and gross profits represented strong growth from 2019, pre-pandemic, by 73.5% and 129.1%, respectively.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In the normal course of business, we enter into various purchase commitments for goods or services. Our long-term non-cancelable purchase commitments consist primarily of multi-year contractual arrangements relating to subscriptions for cloud computing hosting arrangements for our enterprise resource planning (“ERP” ) system and the related support services as well as ||| Our long-term non-cancelable purchase commitments consist primarily of multi-year contractual arrangements relating to subscriptions for cloud computing hosting arrangements for our enterprise resource planning

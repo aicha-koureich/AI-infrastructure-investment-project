@@ -1,0 +1,20 @@
+FIRM         : AXTI (CIK 0001051627) | FY2016
+FILE         : 0001051627_AXTI_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+In the first quarter of 2014, we reduced our work force by approximately 11% and embarked on a number of additional cost reduction programs, primarily in our substrate manufacturing, which has the highest costs as compared to research and development or selling and administrative expenses. In 2015, we invested in wafer manufacturing equipment to increase automation and decrease the number of manually operated processing steps in our production flow. We believe this can improve our manufacturing yields, product quality and product consistency. In addition to revenue growth in 2016, we also increased our gross margins as a result of increased yields and manufacturing efficiencies. We intend to continue to focus on InP substrates as we believe InP can continue to be an engine for growth if, for example, the data center expansion and upgrade cycle begins. We are also investing in six-inch low defect density (“low EPD”) GaAs substrates that are required for 3D-Sensing using vertical cavity surface emitting lasers (“VCSELs”). In the second quarter of 2016, we implemented a cost reduction program and reduced our workforce by 28 positions.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

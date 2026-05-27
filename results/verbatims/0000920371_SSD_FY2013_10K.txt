@@ -1,0 +1,20 @@
+FIRM         : SSD (CIK 0000920371) | FY2013
+FILE         : 0000920371_SSD_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Operations and Summary of Significant Accounting Policies
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Major components of these expenses are personnel, sales commissions, facility costs such as rent, depreciation and utilities, professional services, information technology costs, sales promotion, advertising, literature and trade shows.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

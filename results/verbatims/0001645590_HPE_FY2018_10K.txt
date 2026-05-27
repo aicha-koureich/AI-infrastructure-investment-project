@@ -1,0 +1,20 @@
+FIRM         : HPE (CIK 0001645590) | FY2018
+FILE         : 0001645590_HPE_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 21: Equity Method Investments
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company recognizes revenue for software-as-a-service ("SaaS") arrangements as the service is delivered, generally on a straight-line basis, over the contractual period of performance.
+
+[VERBATIM — Infrastructure IA]
+provides a broad portfolio of services-led and software-enabled infrastructure and solutions including secure, software-defined servers, storage, data center networking and HPE Pointnext services, thereby combining HPE's hardware, software and services capabilities to make Hybrid IT simple for its customers. Described below are the business unit capabilities within Hybrid IT.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

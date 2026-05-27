@@ -1,0 +1,30 @@
+FIRM         : VZ (CIK 0000732712) | FY2013
+FILE         : 0000732712_VZ_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Wireline’s voice, data and video communications products and
+enhanced services include broadband video and data, corporate networking solutions, data center and cloud services, security and managed network services and local and long distance voice services. We provide these products and services to consumers
+in the United States, as well as to carriers, businesses and government customers both in the United States and in over 150 other countries around the world.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Wireline’s voice, data and video communications products and
+enhanced services include broadband video and data, corporate networking solutions, data center and cloud services, security and managed network services and local and long distance voice services. We provide these products and services to consumers
+in the United States, as well as to carriers, businesses and government customers both in the United States and in over 150 other countries around the world. ||| The spectrum licenses we hold can be used for mobile wireless voice and data communications services. We have licenses to provide these
+wireless services on portions of the 800 MHz band, also known as cellular spectrum, the 1800-1900 MHz band, also known as Personal Communication Services (PCS) spectrum, and the 1700 and 2100 MHz band, also known as Advanced Wireless Services (AWS)
+spectrum, in areas that, collectively, cover nearly all of the population of the United States. In addition, we hold licenses for portions of the 700 MHz upper C band, including ten licenses that can, together, be used to provide wireless service
+coverage to the entire United States and the Gulf of Mexico. ||| In 2012, Verizon Wireless acquired AWS spectrum in separate transactions with SpectrumCo, LLC and Cox TMI Wireless, LLC for which it paid an
+aggregate of $3.9 billion at the time of the closings. During 2012, Verizon Wireless also completed license purchase and exchange transactions with Leap Wireless, Savary Island Wireless, which is majority owned by Leap Wireless, and a subsidiary of
+T-Mobile USA. As a result of these transactions, Verizon Wireless received an aggregate $2.6 billion of AWS and PCS licenses at fair value and transferred certain AWS licenses to T-Mobile USA and a 700 megahertz (MHz) lower A block license to Leap
+Wireless.

@@ -1,0 +1,23 @@
+FIRM         : KOP (CIK 0001315257) | FY2024
+FILE         : 0001315257_KOP_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, machinery and equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment – Property, plant and equipment are recorded at purchased cost and include improvements that significantly increase capacities or extend useful lives of existing plant and equipment. Estimated useful lives for buildings generally range from ten to 20 years and depreciable lives for machinery and equipment generally range from three to 15 years .
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment – Property, plant and equipment are recorded at purchased cost and include improvements that significantly increase capacities or extend useful lives of existing plant and equipment. Estimated useful lives for buildings generally range from ten to 20 years and depreciable lives for machinery and equipment generally range from three to 15 years .
+
+[VERBATIM — Infrastructure IA]
+• Market demand for utilities poles is expected to grow in 2025 with most of the growth concentrated in the second half of the year, while demand in the first half is expected to remain relatively flat. Key drivers include aging pole infrastructure, the expansion of renewable energy, vehicle electrification, grid-hardening measures and extreme weather protection. Recently, the realization of potential productivity gains from artificial intelligence (AI) has significantly increased the demand for electricity. Technology companies are now securing power supplies for data centers to fuel AI, resulting in higher volume demand for both distribution and transmission wood poles. We will continue to focus on expanding our presence in the western and midwestern United States and Canada along with improving our efficiency and capturing new customers to increase our market share.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

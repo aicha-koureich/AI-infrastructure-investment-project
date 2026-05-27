@@ -1,0 +1,24 @@
+FIRM         : BWA (CIK 0000908255) | FY2021
+FILE         : 0000908255_BWA_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+Costs for molds, dies and other tools used to make products sold on long-term supply arrangements for which the Company has title to the assets are capitalized in property, plant and equipment and amortized to cost of sales over the shorter of the term of the arrangement or over the estimated useful lives of the assets, typically 3 to 5 years.
+
+[VERBATIM — Changement de politique]
+These pro forma amounts have been calculated after applying the Company’s accounting policies and the results presented above primarily reflect (i) depreciation adjustments relating to fair value adjustments to property, plant and equipment; (ii) amortization adjustments relating to fair value estimates of intangible assets; (iii) incremental interest expense, net on debt related transactions; (iv) cost of goods sold adjustments relating to fair value adjustments to inventory; and (v) stock-based compensation that was accelerated and settled on the date of acquisition.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

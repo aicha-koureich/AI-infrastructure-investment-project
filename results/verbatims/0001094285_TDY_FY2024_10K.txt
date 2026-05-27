@@ -1,0 +1,20 @@
+FIRM         : TDY (CIK 0001094285) | FY2024
+FILE         : 0001094285_TDY_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-03
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Design and test engineers use our protocol analysis solutions, including traffic generators and emulators, to accurately and reliably monitor and test high data-rate communication interfaces and diagnose operational problems in a wide range of systems and devices to ensure that they comply with industry standards, including in the areas of cloud computing, data storage and networks. Our leadership in USB and video technologies provides a unique base to service the mobile, internet of things, automotive and consumer electronics test markets. We also produce protocol validation and test tools for high-performance solid-state storage devices used in both enterprise-grade data centers and in consumer computing applications. Our interposers and software options allow engineers to get a complete picture when testing the PCI Express interface standard by enabling a link between an oscilloscope and a protocol analyzer to show a synchronized view of both the physical and protocol layers.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Design and test engineers use our protocol analysis solutions, including traffic generators and emulators, to accurately and reliably monitor and test high data-rate communication interfaces and diagnose operational problems in a wide range of systems and devices to ensure that they comply with industry standards, including in the areas of cloud computing, data storage and networks. Our leadership in USB and video technologies provides a unique base to service the mobile, internet of things, automotive and consumer electronics test markets. We also produce protocol validation and test tools for high-performance solid-state storage devices used in both enterprise-grade data centers and in consumer computing applications. Our interposers and software options allow engineers to get a complete picture when testing the PCI Express interface standard by enabling a link between an oscilloscope and a protocol analyzer to show a synchronized view of both the physical and protocol layers.

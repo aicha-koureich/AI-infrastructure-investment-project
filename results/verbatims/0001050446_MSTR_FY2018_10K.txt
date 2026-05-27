@@ -1,0 +1,20 @@
+FIRM         : MSTR (CIK 0001050446) | FY2018
+FILE         : 0001050446_MSTR_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+extending availability in the cloud by offering MicroStrategy on Microsoft Azure and strengthening MicroStrategy on AWS; ||| Incremental costs incurred to obtain contracts with customers include certain variable compensation (e.g., commissions and bonuses) paid to our sales team. Although we may bundle our goods and services into one contract, commissions are individually determined on each distinct good or service in the contract. We expense as incurred those amounts earned on consulting and education services, which are generally performed within a one-year period and primarily sold on a standalone basis. We also expense as incurred those amounts earned on product license sales, since the amount is earned when the license is delivered. We capitalize those amounts earned on product support and amortize the costs over a period of time that is consistent with the pattern of transfer of the product support to the customer, which we have determined to be a period of three years. Although we typically sell product support for a period of one year, a majority of customers renew their product support arrangements. Three years is generally the period after which platforms are no longer supported by our support team and when customers generally choose to upgrade their software platform. We do not pay variable compensation on product support renewals. Variable compensation earned on subscription cloud services is expensed as incurred due to its immaterial nature. ||| Subscription services revenues. Subscription services revenues are primarily derived from our cloud services offerings that are recognized on a subscription basis over the service period of the contract. Subscription services revenues decreased $2.8 million during 2018 primarily due to a decrease in the use of subscription services by existing customers. Subscription services revenues increased $1.8 million during 2017, as compared to the prior year, primarily due to new subscription services customers and an increase in the use of subscription services by existing customers.

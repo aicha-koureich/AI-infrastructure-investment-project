@@ -1,0 +1,20 @@
+FIRM         : HUBG (CIK 0000940942) | FY2023
+FILE         : 0000940942_HUBG_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : computer equipment and software, up to
+DURÉE        : 10.0-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of property and equipment is computed using the straight-line method at rates adequate to depreciate the cost of the applicable assets over their expected useful lives: building and improvements, up to 40 years; leasehold improvements, the shorter of useful life or lease term ; computer equipment and software, up to 10 years; furniture and equipment, up to 10 years; and transportation equipment up to 16 years. Direct costs related to internally developed software projects are capitalized and amortized over their expected useful life on a straight-line basis not to exceed 10 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Capitalized Internal Use Software and Cloud Computing Costs: We capitalize internal and external costs, which include costs related to the development of our cloud computing or hosting arrangements, incurred to develop internal use software per ASC Subtopic 350-40. Internal use software has both of the following characteristics: the software is acquired, internally developed, or modified solely to meet our needs and during the development or modification, no substantive plan exists or is being developed to market the software externally. Only costs incurred during the application development stage and costs to develop or obtain software that allows for access to or conversion of old data by new systems are capitalized. Capitalization of costs begins when the preliminary project stage is complete, management has committed to funding the project and it is probable the project will be completed, and the software will be used to perform its intended function. The measurement of the costs to capitalize include fees paid to third parties, costs incurred to obtain software from third parties, travel expenses incurred by employees in their duties associated with developing software, payroll related costs for employees who spend time directly on the project and interest costs incurred while developing internal-use software or implementing a hosting arrangement. Capitalization ceases no later than when the project is substantially complete and ready for its intended use, after all substantial testing is complete. ||| We capitalize internal and external costs, which include costs related to the development of our cloud computing or hosting arrangements, incurred to develop internal use software per ASC Subtopic 350-40. Refer to Note 1 "Description of Business and Summary of Significant Accounting Policies" for information regarding accounting policy. ||| We had total capitalized internal use software costs, which include costs related to the development of our cloud computing or hosting arrangements, net of accumulated amortization, of $ 56.4 million and $ 57.3 million as of December 31, 2023 and 2022, respectively. The 2023 balance consists of capitalized implementation costs of $ 12.0 million, net of accumulated amortization, related to our cloud hosting arrangements, which are classified in other assets in our consolidated balance sheet and capitalized internal-use software costs of $ 44.4 million, net of accumulated amortization, which are classified in property and equipment in our consolidated balance sheet. The 2022 balance consists of capitalized implementation costs of $ 11.4 million, net of accumulated amortization, related our cloud hosting arrangements, which are classified in other assets in our consolidated balance sheet and capitalized internal-use software costs of $ 45.9 million, net of accumulated amortization, which are classified in property and equipment in our consolidated balance sheet.

@@ -1,0 +1,23 @@
+FIRM         : COO (CIK 0000711404) | FY2017
+FILE         : 0000711404_COO_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost. We compute depreciation using the straight-line method in amounts sufficient to write off depreciable assets over their estimated useful lives. We amortize leasehold improvements over their estimated useful lives or the period of the related lease, whichever is shorter. We depreciate buildings over
+
+[VERBATIM — Changement de politique]
+October 31, (In millions) 2017 2016 ASSETS Current assets: Cash and cash equivalents $ 88.8 $ 100.8 Trade accounts receivable, net of allowance for doubtful accounts of $10.8 at October 31, 2017 and $8.5 at October 31, 2016 316.6 291.4 Inventories 454.1 417.7 Deferred tax assets (1) — 49.7 Prepaid expense and other current assets 93.7 77.5 Total current assets 953.2 937.1 Property, plant and equipment, at cost 1,757.5 1,603.2 Less: accumulated depreciation and amortization 847.4 725.5 910.1 877.7 Goodwill 2,354.8 2,164.7 Other intangibles, net 504.7 441.1 Deferred tax assets (1) 60.3 6.1 Other assets 75.6 51.9 $ 4,858.7 $ 4,478.6 LIABILITIES AND STOCKHOLDERS’ EQUITY Current liabilities: Short-term debt $ 23.4 $ 226.3 Accounts payable 142.1 107.4 Employee compensation and benefits 84.1 77.7 Other current liabilities 146.5 131.8 Total current liabilities 396.1 543.2 Long-term debt 1,149.3 1,107.4 Deferred tax liabilities 38.8 37.5 Accrued pension liability and other 98.7 94.6 Total liabilities 1,682.9 1,782.7 Commitments and contingencies (see Note 12) Stockholders’ equity: Preferred stock, 10 cents par value, shares authorized: 1.0; zero shares issued or outstanding — — Common stock, 10 cents par value, shares authorized: 120.0; issued 52.4 at October 31, 2017 and 52.1 at October 31, 2016 5.2 5.2 Additional paid-in capital 1,526.7 1,494.0 Accumulated other comprehensive loss (375.3 ) (489.6 ) Retained earnings 2,434.2 2,046.3 Treasury stock at cost: 3.6 shares at October 31, 2017 and 3.3 shares at October 31, 2016 (415.1 ) (360.1 ) Total Cooper stockholders' equity 3,175.7 2,695.8 Noncontrolling interests 0.1 0.1 Stockholders’ equity 3,175.8 2,695.9 $ 4,858.7 $ 4,478.6 (1) Prospective adoption of ASU 2015-17, Balance Sheet Classification of Deferred Taxes.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

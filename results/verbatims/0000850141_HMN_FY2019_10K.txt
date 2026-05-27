@@ -1,0 +1,20 @@
+FIRM         : HMN (CIK 0000850141) | FY2019
+FILE         : 0000850141_HMN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 - Summary of Significant Accounting Policies (continued)
+ASSET CAT.   : equipment, capitalized software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are carried at cost less accumulated depreciation, which is calculated using the straight-line method based on the estimated useful lives of the assets. The estimated useful lives of leasehold improvements and other property and equipment, including capitalized software, generally range from 3 to 10 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

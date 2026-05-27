@@ -1,0 +1,20 @@
+FIRM         : VVV (CIK 0001674910) | FY2020
+FILE         : 0001674910_VVV_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 – SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, machinery and equipment
+DURÉE        : 5.0-30.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is recorded at cost and is depreciated using the straight-line method over the estimated useful lives of the assets. Buildings are depreciated principally over 10 to 25 years and machinery and equipment is generally depreciated over 5 to 30 years. Property, plant and equipment is relieved of the cost and related accumulated depreciation when assets are disposed of or otherwise retired.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

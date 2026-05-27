@@ -1,0 +1,20 @@
+FIRM         : WEC (CIK 0000783325) | FY2018
+FILE         : 0000783325_WEC_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4, Operating Revenues
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We record property, plant, and equipment at cost. Cost includes material, labor, overhead, and both debt and equity components of AFUDC. Additions to and significant replacements of property are charged to property, plant, and equipment at cost; minor items are charged to other operation and maintenance expense. The cost of depreciable utility property less salvage value is charged to accumulated depreciation when property is retired.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. The standard allows entities who are customers in hosting arrangements that are service contracts to apply the existing internal-use software guidance to determine which implementation costs to capitalize as an asset related to the service contract and which costs to expense. The guidance specifies classification for capitalizing implementation costs and related amortization expense within the financial statements and requires additional disclosures. The guidance will be effective for annual reporting periods, including interim reporting within those periods, beginning after December 15, 2019. Early adoption is permitted and can be applied either retrospectively or prospectively. We are currently evaluating the transition methods and the impact the adoption of this standard may have on our consolidated financial statements.

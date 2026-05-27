@@ -1,0 +1,20 @@
+FIRM         : WEC (CIK 0000783325) | FY2017
+FILE         : 0000783325_WEC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 23, Regulatory Environment
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We record property, plant, and equipment at cost. Cost includes material, labor, overhead, and both debt and equity components of AFUDC. Additions to and significant replacements of property are charged to property, plant, and equipment at cost; minor items are charged to other operation and maintenance expense. The cost of depreciable utility property less salvage value is charged to accumulated depreciation when property is retired.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

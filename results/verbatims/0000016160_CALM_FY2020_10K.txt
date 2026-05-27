@@ -1,0 +1,20 @@
+FIRM         : CALM (CIK 0000016160) | FY2020
+FILE         : 0000016160_CALM_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : May 30, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 - Summary of Significant Accounting Policies
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-12.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is provided by the straight-line method over the estimated useful lives, which are 15 to 25 years for buildings and improvements and 3 to 12 years for machinery and equipment. When property, plant, and equipment are retired, sold, or otherwise disposed of, the asset’s carrying amount and related accumulated depreciation are removed from the accounts and any gain or loss is included in operations. The Company capitalizes interest cost incurred on funds used to construct property, plant, and equipment as part of the asset to which it relates, and is amortized over the asset’s estimated useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40) Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract, which aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. This standard will be effective for interim and annual reporting periods beginning after December 15, 2019, our fiscal 2021. Early adoption is permitted. The application of the guidance requires various transition methods depending on the specific amendment and the prospective transition method should be applied. We do not expect the adoption of this guidance to have a material impact on our consolidated financial statements.

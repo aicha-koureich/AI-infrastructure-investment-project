@@ -1,0 +1,24 @@
+FIRM         : AJG (CIK 0000354190) | FY2020
+FILE         : 0000354190_AJG_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 23. Segment Information
+ASSET CAT.   : Office equipment, Furniture and fixtures, Computer equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Useful Life Office equipment Three to ten years Furniture and fixtures Three to ten years Computer equipment Three to five years Building Fifteen to forty years Software Three to five years Refined fuel plants Ten years Leasehold improvements Shorter of the lease term or useful life of the asset
+
+[VERBATIM — Changement de politique]
+Other costs that are not costs to obtain or fulfill are expensed as incurred. Examples include other operating costs such as rent, utilities, management costs, overhead costs, legal and other professional fees, technology costs, insurance related costs, communication and advertising, and travel and entertainment. Depreciation, amortization and change in estimated acquisition earnout payable are expensed as incurred.
+
+[VERBATIM — Infrastructure IA]
+We have operating leases primarily related to branch facilities, data centers, sales offices, and agent locations, automobiles and office equipment. Many of our leases include both lease (fixed rent payments) and non-lease components (common-area or other maintenance costs) which are accounted for as a single lease component as we have elected the practical expedient to group lease and non-lease components for all leases. Variable lease payments, such as periodically indexed and/or market adjustments, are presented as lease expense in the period in which they are incurred. Since we did not elect the short-term policy election, we record leases of 12 months or less on the balance sheet.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. This new accounting guidance requires deferral of certain implementation costs associated with a cloud computing arrangement, or hosting arrangement, thereby aligning deferral of such costs with implementation costs associated with developing internal-use software. Accounting for the service component of a hosting arrangement remains unchanged. An entity will defer these implementation costs over the term of the hosting arrangement, including optional renewal periods that are reasonably certain of exercise. Amounts expensed would be presented through operating expense, rather than depreciation or amortization. The new guidance was effective January 1, 2020. An entity may adopt the guidance either prospectively for all cloud computing arrangement implementation costs incurred on or after the effective date or retrospectively, including comparative periods. We adopted this new guidance effective January 1, 2020 on a prospective basis. The adoption did not have a material impact on our consolidated financial statements.

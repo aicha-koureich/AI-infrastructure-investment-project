@@ -1,0 +1,23 @@
+FIRM         : RIG (CIK 0001451505) | FY2017
+FILE         : 0001451505_RIG_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment —The carrying amounts of our property and equipment, consisting primarily of offshore drilling rigs and related equipment, are based on our estimates, assumptions and judgments relative to capitalized costs, useful lives and salvage values of our rigs.
+
+[VERBATIM — Changement de politique]
+Useful lives and salvage values —We depreciate our assets using the straight‑line method over their estimated useful lives after allowing for salvage values. We estimate useful lives and salvage values by applying judgments and assumptions that reflect both historical experience and expectations regarding future operations, rig utilization and asset performance. Useful lives and salvage values of rigs are difficult to estimate due to a variety of factors, including (a) technological advances that impact the methods or cost of oil and gas exploration and development, (b) changes in market or economic conditions, and (c) changes in laws or regulations affecting the drilling industry. Applying different judgments and assumptions in establishing the useful lives and salvage values would likely result in materially different net carrying amounts and depreciation expense for our assets. We reevaluate the remaining useful lives and salvage values of our rigs when certain events occur that directly impact the useful lives and salvage values of the rigs, including changes in operating condition, functional capability and market and economic factors. When evaluating the remaining useful lives of rigs, we also consider major capital upgrades required to perform certain contracts and the long‑term impact of those upgrades on future marketability. At December 31, 2017, a hypothetical one‑year increase in the useful lives of all of our rigs would cause a decrease in our annual depreciation expense of approximately $34 million and a hypothetical one‑year decrease would cause an increase in our annual depreciation expense of approximately $52 million.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

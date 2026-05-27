@@ -1,0 +1,20 @@
+FIRM         : PNR (CIK 0000077360) | FY2021
+FILE         : 0000077360_PNR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 6. Supplemental Balance Sheet Information December 31 In millions 2021 2020 Inventories Raw materials and supplies $ 290.3 $ 218.7 Work-in-process 77.
+ASSET CAT.   : equipment, Machinery and equipment, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Supplemental Balance Sheet Information December 31 In millions 2021 2020 Inventories Raw materials and supplies $ 290.3 $ 218.7 Work-in-process 77.4 67.2 Finished goods 195.2 134.1 Total inventories $ 562.9 $ 420.0 Other current assets Cost in excess of billings $ 48.8 $ 50.1 Prepaid expenses 57.1 48.5 Other current assets 6.4 6.9 Total other current assets $ 112.3 $ 105.5 Property, plant and equipment, net Land and land improvements $ 34.8 $ 35.9 Buildings and leasehold improvements 194.5 195.4 Machinery and equipment 607.3 589.7 Capitalized software 66.5 79.9 Construction in progress 62.8 47.8 Total property, plant and equipment 965.9 948.7 Accumulated depreciation and amortization 655.9 647.5 Total property, plant and equipment, net $ 310.0 $ 301.2 Other non-current assets Right-of-use lease assets $ 84.5 $ 83.6 Deferred income taxes 23.1 27.4 Deferred compensation plan assets 25.6 22.6 Other non-current assets 73.9 69.2 Total other non-current assets $ 207.1 $ 202.8 Other current liabilities Dividends payable $ 33.0 $ 33.2 Accrued warranty 40.5 37.0 Accrued rebates and incentives 198.7 122.0 Accrued freight 36.5 20.5 Billings in excess of cost 31.2 22.5 Current lease liability 25.6 22.1 Income taxes payable 32.0 14.6 Accrued restructuring 10.7 15.2 Other current liabilities 117.7 123.3 Total other current liabilities $ 525.9 $ 410.4 Other non-current liabilities Long-term lease liability $ 62.6 $ 65.1 Income taxes payable 34.1 44.8 Self-insurance liabilities 42.6 42.0 Deferred compensation plan liabilities 25.6 22.6 Foreign currency contract liabilities 9.5 69.6 Other non-current liabilities 28.5 25.3 Total other non-current liabilities $ 202.9 $ 269.4
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

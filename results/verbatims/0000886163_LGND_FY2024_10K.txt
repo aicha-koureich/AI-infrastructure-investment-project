@@ -1,0 +1,23 @@
+FIRM         : LGND (CIK 0000886163) | FY2024
+FILE         : 0000886163_LGND_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-24
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 7. Balance Sheet Account Details
+ASSET CAT.   : equipment, office equipment, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost and consist of the following (in thousands): December 31, 2024 2023 Lab and office equipment $ 6,868 $ 7,068 Leasehold improvements 10,464 10,363 Computer equipment and software 1,850 716 Construction in progress 4,219 4,115 23,401 22,262 Less accumulated depreciation and amortization (8,268) (6,655) $ 15,133 $ 15,607
+
+[VERBATIM — Changement de politique]
+As disclosed in Note 6 to the consolidated financial statements, the Company’s total financial royalty assets, net, were $195.0 million as of December 31, 2024. For the year ended December 31, 2024, the Company recognized income from financial royalty assets of $13.4 million. As explained in Note 1 and 6 to the consolidated financial statements, the Company’s financial royalty assets are measured at amortized cost and income is recognized using the prospective effective interest method. Auditing management’s recognition of income under the effective interest method involved complex auditor judgment, as the assumptions used to forecast the prospective interest rate include estimates of expected future cash flows from the underlying royalties and are therefore affected by uncertainties such as future demand for the underlying product.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

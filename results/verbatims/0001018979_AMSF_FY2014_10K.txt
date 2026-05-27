@@ -1,0 +1,21 @@
+FIRM         : AMSF (CIK 0001018979) | FY2014
+FILE         : 0001018979_AMSF_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2014
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : buildings
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The
+Company’s property and equipment, including certain costs incurred to develop or obtain software for internal use, are stated at cost less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : PPG (CIK 0000079879) | FY2018
+FILE         : 0000079879_PPG_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, "Intangibles - Goodwill and Other - Internal-Use Software." This ASU requires capitalization of certain implementation costs incurred in a cloud computing arrangement that is a service contract. The amendments in this ASU are effective for fiscal years beginning after December 15, 2019 and for interim periods therein with early adoption permitted. PPG does not believe this ASU will have a material impact on its consolidated financial position, results of operations or cash flows.

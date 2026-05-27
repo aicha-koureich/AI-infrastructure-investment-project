@@ -1,0 +1,20 @@
+FIRM         : META (CIK 0001326801) | FY2014
+FILE         : 0001326801_META_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Our cost of revenue consists primarily of expenses associated with the delivery and distribution of our products. These include expenses related to the operation of our data centers such as facility and server equipment depreciation, facility and server equipment rent expense, energy and bandwidth costs, support and maintenance costs, and salaries, benefits, and share-based compensation for employees on our operations teams. Cost of revenue also includes credit card and other transaction fees related to processing customer transactions, amortization of intangible assets, and cost of virtual reality platform device inventory sold.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

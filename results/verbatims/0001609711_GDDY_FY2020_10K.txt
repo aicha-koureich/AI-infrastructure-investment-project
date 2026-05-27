@@ -1,0 +1,21 @@
+FIRM         : GDDY (CIK 0001609711) | FY2020
+FILE         : 0001609711_GDDY_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-18
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Computer equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Estimated Useful Lives December 31, 2020 2019 Computer equipment 3 years $ 464.1 $ 434.8 Software 3-5 years 64.8 55.9 Land Indefinite 9.0 9.0 Buildings, including improvements 5-40 years 146.6 145.5 Leasehold improvements Lesser of useful life or remaining lease term 98.2 99.4 Other 1-20 years 27.0 25.7 Total property and equipment 809.7 770.3 Less: accumulated depreciation and amortization (552.4) (511.7) Property and equipment, net $ 257.3 $ 258.6
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

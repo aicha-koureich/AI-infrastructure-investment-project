@@ -1,0 +1,20 @@
+FIRM         : MAR (CIK 0001048286) | FY2023
+FILE         : 0001048286_MAR_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 11. PROPERTY AND EQUIPMENT
+ASSET CAT.   : equipment
+DURÉE        : 3.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We capitalize the cost of improvements that extend the useful life of property and equipment when we incur them.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

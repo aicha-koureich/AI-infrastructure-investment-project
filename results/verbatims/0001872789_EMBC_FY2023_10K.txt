@@ -1,0 +1,20 @@
+FIRM         : EMBC (CIK 0001872789) | FY2023
+FILE         : 0001872789_EMBC_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3 — Summary of Accounting Policies
+ASSET CAT.   : buildings
+DURÉE        : 1.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost, less accumulated depreciation. Depreciation is principally provided on the straight-line basis over estimated useful lives, which range from 20 to 45 years for buildings, 4 to 13 years for machinery and equipment and 1 to 20 years for leasehold improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| The Company capitalizes costs incurred to implement cloud computing arrangements that are service contracts within Prepaid expenses and other and Deferred Income Taxes and Other Assets in the Company's Condensed Consolidated Balance Sheets. Implementation costs associated with cloud computing arrangements are capitalized when incurred during the application development phase. Once the implementation of a cloud computing arrangement is complete and ready for its intended use, the Company amortizes the costs over the expected term of the hosting arrangement using the straight-line method to the same income statement line as the associated cloud operating expenses. The total balance of capitalized costs associated with these arrangements as of September 30, 2023 is $38.0 million which primarily relates to the implementation of the Company's new enterprise resource planning ("ERP") system. These capitalized costs are included in Deferred Income Taxes and Other Assets. Costs amortized during fiscal year ended September 30, 2023 were not material to the Company's consolidated financial results. As of September 30, 2023, cloud computing arrangement assets in-service have useful lives which range from approximately three to nine years. ||| The Company capitalizes costs incurred to implement cloud computing arrangements that are service contracts within

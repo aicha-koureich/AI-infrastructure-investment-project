@@ -1,0 +1,20 @@
+FIRM         : CNXN (CIK 0001050377) | FY2020
+FILE         : 0001050377_CNXN_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We are a national provider of a wide range of information technology, or IT, solutions. We help our customers design, enable, manage, and service their IT environments. We provide IT products, including computer systems, data center solutions, software and peripheral equipment, networking communications, and other products and accessories that we purchase from manufacturers, distributors, and other suppliers. We also offer services involving design, configuration, and implementation of IT solutions. These services are performed by our personnel and by third-party providers. We operate through three sales segments, which serve primarily: (a) small- to medium-sized businesses, or in our Business Solutions segment, through our PC Connection Sales subsidiary, (b) large enterprise customers, in our Enterprise Solutions segment, through our MoreDirect subsidiary, and (c) federal, state, and local government and educational institutions, in our Public Sector Solutions segment, through our GovConnection subsidiary.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

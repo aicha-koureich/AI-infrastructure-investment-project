@@ -1,0 +1,21 @@
+FIRM         : MCK (CIK 0000927653) | FY2015
+FILE         : 0000927653_MCK_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 3. Restructuring
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-10.0 ans | 3.0 ans
+
+[VERBATIM — Durée de vie]
+Asset impairments and accelerated depreciation and amortization charges primarily include impairments for capitalized software projects and software licenses due to abandonments.
+
+[VERBATIM — Infrastructure IA]
+We also offer certain products on an application service provider basis, making our software functionality available on a remote hosting basis from our data centers. The data centers provide system and administrative support, as well as hosting services. Revenue on products sold on an application service provider basis is recognized on a monthly basis over the term of the contract beginning on the service start date of products hosted.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Fees Paid in a Cloud Computing Arrangement ||| : In April 2015, amended guidance was issued for a customer’s accounting for fees paid in a cloud computing arrangement. The amended guidance requires customers to determine whether or not an arrangement contains a software license element. If the arrangement contains a software element, the related fees paid should be accounted for as an acquisition of a software license. If the arrangement does not contain a software license, it is accounted for as a service contract. The amended guidance will become effective for us commencing in the first quarter of 2017. Early adoption is permitted. We do not expect the adoption of this amended guidance to have a material effect on our consolidated financial statements. ||| Fees Paid in a Cloud Computing Arrangement : In April 2015, amended guidance was issued for a customer’s accounting for fees paid in a cloud computing arrangement. The amended guidance requires customers to determine whether or not an arrangement contains a software license element. If the arrangement contains a software element, the related fees paid should be accounted for as an acquisition of a software license. If the arrangement does not contain a software license, it is accounted for as a service contract. The amended guidance will become effective for us commencing in the first quarter of 2017. Early adoption is permitted. We do not expect the adoption of this amended guidance to have a material effect on our consolidated financial statements.

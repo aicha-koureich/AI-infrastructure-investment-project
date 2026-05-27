@@ -1,0 +1,24 @@
+FIRM         : AKAM (CIK 0001086222) | FY2019
+FILE         : 0001086222_AKAM_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : software and hardware initiatives to manage its global network more efficiently and, as a result, the expected average useful life of its network assets, primarily servers, increased from
+DURÉE        : 4.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 4.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+The Company has implemented software and hardware initiatives to manage its global network more efficiently and, as a result, the expected average useful life of its network assets, primarily servers, increased from four years to five years , effective January 1, 2019.
+
+[VERBATIM — Changement de politique]
+Significant estimates, judgments and assumptions used in these financial statements include, but are not limited to, those related to revenue, accounts receivable and related reserves, valuation and impairment of investments and marketable securities, valuation and useful lives of acquired intangible assets, useful lives and realizability of long-lived assets, capitalized internal-use software development costs, income tax reserves and accounting for stock-based compensation.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue consists primarily of fees paid to network providers for bandwidth and to third-party network data centers for housing servers, also known as co-location costs. Cost of revenue also includes employee costs for services delivery and network operation, build-out and support of the Company's network; network storage costs; cost of software licenses; depreciation of  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Akamai Technologies, Inc. (the “Company”) provides solutions for securing, delivering and optimizing content and business applications over the Internet. Its globally-distributed platform comprises more than 250,000 servers across more than 130 countries. The Company was incorporated in Delaware in 1998 and is headquartered in Cambridge, Massachusetts. The Company currently operates in one industry segment: providing cloud services for delivering, optimizing and securing content and business applications over the Internet. ||| industry segment: providing cloud services for delivering, optimizing and securing content and business applications over the Internet. ||| Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract

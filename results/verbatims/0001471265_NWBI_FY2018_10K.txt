@@ -1,0 +1,20 @@
+FIRM         : NWBI (CIK 0001471265) | FY2018
+FILE         : 0001471265_NWBI_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+350-40)-Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.” ||| In August 2018, the FASB issued ASU 2018-15, “Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40)-Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.” This guidance aligns the requirements for capitalization of implementation costs incurred in a hosting arrangement that is a service contract with the existing guidance for internal-use software. This guidance is effective for annual periods beginning after December 15, 2019, including interim periods within those years, with early adoption permitted. Transition can either be on a retrospective basis or a prospective basis on all implementation costs incurred after the date of adoption. We are evaluating the impact this new accounting guidance will have on our financial statements.

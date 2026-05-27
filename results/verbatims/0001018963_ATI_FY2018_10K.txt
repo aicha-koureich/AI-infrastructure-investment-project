@@ -1,0 +1,20 @@
+FIRM         : ATI (CIK 0001018963) | FY2018
+FILE         : 0001018963_ATI_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 21. Selected Quarterly Financial Data
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In millions) 2018 2017 2016 Depreciation of property, plant and equipment $ 131.9 $ 135.2 $ 141.9 Software and other amortization 24.5 25.6 28.4 Total depreciation and amortization $ 156.4 $ 160.8 $ 170.3
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued new accounting guidance for implementation costs incurred in a cloud computing arrangement that is a service contract. This guidance specifies which implementation costs can be capitalized in a hosting arrangement that is a service contract. The guidance aligns the accounting for implementation costs for hosting arrangements, regardless of whether they convey a license to the hosted software. This guidance is required to be adopted either retrospectively or prospectively by the Company beginning in fiscal year 2020 with early adoption permitted, including adoption in any interim period. The Company early adopted this guidance in 2018 on a retrospective basis, which did not have a material impact on the Company’s consolidated financial statements.

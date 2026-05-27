@@ -1,0 +1,20 @@
+FIRM         : SMCI (CIK 0001375365) | FY2018
+FILE         : 0001375365_SMCI_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 19. Restatement of Previously Issued Consolidated Financial Statements
+ASSET CAT.   : Machinery and equipment, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Intel_Xeon;NVIDIA (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+June 30, 2017 2016 Buildings $ 71,665 $ 71,665 Land 70,495 70,454 Machinery and equipment 60,593 53,282 Buildings construction in progress (1) 24,039 15,803 Buildings and leasehold improvements 14,942 10,941 Purchased software 14,576 14,452 Furniture and fixtures 13,353 10,364 269,663 246,961 Accumulated depreciation and amortization (74,087 ) (59,012 ) Property, plant and equipment, net $ 195,576 $ 187,949
+
+[VERBATIM — Infrastructure IA]
+We are a global leader in high performance, high efficiency server technology and innovation. We develop and provide end-to-end green computing solutions to the cloud computing, data center, enterprise, big data, high performance computing ("HPC" and internet of things ("IoT")/embedded markets. Our solutions range from complete server, storage, blade and workstations to full racks, networking devices, server management software and technology support and services.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+We are a global leader in high performance, high efficiency server technology and innovation. We develop and provide end-to-end green computing solutions to the cloud computing, data center, enterprise, big data, high performance computing ("HPC" and internet of things ("IoT")/embedded markets. Our solutions range from complete server, storage, blade and workstations to full racks, networking devices, server management software and technology support and services. ||| was primarily due to lower demand for our complete server systems from cloud computing and internet data center customers. ||| was primarily due to the higher sales of our complete server systems to our cloud computing and internet data center customers.

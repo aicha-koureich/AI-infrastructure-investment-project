@@ -1,0 +1,20 @@
+FIRM         : VVV (CIK 0001674910) | FY2017
+FILE         : 0001674910_VVV_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 – SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The cost of property, plant and equipment is depreciated by the straight-line method over the estimated useful lives of the assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the Financial Accounting Standards Board (the “FASB”) issued accounting guidance to help entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement. Cloud computing arrangements represent the delivery of hosted services over the internet which includes software, platforms, infrastructure and other hosting arrangements. Under the guidance, customers that gain access to software in a cloud computing arrangement account for the software as internal-use software only if the arrangement includes a software license. Valvoline adopted this standard on a prospective basis on October 1, 2016, and as a result, certain costs related to these arrangements will be expensed when incurred. The adoption of this guidance did not have a material impact on the Company's financial condition, results of operations or cash flows.

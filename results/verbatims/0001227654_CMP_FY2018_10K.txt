@@ -1,0 +1,20 @@
+FIRM         : CMP (CIK 0001227654) | FY2018
+FILE         : 0001227654_CMP_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 18. SUBSEQUENT EVENT
+ASSET CAT.   : computer software, equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company recorded $7.3 million , $4.7 million and $3.1 million of amortization expense related to capitalized computer software for 2018 , 2017 and 2016 , respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued guidance to require customers in a cloud computing arrangement that is a service contract to follow the internal use software guidance to determine which implementation costs to capitalize as assets. The capitalized implementation costs related to these arrangements are required to be amortized over the term of the hosting arrangement. The guidance also clarifies the presentation requirements for these costs in an entity’s financial statements. The guidance is effective for periods beginning after December 15, 2019 and interim periods within those fiscal years. The Company is currently assessing the impact this guidance will have on its consolidated financial statements.

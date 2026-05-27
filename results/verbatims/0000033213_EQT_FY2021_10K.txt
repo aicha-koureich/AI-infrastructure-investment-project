@@ -1,0 +1,20 @@
+FIRM         : EQT (CIK 0000033213) | FY2021
+FILE         : 0000033213_EQT_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-10
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2021 2020 (Thousands) Oil and gas producing properties $ 25,523,854 $ 21,771,025 Less: Accumulated depreciation and depletion 7,508,178 5,866,418 Net oil and gas producing properties 18,015,676 15,904,607 Other properties, at cost less accumulated depreciation 403,244 149,658 Net property, plant and equipment $ 18,418,920 $ 16,054,265
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

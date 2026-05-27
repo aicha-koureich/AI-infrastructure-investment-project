@@ -1,0 +1,20 @@
+FIRM         : IRM (CIK 0001020569) | FY2021
+FILE         : 0001020569_IRM_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-09-30
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Data center lease-based intangible assets amortization (3)  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+• organic storage rental revenue growth driven by increased volume in faster growing markets and our Global Data Center Business segment and revenue management; • a 2.4% increase in total global volume (excluding acquisitions, total global volume increased 0.2%); and • an increase of $37.7 million due to foreign currency exchange rate fluctuations. ||| Our revenues consist of storage rental revenues as well as service revenues and are reflected net of sales and value-added taxes. Storage rental revenues, which are considered a key driver of financial performance for the storage and information management services industry, consist primarily of recurring periodic rental charges related to the storage of materials or data (generally on a per unit basis) that are typically retained by customers for many years and revenues associated with our data center operations. Service revenues include charges for related service activities, the most significant of which include: (1) the handling of records, including the addition of new records, temporary removal of records from storage, refiling of removed records, customer termination and permanent withdrawal fees, project revenues, and courier operations, consisting primarily of the pickup and delivery of records upon customer request; (2) destruction services, consisting primarily of secure shredding of sensitive documents and the subsequent sale of shredded paper for recycling, the price of which can fluctuate from period to period; (3) digital solutions, including the scanning, imaging and document conversion services of active and inactive records, and consulting services; and (4) data center services, including set up, monitoring and support of our customers' assets which are protected in our data center facilities, and special project services, including data center fitout. Our service revenue growth has been negatively impacted by declining activity rates as stored records are becoming less active. While customers continue to store their records and tapes with us, they are less likely than they have been in the past to retrieve records for research and other purposes, thereby reducing service activity levels. ||| Revenue is recognized when or as control of promised goods or services is transferred to the customer, in an amount that reflects the consideration we expect to be entitled to in exchange for those goods or services. See Note 2.r. to Notes to Consolidated Financial Statements included in this Annual Report for additional details on our revenue recognition policies. Revenue for all our lines of business, with the exception of storage revenues in our Global Data Center Business (which is subject to leasing guidance), is recognized in accordance with Accounting Standards Codification ("ASC") 606, Revenue from Contracts with Customers (“ASC 606”), the application of which requires that we make estimates and judgements that may affect the amount and timing of revenue we recognize.

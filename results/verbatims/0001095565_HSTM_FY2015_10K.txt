@@ -1,0 +1,20 @@
+FIRM         : HSTM (CIK 0001095565) | FY2015
+FILE         : 0001095565_HSTM_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued)
+ASSET CAT.   : Capitalized software, computer software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development is stated on the basis of cost, and is presented net of accumulated amortization. Amortization of capitalized software development was approximately $6.2 million and $4.3 million during 2015 and 2014, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

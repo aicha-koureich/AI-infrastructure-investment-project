@@ -1,0 +1,20 @@
+FIRM         : NVDA (CIK 0001045810) | FY2019
+FILE         : 0001045810_NVDA_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 26, 2020
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : DGX;NVIDIA (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+NVIDIA pioneered accelerated computing to help solve the most challenging computational problems. Starting with a focus on PC graphics, we extended our focus in recent years to the revolutionary field of AI. Fueled by the sustained demand for exceptional 3D graphics and the scale of the gaming market, NVIDIA leveraged its GPU architecture to create platforms for VR, HPC, and AI.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In Data Center, we introduced the NVIDIA CUDA-X AI platform for accelerating data science; announced availability of NVIDIA T4 Tensor Core GPUs from leading OEMs and cloud service providers; unveiled the DGX SuperPOD; and announced support for Arm CPUs, providing a new path to build AI-enabled exascale supercomputers, as well as a collaboration with Arm and others on a reference design for GPU accelerated Arm-based servers. We launched the NVIDIA EGX Intelligent Edge Computing Platform, bringing accelerated AI to vertical industries; and announced a collaboration to integrate Microsoft ||| Azure with EGX, as well as plans for a scalable GPU-accelerated supercomputer in the Microsoft Azure cloud. Additionally, we entered the 5G telecom market, enabling telcos to build efficient, virtualized 5G RANs; announced a collaboration to deliver software-defined 5G RAN; and announced that Alibaba and Baidu’s recommendation engines run on NVIDIA AI.

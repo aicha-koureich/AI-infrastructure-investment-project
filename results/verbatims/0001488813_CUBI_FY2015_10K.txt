@@ -1,0 +1,21 @@
+FIRM         : CUBI (CIK 0001488813) | FY2015
+FILE         : 0001488813_CUBI_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 24 – SUBSEQUENT EVENTS
+ASSET CAT.   : Furniture, equipment
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+December 31, Expected Useful Life 2015 2014 (amounts in thousands) Leasehold improvements 3 to 25 years $ 12,531 $ 11,680 Furniture, fixtures and equipment 5 to 10 years 5,312 4,504 IT equipment 3 to 5 years 5,909 4,696 Automobiles 5 to 10 years 206 174 23,958 21,054 Accumulated depreciation (12,427 ) (10,244 ) Total $ 11,531 $ 10,810
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

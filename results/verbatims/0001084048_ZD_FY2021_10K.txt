@@ -1,0 +1,21 @@
+FIRM         : ZD (CIK 0001084048) | FY2021
+FILE         : 0001084048_ZD_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 1.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 1.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+The estimated useful lives of property and equipment range from one to ten years. Fixtures, which are comprised primarily of leasehold improvements and equipment under finance leases, are amortized on a straight-line basis over their estimated useful lives or for leasehold improvements, the related lease term, if less.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+On October 7, 2021, the Separation was completed and the Company transferred J2 Cloud Services, LLC to Consensus who in turn transferred non-fax assets and liabilities back to Ziff Davis such that Consensus was left with the cloud fax business. The Separation was achieved through the Company’s distribution of 80.1% of the shares of Consensus common stock to holders of J2 Global common stock as of the close of business on October 1, 2021, the record date for the distribution. The Company’s stockholders of record received one share of Consensus common stock for every three shares of J2 Global’s common stock. Ziff Davis, Inc. (formerly J2 Global, Inc.) retained a 19.9% interest in Consensus following the Separation. We did not retain a controlling interest in Consensus. The Retained Consensus Shares are equity securities for which the Company elected the fair value option, and subsequent fair value changes are included in the assets of and results from continuing operations as of and for the year ended December 31, 2021. At December 31, 2021, our investment in Consensus common stock was remeasured at fair value based on Consensus’ closing stock price, with an unrealized gain of approximately $298.5 million recorded in the Consolidated Statement of Operations and a balance of $229.2 million in the Consolidated Balance Sheet (See Note 5). No gain or loss was recorded on the Separation in the Consolidated Statements of Operations. Certain of the Company’s management and members of its board of directors resigned from the Company as of the Distribution Date and joined Consensus. In addition, one of the Company’s members of its senior management as of December 31, 2021 serves on the board of directors of Consensus. ||| The key components of income from discontinued operations were as follows (in thousands). The Company made an accounting policy election not to allocate interest to discontinued operations. Interest expense included in discontinued operations relates to the 6.0% Senior Notes issued by J2 Cloud Services, LLC and the Bridge Loan Facility, which was required to be repaid as part of the Separation. ||| On June 27, 2017, J2 Cloud Services, LLC (“J2 Cloud”) and J2 Cloud Co-Obligor, Inc. (the “Co-Issuer” and together with J2 Cloud, the “Issuers”), wholly-owned subsidiaries of the Company, completed the issuance and sale of $650.0 million aggregate principal amount of their 6.0% senior notes due in 2025 (the “6.0% Senior Notes”) in a private placement offering exempt from the registration requirements of the Securities Act of 1933. J2 Cloud received proceeds of $636.5 million, after deducting the initial purchasers’ discounts, commissions and offering expenses. The 6.0% Senior Notes bore interest at a rate of 6.0% per annum, payable semi-annually in arrears on January 15 and July 15 of each year.

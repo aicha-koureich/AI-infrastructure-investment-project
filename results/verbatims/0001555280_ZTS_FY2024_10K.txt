@@ -1,0 +1,20 @@
+FIRM         : ZTS (CIK 0001555280) | FY2024
+FILE         : 0001555280_ZTS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 19. Segment Information.
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in Property, plant and equipment and are amortized using the straight-line method over the estimated useful life of 5 to 10 years. Depreciation expense for capitalized software was $61 million in 2024, $75 million in 2023 and $69 million in 2022.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In addition, we capitalize qualifying implementation costs under cloud computing arrangements (“CCA”). The capitalized CCA implementation costs are allocated between Other current assets and Other noncurrent assets on the accompanying Consolidated Balance Sheets based on the expected period that amortization will be recognized. CCA implementation costs are amortized using the straight-line method over the expected term of the related service contract.

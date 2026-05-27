@@ -1,0 +1,20 @@
+FIRM         : WKC (CIK 0000789460) | FY2021
+FILE         : 0000789460_WKC_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-03
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

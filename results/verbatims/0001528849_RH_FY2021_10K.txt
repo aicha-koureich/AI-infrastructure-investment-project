@@ -1,0 +1,20 @@
+FIRM         : RH (CIK 0001528849) | FY2021
+FILE         : 0001528849_RH_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-04-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 3—SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 10.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized costs are amortized on a straight-line basis over the estimated useful lives of the software, generally between three and ten years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Capitalized cloud computing amortization (3) ||| Represents amortization associated with capitalized cloud computing costs.

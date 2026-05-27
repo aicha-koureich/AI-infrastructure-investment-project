@@ -1,0 +1,20 @@
+FIRM         : BRC (CIK 0000746598) | FY2021
+FILE         : 0000746598_BRC_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-07-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : 3.0-33.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment — Property, plant and equipment are stated at cost, less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

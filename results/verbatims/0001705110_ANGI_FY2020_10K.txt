@@ -1,0 +1,24 @@
+FIRM         : ANGI (CIK 0001705110) | FY2020
+FILE         : 0001705110_ANGI_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-11-05
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 15—Related Party Transactions with IAC
+ASSET CAT.   : capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-3.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+On an ongoing basis, the Company evaluates its estimates and judgments, including those related to: the fair values of cash equivalents and marketable debt securities; the carrying value of accounts receivable, including the determination of the credit loss reserve; the determination of revenue reserves; the carrying value of right-of-use assets (“ROU assets”); the useful lives and recoverability of definite-lived intangible assets and capitalized software, leasehold improvements and equipment; the recoverability of goodwill and indefinite-lived intangible assets; unrecognized tax benefits; the valuation allowance for deferred income tax assets; and the fair value of and forfeiture rates for stock-based awards, among others.
+
+[VERBATIM — Changement de politique]
+Year Ended December 31, 2020 Operating Income (Loss) Stock-Based Compensation Expense Depreciation Amortization of Intangibles Adjusted EBITDA (In thousands) North America $ 4,811 $ 82,933 $ 48,515 $ 42,595 $ 178,854 Europe (11,179) $ 716 $ 4,106 $ 307 $ (6,050) Operating (loss) (6,368) Interest expense (14,178) Other income, net 1,218 Earnings before income taxes (19,328) Income tax benefit 15,168 Net loss (4,160) Net earnings attributable to noncontrolling interests (2,123) Net loss attributable to ANGI Homeservices Inc. shareholders $ (6,283)
+
+[VERBATIM — Infrastructure IA]
+The Company leases office space, data center facilities and equipment in connection with its operations under various operating leases, the majority of which contain escalation clauses.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Purchase obligations include (i) a remaining minimum payment of $5.6 million that is due in 2021 under the Company’s allocable share of a three-year cloud computing arrangement, and (ii) payments of $7.3 million related to advertising commitments to be made in 2021. The Company has an allocable share of a three-year cloud computing arrangement between IAC and a third party provider of $15.6 million, of which $3.2 million and $5.6 million was paid in 2020 and 2019, respectively, and the Company had a related prepaid asset of $4.2 million and $4.3 million at December 31, 2020 and 2019, respectively, which is included in “Other current assets” on the consolidated balance sheet.

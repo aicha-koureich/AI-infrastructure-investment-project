@@ -1,0 +1,20 @@
+FIRM         : SCOR (CIK 0001158172) | FY2019
+FILE         : 0001158172_SCOR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-02
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Cost of revenues consists primarily of expenses related to producing our products, operating our network infrastructure, the recruitment, maintenance and support of our consumer panels and amortization of capitalized fulfillment costs. Expenses associated with these areas include employee costs including salaries, benefits, stock-based compensation and other related personnel costs of network operations, survey operations, custom analytics and technical support, all of which are expensed as they are incurred. Cost of revenues also includes costs to obtain multichannel video programming distributor ("MVPD") data sets and panel, census based and other data sets used in our products as well as operational costs associated with our data centers, including depreciation expense associated with computer equipment and internally developed software that supports our panels and systems. Additionally, cost of revenues includes allocated overhead, lease expense and other facilities-related costs.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

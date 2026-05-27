@@ -1,0 +1,20 @@
+FIRM         : BNED (CIK 0001634117) | FY2020
+FILE         : 0001634117_BNED_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-05-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Basis of Presentation
+ASSET CAT.   : equipment, Machinery, Computer hardware, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of Useful Life May 1, 2021 May 2, 2020 Property and equipment: Leasehold improvements (a) $ 131,784 $ 141,602 Machinery, equipment and display fixtures 3 - 5 247,979 246,447 Computer hardware and capitalized software costs (b) 152,941 145,764 Office furniture and other 2 - 7 62,031 62,209 Content development costs 3 - 5 25,526 16,729 Construction in progress 4,444 3,878 Total property and equipment 624,705 616,629 Less accumulated depreciation and amortization 535,533 518,890 Total property and equipment, net $ 89,172 $ 97,739
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| We adopted ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ("ASU 2018-15") effective April 28, 2019 (first day of Fiscal 2020) prospectively for all implementation costs incurred in a cloud computing arrangement (or hosting arrangement) that is a service contract. The guidance requires implementation costs incurred in a cloud computing arrangement (or hosting arrangement) that is a service contract to be amortized to hosting expense over the term of the arrangement, beginning when the module or component of the hosting arrangement is ready for its intended use. Prior to adoption, we capitalized certain implementation costs, primarily related to digital and consumer data platforms, to property and equipment on the consolidated balance sheets and depreciated these implementation costs to depreciation and amortization expense in the consolidated statement of operations over the term of the service contract once the asset was ready for its intended use. Subsequent to adoption, implementation costs which were previously capitalized and depreciated as described above, are included in prepaid expenses and other assets in the consolidated balance sheets and amortized to selling and administrative expense in the consolidated statement of operations. Implementation costs incurred in cloud computing arrangements reflected in prepaid and other assets in the consolidated balance sheets were $10,516 and $4,262 as of May 1, 2021 and May 2, 2020, respectively. We had $283, $96, and $0 of amortization of implementation costs in selling and administrative expense in the consolidated statement of operations, for the 52 weeks ended May 1, 2021, 53 weeks ended May 2, 2020, and 52 weeks ended April 27, 2019, respectively. ||| ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ("ASU 2018-15")

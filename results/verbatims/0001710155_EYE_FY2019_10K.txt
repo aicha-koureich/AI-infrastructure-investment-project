@@ -1,0 +1,24 @@
+FIRM         : EYE (CIK 0001710155) | FY2019
+FILE         : 0001710155_EYE_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 28, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Business and Significant Accounting Policies (continued)
+ASSET CAT.   : Equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 3.0-7.0 ans | 6.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Buildings 34 years Equipment 3 - 7 years Information technology hardware and software (a) 2 - 5 years Furniture and fixtures 6 years Leasehold improvements (b) 10 years P&E under capital leases (b) 10 years ____________ (a) Costs of developing or obtaining software for internal use, such as direct costs of materials or services and internal payroll costs related to the software development projects, are capitalized to information technology hardware and software. (b) Depreciation of leasehold improvements is recognized over the shorter of the estimated useful life of the asset or the term of the lease.
+
+[VERBATIM — Changement de politique]
+On December 22, 2017 , the 2017 Tax Cuts and Jobs Act (the “Tax Legislation”) was enacted into law. We are required to recognize the effect of tax law changes in the period of enactment, such as re-measuring and reassessing the net realizability of our deferred tax assets and liabilities. Pursuant to SEC Staff Accounting Bulletin No. 118, Income Tax Accounting Implications of the Tax Legislation, the Company recognized provisional effects of the enactment of the Tax Legislation for which measurement could be reasonably estimated as of fiscal year end 2017 . For fiscal year 2018 , the Company recorded adjustments to the provisional estimates related to depreciation expense. The adjustments to the provisional estimates of fiscal year end 2017 did not materially impact the effective tax rate of the Company during fiscal year 2018 . See Note 6 . “Income Taxes” for additional information.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing. In August 2018 , the FASB issued ASU No. 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. This new guidance aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). This new guidance is effective for fiscal years beginning after December 15, 2019 , and for interim periods within those fiscal years and may be adopted on a prospective or retrospective basis. We will adopt the accounting standard on a prospective basis and do not expect adoption to have a material effect on the Company’s financial condition, results of operations, or cash flows. ||| In 2018 , the Company renewed an eyeglass lenses supply agreement with a trade vendor effective June 2019 . The Company also renewed certain other agreements with the same eyeglass vendor, including a cloud computing service arrangement. Additionally, during the fiscal year of 2019 , we entered into other minimum purchase commitments with our trade vendors. As a result of these arrangements, the Company has minimum purchase commitments of approximately $23.5 million , $24.9 million , $8.4 million and $3.7 million in fiscal years 2020, 2021, 2022 and 2023, respectively. ||| . The Company also renewed certain other agreements with the same eyeglass vendor, including a cloud computing service arrangement. Additionally, during the fiscal year of

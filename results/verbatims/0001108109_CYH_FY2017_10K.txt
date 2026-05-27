@@ -1,0 +1,22 @@
+FIRM         : CYH (CIK 0001108109) | FY2017
+FILE         : 0001108109_CYH_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : 3.0-18.0 ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 8.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is recognized using the
+straight-line method over the estimated useful lives of the land and improvements (3 to 20 years), buildings and improvements (5 to 40 years) and equipment and fixtures (3 to 18 years).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

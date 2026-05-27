@@ -1,0 +1,23 @@
+FIRM         : NX (CIK 0001423221) | FY2019
+FILE         : 0001423221_NX_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The software is then amortized over its estimated useful life.
+
+[VERBATIM — Changement de politique]
+In addition, we evaluated the remaining depreciable lives of property, plant and equipment that has been abandoned, displaced or otherwise disposed as a result of the plant closures. We recorded a change in estimate associated with the remaining useful lives of these assets which resulted in an increase in depreciation expense of $4.3 million for the year ended October 31, 2017. Furthermore, we evaluated the remaining service lives of intangible assets with defined lives associated with our U.S. vinyl extrusion business and recorded a change in estimate associated with the remaining useful lives of a customer relationship intangible and a utility process intangible asset resulting in an increase in amortization expense of $1.9 million for the year ended October 31, 2017. We did not incur similar increases in depreciation or amortization expenses related to restructuring activities during the years ended October 31, 2019 and 2018.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

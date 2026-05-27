@@ -1,0 +1,20 @@
+FIRM         : MORN (CIK 0001289419) | FY2023
+FILE         : 0001289419_MORN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : capitalized software
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We capitalize certain costs in accordance with FASB ASC 350-40, Internal-Use Software . Inter nal product development costs mainly consist of employee and third-party resource costs for developing new web-based products and certain major enhancements of existing products. We amortize these costs on a straight-line basis over the estimated economic life, which is generally three years. We include capitalized software development costs related to projects that have not been placed into service in our construction in progress balance.
+
+[VERBATIM — Infrastructure IA]
+We expect to continue making capital expenditures in 2024, primarily for computer hardware and software provided by third parties, internally developed software, and leasehold improvements for new and existing office locations. We continue to adopt more public cloud and software-as-a-service applications for new initiatives and are in the process of migrating relevant parts of our data centers to the public cloud over the next several years. Du ring this migration, we expect to run certain applications and infrastructure in parallel. These actions will continue to have some transitional effects on our level of capital expenditures and operating expenses.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Cost of revenue increased $64.2 million, or 8.2%, in 2023. Higher compensation expense of $66.1 million was the largest contributor to the increase, primarily due the factors noted above. Cloud computing and production expense also increased $5.6 million and $4.7 million, respectively. These increases were partially offset by lower capitalized software expense of $11.7 million and lower professional fees of $10.7 million, due to the factors described above. ||| Higher compensation expense of $66.1 million was the largest contributor to the increase, primarily due the factors noted above. Cloud computing and production expense also increased $5.6 million and $4.7 million, respectively. These increases were partially offset by lower capitalized software expense of $11.7 million and lower professional fees of $10.7 million, due to the factors described above.

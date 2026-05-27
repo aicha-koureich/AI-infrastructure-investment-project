@@ -1,0 +1,23 @@
+FIRM         : PENN (CIK 0000921738) | FY2016
+FILE         : 0000921738_PENN_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 7. Property and Equipment Property and equipment, net, consists of the following: December 31, December 31, 2016 2015 (in thousands) Property and equi
+ASSET CAT.   : Equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment Property and equipment, net, consists of the following: December 31, December 31, 2016 2015 (in thousands) Property and equipment - non-master lease Land and improvements $ 294,590 $ 288,910 Building and improvements 404,158 396,497 Furniture, fixtures and equipment 1,355,615 1,303,153 Leasehold improvements 118,940 129,012 Construction in progress 16,375 9,175 2,189,678 2,126,747 Less Accumulated depreciation (1,224,596) (1,093,115) 965,082 1,033,632 Property and equipment - master lease Land and improvements 382,246 382,246 Building and improvements 2,219,018 2,219,018 2,601,264 2,601,264 Less accumulated depreciation (745,963) (654,828) 1,855,301 1,946,436 Property and equipment, net $ 2,820,383 $ 2,980,068 Property and equipment, net decreased by $159.7 million primarily due to depreciation expense partially offset by maintenance capital expenditures and improvements at Tropicana Las Vegas during the twelve months ended December 31, 2016. Depreciation expense, for property and equipment as well as capital leases, totaled $261.9 million, $258.9 million, and $255.4 million in 2016, 2015 and 2014.
+
+[VERBATIM — Changement de politique]
+In addition to GAAP financial measures, management uses adjusted EBITDA as an important measure of the operating performance of its segments, including the evaluation of operating personnel and is especially relevant in evaluating large, long lived casino projects because it provides a perspective on the current effects of operating decisions separated from the substantial non-operational depreciation charges and financing costs of such projects. The Company defines adjusted EBITDA as earnings before interest, taxes, stock compensation, debt extinguishment charges, impairment charges, insurance recoveries and deductible charges, depreciation and amortization, changes in the estimated fair value of contingent purchase price, gain or loss on disposal of assets, and other income or expenses. Adjusted EBITDA is also inclusive of income or loss from unconsolidated affiliates, with the Company’s share of non-operating items (such as depreciation and amortization) added back for its joint venture in Kansas Entertainment. Adjusted EBITDA excludes payments associated with our Master Lease agreement with GLPI as the transaction is accounted for as a financing obligation. Adjusted EBITDA should not be construed as an alternative to income from operations, as an indicator of the Company’s operating performance, as an alternative to cash flows from operating activities, as a measure of liquidity, or as any other measure of performance determined in accordance with GAAP. The Company has significant uses of cash flows, including capital expenditures, interest payments, taxes and debt principal repayments, which are not reflected in adjusted EBITDA.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

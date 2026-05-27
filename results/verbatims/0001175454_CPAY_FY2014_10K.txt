@@ -1,0 +1,20 @@
+FIRM         : CPAY (CIK 0001175454) | FY2014
+FILE         : 0001175454_CPAY_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+straight-line method over the estimated useful life of the software. Amortization expense for software totaled $9.2 million, $7.3 million and $5.7 million in 2014, 2013 and 2012, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

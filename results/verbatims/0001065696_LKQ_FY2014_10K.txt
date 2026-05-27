@@ -1,0 +1,20 @@
+FIRM         : LKQ (CIK 0001065696) | FY2014
+FILE         : 0001065696_LKQ_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 15.
+ASSET CAT.   : Furniture, equipment, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2014 2013 Land and improvements $ 112,582 $ 101,018 Buildings and improvements 173,366 143,535 Furniture, fixtures and equipment 337,125 282,862 Computer equipment and software 125,888 108,424 Vehicles and trailers 87,944 64,381 Leasehold improvements 129,309 108,625 966,214 808,845 Less—Accumulated depreciation (374,291 ) (294,183 ) Construction in progress 38,064 31,989 $ 629,987 $ 546,651
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

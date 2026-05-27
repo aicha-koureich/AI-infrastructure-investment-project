@@ -1,0 +1,23 @@
+FIRM         : VSTS (CIK 0001967649) | FY2023
+FILE         : 0001967649_VSTS_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 29, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. NATURE OF BUSINESS, BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Inventories are valued at the lower of cost (principally the first-in, first-out method) or net realizable value. The Company records valuation adjustments to its inventories if the cost of inventory on hand exceeds the amount it expects to realize from the ultimate sale or disposal of the inventory. These estimates are based on management’s judgment regarding future demand and market conditions and analysis of historical experience. As of September 29, 2023 and September 30, 2022, the Company’s reserve for inventory was approximately $18.7 million and $48.8 million, respectively. The inventory reserve is determined based on history and projected customer consumption and specific identification. During fiscal 2022, the Company decided to no longer sell certain personal protective equipment (“PPE”), which required inventory charges to reduce the carrying value of PPE to a zero net realizable value. The Company recorded $26.2 million in inventory charges within “Cost of services provided (exclusive of depreciation and amortization)” in the Combined Statements of Income during fiscal 2022 to reflect the net realizable value of certain PPE inventory. No charges were recorded in fiscal 2023 related to PPE and the decrease in the inventory reserve from fiscal 2022 to fiscal 2023 was primarily driven by the write-off of the previously reserved PPE inventory.
+
+[VERBATIM — Changement de politique]
+Property and equipment are stated at cost and are depreciated over their estimated useful lives on a straight-line basis. When a decision has been made to dispose of property and equipment prior to the end of the previously estimated useful life, depreciation estimates are revised to reflect the use of the asset over the shortened estimated useful life. The estimated useful lives for the major categories of property and equipment are 10 to 40 years for buildings and improvements and three to 10 years for equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

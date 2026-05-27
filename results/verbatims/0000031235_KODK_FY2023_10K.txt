@@ -1,0 +1,24 @@
+FIRM         : KODK (CIK 0000031235) | FY2023
+FILE         : 0000031235_KODK_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1: BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Expenditures for software purchases and software developed for internal use are capitalized and depreciated on a straight-line basis over the estimated useful lives, generally 3 to 10 years.
+
+[VERBATIM — Changement de politique]
+The remaining useful lives of long-lived assets are reviewed in connection with the assessment of recoverability of long-lived assets and the ongoing strategic review of the business and operations. If the review indicates that the remaining useful life of the long-lived asset has changed significantly, the depreciation on that asset is adjusted to facilitate full cost recovery over its revised estimated remaining useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

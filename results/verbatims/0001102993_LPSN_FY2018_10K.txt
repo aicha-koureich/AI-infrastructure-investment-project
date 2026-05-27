@@ -1,0 +1,20 @@
+FIRM         : LPSN (CIK 0001102993) | FY2018
+FILE         : 0001102993_LPSN_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of Business and Summary of Accounting Policies (Continued)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense, which includes depreciation of internal use software totaled
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+As a “cloud computing” or software-as-a-service (SaaS) provider, LivePerson provides solutions on a hosted basis. This model offers significant benefits over premise-based software, including lower up-front costs, faster implementation, lower total cost of ownership, scalability, cost predictability, and simplified upgrades. Organizations that adopt a fully-hosted, multi-tenant architecture that is maintained by LivePerson eliminate the majority of the time, server infrastructure costs, and IT resources required to implement, maintain, and support traditional on-premise software.

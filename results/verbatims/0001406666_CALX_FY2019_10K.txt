@@ -1,0 +1,20 @@
+FIRM         : CALX (CIK 0001406666) | FY2019
+FILE         : 0001406666_CALX_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 15. Subsequent Event
+ASSET CAT.   : equipment, Computer equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2019 2018 Test equipment $ 37,001 $ 39,148 Software 20,646 24,355 Computer equipment 10,835 10,342 Furniture and fixtures 2,342 1,976 Leasehold improvements 2,047 3,559 72,871 79,380 Accumulated depreciation and amortization (51,344 ) (54,435 ) $ 21,527 $ 24,945
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+non-availability of products due to supply chain challenges, including disruptions from the recent coronavirus outbreak in China, contractual terms with customers that result in delayed revenue recognition and varying budget cycles and seasonal buying patterns of our customers. More specifically, our customers tend to spend less in the first quarter as they are finalizing their annual budgets, and in certain regions, customers are challenged by winter weather conditions that inhibit fiber deployment in outside infrastructure. Our revenue is also dependent upon our customers’ timing of purchases, capital expenditure plans and decisions to upgrade their network or adopt new technologies, including adoption of our software and cloud platform solutions, as well as our ability to grow our customer base. ||| . The decline in systems revenue was primarily due to reduced demand from CenturyLink, Frontier and our medium-sized ILEC customer base partially offset by growth in our small-sized customers as we continued to see strong demand for our software and cloud platform offerings and the addition of new customers. The decrease in services revenue was primarily due to lower volume of deployment services associated with CAF-funded customer deployments. ||| The decrease in revenue during 2019 compared with 2018 was due to lower systems revenue of $12.7 million and lower services revenue of $4.3 million . The decline in systems revenue was primarily due to reduced demand from CenturyLink, Frontier and our medium-sized ILEC customer base partially offset by growth in our small-sized customers as we continued to see strong demand for our software and cloud platform offerings and the addition of new customers. The decrease in services revenue was primarily due to lower volume of deployment services associated with CAF-funded customer deployments.

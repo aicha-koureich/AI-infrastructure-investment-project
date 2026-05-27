@@ -1,0 +1,21 @@
+FIRM         : SABR (CIK 0001597033) | FY2021
+FILE         : 0001597033_SABR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-02
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Business and Significant Accounting Policies
+ASSET CAT.   : technology, information technology, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+depreciation and amortization associated with software developed for internal use that supports our products, assets supporting our technology platform, businesses and systems and intangible assets related to technology. Selling, general and administrative expenses consist of professional service fees, certain settlement charges or reimbursements, costs to defend legal disputes, provision for expected credit losses, other overhead costs, personnel-related expenses, including stock-based compensation, for employees engaged in sales, sales support, account management and who administratively support the business in finance, legal, human resources, information technology and communications, and depreciation and amortization associated with property and equipment, acquired customer relationships, trademarks and brand names.
+
+[VERBATIM — Infrastructure IA]
+We expect to benefit from higher margins beginning in 2025 than would be realized had we not undertaken our technology transformation efforts as we believe the technology transformation will help enable us to avoid capital expenditures that would have otherwise been required and to yield lower cloud infrastructure costs. We believe that continued investment in our technology will help to provide us the necessary framework and infrastructure for a secure and stable architecture for our customers, grow our addressable market, provide new revenue opportunities, reduce costs and will help to improve sales of our software solutions. However, there are various risks associated with our technology transformation efforts, including not achieving the amount of anticipated cost savings, not completing the steps during their current projected time frame, or changing the approach leading to, among other things, additional changes in our mix of technology spend between operating expense and capitalization.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued updated guidance on customer's accounting for implementation costs incurred in a cloud computing arrangement that is a service contract. Under this updated standard, a customer in a cloud-computing arrangement that is a service contract is required to follow guidance on software developed for internal use to determine which implementation costs to capitalize as assets or expense as incurred. This standard aligns the accounting for implementation costs for hosting arrangements, regardless of whether they convey a license to the hosted software. The standard requires that capitalized implementation costs related to a hosting arrangement that is a service contract be amortized over the term of the hosting arrangement, beginning when the component of the hosting arrangement is ready for its intended use, similar to requirements in guidance on software developed for internal use. In addition, costs incurred during the preliminary project and post-implementation phases are expensed as they are incurred. We adopted this standard prospectively in the first quarter of 2020, which did not have a material impact on our consolidated financial statements.

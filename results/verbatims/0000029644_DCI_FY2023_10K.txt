@@ -1,0 +1,21 @@
+FIRM         : DCI (CIK 0000029644) | FY2023
+FILE         : 0000029644_DCI_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-07-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 5. Property, Plant and Equipment, Net
+ASSET CAT.   : Machinery and equipment, Computer software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 5.0-7.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+July 31, 2023 2022 Land $ 29.3 $ 25.6 Buildings 430.8 396.2 Machinery and equipment 989.0 940.1 Computer software 142.0 141.0 Construction in progress 107.7 72.1 Less accumulated depreciation (1,045.9) (980.6) Total property, plant and equipment, net $ 652.9 $ 594.4
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Internal-Use Software and Cloud Computing Arrangements ||| The Company capitalizes certain costs incurred during the application development stage of implementation of internal-use software in cloud computing arrangements. Amounts capitalized are amortized on a straight-line basis over a period of five to 10 years and are reported as a component of other long-term assets.

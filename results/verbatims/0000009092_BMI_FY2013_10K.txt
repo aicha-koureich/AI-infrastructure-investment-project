@@ -1,0 +1,20 @@
+FIRM         : BMI (CIK 0000009092) | FY2013
+FILE         : 0000009092_BMI_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 11 Unaudited: Quarterly Results of Operations, Common Stock Price and Dividends
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Years ended December 31, 2013 2012 2011 (Dollars in thousands) Operating activities: Net earnings $ 24,617 $ 28,032 $ 19,161 Adjustments to reconcile net earnings to net cash provided by operations: Depreciation 8,512 7,587 7,144 Amortization 4,982 4,467 2,347 Deferred income taxes 1,462 (551 ) (800 ) Contributions to pension plan — (1,097 ) — Noncurrent employee benefits 1,392 122 4,704 Stock-based compensation expense 1,388 1,266 1,470 Changes in: Receivables (3,991 ) 812 (616 ) Inventories 247 (4,743 ) 42 Prepaid expenses and other current assets 368 (905 ) (850 ) Liabilities other than debt (4,159 ) (188 ) (1,285 ) Total adjustments 10,201 6,770 12,156 Net cash provided by operations 34,818 34,802 31,317 Investing activities: Property, plant and equipment additions (14,311 ) (8,202 ) (5,336 ) Acquisitions, net of cash acquired (15,401 ) (51,518 ) (3,954 ) Net cash used for investing activities (29,712 ) (59,720 ) (9,290 ) Financing activities: Net increase (decrease) in short-term debt 3,205 65,136 (11,893 ) Dividends paid (10,004 ) (9,513 ) (9,023 ) Proceeds from exercise of stock options 1,640 382 236 Tax benefit on stock options 382 297 190 Repurchase of Common Stock — (30,000 ) — Issuance of treasury stock 498 477 493 Net cash provided by (used for) financing activities (4,279 ) 26,779 (19,997 ) Effect of foreign exchange rates on cash (118 ) (282 ) (144 ) Increase in cash 709 1,579 1,886 Cash — beginning of year 6,554 4,975 3,089 Cash — end of year $ 7,263 $ 6,554 $ 4,975 Supplemental disclosures of cash flow information: Cash paid during the year for: Income taxes $ 15,292 $ 15,247 $ 10,308 Interest $ 1,114 $ 1,113 $ 324
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

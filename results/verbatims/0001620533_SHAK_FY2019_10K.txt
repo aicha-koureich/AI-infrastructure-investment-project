@@ -1,0 +1,20 @@
+FIRM         : SHAK (CIK 0001620533) | FY2019
+FILE         : 0001620533_SHAK_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 25, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 : SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, furniture and fixtures, and computer equipment and software
+DURÉE        : 2.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment is stated at historical cost less accumulated depreciation. Property and equipment is depreciated based on the straight-line method over the estimated useful lives of the assets, generally ranging from two to seven years for equipment, furniture and fixtures, and computer equipment and software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Amortization of cloud computing asset ||| Other assets consist primarily of capitalized implementation costs from cloud computing arrangements, long-term marketable securities, security deposits, transferable liquor licenses and certain custom furniture pre-ordered for future Shacks and yet to be placed in service.

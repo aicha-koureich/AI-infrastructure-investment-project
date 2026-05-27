@@ -1,0 +1,21 @@
+FIRM         : TNL (CIK 0001361658) | FY2024
+FILE         : 0001361658_TNL_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 28. Related Party Transactions
+ASSET CAT.   : equipment, Capitalized software, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 2.0-7.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment, net consisted of the following (in millions): As of December 31, 2024 2023 Capitalized software $ 794 $ 756 Building and leasehold improvements (a) 625 665 Furniture, fixtures and equipment 144 168 Finance leases 50 41 Land 28 28 Construction in progress 21 24 Total property and equipment 1,662 1,682 Less: accumulated depreciation and amortization 1,071 1,027 Property and equipment, net $ 591 $ 655
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+During 2024, the Company recorded $3 million of impairments within Asset impairments, net on the Consolidated Statements of Income. These impairments include $1 million related to held-for-sale assets, $1 million trademark impairment, and $1 million impairment of cloud computing arrangements at the Travel and Membership segment.

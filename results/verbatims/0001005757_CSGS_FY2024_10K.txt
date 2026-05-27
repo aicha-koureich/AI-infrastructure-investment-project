@@ -1,0 +1,23 @@
+FIRM         : CSGS (CIK 0001005757) | FY2024
+FILE         : 0001005757_CSGS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 13.	Equity Compensation Plans
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Our cost of revenue consist principally of the following: (i) computing capacity and network communications costs; (ii) statement production costs (e.g., labor, paper, envelopes, equipment, equipment maintenance, etc.); (iii) transaction fees, which are primarily comprised of fees paid to third-party payment processors and financial institutions and interchange fees; (iv) customer support organizations (e.g., customer support call center, account management, etc.); (v) professional services organization; (vi) various product delivery and support organizations (e.g., managed services delivery, product management, product maintenance, etc.); (vii) third-party software costs and/or royalties related to certain software products; (viii) facilities and infrastructure costs related to the statement production and support organizations; and (ix) amortization of acquired intangibles.
+
+[VERBATIM — Changement de politique]
+• We reduced our workforce by approximately 100 employees, mainly in the U.S., as a result of organizational changes and efficiencies, to include a margin improvement initiative that began in the second quarter of 2022. As a result, we incurred restructuring charges related to involuntary terminations of $ 7.1 million. The activities discussed above resulted in total restructuring and reorganizational charges for 2024, 2023, and 2022 of $ 13.3 million, $ 16.3 million, and $ 46.3 million, respectively, which have been reflected as a separate line item in our Income Statements. The activity in the business restructuring and reorganization reserves during 2024, 2023, and 2022 is as follows (in thousands): Termination Benefits Other Total January 1, 2022, balance $ 675 $ - $ 675 Charged to expense during period 7,720 38,588 46,308 Cash payments ( 7,665 ) ( 4,098 ) ( 11,763 ) Adjustment for accelerated depreciation - ( 30,121 ) ( 30,121 ) Adjustment for asset impairments - ( 4,369 ) ( 4,369 ) Other 1,761 - 1,761 December 31, 2022, balance 2,491 - 2,491 Charged to expense during period 5,128 11,208 16,336 Cash payments ( 7,027 ) ( 5,386 ) ( 12,413 ) Adjustment for accelerated depreciation - ( 396 ) ( 396 ) Adjustment for asset impairments - ( 1,675 ) ( 1,675 ) Adjustment for gain on lease modifications - 4,349 4,349 Other 842 - 842 December 31, 2023, balance 1,434 8,100 9,534 Charged to expense during period 10,065 3,258 13,323 Cash payments ( 11,265 ) ( 7,855 ) ( 19,120 ) Adjustment for accelerated depreciation - ( 440 ) ( 440 ) Adjustment for asset impairments - ( 717 ) ( 717 ) Adjustment for gain on lease modification - 174 174 Other 968 - 968 December 31, 2024, balance $ 1,202 $ 2,520 $ 3,722 As of December 31, 2024 , $ 2.5 million of the business restructuring and reorganization reserves were included in current liabilities.
+
+[VERBATIM — Infrastructure IA]
+We contract for managed services using long-term arrangements whose terms have typically ranged from three to five years . Under managed services arrangements, we operate software products (primarily our software solutions) on behalf of our customers: (i) out of a customer’s data center; (ii) out of our data center; or (iii) out of a third-party data center. Managed services can also include us providing other services, such as transitional services, fulfillment, remittance processing, operational consulting, back office, and end-user billing services.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Our contractual commitments consist primarily of our expected minimum base fees under our outsourced computing service agreement with Ensono, Inc., which includes embedded lease components (discussed in Notes 6 and 11 to our Financial Statements), and to a lesser degree, cloud computing, networking, and communication services. As of December 31, 2024, the total value of our contractual commitments were approximately $331 million, with approximately $98 million due within the next twelve months.

@@ -1,0 +1,24 @@
+FIRM         : RH (CIK 0001528849) | FY2017
+FILE         : 0001528849_RH_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 3, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 3—SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 10.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized costs are amortized on a straight-line basis over the estimated useful lives of the software, generally between three and ten years.
+
+[VERBATIM — Changement de politique]
+The United States enacted the Tax Cuts and Jobs Act (the “Tax Act”) on December 22, 2017, which had a significant impact to the Company’s provision for income taxes as of February 3, 2018. The Tax Act includes a number of changes to existing U.S. tax laws that impact us, including the reduction of the U.S. corporate income tax rate from 35% to 21% effective January 1, 2018. The Tax Act also provides for a one-time transition tax on accumulated foreign earnings and the acceleration of depreciation for certain assets, as well as prospective changes beginning in 2018, including limitations on the deductibility of executive compensation and interest, the elimination of certain domestic deductions and credits, the elimination of the Alternative Minimum Tax regime, and modifications to the deductibility and carryforward period of net operating losses. The Tax Act transitions U.S. international taxation from a worldwide system to a modified territorial system and includes base erosion prevention measures on non-U.S. earnings, which may have the effect of subjecting certain earnings of the Company’s foreign subsidiaries to U.S. taxation. The Company’s provision for income taxes in fiscal 2017 included $7.0 million of income tax expense as a result of the Tax Act, including $6.0 million for the provisional re-measurement of the deferred tax assets for the reduction in the U.S. corporate income tax rate from 35% to 21% and a $1.0 million charge for the provisional estimate of the transition tax.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

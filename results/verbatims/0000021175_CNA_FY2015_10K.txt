@@ -1,0 +1,23 @@
+FIRM         : CNA (CIK 0000021175) | FY2015
+FILE         : 0000021175_CNA_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The estimated lives for data processing equipment and software generally range from
+
+[VERBATIM — Changement de politique]
+The cost of fixed maturity securities classified as available-for-sale is adjusted for amortization of premiums and accretion of discounts, which are included in Net investment income on the Consolidated Statements of Operations. The amortization of premium and accretion of discount for fixed maturity securities takes into consideration call and maturity dates that produce the lowest yield. This represents a change from prior reporting periods as previously the amortization of premiums was to maturity. This change in estimate effected by a change in accounting principle will result in a better reflection of the yield on fixed maturity securities with call provisions. This change, which was adopted in the fourth quarter of
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

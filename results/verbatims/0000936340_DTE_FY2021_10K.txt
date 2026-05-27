@@ -1,0 +1,20 @@
+FIRM         : DTE (CIK 0000936340) | FY2021
+FILE         : 0000936340_DTE_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-21
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 24
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amortization expense of capitalized software
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| Effective upon the adoption of ASU No. 2018-15 in January 2020, the Registrants capitalize implementation costs incurred in a cloud computing arrangement that is a service contract consistent with capitalized implementation costs incurred to develop or obtain internal-use software. Capitalized costs are recorded in Other noncurrent assets on the Consolidated Statements of Financial Position and amortization of the costs is reflected in Operation and maintenance within the Consolidated Statements of Operations. Costs are amortized on a straight-line basis over the life of the contract. Contracts primarily involve the implementation or upgrade of cloud-based solutions for generation and distribution operations and customer service support. ||| Capitalized cloud computing costs were $16 million for DTE Energy, including $12 million for DTE Electric, at December 31, 2021. Amortization of these costs was not material for the year ended December 31, 2021. There were no cloud computing costs capitalized in Other noncurrent assets at December 31, 2020.

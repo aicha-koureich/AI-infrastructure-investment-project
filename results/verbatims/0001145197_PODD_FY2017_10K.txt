@@ -1,0 +1,20 @@
+FIRM         : PODD (CIK 0001145197) | FY2017
+FILE         : 0001145197_PODD_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 7 . Property and Equipment, Net
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense related to property and equipment from continuing operations was $12.7 million , $12.6 million and $11.0 million for the years ended December 31, 2017 , 2016 and 2015 , respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

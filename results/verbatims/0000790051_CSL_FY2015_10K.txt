@@ -1,0 +1,25 @@
+FIRM         : CSL (CIK 0000790051) | FY2015
+FILE         : 0000790051_CSL_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 9—Property, Plant, and Equipment
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The components of Property, plant, and equipment, net of accumulated depreciation at December 31 were as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In
+April 2015, the FASB issued ASU 2015-05, Customer's Accounting For Fees Paid In A Cloud Computing Arrangement ("ASU 2015-05"), which provides guidance for a customer's accounting for cloud computing costs. ASU 2015-05 is effective for annual reporting periods, including interim reporting periods
+within those periods, beginning after December 15, 2015. The provisions of ASU 2015-05 are not expected to have a material effect on the Company's financial condition, results of
+operations, or cash flows. ||| Customer's Accounting For Fees Paid In A Cloud Computing Arrangement ||| ("ASU 2015-05"), which provides guidance for a customer's accounting for cloud computing costs. ASU 2015-05 is effective for annual reporting periods, including interim reporting periods
+within those periods, beginning after December 15, 2015. The provisions of ASU 2015-05 are not expected to have a material effect on the Company's financial condition, results of
+operations, or cash flows.

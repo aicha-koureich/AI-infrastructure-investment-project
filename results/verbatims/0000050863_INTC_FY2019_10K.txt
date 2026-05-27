@@ -1,0 +1,20 @@
+FIRM         : INTC (CIK 0000050863) | FY2019
+FILE         : 0000050863_INTC_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-28
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Intel_Gaudi;Intel_Xeon;NVIDIA (3 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We introduced a portfolio of data-centric solutions consisting of 2nd generation Intel ® Xeon ® Scalable processors, Intel ® Optane™ DC memory and storage solutions, and software and platform technologies optimized to help our customers extract more value from their data. Our latest data center solutions target a wide range of use cases within cloud computing, network infrastructure, and intelligent edge applications, and support high-growth workloads, including AI and 5G.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+We introduced a portfolio of data-centric solutions consisting of 2nd generation Intel ® Xeon ® Scalable processors, Intel ® Optane™ DC memory and storage solutions, and software and platform technologies optimized to help our customers extract more value from their data. Our latest data center solutions target a wide range of use cases within cloud computing, network infrastructure, and intelligent edge applications, and support high-growth workloads, including AI and 5G. ||| DCG develops workload-optimized platforms for compute, storage, and network functions. Market segments include cloud service providers, enterprise and government, and communications service providers. In the first half of 2019, DCG customers, specifically the cloud service providers and enterprise and government market segments absorbed capacity and worked through inventory after a historic customer-driven platform refresh in 2018. As consumption picked back up in the second half of 2019, DCG returned to growth. Continued demand for cloud computing and solutions built for the network and edge fueled growth. ||| Optane™ DC memory and storage solutions, and software and platform technologies optimized to help our customers extract more value from their data. Our latest data center solutions target a wide range of use cases within cloud computing, network infrastructure, and intelligent edge applications, and support high-growth workloads, including AI and 5G.

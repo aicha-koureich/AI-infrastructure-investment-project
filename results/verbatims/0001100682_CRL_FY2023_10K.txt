@@ -1,0 +1,20 @@
+FIRM         : CRL (CIK 0001100682) | FY2023
+FILE         : 0001100682_CRL_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, net, including improvements that significantly add to productive capacity or extend useful life, are carried at cost and are subject to review for impairment whenever events or changes in circumstances indicate that the carrying amount of the asset or asset group may not be recoverable. Costs incurred during the preliminary project stage are expensed as incurred, while costs incurred during the application development stage are capitalized and amortized over the estimated useful life of the software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

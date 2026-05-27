@@ -1,0 +1,20 @@
+FIRM         : PDFS (CIK 0001120914) | FY2018
+FILE         : 0001120914_PDFS_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIP TION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES Description of Business PDF Solutions, Inc. (the “Company” or “PDF”), provi
+ASSET CAT.   : Computer equipment, Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Computer equipment 3 Software 3 Furniture, fixtures, equipment and test equipment 3 - 10 Leasehold improvements Shorter of estimated useful life or term of lease
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. The new guidance clarifies the accounting for implementation costs incurred to develop or obtain internal-use software in cloud computing arrangements. Further, the standard also requires entities to expense the capitalized implementation costs of a hosting arrangement over the term of the hosting arrangement. This standard is effective for the Company beginning in the first quarter of 2020. Early adoption is permitted. ASU No. 2018-15 should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. The Company has not yet determined the impact of this standard on its consolidated financial statements.

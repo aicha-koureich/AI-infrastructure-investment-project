@@ -1,0 +1,21 @@
+FIRM         : EME (CIK 0000105634) | FY2021
+FILE         : 0000105634_EME_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+ASSET CAT.   : machinery and equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation, including amortization of assets under finance leases, is recorded principally using the straight-line method over estimated useful lives of 3 to 10 years for machinery and equipment, 3 to 7 years for vehicles, furniture and fixtures and computer hardware/software, and 25 years for buildings.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Our United States mechanical construction and facilities services segment revenues for the year ended December 31, 2021 were $3,922.9 million, a $437.4 million increase compared to revenues of $3,485.5 million for the year ended December 31, 2020. The increase in this segment’s revenues for the year ended December 31, 2021 was attributable to revenue growth within the majority of the market sectors in which we operate, including: (a) the commercial market sector, driven by: (i) the continued build-out of our customers’ e-commerce supply chains, which has resulted in increased demand for our fire protection services within their warehousing and distribution facilities, (ii) continued growth in digital processing, cloud computing, and data storage, which has resulted in an increase in telecommunication construction project opportunities, and (iii) increased demand for our mechanical construction services by customers within the biotech, life-sciences, and pharmaceutical industries, as well as certain customers engaged in the production and development of electric vehicles and/or lithium batteries, (b) the healthcare market sector, due to increased mechanical system retrofits and installations as our healthcare customers seek to upgrade their existing facilities or build new facilities, (c) the manufacturing market sector, inclusive of certain large food processing projects, which began to accelerate during the second half of 2021, and (d) the water and wastewater market sector, given increased project activity within the Southern region of the United States. These increases were partially offset by the completion or substantial completion of certain projects within the institutional market sector, which resulted in a reduction of revenues within such sector during 2021.

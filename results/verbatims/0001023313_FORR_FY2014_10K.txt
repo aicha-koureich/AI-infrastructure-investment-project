@@ -1,0 +1,25 @@
+FIRM         : FORR (CIK 0001023313) | FY2014
+FILE         : 0001023313_FORR_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+The Company evaluates reportable segment performance and allocates resources based on segment revenues and expenses. Segment expenses
+include the direct expenses of each segment organization and exclude selling and marketing expenses, general and administrative expenses, stock-based compensation expense, depreciation expense, adjustments to incentive bonus compensation from target
+amounts, amortization of intangible assets, reorganization costs, other income and gains (losses) on investments. The accounting policies used by the segments are the same as those used in the consolidated financial statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

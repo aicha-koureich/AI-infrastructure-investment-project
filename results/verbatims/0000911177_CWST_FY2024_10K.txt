@@ -1,0 +1,21 @@
+FIRM         : CWST (CIK 0000911177) | FY2024
+FILE         : 0000911177_CWST_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-8.0 ans | 5.0-10.0 ans | 5.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment is recorded at cost, less accumulated depreciation and amortization. We provide for depreciation and amortization using the straight-line method by charges to operations in amounts that allocate the cost of the assets over their estimated useful lives as follows: Asset Classification Estimated Useful Life Buildings and improvements 10-30 years Machinery and equipment 5-10 years Rolling stock 5-10 years Containers 5-12 years Furniture and fixtures 3-8 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

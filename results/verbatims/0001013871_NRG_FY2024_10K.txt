@@ -1,0 +1,20 @@
+FIRM         : NRG (CIK 0001013871) | FY2024
+FILE         : 0001013871_NRG_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Load Growth — The electric industry is expected to experience a surge in demand driven primarily by new manufacturing, industrial and data center facilities (inclusive of GenAI). The U.S. Energy Information Administration's 2023 Annual Energy Outlook, combined with external forecasts of GenAI, shows the potential for 500 TWh of incremental load across the U.S. through 2030, as compared to 2023. ERCOT's current long term load forecast shows peak demand increasing from 86 GW in 2024 to 137 GW in 2028. This load growth will require significant planning and construction of new generation and transmission.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In 2024, NRG entered into a definitive partnership agreement with Renew Home, a VPP platform formed by the combination of Google’s Nest Renew and OhmConnect. Leveraging Google Cloud’s AI and cloud platforms, NRG and Renew Home plan to develop a VPP portfolio of up to 1 GW of load management capacity, with instantaneous dispatch value during peak events and tight supply conditions.

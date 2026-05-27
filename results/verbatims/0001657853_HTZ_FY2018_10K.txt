@@ -1,0 +1,23 @@
+FIRM         : HTZ (CIK 0001657853) | FY2018
+FILE         : 0001657853_HTZ_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost and are depreciated utilizing the straight-line method over the estimated useful lives of the related assets.
+
+[VERBATIM — Changement de politique]
+Depreciation rates are reviewed on a quarterly basis based on management's ongoing assessment of present and estimated future market conditions, their effect on residual values at the expected time of disposal and the estimated holding periods for the vehicles. The impact of depreciation rate changes is as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement ||| In August 2018, the FASB issued guidance on a customer's accounting for implementation fees paid in a cloud computing service contract arrangement that addresses which implementation costs to capitalize as an asset and which costs to expense. Capitalized implementation fees are to be expensed over the term of the cloud computing arrangement, and the expense is required to be recognized in the same line item in the income statement as the associated hosting service expenses. The entity is also required to present the capitalized implementation fees on the balance sheet in the same line item as the prepayment for hosting service fees associated with the cloud computing arrangement.

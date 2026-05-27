@@ -1,0 +1,20 @@
+FIRM         : CIEN (CIK 0000936395) | FY2018
+FILE         : 0000936395_CIEN_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Types of expense incurred in research and development include employee compensation, prototype equipment, consulting and third-party services, depreciation, facility costs and information technology.
+
+[VERBATIM — Infrastructure IA]
+During fiscal 2018, our revenue growth accelerated as we benefited meaningfully from our innovation leadership, the diversification of our business and efforts to take market share from competitors. We continue to diversify our solutions offerings and customer base to address fast-growing applications and customer segments, such as Web-scale providers and data center interconnection. These customers were important contributors to our overall growth during fiscal 2018 and are included among our largest customers by revenue. At the same time, a significant portion of our revenue and customer base continues to consist of sales to large communication service providers and cable operators. Our revenue growth benefited from a go-to-market strategy focused on generating new wins and capturing additional opportunities with service providers in international markets, particularly in our Asia-Pacific and India regions. We believe that continued diversification of our business is important to address the dynamic industry environment in which we operate, to continue to grow our business, and to better  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

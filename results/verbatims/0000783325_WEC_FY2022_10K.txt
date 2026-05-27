@@ -1,0 +1,20 @@
+FIRM         : WEC (CIK 0000783325) | FY2022
+FILE         : 0000783325_WEC_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1—SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+(h) Property, Plant, and Equipment —We record property, plant, and equipment at cost. Cost includes material, labor, overhead, and both debt and equity components of AFUDC. Additions to and significant replacements of property are charged to property, plant, and equipment at cost; minor items are charged to other operation and maintenance expense. The cost of depreciable utility property less salvage value is charged to accumulated depreciation when property is retired.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+(j) Cloud Computing Hosting Arrangements that are Service Contracts —We have entered into several cloud computing arrangements that are hosted service contracts as part of projects related to the continuous transformation of technology. These projects include, among other things, developing a centralized repository for data to improve analytics and reporting, targeted enterprise resource planning systems, a project management tool, and a power generation employee scheduling system. We present prepaid hosting fees that are service contracts in either prepayments or other long-term assets on our balance sheets and amortize them as the hosting services are received. Amortization expense, as well as the fees associated with the hosting arrangements, is recorded in other operation and maintenance expense on our income statements. ||| (j) Cloud Computing Hosting Arrangements that are Service Contracts ||| —We have entered into several cloud computing arrangements that are hosted service contracts as part of projects related to the continuous transformation of technology. These projects include, among other things, developing a centralized repository for data to improve analytics and reporting, targeted enterprise resource planning systems, a project management tool, and a power generation employee scheduling system. We present prepaid hosting fees that are service contracts in either prepayments or other long-term assets on our balance sheets and amortize them as the hosting services are received. Amortization expense, as well as the fees associated with the hosting arrangements, is recorded in other operation and maintenance expense on our income statements.

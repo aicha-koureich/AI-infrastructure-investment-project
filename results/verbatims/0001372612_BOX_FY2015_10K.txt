@@ -1,0 +1,20 @@
+FIRM         : BOX (CIK 0001372612) | FY2015
+FILE         : 0001372612_BOX_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : technology, servers, equipment, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Cost of revenue consists primarily of costs related to providing our subscription services to our paying customers, including employee compensation and related expenses for datacenter operations, customer support and professional services personnel, payments to outside technology service providers, depreciation of servers and equipment, security services and other tools, as well as amortization of acquired technology.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue was $87.1 million, or 29% of revenue, for the year ended January 31, 2016, compared to $47.3 million, or 22% of revenue, for the year ended January 31, 2015, representing an increase of $39.8 million, or 84%. The increase in absolute dollars was primarily due to an increase of $9.9 million in employee and related costs and an increase of $3.2 million in stock-based compensation expense resulting from headcount growth in our datacenter operations, customer support, and particularly in our Box Consulting function as a result of our focused efforts to grow our Box Consulting capacity. Headcount in these functions grew from 168 employees as of January 31, 2015 to 229 employees as of January 31, 2016. In addition, there was an increase of $10.1 million in datacenter service costs and an increase of $7.4 million in depreciation of our server equipment as we increased our capacity, an increase of $6.3 million in allocated overhead costs which was primarily driven by the increased headcount as well as the expenses related to our new Redwood City headquarters in addition to the temporarily concurrent expenses related to our former Los Altos headquarters, an increase of $1.3 million in enterprise subscription software expenses, and an increase of $1.1 million in contractors and temporary services expenses. Cost of revenue as a percentage of revenue increased 7 points year-over-year primarily due to our continued investments in our data center infrastructure and Box Consulting to support our expected growth in paying customers and new products, as well as the expenses related to our new Redwood City headquarters in addition to the temporarily concurrent expenses related to our former Los Altos headquarters.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+We intend to continue scaling our organization to meet the increasingly complex needs of our customers. Our sales and customer success teams are organized to efficiently serve organizations ranging from small businesses to the world’s largest global organizations. We have invested and expect to continue to invest heavily in our sales and marketing teams to sell our services around the world, as well as in our development efforts to deliver additional features and capabilities of our cloud services to address our customers’ evolving needs. We also expect to continue to make significant investments in both our datacenter infrastructure to meet the needs of our growing user base and our professional services (Box Consulting) organization to address the strategic needs of our customers in more complex deployments and to drive broader adoption across a wide array of use cases. As a result of our continuing investments to scale our business in each of these areas, we do not expect to be profitable for the foreseeable future.

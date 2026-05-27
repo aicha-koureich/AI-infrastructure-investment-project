@@ -1,0 +1,20 @@
+FIRM         : CMI (CIK 0000026172) | FY2016
+FILE         : 0000026172_CMI_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We depreciate the cost of the majority of our equipment using the straight-line method with depreciable lives ranging from
+
+[VERBATIM — Infrastructure IA]
+Power generation - We design, manufacture, sell and support back-up and prime power generators ranging from 2 kilowatts to 3.5 megawatts, as well as controls, paralleling systems and transfer switches, for applications such as consumer, commercial, industrial, data centers, health care, telecommunications and waste water treatment plants. We also provide turnkey solutions for distributed generation and energy management applications using natural gas or biogas as a fuel. We also serve global rental accounts for diesel and gas generator sets.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

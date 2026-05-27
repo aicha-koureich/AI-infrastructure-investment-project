@@ -1,0 +1,21 @@
+FIRM         : VTRS (CIK 0001792044) | FY2021
+FILE         : 0001792044_VTRS_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : machinery and equipment and other fixed assets
+DURÉE        : 15.0-39.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100;B200 (2 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost less accumulated depreciation. Depreciation is computed and recorded on a straight-line basis over the assets’ estimated service lives (3 to 18 years for machinery and equipment and other fixed assets and 15 to 39 years for buildings and improvements). Capitalized software is included in property, plant and equipment and is amortized over estimated useful lives ranging from 3 to 7 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

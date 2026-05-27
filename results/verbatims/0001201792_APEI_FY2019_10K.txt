@@ -1,0 +1,21 @@
+FIRM         : APEI (CIK 0001201792) | FY2019
+FILE         : 0001201792_APEI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 15. Quarterly Financial Summary (unaudited)
+ASSET CAT.   : equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 7.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Useful Life 2018 2019 (in thousands) Land — $ 9,244 $ 9,244 Building and building improvements 15 - 39 years 54,496 54,592 Leasehold improvements up to 15 years 1,473 1,536 Office equipment 5 years 2,240 911 Computer equipment 3 years 25,618 22,090 Furniture and fixtures 7 years 8,391 9,035 Other capital assets 5 years 128 128 Software development 5 years 87,058 87,774 Program development 3 years 12,597 13,103 201,245 198,413 Accumulated depreciation and amortization 114,364 119,918 $ 86,881 $ 78,495
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract ||| , which amends ASC 350-40 to address a customer’s accounting for implementation costs incurred in a cloud computing arrangement that is a service contract. ||| In August 2018, the FASB issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract , which amends ASC 350-40 to address a customer’s accounting for implementation costs incurred in a cloud computing arrangement that is a service contract. The amendments in this ASU provide clarifications which align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software or software licenses. The accounting for the service element of a hosting arrangement that is a service contract is not affected by these amendments. The guidance will be effective for fiscal years beginning after December 15, 2019, including interim periods within those fiscal years. Early adoption was permitted. The Company adopted this standard effective January 1, 2020 using the prospective approach, and will evaluate future implementation costs incurred after January 1, 2020 under the new standard.

@@ -1,0 +1,20 @@
+FIRM         : WM (CIK 0000823768) | FY2022
+FILE         : 0000823768_WM_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+We depreciate property and equipment over the estimated useful life of the asset using the straight-line method. When property and equipment are retired, sold or otherwise disposed of, the cost and accumulated depreciation are removed from our accounts and any resulting gain or loss is included in results of operations as an offset or increase to operating expense for the period.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

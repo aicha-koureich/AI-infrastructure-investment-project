@@ -1,0 +1,21 @@
+FIRM         : EIG (CIK 0001379041) | FY2019
+FILE         : 0001379041_EIG_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Basis of Presentation and Summary of Operations
+ASSET CAT.   : equipment, furniture
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-8.0 ans
+
+[VERBATIM — Durée de vie]
+Electronic data processing equipment, software, furniture and equipment, and automobiles are depreciated using the straight-line method over three to seven years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud computing arrangements ||| Amortization of cloud computing arrangements ||| Employers Holdings, Inc. and Subsidiaries Consolidated Balance Sheets As of December 31, 2019 2018 (in millions, except share data) Assets Investments: Fixed maturity securities at fair value (amortized cost $2,403.3 at December 31, 2019 and $2,513.7 at December 31, 2018) $ 2,485.9 $ 2,496.4 Equity securities at fair value (cost $155.6 at December 31, 2019 and $131.9 at December 31, 2018) 256.7 199.9 Equity securities at cost 6.7 6.4 Other invested assets (cost $28.4 at December 31, 2019) 29.1 — Short-term investments at fair value (amortized cost $25.0 at December 31, 2018) — 25.0 Total investments 2,778.4 2,727.7 Cash and cash equivalents 154.9 101.4 Restricted cash and cash equivalents 0.3 0.6 Accrued investment income 16.4 18.0 Premiums receivable (less bad debt allowance of $4.6 at December 31, 2019 and $6.7 at December 31, 2018) 285.7 333.1 Reinsurance recoverable for: Paid losses 7.2 6.7 Unpaid losses 532.5 504.4 Deferred policy acquisition costs 47.9 48.2 Deferred income taxes, net — 26.9 Property and equipment, net 21.9 18.2 Operating lease right-of-use assets 15.9 — Intangible assets, net 13.6 7.7 Goodwill 36.2 36.2 Contingent commission receivable–LPT Agreement 13.2 32.0 Cloud computing arrangements 33.6 26.0 Other assets 46.4 32.1 Total assets $ 4,004.1 $ 3,919.2 Liabilities and stockholders' equity Claims and policy liabilities: Unpaid losses and loss adjustment expenses $ 2,192.8 $ 2,207.9 Unearned premiums 337.1 336.3 Commissions and premium taxes payable 48.6 57.3 Accounts payable and accrued expenses 29.8 37.1 Deferred reinsurance gain—LPT Agreement 137.1 149.6 Notes payable — 20.0 Non-cancellable obligations 23.0 18.8 Operating lease liability 17.8 — Other liabilities 52.1 74.0 Total liabilities $ 2,838.3 $ 2,901.0 Commitments and contingencies (Note 11)

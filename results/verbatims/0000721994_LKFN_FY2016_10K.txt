@@ -1,0 +1,20 @@
+FIRM         : LKFN (CIK 0000721994) | FY2016
+FILE         : 0000721994_LKFN_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 5 – FAIR VALUES OF FINANCIAL INSTRUMENTS (continued)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+In addition to real estate, the Company's management evaluates other types of collateral as follows: (a) raw and finished inventory is discounted from its cost or book value by 35-65%, depending on the marketability of the goods (b) finished goods are generally discounted by 30-60%, depending on the ease of marketability, cost of transportation or scope of use of the finished good (c) work in process inventory is typically discounted by 50-100%, depending on the length of manufacturing time, types of components used in the completion process, and the breadth of the user base (d) equipment is valued at a percentage of depreciated book value or recent appraised value, if available, and is typically discounted at 30-70% after various considerations including age and condition of the equipment, marketability, breadth of use, and whether the equipment includes unique components or add-ons; and (e) marketable securities are discounted by 10-30%, depending on the type of investment, age of valuation report and general market conditions.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

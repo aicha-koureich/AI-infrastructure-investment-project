@@ -1,0 +1,20 @@
+FIRM         : ANDE (CIK 0000821026) | FY2019
+FILE         : 0000821026_ANDE_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 14. Leases
+ASSET CAT.   : machinery and equipment, information technology equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company leases certain grain handling and storage facilities, ethanol storage terminals, warehouse space, railcars, locomotives, barges, office space, machinery and equipment, vehicles and information technology equipment under operating leases. Lease expense for these leases is recognized within the Consolidated Statements of Operations on a straight-line basis over the lease term, with variable lease payments recognized in the period those payments are incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract. This ASU reduces the complexity of accounting for costs of implementing a cloud computing service arrangement. This standard aligns the accounting for implementation costs of hosting arrangements, regardless of whether they convey a license to the hosted software. The guidance is effective for fiscal years beginning after December 15, 2019. We have evaluated the impact of this new standard on our consolidated financial statements noting it is not material. Early adoption is permitted, but the Company does not plan to do so.

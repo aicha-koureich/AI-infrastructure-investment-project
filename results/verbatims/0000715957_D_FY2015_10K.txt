@@ -1,0 +1,25 @@
+FIRM         : D (CIK 0000715957) | FY2015
+FILE         : 0000715957_D_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+In 2013, Dominion Gas
+revised the depreciation rates for East Ohio to reflect the results of a new depreciation study. This change resulted in a decrease of $8 million ($5 million after-tax) in depreciation and amortization expense in Dominion Gas’ Consolidated
+Statements of Income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

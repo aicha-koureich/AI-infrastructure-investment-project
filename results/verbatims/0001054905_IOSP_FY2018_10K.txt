@@ -1,0 +1,21 @@
+FIRM         : IOSP (CIK 0001054905) | FY2018
+FILE         : 0001054905_IOSP_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 8. Other Intangible Assets
+ASSET CAT.   : Not disclosed
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+In 2018 we have completed the implementation of our new information system platform for our acquired Huntsman businesses. At December 31, 2018 we had
+capitalized $5.2 million (2017 – $4.4 million) in relation to this internally developed software. This asset has an expected life of 5 years and is being amortized on a straight-line basis over this period.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

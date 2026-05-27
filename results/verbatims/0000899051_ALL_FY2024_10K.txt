@@ -1,0 +1,21 @@
+FIRM         : ALL (CIK 0000899051) | FY2024
+FILE         : 0000899051_ALL_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment is carried at cost less accumulated depreciation. Included in property and equipment are capitalized costs related to computer software licenses and software developed for internal use of $398 million and $545 million, net of accumulated depreciation, as of December 31, 2024 and 2023, respectively. Property and equipment depreciation is calculated using the straight-line method over the estimated useful lives of the assets, generally 3 to 10 years for equipment, 3 to 5 years for computer software licenses and software developed for internal use and 40 years for real property.
+
+[VERBATIM — Infrastructure IA]
+Private equity limited partnerships by sector (% of carrying value) December 31, 2024 Industrial 21.6 % Healthcare 13.0 Information technology 12.2 Consumer discretionary 12.0 Communication services 7.7 Other 33.5 Total 100.0 % Real estate limited partnerships by sector (% of carrying value) December 31, 2024 Industrial 30.7 % Data centers 23.2 Residential 13.6 Healthcare 12.5 Consumer staples 5.3 Other 14.7 Total 100.0 % Short-term investments of $4.54 billion primarily comprise money market funds, commercial paper, U.S. Treasury bills, fixed income securities with a contractual maturity of one year or less at time of acquisition and other short-term investments, including securities lending collateral of $1.77 billion. Other investments primarily comprise $201 million of bank loans, $620 million of real estate and $2 million of derivatives as of December 31, 2024. For further detail on our use of derivatives, see Note 8 of the consolidated financial statements. Direct real estate investments by sector (% of carrying value) December 31, 2024 Agriculture 32.4 % Residential 28.7 Industrial 17.4 Retail 14.0 Office 7.3 Other 0.2 Total 100.0 %  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

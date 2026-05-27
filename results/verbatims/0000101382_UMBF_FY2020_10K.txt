@@ -1,0 +1,20 @@
+FIRM         : UMBF (CIK 0000101382) | FY2020
+FILE         : 0000101382_UMBF_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 22. SUBSEQUENT EVENT
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2020 2019 Land $ 42,323 $ 42,987 Buildings and leasehold improvements 351,957 358,291 Equipment 176,018 164,029 Software 264,251 238,315 Total 834,549 803,622 Accumulated depreciation (341,379 ) (330,677 ) Accumulated amortization (200,075 ) (172,611 ) Premises and equipment, net $ 293,095 $ 300,334
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

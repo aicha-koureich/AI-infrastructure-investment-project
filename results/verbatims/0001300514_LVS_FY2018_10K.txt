@@ -1,0 +1,23 @@
+FIRM         : LVS (CIK 0001300514) | FY2018
+FILE         : 0001300514_LVS_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 — Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, net of accumulated depreciation and amortization, and accumulated impairment losses, if any.
+
+[VERBATIM — Changement de politique]
+During the year ended December 31, 2017, the Company changed the estimated useful lives of certain of its property and equipment based on a combination of factors accumulating over time that provided the Company with updated information to make a better estimate of the economic lives of these assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

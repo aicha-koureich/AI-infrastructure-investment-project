@@ -1,0 +1,24 @@
+FIRM         : NOW (CIK 0001373715) | FY2022
+FILE         : 0001373715_NOW_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : data center equipment, equipment
+DURÉE        : 3.0-4.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-4.0 ans | 3.0-5.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+In January 2022, we completed an assessment of the useful life of our data center equipment and determined we should increase the estimated useful life of data center equipment from three to four years. Based on the carrying amount of data center equipment included in property and equipment, net as of December 31, 2021, the effect of this change in estimate for the year ended December 31, 2022, was a reduction in depreciation expense of $81 million and an increase in net income of $76 million, or $0.38 per share basic and $0.37 per share diluted.
+
+[VERBATIM — Changement de politique]
+In January 2022, we completed an assessment of the useful life of our data center equipment and determined we should increase the estimated useful life of data center equipment from three to four years. Based on the carrying amount of data center equipment included in property and equipment, net as of December 31, 2021, the effect of this change in estimate for the year ended December 31, 2022, was a reduction in depreciation expense of $81 million and an increase in net income of $76 million, or $0.38 per share basic and $0.37 per share diluted.
+
+[VERBATIM — Infrastructure IA]
+In January 2022, we completed an assessment of the useful life of our data center equipment and determined we should increase the estimated useful life of data center equipment from three to four years. This change in accounting estimate was effective beginning fiscal year 2022. Based on the carrying amount of data center equipment included in property and equipment, net as of December 31, 2021, the effect of this change in estimate for the year ended December 31, 2022, was a reduction in depreciation expense of $81 million and an increase in net income of $76 million, or $0.38 per share basic and $0.37 per share diluted.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We derive our revenues predominately from subscription revenues, which are primarily comprised of subscription fees that give customers access to the ordered subscription service, related support and updates, if any, to the subscribed service during the subscription term. For our cloud services, we recognize subscription revenues ratably over the contract term beginning on the commencement date of each contract, the date we make our services available to our customers. Our contracts with customers typically include a fixed amount of consideration and are generally non-cancelable and without any refund-type provisions. ||| Our estimated future obligations consist of leases, a non-cancelable $500 million agreement with Microsoft to purchase cloud services over five years for accelerating the Azure adoption for mutual customers, purchase obligations, debt and unrecognized tax benefits as of December 31, 2022. Refer to Note 17 “Commitments and Contingencies” to our consolidated financial statements included in this Annual Report on Form 10-K for more information.

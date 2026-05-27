@@ -1,0 +1,21 @@
+FIRM         : HCSG (CIK 0000731012) | FY2018
+FILE         : 0000731012_HCSG_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1— Description of Business and Significant Accounting Policies
+ASSET CAT.   : equipment, computer hardware, furniture and fixtures
+DURÉE        : 5.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 5.0-7.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, net of accumulated depreciation. Depreciation is recorded using the straight-line method over the following estimated useful lives: Housekeeping and Dietary equipment — 5 to 7 years; computer hardware and software — 3 to 7 years; and other, consisting of furniture and fixtures, leasehold improvements and vehicles — 5 to 10 years. Depreciation expense on property and equipment for the years ended December 31, 2018, 2017 and 2016 was $4.9 million, $5.0 million and $4.8 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

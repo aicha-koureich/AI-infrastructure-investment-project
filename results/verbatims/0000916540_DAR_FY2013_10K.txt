@@ -1,0 +1,20 @@
+FIRM         : DAR (CIK 0000916540) | FY2013
+FILE         : 0000916540_DAR_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 28, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 13. INCOME TAXES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment depreciation
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In connection with the completion of the Notes Merger, pursuant to the provisions of the Original Indenture and the Original Purchase Agreement, Darling Escrow Sub, Darling and certain of Darling’s subsidiaries: Craig Protein, Darling AWS, Darling National, Darling Northstar, Darling Global Holdings, EV Acquisition, Griffin , Terra Holding and TRS (such subsidiaries, the "Guarantors") entered into a supplemental indenture with the Trustee (the "Supplemental Indenture," and together with the Original Indenture, the "Indenture"), pursuant to which, upon effectiveness of the Notes Merger, Darling assumed all the obligations of Darling Escrow Sub under the 5.375% Notes and the Indenture and the Guarantors guaranteed the 5.375% Notes and agreed to be bound by the terms of the Indenture applicable to subsidiary guarantors of the 5.375% Notes. In addition, in accordance with the provisions of the Original Purchase Agreement, upon the completion of the Notes Merger, Darling and the Guarantors became parties to the Original Purchase Agreement, by entering into a Joinder to the Original Purchase Agreement, dated as of the Notes Closing Date (together with the Original Purchase Agreement, the "Purchase Agreement"), with Goldman Sachs and J.P. Morgan, for themselves and on behalf of BMO. Upon satisfaction of the escrow release conditions on the Notes Closing Date, the proceeds from the offering of the 5.375% Notes were released from the escrow account. Darling used a portion of the proceeds from the offering of the 5.375% Notes to pay the initial purchasers’ commission related to the offering of the 5.375% Notes and certain fees and expenses (including bank fees and expenses) related to the financing of the VION Acquisition and for purposes of satisfying, discharging and redeeming our

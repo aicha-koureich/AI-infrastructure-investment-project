@@ -1,0 +1,21 @@
+FIRM         : VRSK (CIK 0001442145) | FY2018
+FILE         : 0001442145_VRSK_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 7. Contract Assets and Contract Liabilities
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Useful Life Cost Accumulated Depreciation and Amortization Net December 31, 2018 Furniture and office equipment 3-10 years $ 260.1 $ (198.8 ) $ 61.3 Leasehold improvements Lease term 111.9 (46.6 ) 65.3 Purchased software 3 years 122.6 (104.4 ) 18.2 Software development costs 3-7 years 654.6 (316.6 ) 338.0 Leased equipment 3-4 years 36.2 (31.7 ) 4.5 Aircraft equipment 2-10 years 81.1 (12.5 ) 68.6 Total fixed assets $ 1,266.5 $ (710.6 ) $ 555.9 December 31, 2017 Furniture and office equipment 3-10 years $ 276.2 $ (183.5 ) $ 92.7 Leasehold improvements Lease term 83.1 (40.7 ) 42.4 Purchased software 3 years 123.0 (97.6 ) 25.4 Software development costs 3-7 years 525.3 (230.9 ) 294.4 Leased equipment 3-4 years 35.0 (29.7 ) 5.3 Aircraft equipment 2-10 years 20.4 (2.3 ) 18.1 Total fixed assets $ 1,063.0 $ (584.7 ) $ 478.3
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

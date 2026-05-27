@@ -1,0 +1,23 @@
+FIRM         : XEL (CIK 0000072903) | FY2017
+FILE         : 0000072903_XEL_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+NSP-Minnesota and NSP-Wisconsin were parties to a February 2018 FERC filing by MISO and MISO TOs proposing to early commence reductions to transmission formula rates in 2018 for tax rate impacts of the TCJA. Also in February 2018, PSCo made a filing with FERC similarly requesting early reductions in its transmission and production formula rates in 2018 for tax rate impacts of the TCJA. For SPS, as the TCJA tax rate change largely offsets a depreciation rate change that was effective Jan. 1, 2018 in its wholesale production rates, SPS has notified FERC that it will continue to charge rates established in 2017, subject to refund. FERC has not issued any orders on these matters, or commenced any formula rate proceedings related the impacts of the TCJA.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

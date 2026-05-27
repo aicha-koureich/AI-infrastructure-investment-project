@@ -1,0 +1,23 @@
+FIRM         : ENTA (CIK 0001177648) | FY2015
+FILE         : 0001177648_ENTA_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies Basis of Presentation
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Significant
+estimates and assumptions reflected in these consolidated financial statements include, but are not limited to, management’s judgments of separate units of accounting and best estimate of selling price of those units of accounting within its
+revenue arrangements; valuation of warrants, Series 1 nonconvertible preferred stock and stock-based awards; the useful lives of property and equipment; and the accounting for income taxes, including uncertain tax positions and the valuation of
+net deferred tax assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

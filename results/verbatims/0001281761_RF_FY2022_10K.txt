@@ -1,0 +1,23 @@
+FIRM         : RF (CIK 0001281761) | FY2022
+FILE         : 0001281761_RF_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2029-08-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 8. PREMISES AND EQUIPMENT
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2022 2021 (In millions) Land $ 420 $ 419 Premises and improvements 1,680 1,651 Furniture and equipment 1,056 1,056 Software 969 926 Leasehold improvements 455 434 Construction in progress 101 152 4,681 4,638 Accumulated depreciation and amortization (2,963) (2,824) $ 1,718 $ 1,814
+
+[VERBATIM — Changement de politique]
+Regions sponsors stock plans which most commonly include restricted stock (i.e., unvested common stock) units, restricted stock awards and performance stock units. The Company accounts for share-based payments under the fair value recognition provisions whereby compensation cost is measured based on the estimated fair value of the award at the grant date and is recognized in the consolidated financial statements on a straight-line basis over the requisite service period for service-based awards. The fair value of restricted stock units, restricted stock awards or performance stock units is determined based on the closing price of Regions common stock on the date of grant. Historical data is also used to estimate future employee attrition, which is considered in calculating estimated forfeitures. Estimated forfeitures are adjusted when actual forfeitures differ from estimates, resulting in the recognition of compensation cost only for awards that vest. The effect of a change in estimated forfeitures is recognized through a cumulative catch-up adjustment that is included in salaries and employee benefits expense in the period of the change in estimate. As compensation cost is recognized, a deferred tax asset is recorded that represents an estimate of the future tax deduction from exercise or release of restrictions. At the time the share-based awards are exercised, cancelled, have expired, or restrictions are released, the Company may be required to recognize an adjustment to tax expense depending on the market price of the Company’s common stock. Prior to 2021, Regions' sponsored plans also included stock options. Refer to Note 1 "Summary of Significant Accounting Policies" and Note 16 "Share-Based Payments" of the Annual Report on Form 10-K for the year ended December 31, 2021, for additional information regarding the accounting and reporting policies related to stock options.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

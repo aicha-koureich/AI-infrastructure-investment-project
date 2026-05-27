@@ -1,0 +1,20 @@
+FIRM         : RS (CIK 0000861884) | FY2023
+FILE         : 0000861884_RS_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Our metals service center leases are comprised of processing and distribution facilities, equipment, automobiles, trucks and trailers, ground leases and other leased spaces, such as depots, sales offices, storage and data centers. We also lease various office spaces. Our leases of facilities and other spaces expire at various times through 2045 and our ground leases expire at various times through 2068. Nearly all of our leases are operating leases; we have recognized finance right-of-use assets and obligations of less than $1.0 million.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

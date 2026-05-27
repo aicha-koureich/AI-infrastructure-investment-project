@@ -1,0 +1,20 @@
+FIRM         : PYPL (CIK 0001633917) | FY2020
+FILE         : 0001633917_PYPL_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Technology and development expenses increased $557 million, or 27%, in 2020 compared to 2019 due primarily to increases in employee-related expenses, amortization of acquired intangibles, data center and cloud computing services utilized in delivering our products, and costs related to contractors and consultants. Our acquisitions of Honey and GoPay collectively contributed approximately 15 percentage points to the growth rate of technology and development expenses in 2020.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Technology and development expenses increased $557 million, or 27%, in 2020 compared to 2019 due primarily to increases in employee-related expenses, amortization of acquired intangibles, data center and cloud computing services utilized in delivering our products, and costs related to contractors and consultants. Our acquisitions of Honey and GoPay collectively contributed approximately 15 percentage points to the growth rate of technology and development expenses in 2020. ||| • Purchase obligation amounts include minimum purchase commitments for advertising, capital expenditures (computer equipment, software applications, engineering development services, and construction contracts), data center and cloud computing services, and other goods and services entered into in the ordinary course of business. ||| Purchase obligation amounts include minimum purchase commitments for advertising, capital expenditures (computer equipment, software applications, engineering development services, and construction contracts), data center and cloud computing services, and other goods and services entered into in the ordinary course of business.

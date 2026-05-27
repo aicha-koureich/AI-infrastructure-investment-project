@@ -1,0 +1,23 @@
+FIRM         : EXC (CIK 0001109357) | FY2019
+FILE         : 0001109357_EXC_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — Significant Accounting Policies
+ASSET CAT.   : Capitalized Software, equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Certain other capitalized software costs are being amortized over longer lives based on the expected life or pursuant to prescribed regulatory requirements.
+
+[VERBATIM — Changement de politique]
+As a result of these early nuclear plant retirement decisions, Exelon and Generation recognized incremental non-cash charges to earnings stemming from shortening the expected economic useful lives primarily related to accelerated depreciation of plant assets (including any ARC) and accelerated amortization of nuclear fuel, as well as operating and maintenance expenses. The total annual impact of these charges by year are summarized in the table below.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements (Issued August 2018) . Aligns the requirements for capitalizing costs incurred to implement a cloud computing arrangement with the internal-use software guidance. As a result, certain implementation costs incurred in a cloud computing arrangement that are currently expensed as incurred will be deferred and amortized over the non-cancellable term of the arrangement plus any reasonably certain renewal periods. The standard was effective January 1, 2020 and can be applied using either a prospective or retrospective transition approach. A retrospective approach requires a cumulative-effect adjustment to retained earnings as of ||| Cloud Computing Arrangements (Issued August 2018) ||| Aligns the requirements for capitalizing costs incurred to implement a cloud computing arrangement with the internal-use software guidance. As a result, certain implementation costs incurred in a cloud computing arrangement that are currently expensed as incurred will be deferred and amortized over the non-cancellable term of the arrangement plus any reasonably certain renewal periods. The standard was effective January 1, 2020 and can be applied using either a prospective or retrospective transition approach. A retrospective approach requires a cumulative-effect adjustment to retained earnings as of

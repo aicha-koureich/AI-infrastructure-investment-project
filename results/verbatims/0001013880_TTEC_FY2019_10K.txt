@@ -1,0 +1,20 @@
+FIRM         : TTEC (CIK 0001013880) | FY2019
+FILE         : 0001013880_TTEC_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Our 2019 income from operations increased $31.7 million to $123.7 million or 7.5% of revenue, from $92.1 million or 6.1% of revenue for 2018. The change in operating income is attributable to a number of different factors across the segments. The TTEC Digital operating income expanded with an 18%, or $5.9 million, improvement over last year primarily on the growth of its higher margin cloud business and its system integration business which provides services pre and post the buildout of each client’s cloud platform. The TTEC Engage operating income increased 44%, or $25.8 million, compared to the prior year based on the increase in revenue and a $6.8 million benefit related to foreign currency fluctuations which was offset by a $9.8 million decrease related to the initial adoption of ASC 606 during the first quarter of 2018. ||| The increase in revenue for the TTEC Digital segment was related to significant increases in the cloud platform and the systems integration practice including a large multi-year governmental contract and increases in the digital learning and insights practices, offset by reductions in both the legacy facilitation based training and lower volumes in the Middle East business, which the Company is in the process of winding down.

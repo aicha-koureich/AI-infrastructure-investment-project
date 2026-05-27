@@ -1,0 +1,20 @@
+FIRM         : KEYS (CIK 0001601046) | FY2022
+FILE         : 0001601046_KEYS_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2022
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Revenue from the commercial communications market represented approximately 69 percent of total Communications Solutions Group revenue in 2022 and increased 11 percent as compared to 2021. Revenue grew across all regions, driven by strong market demand across the communications ecosystem. Wireless 5G development and manufacturing of chipsets, components and devices, O-RAN, and high-speed data solutions to support data centers and the cloud drove growth. Revenue from the commercial communications market represented approximately 68 percent of total Communications Solutions Group revenue in 2021 and increased 8 percent as compared to 2020, with growth in the Americas and Europe, partially offset by a decline in Asia Pacific. The 2021 revenue growth was driven by improved economic conditions across the communications ecosystem, partially offset by the impact of China trade restrictions.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

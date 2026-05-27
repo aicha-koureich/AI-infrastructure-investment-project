@@ -1,0 +1,20 @@
+FIRM         : HPE (CIK 0001645590) | FY2016
+FILE         : 0001645590_HPE_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 20: Equity Method Investments
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company amortizes capitalized software development costs using the greater of the straight-line amortization method or the ratio that current gross revenues for a product bear to the total current and anticipated future gross revenues for that product. The estimated useful life for capitalized software for resale is generally
+
+[VERBATIM — Infrastructure IA]
+Impairment of data center assets  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+ES net revenue decreased 4.7% (decreased 1.4% on a constant currency basis) in fiscal 2016. The net revenue decrease in ES was due primarily to unfavorable currency fluctuations, particularly in EMEA, and weak demand across the EMEA region, particularly the UK Public Sector business, revenue runoff in key accounts, and the divestiture of MphasiS in the fourth quarter of fiscal 2016, partially offset by strength in our SES portfolio, which includes analytics and data management, and security and cloud services, new client signings, and growth in our U.S. Public Sector business and the Asia Pacific and Japan ("APJ") region. Net revenue in ITO decreased by 6% in fiscal 2016 due primarily to unfavorable currency fluctuations and weakness in the EMEA region, particularly the UK Public Sector business, partially offset by growth in our SES portfolio and new client signings. Net revenue in Application and Business Services ("ABS") declined by 3% in fiscal 2016, due primarily to unfavorable currency fluctuations and the divestiture of MphasiS in fiscal 2016, partially offset by strength in our SES portfolio, particularly analytics and data management services and growth in the U.S. Public Sector business and APJ region.

@@ -1,0 +1,20 @@
+FIRM         : MDU (CIK 0000067716) | FY2022
+FILE         : 0000067716_MDU_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+◦ Higher commercial revenues driven largely by a $251.5 million increase in hospitality projects due to the progress on large projects, a $121.8 million increase in data center projects driven by both the number of and progress on projects and an increase in general commercial projects as a result of project mix and progression of contracts.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

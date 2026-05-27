@@ -1,0 +1,20 @@
+FIRM         : YUM (CIK 0001041061) | FY2024
+FILE         : 0001041061_YUM_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 – Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Additionally, from time-to-time we provide consideration to franchisees in the form of cash (e.g. cash payments to offset new build costs) or other incentives (e.g. free or subsidized equipment) with the intent to drive new unit development or same-store sales growth that will result in higher future revenues for the Company. Such payments are capitalized and presented within Prepaid expense and other current assets or Other assets. These assets are being amortized as a reduction in Franchise and property revenues over the period of expected cash flows from the franchise agreements to which the payment relates and are assessed for impairment whenever events or changes in circumstances indicate that the carrying amount of these incentive assets may not be recoverable.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

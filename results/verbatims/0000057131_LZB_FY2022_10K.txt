@@ -1,0 +1,21 @@
+FIRM         : LZB (CIK 0000057131) | FY2022
+FILE         : 0000057131_LZB_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-04-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 5: Property, Plant and Equipment
+ASSET CAT.   : equipment
+DURÉE        : 3.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-6.0 ans | 3.0-10.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+(Amounts in thousands) Estimated Useful Lives 4/29/2023 4/30/2022 Buildings and building fixtures 3 - 30 years $ 301,546 $ 250,758 Machinery and equipment 3 - 20 years 193,890 184,223 Information systems, hardware and software 3 - 15 years 99,703 102,861 Furniture and fixtures 3 - 10 years 27,049 23,665 Land improvements 3 - 30 years 24,617 23,541 Transportation equipment 3 - 6 years 16,800 16,499 Land N/A 8,554 8,587 Construction in progress N/A 32,427 38,712 704,586 648,846 Accumulated depreciation (426,008) (395,702) Net property, plant and equipment $ 278,578 $ 253,144
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

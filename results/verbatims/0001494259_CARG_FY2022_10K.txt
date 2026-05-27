@@ -1,0 +1,20 @@
+FIRM         : CARG (CIK 0001494259) | FY2022
+FILE         : 0001494259_CARG_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-04-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies Basis of Presentation The consolidated financial statements have been prepared in conformity with accoun
+ASSET CAT.   : Equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment Property and equipment are stated at cost less accumulated depreciation and amortization using the straight‑line method over the estimated useful lives of the assets. The estimated useful lives of the Company’s property and equipment are as follows: Estimated Useful Life (In Years) Capitalized equipment 3 Capitalized internal-use software 3 Capitalized website development 3 Furniture and fixtures 3 to 5 Right-of-use assets Lease term, or asset life if shorter Leasehold improvements Lease term, or asset life if shorter Expenditures for repairs and maintenance are charged to expense as incurred, whereas major betterments are capitalized as additions to property and equipment.
+
+[VERBATIM — Infrastructure IA]
+Marketplace cost of revenue includes expenses related to supporting and hosting marketplace service offerings. These expenses include personnel and related expenses for the Company's customer support team, including salaries, benefits, incentive compensation, and stock-based compensation; third-party service provider expenses such as advertising, data center and networking expenses; amortization of developed technology; amortization of capitalized website development; amortization of hosting arrangements; and allocated overhead expenses. The Company allocates overhead expenses, such as rent and facility expenses, information technology expense, and employee benefit expense, to all departments based on headcount. As such, general overhead expenses are reflected in cost of revenue and each operating expense category.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

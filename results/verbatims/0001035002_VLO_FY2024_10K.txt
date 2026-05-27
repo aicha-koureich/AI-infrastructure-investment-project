@@ -1,0 +1,20 @@
+FIRM         : VLO (CIK 0001035002) | FY2024
+FILE         : 0001035002_VLO_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-07
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF BUSINESS, BASIS OF PRESENTATION, AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The cost of property, plant, and equipment (property assets) purchased or constructed, including betterments of property assets, is capitalized. However, the cost of repairs to and normal maintenance of property assets is expensed as incurred. Betterments of property assets are those that extend the useful life, increase the capacity or improve the operating efficiency of the asset, or improve the safety of our operations. The cost of property assets constructed includes interest and certain overhead costs allocable to the construction activities.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

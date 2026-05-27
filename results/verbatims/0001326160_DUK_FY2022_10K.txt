@@ -1,0 +1,23 @@
+FIRM         : DUK (CIK 0001326160) | FY2022
+FILE         : 0001326160_DUK_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2027-05-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 27 – Quarterly Financial Data (Unaudited)
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : A100;B100 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, (in millions) 2022 2021 ASSETS Current Assets Cash and cash equivalents $ 45 $ 23 Receivables (net of allowance for doubtful accounts of $8 at 2022 and 2021) 148 117 Receivables of VIEs (net of allowance for doubtful accounts of $28 at 2022 and $8 at 2021) 496 432 Receivables from affiliated companies 2 16 Inventory 573 477 Regulatory assets (includes $55 at 2022 and $54 at 2021 related to VIEs) 1,143 497 Other (includes $46 at 2022 and $39 at 2021 related to VIEs) 108 80 Total current assets 2,515 1,642 Property, Plant and Equipment Cost 25,940 23,865 Accumulated depreciation and amortization (6,377) (5,819) Net property, plant and equipment 19,563 18,046 Other Noncurrent Assets Regulatory assets (includes $826 at 2022 and $883 at 2021 related to VIEs) 2,422 1,791 Nuclear decommissioning trust funds 424 553 Operating lease right-of-use assets, net 258 302 Other 372 399 Total other noncurrent assets 3,476 3,045 Total Assets $ 25,554 $ 22,733 LIABILITIES AND EQUITY Current Liabilities Accounts payable $ 880 $ 623 Accounts payable to affiliated companies 177 209 Notes payable to affiliated companies 605 199 Taxes accrued 53 51 Interest accrued 80 68 Current maturities of long-term debt (includes $306 at 2022 and $56 at 2021 related to VIEs) 328 76 Asset retirement obligations 1 1 Regulatory liabilities 244 98 Other 363 408 Total current liabilities 2,731 1,733 Long-Term Debt (includes $890 at 2022 and $1,196 at 2021 related to VIEs) 9,381 8,406 Other Noncurrent Liabilities Deferred income taxes 2,789 2,434 Asset retirement obligations 357 436 Regulatory liabilities 633 698 Operating lease liabilities 211 256 Accrued pension and other post-retirement benefit costs 111 166 Investment tax credits 234 236 Other 84 73 Total other noncurrent liabilities 4,419 4,299 Commitments and Contingencies Equity Member's equity 9,031 8,298 Accumulated other comprehensive loss (8) (3) Total equity 9,023 8,295 Total Liabilities and Equity $ 25,554 $ 22,733
+
+[VERBATIM — Changement de politique]
+The present value of the initial obligation and subsequent updates are based on discounted cash flows, which include estimates regarding timing of future cash flows, selection of discount rates and cost escalation rates, among other factors. These estimates are subject to change. Depreciation expense is adjusted prospectively for any changes to the carrying amount of the associated asset. The Duke Energy Registrants receive amounts to fund the cost of the ARO for regulated operations through a combination of regulated revenues and earnings on the NDTF. As a result, amounts recovered in regulated revenues, earnings on the NDTF, accretion expense and depreciation of the associated asset are netted and deferred as a regulatory asset or liability.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

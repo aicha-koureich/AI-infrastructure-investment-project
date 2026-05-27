@@ -1,0 +1,23 @@
+FIRM         : ENR (CIK 0001632790) | FY2018
+FILE         : 0001632790_ENR_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+– Capitalized software costs are included in other assets. These costs are amortized using the straight-line method over periods of related benefit ranging from
+
+[VERBATIM — Changement de politique]
+– Property, plant and equipment, net is stated at historical costs. Expenditures for new facilities and expenditures that substantially increase the useful life of property, including interest during construction, are capitalized and reported in the Capital expenditures caption in the Consolidated Statements of Cash Flows. Maintenance, repairs and minor renewals are expensed as incurred. When property is retired or otherwise disposed of, the related cost and accumulated depreciation are removed from the accounts, and gains or losses on the disposition are reflected in earnings. Depreciation is generally provided on the straight-line basis by charges to pre-tax earnings at rates based on estimated useful lives. Estimated useful lives range from
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract ||| . This update requires implementation costs incurred by customers in cloud computing arrangements to be deferred and recognized over the term of the arrangement similar to internal-use software guidance. This update is effective for the Company beginning October 1, 2020 with early adoption permitted. The Company plans to early adopt this guidance as of October 1, 2018 and will defer and recognize allowable implementation costs for future projects in fiscal 2019. ||| On August 29, 2018, the FASB issued ASU 2018-15, Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract . This update requires implementation costs incurred by customers in cloud computing arrangements to be deferred and recognized over the term of the arrangement similar to internal-use software guidance. This update is effective for the Company beginning October 1, 2020 with early adoption permitted. The Company plans to early adopt this guidance as of October 1, 2018 and will defer and recognize allowable implementation costs for future projects in fiscal 2019.

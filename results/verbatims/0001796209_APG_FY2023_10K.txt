@@ -1,0 +1,20 @@
+FIRM         : APG (CIK 0001796209) | FY2023
+FILE         : 0001796209_APG_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 11. PROPERTY AND EQUIPMENT, NET
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense related to property and equipment, including finance leases, was $79, $77, and $75, during the years ended December 31, 2023, 2022 and 2021, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

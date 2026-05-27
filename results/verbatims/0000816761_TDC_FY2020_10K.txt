@@ -1,0 +1,20 @@
+FIRM         : TDC (CIK 0000816761) | FY2020
+FILE         : 0000816761_TDC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 5. recognize revenue when (or as) the Company satisfies a performance obligation.
+ASSET CAT.   : Capitalized Software, computer software
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Direct development costs associated with internal-use software are capitalized and amortized over the estimated useful lives of the resulting software. Teradata typically amortizes capitalized internal-use software on a straight-line basis over three years beginning when the asset is substantially ready for use.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. In August 2018, the FASB issued new guidance that reduces complexity for the accounting for costs of implementing a cloud computing service arrangement and aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). The Company adopted this guidance on January 1, 2020, which did not have a material impact on our consolidated financial statements. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. ||| In August 2018, the FASB issued new guidance that reduces complexity for the accounting for costs of implementing a cloud computing service arrangement and aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). The Company adopted this guidance on January 1, 2020, which did not have a material impact on our consolidated financial statements.

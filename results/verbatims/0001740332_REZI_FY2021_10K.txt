@@ -1,0 +1,20 @@
+FIRM         : REZI (CIK 0001740332) | FY2021
+FILE         : 0001740332_REZI_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-04-02
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment —Property, plant and equipment are recorded at cost, less accumulated depreciation. For financial reporting, the straight-line method of depreciation is used over the estimated useful lives of 10 to 50 years for buildings and improvements, 3 to 16 years for machinery and equipment and 3 to 10 years for tooling equipment.
+
+[VERBATIM — Infrastructure IA]
+We are a leading global manufacturer and distributor of technology driven products and solutions that help homeowners and businesses stay connected and in control of their comfort, security and energy use. We are a leader in the home heating, ventilation and air conditioning controls and security markets. We have a global footprint serving commercial and residential end-markets. We manage our business operations through two operating segments, Products & Solutions and ADI Global Distribution. Our Products & Solutions segment offerings include temperature and humidity control, thermal and combustion solutions, water and air solutions, as well as security panels, sensors, peripherals, wire and cable, communications devices, video cameras, awareness solutions, cloud infrastructure, installation and maintenance tools and related software. Our ADI Global Distribution business is the leading wholesale distributor of low-voltage security products including intrusion, access control and video products and participates significantly in the broader related markets of smart home, fire, power, audio, ProAV, networking, communications, wire and cable, and data communications. The Products & Solutions segment, consistent with our industry, has a higher gross and operating profit margin profile in comparison to the ADI Global Distribution segment.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

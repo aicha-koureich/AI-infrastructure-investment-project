@@ -1,0 +1,23 @@
+FIRM         : MRNA (CIK 0001682852) | FY2018
+FILE         : 0001682852_MRNA_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in property and equipment and we begin amortization of those costs when the software will be used to perform the function intended. Capitalized software costs associated with projects are amortized over
+
+[VERBATIM — Changement de politique]
+of current year taxable income and elimination of net operating loss carrybacks, one time taxation of offshore earnings at reduced rates regardless of whether they are repatriated, elimination of U.S. tax on foreign earnings (subject to certain important exceptions), immediate deductions for certain new investments instead of deductions for depreciation expense over time, and modifying or repealing many business deductions and credits.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles—Goodwill and Other—Internal-Use Software (Topic 350): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. ||| In August 2018, the FASB issued ASU 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Topic 350): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. This standard requires capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). This standard should be applied either retrospectively or prospectively, and will be effective for us on January 2021, with early adoption permitted. We are currently evaluating the potential impact this standard may have on our consolidated financial statements and results of operations upon adoption.

@@ -1,0 +1,20 @@
+FIRM         : CDNS (CIK 0000813672) | FY2023
+FILE         : 0000813672_CDNS_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2023
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We primarily generate revenue from licensing our software and IP, selling or leasing our emulation and prototyping hardware technology, providing maintenance for our software, hardware and IP, providing engineering and cloud services and earning royalties generated from the use of our IP. The timing of our revenue is significantly affected by the mix of software, hardware and IP products generating revenue in any given period, whether the revenue is recognized over time, or recognized at a point in time upon completion of delivery.

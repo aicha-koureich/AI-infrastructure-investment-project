@@ -1,0 +1,24 @@
+FIRM         : HAE (CIK 0000313143) | FY2018
+FILE         : 0000313143_HAE_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 9. GOODWILL AND INTANGIBLE ASSETS
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+reflect the impact of amortization expense, partially offset by the investment in capitalized software.
+
+[VERBATIM — Changement de politique]
+Additionally, the Company has changed the estimated useful lives of PCS
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+. The new guidance will align the accounting implementation costs incurred in a cloud computing arrangement that is a service contract with the accounting for internal-use software licenses. The guidance is effective for annual periods beginning after December 15, 2019 and is applicable to us in fiscal 2021. Early adoption is permitted for all entities, including interim periods. The impact of adopting ASC Update No. 2018-15 is not expected to have a material effect on our consolidated financial statements. ||| In August 2018, the FASB issued ASC Update No. 2018-15, Intangibles, Goodwill and Other - Internal-Use Software (Subtopic 350-40) . The new guidance will align the accounting implementation costs incurred in a cloud computing arrangement that is a service contract with the accounting for internal-use software licenses. The guidance is effective for annual periods beginning after December 15, 2019 and is applicable to us in fiscal 2021. Early adoption is permitted for all entities, including interim periods. The impact of adopting ASC Update No. 2018-15 is not expected to have a material effect on our consolidated financial statements.

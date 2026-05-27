@@ -1,0 +1,24 @@
+FIRM         : QSR (CIK 0001618756) | FY2022
+FILE         : 0001618756_QSR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-04-06
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Significant Accounting Policies
+ASSET CAT.   : software, which is primarily up to
+DURÉE        : 5.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+We record capitalized software at historical cost less accumulated amortization, which is recognized using the straight-line method. Amortization expense is based on the estimated useful life of the software, which is primarily up to five years, once the asset is available for its intended use.
+
+[VERBATIM — Changement de politique]
+Our measure of segment income is Adjusted EBITDA. Adjusted EBITDA represents earnings (net income or loss) before interest expense, net, loss on early extinguishment of debt, income tax (benefit) expense, and depreciation and amortization, adjusted to exclude (i) the non-cash impact of share-based compensation and non-cash incentive compensation expense, (ii) (income) loss from equity method investments, net of cash distributions received from equity method investments, (iii) other operating expenses (income), net and, (iv) income/expenses from non-recurring projects and non-operating activities. For the periods referenced, income/expenses from non-recurring projects and non-operating activities included (i) non-recurring fees and expense incurred in connection with the Firehouse Acquisition consisting of professional fees, compensation-related expenses and integration costs (“FHS Transaction costs”); and (ii) non-operating costs from professional advisory and consulting services associated with certain transformational corporate restructuring initiatives that rationalize our structure and optimize cash movements, including services related to significant tax reform legislation, regulations and related restructuring initiatives (“Corporate restructuring and tax advisory fees”).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Capitalized Software and Cloud Computing Costs ||| Implementation costs incurred in connection with Cloud Computing Arrangements (“CCA”) are capitalized consistently with costs capitalized for internal-use software. Capitalized CCA implementation costs are included in “Other assets” in the consolidated balance sheets and are amortized over the term of the related hosting agreement, including renewal periods that are reasonably certain to be exercised. Amortization expense of CCA implementation costs is classified as “General and administrative expenses” in the consolidated statements of operations.

@@ -1,0 +1,20 @@
+FIRM         : CRI (CIK 0001060822) | FY2014
+FILE         : 0001060822_CRI_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : JANUARY 3, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 21 – GUARANTOR CONDENSED CONSOLIDATING FINANCIAL STATEMENTS
+ASSET CAT.   : equipment, computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(dollars in thousands) January 3, 2015 December 28, 2013 Fixtures, equipment, computer hardware and software $ 325,852 $ 269,515 Land, buildings, and improvements 220,995 207,376 Marketing fixtures 12,089 12,018 Construction in progress 19,172 46,954 578,108 535,863 Accumulated depreciation and amortization (245,011 ) (227,978 ) Total $ 333,097 $ 307,885
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

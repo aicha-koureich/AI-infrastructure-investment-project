@@ -1,0 +1,20 @@
+FIRM         : CCS (CIK 0001576940) | FY2024
+FILE         : 0001576940_CCS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We currently use limited traditional and generative artificial intelligence (AI) solutions for certain sales, back office, administrative and other functions. We may incorporate additional AI solutions into our information systems in the future and these solutions may become important in our operations over time. The ever-increasing use and evolution of technology, including cloud-based computing and AI, creates opportunities for the potential loss or misuse of personal data that we use to run our business, and unintentional dissemination or intentional destruction of confidential information stored in our or our third party providers' systems, portable media or storage devices, which may result in significantly increased business and security costs, a damaged reputation, administrative penalties, or costs related to defending legal claims. AI programs may be costly and require significant expertise to develop, may be difficult to set up and manage, and require periodic upgrades. Our competitors or other third parties may incorporate AI into their information systems and homebuilding and financial services operations more quickly or more successfully than us, which could impair our ability to compete effectively and adversely affect our results of operations.

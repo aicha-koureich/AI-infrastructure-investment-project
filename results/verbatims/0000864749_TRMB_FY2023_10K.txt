@@ -1,0 +1,21 @@
+FIRM         : TRMB (CIK 0000864749) | FY2023
+FILE         : 0000864749_TRMB_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-29
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: NOTE 1: DESCRIPTION OF BUSINESS AND ACCOUNTING POLICIES
+ASSET CAT.   : computer equipment and software
+DURÉE        : 2.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : AMD_Instinct (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 4.0-6.0 ans | 5.0-10.0 ans | 30.0-9.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are depreciated using the straight-line method over the shorter of the estimated useful lives or the lease terms when applicable. Useful lives generally range from four to six years for machinery and equipment, five to ten years for furniture and fixtures, two to five years for computer equipment and software, thirty-nine years for buildings, and the life of the lease for leasehold improvements. We capitalize eligible costs to acquire or develop certain internal-use software and amortize those assets using the straight-line method over the estimated useful lives of the assets, which range from two to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Depreciation expense and cloud computing amortization ||| Years 2023 2022 DILUTED NET INCOME PER SHARE: GAAP diluted net income per share: $ 1.25 $ 1.80 Amortization of purchased intangible assets (A) 0.85 0.53 Acquisition / divestiture items (B) 0.14 (0.30) Stock-based compensation / deferred compensation (C) 0.58 0.48 Restructuring and other costs (D) 0.21 0.24 Non-GAAP tax adjustments (E) - (F) (0.37) (0.11) Non-GAAP diluted net income per share: $ 2.66 $ 2.64 ADJUSTED EBITDA: GAAP operating income: $ 448.8 11.8 % $ 510.9 13.9 % Amortization of purchased intangible assets (A) 212.3 131.6 Acquisition / divestiture items (B) 72.4 32.8 Stock-based compensation / deferred compensation (C) 151.1 112.0 Restructuring and other costs (D) 50.1 54.2 Non-GAAP operating income: 934.7 24.6 % 841.5 22.9 % Depreciation expense and cloud computing amortization 46.9 44.7 Income from equity method investments, net 28.1 31.1 Adjusted EBITDA $ 1,009.7 26.6 % $ 917.3 25.0 % ||| We define Adjusted EBITDA as non-GAAP operating income plus depreciation expense, cloud computing amortization, and income from equity method investments, net. Other companies may define Adjusted EBITDA differently. Adjusted EBITDA is not intended to purport to be an alternative to net income or operating income as a measure of operating performance or cash flow from operating activities as a measure of liquidity. Adjusted EBITDA is a performance measure that we believe offers a useful view of the overall operations of our business because it facilitates operating performance comparisons by removing potential differences caused by variations unrelated to operating performance, such as capital structures (interest expense), income taxes, depreciation, and amortization of purchased intangibles and cloud computing costs.

@@ -1,0 +1,20 @@
+FIRM         : SCI (CIK 0000089089) | FY2013
+FILE         : 0000089089_SCI_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 22. Quarterly Financial Data (Unaudited)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost. Maintenance and repairs are charged to expense whereas renewals and major replacements that extend the assets useful lives are capitalized. Depreciation is recognized ratably over the estimated useful lives of the various classes of assets. Buildings are depreciated over a period ranging from
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

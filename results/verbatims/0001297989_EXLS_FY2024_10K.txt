@@ -1,0 +1,20 @@
+FIRM         : EXLS (CIK 0001297989) | FY2024
+FILE         : 0001297989_EXLS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In the first quarter of 2025, we began to implement operational and structural changes to accelerate the execution of our data and AI strategy, capture a greater share of the growing AI market and drive our long-term growth. The new operating model is comprised of Industry Market Units (“IMUs”) to focus on delivering higher value to clients leveraging our full suite of capabilities; and Strategic Growth Units to focus on rapidly advancing our capabilities specific to various industries and client needs. This will enable us to further embed analytics throughout each of our IMUs, enhance our client relationships, deepen investments in data and AI capabilities, develop industry-specific AI solutions, form partnerships, access new client buying centers, enable expansion of our addressable markets across industries and geographies, and provide more professional development opportunities for our employees.

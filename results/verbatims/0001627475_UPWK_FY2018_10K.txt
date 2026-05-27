@@ -1,0 +1,20 @@
+FIRM         : UPWK (CIK 0001627475) | FY2018
+FILE         : 0001627475_UPWK_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 15—Subsequent Events
+ASSET CAT.   : Computer equipment, furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2018 2017 Computer equipment and software $ 3,189 $ 5,385 Internal-use software and platform development costs 6,287 2,318 Leasehold improvements 5,783 2,189 Office furniture and fixtures 2,545 1,550 Total property and equipment 17,804 11,442 Less: Accumulated depreciation (6,989 ) (7,928 ) Property and equipment, net $ 10,815 $ 3,514
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cost of revenue consists primarily of the cost of payment processing fees, amounts paid to freelancers to deliver services for clients under our managed services offering, personnel-related costs for our services and support personnel, third-party hosting fees for our use of AWS and the amortization expense associated with acquired intangibles and capitalized internal-use software and platform development. We define personnel-related costs as salaries, bonuses, benefits, travel and entertainment, and stock-based compensation costs for employees and the costs related to other service providers we engage. ||| Cost of revenue increased by $16.0 million, or 24%, in 2018 compared to 2017. The increase was primarily due to the increase in other components of cost of revenue, which included increases of $6.2 million in payment processing fees due to an increase in client spend on our platform, $2.4 million in third-party hosting costs directly related to increased usage of AWS, $1.1 million related to increased personnel-related costs, $1.0 million in costs directly associated with expanding our customer support team due to increased activity on our platform, and $0.8 million attributed to normal operating costs that increased due to the increase in revenue. Costs of freelancer services to deliver managed services increased by $4.5 million, or 23%, in 2018 compared to 2017, primarily due to a corresponding increase of $5.0 million in managed services revenue in 2018 as compared to 2017. In general, the cost of freelancer services to deliver managed services is directly correlated to our managed services revenue. ||| Cost of revenue increased by $2.9 million, or 5%, in 2017 as compared to 2016. This increase was primarily due to increases of $3.6 million in payment processing fees as a result of an increase in client spend on our platform, $0.9 million in third-party hosting costs as a result of our transition to AWS and increased transaction volume on our platform, and $2.9 million in personnel-related costs from an increase in personnel to support our growth, partially offset by a decrease of $2.6 million in amortization of intangibles that related to developed technology and $0.5 million in amortization that related to capitalized internal-use software and platform development. Costs of freelancer services to deliver managed services decreased by $1.1 million, or 5%, due to a decline in the amount of freelancer services used by a client using our managed services offering. In general, the cost of freelancer services to deliver managed services is directly correlated to our managed services revenue.

@@ -1,0 +1,21 @@
+FIRM         : MCY (CIK 0000064996) | FY2018
+FILE         : 0000064996_MCY_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Furniture, equipment, and purchased software are depreciated on a combination of straight-line and accelerated methods over
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") 2018-15, "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract." ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software under Subtopic 350-40. This ASU also requires an entity to expense the capitalized implementation costs of a hosting arrangement that is a service contract over the term of the hosting arrangement and present such expense in the same line item in the statement of income as the fees associated with the hosting element (service) of the arrangement and classify payments for capitalized implementation costs in the statement of cash flows in the same manner as payments made for fees associated with the hosting element. The entity is also required to present the capitalized implementation costs in the statement of financial position in the same line item that a prepayment for the fees of the associated hosting arrangement would be presented. ASU 2018-15 will be effective for the Company beginning January 1, 2020 with early adoption permitted. The Company is in the process of evaluating the impact of ASU 2018-15 on its consolidated financial statements and related disclosures.

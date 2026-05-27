@@ -1,0 +1,23 @@
+FIRM         : WGO (CIK 0000107687) | FY2019
+FILE         : 0000107687_WGO_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 6 : Property, Plant, and Equipment
+ASSET CAT.   : Machinery and equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : AMD_Instinct (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+(in thousands) August 31, 2019 August 25, 2018 Land $ 6,799 $ 6,747 Buildings and building improvements 119,638 94,622 Machinery and equipment 107,701 105,663 Software 29,169 23,388 Transportation 3,865 8,837 Property, plant, and equipment, gross 267,172 239,257 Less accumulated depreciation 139,600 138,064 Property, plant, and equipment, net $ 127,572 $ 101,193
+
+[VERBATIM — Changement de politique]
+We evaluate the performance of our reportable segments based on Adjusted EBITDA. EBITDA is defined as net income before interest expense, provision for income taxes, and depreciation and amortization expense. Adjusted EBITDA is defined as net income before interest expense, provision for income taxes, depreciation and amortization expense, and other adjustments made in order to present comparable results from year to year. Examples of items excluded from Adjusted EBITDA include the postretirement health care benefit income from terminating the plan, acquisition-related costs, restructuring expenses, and non-operating income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

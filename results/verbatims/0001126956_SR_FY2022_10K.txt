@@ -1,0 +1,20 @@
+FIRM         : SR (CIK 0001126956) | FY2022
+FILE         : 0001126956_SR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-09-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 17. Leases
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Accounting for the economics of rate regulation affects multiple financial statement line items, including property, plant, and equipment; regulatory assets and liabilities; operating revenues; and depreciation expense, and affects multiple disclosures in the Company’s financial statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

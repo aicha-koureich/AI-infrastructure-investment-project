@@ -1,0 +1,20 @@
+FIRM         : TFC (CIK 0000092230) | FY2021
+FILE         : 0000092230_TFC_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. Basis of Presentation
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises, equipment, finance leases, and leasehold improvements are stated at cost less accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Truist has operating and finance leases for data centers, corporate offices, branches, retail centers, and certain equipment. Operating leases with an original lease term in excess of one year are included in Other assets and Other liabilities in the Consolidated Balance Sheets. Finance leases are included in Premises and equipment and Long-term debt in the Consolidated Balance Sheets.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

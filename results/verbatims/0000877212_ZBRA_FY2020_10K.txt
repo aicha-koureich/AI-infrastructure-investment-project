@@ -1,0 +1,21 @@
+FIRM         : ZBRA (CIK 0000877212) | FY2020
+FILE         : 0000877212_ZBRA_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 7 Property, Plant and Equipment
+ASSET CAT.   : Machinery and equipment, Furniture, office equipment, computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+December 31, 2020 2019 Buildings $ 68 $ 63 Land 7 7 Machinery and equipment 248 232 Furniture and office equipment 25 20 Software and computer equipment 162 168 Leasehold improvements 92 84 Projects in progress 41 36 643 610 Less accumulated depreciation (369) (351) Property, plant and equipment, net $ 274 $ 259
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Our customers have traditionally benefited from proven solutions that increase productivity and improve asset efficiency and utilization. The Company is poised to drive, and capitalize on, the evolution of the data capture industry into the broader EAI industry, based on important technology trends like the Internet of Things (“IoT”), ubiquitous mobility, automation and cloud computing. EAI solutions offer additional benefits to our customers including real-time, data-driven insights that improve operational visibility and drive workflow optimization.

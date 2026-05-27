@@ -1,0 +1,20 @@
+FIRM         : POWI (CIK 0000833640) | FY2023
+FILE         : 0000833640_POWI_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. COMPONENTS OF THE COMPANY’S CONSOLIDATED BALANCE SHEETS:
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense for property and equipment for fiscal years ended December 31, 2023, 2022 and 2021, was approximately $35.2 million, $34.9 million and $31.5 million, respectively, and was determined using the straight-line method over the following useful lives:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

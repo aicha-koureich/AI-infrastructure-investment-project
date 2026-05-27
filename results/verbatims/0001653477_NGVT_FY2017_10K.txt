@@ -1,0 +1,23 @@
+FIRM         : NGVT (CIK 0001653477) | FY2017
+FILE         : 0001653477_NGVT_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3: Summary of significant accounting policies
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : Blackwell (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software is amortized using the straight-line over the estimated useful lives ranging from
+
+[VERBATIM — Changement de politique]
+Environmental expenditures that increase useful lives of assets are capitalized, while other environmental expenditures are expensed. Liabilities are recorded when remedial efforts are probable and the costs can be reasonably estimated. We recognize a liability for other legal contingencies when a loss is probable and reasonably estimable. Liabilities recorded for claims are limited to pending cases based on Ingevity’s historical experience, consultation with outside counsel and consultation with an actuarial specialist concerning the feasibility of reasonably estimating liabilities associated with claims that may arise in the future. We recognized insurance recoveries when collection is reasonably assured. Third-party fees for legal services are expensed as incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

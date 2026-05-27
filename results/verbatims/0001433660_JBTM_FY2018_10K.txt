@@ -1,0 +1,20 @@
+FIRM         : JBTM (CIK 0001433660) | FY2018
+FILE         : 0001433660_JBTM_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software amortization expense was
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Segment operating profit is defined as total segment revenue less segment operating expenses. The following items have been excluded in computing segment operating profit: corporate staff expense, stock-based compensation, LIFO provisions, restructuring costs, certain employee benefit expenses, interest income and expense and income taxes.

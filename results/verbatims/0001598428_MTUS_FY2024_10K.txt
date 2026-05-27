@@ -1,0 +1,21 @@
+FIRM         : MTUS (CIK 0001598428) | FY2024
+FILE         : 0001598428_MTUS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 10 - Leases The Company has operating leases primarily related to machinery and equipment, vehicles and information technology equipment. These l
+ASSET CAT.   : machinery and equipment, information technology equipment
+DURÉE        : 1.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 3.3 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Note 10 - Leases The Company has operating leases primarily related to machinery and equipment, vehicles and information technology equipment. These leases have remaining lease terms of less th an one year to approximately five years , so me of which may include options to extend the lease for one or more years. Certain leases also include options to purchase the leased asset. As of December 31, 2024, the Company has no financing leases. The weighted average remaining lease term for our operating leases as of December 31, 2024 w as 3.3 years. Leases with an initial term of 12 months or less ("short-term leases") are not recorded on the balance sheet. Rather, the Company recognizes lease expense for these leases on a straight-line basis over the lease term in accordance with the applicable accounting guidance. For lease agreements entered into after the adoption of lease accounting guidance on January 1, 2019, the Company combines lease and non-lease components. The Company’s lease agreements do not contain material residual value guarantees or material restrictive covenants. The Company recorded lease cost for the years ended December 31, 2024, 2023 and 2022 as follows: Year Ended December 31, 2024 2023 2022 Operating lease cost $ 7.5 $ 7.3 $ 6.7 Short-term lease cost 1.5 0.8 0.9 Total lease cost $ 9.0 $ 8.1 $ 7.6 When available, the rate implicit in the lease is used to discount lease payments to present value; however, the Company’s leases generally do not provide a readily determinable implicit rate. Therefore, the incremental borrowing rate to discount the lease payments is estimated using market-based information available at lease commencement. The weighted average discount rate used to measure our operating lease liabilities as of December 31, 2024 and 2023 was 4.9 % and 4.3 %, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

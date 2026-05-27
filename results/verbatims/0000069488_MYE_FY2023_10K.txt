@@ -1,0 +1,24 @@
+FIRM         : MYE (CIK 0000069488) | FY2023
+FILE         : 0000069488_MYE_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-08
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-12.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are carried at cost less accumulated depreciation and amortization.
+
+[VERBATIM — Changement de politique]
+As of December 31, 2023 , the Company was in compliance with all of its debt covenants associated with its Loan Agreement and Notes. The most restrictive financial covenants for all of the Company’s debt are an interest coverage ratio (defined as earnings before interest, taxes, depreciation and amortization, as adjusted, divided by interest expense) and a leverage ratio (defined as total debt divided by earnings before interest, taxes, depreciation and amortization, as adjusted). The ratios as of December 31, 2023 are shown in the following table:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

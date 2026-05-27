@@ -1,0 +1,21 @@
+FIRM         : DHX (CIK 0001393883) | FY2021
+FILE         : 0001393883_DHX_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, furniture and fixtures, computer software
+DURÉE        : 2.0-5.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Fixed Assets— Depreciation of equipment, furniture and fixtures, computer software and capitalized website development costs are provided under the straight-line method over estimated useful lives ranging from two to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

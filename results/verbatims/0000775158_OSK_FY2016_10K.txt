@@ -1,0 +1,20 @@
+FIRM         : OSK (CIK 0000775158) | FY2016
+FILE         : 0000775158_OSK_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 14. Fair Value Measurement
+ASSET CAT.   : software and related costs
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The estimated useful lives range from ten to forty years for buildings and improvements, from four to twenty-five years for machinery and equipment and from three to ten years for software and related costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

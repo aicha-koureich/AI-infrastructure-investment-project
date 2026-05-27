@@ -1,0 +1,20 @@
+FIRM         : OGN (CIK 0001821825) | FY2023
+FILE         : 0001821825_OGN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Summary of Accounting Policies
+ASSET CAT.   : buildings, and from 3 to 15 years for machinery, equipment and office furnishings
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The estimated useful lives primarily range from 25 to 40 years for buildings, and from 3 to 15 years for machinery, equipment and office furnishings.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

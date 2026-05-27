@@ -1,0 +1,20 @@
+FIRM         : CVS (CIK 0000064803) | FY2022
+FILE         : 0000064803_CVS_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-07
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Significant Accounting Policies
+ASSET CAT.   : fixtures, equipment and internally developed software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+building improvements and leasehold improvements and 3 to 10 years for fixtures, equipment and internally developed software. Application development stage costs for significant internally developed software projects are capitalized and depreciated.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

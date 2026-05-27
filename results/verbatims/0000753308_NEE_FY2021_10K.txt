@@ -1,0 +1,23 @@
+FIRM         : NEE (CIK 0000753308) | FY2021
+FILE         : 0000753308_NEE_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 7. Property, Plant and Equipment
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+The weighted annual composite depreciation and amortization rate for FPL's electric plant in service, including capitalized software, but excluding the effects of decommissioning, dismantlement and the depreciation adjustments discussed in the following sentence, was approximately 3.8%, 3.8% and 3.9% for 2021, 2020 and 2019, respectively.
+
+[VERBATIM — Changement de politique]
+The weighted annual composite depreciation and amortization rate for FPL's electric plant in service, including capitalized software, but excluding the effects of decommissioning, dismantlement and the depreciation adjustments discussed in the following sentence, was approximately 3.8%, 3.8% and 3.9% for 2021, 2020 and 2019, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

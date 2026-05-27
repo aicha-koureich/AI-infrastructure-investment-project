@@ -1,0 +1,20 @@
+FIRM         : SNDR (CIK 0001692063) | FY2019
+FILE         : 0001692063_SNDR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 18
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+For our real estate leases, we have elected to apply the recognition requirement to leases of twelve months or less, therefore, an operating lease right-of-use asset and liability will be recognized for all these leases. For our equipment leases, we have elected to not apply the recognition requirements to leases of twelve months or less. These leases will be expensed on a straight-line basis and no operating lease right-of-use asset or liability will be recorded.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract, which aligned the capitalization requirements for implementation costs incurred in a hosting arrangement that is a service contract with the existing capitalization requirements for implementation costs incurred to develop or obtain internal-use software. ASU 2018-15 was effective for us as of January 1, 2020. We adopted this standard on a prospective basis, and it did not have a material impact on our consolidated financial statements or disclosures. ||| Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract,

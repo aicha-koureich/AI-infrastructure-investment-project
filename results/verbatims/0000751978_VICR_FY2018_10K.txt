@@ -1,0 +1,33 @@
+FIRM         : VICR (CIK 0000751978) | FY2018
+FILE         : 0000751978_VICR_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+2018 order bookings increased 27% over 2017 bookings, reflecting customer interest in our expanding portfolio of highly-differentiated
+Advanced Products. Bookings for our factorized 48V to point-of-load solutions for supercomputing and hyperscale datacenter applications accelerated during the
+first half of the year, stabilized through the third quarter, but declined for the fourth quarter, largely reflecting the timing of certain customer programs. Bookings for our Power-on-Package solutions were robust for the second and third quarters, but declined sharply for the fourth quarter, reflecting a sudden decline in our customers’
+own outlooks for 2019, notably associated with poor visibility for forecasting supercomputing and high performance computing spending, particularly in China. Total bookings for 2018 for Brick Products improved year over year, reflecting the
+continued recovery of economic conditions during the first half of the year in the geographies and markets we serve, notably in defense electronics and high-value capital goods. However, Brick Product bookings from distributors declined through the
+second half of the year. Notably, uncertainties regarding the Chinese economy and its influence on other industrial economies and the potential impact of the United Kingdom’s pending departure from the European Union were negative influences on
+fourth quarter order activity.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Based on current customer activity, an expanding customer list, and an expanding backlog, we believe the 48V to point-of-load opportunity has entered an accelerated, second phase of development, with a broadening of interest, as well as the entry of new vendors offering 48V
+solutions. Our Power-on-Package solution powering GPUs and ASICs used in AI applications has received strong customer interest, and we have secured significant design
+wins for the solution. We also believe customer interest in the application of 48V distribution to server racks and datacenter infrastructure is accelerating. As such, we likely will face a more complex competitive landscape, with additional
+challenges and competitors. We continue to believe our new products will be adopted in volume by multiple leading customers, as the number of OEMs, ODMs, hyperscalers, and cloud services providers with which we are engaged in development activities
+expanded in 2018. However, we cannot control the actions by, or the timing of, our customers, their contract manufacturers, or the significant vendors also participating in the market. Many of these vendors possess resources far greater than we do
+and have operational and financial flexibility we do not. Notably, our outlook for 2019 bookings and shipments of Power-on-Package solutions has been influenced by the
+sudden, fourth quarter shift in the confidence of our customers regarding supercomputing and high performance computing spending, particularly in China. Despite recent and anticipated design wins, as well as the strong momentum of AI computing
+through the year, recent customer uncertainty may cause orders from new and existing customers to be delayed, with a likely influence on our financial results and capacity expansion plans.

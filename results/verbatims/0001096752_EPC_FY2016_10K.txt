@@ -1,0 +1,23 @@
+FIRM         : EPC (CIK 0001096752) | FY2016
+FILE         : 0001096752_EPC_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 - Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in Property, plant and equipment, net. These costs are amortized using the straight-line method over periods of related benefit ranging from
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment, net is stated at historical cost. Property, plant and equipment acquired as part of a business combination is recorded at estimated fair value. Expenditures for new facilities and expenditures that substantially increase the useful life of property, including interest during construction, are capitalized and reported as Capital expenditures in the accompanying Consolidated Statements of Cash Flows. Maintenance, repairs and minor renewals are expensed as incurred. When property is retired or otherwise disposed of, the related cost and accumulated depreciation are removed from the accounts, and gains or losses on the disposition are reflected in Net earnings (loss). Depreciation is generally provided on the straight-line basis by charges to pre-tax earnings at rates based on estimated useful lives. Estimated useful lives range from
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : TBRG (CIK 0001169445) | FY2019
+FILE         : 0001169445_TBRG_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• Cloud Electronic Health Record (Cloud EHR) . In some circumstances, we offer Cloud EHR services to customers via remote access telecommunications. Cloud EHR is a "Software as a Service" (or "SaaS") configuration and is in essence a subscription to access and use application software maintained by CPSI in a cloud environment for a monthly fee. Under this configuration, a customer is able to obtain access to an advanced EHR without a significant initial capital outlay. We store and maintain all Cloud EHR customers’ critical patient and administrative data using TruBridge Cloud Computing Services. These customers access this information remotely through direct telecommunications connections. ||| . In some circumstances, we offer Cloud EHR services to customers via remote access telecommunications. Cloud EHR is a "Software as a Service" (or "SaaS") configuration and is in essence a subscription to access and use application software maintained by CPSI in a cloud environment for a monthly fee. Under this configuration, a customer is able to obtain access to an advanced EHR without a significant initial capital outlay. We store and maintain all Cloud EHR customers’ critical patient and administrative data using TruBridge Cloud Computing Services. These customers access this information remotely through direct telecommunications connections. ||| • Managed IT Services . Our managed IT services provide a range of services designed to meet the IT needs of community healthcare enterprises. The pace of technological change can be overwhelming. Our services allow clients to affordably maintain an advanced IT infrastructure, meet regulatory requirements, and reduce risk. Our managed IT services include the following service offerings: Cloud Services, Backup and Recovery, Collaboration and Connectivity, Security Services, Systems Management, and Help Desk.

@@ -1,0 +1,20 @@
+FIRM         : MTZ (CIK 0000015615) | FY2018
+FILE         : 0000015615_MTZ_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4
+ASSET CAT.   : equipment, furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment under capital leases are depreciated over their estimated useful lives.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| (“ASU 2018-15”) to reduce diversity in practice in accounting for the costs of implementing cloud computing arrangements that are service contracts. ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for internal-use software. Accounting for the service element of the cloud computing arrangement is not affected by the new guidance. Under ASU 2018-15, amortization expense, ||| In August 2018, the FASB issued ASU 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40) Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (“ASU 2018-15”) to reduce diversity in practice in accounting for the costs of implementing cloud computing arrangements that are service contracts. ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for internal-use software. Accounting for the service element of the cloud computing arrangement is not affected by the new guidance. Under ASU 2018-15, amortization expense,

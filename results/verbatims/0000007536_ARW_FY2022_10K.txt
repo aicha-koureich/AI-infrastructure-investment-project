@@ -1,0 +1,21 @@
+FIRM         : ARW (CIK 0000007536) | FY2022
+FILE         : 0000007536_ARW_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software, Machinery and equipment
+DURÉE        : 3.0-12.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 3.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are amortized on a straight-line basis over the estimated useful life of the software, which is generally three to twelve years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : PANW (CIK 0001327567) | FY2019
+FILE         : 0001327567_PANW_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 20. Related Party Transactions
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+July 31, 2019 2018 Computers, equipment, and software $ 264.1 $ 217.9 Leasehold improvements 204.8 159.5 Demonstration units 40.7 33.0 Furniture and fixtures 30.6 24.6 Total property and equipment 540.2 435.0 Less: accumulated depreciation (244.2 ) (161.9 ) Total property and equipment, net $ 296.0 $ 273.1
+
+[VERBATIM — Infrastructure IA]
+Secure the cloud through our Prisma cloud security offerings, such as Prisma Public Cloud ( formerly RedLock ) for security and compliance in public clouds, Prisma Access ( formerly GlobalProtect cloud service ) for securing user access, Prisma SaaS ( formerly Aperture ) for protecting SaaS applications, VM-Series for in-line network security in public and private clouds, Traps for host-based public cloud infrastructure protection, and Twistlock for protecting containers in public and private clouds, as well as PureSec for protecting serverless functions in public clouds.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Implementation Costs Incurred in a Cloud Computing Arrangement ||| In August 2018, the Financial Accounting Standards Board (“FASB”) issued authoritative guidance on customers’ accounting for implementation costs incurred in a cloud computing arrangement that is a service contract, which requires customers to apply internal-use software guidance to determine the implementation costs that are able to be capitalized. Under the new standard, capitalized implementation costs are generally amortized over the term of the arrangement, beginning when the module or component of the hosting arrangement is ready for its intended use. We early adopted this standard in our second quarter of fiscal 2019 on a prospective basis. The adoption of the standard did not have a material impact on our consolidated financial statements. ||| ’s cloud services infrastructure protection technology. The total purchase consideration for the acquisition of

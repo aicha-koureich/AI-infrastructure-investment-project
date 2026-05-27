@@ -1,0 +1,21 @@
+FIRM         : EME (CIK 0000105634) | FY2019
+FILE         : 0000105634_EME_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - (Continued)
+ASSET CAT.   : machinery and equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation, including amortization of assets under finance leases, is recorded principally using the straight-line method over estimated useful lives of 3 to 10 years for machinery and equipment, 3 to 7 years for vehicles, furniture and fixtures and computer hardware/software, and 25 years for buildings.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

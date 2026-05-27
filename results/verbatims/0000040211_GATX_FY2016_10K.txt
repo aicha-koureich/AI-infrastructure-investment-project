@@ -1,0 +1,20 @@
+FIRM         : GATX (CIK 0000040211) | FY2016
+FILE         : 0000040211_GATX_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 18 . Other Assets and Other Liabilities
+ASSET CAT.   : furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+2016 2015 Assets held for sale $ 89.5 $ 106.0 Inventory 51.3 55.2 Office furniture, fixtures and other equipment, net of accumulated depreciation 27.9 31.8 Derivatives 16.4 12.8 Prepaid items 15.1 14.3 Loans 6.2 8.8 Deferred financing costs 4.5 3.4 Prepaid pension 1.1 0.7 Other investments 0.5 4.2 Other 84.6 84.0 $ 297.1 $ 321.2
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

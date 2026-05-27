@@ -1,0 +1,20 @@
+FIRM         : JHG (CIK 0001274173) | FY2022
+FILE         : 0001274173_JHG_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 22 — Geographic Information
+ASSET CAT.   : computer equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The change in fair value of the foreign currency forward contracts and swaps for the years ended December 31, 2022 and 2021, is summarized as follows (in millions): ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Year Ended December 31, ​ ​ 2022 2021 Gains (losses) on foreign currency forward contracts and swaps ​ $ (2.4) ​ $ 0.4 ​ ​ ​ ​ Note 7 — Property, Equipment and Software The following table presents depreciation expense for the years ended December 31, 2022, 2021 and 2020 (in millions): ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Year ended December 31, ​ 2022 2021 ​ 2020 Depreciation expense $ 21.6 $ 23.5 ​ $ 26.0 ​ Property, equipment and software as of December 31, 2022 and 2021, are summarized as follows (in millions): ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Depreciation ​ December 31, ​ period 2022 2021 Furniture, fixtures and computer equipment 3-10 years ​ $ 23.9 ​ $ 24.8 Leasehold improvements Over the shorter of 20 years or the period of the lease ​ 27.6 ​ 40.6 Computer software ​ 3-7 years ​ ​ 90.6 ​ ​ 92.1 Property, equipment and software, gross ​ ​ ​ $ 142.1 ​ $ 157.5 Accumulated depreciation ​ ​ ​ (90.3) ​ (94.2) Property, equipment and software, net ​ ​ ​ $ 51.8 ​ $ 63.3 81
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| Other non-current assets on our Consolidated Balance Sheets of $205.5 million and $180.6 million as of December 31, 2022 and 2021, respectively, primarily relate to operating leases, capitalized cloud services implementation costs, deferred consideration and equity-method investments.

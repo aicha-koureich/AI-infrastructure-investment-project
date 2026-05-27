@@ -1,0 +1,24 @@
+FIRM         : BURL (CIK 0001579298) | FY2017
+FILE         : 0001579298_BURL_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 3, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3. Stock-Based Compensation
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+(in thousands) Useful Lives February 3, 2018 January 28, 2017 Land N/A $ 159,465 $ 157,272 Buildings 20 to 40 Years 465,207 452,497 Store fixtures and equipment 3 to 10 Years 831,963 762,826 Software 3 to 10 Years 235,799 205,673 Leasehold improvements Shorter of lease term or useful life 604,470 561,371 Construction in progress N/A 28,155 37,145 2,325,059 2,176,784 Less: accumulated depreciation (1,190,287 ) (1,127,337 ) Total property and equipment, net of accumulated depreciation and amortization $ 1,134,772 $ 1,049,447
+
+[VERBATIM — Changement de politique]
+The 2017 U.S. Tax Cuts and Jobs Act of 2017 (Tax Act) was signed into law on December 22, 2017. The Tax Act significantly revises the U.S. corporate income tax by, among other things, lowering the statutory corporate income tax rate from 35% to 21%, eliminating or limiting certain deductions, and enhancing and extending through 2026 the option to claim accelerated depreciation on qualified property. The change reduced the Company’s effective tax rate by 21.1% for Fiscal 2017, primarily due to a one-time incremental benefit of approximately $93 million from remeasurement of net deferred tax positions to reflect the reduction in corporate tax rate from 35% to 21%. The provisional remeasurement amount may change as data becomes available allowing more accurate scheduling of the deferred tax assets and liabilities, primarily related to depreciable assets, inventory and occupancy costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : GIII (CIK 0000821002) | FY2015
+FILE         : 0000821002_GIII_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU 2015-05, “Intangibles — Goodwill and Other — Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement”. The update includes explicit guidance about a customer’s accounting for fees paid in a cloud computing arrangement such as software as a service, platform as a service, infrastructure as a service, and other similar hosting arrangements. The update is effective for interim and annual periods beginning after December 15, 2016 with early adoption permitted, including in the interim periods. We are currently evaluating the impact of this update on our consolidated financial statements.

@@ -1,0 +1,21 @@
+FIRM         : NSC (CIK 0000702165) | FY2017
+FILE         : 0000702165_NSC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 6. Properties
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 6.0 ans
+
+[VERBATIM — Durée de vie]
+Accumulated Net Book Depreciation December 31, 2017 Cost Depreciation Value Rate (1) ($ in millions) Land $ 2,342 $ — $ 2,342 — Roadway: Rail and other track material 6,730 (1,961 ) 4,769 2.28 % Ties 5,181 (1,374 ) 3,807 3.37 % Ballast 2,654 (624 ) 2,030 2.71 % Construction in process 447 — 447 — Other roadway 13,636 (3,523 ) 10,113 2.59 % Total roadway 28,648 (7,482 ) 21,166 Equipment: Locomotives 5,658 (2,158 ) 3,500 3.77 % Freight cars 3,256 (1,286 ) 1,970 2.48 % Computers and software 610 (334 ) 276 10.61 % Construction in process 247 — 247 — Other equipment 1,004 (366 ) 638 5.06 % Total equipment 10,775 (4,144 ) 6,631 Other property 474 (283 ) 191 0.77 % Total properties $ 42,239 $ (11,909 ) $ 30,330
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

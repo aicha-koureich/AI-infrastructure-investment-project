@@ -1,0 +1,20 @@
+FIRM         : VECO (CIK 0000103145) | FY2022
+FILE         : 0000103145_VECO_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Sales in the Semiconductor market grew 50% in 2022 and were driven by our laser annealing systems for both advanced and trailing node logic devices, ion beam deposition systems for EUV mask blank production, and lithography systems for Advanced Packaging. We continue to build momentum for our laser annealing solutions with advanced node logic customers by winning application steps with leading manufacturers. We have also been receiving orders and shipping systems for trailing node applications in China and other regions. In addition to logic, we introduced laser annealing to the memory market and received an acceptance for an evaluation system at a DRAM manufacturer. Our lithography systems for Advanced Packaging are aligned with packaging approaches such as fan out wafer level packaging and other advanced packaging applications. Additionally, the ongoing adoption of EUV Lithography for advanced node semiconductor manufacturing continues to drive demand for our Ion Beam mask blank systems. Overall, our technology and market strategy are well aligned with trends such as artificial intelligence, mobile connectivity and high-performance computing that drive the Semiconductor market. Given recent order activity and current backlog in the Semiconductor market, we expect revenue in 2023 to outpace (“WFE”) spending growth, which is forecasted to be down 20% or more. Finally, we have completed our new San Jose leased facility buildout, and have fully transitioned to this new location.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

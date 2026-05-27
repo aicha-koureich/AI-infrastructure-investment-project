@@ -1,0 +1,21 @@
+FIRM         : CTAS (CIK 0000723254) | FY2017
+FILE         : 0000723254_CTAS_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : May 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 19. Subsequent Event
+ASSET CAT.   : information technology
+DURÉE        : 9.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-10.0 ans | 9.0 ans
+
+[VERBATIM — Durée de vie]
+At May 31, 2015, the carrying value of Shred-it was $210.1 million . In the fourth quarter of fiscal 2015, the Company received a dividend from Shred-it of $113.4 million , which reduced the carrying value of the investment. As of May 31, 2015, Cintas’ carrying value of Shred-it exceeded its share of the underlying equity in the net assets of the Shred-it Partnership by approximately $94.0 million (basis difference). The remaining basis difference was to be amortized over the weighted average estimated useful lives of the underlying assets which generated the basis difference (approximately 9 years) and recorded as a reduction in the income (loss) on Shred-it, net of tax. Cintas recorded its share of the partnership's income on a one-month lag. For the fiscal year ended May 31, 2015, Cintas recorded a net loss on Shred-it of $5.5 million , which included amortization of basis differences of approximately $11.0 million . In conjunction with the Shred-it partnership agreement, Cintas agreed to provide certain transition services such as information technology and accounting in support of Shred-it. The agreement expired in September 2015.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

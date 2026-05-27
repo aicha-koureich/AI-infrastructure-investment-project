@@ -1,0 +1,23 @@
+FIRM         : IOSP (CIK 0001054905) | FY2015
+FILE         : 0001054905_IOSP_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 8. Other Intangible Assets
+ASSET CAT.   : Not disclosed
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+In 2015 we continued with the process of developing our new, company-wide,
+information system platform. In the fourth quarter of 2015 we have implemented the new platform at the majority of reporting units outside of the U.S. which combined with the initial deployment in 2013 means the majority of our businesses are now
+operating with the new platform. At December 31, 2015 we had capitalized $36.4 million (2014 – $27.8 million) in relation to this internally developed software. This asset has an expected life of 5 years from the point in time each
+deployment is completed and is being amortized on a straight-line basis over these periods. No residual value is anticipated.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

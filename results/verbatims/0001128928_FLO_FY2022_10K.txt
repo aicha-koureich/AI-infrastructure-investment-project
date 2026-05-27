@@ -1,0 +1,20 @@
+FIRM         : FLO (CIK 0001128928) | FY2022
+FILE         : 0001128928_FLO_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-17
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We expect the transformation strategy initiatives will require significant capital investment and expense over the next several years. We currently anticipate the upgrade of our ERP system will cost approximately $350 million (of which approximately 32% has been or is anticipated to be capitalized) and anticipate the upgrade to be completed in 2026. Previously, these costs were estimated to be approximately $275 million. The increase in estimated costs resulted from expanding the project scope and anticipation of greater reliance on external resources for bakery deployments due to labor constraints. As of December 31, 2022, we have incurred costs related to the project of approximately $153 million. In Fiscal 2023, we expect costs for the upgrade of our ERP system (a portion of which may be expensed as incurred, capitalized, recognized as a cloud computing arrangement, or recognized as a prepaid service contract) to be approximately $80 million to $90 million. Costs related to our digital initiatives are more fluid and cannot currently be estimated. See Item 1A., Risk Factors , “We may experience difficulties in designing and implementing the upgrade of our ERP system.”

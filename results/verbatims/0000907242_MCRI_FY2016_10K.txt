@@ -1,0 +1,23 @@
+FIRM         : MCRI (CIK 0000907242) | FY2016
+FILE         : 0000907242_MCRI_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, less accumulated depreciation and amortization. Property and equipment is depreciated principally on a straight line basis over the estimated useful lives as follows:
+
+[VERBATIM — Changement de politique]
+For the twelve months ended December 31, 2016, the effect of the change in estimate was an increase of depreciation expense by $0.3 million, a decrease of net income by $0.2 million and a decrease of basic and diluted earnings per share by approximately $0.01. For the twelve months ended December 31, 2015, the effect of the change in estimate was an increase of depreciation expense by $1.4 million, a decrease of net income by $0.9 million and a decrease of basic and diluted earnings per share by approximately $0.05. For the twelve months ended December 31, 2014, the effect of the change in estimate was an increase of depreciation expense by $2.9 million, a decrease of net income by $1.9 million and a decrease of basic and diluted earnings per share by $0.11.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

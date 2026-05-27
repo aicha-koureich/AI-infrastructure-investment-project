@@ -1,0 +1,20 @@
+FIRM         : SNPS (CIK 0000883241) | FY2023
+FILE         : 0000883241_SNPS_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We store sensitive data, including intellectual property, our proprietary business information and that of our customers, and personal information, in our data centers, on our networks or on the cloud. In addition, our operations depend upon our information technology (IT) systems. We maintain a variety of information security policies, procedures, and controls to protect our business and proprietary information, prevent data loss and other security breaches and incidents, keep our IT systems operational and reduce the impact of a security breach or incident, but these securities measures cannot provide and have not provided absolute security. In the normal course of business, our systems are and have been the target of malicious cyber attack attempts and have been and may be subject to compromise due to employee error, malfeasance or other disruptions that have and could result in unauthorized disclosure or loss of sensitive information. To date, we have not identified material cyber security incidents or incurred any material expenses with any incidents. However, any breach or compromise could adversely impact our business and operations, expose us or our customers to litigation, investigations, loss of data, increase costs, or result in loss of customer confidence and damage to our reputation, any of which could adversely affect our business and our ability to sell our products and services.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In this era of Smart Everything, we have seen a remarkable proliferation of consumer and wireless electronic products, particularly mobile devices. The growth of the Internet and cloud computing has provided people with new ways to create, store, and share information. At the same time, the increasing use of electronics in cars, buildings, appliances, and other consumer products is creating a connected landscape of smart devices. Numerous software applications have been developed to expand the potential of these connected devices. The increasing impact of artificial intelligence (AI) and machine learning is driving an increase in the activity of new and existing chip and system design companies around the world. ||| The popularity of mobile devices and other electronic products has increased demand for chips and systems with greater functionality and performance, reduced size, and lower power consumption. Our customers, who design those products, are facing intense pressure to deliver innovative offerings in shorter timeframes and at lower prices. In other words, innovation in chip and systems design often hinges on providing products “better,” “sooner,” and “cheaper” than competitors. The design of these chips and systems is extremely complex and necessitates state-of-the-art solutions. Over the past several years, market verticals including AI, 5G, automotive and cloud computing infrastructure have contributed to the ongoing demand for our products and services. ||| As the availability and amount of cloud-based data storage grows, customer interest in accessing EDA on the cloud is also increasing as customers seek to benefit from the scalability and flexibility that cloud computing can offer to their flows and engineering teams. While many of our solutions have been used in cloud-based environments for years, such as in a customer’s own server and/or cloud environment, in fiscal 2022 we launched a Synopsys Cloud

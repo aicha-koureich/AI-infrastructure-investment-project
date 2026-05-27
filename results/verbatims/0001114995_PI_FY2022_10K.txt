@@ -1,0 +1,21 @@
+FIRM         : PI (CIK 0001114995) | FY2022
+FILE         : 0001114995_PI_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies Basis of Presentation and Principles of Consolidation The accompanying consolidated financial state
+ASSET CAT.   : Equipment, Machinery and equipment, Computer equipment, Furniture and fixtures
+DURÉE        : 2.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 3.0-5.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and Equipment We record property and equipment at cost and depreciate it using the straight-line method over the estimated useful lives of the related assets. The useful lives are as follows: Category Useful Life Machinery and equipment 2 to 10 years Computer equipment and software 3 to 5 years Furniture and fixtures 3 to 7 years Equipment acquired under finance leases 3 to 7 years Leasehold improvements Shorter of remaining lease term or expected useful life
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Other assets primarily comprise capitalized implementation costs from cloud computing arrangements and security deposits. We capitalize eligible costs associated with cloud computing arrangements over the term of the arrangement, plus reasonably certain renewals, and recognize those costs on a straight-line basis in the same line item in the consolidated statement of operations as the expense for fees associated with the cloud computing arrangement. Cloud computing arrangement costs, included in prepaid expenses and other current assets, were $ 413,000 and $ 413,000 , and other non-current assets w ere $ 1.8 million and $ 2.3 million, as of December 31, 2022 and 2021, respectively. Amortization expense associated with the cloud computing arrangements was $ 413,000 for 2022, $ 215,000 for 2021 and not material for 2020. We present cash flows related to capitalized implementation costs in cash flows used in operating activities. ||| Other Assets Other assets primarily comprise capitalized implementation costs from cloud computing arrangements and security deposits. We capitalize eligible costs associated with cloud computing arrangements over the term of the arrangement, plus reasonably certain renewals, and recognize those costs on a straight-line basis in the same line item in the consolidated statement of operations as the expense for fees associated with the cloud computing arrangement. Cloud computing arrangement costs, included in prepaid expenses and other current assets, were $ 413,000 and $ 413,000 , and other non-current assets w ere $ 1.8 million and $ 2.3 million, as of December 31, 2022 and 2021, respectively. Amortization expense associated with the cloud computing arrangements was $ 413,000 for 2022, $ 215,000 for 2021 and not material for 2020. We present cash flows related to capitalized implementation costs in cash flows used in operating activities. ||| million, as of December 31, 2022 and 2021, respectively. Amortization expense associated with the cloud computing arrangements was $

@@ -1,0 +1,20 @@
+FIRM         : SLG (CIK 0001040971) | FY2015
+FILE         : 0001040971_SLG_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 23. Quarterly Financial Data of the Operating Partnership (unaudited)
+ASSET CAT.   : equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The changes in accumulated depreciation, exclusive of amounts relating to equipment, autos, and furniture and fixtures, for the years ended
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

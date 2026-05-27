@@ -1,0 +1,20 @@
+FIRM         : NVRI (CIK 0000045876) | FY2020
+FILE         : 0000045876_NVRI_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is recorded at cost and depreciated over the estimated useful lives of the assets using, principally, the straight-line method. When property, plant and equipment is retired from service, the cost of the retirement is charged to the allowance for depreciation to the extent of the accumulated depreciation and the balance is charged to income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

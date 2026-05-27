@@ -1,0 +1,20 @@
+FIRM         : MLM (CIK 0000916076) | FY2024
+FILE         : 0000916076_MLM_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 1. These investments are common collective investment trusts valued using the net asset value (NAV) unit price provided by the fund administrator. The
+ASSET CAT.   : equipment, information technology equipment
+DURÉE        : 1.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Note L: Leases The Company has leases, primarily for equipment, railcars, fleet vehicles, office space, land, information technology equipment and software. The Company’s leases have remaining lease term s, inclusive of options to renew that the Company is reasonably certain to exercise, ranging from less than one year to 46 years . Some of the Company's leases include options to terminate the leases within one year . Certain of the Company’s lease agreements include payments based upon variable rates, including, but not limited to, hours used, tonnage processed and factors related to indices. The Company’s lease agreements do not contain any material residual value guarantees or material restrictive covenants. The components of lease cost are as follows: years ended December 31 (in millions) 2024 2023 2022 Operating lease cost $ 76 $ 77 $ 73 Finance lease cost: Amortization of right-of-use assets 26 21 18 Interest on lease liabilities 6 5 4 Variable lease cost 14 18 17 Short-term lease cost 46 46 45 Total lease cost $ 168 $ 167 $ 157
+
+[VERBATIM — Infrastructure IA]
+, manufacturing and distribution facilities; data centers; industrial complexes; office buildings; large retailers and wholesalers; healthcare; hospitality; and energy-related activity); and residential construction (  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

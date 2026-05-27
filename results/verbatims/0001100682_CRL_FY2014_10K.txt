@@ -1,0 +1,23 @@
+FIRM         : CRL (CIK 0001100682) | FY2014
+FILE         : 0001100682_CRL_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 27, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, computer software
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, including improvements that significantly add to productive capacity or extend useful life, are carried at cost and are subject to review for impairment whenever events or changes in circumstances indicate that the carrying amount of the asset may not be recoverable.
+
+[VERBATIM — Changement de politique]
+, included in cost of revenue. The Company also implemented a plan to consolidate production in its U.S. research model facilities. As a result, the Company revised the useful lives of a research model building that was abandoned and recorded accelerated deprecation to cost of revenue of
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

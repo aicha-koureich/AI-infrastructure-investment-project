@@ -1,0 +1,20 @@
+FIRM         : NWN (CIK 0001733998) | FY2022
+FILE         : 0001733998_NWN_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-09-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Implementation costs associated with its cloud computing arrangements are capitalized consistent with costs capitalized for internal-use software. Capitalized implementation costs are included in other assets in the consolidated balance sheets. The implementation costs are amortized over the term of the related hosting agreement, including renewal periods that are reasonably certain to be exercised. Amortization expense of implementation costs are recorded as operations and maintenance expenses in the consolidated statements of comprehensive income. The implementation costs are included within operating activities in the consolidated statements of cash flows.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• $16.0 million increase in operations and maintenance expenses due to higher contract labor, amortization expense related to cloud computing arrangements, information technology costs, and professional service fees; ||| $16.0 million increase in operations and maintenance expenses due to higher contract labor, amortization expense related to cloud computing arrangements, information technology costs, and professional service fees; ||| • $16.7 million increase in NGD operations and maintenance expenses due to higher contract labor, amortization expense related to cloud computing arrangements, professional service fees, and information technology costs;

@@ -1,0 +1,20 @@
+FIRM         : DCOM (CIK 0000846617) | FY2024
+FILE         : 0000846617_DCOM_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company made a policy election to exclude the recognition requirements of ASC 2016-02 on short-term leases with original terms of 12 months or less. Short-term lease payments are recognized in the Company’s consolidated statements of operations on a straight-line basis over the lease term. Certain leases may include one or more options to renew. The exercise of lease renewal options is typically at the Company’s discretion, and are included in the operating lease liability if it is reasonably certain that the renewal option will be exercised. Certain real estate leases may contain lease and non-lease components, such as common area maintenance charges, real estate taxes, and insurance, which are generally accounted for separately and are not included in the measurement of the lease liability since they are generally able to be segregated. Lease expenses are included in occupancy and equipment on the Company’s consolidated statements of operations. The Company does not sublease any of its leased properties and does not lease properties from any related parties. Disclosures about the Company’s leasing activities are presented in Note 7.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

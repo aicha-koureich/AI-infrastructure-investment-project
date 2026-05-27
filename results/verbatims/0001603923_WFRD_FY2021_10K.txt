@@ -1,0 +1,20 @@
+FIRM         : WFRD (CIK 0001603923) | FY2021
+FILE         : 0001603923_WFRD_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We have data center lease agreements with lease and non-lease components which are accounted for separately, while for the remainder of our agreements we have elected the practical expedient to account for lease and non-lease components as a single lease component. For certain equipment leases, such as copiers and vehicles, we account for the leases under a portfolio method. Operating lease payments include related options to extend or terminate lease terms that are reasonably certain of being exercised.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

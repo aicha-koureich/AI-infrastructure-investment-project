@@ -1,0 +1,20 @@
+FIRM         : BHE (CIK 0000863436) | FY2024
+FILE         : 0000863436_BHE_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-14
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1—Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company records capital-related incentives as a reduction to property, plant and equipment, net on the consolidated balance sheets and recognizes a reduction to depreciation expense over the useful life of the related acquired asset.
+
+[VERBATIM — Infrastructure IA]
+Advanced Computing and Communications. 2024 sales decreased 30% to $474.9 million from $678.1 million in 2023 primarily due to large high performance computing programs being completed coupled with continued weakness in communications and the disengagement with a large customer.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

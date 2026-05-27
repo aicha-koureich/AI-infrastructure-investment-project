@@ -1,0 +1,20 @@
+FIRM         : AMKR (CIK 0001047127) | FY2022
+FILE         : 0001047127_AMKR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 8. Property, Plant and Equipment
+ASSET CAT.   : Machinery and equipment, Furniture, equipment, computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2022 2021 (In thousands) Land $ 214,763 $ 218,140 Buildings and improvements 1,817,135 1,711,560 Machinery and equipment 6,757,652 6,277,684 Finance lease assets 165,122 105,294 Furniture, fixtures and other equipment 23,240 22,125 Software and computer equipment 240,610 232,251 Construction in progress 152,809 74,662 Total property, plant and equipment 9,371,331 8,641,716 Less accumulated depreciation and amortization (6,235,717) (5,770,658) Total property, plant and equipment, net $ 3,135,614 $ 2,871,058
+
+[VERBATIM — Infrastructure IA]
+For the Year Ended December 31, 2022 2021 2020 Communications (smartphones, tablets) 44 % 41 % 41 % Automotive, industrial and other (ADAS, electrification, infotainment, safety) 20 % 21 % 20 % Consumer (AR & gaming, connected home, home electronics, wearables) 20 % 22 % 24 % Computing (data center, infrastructure, PC/laptop, storage) 16 % 16 % 15 % Total net sales 100 % 100 % 100 %  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

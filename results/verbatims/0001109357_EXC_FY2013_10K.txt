@@ -1,0 +1,28 @@
+FIRM         : EXC (CIK 0001109357) | FY2013
+FILE         : 0001109357_EXC_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Significant Accounting Policies (Exelon, Generation,
+ComEd, PECO and BGE)
+ASSET CAT.   : capitalized software
+DURÉE        : 5.0-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Certain
+other capitalized software costs are being amortized over longer lives based on the expected life or pursuant to prescribed regulatory requirements. The following table presents net unamortized capitalized software costs and amortization of
+capitalized software costs by year:
+
+[VERBATIM — Changement de politique]
+Includes $98 million of increases in fair value and $566 million of realized losses reclassified from OCI due to settlements associated with Generation’s financial swap
+contract with ComEd for the year ended December 31, 2012. This position was de-designated as a cash flow hedge prior to the merger date. All prospective changes in fair value and reclassifications of realized amounts are being recorded to
+income offset by the amortization of the frozen mark in OCI. All items eliminate upon consolidation in Exelon’s Consolidated Financial Statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : WHR (CIK 0000106640) | FY2019
+FILE         : 0000106640_WHR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+In performing our quantitative assessment of goodwill, we estimated the reporting unit's fair value under an income approach using a discounted cash flow model. The income approach used the reporting unit's projections of estimated operating results and cash flows that were discounted using a market participant discount rate based on the weighted-average cost of capital. The main assumptions supporting the cash flow projections included revenue growth, EBIT margins and the discount rate. The financial projections reflected management's best estimate of economic and market conditions over the projected period including forecasted revenue growth, EBIT margins, tax rate, capital expenditures, depreciation and amortization, changes in working capital requirements and the terminal growth rate.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred In a Cloud Computing Arrangement That Is a Service Contract ||| Standard Effective Date 2018-13 Fair Value Measurement (Topic 820): Disclosure Framework - Changes to the Disclosure Requirements for Fair Value Measurement January 1, 2020 2018-14 Compensation - Retirement Benefits - Defined Benefit Plans - General (Subtopic 715-20): Disclosure Framework - Changes to the Disclosure Requirements for Defined Benefit Plans January 1, 2021 2018-15 Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred In a Cloud Computing Arrangement That Is a Service Contract January 1, 2020 2018-18 Collaborative Arrangements (Topic 808): Clarifying the Interaction between Topic 808 and Topic 606 January 1, 2020

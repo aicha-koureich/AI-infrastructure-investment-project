@@ -1,0 +1,20 @@
+FIRM         : CNM (CIK 0001856525) | FY2021
+FILE         : 0001856525_CNM_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-30
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : capitalized software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company capitalizes certain software costs, which are being depreciated on a straight-line basis over the estimated useful lives of the software, ranging from three to seven years. At January 30, 2022 and January 31, 2021, capitalized software costs totaled $4 million and $2 million, respectively, net of accumulated depreciation of $13 million and $11 million, respectively. Amortization of capitalized software costs totaled $2 million, $3 million and $3 million during fiscal 2021, fiscal 2020 and fiscal 2019, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

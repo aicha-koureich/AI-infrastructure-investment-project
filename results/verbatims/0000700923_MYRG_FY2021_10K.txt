@@ -1,0 +1,20 @@
+FIRM         : MYRG (CIK 0000700923) | FY2021
+FILE         : 0000700923_MYRG_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-04
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 4. Lease Obligations
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2021 December 31, 2020 (in thousands) Classification on the Consolidated Balance Sheet Assets Operating lease right-of-use assets Operating lease right-of-use assets $ 20,971 $ 22,291 Finance lease right-of-use assets Property and equipment, net of accumulated depreciation — 390 Total right-of-use lease assets $ 20,971 $ 22,681 Liabilities Current Operating lease obligations Current portion of operating lease obligations $ 7,765 $ 6,612 Finance lease obligations Current portion of finance lease obligations — 318 Total current obligations 7,765 6,930 Non-current Operating lease obligations Operating lease obligations, net of current maturities 13,230 15,730 Total non-current obligations 13,230 15,730 Total lease obligations $ 20,995 $ 22,660
+
+[VERBATIM — Infrastructure IA]
+Commercial and Industrial: The C&I segment provides services including the design, installation, maintenance and repair of commercial and industrial wiring, installation of traffic networks and the installation of bridge, roadway and tunnel lighting. Typical C&I contracts cover electrical contracting services for airports, hospitals, data centers, hotels, stadiums, convention centers, renewable energy projects, manufacturing plants, processing facilities, water treatment facilities, mining facilities and transportation control and management systems. The C&I segment generally provides electric construction and maintenance services as a subcontractor to general contractors in the C&I industry, but also contracts directly with facility owners.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

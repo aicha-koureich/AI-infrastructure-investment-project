@@ -1,0 +1,20 @@
+FIRM         : DLX (CIK 0000027996) | FY2014
+FILE         : 0000027996_DLX_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 16: Business segment information
+ASSET CAT.   : information technology, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The accounting policies of the segments are the same as those described in Note 1. We allocate corporate costs for our shared services functions to our business segments, including costs of our executive management, human resources, supply chain, finance, information technology and legal functions. Generally, where costs incurred are directly attributable to a business segment, primarily within the areas of information technology, supply chain and finance, those costs are charged directly to that segment. Because we use a shared services approach for many of our functions, certain costs are not directly attributable to a business segment. These costs are allocated to our business segments based on segment revenue, as revenue is a measure of the relative size and magnitude of each segment and indicates the level of corporate shared services consumed by each segment. Corporate assets are not allocated to the segments and consist of property, plant and equipment, internal-use software, inventories and supplies related to our corporate shared services functions of manufacturing, information technology and real estate, as well as long-term investments. Depreciation and amortization expense related to corporate assets which was allocated to the segments was
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

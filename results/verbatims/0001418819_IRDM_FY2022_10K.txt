@@ -1,0 +1,21 @@
+FIRM         : IRDM (CIK 0001418819) | FY2022
+FILE         : 0001418819_IRDM_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies and Basis of Presentation
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans | 5.0-7.0 ans | 12.5 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment is carried at cost less accumulated depreciation. The Company assesses the current estimated operational life of the satellites, including the potential impact of environmental factors on the satellites, ongoing operational enhancements and software upgrades when evaluating the useful lives of its satellites.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

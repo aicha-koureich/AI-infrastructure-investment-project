@@ -1,0 +1,20 @@
+FIRM         : DOC (CIK 0000765880) | FY2019
+FILE         : 0000765880_DOC_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-02-12
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 22.
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+While the Company leases the majority of its property, plant, and equipment to various tenants under operating leases and DFLs, in certain situations, the Company owns and operates certain property, plant, and equipment for general corporate purposes. Corporate assets are recorded within other assets, net within the Company’s consolidated balance sheets and depreciation expense for those assets is recorded in general and administrative expenses in the Company’s consolidated statements of operations. Included within other assets, net as of December 31, 2019 and December 31, 2018 is $4 million and $2 million , respectively, of accumulated depreciation related to corporate assets. Included within general and administrative expenses for the year ended December 31, 2019 , 2018 , and 2017 is $2 million , $4 million and $1 million , respectively, of depreciation expense related to corporate assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

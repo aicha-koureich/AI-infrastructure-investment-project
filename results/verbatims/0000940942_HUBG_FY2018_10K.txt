@@ -1,0 +1,21 @@
+FIRM         : HUBG (CIK 0000940942) | FY2018
+FILE         : 0000940942_HUBG_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-01-31
+STATUS       : ITEM8_NOT_FOUND | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : Item 8 non trouvé (NO_ITEM8_FOUND).
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : CLW (CIK 0001441236) | FY2022
+FILE         : 0001441236_CLW_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+At December 31, 2022 and 2021, included within property, plant and equipment, net were finance leases of $31.8 million and $27.7 million and associated accumulated depreciation amounts of $16.4 million and $15.2 million.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

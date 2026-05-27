@@ -1,0 +1,23 @@
+FIRM         : QRVO (CIK 0001604778) | FY2017
+FILE         : 0001604778_QRVO_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. PROPERTY AND EQUIPMENT
+ASSET CAT.   : machinery and equipment, office equipment
+DURÉE        : 10.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company leases certain of its corporate, wafer fabrication and other facilities from multiple third-party real estate developers. The operating leases expire at various dates through 2034 , and some of these leases have renewal options, with the longest ranging up to two , ten -year periods. Several of these leases also include market rate rent escalations, rent holidays, and leasehold improvement incentives, all of which are recognized to expense on a straight-line basis. The amortization period of leasehold improvements made either at the inception of the lease or during the lease term is amortized over the lesser of the remaining life of the lease term (including renewals that are reasonably assured) or the useful life of the asset. The Company also leases various machinery and equipment and office equipment under non-cancelable operating leases. The remaining terms of these operating leases range from
+
+[VERBATIM — Changement de politique]
+During the first quarter of fiscal 2018, the Company changed its accounting estimate for the expected useful lives of certain machinery and equipment. The Company evaluated its asset base and reassessed the estimated useful lives of certain machinery and equipment in connection with its implementation of several capital projects, including the migration of certain surface acoustic wave ("SAW") processes from 4-inch to 6-inch toolsets and certain bulk
+
+[VERBATIM — Infrastructure IA]
+IDP is a leading global supplier of RF solutions with a diverse portfolio of solutions that "connect and protect," spanning communications and defense applications. These applications include high performance defense systems such as radar, electronic warfare and communication systems, Wi-Fi customer premises equipment for home and work, high speed connectivity in Long-Term Evolution and 5G base stations, cloud connectivity via data center communications and telecom transport, automotive connectivity and other IoT, including smart home solutions. IDP products include high power GaAs and GaN PAs, LNAs, switches, CMOS SoC solutions, premium BAW and SAW filter solutions and various multi-chip and hybrid assemblies.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

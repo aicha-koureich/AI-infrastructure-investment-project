@@ -1,0 +1,25 @@
+FIRM         : CNK (CIK 0001385280) | FY2015
+FILE         : 0001385280_CNK_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued Accounting Standards Update 2015-05, Intangibles — Goodwill and Other — Internal Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in
+Cloud Computing Arrangement , (“ASU 2015-05”). ASU 2015-05 provides guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the
+customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the
+arrangement as a service contract. The guidance will not change GAAP for a customer’s accounting for service contracts. In addition, the guidance in this Update supersedes paragraph 350-40-25-16. Consequently, all software licenses within the
+scope of Subtopic 350-40 will be accounted for consistent with other licenses of intangible assets. ASU 2015-05 is effective for fiscal years beginning after December 15, 2015. Early adoption is permitted. We have elected to early adopt ASU
+2015-05, which had no impact on our consolidated financial statements.

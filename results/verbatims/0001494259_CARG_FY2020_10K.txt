@@ -1,0 +1,20 @@
+FIRM         : CARG (CIK 0001494259) | FY2020
+FILE         : 0001494259_CARG_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies Basis of Presentation
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+These costs include salaries, benefits, incentive compensation and stock‑based compensation for the Company’s customer support team, and third‑party service provider costs such as data center and networking expenses, allocated overhead costs, depreciation and amortization expense associated with the Company’s property and equipment, and amortization of capitalized website development costs.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue primarily consists of costs related to supporting and hosting the Company’s product offerings. These costs include salaries, benefits, incentive compensation and stock‑based compensation for the Company’s customer support team, and third‑party service provider costs such as data center and networking expenses, allocated overhead costs, depreciation and amortization expense associated with the Company’s property and equipment, and amortization of capitalized website development costs.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Since the adoption of ASU 2018-15, Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-24): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract (ASU 2018-15), on January 1, 2019, we evaluate upfront costs including implementation, set-up or other costs (collectively, implementation costs) for hosting arrangements under the internal-use software framework. Costs related to preliminary project activities and post implementation activities are expensed as incurred, whereas costs incurred in the development stage are generally capitalized. Capitalized implementation costs are amortized on a straight‑line basis over an estimated useful life of the term of the hosting arrangement, taking into consideration several other factors such as, but not limited to, options to extend the hosting arrangement or options to terminate the hosting arrangement, beginning with the time when the software is ready for intended use. Amounts amortized are presented through operating expense, rather than depreciation or amortization. We evaluate the useful lives of these assets on an annual basis and tests for impairment whenever events or changes in circumstances occur that could impact the recoverability of these assets.

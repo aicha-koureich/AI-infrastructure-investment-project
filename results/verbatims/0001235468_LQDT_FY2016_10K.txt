@@ -1,0 +1,27 @@
+FIRM         : LQDT (CIK 0001235468) | FY2016
+FILE         : 0001235468_LQDT_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In
+April 2015, the FASB issued Accounting Standards Update ("ASU") 2015-05, " Intangibles—Goodwill and Other—Internal-Use Software
+(Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement . ASU 2015-05 provides guidance regarding whether a ||| Intangibles—Goodwill and Other—Internal-Use Software
+(Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement ||| cloud
+computing arrangement includes a software license. If a cloud computing arrangement includes a software license, the software license element of the arrangement must be accounted for in a manner
+consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the arrangement must be accounted for as a service contract. ASU
+2015-05 does not change the accounting for service contracts. ASU 2015-05 is effective for fiscal years, including interim periods within those fiscal years, beginning after December 15, 2015.
+The Company will apply the amendments in this Update beginning in fiscal 2017.

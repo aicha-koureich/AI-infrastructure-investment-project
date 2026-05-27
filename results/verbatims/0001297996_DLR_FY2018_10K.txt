@@ -1,0 +1,21 @@
+FIRM         : DLR (CIK 0001297996) | FY2018
+FILE         : 0001297996_DLR_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 21. Subsequent Events
+ASSET CAT.   : Technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 7.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+As of December 31, 2018 (in thousands) Property Type Land Acquired Ground Lease Buildings and Improvements (1) Tenant Improvements Accumulated Depreciation and Amortization Net Investment in Properties Internet Gateway Data Centers $ 101,964 $ — $ 2,137,458 $ 114,013 $ (885,315 ) $ 1,468,120 Data Centers (2) 1,391,585 10,575 14,502,437 460,247 (3,016,646 ) 13,348,198 Technology Manufacturing 11,959 — 1,582 76 (100 ) 13,517 Technology Office 2,091 — 23,104 — (18,441 ) 6,754 Other 2,165 — 80,629 — (14,765 ) 68,029 $ 1,509,764 $ 10,575 $ 16,745,210 $ 574,336 $ (3,935,267 ) $ 14,904,618
+
+[VERBATIM — Infrastructure IA]
+The Company is managed on a consolidated basis based on customer demand considerations. Deployment of capital is geared to satisfy this demand. In this regard, the sale and delivery of our products is consistent throughout the portfolio. Services are provided to customers typical of the data center industry. Rent, and the cost of services are billed and collected. The Company has  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

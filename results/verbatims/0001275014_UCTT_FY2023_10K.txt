@@ -1,0 +1,20 @@
+FIRM         : UCTT (CIK 0001275014) | FY2023
+FILE         : 0001275014_UCTT_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. ORGANIZATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost, or, in the case of equipment under finance leases, the present value of future minimum lease payments at inception of the related lease. The Company also capitalizes interest on borrowings related to eligible capital expenditures. Direct costs incurred to develop software for internal use are capitalized. Costs related to the design or maintenance of internal use software are expensed as incurred. Depreciation expense is computed using the straight-line method over the estimated useful lives of assets. Leasehold improvements are depreciated over the shorter of the estimated useful lives or the term of the lease. The estimated useful life of an asset is reassessed whenever applicable facts and circumstances indicate a change in the estimated useful life of such asset has occurred. For further discussion of the Company’s property, plant and equipment see Note 4 of Notes to the Consolidated Financial Statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

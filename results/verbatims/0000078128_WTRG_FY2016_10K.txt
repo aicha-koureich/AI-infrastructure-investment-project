@@ -1,0 +1,20 @@
+FIRM         : WTRG (CIK 0000078128) | FY2016
+FILE         : 0000078128_WTRG_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 6 –
+ASSET CAT.   : information technology, Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The regulatory asset related to the costs incurred for information technology software projects and water main cleaning and relining projects are described in Note 1 – Summary of Significant Accounting Policies – Property, Plant and Equipment and Depreciation .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

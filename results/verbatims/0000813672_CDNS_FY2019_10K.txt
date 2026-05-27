@@ -1,0 +1,20 @@
+FIRM         : CDNS (CIK 0000813672) | FY2019
+FILE         : 0000813672_CDNS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 28, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Product and maintenance revenue increased during fiscal 2019 , as compared to fiscal 2018 , primarily because of increased investments by our customers in new, complex designs for their products that include the design of electronic systems for AI, 5G networks, aerospace and defense, automotive, cloud data center and other market segments. This demand has resulted in revenue growth in each geographic area and each of our five product categories. Services revenue may fluctuate from period to period based on the timing of fulfillment of our services and IP performance obligations.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Implementation Costs Incurred in a Cloud Computing Arrangement ||| In August 2018, the FASB issued ASU 2018-15, “Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract,” which clarifies the accounting for implementation costs in cloud computing arrangements. The new standard aligns the treatment of implementation costs incurred by customers in cloud computing arrangements that are service contracts with the treatment of similar costs incurred to develop or obtain internal-use software. Under the new standard, implementation costs are deferred and presented in the same line item as a prepayment of related arrangement fees. The deferred costs are recognized over the term of the arrangement in the same line item as the related fees of the arrangement. The new standard is effective for us in the first quarter of fiscal 2020 and will be applied prospectively to costs incurred after the date of adoption. The adoption of this standard will not have a significant impact on our consolidated financial statements or the related disclosures.

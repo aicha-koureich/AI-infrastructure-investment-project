@@ -1,0 +1,20 @@
+FIRM         : FSLR (CIK 0001274494) | FY2024
+FILE         : 0001274494_FSLR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2036-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Supply and Demand. As a result of the market opportunities described above, we recently commenced production of Series 7 modules at our first manufacturing facility in Alabama and are in the process of expanding our manufacturing capacity, including the construction of our fifth U.S. manufacturing facility, which is expected to commence operations in the second half of 2025. We continue to evaluate opportunities for future expansion worldwide. We believe manufacturers of solar cells and modules, particularly those in China, have significant installed production capacity, relative to global demand, and the ability for additional capacity expansion. Accordingly, we believe the solar industry may experience periods of structural imbalance between supply and demand, which could lead to periods of pricing volatility. Further, demand for solar energy in key markets, such as the United States and India, may be affected by the nature and extent of commitments to the renewable energy transition at the local and global levels. For example, certain large oil and gas and energy companies have experienced investor pressure to pursue returns commensurate with those currently associated with fossil fuel projects, where returns have become easier as fossil fuel prices have rebounded since the COVID-19 pandemic. Notwithstanding these considerations, utility and corporate demand for clean energy, and overall electric load growth, especially as a result of AI-driven data center demand, continue to increase. Internationally, given the  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

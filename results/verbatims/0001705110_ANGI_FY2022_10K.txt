@@ -1,0 +1,23 @@
+FIRM         : ANGI (CIK 0001705110) | FY2022
+FILE         : 0001705110_ANGI_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 “ Summary of Significant Accounting Policies ”
+ASSET CAT.   : capitalized software, computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Domestic depreciation increased primarily due to $15.5 million in capitalized software impairments in addition to investments in capitalized software to support our employees, products, and services partially offset by a decrease in capitalized computer equipment depreciation.
+
+[VERBATIM — Changement de politique]
+Adjusted Earnings Before Interest, Taxes, Depreciation and Amortization (“Adjusted EBITDA”) is a non-GAAP financial measure. See “ Principles of Financial Reporting ” for the definition of Adjusted EBITDA and a reconciliation of net loss attributable to Angi Inc. shareholders to operating loss to consolidated Adjusted EBITDA for the years ended December 31, 2022, 2021, and 2020.
+
+[VERBATIM — Infrastructure IA]
+The Company leases office space, data center facilities, and equipment in connection with its operations under various operating leases, the majority of which contain escalation clauses.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Purchase obligations include (i) payments of $25.5 million related to a three-year cloud computing arrangement, with payments of $12.5 million expected to be made within the next twelve months and the remaining payments of approximately $13.0 million expected to be made by September 2024, (ii) $17.9 million related to media spend to be made in 2023, (iii) $6.9 million related to technology contracts spend, and (iv) payments of $2.3 million related to communication spend.

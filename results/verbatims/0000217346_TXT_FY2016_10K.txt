@@ -1,0 +1,23 @@
+FIRM         : TXT (CIK 0000217346) | FY2016
+FILE         : 0000217346_TXT_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 17.
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : AMD_Instinct (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are recorded at cost and are depreciated primarily using the straight-line method.
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment are recorded at cost and are depreciated primarily using the straight-line method.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

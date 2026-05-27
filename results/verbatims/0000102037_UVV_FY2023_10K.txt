@@ -1,0 +1,21 @@
+FIRM         : UVV (CIK 0000102037) | FY2023
+FILE         : 0000102037_UVV_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. NATURE OF OPERATIONS AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, Machinery and equipment, machinery, computer equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 3.0-11.0 ans | 3.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation of property, plant and equipment is based upon historical cost and the estimated useful lives of the assets. Estimated useful lives range as follows: buildings - 15 to 40 years; processing and packing machinery - 3 to 11 years; transport equipment - 3 to 10 years; and office and computer equipment - 3 to 12 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

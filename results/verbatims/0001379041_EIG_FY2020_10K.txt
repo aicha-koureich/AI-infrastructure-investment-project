@@ -1,0 +1,21 @@
+FIRM         : EIG (CIK 0001379041) | FY2020
+FILE         : 0001379041_EIG_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, furniture
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-8.0 ans
+
+[VERBATIM — Durée de vie]
+Electronic data processing equipment, software, furniture and equipment, and automobiles are depreciated using the straight-line method over three to seven years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud computing arrangements ||| Amortization of cloud computing arrangements ||| Employers Holdings, Inc. and Subsidiaries Consolidated Balance Sheets As of December 31, 2020 2019 (in millions, except share data) Assets Investments: Fixed maturity securities at fair value (amortized cost $2,333.6 at December 31, 2020 and $2,403.3 at December 31, 2019, net of CECL allowance of $0.7 at December 31, 2020) $ 2,479.2 $ 2,485.9 Equity securities at fair value (cost $112.4 at December 31, 2020 and $155.6 at December 31, 2019) 208.5 256.7 Equity securities at cost 6.7 6.7 Other invested assets (cost $36.8 at December 31, 2020 and $28.4 at December 31, 2019) 36.2 29.1 Short-term investments at fair value (amortized cost $26.5 at December 31, 2020) 26.6 — Total investments 2,757.2 2,778.4 Cash and cash equivalents 160.4 154.9 Restricted cash and cash equivalents 0.2 0.3 Accrued investment income 15.3 16.4 Premiums receivable (less CECL allowance of $10.8 at December 31, 2020 and less bad debt allowance of $4.6 at December 31, 2019) 232.1 285.7 Reinsurance recoverable for: Paid losses 7.6 7.2 Unpaid losses (less CECL allowance of $0.4 at December 31, 2020) 496.6 532.5 Deferred policy acquisition costs 43.2 47.9 Property and equipment, net 19.1 21.9 Operating lease right-of-use assets 17.4 15.9 Intangible assets, net 13.6 13.6 Goodwill 36.2 36.2 Contingent commission receivable–LPT Agreement 13.4 13.2 Cloud computing arrangements 50.2 33.6 Other assets 60.1 46.4 Total assets $ 3,922.6 $ 4,004.1 Liabilities and stockholders' equity Claims and policy liabilities: Unpaid losses and loss adjustment expenses $ 2,069.4 $ 2,192.8 Unearned premiums 299.1 337.1 Commissions and premium taxes payable 43.0 48.6 Accounts payable and accrued expenses 22.9 29.8 Deferred income taxes, net 15.5 2.6 Deferred reinsurance gain—LPT Agreement 125.4 137.1 FHLB advances 20.0 — Non-cancellable obligations 24.1 23.0 Operating lease liability 19.9 17.8 Other liabilities 70.5 49.5 Total liabilities $ 2,709.8 $ 2,838.3 Commitments and contingencies (Note 12)

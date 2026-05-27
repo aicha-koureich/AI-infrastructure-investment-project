@@ -1,0 +1,21 @@
+FIRM         : MPWR (CIK 0001280452) | FY2020
+FILE         : 0001280452_MPWR_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : 3.0-8.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-8.0 ans
+
+[VERBATIM — Durée de vie]
+Production equipment and software have estimated useful lives of three to eight years. Transportation equipment has estimated useful lives of 5 to 20 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+For the year ended December 31, 2020, revenue from the communications market increased $57.5 million, or 67.8%, from the same period in 2019. This increase was primarily driven by increased infrastructure sales. Revenue from the consumer market increased $56.2 million, or 34.2%, from the same period in 2019. This increase was primarily driven by increased sales for gaming and mobile products. Revenue from the computing and storage market increased $64.0 million, or 33.8%, from the same period in 2019. This increase was primarily driven by strength in cloud computing and storage. Revenue from the automotive market increased $18.7 million, or 20.7%, from the same period in 2019. This increase was primarily driven by higher sales of products for infotainment applications, despite temporary production shutdowns by certain OEMs during the second quarter due to the COVID-19 pandemic. Revenue from the industrial market increased $20.2 million, or 20.3%, from the same period in 2019. This increase was primarily driven by higher sales in power source products.

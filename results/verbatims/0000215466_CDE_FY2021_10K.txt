@@ -1,0 +1,20 @@
+FIRM         : CDE (CIK 0000215466) | FY2021
+FILE         : 0000215466_CDE_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Productive lives range from 7 to 30 years for buildings and improvements and 3 to 10 years for machinery and equipment. Certain mining equipment is depreciated using the units-of-production method based upon estimated total proven and probable reserves.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

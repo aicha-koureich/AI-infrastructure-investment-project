@@ -1,0 +1,23 @@
+FIRM         : FHI (CIK 0001056288) | FY2015
+FILE         : 0001056288_FHI_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+On April 15, 2015, the FASB issued ASU 2015-05, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement. This update provides guidance about whether a cloud computing arrangement includes a software license. The update is effective for Federated on January 1, 2016. Management has elected the prospective adoption method and does not expect the update to have a material impact on Federated's Consolidated Financial Statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+(c) Accounting for Fees Paid in a Cloud Computing Arrangement ||| On April 15, 2015, the FASB issued ASU 2015-05, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement. This update provides guidance about whether a cloud computing arrangement includes a software license. The update is effective for Federated on January 1, 2016. Management has elected the prospective adoption method and does not expect the update to have a material impact on Federated's Consolidated Financial Statements.

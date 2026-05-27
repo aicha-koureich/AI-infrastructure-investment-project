@@ -1,0 +1,21 @@
+FIRM         : AEIS (CIK 0000927003) | FY2019
+FILE         : 0000927003_AEIS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES AND ESTIMATES
+ASSET CAT.   : computer and communication equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Estimated useful lives for financial reporting purposes are as follows: buildings, 20 to 40 years; machinery, equipment, furniture and fixtures and vehicles, 3 to 15 years; and computer and communication equipment, 3 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

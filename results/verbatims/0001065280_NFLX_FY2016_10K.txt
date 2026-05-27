@@ -1,0 +1,20 @@
+FIRM         : NFLX (CIK 0001065280) | FY2016
+FILE         : 0001065280_NFLX_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+delivery expenses, therefore, include equipment costs related to Open Connect and all third-party costs, such as cloud computing costs, associated with delivering streaming content over the internet. Cost of revenues in the Domestic DVD segment consist primarily of delivery expenses, content expenses, including amortization of DVD content assets and revenue sharing expenses, and other expenses associated with our DVD processing and customer service centers. Delivery expenses for the Domestic DVD segment consist of the postage costs to mail DVDs to and from our members and the packaging and label costs for the mailers. ||| The increase in technology and development expenses was primarily due to a $162.3 million increase in personnel-related costs resulting from an increase in compensation for existing employees and a 20% growth in average headcount supporting continued improvements in our streaming service and our international expansion. In addition, third-party expenses, including costs associated with cloud computing, increased $27.3 million. ||| The increase in technology and development expenses was primarily due to a $133.2 million increase in personnel-related costs resulting from an increase in compensation for existing employees and a 20% growth in average headcount supporting continued improvements in our streaming service and our international expansion. In addition, third-party expenses, including costs associated with cloud computing, increased $23.8 million.

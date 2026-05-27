@@ -1,0 +1,20 @@
+FIRM         : PANW (CIK 0001327567) | FY2016
+FILE         : 0001327567_PANW_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 16. Subsequent Events
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+July 31, 2016 2015 Computers, equipment, and software $ 102.7 $ 62.6 Leasehold improvements 58.0 25.5 Demonstration units 20.1 16.0 Furniture and fixtures 14.6 6.6 Total property and equipment 195.4 110.7 Less: accumulated depreciation (78.2 ) (47.8 ) Total property and equipment, net $ 117.2 $ 62.9
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued new authoritative guidance on fees paid in a cloud computing arrangement. The standard requires customers in a cloud computing arrangement to evaluate whether the arrangement includes a software license. If the arrangement includes a software license, the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If the arrangement does not include a software license, the customer should account for the arrangement as a service contract. The standard is effective for us for our first quarter of fiscal 2017 and will be applied on a prospective basis. We do not expect the adoption of the standard will have a material impact on our consolidated financial statements.

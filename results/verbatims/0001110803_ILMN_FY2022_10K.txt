@@ -1,0 +1,20 @@
+FIRM         : ILMN (CIK 0001110803) | FY2022
+FILE         : 0001110803_ILMN_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-04-02
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

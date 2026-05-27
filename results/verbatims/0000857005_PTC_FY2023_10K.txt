@@ -1,0 +1,20 @@
+FIRM         : PTC (CIK 0000857005) | FY2023
+FILE         : 0000857005_PTC_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2023
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Under ASC 606, the volume, mix, and duration of contract types (support, SaaS, on-premises subscription) starting or renewing in any given period can have a material impact on revenue in the period, and as a result can impact the comparability of reported revenue period over period. We recognize revenue for the license portion of on-premises subscription contracts up front when we deliver the licenses to the customer, typically on the start date, and we recognize revenue on the support portion of on-premises subscription contracts and stand-alone support contracts ratably over the term. We continue to convert existing perpetual support contracts to on-premises subscriptions, resulting in a shift to up-front recognition of on-premises subscription license revenue in the period converted compared to ratable recognition for a perpetual support contract. Revenue from our cloud services (primarily SaaS) contracts is recognized ratably. We expect that over time a higher portion of our revenue will be recognized ratably as we continue to expand our SaaS offerings, release additional cloud functionality into our products, and migrate customers from on-premises subscriptions to SaaS. Given the different mix, duration and volume of new and renewing contracts in any period, year-over-year or sequential revenue can vary significantly. ||| Support and cloud services (2) ||| Support and cloud services gross margin

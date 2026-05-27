@@ -1,0 +1,23 @@
+FIRM         : TVRD (CIK 0001346830) | FY2024
+FILE         : 0001346830_TVRD_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, net of accumulated depreciation and amortization of leasehold improvements.
+
+[VERBATIM — Changement de politique]
+The Company recognizes a liability related to the sales of future royalties and milestones under ASC 470-10: Debt and ASC 835-30: Interest – Imputation of Interest. The initial funds and future milestones received by the Company pursuant to the terms of the HCR Agreement were recorded as a liability and will be accreted under the effective interest method up to the estimated amount of future royalties and milestone payments to be made under the HCR Agreement. The issuance costs were recorded as a direct deduction to the carrying amount of the liability and will be amortized under the effective interest method over the estimated period the liability will be repaid. The Company estimated the total amount of future royalty revenue and milestone payments to be generated over the life of the HCR Agreement based on estimates and projections from CSL Vifor and Maruishi, and a significant increase or decrease in these estimates could materially impact the liability balance and the related interest expense. If the timing of the receipt of royalty and milestone payments is materially different from the original estimates, the Company will prospectively adjust the effective interest and the related amortization of the liability and related issuance costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

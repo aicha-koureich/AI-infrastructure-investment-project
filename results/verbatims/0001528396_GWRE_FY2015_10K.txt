@@ -1,0 +1,20 @@
+FIRM         : GWRE (CIK 0001528396) | FY2015
+FILE         : 0001528396_GWRE_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 9. Segment Information
+ASSET CAT.   : Computer hardware
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Computer hardware 3 years Software 3 years Furniture and fixtures 3 years Leasehold improvements Shorter of the lease term or estimated useful life
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements that Include a Software Element ||| In April 2015, the FASB issued ASU 2015-05, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement (ASU 2015-05). ASU 2015-05 provides guidance to customers about whether a cloud computing arrangement includes software. If a cloud computing arrangement includes a software license, the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The new guidance does not change the accounting for service contracts. ASU 2015-05 is effective for the Company in the first quarter of fiscal 2017 with early adoption permitted using either of two methods: (i) prospective to all arrangements entered into or materially modified after the effective date and represent a change in accounting principle; or (ii) retrospectively. The Company is currently evaluating the impact of the adoption of ASU 2015-05 on its consolidated financial statements.

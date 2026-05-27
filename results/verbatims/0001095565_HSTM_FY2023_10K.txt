@@ -1,0 +1,20 @@
+FIRM         : HSTM (CIK 0001095565) | FY2023
+FILE         : 0001095565_HSTM_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Capitalized software, computer software
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software and content development is stated on the basis of cost and is presented net of accumulated amortization. Amortization of capitalized software development was $22.0 million, $18.9 million, and $15.6 million during 2023 , 2022 , and 2021 , respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

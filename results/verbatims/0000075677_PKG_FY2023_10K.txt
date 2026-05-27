@@ -1,0 +1,20 @@
+FIRM         : PKG (CIK 0000075677) | FY2023
+FILE         : 0000075677_PKG_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-16
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+When property and equipment are retired, sold, or otherwise disposed of, the asset's carrying amount and related accumulated depreciation are removed from the accounts and any gain or loss is included in “Other expense, net” in our Consolidated Statements of Income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The Company accounts for costs incurred to implement a cloud computing arrangement that is a service contract under ASU 2018-15, Intangibles – Goodwill and Other – Internal Use Software (Subtopic 350-40) : Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. This ASU includes guidance on capitalizing costs associated with developing or obtaining internal-use software. As of December 31, 2023 and 2022, capitalized costs associated with cloud computing arrangements were $ 0.3 million and $ 1.6 million, respectively. ||| Deferred Software Costs PCA capitalizes costs related to the purchase and development of software, which is used in its business operations. The costs attributable to these software systems are amortized over their estimated useful lives based on various factors such as the effects of obsolescence, technology, and other economic factors. Net capitalized software costs recorded in “Other long-term assets” on our Consolidated Balance Sheets were $ 1.9 million and $ 3.0 million for the years ended December 31, 2023 and 2022, respectively. Software amortization expense was $ 1.4 million for the year ended, December 31, 2023, and $ 1.6 million for both the years ended December 31, 2022 and 2021. The Company accounts for costs incurred to implement a cloud computing arrangement that is a service contract under ASU 2018-15, Intangibles – Goodwill and Other – Internal Use Software (Subtopic 350-40) : Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. This ASU includes guidance on capitalizing costs associated with developing or obtaining internal-use software. As of December 31, 2023 and 2022, capitalized costs associated with cloud computing arrangements were $ 0.3 million and $ 1.6 million, respectively. ||| The Company accounts for costs incurred to implement a cloud computing arrangement that is a service contract under ASU 2018-15,

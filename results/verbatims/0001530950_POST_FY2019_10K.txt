@@ -1,0 +1,20 @@
+FIRM         : POST (CIK 0001530950) | FY2019
+FILE         : 0001530950_POST_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 — SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : software. Total depreciation expense was $218.3 , $221.0 and $164.0 in fiscal 2019
+DURÉE        : 1.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated useful lives range from 1 to 29 years for machinery and equipment; 1 to 39 years for buildings, building improvements and leasehold improvements; and 1 to 7 years for software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, “Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract.” This ASU largely aligns the guidance for recognizing implementation costs incurred in a cloud computing arrangement that is a service contract with that for recognizing implementation costs incurred to develop or obtain internal-use software, including hosting arrangements that include an internal-use software license. The Company adopted this ASU on October 1, 2018 on a prospective basis, as permitted by the ASU. The adoption of this ASU did not have a material impact on the Company’s financial statements.

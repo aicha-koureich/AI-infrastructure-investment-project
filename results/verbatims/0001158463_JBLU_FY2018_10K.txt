@@ -1,0 +1,20 @@
+FIRM         : JBLU (CIK 0001158463) | FY2018
+FILE         : 0001158463_JBLU_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1—Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated useful lives and residual values for our property and equipment are as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles—Goodwill and Other— Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. ||| The update provides guidance for determining if a cloud computing arrangement is within the scope of internal-use software guidance, and would require capitalization of certain implementation costs. ASU 2018-15 is effective for annual reporting periods beginning after December 15, 2019, with early adoption permitted. We are still evaluating the full impact of adopting the amendments on our consolidated financial statements. ||| In August 2018, the FASB issued ASU 2018-15, Intangibles—Goodwill and Other— Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. The update provides guidance for determining if a cloud computing arrangement is within the scope of internal-use software guidance, and would require capitalization of certain implementation costs. ASU 2018-15 is effective for annual reporting periods beginning after December 15, 2019, with early adoption permitted. We are still evaluating the full impact of adopting the amendments on our consolidated financial statements.

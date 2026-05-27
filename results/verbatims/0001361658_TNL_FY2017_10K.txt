@@ -1,0 +1,20 @@
+FIRM         : TNL (CIK 0001361658) | FY2017
+FILE         : 0001361658_TNL_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+guidance related to (i) management’s evaluation of consolidation for certain legal entities, (ii) customer’s accounting for fees paid in a cloud computing arrangement, (iii) simplifying the presentation of debt issuance costs, (iv) simplifying the accounting for measurement-period adjustments, and (v) balance sheet classification of deferred taxes. During 2017, we adopted guidance related to simplifying the measurement of inventory and accounting for share-based payment transactions, including the income tax consequences and classification of awards as either equity or liabilities. For detailed information regarding these standards and the impact thereof on our financial statements, see Note 2 - Summary of Significant Accounting Policies to the Consolidated Financial Statements.

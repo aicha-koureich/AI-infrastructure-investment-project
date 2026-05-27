@@ -1,0 +1,23 @@
+FIRM         : AZZ (CIK 0000008947) | FY2019
+FILE         : 0000008947_AZZ_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 29, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 3 – Property, Plant and Equipment
+ASSET CAT.   : Machinery and equipment, Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2020 2019 Land $ 21,826 $ 21,677 Building and structures 162,851 156,447 Machinery and equipment 252,726 245,588 Furniture, fixtures, software and computers 28,938 27,075 Automotive equipment 4,394 3,766 Construction in progress 16,466 13,065 487,201 467,618 Less accumulated depreciation (274,097 ) (257,391 ) Net property, plant, and equipment $ 213,104 $ 210,227
+
+[VERBATIM — Changement de politique]
+Pro forma results presented above reflect: (i) incremental depreciation relating to fair value adjustments to property, plant, and equipment and (ii) amortization adjustments relating to fair value estimates of intangible assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles—Goodwill and Other— Internal-Use Software (Subtopic 350-40) - Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ("ASU 2018-15"), which aligns the accounting for implementation costs incurred in a hosting arrangement that is a service contract with the accounting for implementation costs incurred to develop or obtain internal-use software, in order to determine the applicable costs to capitalize and the applicable costs to expense as incurred. The Company will adopt ASU 2018-15 in the first quarter of its fiscal 2021. The standard can be applied either prospectively to implementation costs incurred after the date of adoption or retrospectively to all arrangements. The Company intends to adopt ASU 2018-15 using the prospective approach and the adoption is not expected to have a material impact on its consolidated financial statements. ||| Intangibles—Goodwill and Other— Internal-Use Software (Subtopic 350-40) - Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

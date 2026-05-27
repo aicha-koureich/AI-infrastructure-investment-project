@@ -1,0 +1,20 @@
+FIRM         : PM (CIK 0001413329) | FY2015
+FILE         : 0001413329_PM_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies:
+ASSET CAT.   : equipment, Machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at historical cost and depreciated by the straight-line method over the estimated useful lives of the assets. Machinery and equipment are depreciated over periods ranging from
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

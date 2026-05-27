@@ -1,0 +1,23 @@
+FIRM         : SCHW (CIK 0000316709) | FY2022
+FILE         : 0000316709_SCHW_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-24
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : A100;B100 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Equipment, office facilities, and property are recorded at cost net of accumulated depreciation and amortization, except for land, which is recorded at cost. Equipment, office facilities, and property (other than land) are depreciated on a straight-line basis over their estimated useful lives.
+
+[VERBATIM — Changement de politique]
+Share-based compensation includes employee and board of director stock options and restricted stock units. Schwab measures compensation expense for these share-based payment arrangements based on their estimated fair values as of the grant date. The grant date fair value is amortized to compensation expense on a straight-line basis over the requisite service period. Share-based compensation expense is based on options or units expected to vest and therefore is reduced for estimated forfeitures. Per the Company’s accounting policy election, forfeitures are estimated at the time of grant and reviewed annually based on the Company’s historical forfeiture experience. Share-based compensation expense is adjusted in subsequent periods if actual forfeitures differ from estimated forfeitures. For share-based payment awards with performance conditions, management assesses and estimates their expected level of achievement. Share-based compensation expense is recognized based on the level of achievement deemed probable and changes in the estimated outcome are reflected as a cumulative adjustment to expense in the period of the change in estimate. The excess tax benefits or deficiencies from the exercise of stock options and the vesting of restricted stock units are recorded in taxes on income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

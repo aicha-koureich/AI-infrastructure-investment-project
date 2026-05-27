@@ -1,0 +1,23 @@
+FIRM         : AMN (CIK 0001142750) | FY2023
+FILE         : 0001142750_AMN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2
+ASSET CAT.   : furniture, equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company records furniture, equipment, leasehold improvements and capitalized software at cost less accumulated amortization and depreciation. The Company calculates depreciation on furniture, equipment and software using the straight-line
+
+[VERBATIM — Changement de politique]
+In the fourth quarter of 2023, the Company determined that it will wind down the operations of Synzi and SnapMD during 2024. As a result of this decision, the Company recorded an immaterial impairment charge to reduce the carrying value of intangible assets and shortened their remaining useful lives. The wind down is not expected to have a material effect on the Company’s consolidated financial statements.
+
+[VERBATIM — Infrastructure IA]
+The Company leases certain office facilities, data centers, and equipment under various operating leases. The Company’s short-term leases (with initial lease terms of 12 months or less) are primarily related to housing arrangements for healthcare professionals on assignment. Most leases include one or more options to renew, with renewal terms that can extend the lease term up to 10 years. Certain leases also include options to terminate the leases within 2 years.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

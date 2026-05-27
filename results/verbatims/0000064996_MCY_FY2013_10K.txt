@@ -1,0 +1,21 @@
+FIRM         : MCY (CIK 0000064996) | FY2013
+FILE         : 0000064996_MCY_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Furniture, equipment, and purchased software are depreciated on a combination of straight-line and accelerated methods over
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

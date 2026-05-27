@@ -1,0 +1,20 @@
+FIRM         : OGE (CIK 0001021635) | FY2023
+FILE         : 0001021635_OGE_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Sign ificant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+All property, plant and equipment is recorded at cost. Newly constructed plant is added to plant balances at cost which includes contracted services, direct labor, materials, overhead, transportation costs and the allowance for funds used during construction. Replacements of units of property are capitalized as plant. For assets that belong to a common plant account, the replaced plant is removed from plant balances, and the cost of such property net of any salvage proceeds is charged to Accumulated Depreciation. For assets that do not belong to a common plant account, the replaced plant is removed from plant balances with the related accumulated depreciation, and the remaining balance net of any salvage proceeds is recorded as a loss in the statements of income as Other Expense. Repair and replacement of minor items of property are included in the statements of income as Other Operation and Maintenance Expense.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

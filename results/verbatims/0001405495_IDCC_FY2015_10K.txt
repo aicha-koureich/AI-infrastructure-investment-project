@@ -1,0 +1,20 @@
+FIRM         : IDCC (CIK 0001405495) | FY2015
+FILE         : 0001405495_IDCC_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 15. SUBSEQUENT EVENTS
+ASSET CAT.   : Computer equipment, equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2015 2014 Computer equipment and software $ 30,066 $ 27,678 Engineering and test equipment 12,321 11,970 Building and improvements 11,356 11,076 Leasehold improvements 7,544 7,406 Furniture and fixtures 1,513 1,292 Land 695 695 Property and equipment, gross 63,495 60,117 Less: accumulated depreciation (51,347 ) (47,571 ) Property and equipment, net $ 12,148 $ 12,546
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

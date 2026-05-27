@@ -1,0 +1,20 @@
+FIRM         : COHR (CIK 0000820318) | FY2024
+FILE         : 0000820318_COHR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3. Coherent Acquisition
+ASSET CAT.   : equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+(ii) The Consolidated Balance Sheet has been adjusted to record Coherent Inc.’s property, plant and equipment (consisting of land, buildings and improvements, equipment, furniture and fixtures, and leasehold improvements) at a fair value of approximately $441 million. The Consolidated Statements of Earnings (Loss) have been adjusted to recognize additional depreciation expense related to the increased basis. The additional depreciation expense is computed with the assumption that the various categories of assets will be depreciated over their remaining useful lives on a straight-line basis.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : ZION (CIK 0000109380) | FY2023
+FILE         : 0000109380_ZION_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : software, including capitalized costs related to our technology initiatives
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Premises, equipment, and software are reported at cost, net of accumulated depreciation and amortization. Depreciation, computed primarily on the straight-line method, is charged to operations over the estimated useful lives of the properties, generally 25 to 40 years for buildings, three to 10 years for furniture and equipment, and three to 10 years for software, including capitalized costs related to our technology initiatives.
+
+[VERBATIM — Infrastructure IA]
+We have operating and finance leases for branches, corporate offices, and data centers. At December 31, 2023, we had 407 branches, of which 278 are owned and 129 are leased. We lease our headquarters in Salt Lake City, Utah. The remaining maturities of our lease commitments range from the year 2024 to 2062, and some lease arrangements include options to extend or terminate the leases.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

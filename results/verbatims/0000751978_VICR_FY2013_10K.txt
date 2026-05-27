@@ -1,0 +1,28 @@
+FIRM         : VICR (CIK 0000751978) | FY2013
+FILE         : 0000751978_VICR_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 7. PROPERTY, PLANT AND EQUIPMENT
+ASSET CAT.   : equipment
+DURÉE        : 3.0-39.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost and are depreciated and amortized over a period of three to
+39 years generally under the straight-line method for financial reporting purposes and accelerated methods for income tax purposes.
+
+[VERBATIM — Infrastructure IA]
+The Company’s products are sold worldwide to customers ranging from smaller, independent manufacturers of highly specialized electronic devices to larger original equipment manufacturers
+(“OEMs”) and their contract manufacturers. The applications in which these products are used are in the higher-performance, higher-power segments of the power systems market, including, in alphabetical order, aerospace and defense
+electronics, enterprise and high performance computing, industrial automation, telecommunications and networking infrastructure, test and measurement instrumentation, and vehicles and transportation. While, overall, the Company has a broad customer
+base and sells into a variety of industries, the Company’s VI Chip subsidiary has derived a substantial portion of its revenue from one customer and the Company’s Picor subsidiary has derived a substantial portion of its revenue from a
+limited number of customers. This concentration of revenue is a reflection of the relatively early stage of adoption of the technologies, architectures and products offered by these subsidiaries, and their targeting of market leading innovators as
+initial customers. Concentrations of credit risk with respect to trade accounts receivable are limited due to the number of entities comprising the Company’s customer base. As of December 31, 2013, two customers accounted for approximately
+12.9% and 12.5% of trade account receivables, respectively. For the year ended December 31, 2012, two customers accounted for approximately 12.7% and 10.6% of trade account receivables, respectively. Credit losses have consistently been within
+management’s expectations.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

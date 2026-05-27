@@ -1,0 +1,20 @@
+FIRM         : VCYT (CIK 0001384101) | FY2020
+FILE         : 0001384101_VCYT_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-22
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The components of the Company's cost of testing services are laboratory expenses, sample collection expenses, compensation expense, license fees and royalties, depreciation and amortization, other expenses such as equipment and laboratory supplies, and allocations of facility and information technology expenses.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018 the FASB issued ASU No. 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . This standard clarifies the accounting for implementation costs in cloud computing arrangements by aligning the accounting for costs incurred to implement a cloud computing arrangement that is a service arrangement with the guidance on capitalizing costs associated with developing or obtaining internal-use software. This standard became effective for us on January 1, 2020 and was adopted on a prospective basis with no material impact on our consolidated financial statements. ||| Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| . This standard clarifies the accounting for implementation costs in cloud computing arrangements by aligning the accounting for costs incurred to implement a cloud computing arrangement that is a service arrangement with the guidance on capitalizing costs associated with developing or obtaining internal-use software. This standard became effective for us on January 1, 2020 and was adopted on a prospective basis with no material impact on our consolidated financial statements.

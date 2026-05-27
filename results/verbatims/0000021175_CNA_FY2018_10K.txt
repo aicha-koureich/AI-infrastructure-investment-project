@@ -1,0 +1,23 @@
+FIRM         : CNA (CIK 0000021175) | FY2018
+FILE         : 0000021175_CNA_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The estimated lives for data processing equipment and software generally range from
+
+[VERBATIM — Changement de politique]
+Years ended December 31 (In millions) 2018 2017 2016 Cash Flows from Operating Activities Net income $ 813 $ 899 $ 859 Adjustments to reconcile net income to net cash flows provided by operating activities: Deferred income tax (benefit) expense (20 ) 168 136 Trading portfolio activity — 9 (9 ) Net realized investment losses (gains) 52 (93 ) (50 ) Equity method investees 330 84 238 Net amortization of investments (70 ) (40 ) (27 ) Depreciation and amortization 79 88 77 Changes in: Receivables, net (229 ) 92 (130 ) Accrued investment income 19 (4 ) (3 ) Deferred acquisition costs (6 ) (24 ) (8 ) Insurance reserves 482 22 237 Other assets (192 ) (158 ) (95 ) Other liabilities (98 ) 173 162 Other, net 67 38 29 Total adjustments 414 355 557 Net cash flows provided by operating activities 1,227 1,254 1,416 Cash Flows from Investing Activities Dispositions: Fixed maturity securities - sales 8,408 5,438 5,328 Fixed maturity securities - maturities, calls and redemptions 2,370 3,641 3,219 Equity securities 89 46 81 Limited partnerships 343 192 290 Mortgage loans 128 26 207 Purchases: Fixed maturity securities (10,785 ) (9,065 ) (9,827 ) Equity securities (258 ) (166 ) — Limited partnerships (419 ) (171 ) (252 ) Mortgage loans (128 ) (274 ) (120 ) Change in other investments (12 ) (3 ) 7 Change in short term investments 168 (6 ) 258 Purchases of property and equipment (99 ) (102 ) (146 ) Disposals of property and equipment — — 107 Other, net 18 20 2 Net cash flows used by investing activities (177 ) (424 ) (846 )
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

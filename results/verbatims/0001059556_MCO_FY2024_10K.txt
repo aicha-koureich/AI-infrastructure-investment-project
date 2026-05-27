@@ -1,0 +1,24 @@
+FIRM         : MCO (CIK 0001059556) | FY2024
+FILE         : 0001059556_MCO_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2027-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 7 PROPERTY AND EQUIPMENT, NET
+ASSET CAT.   : equipment, computer equipment, furniture and fixtures, computer software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-10.0 ans | 3.0-10.0 ans | 4.4 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment, net consisted of: December 31, 2024 2023 Office and computer equipment (3 - 10 year estimated useful life) $ 400 $ 354 Office furniture and fixtures (3 - 10 year estimated useful life) 57 57 Internal-use computer software (1 - 10 year estimated useful life) 1,417 1,232 Leasehold improvements and building (1 - 20 year estimated useful life) 235 232 Total property and equipment, at cost 2,109 1,875 Less: accumulated depreciation and amortization (1,453) (1,272) Total property and equipment, net $ 656 $ 603
+
+[VERBATIM — Changement de politique]
+These charges consist of: i) $12 million related to severance incurred pursuant to a reduction in staff; and ii) $31 million in incremental amortization expense related to the change in estimated useful lives of certain internally developed software and amortizable intangible assets that are associated with the sustainability content offerings for which production is being outsourced.
+
+[VERBATIM — Infrastructure IA]
+Purchase obligations generally include multi-year agreements with vendors to purchase goods or services and mainly include data center/cloud hosting fees and fees for information technology licensing and maintenance. As of December 31, 2024, these purchase obligations totaled $716 million, of which approximately 45% is expected to be paid in the next twelve months and another approximate 45% expected to be paid over the next two subsequent years, with the remainder to be paid thereafter.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+The Company also capitalizes implementation costs incurred in cloud computing arrangements (e.g., hosted arrangements) and depreciates the costs over the non-cancellable term of the cloud computing arrangements plus any option renewal periods that are reasonably certain to be exercised or for which the exercise is controlled by the service provider. The Company classifies the amortization of capitalized implementation costs in the same line item in the consolidated statement of operations as the fees associated with the hosting service (i.e., operating and SG&A expense) and classifies the related payments in the consolidated statement of cash flows in the same manner as payments made for fees associated with the hosting service (i.e. cash flows from operating activities). In addition, the capitalization of implementation costs is reflected in the consolidated balance sheets consistent with the location of prepayment of fees for the hosting element (i.e., within other current assets or other assets).

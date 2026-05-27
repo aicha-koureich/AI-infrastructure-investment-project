@@ -1,0 +1,24 @@
+FIRM         : ALK (CIK 0000766421) | FY2017
+FILE         : 0000766421_ALK_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 12. OPERATING SEGMENT INFORMATION
+ASSET CAT.   : Computer hardware and software
+DURÉE        : 20.0-25.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 5.0-10.0 ans | 10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost and depreciated using the straight-line method over their estimated useful lives less an estimated salvage value, which are as follows: Estimated Useful Life Estimated Salvage Value Aircraft and other flight equipment: Boeing 737, Airbus A319/320, and E175 aircraft 20-25 years 10% Bombardier Q400 aircraft 15 years 10% Buildings 25 - 30 years —% Minor building and land improvements 10 years —% Capitalized leases and leasehold improvements Generally shorter of lease term or estimated useful life 0-10% Computer hardware and software 3-10 years —% Other furniture and equipment 5-10 years —%
+
+[VERBATIM — Changement de politique]
+In 2016, the Company changed its accounting estimate for the expected useful life of the B737 NextGen aircraft, which includes the B737-700, -800, -900, -900ER aircraft and the related parts, from 20 years to 25 years. The change in estimate was precipitated by management's annual accounting policy review, which considered market studies, asset performance and intended use, as well as industry benchmarking. The change in estimate was applied prospectively effective October 1, 2016.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

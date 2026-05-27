@@ -1,0 +1,23 @@
+FIRM         : BLMN (CIK 0001546417) | FY2014
+FILE         : 0001546417_BLMN_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Assumes achievement of target threshold of the Adjusted Earnings Before Interest, Taxes, Depreciation and Amortization (“Adjusted EBITDA”) goals for the Company or respective concepts for the 2013 Programs and achievement of target threshold of the Adjusted EPS goal for the 2014 Program.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,24 @@
+FIRM         : LULU (CIK 0001397187) | FY2020
+FILE         : 0001397187_LULU_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-03-24
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost less accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+Acquired finite-lived intangible assets are amortized on a straight-line basis over their estimated useful lives, and are reviewed for impairment when events or circumstances indicate that the asset group to which the intangible assets belong might be impaired. The Company revises the estimated remaining useful life of these assets when events or changes in circumstances warrant a revision. If the Company revises the useful life, the unamortized balance is amortized over the remaining useful life on a prospective basis.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+– $38.4 million related to prepaid expenses and other current and non-current assets, including increases in cloud computing implementation costs; ||| $38.4 million related to prepaid expenses and other current and non-current assets, including increases in cloud computing implementation costs; ||| Capital expenditures related to corporate activities and other were $57.8 million and $95.7 million in 2020 and 2019, respectively. The capital expenditures in each fiscal year were primarily related to investments in information technology and business systems, and for capital expenditures related to opening retail locations other than company-operated stores. The decrease in capital expenditures for our corporate activities and other was partially due to more larger scale projects in the prior year in comparison to the current year as well as a shift to cloud computing. Implementation costs related to cloud service arrangements are capitalized within other non-current assets in the consolidated balance sheets and the associated cash flows are included in operating activities. We anticipate that we will continue to shift towards more cloud-based technology services in the future.

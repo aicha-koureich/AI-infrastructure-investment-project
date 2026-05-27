@@ -1,0 +1,20 @@
+FIRM         : RCUS (CIK 0001724521) | FY2019
+FILE         : 0001724521_RCUS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1
+ASSET CAT.   : equipment, Furniture, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31, 2019 2018 Scientific equipment $ 8,168 $ 6,628 Furniture and equipment 1,165 813 Capitalized software 146 146 Leasehold improvements 10,834 10,828 Construction in progress 238 335 Total 20,551 18,750 Less: Accumulated depreciation and amortization (11,221 ) (7,643 ) Property and equipment, net $ 9,330 $ 11,107
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

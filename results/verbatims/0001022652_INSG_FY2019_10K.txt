@@ -1,0 +1,20 @@
+FIRM         : INSG (CIK 0001022652) | FY2019
+FILE         : 0001022652_INSG_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Revenues from the Company’s SaaS subscription services represent a single promise to provide continuous access to its software solutions and their processing capabilities in the form of a service through one of the Company’s data centers or a hosted data center. As each day of providing access to the software is substantially the same, and the customer simultaneously receives and consumes the benefits as access is provided, the Company has determined that its subscription services arrangements include a single performance obligation comprised of a series of distinct services. The Company’s SaaS subscriptions also include an unspecified volume of call center support and any remote system diagnostic and software upgrades as needed. These services are combined with the recurring monthly subscription service since they are highly interrelated and interdependent. Revenue from the Company’s subscription services is recognized over time on a ratable basis over the contract term beginning on the date that the service is made available to the customer.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+integrated telematics and mobile tracking hardware devices, which are supported by applications software and cloud services designed to enable customers to easily analyze data insights and configure and manage their hardware.

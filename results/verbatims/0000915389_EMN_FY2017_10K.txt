@@ -1,0 +1,21 @@
+FIRM         : EMN (CIK 0000915389) | FY2017
+FILE         : 0000915389_EMN_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 22. Recently Issued Accounting Standards
+ASSET CAT.   : equipment, machinery and equipment, computer software, furniture and fixtures
+DURÉE        : 20.0-50.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated useful lives for buildings and building equipment generally range from 20 to 50 years. Estimated useful lives generally ranging from 3 to 33 years are applied to machinery and equipment in the following categories: computer software (3 to 5 years); office furniture and fixtures and computer equipment (5 to 10 years); vehicles, railcars, and general machinery and equipment (5 to 20 years); and manufacturing-related improvements (20 to 33 years).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

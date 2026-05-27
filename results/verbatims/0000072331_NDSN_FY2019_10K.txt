@@ -1,0 +1,20 @@
+FIRM         : NDSN (CIK 0000072331) | FY2019
+FILE         : 0000072331_NDSN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-10-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — Significant accounting policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment and depreciation — Property, plant and equipment are carried at cost. Plant and equipment are depreciated for financial reporting purposes using the straight-line method over the estimated useful lives of the assets or, in the case of property under capital leases, over the terms of the leases.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued a new standard which makes a number of changes meant to help entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement (hosting arrangement), by providing guidance in determining when the arrangement includes a software license. It will be effective for us beginning November 1, 2020. Early adoption is permitted. We are currently assessing the impact this standard will have on our Consolidated Financial Statements.

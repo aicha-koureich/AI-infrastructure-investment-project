@@ -1,0 +1,21 @@
+FIRM         : AMSF (CIK 0001018979) | FY2024
+FILE         : 0001018979_AMSF_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-25
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : buildings
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 0.7 ans | 2.1 ans | 2.9 ans | 3.0-7.0 ans | 3.8 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Property and Equipment The Company’s property and equipment, including certain costs incurred to develop or obtain software for internal use, are stated at cost less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

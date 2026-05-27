@@ -1,0 +1,20 @@
+FIRM         : MTN (CIK 0000812011) | FY2016
+FILE         : 0000812011_MTN_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : July 31, 2016
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 1. Organization and Business
+ASSET CAT.   : Machinery and equipment, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+July 31, 2016 2015 Land and land improvements $ 440,300 $ 431,854 Buildings and building improvements 1,025,515 1,006,821 Machinery and equipment 866,008 815,946 Furniture and fixtures 284,959 286,863 Software 103,754 106,433 Vehicles 58,159 61,036 Construction in progress 39,396 53,158 Gross property, plant and equipment 2,818,091 2,762,111 Accumulated depreciation (1,454,277 ) (1,375,836 ) Property, plant and equipment, net $ 1,363,814 $ 1,386,275
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05, “Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement.” The standard provides guidance about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the software license element of the arrangement should be accounted for as an acquisition of a software license. If a cloud computing arrangement does not include a software license, it should be accounted for as a service contract. The standard will be effective for the first interim period within fiscal years beginning after December 15, 2015 (the Company’s first quarter of fiscal 2017) and may be adopted either retrospectively or prospectively. The adoption of this accounting standard is not expected to have a material impact on the Company’s financial position or results of operations and cash flows.

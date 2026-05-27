@@ -1,0 +1,21 @@
+FIRM         : BDC (CIK 0000913142) | FY2017
+FILE         : 0000913142_BDC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2: Summary of Significant Accounting Policies
+ASSET CAT.   : computer equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0-10.0 ans | 5.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+for computer equipment and software. Construction in process reflects amounts incurred for the configuration and build-out of property, plant and equipment and for property, plant and equipment not yet placed into service. We charge maintenance and repairs—both planned major activities and less-costly, ongoing activities—to expense as incurred. We capitalize interest costs associated with the construction of capital assets and amortize the costs over the assets’ useful lives. Depreciation expense is included in costs of sales; selling, general and administrative expenses; and research and development expenses in the Consolidated Statements of Operations based on the specific categorization and use of the underlying assets being depreciated.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

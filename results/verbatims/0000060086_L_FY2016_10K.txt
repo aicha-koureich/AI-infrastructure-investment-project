@@ -1,0 +1,30 @@
+FIRM         : L (CIK 0000060086) | FY2016
+FILE         : 0000060086_L_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Contract drilling revenue from dayrate drilling contracts is recognized as services are performed. In connection with such
+drilling contracts, Diamond Offshore may receive fees (either lump-sum or dayrate) for the mobilization of equipment. These fees are earned as services are performed over the initial term of the related
+drilling contracts. Absent a contract, mobilization costs are recognized currently. From time to time, Diamond Offshore may receive fees from its customers for capital improvements to their rigs. Diamond Offshore defers such fees received and
+recognizes these fees into revenue on a straight-line basis over the period of the related drilling contract. Diamond Offshore capitalizes the costs of such capital improvements and depreciates them over the estimated useful life of the improvement.
+
+[VERBATIM — Changement de politique]
+The cost of fixed maturity securities classified as available-for-sale is adjusted for amortization of premiums and accretion of discounts, which are included in Net investment income on the Consolidated Statements of
+Income. The amortization of premium and accretion of discount for fixed maturity securities takes into consideration call and maturity dates that produce the lowest yield. In 2015, the Company changed its accounting principle as previously the
+amortization of premiums was to maturity. This change in estimate, effected by a change in accounting principle was adopted in the fourth quarter of 2015 and decreased Net investment income and the amortized cost of fixed maturity securities by
+$39 million in the Consolidated Statements of Income for the year ended December 31, 2015 and the Consolidated Balance Sheet as of December 31, 2015. The decrease to Net investment income included a $22 million cumulative
+adjustment relating to prior periods. The total adjustment decreased basic and diluted net income per share by $0.06 for the year ended December 31, 2015.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : KMX (CIK 0001170010) | FY2022
+FILE         : 0001170010_KMX_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 8. PROPERTY AND EQUIPMENT
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of February 28 (In thousands) 2023 2022 Land $ 947,734 $ 913,577 Land held for development (1) 62,770 73,347 Buildings 2,454,937 2,290,686 Leasehold improvements 356,974 331,002 Furniture, fixtures and equipment 559,927 520,407 Construction in progress 156,925 113,091 Software 314,454 246,616 Finance leases 192,117 157,890 Total property and equipment 5,045,838 4,646,616 Less: accumulated depreciation and amortization (1,614,924) (1,437,548) Property and equipment, net $ 3,430,914 $ 3,209,068
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

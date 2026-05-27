@@ -1,0 +1,20 @@
+FIRM         : LFUS (CIK 0000889331) | FY2015
+FILE         : 0000889331_LFUS_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 2, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 16. Lease Commitments The company leases certain office and warehouse space as well as certain machinery and equipment under non-cancellable operating
+ASSET CAT.   : machinery and equipment
+DURÉE        : 1.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+16. Lease Commitments The company leases certain office and warehouse space as well as certain machinery and equipment under non-cancellable operating leases. Rent expense under these leases was approximately $11.1 million in 2015, $8.9 million in 2014 and $8.9 million in 2013. Rent expense is recognized on a straight-line basis over the term of the leases. The difference between straight-line basis rent and the amount paid has been recorded as accrued lease obligations. The company also has leases that have lease renewal provisions. As of January 2, 2016, all operating leases outstanding were with third parties. The company did not have any capital leases as of January 2, 2016 . Future minimum payments for all non-cancellable operating leases with initial terms of one year or more at January 2, 2016 are as follows (in thousands): 2016 $ 8,886 2017 5,227 2018 3,984 2019 3,358 2020 3,163 2021 and thereafter 10,021 $ 34,639
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

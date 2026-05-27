@@ -1,0 +1,23 @@
+FIRM         : NEE (CIK 0000753308) | FY2019
+FILE         : 0000753308_NEE_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting and Reporting Policies
+ASSET CAT.   : capitalized software
+DURÉE        : 4.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The weighted annual composite depreciation and amortization rate for FPL's electric utility plant in service, including capitalized software, but excluding
+
+[VERBATIM — Changement de politique]
+the effects of decommissioning, dismantlement and the depreciation adjustments discussed above, was approximately 3.9% , 3.8% and 3.7% for 2019, 2018 and 2017 , respectively. FPL files a twelve-month forecast with the FPSC each year which contains a regulatory ROE intended to be earned based on the best information FPL has at that time assuming normal weather. This forecast establishes a fixed targeted regulatory ROE. In order to earn the targeted regulatory ROE in each reporting period under the 2016 rate agreement, reserve amortization is calculated using a trailing thirteen-month average of retail rate base and capital structure in conjunction with the trailing twelve months regulatory retail base net operating income, which primarily includes the retail base portion of base and other revenues, net of O&M, depreciation and amortization, interest and tax expenses. In general, the net impact of these income statement line items is adjusted, in part, by reserve amortization or its reversal to earn the targeted regulatory ROE.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

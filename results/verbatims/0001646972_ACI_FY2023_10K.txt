@@ -1,0 +1,20 @@
+FIRM         : ACI (CIK 0001646972) | FY2023
+FILE         : 0001646972_ACI_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-04-11
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 - DESCRIPTION OF BUSINESS, BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment under finance leases are recorded at the lower of the present value of the future minimum lease payments or the fair value of the asset and are amortized on the straight-line method over the lesser of the lease term or the estimated useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud computing arrangements that are service contracts: The Company enters into hosted cloud computing arrangements that are considered to be service contracts and capitalizes certain development costs related to implementing the cloud computing arrangement. As of February 24, 2024 and February 25, 2023, the Company had capitalized implementation costs of $275.9 million and $272.3 million, respectively, included in Other assets. The Company amortizes the costs over the related service contract period of the hosting arrangement. Amortization expense for the implementation costs was $80.5 million, $64.9 million and $38.3 million for fiscal 2023, fiscal 2022 and fiscal 2021 respectively, and is included within Selling and administrative expenses. In fiscal 2023, there was $23.4 million of impairment and disposal losses related to capitalized implementation costs, recorded as a component of Loss (gain) on property dispositions and impairment losses, net. In fiscal 2022 and fiscal 2021, there were no impairment and disposal losses related to capitalized implementation costs. ||| Cloud computing arrangements that are service contracts: ||| The Company enters into hosted cloud computing arrangements that are considered to be service contracts and capitalizes certain development costs related to implementing the cloud computing arrangement. As of February 24, 2024 and February 25, 2023, the Company had capitalized implementation costs of $275.9 million and $272.3 million, respectively, included in Other assets. The Company amortizes the costs over the related service contract period of the hosting arrangement. Amortization expense for the implementation costs was $80.5 million, $64.9 million and $38.3 million for fiscal 2023, fiscal 2022 and fiscal 2021 respectively, and is included within Selling and administrative expenses. In fiscal 2023, there was $23.4 million of impairment and disposal losses related to capitalized implementation costs, recorded as a component of Loss (gain) on property dispositions and impairment losses, net. In fiscal 2022 and fiscal 2021, there were no impairment and disposal losses related to capitalized implementation costs.

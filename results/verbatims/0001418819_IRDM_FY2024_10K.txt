@@ -1,0 +1,24 @@
+FIRM         : IRDM (CIK 0001418819) | FY2024
+FILE         : 0001418819_IRDM_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 16
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment is carried at cost less accumulated depreciation. The Company assesses the current estimated operational life of the satellites, including the potential impact of environmental factors on the satellites, ongoing operational enhancements and software upgrades when evaluating the useful lives of its satellites.
+
+[VERBATIM — Changement de politique]
+During the quarter ended June 30, 2023, the Company launched five of its remaining six ground spare satellites. Following completion of successful on-orbit testing of the five launched satellites, the Company has no plans to use, develop or launch the remaining ground spare. As the Company believed the construction-in-progress associated with the remaining ground spare satellite would no longer be used, the Company wrote off the full amount remaining in construction-in-progress for that satellite by recording accelerated depreciation expense of $37.5 million, which more than offset the decrease in depreciation expense related to the increase in estimated useful lives of the satellites described above.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

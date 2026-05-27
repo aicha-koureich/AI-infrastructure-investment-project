@@ -1,0 +1,20 @@
+FIRM         : COO (CIK 0000711404) | FY2020
+FILE         : 0000711404_COO_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : OCTOBER 31, 2020
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+$ 80.9 million decrease in the net changes in prepayments and other assets primarily due to the refund of the prepayment made to the U.K. Tax Authorities in the prior year period and capitalized cloud computing costs; ||| million decrease in the net changes in prepayments and other assets primarily due to the refund of the prepayment made to the U.K. Tax Authorities in the prior year period and capitalized cloud computing costs;

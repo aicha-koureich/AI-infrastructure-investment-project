@@ -1,0 +1,20 @@
+FIRM         : BCC (CIK 0001328581) | FY2024
+FILE         : 0001328581_BCC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-07
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, information technology, furniture, Machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2024 December 31, 2023 General Range of Estimated Useful Lives in Years (thousands) Land $ 94,591 $ 85,572 Buildings 360,518 338,230 20 - 40 Improvements 87,512 79,308 10 - 15 Mobile equipment, information technology, and office furniture 296,604 254,783 3 - 7 Machinery and equipment 1,089,117 1,037,135 7 - 12 Construction in progress 147,668 64,619 2,076,010 1,859,647 Less accumulated depreciation (1,028,927) (927,014) $ 1,047,083 $ 932,633
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

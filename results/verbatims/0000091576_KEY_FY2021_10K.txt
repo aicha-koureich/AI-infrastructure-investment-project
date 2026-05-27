@@ -1,0 +1,20 @@
+FIRM         : KEY (CIK 0000091576) | FY2021
+FILE         : 0000091576_KEY_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 11. Premises and Equipment
+ASSET CAT.   : computer software, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Eligible costs related to computer software developed or obtained for internal use that add functionality, improve efficiency or extend the useful life of a system are capitalized. Amortization of capitalized software begins when it is ready for its intended use, which is after all substantial testing is completed.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Key had capitalized software assets, including internally-developed and purchased software and costs associated with certain cloud computing arrangements of $321 million and $385 million and related accumulated amortization of $86 million and $183 million as of December 31, 2021, and December 31, 2020, respectively. This includes in-process software that has not started amortizing. Amortization expense related to internal-use software for the years ended December 31, 2021, December 31, 2020, and December 31, 2019, was $66 million, $49 million, and $46 million, respectively.

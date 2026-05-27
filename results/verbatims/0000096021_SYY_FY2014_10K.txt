@@ -1,0 +1,21 @@
+FIRM         : SYY (CIK 0000096021) | FY2014
+FILE         : 0000096021_SYY_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 28, 2014
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 1. SUMMARY
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Amortization commenced in August 2012 on the majority of the software in the project when it entered the deployment stage.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

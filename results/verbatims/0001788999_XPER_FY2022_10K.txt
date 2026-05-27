@@ -1,0 +1,20 @@
+FIRM         : XPER (CIK 0001788999) | FY2022
+FILE         : 0001788999_XPER_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We have lease arrangements for office and research facilities, data centers and office equipment. As of December 31, 2022, fixed lease payment obligations amounted to $59.9 million, with $19.9 million payable within 12 months. See “Note 8 – Leases ” of the Notes to Consolidated Financial Statements for additional information on lease obligations and maturities.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

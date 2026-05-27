@@ -1,0 +1,20 @@
+FIRM         : MTZ (CIK 0000015615) | FY2020
+FILE         : 0000015615_MTZ_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2028-08-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Business, Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : equipment, furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization of property and equipment, including finance lease assets, is computed using the straight-line method over the estimated useful lives of the respective assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the Financial Accounting Standards Board (“FASB”) issued Accounting Standard Update (“ASU”) 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40) Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (“ASU 2018-15”) to reduce diversity in practice in accounting for the costs of implementing cloud computing arrangements that are service contracts. ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for internal-use software. Accounting for the service element of the cloud computing arrangement is not affected by the new guidance. Under ASU 2018-15, amortization expense, payments for and asset balances related to such capitalized implementation costs are to be presented within the same line items of the entity’s statements of operations, cash flows and balance sheets, respectively, as the related service fee activity and balances would be presented. ASU 2018-15, which the Company adopted on a prospective basis during the first quarter of 2020, did not have a material effect on the Company’s consolidated financial statements. ||| Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40) Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| (“ASU 2018-15”) to reduce diversity in practice in accounting for the costs of implementing cloud computing arrangements that are service contracts. ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for internal-use software. Accounting for the service element of the cloud computing arrangement is not affected by the new guidance. Under ASU 2018-15, amortization expense, payments for and asset balances related to such capitalized implementation costs are to be presented within the same line items of the entity’s statements of operations, cash flows and balance sheets, respectively, as the related service fee activity and balances would be presented. ASU 2018-15, which the Company adopted on a prospective basis during the first quarter of 2020, did not have a material effect on the Company’s consolidated financial statements.

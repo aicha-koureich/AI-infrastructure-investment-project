@@ -1,0 +1,20 @@
+FIRM         : AAON (CIK 0000824142) | FY2021
+FILE         : 0000824142_AAON_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-23
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 5. Leases
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Through the acquisition of BasX (Note 4), we acquired various leases for plant/office space and equipment. We also lease the plant/office space used by our operations in Parkville, MO. Expense related to these leases is recognized on straight-line basis over the lease term. Certain of our leases contain escalating lease payments based on predefined increases. Most leases contain options to renew or terminate. Right-of-use assets and lease liabilities reflect only the options which the Company is reasonably certain to exercise.
+
+[VERBATIM — Infrastructure IA]
+Year Ended December 31, 2021 AAON Oklahoma AAON Coil Products BasX 1 Total (in thousands) Rooftop Units $ 398,461 $ — $ — $ 398,461 Condensing Units 762 25,989 — 26,751 Air Handlers — 26,589 95 26,684 Outdoor Mechanical Rooms 820 464 — 1,284 Cleanroom Systems — — 2,288 2,288 Data Center Cooling Solutions — — 1,688 1,688 Water-Source Heat Pumps 10,831 10,343 — 21,174 Part Sales 41,127 1 — 41,128 Other 11,844 3,203 12 15,059 $ 463,845 $ 66,589 $ 4,083 $ 534,517 Year Ended December 31, 2020 AAON Oklahoma AAON Coil Products BasX 1 Total (in thousands) Rooftop Units $ 400,946 $ — — $ 400,946 Condensing Units 900 20,249 — 21,149 Air Handlers — 23,931 — 23,931 Outdoor Mechanical Rooms 2,355 487 — 2,842 Water-Source Heat Pumps 10,663 8,390 — 19,053 Part Sales 32,561 — — 32,561 Other 11,532 2,537 — 14,069 $ 458,957 $ 55,594 — $ 514,551 Year Ended December 31, 2019 AAON Oklahoma AAON Coil Products BasX 1 Total (in thousands) Rooftop Units $ 349,427 $ — — $ 349,427 Condensing Units 865 17,610 — 18,475 Air Handlers — 24,265 — 24,265 Outdoor Mechanical Rooms 1,134 509 — 1,643 Water-Source Heat Pumps 21,076 4,371 — 25,447 Part Sales 33,331 — — 33,331 Other 12,836 3,909 — 16,745 $ 418,669 $ 50,664 — $ 469,333 1 BasX was acquired by the Company on December 10, 2021, as such, the only applicable period presented for BasX is December 11, 2021 through December 31, 2021.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

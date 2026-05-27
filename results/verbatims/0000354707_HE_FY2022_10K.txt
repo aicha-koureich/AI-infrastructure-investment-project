@@ -1,0 +1,20 @@
+FIRM         : HE (CIK 0000354707) | FY2022
+FILE         : 0000354707_HE_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-11
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3 · Electric utility segment
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B100;B200 (3 modèle(s))
+
+[VERBATIM — Durée de vie]
+Nonutility property, plant and equipment, less accumulated depreciation
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

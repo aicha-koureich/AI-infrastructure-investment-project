@@ -1,0 +1,20 @@
+FIRM         : BEN (CIK 0000038777) | FY2022
+FILE         : 0000038777_BEN_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-11-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : 3.0-35.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment, net are recorded at cost and depreciated using the straight-line method over their estimated useful lives which range from three to 35 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

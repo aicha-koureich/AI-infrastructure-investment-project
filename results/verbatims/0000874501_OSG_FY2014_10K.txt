@@ -1,0 +1,20 @@
+FIRM         : OSG (CIK 0000874501) | FY2014
+FILE         : 0000874501_OSG_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 10 . Fair Value Measurements
+ASSET CAT.   : furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of furniture and fixtures and electronic data processing equipment is charged over the estimated useful lives of the respective assets, ranging from
+
+[VERBATIM — Infrastructure IA]
+Ambac is responsible for leases on the rental of office space. The executive office of Ambac is located in New York City under a lease agreement that expires in December 2015. The lease has a provision where Ambac Assurance can remain at One State Street Plaza through September 2019 (requires consent of both parties) with the potential for a reduced amount of space. In February 2015, both parties committed to extending the lease term with the rental cost still to be determined. Ambac leases additional space for its data center, disaster recovery site and for its international locations under lease agreements that expire periodically through October 2020. An estimate of future net minimum lease payments in each of the next five years ending December 31, and the periods thereafter, is as follows:  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

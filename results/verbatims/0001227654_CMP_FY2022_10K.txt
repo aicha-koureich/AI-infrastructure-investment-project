@@ -1,0 +1,20 @@
+FIRM         : CMP (CIK 0001227654) | FY2022
+FILE         : 0001227654_CMP_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-11-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : computer software, equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company recorded $7.6 million, $5.0 million and $5.5 million of amortization expense related to capitalized computer software for the fiscal year ended September 30, 2022, the nine months ended September 30, 2021 and the fiscal year ended December 31, 2020, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

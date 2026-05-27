@@ -1,0 +1,20 @@
+FIRM         : KBR (CIK 0001357615) | FY2021
+FILE         : 0001357615_KBR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-18
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are reported at cost less accumulated depreciation except for those assets that have been written down to their fair values due to impairment. The cost of property, plant and equipment sold or otherwise disposed of and the related accumulated depreciation are removed from the accounts and any resulting gain or loss is included in operating income for the respective period.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

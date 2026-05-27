@@ -1,0 +1,23 @@
+FIRM         : TWO (CIK 0001465740) | FY2021
+FILE         : 0001465740_TWO_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : A100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+The adoption of this ASU impacts the Company’s accounting for the purchase of certain beneficial interests with purchased credit deterioration or when there is a “significant” difference between contractual cash flows and expected cash flows. For these securities, the Company records an allowance for credit losses with an increase in amortized cost above the purchase price of the same amount. Subsequent adverse or favorable changes in expected cash flows are recognized immediately in earnings as a provision for or reversal of provision for credit losses, respectively. Adverse changes are reflected as an increase to the allowance for credit losses and favorable changes are reflected as a decrease to the allowance for credit losses. The allowance for credit losses is limited to the difference between the beneficial interest’s fair value and its amortized cost, and any remaining adverse changes in these circumstances are reflected as a prospective adjustment to accretable yield. If the allowance for credit losses has been reduced to zero, the remaining favorable changes are reflected as a prospective adjustment to accretable yield. The Company does not adjust the effective interest rate in subsequent periods for prepayment assumption changes or variable-rate changes. Any changes in the allowance for credit losses due to the time-value-of-money are accounted for in the consolidated statements of comprehensive (loss) income as provision for credit losses rather than a reduction to interest income. Any portion of the AFS securities that is deemed uncollectible results in a write-off of the uncollectible amortized cost with a corresponding reduction to the allowance for credit losses. Recoveries of amounts previously written off results in an increase to the allowance for credit losses.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

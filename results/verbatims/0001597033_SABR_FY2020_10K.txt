@@ -1,0 +1,21 @@
+FIRM         : SABR (CIK 0001597033) | FY2020
+FILE         : 0001597033_SABR_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Business and Significant Accounting Policies
+ASSET CAT.   : Furniture and fixtures, Equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Buildings Lesser of lease term or 35 years Leasehold improvements Lesser of lease term or useful life Furniture and fixtures 5 to 15 years Equipment, general office and computer 3 to 5 years Software developed for internal use 3 to 5 years
+
+[VERBATIM — Infrastructure IA]
+Through our technology transformation efforts, we expect to benefit from lower cloud infrastructure costs and higher margins, with material cost savings realized beginning in 2024. We believe that continued investment in our technology will help to provide us the necessary framework and infrastructure for a secure and stable architecture for our customers, grow our  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued updated guidance on customer's accounting for implementation costs incurred in a cloud computing arrangement that is a service contract. Under this updated standard, a customer in a cloud-computing arrangement that is a service contract is required to follow guidance on software developed for internal use to determine which implementation costs to capitalize as assets or expense as incurred. This standard aligns the accounting for implementation costs for hosting arrangements, regardless of whether they convey a license to the hosted software. The standard requires that capitalized implementation costs related to a hosting arrangement that is a service contract be amortized over the term of the hosting arrangement, beginning when the component of the hosting arrangement is ready for its intended use, similar to requirements in guidance on software developed for internal use. In addition, costs incurred during the preliminary project and post-implementation phases are expensed as they are incurred. We adopted this standard prospectively in the first quarter of 2020, which did not have a material impact on our consolidated financial statements.

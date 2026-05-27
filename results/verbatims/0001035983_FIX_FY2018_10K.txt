@@ -1,0 +1,20 @@
+FIRM         : FIX (CIK 0001035983) | FY2018
+FILE         : 0001035983_FIX_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+revenue by the percentage of contract costs incurred at any time to total estimated contract costs. More specifically, as part of the negotiation and bidding process to obtain installation contracts, we estimate our contract costs, which include all direct materials, labor and subcontract costs and indirect costs related to contract performance, such as indirect labor, supplies, tools, repairs and depreciation costs. These contract costs are included in our results of operations under the caption “Cost of Services.” Then, as we perform under those contracts, we measure costs incurred, compare them to total estimated costs to complete the contract and recognize a corresponding proportion of contract revenue. Labor costs are considered to be incurred as the work is performed. Subcontractor labor is recognized as the work is performed. Non‑labor project costs consist of purchased equipment, prefabricated materials and other materials. Purchased equipment on our projects is substantially produced to job specifications and is a value-added element to our work. The costs are considered to be incurred when title is transferred to us, which typically is upon delivery to the work site. Prefabricated materials, such as ductwork and piping, are generally performed at our shops and recognized as contract costs when fabricated for the unique specifications of the job. Other materials costs are generally recorded when delivered to the work site. This measurement and comparison process requires updates to the estimate of total costs to complete the contract, and these updates may include subjective assessments and judgments.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

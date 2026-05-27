@@ -1,0 +1,20 @@
+FIRM         : NBHC (CIK 0001475841) | FY2013
+FILE         : 0001475841_NBHC_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+years for equipment. Leasehold improvements are amortized over the shorter of their estimated useful lives or remaining lease terms. Maintenance and repairs are charged to non-interest expense as incurred. The Company reviews premises and equipment whenever events or changes in circumstances indicate that the carrying amount of the asset may not be recoverable. An impairment loss is recognized when the sum of the undiscounted future net cash flows expected to result from the use of the asset and its eventual disposal is less than its carrying amount. In the case of a property that is subject to an operating lease that the Company no longer expects to use, a liability is recorded equal to the remaining lease rentals, adjusted for the effects of any prepaid or deferred items recognized under the lease, and reduced by estimated sublease rentals that could be reasonably obtained for the property, even if the entity does not intend to enter into a sublease. A ratable portion of the sublease allocation is then expensed until the property is subleased.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

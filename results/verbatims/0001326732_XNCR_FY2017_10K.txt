@@ -1,0 +1,20 @@
+FIRM         : XNCR (CIK 0001326732) | FY2017
+FILE         : 0001326732_XNCR_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. Property and Equipment Property and equipment consist of the following: December 31, 2017 2016 (In thousands) Computers, software and equipment $ 1
+ASSET CAT.   : Equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment Property and equipment consist of the following: December 31, 2017 2016 (In thousands) Computers, software and equipment $ 10,874 $ 6,735 Furniture and fixtures 152 125 Leasehold and tenant improvements 4,010 3,790 15,036 10,650 Less accumulated depreciation and amortization (7,948) (7,545) $ 7,088 $ 3,105 Depreciation and amortization expense related to property and equipment in 2017, 2016 and 2015 was $1.2 million, $712,000 and $519,000, respectively. 6.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

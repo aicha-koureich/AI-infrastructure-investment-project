@@ -1,0 +1,28 @@
+FIRM         : MSFT (CIK 0000789019) | FY2016
+FILE         : 0000789019_MSFT_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2016
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: NOTE 1 — ACCOUNTING POLICIES
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-10.0 ans | 2.0-3.0 ans | 3.0-7.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Cost of revenue includes: manufacturing and distribution costs for products sold and programs licensed; operating costs related to
+product support service centers and product distribution centers; costs incurred to include software on PCs sold by OEMs, to drive traffic to our websites, and to acquire online advertising space; costs incurred to support and maintain
+Internet-based products and services, including datacenter costs and royalties; warranty costs; inventory valuation adjustments; costs associated with the delivery of consulting services; and the amortization of capitalized software development
+costs. Capitalized software development costs are amortized over the estimated lives of the products.
+
+[VERBATIM — Infrastructure IA]
+Cloud and Enterprise Engineering Group , focuses on our cloud infrastructure, server, database, CRM, enterprise resource planning, management,
+development tools, and other business process applications and services for enterprises.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+The mobile-first, cloud-first world is transforming the way individuals and organizations use and
+interact with technology. Mobility is not focused on any one device; it is centered on the mobility of experiences that, in turn, are orchestrated by the cloud. Cloud computing and storage solutions provide people and enterprises with various
+capabilities to store and process their data in third-party datacenters. Mobility encompasses the rich collection of data, applications, and services that accompany our customers as they move from setting to setting in their lives. We are
+transforming our businesses to enable Microsoft to lead the direction of this digital transformation, and enable our customers and partners to thrive in this evolving world. ||| Build the intelligent cloud platform. ||| Build the intelligent cloud platform

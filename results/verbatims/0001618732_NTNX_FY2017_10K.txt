@@ -1,0 +1,20 @@
+FIRM         : NTNX (CIK 0001618732) | FY2017
+FILE         : 0001618732_NTNX_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Allocated costs consist of certain facilities, depreciation and amortization, recruiting, and information technology costs allocated based on headcount.
+
+[VERBATIM — Infrastructure IA]
+The public cloud has changed IT buyer expectations about the simplicity, agility, scalability and pay-as-you-grow economics of IT resources, which represent a major architectural shift and business model evolution. A key focus of our sales and marketing efforts is creating market awareness about the benefits of our operating system, both as compared to traditional data center architectures as well as the public cloud, particularly as we continue to pursue large enterprises and mission critical workloads. The broad nature of the technology shift that our operating system represents and the relationships our end-customers have with existing IT vendors sometimes lead to unpredictable sales cycles, which we hope to compress and stabilize as market adoption increases, as we gain leverage with our channel partners and as our sales and marketing efforts expand. Our business and operating results will be significantly affected by the degree to and speed with which organizations adopt our operating system.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

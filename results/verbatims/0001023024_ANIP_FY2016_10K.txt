@@ -1,0 +1,32 @@
+FIRM         : ANIP (CIK 0001023024) | FY2016
+FILE         : 0001023024_ANIP_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31,
+2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING
+POLICIES (Continued)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at
+cost. Expenditures for repairs and maintenance are charged to expense as incurred. Depreciation is recorded on a straight-line
+basis over estimated useful lives as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued guidance
+as to whether a cloud computing arrangement (e.g., software as a service, platform as a service, infrastructure as a service, and
+other similar hosting arrangements) includes a software license and, based on that determination, how to account for such arrangements.
+If a cloud computing arrangement includes a software license, then the customer should account for the software license element
+of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include
+a software license, the customer should account for the arrangement as a service contract. The guidance was effective for reporting
+periods beginning after December 15, 2015, and could be adopted on either a prospective or retrospective basis. We adopted
+this guidance in the first quarter of 2016, effective as of January 1, 2016, on a prospective basis. The adoption of this new guidance
+did not have a material impact on our consolidated financial statements.

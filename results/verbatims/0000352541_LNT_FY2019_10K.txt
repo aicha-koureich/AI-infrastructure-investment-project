@@ -1,0 +1,21 @@
+FIRM         : LNT (CIK 0000352541) | FY2019
+FILE         : 0000352541_LNT_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 3. PROPERTY, PLANT AND EQUIPMENT
+ASSET CAT.   : equipment, computer software
+DURÉE        : 5.0-30.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0 ans | 12.0 ans
+
+[VERBATIM — Durée de vie]
+The majority of the remaining software is amortized over a 5 -year period. All Corporate Services and Other property, plant and equipment are depreciated using the straight-line method over periods ranging from 5 to 30 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements - In August 2018, the FASB issued an accounting standard that clarifies capitalization and presentation requirements of implementation costs incurred in cloud computing arrangements. Alliant Energy, IPL and WPL adopted this standard on January 1, 2020 and do not expect a material change to their financial condition or results of operations as a result of adopting this standard. ||| Cloud Computing Arrangements ||| In August 2018, the FASB issued an accounting standard that clarifies capitalization and presentation requirements of implementation costs incurred in cloud computing arrangements. Alliant Energy, IPL and WPL adopted this standard on January 1, 2020 and do not expect a material change to their financial condition or results of operations as a result of adopting this standard.

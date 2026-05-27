@@ -1,0 +1,21 @@
+FIRM         : THRY (CIK 0001556739) | FY2023
+FILE         : 0001556739_THRY_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Depreciation of fixed assets and amortization associated with capitalized software, are included in Cost of services, Sales and marketing, and General and administrative expenses on the Company's consolidated statements of operations and comprehensive (loss) income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

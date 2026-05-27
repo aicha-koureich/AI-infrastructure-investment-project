@@ -1,0 +1,22 @@
+FIRM         : MSCI (CIK 0001408198) | FY2013
+FILE         : 0001408198_MSCI_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+For the years ended December 31, 2013 and 2012, depreciation and amortization of property, equipment and leasehold improvements
+totaled $22.3 million and $18.7 million, respectively. The increase was related to the impact of increased depreciation from the IPD and InvestorForce acquisitions, as well as the depreciation of hardware and software assets acquired to build
+out data centers in the second half of the year ended December 31, 2012.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

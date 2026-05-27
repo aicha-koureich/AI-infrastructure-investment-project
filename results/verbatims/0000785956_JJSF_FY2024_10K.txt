@@ -1,0 +1,23 @@
+FIRM         : JJSF (CIK 0000785956) | FY2024
+FILE         : 0000785956_JJSF_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : SEPTEMBER 28, 2024
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+The Company also issued 14,476 performance share units (“PSU”)’s in fiscal 2024, 21,260 in fiscal 2023 and 8,868 in fiscal 2022. Each PSU may result in the issuance of up to two shares of common stock upon vesting, dependent upon the level of achievement of the applicable performance goal. The fair value of the PSU’s was determined based upon the closing price of the Company’s common stock on the date of grant. Additionally, the Company applies a quarterly probability assessment in computing this non-cash compensation expense, and any change in estimate is reflected as a cumulative adjustment to expense in the quarter of the change.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

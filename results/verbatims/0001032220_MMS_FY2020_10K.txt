@@ -1,0 +1,20 @@
+FIRM         : MMS (CIK 0001032220) | FY2020
+FILE         : 0001032220_MMS_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Business and summary of significant accounting policies
+ASSET CAT.   : equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+• Our balance sheet includes a number of long-lived assets, including property and equipment, capitalized software, operating lease right-of-use assets, deferred contract costs and intangible assets. These assets are depreciated or amortized over their estimated useful economic lives. Initial asset lives may be shortened based upon circumstances such as contract terminations or changes in capital strategy. Where this occurs, we may need to accelerate our depreciation or amortization charges. These assets are subject to impairment if events indicate that the carrying amount may not be recoverable. At this time, there are no significant balances which we believe are not recoverable.
+
+[VERBATIM — Infrastructure IA]
+• higher than usual specific acquisition costs and IT transformation initiatives, including migrating our existing data centers to the cloud, which allowed the rapid acceleration of staff into a work-from-home environment.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the Financial Accounting Standards Board (FASB) issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) - Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . This accounting guidance requires customers in cloud-computing arrangements to identify and defer certain implementation costs in a manner broadly consistent with that of existing guidance on the costs to develop or obtain internal-use software. We will adopt this guidance on October 1, 2020, using a prospective approach. Accordingly, this standard will only affect our future financial statements. ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) - Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

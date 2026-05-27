@@ -1,0 +1,20 @@
+FIRM         : SEIC (CIK 0000350894) | FY2018
+FILE         : 0000350894_SEIC_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment, furniture and fixtures
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+When property and equipment are retired or disposed of, the related cost and accumulated depreciation are removed from the accounts and any resulting gain or loss is included in the results of operations for the respective period. Equipment, purchased software and furniture and fixtures have useful lives ranging from 3 to 5 years .
+
+[VERBATIM — Infrastructure IA]
+Investment processing fees - Software as a Service - Revenues associated with clients that outsource investment processing technology software and computer processing by accessing our proprietary software and data center remotely but retain responsibility for all investment operations, client administration and other back-office trust operations. The contractual fee is based on a monthly fee plus additional fees determined on a per-account or per-transaction basis. The client is billed directly on a monthly basis. Revenues are recognized in Information processing and software servicing fees on the accompanying Consolidated Statements of Operations.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

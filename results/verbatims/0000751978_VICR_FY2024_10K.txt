@@ -1,0 +1,20 @@
+FIRM         : VICR (CIK 0000751978) | FY2024
+FILE         : 0000751978_VICR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The capitalized software is amortized using the straight-line method over the estimated useful life of the software. As of December 31, 2024 and 2023, we had $ 20,469,000 and $ 11,712,000 , respectively, of capitalized internal-use software costs which have not been amortized as the software has not yet been placed in service.
+
+[VERBATIM — Infrastructure IA]
+The Company’s products are sold worldwide to customers ranging from smaller, independent manufacturers of highly specialized electronic devices, to larger OEMs, ODMs and their contract manufacturers. The Company’s Brick Products’ customers are primarily concentrated in the following industries: aerospace and defense electronics, industrial equipment, instrumentation and test equipment, and transportation (notably in rail and heavy equipment applications). The Company’s Advanced Products’ customers are concentrated in the data center and hyperscaler segments of enterprise computing, in which the Company’s products are used for power delivery on server motherboards, in server racks, and across datacenter infrastructure. The Company also serves applications in aerospace and aviation, defense electronics, satellites, factory automation, instrumentation, test equipment, transportation, telecommunications and networking infrastructure, and vehicles (notably in the autonomous driving, electric vehicle, and hybrid vehicle niches of the vehicle segment). While, overall, the Company has a broad customer base and sells into a variety of industries, a substantial portion of the Company’s revenue from its Advanced Products line has been derived from a limited number of customers. This concentration of revenue is a  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The applications in which our Advanced Products and Brick Products are used are typically in the higher-performance, higher-power segments of the market segments we serve. With our Advanced Products, we generally serve large Original Equipment Manufacturers (“OEMs”), Original Design Manufacturers (“ODMs”), and their contract manufacturers, with sales currently concentrated in the data center and hyperscaler segments of enterprise computing, in which our products are used for power delivery on server motherboards, in server racks, and across datacenter infrastructure. We have established a leadership position in the emerging market segment for powering high-performance processors used for acceleration of applications associated with artificial intelligence (“AI”). Our customers in the AI market segment include the leading innovators in processor and accelerator design, as well as early adopters in cloud computing and high performance computing. We also serve applications in aerospace and aviation, defense electronics, satellites, factory automation, instrumentation, test equipment, transportation, telecommunications and networking infrastructure, and vehicles (notably in the autonomous driving, electric vehicle, and hybrid vehicle niches of the vehicle segment). With our Brick Products, we generally serve a fragmented base of large and small customers, concentrated in aerospace and defense electronics, industrial equipment, instrumentation and test equipment, and transportation (notably in rail and heavy equipment applications). With our strategic emphasis on larger, high-volume customers, we expect to experience over time a greater concentration of sales, including from intellectual property licensing among relatively fewer customers.

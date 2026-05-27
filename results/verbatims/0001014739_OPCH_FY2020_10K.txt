@@ -1,0 +1,21 @@
+FIRM         : OPCH (CIK 0001014739) | FY2020
+FILE         : 0001014739_OPCH_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment. Major repairs,
+DURÉE        : 13.0-None ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 7.0 ans | 13.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment is recorded at cost, net of accumulated depreciation. Depreciation on owned property and equipment is provided for on a straight‑line basis over the estimated useful lives of owned assets. Estimated useful lives are seven years for infusion pumps and three years to thirteen years for equipment. Major repairs, which extend the useful life of an asset, are capitalized in the property and equipment accounts. Once the software is ready for its intended use, these costs are amortized on a straight‑line basis over the software’s estimated useful life, generally five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : SPGI (CIK 0000064040) | FY2018
+FILE         : 0000064040_SPGI_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 1. Accounting Policies
+ASSET CAT.   : Capitalized software, technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development and website implementation costs are included in other non-current assets and are presented net of accumulated amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

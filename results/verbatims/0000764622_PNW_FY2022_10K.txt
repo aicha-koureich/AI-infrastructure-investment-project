@@ -1,0 +1,20 @@
+FIRM         : PNW (CIK 0000764622) | FY2022
+FILE         : 0000764622_PNW_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-23
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 19. Changes in Accumulated Other Comprehensive Loss
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Palo Verde sale leaseback property, plant and equipment, net of accumulated depreciation
+
+[VERBATIM — Infrastructure IA]
+Retail electricity sales in kWh, adjusted to exclude the effects of weather variations, increased 2.4% for the year ended December 31, 2022, compared with the prior-year period. While steady customer growth was offset by energy savings driven by customer conservation, energy efficiency, and distributed renewable generation initiatives, the main drivers of positive sales for this period were a strong improvement in sales to commercial and industrial customers and the ramp-up of new data center customers.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

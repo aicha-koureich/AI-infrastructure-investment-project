@@ -1,0 +1,20 @@
+FIRM         : LHX (CIK 0000202058) | FY2020
+FILE         : 0000202058_LHX_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 8: Inventories
+ASSET CAT.   : Equipment, machinery and equipment
+DURÉE        : 10.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of buildings, machinery and equipment is computed by the straight-line and accelerated methods. The estimated useful lives of machinery and equipment generally range between 2 and 10 years. Amortization of internal-use software begins when the software is put into service and is based on the expected useful life of the software. The useful lives over which we amortize internal-use software generally range between 3 and 10 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

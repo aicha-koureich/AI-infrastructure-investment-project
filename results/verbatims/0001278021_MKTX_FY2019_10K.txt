@@ -1,0 +1,20 @@
+FIRM         : MKTX (CIK 0001278021) | FY2019
+FILE         : 0001278021_MKTX_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 7. Capitalized Software, Furniture, Equipment and Leasehold Improvements
+ASSET CAT.   : Capitalized software, furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs, furniture, equipment and leasehold improvements, net of accumulated depreciation and amortization, are comprised of the following:
+
+[VERBATIM — Infrastructure IA]
+Technology and Communications. Technology and communications expense consists primarily of costs relating to maintenance on software and hardware, our internal network connections, data center hosting costs and data feeds provided by outside vendors or service providers. The majority of our broker-dealer clients have dedicated high-speed communication lines to our network in order to provide fast data transfer. We charge certain broker-dealer clients a monthly fee for these connections, which is recovered against the relevant expenses we incur .  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+See Note 2 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K for a discussion of recent accounting pronouncements, including but not limited to the Company’s adoption of the new U.S. GAAP leasing standard (ASC 842) on a modified retrospective basis effective January 1, 2019 and the cloud computing arrangements standard on a prospective basis effective July 1, 2019.

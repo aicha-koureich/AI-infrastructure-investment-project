@@ -1,0 +1,21 @@
+FIRM         : EGHT (CIK 0001023731) | FY2018
+FILE         : 0001023731_EGHT_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 15. SELECTED QUARTERLY FINANCIAL DATA (UNAUDITED)
+ASSET CAT.   : furniture and fixtures
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation and amortization. Estimated useful lives of three years are used for equipment, software and software development costs and five years for furniture and fixtures.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Since the beginning of fiscal 2018, we have de-emphasized profitability as a short-term corporate goal and have focused instead on making investments necessary to accelerate growth. This decision was based, in part, on our belief that the communications market was at an inflection point in the shift of businesses from legacy on-premise solutions to cloud services. We believe that this industry trend will continue in fiscal 2020 and beyond. Accordingly, we believe that it is in the company's interest to continue to invest heavily in our business--in particular, to build our technology platform further and expand our sales and marketing activities, particularly in the channel--in order to allow us to scale efficiently and capture market share during this phase of industry disruption.

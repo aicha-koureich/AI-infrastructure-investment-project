@@ -1,0 +1,20 @@
+FIRM         : GDDY (CIK 0001609711) | FY2017
+FILE         : 0001609711_GDDY_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 21
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We lease office and data center space in various locations. Rent expense under operating leases is recognized on a straight-line basis over the lease term taking into consideration rent abatements, scheduled rent increases and any lease incentives.
+
+[VERBATIM — Infrastructure IA]
+We lease office and data center space in various locations. Rent expense under operating leases is recognized on a straight-line basis over the lease term taking into consideration rent abatements, scheduled rent increases and any lease incentives.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+, primarily through a combination of our industry leading products built on a single cloud platform, brand advertising, direct marketing efforts, customer referrals and world-class customer care. We also added approximately ||| We have developed a stable and predictable business model driven by efficient customer acquisition, high customer retention rates and increasing lifetime spend. We grew our total customers from 13.8 million as of December 31, 2015 to 17.3 million as of December 31, 2017 , primarily through a combination of our industry leading products built on a single cloud platform, brand advertising, direct marketing efforts, customer referrals and world-class customer care. We also added approximately 1.6 million customers from our acquisition of HEG in April 2017. In each of the five years ended December 31, 2017 , our customer retention rate exceeded 85% and our retention rate for customers who had been with us for over three years was approximately 91% . We believe the breadth and depth of our product offerings and the high quality and responsiveness of our Customer Care team build strong relationships with our customers and are key to our high level of customer retention.

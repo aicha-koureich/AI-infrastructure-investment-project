@@ -1,0 +1,20 @@
+FIRM         : AYI (CIK 0001144215) | FY2024
+FILE         : 0001144215_AYI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-08-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 17 — Subsequent Event
+ASSET CAT.   : buildings and related improvements
+DURÉE        : 3.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment is initially recorded at cost and depreciated principally on a straight-line basis using estimated useful lives of plant and equipment (3 to 40 years for buildings and related improvements and 2 to 15 years for machinery, equipment, and information technology) for financial reporting purposes.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

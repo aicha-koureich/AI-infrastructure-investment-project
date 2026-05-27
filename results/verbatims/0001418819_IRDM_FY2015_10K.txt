@@ -1,0 +1,21 @@
+FIRM         : IRDM (CIK 0001418819) | FY2015
+FILE         : 0001418819_IRDM_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 15. Selected Quarterly Information (Unaudited)
+ASSET CAT.   : Equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Satellites 15-18 years Ground system 5-7 years Equipment 3-5 years Internally developed software and purchased software 3-7 years Building 39 years Building improvements 5-39 years Leasehold improvements shorter of useful life or remaining lease term
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

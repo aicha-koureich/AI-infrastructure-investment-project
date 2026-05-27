@@ -1,0 +1,20 @@
+FIRM         : CBSH (CIK 0000022356) | FY2023
+FILE         : 0000022356_CBSH_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 4. Premises and Equipment
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense of $36.1 million in 2023, $32.3 million in 2022, and $31.9 million in 2021, was included in occupancy expense and equipment expense in the consolidated statements of income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

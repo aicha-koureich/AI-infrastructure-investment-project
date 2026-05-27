@@ -1,0 +1,20 @@
+FIRM         : EQH (CIK 0001333986) | FY2021
+FILE         : 0001333986_EQH_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 4. Expanded footnote disclosures. The ASU requires additional disclosures including information about significant inputs, judgements, assumptions and 
+ASSET CAT.   : computer software
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B100 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+These capitalized computer costs are included in other assets in the consolidated balance sheets and amortized on a straight-line basis over the estimated useful life of the software or term of the hosting arrangement that ranges between three and five years. In addition, service potential is periodically reassessed to determine whether facts and circumstances have compressed the software’s useful life or a significant change in the term of the hosting arrangement such that acceleration of amortization over a shorter period than initially determined would be required.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Capitalized computer software and hosting arrangements include certain internal and external costs used to implement internal-use software and cloud computing hosting arrangements. These capitalized computer costs are included in other assets in the consolidated balance sheets and amortized on a straight-line basis over the estimated useful life of the software or term of the hosting arrangement that ranges between three and five years. Capitalized amounts are periodically tested for impairment in accordance with the guidance on impairment of long-lived assets. An immediate charge to earnings is recognized if capitalized computer costs no longer are deemed to be recoverable. In addition, service potential is periodically reassessed to determine whether facts and circumstances have compressed the software’s useful life or a significant change in the term of the hosting arrangement such that acceleration of amortization over a shorter period than initially determined would be required.

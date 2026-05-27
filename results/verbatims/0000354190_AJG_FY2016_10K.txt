@@ -1,0 +1,22 @@
+FIRM         : AJG (CIK 0000354190) | FY2016
+FILE         : 0000354190_AJG_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement. This new guidance provides additional information to help entities determine whether a cloud computing arrangement
+contains a software license that should be accounted for as internal-use software or as a service contract. The new guidance was effective in first quarter 2016 and has been applied by us. The adoption of this
+guidance did not have a material impact on our consolidated financial statements.

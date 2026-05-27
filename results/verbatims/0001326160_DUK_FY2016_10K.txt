@@ -1,0 +1,23 @@
+FIRM         : DUK (CIK 0001326160) | FY2016
+FILE         : 0001326160_DUK_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at the lower of depreciated historical cost net of any disallowances or fair value, if impaired. Costs of renewals and betterments that extend the useful life of property, plant and equipment are also capitalized.
+
+[VERBATIM — Changement de politique]
+The present value of the initial obligation and subsequent updates are based on discounted cash flows, which include estimates regarding timing of future cash flows, selection of discount rates and cost escalation rates, among other factors. These estimates are subject to change. Depreciation expense is adjusted prospectively for any changes to the carrying amount of the associated asset. The Duke Energy Registrants receive amounts to fund the cost of the ARO for regulated operations through a combination of regulated revenues and earnings on the NDTF. As a result, amounts recovered in regulated revenues, earnings on the NDTF, accretion expense and depreciation of the associated asset are netted and deferred as a regulatory asset or liability.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

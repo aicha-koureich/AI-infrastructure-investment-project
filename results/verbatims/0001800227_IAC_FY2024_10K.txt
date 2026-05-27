@@ -1,0 +1,23 @@
+FIRM         : IAC (CIK 0001800227) | FY2024
+FILE         : 0001800227_IAC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-12-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 6—Long-term Debt
+ASSET CAT.   : furniture, equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The decrease at Dotdash Meredith was due primarily to the inclusion of an impairment charge of $25.3 million recognized in 2023 related to leasehold improvements and furniture and equipment resulting from unoccupied leased space, a $4.2 million write-off of certain leasehold improvements and furniture and equipment during 2023 and a decrease in expense related to the acceleration of depreciation on certain assets in 2023. The decrease at Angi was due primarily to the reduction in depreciation of capitalized software as a result of certain assets being fully depreciated, partially offset by the impairment of certain leasehold improvements and furniture and equipment in connection with the reduction of Angi's real estate footprint in 2024.
+
+[VERBATIM — Changement de politique]
+• Adjusted Earnings Before Interest, Taxes, Depreciation and Amortization (“Adjusted EBITDA”) - is a non-GAAP financial measure. See “ Principles of Financial Reporting ” for the definition of Adjusted EBITDA and required non-GAAP reconciliations.
+
+[VERBATIM — Infrastructure IA]
+IAC believes that the facilities for its management and operations are generally adequate for its current and near-term future needs. IAC’s facilities, most of which are leased by IAC’s businesses in various cities and locations in the United States and various jurisdictions abroad, generally consist of executive and administrative offices, operations centers, data centers and sales offices.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Purchase obligations include future payments of (i) $32.6 million related to cloud computing arrangements, (ii) $12.6 million related to email marketing services, (iii) $12.0 million related to advertisement placement services in 2025, (iv) $8.8 million related to research tools and (v) $6.4 million related to office productivity and email tools.

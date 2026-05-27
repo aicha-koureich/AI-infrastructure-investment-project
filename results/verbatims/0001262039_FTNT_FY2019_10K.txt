@@ -1,0 +1,21 @@
+FIRM         : FTNT (CIK 0001262039) | FY2019
+FILE         : 0001262039_FTNT_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. PROPERTY AND EQUIPMENT—Net
+ASSET CAT.   : Computer equipment, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+December 31, 2019 December 31, 2018 Building and building improvements $ 147.4 $ 144.2 Computer equipment and software 116.7 95.9 Land 93.3 75.7 Leasehold improvements 25.5 17.9 Evaluation units 19.9 20.5 Furniture and fixtures 17.3 15.7 Construction-in-progress 61.2 12.3 Total property and equipment 481.3 382.2 Less: accumulated depreciation (137.0 ) (110.8 ) Property and equipment—net $ 344.3 $ 271.4
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

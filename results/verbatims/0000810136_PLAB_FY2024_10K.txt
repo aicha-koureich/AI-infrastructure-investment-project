@@ -1,0 +1,24 @@
+FIRM         : PLAB (CIK 0000810136) | FY2024
+FILE         : 0000810136_PLAB_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, except as explained below under “Impairment of Long-Lived Assets,” is stated at cost less accumulated depreciation and amortization.
+
+[VERBATIM — Changement de politique]
+The Company receives or expects to receive in the future, various types of government assistance, primarily in the form of grants or refundable tax credits. Government assistance is recognized when there is reasonable assurance that: (1) the Company will comply with the relevant conditions and (2) the assistance will be received. Government assistance related to reimbursing fixed asset purchases, such as reimbursement grants and refundable federal investment tax credits, are recorded as a reduction to the related asset(s), which then reduces depreciation expense over the expected useful life of the asset on a straight-line basis. If some, or all, of the amount of government assistance becomes repayable (e.g. due to non-fulfillment of the grant conditions) or there is no longer reasonable assurance the amount will be received (e.g. due to additional interpretive guidance) then the adjustment is accounted for prospectively as a change in accounting estimate. The effect of the change in estimate is recognized in the period in which management concludes that it is no longer reasonably assured that all of the grant conditions will be met. A corresponding financial liability is recognized for the amount of the repayment, if any .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

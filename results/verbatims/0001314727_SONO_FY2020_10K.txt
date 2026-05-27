@@ -1,0 +1,23 @@
+FIRM         : SONO (CIK 0001314727) | FY2020
+FILE         : 0001314727_SONO_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 3, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 5. Balance Sheet Components
+ASSET CAT.   : Computer hardware, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+October 3, 2020 September 28, 2019 (In thousands) Computer hardware and software $ 45,798 $ 47,775 Furniture and fixtures 8,239 9,594 Tooling and production line test equipment 67,495 54,536 Leasehold improvements 51,102 58,944 Product displays 48,925 45,672 Total property and equipment 221,559 216,521 Accumulated depreciation and amortization (160,775) (138,382) Property and equipment, net $ 60,784 $ 78,139
+
+[VERBATIM — Changement de politique]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract. The guidance aligns the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. In the first quarter of fiscal 2020, the Company prospectively adopted this standard. The adoption of this standard has not had a material impact on the Company’s consolidated financial statements or disclosures.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Determining the standalone selling price ("SSP") for each distinct performance obligation requires judgment. We estimate SSP for items that are not sold separately, which include the products and related software, unspecified software upgrades and cloud services, using information that may include competitive pricing information, where available, as well as analysis of the cost of providing the products or services plus a reasonable margin. In developing SSP estimates, we also consider the nature of the products and services and the expected level of future services. ||| Determining the revenue recognition period for unspecified software upgrades and cloud services requires judgment. We recognize revenue attributable to these performance obligations ratably over the best estimate of the period that the customer is expected to receive the services. In developing the estimated period of providing future services, we consider our past history, our plans to continue to provide services, including plans to continue to support updates and enhancements to prior versions of our products, expected technological developments, obsolescence, competition and other factors. The estimated service period may change in the future in response to competition, technology developments and our business strategy.

@@ -1,0 +1,24 @@
+FIRM         : ACIW (CIK 0000935036) | FY2016
+FILE         : 0000935036_ACIW_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We derive a majority of our revenues from domestic operations and believe we have large opportunities for growth in international markets as well as continued
+expansion domestically in the United States. Refining our global infrastructure is a critical component of driving our growth. We have launched a globalization strategy which includes elements intended to streamline our supply chain and maximize
+expertise in several geographic locations to support a growing international customer base and competitive needs. We utilize our Irish subsidiaries to manage certain of our intellectual property rights and to oversee and manage certain international
+product development and commercialization efforts. We recently increased our hosting capabilities with a new data center in Ireland allowing our hosted solutions to be more-broadly offered in the European market. We also continue to grow centers of
+expertise in Timisoara, Romania and Pune and Bangalore in India, as well as key operational centers such as Capetown, South Africa and in multiple locations in the United States.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

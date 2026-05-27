@@ -1,0 +1,20 @@
+FIRM         : ENTG (CIK 0001101302) | FY2020
+FILE         : 0001101302_ENTG_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+The COVID-19 pandemic has significantly increased economic and demand uncertainty. During 2020, we saw strong demand from leading-edge customers associated with end-uses in servers and other data center applications. We believe that a portion of the orders that we received in 2020 may have been a result of customers increasing their inventory to reduce their exposure to risks of future supply disruptions, which could offset demand for our products in the future. We anticipate that the pandemic will continue to contribute to the current global economic slowdown, and it is possible that it could cause a global recession. In the event of a recession, demand for our products would decline and our business would be adversely affected.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

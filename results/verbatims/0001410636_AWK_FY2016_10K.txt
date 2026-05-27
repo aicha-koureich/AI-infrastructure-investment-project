@@ -1,0 +1,20 @@
+FIRM         : AWK (CIK 0001410636) | FY2016
+FILE         : 0001410636_AWK_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2: Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The cost of property, plant and equipment is depreciated using the straight-line average remaining life method.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Accounting for Fees Paid in a Cloud Computing Arrangement ||| Clarified accounting guidance for fees paid in a cloud computing arrangement. Software license elements in a cloud computing arrangement should be accounted for consistent with other software licenses. A cloud computing arrangement without a software license is accounted for as a service contract. ||| Standard Description Date of Adoption Application Effect on the Consolidated Financial Statements (or Other Significant Matters) Accounting for Fees Paid in a Cloud Computing Arrangement Clarified accounting guidance for fees paid in a cloud computing arrangement. Software license elements in a cloud computing arrangement should be accounted for consistent with other software licenses. A cloud computing arrangement without a software license is accounted for as a service contract. January 1, 2016 Prospective basis Adoption of this standard did not impact the Company's results of operations, financial position or cash flows.

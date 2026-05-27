@@ -1,0 +1,21 @@
+FIRM         : ICE (CIK 0001571949) | FY2021
+FILE         : 0001571949_ICE_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+We recognize rent expense monthly on a straight-line basis for each respective operating lease, as a reduction to the right-of-use asset. We recognized $61 million, $46 million and $41 million of rent expense for office space as rent and occupancy expense in 2021, 2020, and 2019, respectively, and $24 million, $22 million and $21 million of rent expense for data center facilities as technology and communication expense in 2021, 2020, and 2019, respectively, within our consolidated income statement. We do not have any significant variable lease costs related to building and maintenance costs, real estate taxes, or other charges.
+
+[VERBATIM — Infrastructure IA]
+On January 1, 2019, we adopted Accounting Standards Update, or ASU, 2016-02, Leases , or ASU 2016-02. This standard requires recognition of both assets and liabilities arising from finance and operating leases, along with additional qualitative and quantitative disclosures. ASU 2016-02 requires lessees to recognize a right-of-use asset representing a right to use the underlying asset over the lease term, and a corresponding lease liability on the balance sheet. Our operating leases primarily relate to our leased office space and data center facilities, and we do not have any leases classified as finance leases.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15, Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract, helps entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement by providing guidance for determining when an arrangement includes a software license and is solely a hosted service. Customers will now apply the same criteria for capitalizing implementation costs as they would for a software license arrangement. The guidance also prescribes the balance sheet, income statement, and cash flow classification of the capitalized implementation costs and related amortization expense, and requires additional quantitative and qualitative disclosures. ||| Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service ||| helps entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement by providing guidance for determining when an arrangement includes a software license and is solely a hosted service. Customers will now apply the same criteria for capitalizing implementation costs as they would for a software license arrangement. The guidance also prescribes the balance sheet, income statement, and cash flow classification of the capitalized implementation costs and related amortization expense, and requires additional quantitative and qualitative disclosures.

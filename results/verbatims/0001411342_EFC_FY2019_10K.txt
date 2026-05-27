@@ -1,0 +1,23 @@
+FIRM         : EFC (CIK 0001411342) | FY2019
+FILE         : 0001411342_EFC_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+For debt securities (generally non-Agency RMBS, CMBS, ABS, CLOs, and interest only securities) that are deemed not to be of high credit quality at the time of purchase, interest income is recognized based on the effective interest method. When the fair value of a debt security is less than its amortized cost basis as of the balance sheet date, the security's cost basis is considered impaired. The Company will adjust such impaired cost basis to the present value of the estimated future cash flows. This adjustment to the cost basis is reported in Realized gains (losses) on securities and loans, net, on the Consolidated Statement of Operations. For purposes of estimating the future expected cash flows, management uses assumptions including, but not limited to, assumptions for future prepayment rates, default rates, and loss severities (each of which may in turn incorporate various macro-economic assumptions, such as future housing prices). These assumptions are re-evaluated not less than quarterly. Changes in projected cash flows will result in prospective changes in the yield/interest income recognized on such securities based on the updated expected future cash flows.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

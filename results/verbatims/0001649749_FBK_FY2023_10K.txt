@@ -1,0 +1,23 @@
+FIRM         : FBK (CIK 0001649749) | FY2023
+FILE         : 0001649749_FBK_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Effective January 1, 2023, the Company prospectively adopted the accounting guidance in ASU 2022-02, “Financial Instruments – Credit Losses (Topic 326): Troubled Debt Restructurings and Vintage Disclosures,” which eliminates the recognition and measurement of TDRs. Since adoption, the Company no longer measures an allowance for credit losses for TDRs it reasonably expects will occur, and it evaluates all loan modifications according to the accounting guidance for loan refinancing and modifications to determine whether the modification should be accounted for as a new loan or a continuation of the existing loan. The Company derecognizes the existing loan and accounts for the modified loan as a new loan if the effective yield on the modified loan is at least equal to the effective yield for comparable loans with similar collection risks and the modifications to the original loan are more than minor. If a loan modification does not meet these conditions, it extends the existing loan’s amortized cost basis and accounts for the modified loan as a continuation of the existing loan. Substantially all of its loan modifications involving borrowers experiencing financial difficulty are accounted for as a continuation of the existing loan.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

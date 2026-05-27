@@ -1,0 +1,21 @@
+FIRM         : AXON (CIK 0001069183) | FY2022
+FILE         : 0001069183_AXON_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 - Organization and Summary of Significant Accounting Policies Axon Enterprise, Inc. (“Axon”, the “Company”, "we", or "us") is a market-leading 
+ASSET CAT.   : Equipment, Furniture, office equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued) ​ Note 6 - Property and Equipment Property and equipment consisted of the following at December 31 (in thousands): ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Estimated ​ ​ ​ ​ ​ ​ ​ Useful Life December 31, 2022 December 31, 2021 Land ​ N/A ​ $ 51,612 ​ $ 54,868 Building and leasehold improvements ​ 3- 39 years ​ ​ 25,874 ​ ​ 25,712 Production equipment ​ 3- 5 years ​ 57,170 ​ 54,090 Computers, equipment and software ​ 3-5 years ​ 25,154 ​ 15,343 Furniture and office equipment ​ 3- 5 years ​ 7,420 ​ 6,838 Vehicles ​ 5 years ​ 4,027 ​ 2,932 Capitalized internal software development costs ​ 3 - 5 years ​ 14,198 ​ 12,200 Construction-in-process ​ N/A ​ 62,283 ​ 25,258 Total cost ​ ​ ​ 247,738 ​ 197,241 Less: Accumulated depreciation ​ ​ ​ (77,895) ​ (58,784) Property and equipment, net ​ ​ $ 169,843 ​ $ 138,457 ​ Construction-in-process included $28.3 million and $12.4 million related to the development of our new campus at December 31, 2022 and December 31, 2021, respectively. Depreciation and amortization expense related to property and equipment was $20.4 million, $15.8 million and $9.2 million for the years ended December 31, 2022, 2021 and 2020, respectively, of which $8.5 million, $6.3 million and $4.0 million was included in cost of sales for the respective years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Axon Evidence and cloud services ||| Net sales for the TASER segment increased $94.6 million, or 21.7%, primarily as a result of an increase of $89.0 million in TASER 7 devices and a $28.8 million increase in cartridge revenue. The increase in TASER 7 revenue is the result of increased unit sales and higher average selling prices. We continue to see a shift to purchases of TASER 7 from legacy devices. Cartridge revenue increased due to increased unit sales and higher average selling prices due to product mix shift from legacy handles to TASER 7. Axon Evidence and cloud services revenue increased based on the increased number of TASER 7 devices in the field. Partially offsetting the increases was a decrease in revenue of legacy devices of $40.9 million. The decrease was attributable to decreased unit sales and was partially offset by higher average selling prices. ||| Net sales for the Software and Sensors segment increased $231.9 million, or 54.4%. Revenue from Axon Evidence and cloud services increased $125.9 million as we continued to add users to our network during the year ended December 31, 2022. The increase in the aggregate number of users and devices also resulted in increased extended warranty revenues of $16.1 million. Sales of our Axon Body 3 camera drove most of the $48.7 million increase in Axon Body revenue and the $5.6 million increase in Axon Dock revenue. Fleet revenue increased $38.7 million driven by an increase in both units and higher average selling prices, driven largely by Fleet 3.

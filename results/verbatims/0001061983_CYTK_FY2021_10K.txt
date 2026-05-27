@@ -1,0 +1,24 @@
+FIRM         : CYTK (CIK 0001061983) | FY2021
+FILE         : 0001061983_CYTK_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-07
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — Organization and Accounting Policies Basis of Presentation
+ASSET CAT.   : computer equipment and software
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation and are depreciated on a straight-line basis over the estimated useful lives of the related assets, which are generally three years for computer equipment and software, five years for laboratory equipment and office equipment, and seven years for furniture and fixtures.
+
+[VERBATIM — Changement de politique]
+We periodically assess the amount and timing of expected royalty payments using a combination of internal projections and forecasts from external sources. To the extent such payments are greater or less than our initial estimates or the timing of such payments is materially different than its original estimates, we will prospectively adjust the amortization of the RP OM Liability and the effective interest rate.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+satisfactory completion of an FDA preapproval inspection of the manufacturing facilities at which the product is produced to assess compliance with current good manufacturing practice (“cGMP”) regulations and FDA audits of select clinical investigator sites to assess compliance with good clinical practices (“GCP”); and ||| • satisfactory completion of an FDA preapproval inspection of the manufacturing facilities at which the product is produced to assess compliance with current good manufacturing practice (“cGMP”) regulations and FDA audits of select clinical investigator sites to assess compliance with good clinical practices (“GCP”); and

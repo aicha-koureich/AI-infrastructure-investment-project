@@ -1,0 +1,21 @@
+FIRM         : ERIE (CIK 0000922621) | FY2019
+FILE         : 0000922621_ERIE_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Significant Accounting Policies
+ASSET CAT.   : Software is depreciated over periods ranging from
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Software is depreciated over periods ranging from 3 - 7 years , equipment is depreciated over 3 - 10 years , and buildings and building improvements are depreciated over 20 - 45 years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : JYNT (CIK 0001612630) | FY2021
+FILE         : 0001612630_JYNT_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1: Nature of Operations and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Internal use software is amortized on a straight-line basis over its estimated useful life, which is generally three to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The Company capitalizes certain software development cost, including costs to implement cloud computing arrangements that is a service contract. These capitalized costs are primarily related to software used by clinics for operations and by the Company for the management of operations. Costs incurred in the preliminary stages of development are expensed as incurred. Once an application has reached the development stage, internal and external costs, if direct, are capitalized as assets in progress until the software is substantially complete and ready for its intended use. Capitalization ceases upon completion of all substantial testing. The Company also capitalizes costs related to specific upgrades and enhancements when it is probable the expenditures will result in additional functionality. Software developed is recorded as part of property and equipment. Maintenance and training costs are expensed as incurred. Internal use software is amortized on a straight-line basis over its estimated useful life, which is generally three to five years. Implementation costs incurred in connection with a cloud computing arrangement that is a service contract are included in prepaid expenses in the Company’s consolidated balance sheets.

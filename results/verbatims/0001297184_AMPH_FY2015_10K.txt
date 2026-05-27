@@ -1,0 +1,24 @@
+FIRM         : AMPH (CIK 0001297184) | FY2015
+FILE         : 0001297184_AMPH_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Business Acquisition
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-12.0 ans | 3.0-7.0 ans | 4.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+The unaudited pro forma information primarily reflects the additional depreciation related to the fair value adjustment to property, plant and equipment acquired, valuation step up related to the fair value of inventory and additional interest expense associated with the financing obtained by the Company in connection with the acquisition.
+
+[VERBATIM — Changement de politique]
+The unaudited pro forma information primarily reflects the additional depreciation related to the fair value adjustment to property, plant and equipment acquired, valuation step up related to the fair value of inventory and additional interest expense associated with the financing obtained by the Company in connection with the acquisition.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

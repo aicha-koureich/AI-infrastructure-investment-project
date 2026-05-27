@@ -1,0 +1,27 @@
+FIRM         : SCL (CIK 0000094049) | FY2013
+FILE         : 0000094049_SCL_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : computer equipment and software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 5.0-10.0 ans | 10.0-15.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation of property, plant and equipment is provided on a straight-line basis over the estimated useful lives of the assets. For assets classified as machinery and equipment, lives generally used for calculating depreciation expense range from 10 to 15 years for
+manufacturing equipment, five to 10 years for furniture and fixtures, three to five years for vehicles and three to 10 years for computer equipment and software.
+
+[VERBATIM — Changement de politique]
+the pro forma information. The pro forma results include adjustments primarily related to amortization of acquired intangible assets, depreciation of the fair value adjustment of acquisition-date
+plant assets, interest on borrowings and tax expense. In addition, nonrecurring adjustments to pro forma net income include $270,000 of acquisition- related expenses and $558,000 of expense related to the fair value adjustment of the acquisition
+date inventory; such expenses were excluded from 2013 pro forma net income and included in pro forma net income for the year ended December 31, 2012.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

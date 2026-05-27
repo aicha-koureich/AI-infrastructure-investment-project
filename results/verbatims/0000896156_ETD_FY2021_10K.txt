@@ -1,0 +1,20 @@
+FIRM         : ETD (CIK 0000896156) | FY2021
+FILE         : 0000896156_ETD_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2021
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : buildings and improvements and from 3 to 20 years for machinery and equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost, less accumulated depreciation and amortization. Depreciation of property, plant and equipment is provided over the estimated useful lives of the respective assets on a straight-line basis. Estimated useful lives of the respective assets typically range from twenty to forty years for buildings and improvements and from three to twenty years for machinery and equipment. Capitalized computer software costs include internal and external costs incurred during the software's development stage and are depreciated over three to five years. Repairs and maintenance expenditures, which are not considered leasehold improvements and do not extend the useful life of the property and equipment, are expensed as incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Implementation Costs in a Cloud Computing Arrangement – In August 2018, the FASB issued ASU 2018 - 15, Intangibles-Goodwill and Other – Internal-Use Software (Subtopic 350 - 40 ): Customer ’ s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract , an update related to a client’s accounting for implementation costs incurred in a cloud computing arrangement that is a service contract. This guidance aligns the requirements for capitalizing implementation costs in a cloud computing service contract with the guidance for capitalizing implementation costs to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). Capitalized implementation costs related to a hosting arrangement that is a service contract will be amortized over the term of the hosting arrangement, beginning when the module or component of the hosting arrangement is ready for its intended use. We adopted the new guidance as of July 1, 2020 using a prospective method. We capitalize implementation costs related to hosted arrangements, which typically include multi-year service terms with additional renewal periods generally ranging from one to three years. The related assets are recorded within Prepaid expenses and other current assets (for service terms less than one year) or Other assets (for service terms greater than one year) on our consolidated balance sheets, net of accumulated amortization for assets placed in service. The amortization of assets placed in service is recorded in selling, general and administrative expenses, consistent with the costs of the hosting arrangement, on the consolidated statements of comprehensive income on a straight-line basis over the term of the hosting arrangement, which includes reasonably certain renewal periods. The adoption of the accounting standard update did not have a material impact on our consolidated financial statements.

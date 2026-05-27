@@ -1,0 +1,23 @@
+FIRM         : VRA (CIK 0001495320) | FY2021
+FILE         : 0001495320_VRA_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized costs are included in property, plant, and equipment and are amortized over three to five years.
+
+[VERBATIM — Changement de politique]
+When a decision is made to abandon property, plant, and equipment prior to the end of the previously estimated useful life, depreciation or amortization estimates are revised to reflect the use of the asset over the shortened estimated useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• Amortization expense of certain cloud computing costs associated with Project Novus technology enhancements. ||| Amortization expense of certain cloud computing costs associated with Project Novus technology enhancements. ||| Corporate Unallocated . For fiscal 2022, unallocated expenses increased $8.4 million, or 12.4% to $76.4 million from $68.0 million in the prior-year period. The increase in unallocated expenses was primarily due to prior-year period initiatives to reduce expenses in light of COVID-19 that did not recur in the current-year including the temporary furlough of certain associates; temporarily reducing the base compensation for all other salaried associates; and reducing other non-payroll expenses including marketing, as well as amortization expense associated with certain cloud computing costs for Project Novus technology enhancements. These increases in SG&A expense were partially offset by a decrease in depreciation expense, as described above.

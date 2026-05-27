@@ -1,0 +1,23 @@
+FIRM         : VSCO (CIK 0001856437) | FY2023
+FILE         : 0001856437_VSCO_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-03
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of Business, Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company’s property and equipment are recorded at cost and depreciation is computed on a straight-line basis using the following depreciable life ranges:
+
+[VERBATIM — Changement de politique]
+When a decision has been made to dispose of property and equipment prior to the end of the previously estimated useful life, depreciation estimates are revised to reflect the use of the asset over the shortened estimated useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

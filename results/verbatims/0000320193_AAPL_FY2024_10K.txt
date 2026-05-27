@@ -1,0 +1,20 @@
+FIRM         : AAPL (CIK 0000320193) | FY2024
+FILE         : 0000320193_AAPL_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 28, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 5 – Property, Plant and Equipment
+ASSET CAT.   : Machinery, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2024 2023 Land and buildings $ 24,690 $ 23,446 Machinery, equipment and internal-use software 80,205 78,314 Leasehold improvements 14,233 12,839 Gross property, plant and equipment 119,128 114,599 Accumulated depreciation (73,448) (70,884) Total property, plant and equipment, net $ 45,680 $ 43,715
+
+[VERBATIM — Infrastructure IA]
+The Company combines and accounts for lease and nonlease components as a single lease component for leases of corporate, data center and retail facilities.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Services net sales increased during 2024 compared to 2023 due primarily to higher net sales from advertising, the App Store ® and cloud services.

@@ -1,0 +1,20 @@
+FIRM         : TSN (CIK 0000100493) | FY2022
+FILE         : 0000100493_TSN_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 1, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1: BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+We determine if an agreement is or contains a lease at its inception by evaluating if an identified asset exists that we control for a period of time. When a lease exists, we classify it as a finance or operating lease and record a right-of-use (“ROU”) asset and a corresponding lease liability at lease commencement. We have elected to not record leases with a term of 12 months or less in our Consolidated Balance Sheets, and accordingly, lease expense for these short-term leases is recognized on a straight-line basis over the lease term. Finance lease assets are presented within Net Property, Plant and Equipment, and finance lease liabilities are presented within Current and Long-Term Debt in our Consolidated Balance Sheets. Finance lease disclosures are omitted as they are deemed immaterial. Operating ROU assets are presented within Other Assets, and operating lease liabilities are recorded within Other current liabilities and Other Liabilities in our Consolidated Balance Sheets. Lease assets are subject to review for impairment within the related long-lived asset group.
+
+[VERBATIM — Infrastructure IA]
+• Beginning in fiscal 2022, we launched a new productivity program, which is designed to drive a better, faster and more agile organization that is supported by a culture of continuous improvement and faster decision-making. We were targeting $1 billion in productivity savings by the end of fiscal 2024, which included more than $400 million in fiscal 2022, relative to a fiscal 2021 cost baseline. The execution of this program is supported by a program management office that ensures delivery of key project milestones and reports on savings achievements connected with the three pillars of the program. The first pillar is operational and functional excellence, which includes functional efficiency efforts in Finance, HR and Procurement focused on applying best practices to reduce costs. The second pillar is the use of new digital solutions like artificial intelligence and predictive analytics to drive efficiency in operations, supply chain planning, logistics and warehousing. The third pillar is automation, which will leverage automation and robotics technologies to automate difficult and higher turnover positions. We expect the productivity savings to be recognized in each of our reportable segments as they benefit from the achievements connected with the three pillars of the program. At this time, we do not anticipate costs associated with this program to be material and capital expenditures associated with automation and other activities are included in our capital expenditure expectations. We realized more than $700 million of productivity savings in fiscal 2022, which partially offset the impacts of inflationary market conditions, and we now believe we will exceed our $1 billion target in fiscal 2023.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

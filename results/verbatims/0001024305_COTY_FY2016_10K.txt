@@ -1,0 +1,21 @@
+FIRM         : COTY (CIK 0001024305) | FY2016
+FILE         : 0001024305_COTY_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : JUNE 30, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 26. SUBSEQUENT EVENTS
+ASSET CAT.   : equipment
+DURÉE        : 2.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 2.0-15.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Description Estimated Useful Lives Buildings 20-40 years Marketing furniture and fixtures 3-5 years Machinery and equipment 2-15 years Computer equipment and software 2-5 years Property and equipment under capital leases and leasehold improvements Lesser of lease term or economic life
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The FASB issued authoritative guidance to clarify the accounting treatment for fees paid by a customer in cloud computing arrangements. Under the revised guidance, if a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If the cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The revised guidance will not change a customer’s accounting for service contracts. The Company is evaluating the impact this amendment will have on the Company’s Consolidated Financial Statements.

@@ -1,0 +1,23 @@
+FIRM         : BLKB (CIK 0001280058) | FY2023
+FILE         : 0001280058_BLKB_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-16
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 18. Subsequent Events
+ASSET CAT.   : capitalized software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Qualifying capitalized software and content development costs are amortized on a straight-line basis over the software asset's estimated useful life, which is generally three to seven years. We write off the gross carrying amount and accumulated amortization balances for all fully amortized capitalized software and content development cost assets.
+
+[VERBATIM — Changement de politique]
+In October 2021, we made the decision to permanently close our fixed office locations (with the exception of our global headquarters facility in Charleston, South Carolina), effective in December 2021. This change was intended to align our real estate footprint with our transition to a remote-first workforce. We enter into arrangements for smaller more flexible workspaces where ne cessary. As a result, during the twelve months ended December 31, 2021, we reduced the estimated useful lives of our operating lease ROU assets for certain of our office locations we expected to exit. We recorded $5.3 million in incremental operating lease costs during 2021 related to this change in accounting estimate. For these same office locations, we also reduced the estimated useful lives of certain facilities-related fixed assets, which resulted in incremental depreciation expense of $1.7 million during 2021 (see Note 7 to these consolidated financial statements). During the twelve months ended December 31, 2021, we also recorded $3.6 million in impairments of op erating lease ROU assets associated with certain leased office spaces we have ceased using as a result of our adjusted workforce strategy. These impairment charges are reflected in general and administrative expense.
+
+[VERBATIM — Infrastructure IA]
+• Continued IT consolidation as we migrate customers from legacy private data centers to leading public cloud service providers. We closed four legacy data centers during 2022 and two in 2023.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+• Renegotiated key vendor contracts including Microsoft Azure and AWS ||| Renegotiated key vendor contracts including Microsoft Azure and AWS ||| (1) Includes amortization expense related to software and content development costs and amortization expense from capitalized cloud computing implementation costs.

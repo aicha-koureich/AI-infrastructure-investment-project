@@ -1,0 +1,24 @@
+FIRM         : XPO (CIK 0001166003) | FY2021
+FILE         : 0001166003_XPO_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : Machinery and equipment, Computer software, equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : A100;B200 (2 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-6.0 ans | 3.0-10.0 ans | 3.0-15.0 ans | 6.0 ans | 7.0 ans | 8.0 ans
+
+[VERBATIM — Durée de vie]
+Classification Estimated Useful Life Buildings and leasehold improvements Term of lease to 40 years Vehicles, containers, tractors, trailers and tankers 3 to 15 years Rail cars and chassis 15 to 30 years Machinery and equipment 3 to 10 years Computer software and equipment 1 to 6 years
+
+[VERBATIM — Changement de politique]
+Our CODM regularly reviews financial information at the operating segment level to allocate resources to the segments and to assess their performance. We include items directly attributable to a segment, and those that can be allocated on a reasonable basis, in segment results reported to the CODM. We do not provide asset information by segment to the CODM. During the third quarter of 2021, our CODM began evaluating segment profit (loss) based on adjusted earnings before interest, taxes, depreciation and amortization (“Adjusted EBITDA”), which we define as income (loss) from continuing operations before debt extinguishment loss, interest expense, income tax, depreciation and amortization expense, litigation settlements for significant matters, transaction and integration costs, restructuring costs and other adjustments. Prior to the change in our reporting segments in the third quarter of 2021, our CODM used operating income as the measure of segment profit (loss). Prior period segment disclosures have been recast to conform to the current period presentation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

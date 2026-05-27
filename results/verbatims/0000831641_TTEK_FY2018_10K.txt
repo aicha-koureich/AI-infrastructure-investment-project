@@ -1,0 +1,20 @@
+FIRM         : TTEK (CIK 0000831641) | FY2018
+FILE         : 0000831641_TTEK_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2018
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 1. Description of Business
+ASSET CAT.   : equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+years for equipment, furniture and fixtures. Buildings are depreciated over periods not exceeding
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

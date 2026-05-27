@@ -1,0 +1,21 @@
+FIRM         : FCF (CIK 0000712537) | FY2015
+FILE         : 0000712537_FCF_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 29—Subsequent Event
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Premises and equipment are described as follows: Estimated Useful Life 2015 2014 (dollars in thousands) Land Indefinite $ 12,185 $ 12,098 Buildings and improvements 10-50 years 77,086 75,873 Leasehold improvements 5-40 years 14,518 14,229 Furniture and equipment 3-10 years 59,463 59,034 Software 3-7 years 34,472 37,007 Subtotal 197,724 198,241 Less accumulated depreciation and amortization 134,270 133,252 Total premises and equipment $ 63,454 $ 64,989
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

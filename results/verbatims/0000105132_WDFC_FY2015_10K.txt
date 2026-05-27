@@ -1,0 +1,20 @@
+FIRM         : WDFC (CIK 0000105132) | FY2015
+FILE         : 0000105132_WDFC_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05, “ Intangibles-Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement” , which provides guidance on accounting for fees paid by a customer in a cloud computing arrangement. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. This guidance is effective for fiscal years beginning after December 15, 2015, including interim periods within that reporting period. Early adoption is permitted. The Company has evaluated the potential impacts of this updated guidance, and it does not expect the adoption of this guidance to have a material impact on its consolidated financial statements. ||| Intangibles-Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement” ||| , which provides guidance on accounting for fees paid by a customer in a cloud computing arrangement.

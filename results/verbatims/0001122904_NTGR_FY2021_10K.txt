@@ -1,0 +1,20 @@
+FIRM         : NTGR (CIK 0001122904) | FY2021
+FILE         : 0001122904_NTGR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 14. Leases
+ASSET CAT.   : Computer equipment, Furniture, Machinery and equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31, 2021 December 31, 2020 (In thousands) Computer equipment $ 9,979 $ 10,550 Furniture, fixtures and leasehold improvements 18,364 18,674 Software 30,280 29,499 Machinery and equipment 75,559 72,156 Total property and equipment, gross 134,182 130,879 Accumulated depreciation (120,847 ) (114,799 ) Total $ 13,335 $ 16,080
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We believe that innovation and technological leadership is critical to our future success, and we are committed to continuing a significant level of research and development to develop new technologies, products and services. We continue to invest in research and development to grow our cloud platform capabilities, our services and mobile applications and to expand our hardware product offerings focused on premium WiFi 6E, WiFi 6, Advanced 4G/5G mobile and 5G coverage solutions, audio and video over Ethernet, web-managed, 10Gig and PoE switch and SMB wireless products. We expect research and development expenses as a percentage of net revenue in fiscal 2022 to be in line with or slightly above fiscal 2021 levels. Research and development expenses may fluctuate depending on the timing and number of development activities and could vary significantly as a percentage of net revenue, depending

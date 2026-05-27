@@ -1,0 +1,24 @@
+FIRM         : DGII (CIK 0000854775) | FY2020
+FILE         : 0000854775_DGII_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+ASSET CAT.   : software and other equipment are depreciated over a period of
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 10.0 ans | 30.0-9.0 ans
+
+[VERBATIM — Durée de vie]
+Property, equipment and improvements are carried at cost, net of accumulated depreciation. Furniture and fixtures, purchased software and other equipment are depreciated over a period of three years to ten years.
+
+[VERBATIM — Changement de politique]
+Expenditures for maintenance and repairs are charged to operations as incurred, while major renewals and betterments are capitalized. The assets and related accumulated depreciation accounts are adjusted for asset retirements and disposals with the resulting gain or loss included in operations.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

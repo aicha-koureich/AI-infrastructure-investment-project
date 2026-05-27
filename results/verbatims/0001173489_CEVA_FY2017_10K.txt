@@ -1,0 +1,21 @@
+FIRM         : CEVA (CIK 0001173489) | FY2017
+FILE         : 0001173489_CEVA_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 13: COMMITMENTS AND CONTINGENCIES
+ASSET CAT.   : EQUIPMENT, furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Description December 31, 2017 Level I Level II Level III Assets: Marketable securities: Certificate of deposits $ 747 — $ 747 — Government bonds 495 — 495 — Corporate bonds 81,422 — 81,422 — Description December 31, 2016 Level I Level II Level III Assets: Marketable securities: Government bonds $ 497 — $ 497 — Corporate bonds 61,371 — 61,371 — Foreign exchange contracts 6 — 6 — NOTE 4: PROPERTY AND EQUIPMENT, NET Composition of assets, grouped by major classifications, is as follows: As at December 31, 2016 2017 Cost: Computers, software and equipment $ 10,031 $ 13,570 Office furniture and equipment 766 797 Leasehold improvements 2,204 2,756 13,001 17,123 Less–Accumulated depreciation (8,196 ) (10,197 ) Property and equipment, net $ 4,805 $ 6,926 The Company recorded depreciation expenses in the amount of $1,399 and $2,014 for the years ended
+December 31, 2016 and 2017, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

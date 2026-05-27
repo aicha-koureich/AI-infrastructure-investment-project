@@ -1,0 +1,20 @@
+FIRM         : CRNC (CIK 0001768267) | FY2021
+FILE         : 0001768267_CRNC_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-09-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 9. Property and Equipment, Net
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense for the fiscal years ended September 30, 2021, 2020, and 2019 was $9.5 million, $9.2 million, and $6.2 million, respectively, which included amortization expense of $3.4 million, $3.1 million, and $2.7 million, respectively, for internally developed software costs.
+
+[VERBATIM — Infrastructure IA]
+Cost of connected services revenue for fiscal year 2021 was $25.7 million, a decrease of $6.1 million, or 19.0%, from $31.8 million for fiscal year 2020. Cost of connected services revenue decreased primarily due to a $1.8 million decrease in salary-related expenditures, $1.8 million decrease in third-party contractor costs, $1.7 million decrease from lower internal allocated labor, $1.7 million decrease in depreciation costs, $0.7 million decrease in cloud infrastructure costs and $0.5 million decrease in stock-based compensation. These decreases were partly offset by a $3.2 million increase in amortization of costs previously deferred. As a percentage of total cost of revenue, cost of connected service revenue decreased by 4.0 percentage points from 29.5% for fiscal year 2020 to 25.5% for fiscal year 2021.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

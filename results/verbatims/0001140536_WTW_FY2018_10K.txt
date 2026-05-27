@@ -1,0 +1,20 @@
+FIRM         : WTW (CIK 0001140536) | FY2018
+FILE         : 0001140536_WTW_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 22 — Financial Information for Issuers and Other Guarantor Subsidiaries
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Furniture, equipment and software Leasehold improvements Land and buildings Total Cost: at January 1, 2017 $ 1,009 $ 382 $ 90 $ 1,481 Additions 303 91 — 394 Disposals (61 ) (21 ) — (82 ) Foreign exchange 49 16 4 69 Cost: at December 31, 2017 1,300 468 94 1,862 Additions 249 70 — 319 Disposals (278 ) (35 ) — (313 ) Reclassification due to ASC 606 (i) (102 ) — — (102 ) Foreign exchange (39 ) (15 ) (2 ) (56 ) Cost: at December 31, 2018 $ 1,130 $ 488 $ 92 $ 1,710 Depreciation: at January 1, 2017 $ (464 ) $ (137 ) $ (41 ) $ (642 ) Depreciation expense (ii) (199 ) (47 ) (6 ) (252 ) Disposals 37 14 — 51 Foreign exchange (26 ) (6 ) (2 ) (34 ) Depreciation: at December 31, 2017 (652 ) (176 ) (49 ) (877 ) Depreciation expense (ii) (155 ) (54 ) (4 ) (213 ) Disposals 250 27 — 277 Reclassification due to ASC 606 (i) 19 — — 19 Foreign exchange 19 6 1 26 Depreciation: at December 31, 2018 $ (519 ) $ (197 ) $ (52 ) $ (768 ) Net book value: At December 31, 2017 $ 648 $ 292 $ 45 $ 985 At December 31, 2018 $ 611 $ 291 $ 40 $ 942
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract, which requires implementation costs, in a hosting arrangement that is a service contract, to be capitalized consistent with the rules in ASC 350-40, Intangibles—Goodwill and Other—Internal-Use Software . Costs incurred during the application development stage are to be capitalized and expensed according to their nature, while costs incurred during the preliminary project and post-implementation stages are to be expensed. This ASU also contains guidance with regard to the amortization period, impairment and presentation within the financial statements. The ASU is required to be adopted by the Company during 2020, however early adoption is allowed in an interim period before then, and may be applied retrospectively or prospectively to applicable costs on the Company’s consolidated financial statements. The Company adopted this ASU prospectively during the fourth quarter of 2018, which began on October 1. The impact of this ASU is not material. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract,

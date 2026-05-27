@@ -1,0 +1,24 @@
+FIRM         : KHC (CIK 0001637459) | FY2021
+FILE         : 0001637459_KHC_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-06-25
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Significant Accounting Policies
+ASSET CAT.   : equipment are depreciated over periods ranging from
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at historical cost and depreciated on the straight-line method over the estimated useful lives of the assets. Machinery and equipment are depreciated over periods ranging from three years to 20 years and buildings and improvements over periods up to 40 years. These costs are amortized on a straight-line basis over the estimated useful lives of the software, which do not exceed seven years.
+
+[VERBATIM — Changement de politique]
+Employee severance and other termination benefit packages are primarily determined based on established benefit arrangements, local statutory requirements, and historical benefit practices. We recognize the contractual component of these benefits when payment is probable and estimable; additional elements of severance and termination benefits associated with non-recurring benefits are recognized ratably over each employee’s required future service period. Charges for accelerated depreciation are recognized on long-lived assets that will be taken out of service before the end of their normal service, in which case depreciation estimates are revised to reflect the use of the asset over its shortened useful life. Asset impairments establish a new fair value basis for assets held for disposal or sale, and those assets are written down to expected net realizable value if carrying value exceeds fair value. All other costs are recognized as incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Hosted Cloud Computing Arrangement that is a Service Contract: ||| Deferred implementation costs for hosted cloud computing service arrangements are stated at historical cost and amortized on a straight-line basis over the term of the hosting arrangement that the implementation costs relate to. Deferred implementation costs for these arrangements are included in prepaid expenses and amortized to SG&A. The corresponding cash flows related to these arrangements will be reported within operating activities. We review the deferred implementation costs for impairment when we believe the deferred costs may no longer be recoverable. Such conditions could include situations where the arrangement is not expected to provide substantive service potential, a significant change occurs in the manner in which the arrangement is used or expected to be used, including early cancellation or termination of the arrangement, or situations where the arrangement has had, or will have, a significant change made to it. In instances where we have concluded that an impairment exists, we accelerate the deferred costs on the consolidated balance sheet for immediate expense recognition in SG&A.

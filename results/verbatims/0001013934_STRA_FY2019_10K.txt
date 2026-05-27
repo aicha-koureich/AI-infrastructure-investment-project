@@ -1,0 +1,20 @@
+FIRM         : STRA (CIK 0001013934) | FY2019
+FILE         : 0001013934_STRA_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 7. Property and Equipment
+ASSET CAT.   : Furniture, office equipment, Computer hardware, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2018 2019 Estimated useful life (years) Land $ 7,138 $ 7,138 — Buildings and improvements 20,883 21,143 5-40 Furniture and office equipment 76,856 73,457 5-7 Computer hardware 13,546 10,173 3-7 Computer software 129,519 137,150 3-10 Leasehold improvements 44,215 49,241 3-10 Construction in progress 8,354 7,808 — 300,511 306,110 Accumulated depreciation and amortization (177,834 ) (189,081 ) $ 122,677 $ 117,029
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

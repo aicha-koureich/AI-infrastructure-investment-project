@@ -1,0 +1,24 @@
+FIRM         : DOCN (CIK 0001582961) | FY2024
+FILE         : 0001582961_DOCN_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : servers and related equipment and increased the useful life from
+DURÉE        : 5.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 3.0 ans | 5.0 ans | 6.0 ans
+
+[VERBATIM — Durée de vie]
+The Company periodically reviews the estimated useful lives of property and equipment. In the fourth quarter of 2024, the Company completed a useful life study for its servers and related equipment and increased the useful life from five years to six years, effective October 1, 2024.
+
+[VERBATIM — Changement de politique]
+The Company periodically reviews the estimated useful lives of property and equipment. In the fourth quarter of 2024, the Company completed a useful life study for its servers and related equipment and increased the useful life from five years to six years, effective October 1, 2024.
+
+[VERBATIM — Infrastructure IA]
+The Company leases co-location space at data center facilities and, to a lesser extent, corporate offices, all of which are classified as operating leases. The finance leases are for data center equipment. The Company determines if an arrangement is a lease at contract inception. Operating leases are included in operating lease right-of-use (ROU) assets and current and noncurrent operating lease liabilities on the Company’s Consolidated Balance Sheets. Finance lease ROU assets, net of amortization are included in Property and equipment, net, and finance lease liabilities are included in Other current liabilities and Other long-term liabilities on the Company’s Consolidated Balance Sheets.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We generate revenue primarily from the usage of our cloud computing platform by our customers. We recognize revenue largely based on the customer utilization of our offerings. While our pricing is primarily consumption-based and the majority of our customers use our platform on a month-to-month basis, a growing number of customers are using our platform for larger workloads and some of these customers are opting to enter into committed contracts, committing to a minimum spend on our platform. ||| Research and development expenses consist primarily of personnel costs including salaries, bonuses, benefits and stock-based compensation. Research and development expenses also include amortization of capitalized internal-use software development costs for research and development activities, which are amortized over three years, professional services, software, as well as costs related to our efforts to add new features to our existing offerings, develop new offerings, and ensure the security, performance, and reliability of our global cloud platform. We expect research and development expenses to increase in absolute dollars as we continue to invest in our platform and product offerings. ||| Our global cloud platform is supported by various third parties. We considered the principal versus agent guidance in ASC 606 and concluded that we are the principal for all services provided to our customers.

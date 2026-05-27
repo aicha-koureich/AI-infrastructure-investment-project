@@ -1,0 +1,28 @@
+FIRM         : TXT (CIK 0000217346) | FY2014
+FILE         : 0000217346_TXT_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 3, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant
+Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : AMD_Instinct (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property,
+plant and equipment are recorded at cost and are depreciated primarily using
+the straight-line method.
+
+[VERBATIM — Changement de politique]
+Property,
+plant and equipment are recorded at cost and are depreciated primarily using
+the straight-line method.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

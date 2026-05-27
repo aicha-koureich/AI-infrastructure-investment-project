@@ -1,0 +1,28 @@
+FIRM         : NEO (CIK 0001077183) | FY2013
+FILE         : 0001077183_NEO_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+The Company prepares
+its consolidated financial statements in conformity with accounting principles generally accepted in the United States of America. These principles require management to make estimates, judgments and assumptions that affect the reported amounts of
+assets, liabilities, revenues and expenses, together with amounts disclosed in the related notes to the consolidated financial statements. Actual results and outcomes may differ from management’s estimates, judgments and assumptions.
+Significant estimates, judgments and assumptions used in these consolidated financial statements include, but are not limited to, those related to revenues, accounts receivable and related allowances, contingencies, useful lives and recovery of
+long-term assets, income taxes, and the fair value of stock-based compensation. These estimates, judgments, and assumptions are reviewed periodically and the effects of material revisions in estimates are reflected in the consolidated financial
+statements prospectively from the date of the change in estimate.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

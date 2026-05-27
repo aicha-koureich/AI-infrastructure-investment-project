@@ -1,0 +1,20 @@
+FIRM         : NX (CIK 0001423221) | FY2021
+FILE         : 0001423221_NX_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-10-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Nature of Operations, Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : technology, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+The software is then amortized over its estimated useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

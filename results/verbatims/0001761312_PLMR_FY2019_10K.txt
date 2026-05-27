@@ -1,0 +1,20 @@
+FIRM         : PLMR (CIK 0001761312) | FY2019
+FILE         : 0001761312_PLMR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 7. Capitalized Software
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amortization expense relating to capitalized software the years ended December 31, 2019 and 2018 was $0.6 million and an immaterial amount, respectively.
+
+[VERBATIM — Infrastructure IA]
+responsibilities in the event of an emergency response situation and a business continuity communication site where employees are directed to receive instructions that are tailored to various scenarios. We store all data offsite and ensure it is accessible remotely. Our communications, virtual file servers, underwriting and distribution systems, and claims portal are hosted in geographically diverse data centers domestically and globally. We maintain a second office 55 miles north of our La Jolla, California headquarters to use as a redundant location in the event of a disruptive event in San Diego, and purchase business continuity services to support the La Jolla office in the event of a disruptive event.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Costs associated with the implementation of certain internal systems are capitalized and carried at capitalized cost less accumulated amortization and are included as a component of prepaid expenses and other assets on the Company’s consolidated balance sheet. Costs capitalized include internal personnel costs, external developer costs, and interest. The implementation costs relate to systems built on software which the Company purchases under a cloud computing arrangement and accounts for as a service contract. As such, capitalized costs are amortized over the term of the service contract, which currently ends in December 2024.

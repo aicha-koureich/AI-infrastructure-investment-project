@@ -1,0 +1,23 @@
+FIRM         : LUMN (CIK 0000018926) | FY2024
+FILE         : 0000018926_LUMN_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1—Background and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Historically, we have used the group method of depreciation for the property, plant and equipment and amortization of certain intangible capitalized software assets of our ILECs and certain CLECs.
+
+[VERBATIM — Changement de politique]
+Historically, we have used the group method of depreciation for the property, plant and equipment and amortization of certain intangible capitalized software assets of our ILECs and certain CLECs.
+
+[VERBATIM — Infrastructure IA]
+(3) Support assets consist of buildings, data centers, computers and other administrative and support equipment.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+◦ Wholesale: Under our wholesale sales channel, we provide our products and services to a wide range of other communication companies providing wireline, wireless, cable, voice and data center services. ||| Wholesale: Under our wholesale sales channel, we provide our products and services to a wide range of other communication companies providing wireline, wireless, cable, voice and data center services.

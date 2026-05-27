@@ -1,0 +1,20 @@
+FIRM         : ALGT (CIK 0001362468) | FY2014
+FILE         : 0001362468_ALGT_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 — Summary of Significant Accounting Policies Basis of Presentation
+ASSET CAT.   : computer software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company amortizes these costs using the straight-line method over the estimated useful life of the software, which typically ranges from three to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

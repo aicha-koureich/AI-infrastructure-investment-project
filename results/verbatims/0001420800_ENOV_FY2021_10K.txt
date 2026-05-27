@@ -1,0 +1,20 @@
+FIRM         : ENOV (CIK 0001420800) | FY2021
+FILE         : 0001420800_ENOV_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 6, “Revenue”, and Note 15,
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, net is stated at historical cost, which includes the fair values of such assets acquired through acquisitions. Repair and maintenance expenditures are expensed as incurred unless the repair extends the useful life of the asset. The Company capitalizes surgical implant instruments that are provided free of charge to surgeons for use while implanting its surgical products and the related depreciation expense is recorded as a component of Selling, general and administrative expense.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

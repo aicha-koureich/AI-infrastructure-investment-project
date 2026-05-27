@@ -1,0 +1,30 @@
+FIRM         : MARA (CIK 0001507605) | FY2021
+FILE         : 0001507605_MARA_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-11
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE
+2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : servers would be
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Property
+and equipment are stated at cost, net of accumulated depreciation. Prior to December 31, 2020, management depreciated these servers over two years.
+
+[VERBATIM — Infrastructure IA]
+On
+October 6, 2020, the Company entered into a series of agreements with multiple parties to design and build a data center for up to 100-megawatts
+in Hardin, MT. In conjunction therewith, the Company filed a Current Report on Form 8-K on October 13, 2020. The 8-K discloses that,
+pursuant to a Data Facility Services Agreement, the Company issued 6,000,000 shares of restricted Common Stock, in transactions exempt
+from registration under Section 4(a)(2) of the Securities Act of 1933, as amended. During the quarter ended September 30, 2021, the Company
+and certain of its executives received a subpoena to produce documents and communications concerning the Hardin, Montana data center
+facility described in our Form 8-K dated October 13, 2020. We understand that the SEC may be investigating whether or not there may have
+been any violations of the federal securities law. We are cooperating with the SEC.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

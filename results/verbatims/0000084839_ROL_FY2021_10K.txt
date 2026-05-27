@@ -1,0 +1,21 @@
+FIRM         : ROL (CIK 0000084839) | FY2021
+FILE         : 0000084839_ROL_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-27
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment, furniture
+DURÉE        : 2.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Equipment and Property — Equipment and Property are stated at cost, net of accumulated depreciation, and are provided principally on a straight-line basis over the estimated useful lives of the related assets. Annual provisions for depreciation are computed using the following asset lives: buildings, 10 to 40 years; and furniture, fixtures, and operating equipment , 2 to 10 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

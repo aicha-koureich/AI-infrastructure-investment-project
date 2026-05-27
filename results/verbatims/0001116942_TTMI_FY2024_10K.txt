@@ -1,0 +1,20 @@
+FIRM         : TTMI (CIK 0001116942) | FY2024
+FILE         : 0001116942_TTMI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We are a leading global manufacturer of technology solutions, including mission systems, radio frequency (RF) components, RF microwave/microelectronic assemblies, and quick-turn and technologically advanced printed circuit boards (PCB). We focus on providing time-to-market and volume production of advanced technology products and offer a one-stop design, engineering, and manufacturing solution to our customers. This solution allows us to align technology development with the diverse needs of our customers and to enable them to reduce the time required to develop new products and bring them to market. We serve a diversified customer base consisting of approximately 1,400 customers in various markets throughout the world, including aerospace and defense, data center computing, automotive, medical, industrial and instrumentation, and networking. Our customers include original equipment manufacturers (OEMs), electronic manufacturing services (EMS) providers, original design manufacturers (ODMs), distributors, and government agencies (both domestic and allied foreign governments).  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

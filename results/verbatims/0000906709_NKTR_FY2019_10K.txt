@@ -1,0 +1,23 @@
+FIRM         : NKTR (CIK 0000906709) | FY2019
+FILE         : 0000906709_NKTR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 4 — Property, Plant and Equipment
+ASSET CAT.   : equipment, Computer equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2019 2018 Building and leasehold improvements $ 93,097 $ 77,771 Laboratory equipment 36,623 33,806 Computer equipment and software 26,910 23,395 Manufacturing equipment 22,030 21,339 Furniture, fixtures, and other 9,662 7,959 Depreciable property, plant and equipment at cost 188,322 164,270 Less: accumulated depreciation (127,875 ) (120,507 ) Depreciable property, plant and equipment, net 60,447 43,763 Construction-in-progress 4,552 5,088 Property, plant and equipment, net $ 64,999 $ 48,851
+
+[VERBATIM — Changement de politique]
+As royalties are remitted to RPI from Roche and UCB, the balance of the Royalty Obligation will be effectively repaid over the life of the agreement. To determine the amortization of the Royalty Obligation, we are required to estimate the total amount of future royalty payments to be received by RPI. The sum of these amounts less the $124.0 million proceeds we received, net of our payments to RPI, will be recorded as interest expense over the life of the Royalty Obligation. We periodically assess the estimated royalty payments to RPI from UCB and Roche and to the extent the amount or timing of such payments is materially different than our original estimates, we will prospectively adjust the amortization of the Royalty Obligation. From inception through 2017, our estimate of the total interest expense on the Royalty Obligation resulted in an effective annual interest rate of approximately 17% . During the three months ended December 31, 2017, our estimate of the effective annual interest rate over the life of the agreement increased to 17.6% , which resulted in a prospective interest rate of 21% . During the three month period ended December 31, 2018, primarily as a result of increases in the forecasted sales of MIRCERA ® , our estimate of the effective annual interest rate over the life of the agreement increased to 18.7% , which resulted in a prospective interest rate of 29% . During the three month period ended December 31, 2019, primarily as a result of increases in the forecasted sales of CIMZIA ® and MIRCERA ® , our estimate of the effective annual interest rate over the life of the agreement increased to 19.5% , which results in a prospective interest rate of 38% .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

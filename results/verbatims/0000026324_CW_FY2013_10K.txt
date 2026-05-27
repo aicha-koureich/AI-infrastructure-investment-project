@@ -1,0 +1,23 @@
+FIRM         : CW (CIK 0000026324) | FY2013
+FILE         : 0000026324_CW_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment are carried at cost less accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+related to a change in estimate on its technology transfer contract on the AP1000 nuclear program. In 2011, the Corporation incurred unanticipated additional costs of
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

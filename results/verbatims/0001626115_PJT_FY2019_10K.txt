@@ -1,0 +1,20 @@
+FIRM         : PJT (CIK 0001626115) | FY2019
+FILE         : 0001626115_PJT_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-02-13
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 4. REVENUES FROM CONTRACTS WITH CUSTOMERS
+ASSET CAT.   : Office Equipment, Furniture and Fixtures, Furniture, Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2019 2018 Office Equipment $ 2,324 $ 2,151 Leasehold Improvements 45,368 38,745 Furniture and Fixtures 16,040 13,558 Total Furniture, Equipment and Leasehold Improvements 63,732 54,454 Accumulated Depreciation (26,609 ) (19,649 ) Furniture, Equipment and Leasehold Improvements, Net $ 37,123 $ 34,805
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued updated guidance on the accounting for implementation costs incurred in a cloud computing arrangement. The updated guidance requires the capitalization of implementation costs incurred in a cloud computing arrangement to be aligned with the requirements for capitalizing costs incurred to develop or obtain internal-use software. The updated guidance is effective for annual and interim reporting periods beginning after December 15, 2019, with early adoption permitted. The Company adopted this guidance on January 1, 2020 for cloud computing arrangements on a prospective basis.

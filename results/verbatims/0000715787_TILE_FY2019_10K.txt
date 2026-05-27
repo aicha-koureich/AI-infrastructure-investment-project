@@ -1,0 +1,20 @@
+FIRM         : TILE (CIK 0000715787) | FY2019
+FILE         : 0000715787_TILE_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, furniture
+DURÉE        : 3.0-12.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is computed using the straight-line method over the following estimated useful lives: buildings and improvements – ten to forty years ; and furniture and equipment – three to twelve years .
+
+[VERBATIM — Infrastructure IA]
+On December 31, 2018, the Company adopted Accounting Standards Codification (“ASC”) Topic 842, “Leases.” The new standard establishes a right-of-use (ROU) model that requires a lessee to record a ROU asset and a lease liability on the balance sheet for all leases with terms longer than 12 months. Leases will be classified as either finance or operating, with classification affecting the pattern of expense recognition in the income statement. The Company adopted the new lease standard using the modified retrospective approach and recorded operating lease right-of-use assets and operating lease liabilities for approximately $115.0 million respectively, with no cumulative-effect adjustment to retained earnings. The Company elected to apply the practical expedients allowed by the standard, which resulted in the Company not having to reassess whether expired or existing contracts contained a lease as well as retaining the historical classification of our leases. The Company also elected the hindsight practical expedient in evaluating lessee options and elected to combine lease and non-lease components in calculating the right-of-use asset and lease liability for all leases, except data center assets. See Note 11 entitled “ Leases ” for additional information.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, “Internal-Use Software – Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement.” This ASU aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement service contract with the guidance to capitalize implementation costs of internal use software. The ASU also requires that the costs for implementation activities during the application development phase be capitalized in a hosting arrangement service contract, and costs during the preliminary and post implementation phase are expensed. The new guidance is effective for interim and annual periods beginning after December 15, 2019. The Company is currently evaluating the impact of adoption of this standard, but does not anticipate that the adoption will have a material effect on its consolidated financial statements.

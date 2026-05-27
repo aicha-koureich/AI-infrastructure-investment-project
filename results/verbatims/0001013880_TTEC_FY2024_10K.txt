@@ -1,0 +1,20 @@
+FIRM         : TTEC (CIK 0001013880) | FY2024
+FILE         : 0001013880_TTEC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+TTEC Digital is one of the largest CX technology and service providers and is focused on the intersection of Contact Center as a Service (“CCaaS”), Customer Relationship Management (“CRM”), and Artificial Intelligence (AI) and Analytics. A professional services organization comprised of software engineers, systems architects, data scientists and CX strategists, this segment creates and implements strategic CX transformation roadmaps; sells, operates, and provides managed services for cloud platforms and premise-based CX technologies including Amazon Web Services (“AWS”), Cisco, Genesys, Google, and Microsoft; and creates proprietary IP to support industry specific and custom client needs. TTEC Digital serves clients across Enterprise and small and medium sized business segments and has a dedicated unit with government technology certifications serving the public sector. ||| is one of the largest CX technology and service providers and is focused on the intersection of Contact Center as a Service (“CCaaS”), Customer Relationship Management (“CRM”), and Artificial Intelligence (AI) and Analytics. A professional services organization comprised of software engineers, systems architects, data scientists and CX strategists, this segment creates and implements strategic CX transformation roadmaps; sells, operates, and provides managed services for cloud platforms and premise-based CX technologies including Amazon Web Services (“AWS”), Cisco, Genesys, Google, and Microsoft; and creates proprietary IP to support industry specific and custom client needs. TTEC Digital serves clients across Enterprise and small and medium sized business segments and has a dedicated unit with government technology certifications serving the public sector.

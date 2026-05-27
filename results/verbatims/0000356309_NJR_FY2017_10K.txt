@@ -1,0 +1,20 @@
+FIRM         : NJR (CIK 0000356309) | FY2017
+FILE         : 0000356309_NJR_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 13. Income Taxes
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+ITCs at NJNG are deferred and amortized as a reduction to the tax provision over the average lives of the related equipment in accordance with regulatory treatment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+which clarifies the accounting for fees in a cloud computing arrangement. The amendment provides guidance on how an entity should evaluate the accounting for fees paid in a cloud computing arrangement to determine whether an arrangement includes the sale or license of software. The Company adopted the new guidance in the first quarter of fiscal 2017 and applied the new provisions on a prospective basis, which did not impact its financial position, results of operations or cash flows upon adoption. ||| In April 2015, the FASB issued ASU No. 2015-05, an amendment to ASC 350, Intangibles - Goodwill and Other - Internal-Use Software, which clarifies the accounting for fees in a cloud computing arrangement. The amendment provides guidance on how an entity should evaluate the accounting for fees paid in a cloud computing arrangement to determine whether an arrangement includes the sale or license of software. The Company adopted the new guidance in the first quarter of fiscal 2017 and applied the new provisions on a prospective basis, which did not impact its financial position, results of operations or cash flows upon adoption.

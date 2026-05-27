@@ -1,0 +1,23 @@
+FIRM         : OXY (CIK 0000797468) | FY2022
+FILE         : 0000797468_OXY_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 16 - INDUSTRY SEGMENTS AND GEOGRAPHIC AREAS
+ASSET CAT.   : EQUIPMENT
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, millions 2022 2021 ASSETS CURRENT ASSETS Cash and cash equivalents $ 984 $ 2,764 Trade receivables, net of reserves of $37 in 2022 and $35 in 2021 4,281 4,208 Inventories 2,059 1,846 Other current assets 1,562 1,393 Total current assets 8,886 10,211 INVESTMENTS IN UNCONSOLIDATED ENTITIES 3,176 2,938 PROPERTY, PLANT AND EQUIPMENT Oil and gas 104,487 101,251 Chemical 7,808 7,571 Midstream and marketing 7,550 8,371 Corporate 889 964 120,734 118,157 Accumulated depreciation, depletion and amortization (62,350) (58,227) Total property, plant and equipment, net 58,384 59,930 OPERATING LEASE ASSETS 903 726 LONG-TERM RECEIVABLES AND OTHER ASSETS, NET 1,260 1,231 TOTAL ASSETS $ 72,609 $ 75,036
+
+[VERBATIM — Changement de politique]
+Without these continued expenditures, the useful lives of these assets could decrease significantly. Other factors that could change the estimated useful lives of Occidental’s chemical assets include sustained higher or lower product prices, which are affected by domestic and international competition, demand, feedstock costs, energy prices, environmental regulations and technological changes.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : VNO (CIK 0000899689) | FY2016
+FILE         : 0000899689_VNO_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Includes interests in 280 Park Avenue, 650 Madison Avenue, One Park Avenue, 666 Fifth Avenue (Office), 330 Madison Avenue, 512 West 22nd Street and others. In 2016 and 2015, we recognized net losses of $47,000 and $39,600, respectively, from our 666 Fifth Avenue (Office) joint venture as a result of our share of depreciation expense. In 2015, we recognized our $12,800 share of a write-off of a below-market lease liability related to a tenant vacating at 650 Madison Avenue. In 2014, we recognized our $14,500 share of accelerated depreciation from our West 57th Street joint ventures in connection with the change in estimated useful life of those properties.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

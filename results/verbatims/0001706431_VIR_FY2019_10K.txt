@@ -1,0 +1,20 @@
+FIRM         : VIR (CIK 0001706431) | FY2019
+FILE         : 0001706431_VIR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 7. Balance Sheet Components
+ASSET CAT.   : equipment, Computer equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2019 2018 (in thousands) Lab equipment $ 11,986 $ 7,538 Computer equipment 540 518 Furniture and fixtures 1,351 943 Leasehold improvements 7,121 3,114 Construction in progress 142 1,893 Property and equipment, gross 21,140 14,006 Less accumulated depreciation and amortization (4,832 ) (1,716 ) Total property and equipment, net $ 16,308 $ 12,290
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : CRS (CIK 0000017843) | FY2014
+FILE         : 0000017843_CRS_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Computer software, capitalized software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Computer software is included in other assets on the consolidated balance sheet, and is amortized for financial reporting purposes on a straight-line basis over the respective estimated useful lives ranging principally from 3 to 7 years. Amortization expense charged to operations related to capitalized software amounted to $6.4 million, $6.8 million and $6.1 million for the years ended June 30, 2014, 2013 and 2012, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

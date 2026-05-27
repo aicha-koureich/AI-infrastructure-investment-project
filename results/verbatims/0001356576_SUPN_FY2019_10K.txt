@@ -1,0 +1,20 @@
+FIRM         : SUPN (CIK 0001356576) | FY2019
+FILE         : 0001356576_SUPN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. Property and Equipment
+ASSET CAT.   : equipment and furniture, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2019 December 31, 2018 Lab equipment and furniture $ 11,053 $ 8,995 Leasehold improvements 14,217 2,731 Software 2,225 2,181 Computer equipment 1,839 1,313 Construction-in-progress 433 94 29,767 15,314 Less accumulated depreciation and amortization (12,699 ) (11,219 ) Total $ 17,068 $ 4,095
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract - The new standard, issued in August 2018, aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or to obtain internal-use software. This includes hosting arrangements that include an internal-use software license. This ASU also requires the implementation costs of a hosting arrangement that is a service contract to be expensed over the term of the hosting arrangement, which includes reasonably certain renewals. The Company will adopt the new standard effective January 1, 2020, and expects the adoption will not have a material impact on its consolidated financial statements. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

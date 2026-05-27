@@ -1,0 +1,20 @@
+FIRM         : SSD (CIK 0000920371) | FY2018
+FILE         : 0000920371_SSD_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 6. Trade Accounts Receivable, net
+ASSET CAT.   : equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Included in property, plant and equipment at December 31, 2018 and 2017 , are fully depreciated assets with an original cost of $196.8 million and $189.9 million , respectively. As of December 31, 2018 and 2017 , the Company had capitalized software development costs subject to amortization of $39.1 million and $20.5 million , respectively, and as of December 31, 2018 and 2017, $3.6 million and $12.2 million , respectively, included in capital projects in progress.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

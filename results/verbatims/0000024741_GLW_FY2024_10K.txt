@@ -1,0 +1,20 @@
+FIRM         : GLW (CIK 0000024741) | FY2024
+FILE         : 0000024741_GLW_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-12
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+The increase in segment net sales was primarily driven by continued strong adoption of AI-related connectivity solutions used in data centers in our Enterprise business.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In 2024, we began marking important milestones toward our Springboard plan – including the implementation of price increases in Display Technologies and growth in Optical Communications driven by increased demand for our new Generative AI products. And in the fourth quarter of 2024 compared to 2023 we grew quarterly sales while growing profit significantly faster, resulting in a strong close to the first year of Springboard.

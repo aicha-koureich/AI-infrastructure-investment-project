@@ -1,0 +1,23 @@
+FIRM         : GATX (CIK 0000040211) | FY2014
+FILE         : 0000040211_GATX_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 18 . Allowance for Losses
+ASSET CAT.   : furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+2014 2013 Inventory $ 52.0 $ 45.8 Office furniture, fixtures and other equipment, net of accumulated depreciation 34.1 34.9 Derivatives 11.5 6.0 Deferred financing costs 21.6 18.6 Assets held for sale 7.0 10.3 Other investments 6.0 6.9 Prepaid items 12.4 12.4 Prepaid pension — 32.9 Other 84.4 57.7 $ 229.0 $ 225.5
+
+[VERBATIM — Changement de politique]
+During the first quarter of 2014, we completed a review of the estimated useful lives used for our North American railcar fleet and determined that the economic service life of many of our railcars differed from the useful life currently used to calculate depreciation. As a result, effective January 1, 2014, we revised the estimated useful lives from a range of
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

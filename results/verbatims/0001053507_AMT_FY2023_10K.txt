@@ -1,0 +1,20 @@
+FIRM         : AMT (CIK 0001053507) | FY2023
+FILE         : 0001053507_AMT_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-08-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Number of Data Centers  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+(2) For the year ended December 31, 2023, primarily includes distributions related to the outstanding mandatorily convertible preferred equity in connection with our agreements with certain investment vehicles affiliated with Stonepeak Partners LP (such investment vehicles, collectively, “Stonepeak,” and the distributions, the “Stonepeak Preferred Distributions”) and common dividends payable to us and Stonepeak in proportion to our equity interests in our U.S. data center business (the “Stonepeak Common Dividend”). For the year ended December 31, 2023, the amount included for the Stonepeak Common Dividend was $91.7 million. ||| (2) For the year ended December 31, 2022, included $3.1 billion of contributions received in connection with Stonepeak’s acquisition of a noncontrolling ownership interest in our U.S. data center business. ||| For the year ended December 31, 2022, included $3.1 billion of contributions received in connection with Stonepeak’s acquisition of a noncontrolling ownership interest in our U.S. data center business.

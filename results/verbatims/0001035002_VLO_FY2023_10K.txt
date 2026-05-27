@@ -1,0 +1,23 @@
+FIRM         : VLO (CIK 0001035002) | FY2023
+FILE         : 0001035002_VLO_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-18
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF BUSINESS, BASIS OF PRESENTATION, AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The cost of property, plant, and equipment (property assets) purchased or constructed, including betterments of property assets, is capitalized. However, the cost of repairs to and normal maintenance of property assets is expensed as incurred. Betterments of property assets are those that extend the useful life, increase the capacity or improve the operating efficiency of the asset, or improve the safety of our operations. The cost of property assets constructed includes interest and certain overhead costs allocable to the construction activities.
+
+[VERBATIM — Changement de politique]
+The Jefferson ethanol plant was temporarily idled in 2020 at the onset of the COVID-19 pandemic in response to the decreased demand for ethanol resulting from the effects of the pandemic on our business, and we had previously evaluated this plant for potential impairment assuming that operations would resume. However, we completed an evaluation of the plant during the third quarter of 2021 and concluded that it was no longer a strategic asset for our ethanol business. The plant’s operations permanently ceased at that time and we reduced its estimated useful life, which reduced its net book value to estimated salvage value. The additional depreciation expense of $48 million for the year ended December 31, 2021 resulting from this change did not have a material impact on our results of operations nor was there a material impact to our financial position.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

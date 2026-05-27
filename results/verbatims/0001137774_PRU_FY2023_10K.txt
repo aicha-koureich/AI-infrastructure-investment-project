@@ -1,0 +1,23 @@
+FIRM         : PRU (CIK 0001137774) | FY2023
+FILE         : 0001137774_PRU_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SIGNIFICANT ACCOUNTING POLICIES AND PRONOUNCEMENTS
+ASSET CAT.   : equipment
+DURÉE        : 3.0-40.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are carried at cost less accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+2023 2022 2021 REVENUES Premiums (includes 2023-$323, 2022-$(377) and 2021-$(249) of gains (losses) from changes in estimates on deferred profit liability amortization)(1)(2) $ 27,364 $ 36,475 $ 33,950 Policy charges and fee income(1) 4,527 4,615 5,433 Net investment income 17,865 16,037 18,287 Asset management and service fees(2) 3,717 4,062 4,901 Other income (loss)(1)(2) 4,065 608 2,964 Realized investment gains (losses), net(1)(2) (3,615) (4,507) 2,115 Change in value of market risk benefits, net of related hedging gains (losses)(1) 56 (409) 3,597 Total revenues 53,979 56,881 71,247 BENEFITS AND EXPENSES Policyholders’ benefits(1)(2) 30,931 40,816 37,991 Change in estimates of liability for future policy benefits(1)(2) 337 654 (35) Interest credited to policyholders’ account balances(1) 3,983 2,193 3,431 Dividends to policyholders 1,069 198 2,874 Amortization of deferred policy acquisition costs(1) 1,459 1,433 1,482 Goodwill impairment 177 903 1,060 General and administrative expenses(1)(2) 12,951 12,576 13,609 Total benefits and expenses 50,907 58,773 60,412 INCOME (LOSS) BEFORE INCOME TAXES AND EQUITY IN EARNINGS OF OPERATING JOINT VENTURES 3,072 (1,892) 10,835 Total income tax expense (benefit)(1) 613 (279) 1,995 INCOME (LOSS) BEFORE EQUITY IN EARNINGS OF OPERATING JOINT VENTURES 2,459 (1,613) 8,840 Equity in earnings of operating joint ventures, net of taxes 49 (62) 98 NET INCOME (LOSS) 2,508 (1,675) 8,938 Less: Income (loss) attributable to noncontrolling interests 20 (28) 70 NET INCOME (LOSS) ATTRIBUTABLE TO PRUDENTIAL FINANCIAL, INC. $ 2,488 $ (1,647) $ 8,868 EARNINGS PER SHARE Basic earnings per share-Common Stock: Net income (loss) attributable to Prudential Financial, Inc. $ 6.76 $ (4.49) $ 22.56 Diluted earnings per share-Common Stock: Net income (loss) attributable to Prudential Financial, Inc. $ 6.74 $ (4.49) $ 22.40
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

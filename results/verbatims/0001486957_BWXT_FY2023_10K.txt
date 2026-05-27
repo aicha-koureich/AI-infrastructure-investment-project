@@ -1,0 +1,20 @@
+FIRM         : BWXT (CIK 0001486957) | FY2023
+FILE         : 0001486957_BWXT_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 – BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : buildings
+DURÉE        : 8.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We carry our property, plant and equipment at depreciated cost, less any impairment provisions. We depreciate our property, plant and equipment using the straight-line method over estimated economic useful lives of eight to 40 years for buildings and three to 14 years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

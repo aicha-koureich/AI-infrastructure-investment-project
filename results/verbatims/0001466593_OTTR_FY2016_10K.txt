@@ -1,0 +1,27 @@
+FIRM         : OTTR (CIK 0001466593) | FY2016
+FILE         : 0001466593_OTTR_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+OTP filed an update to its TCR rider on April 29, 2016 to incorporate
+the impact of bonus depreciation for income taxes, an adjusted rate of return on rate base and allocation factors to align with
+its 2016 general rate case request. On July 5, 2016 the MPUC issued an order approving the proposed rates on a provisional basis,
+as recommended by the MNDOC. The proposed rate changes went into effect on September 1, 2016. The MPUC has granted extensions to
+the MNDOC to file initial comments in this docket until February 2, 2017.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

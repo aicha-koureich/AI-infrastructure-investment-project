@@ -1,0 +1,20 @@
+FIRM         : LNC (CIK 0000059558) | FY2014
+FILE         : 0000059558_LNC_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Nature of Operations, Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment owned for company use is carried at cost less allowances for depreciation. Provisions for depreciation of investment real estate and property and equipment owned for company use are computed principally on the straight-line method over the estimated useful lives of the assets, which include buildings, computer hardware and software and other property and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

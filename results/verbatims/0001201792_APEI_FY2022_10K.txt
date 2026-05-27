@@ -1,0 +1,21 @@
+FIRM         : APEI (CIK 0001201792) | FY2022
+FILE         : 0001201792_APEI_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 5. Property and Equipment
+ASSET CAT.   : equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+As of December 31, Useful Life 2021 2022 (in thousands) Land — $ 8,952 $ 8,798 Building and building improvements 15 - 39 years 51,936 50,589 Leasehold improvements up to 15 years 30,342 37,157 Office equipment 5 years 1,139 1,461 Computer equipment 3 - 5 years 22,509 23,658 Furniture and fixtures 5 - 7 years 15,433 17,924 Other capital assets 5 years 168 168 Software development 3 - 5 years 79,088 74,314 Program development 3 years 11,062 11,631 220,629 225,700 Accumulated depreciation and amortization 118,212 124,808 $ 102,417 $ 100,892
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

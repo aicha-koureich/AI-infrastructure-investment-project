@@ -1,0 +1,20 @@
+FIRM         : BGS (CIK 0001278027) | FY2019
+FILE         : 0001278027_BGS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 28, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued a new ASU which clarifies that implementation costs incurred by customers in cloud computing arrangements are deferred if they would be capitalized by customers in software licensing arrangements under the internal-use software guidance. The update is effective for fiscal years beginning after December 15, 2019. Early adoption is permitted, including adoption in any interim period. Currently, we do not expect the adoption of this ASU to have a material impact to our consolidated financial statements.

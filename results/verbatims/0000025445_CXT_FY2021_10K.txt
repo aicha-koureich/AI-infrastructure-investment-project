@@ -1,0 +1,20 @@
+FIRM         : CXT (CIK 0000025445) | FY2021
+FILE         : 0000025445_CXT_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Nature of Operations and Significant Accounting Policies
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is stated at cost and depreciation is calculated by the straight-line method over the estimated useful lives of the respective assets, which range from 10 to 25 years for buildings and improvements and three to 10 years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : PODD (CIK 0001145197) | FY2016
+FILE         : 0001145197_PODD_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 12 . Property and Equipment, Net
+ASSET CAT.   : Machinery and equipment, equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful Life (Years) As of (in thousands) December 31, 2016 December 31, 2015 Machinery and equipment 2-5 $ 53,246 $ 49,059 Lab equipment 2-3 694 1,615 Computers 3 2,833 2,067 Software 3 3,786 2,566 Office furniture and fixtures 3-5 1,960 1,468 Leasehold improvement * 1,126 927 Construction in process — 24,137 12,275 Total property and equipment $ 87,782 $ 69,977 Less: accumulated depreciation (41,516 ) (28,184 ) Total property and equipment, net $ 46,266 $ 41,793
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

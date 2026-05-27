@@ -1,0 +1,21 @@
+FIRM         : TAP (CIK 0000024545) | FY2022
+FILE         : 0000024545_TAP_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-20
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 18, "Segment Reporting,"
+ASSET CAT.   : information technology, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 4.0 ans | 5.0 ans | 7.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+This line item additionally includes amortization costs associated with intangible assets, as well as certain depreciation costs related to non-production equipment and share-based compensation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Other current assets include prepaid assets, implementation costs incurred on cloud computing arrangements, maintenance and operating supplies, promotion materials and derivative assets that are expected to be recognized or realized within the next 12 months. Maintenance and operating supplies include our inventories of spare parts, which are kept on hand for repairs and maintenance of machinery and equipment. The majority of spare parts within our business include motors, fillers and other components that are required to maintain a normal level of production in the event that expected maintenance and/or repairs are required. These parts are inventoried within current assets as they are reasonably expected to be used during the normal operating cycle of the business and are reserved for excess and obsolescence, as appropriate. The allowance for obsolete supplies was $19.8 million and $18.3 million as of December 31, 2022, and December 31, 2021, respectively.

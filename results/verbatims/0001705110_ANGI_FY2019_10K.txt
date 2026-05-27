@@ -1,0 +1,24 @@
+FIRM         : ANGI (CIK 0001705110) | FY2019
+FILE         : 0001705110_ANGI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 15—Related Party Transactions with IAC
+ASSET CAT.   : capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-3.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+On an ongoing basis, the Company evaluates its estimates and judgments, including those related to: the fair values of cash equivalents and marketable debt securities; the carrying value of accounts receivable, including the determination of the allowance for doubtful accounts; the determination of revenue reserves; the carrying value of right-of-use assets ("ROU assets"); the useful lives and recoverability of definite-lived intangible assets and capitalized software, leasehold improvements and equipment; the recoverability of goodwill and indefinite-lived intangible assets; unrecognized tax benefits; the valuation allowance for deferred income tax assets; and the fair value of and forfeiture rates for stock-based awards, among others.
+
+[VERBATIM — Changement de politique]
+Year Ended December 31, 2019 Operating Income (Loss) Stock-Based Compensation Expense Depreciation Amortization of Intangibles Adjusted EBITDA (In thousands) North America $ 48,967 $ 67,646 $ 37,481 $ 54,098 $ 208,192 Europe (10,322 ) $ 609 $ 2,434 $ 1,384 $ (5,895 ) Operating income 38,645 Interest expense—third-party (11,493 ) Interest expense—related party (16 ) Other income, net 6,510 Earnings before income taxes 33,646 Income tax benefit 1,668 Net earnings 35,314 Net earnings attributable to noncontrolling interests (485 ) Net earnings attributable to ANGI Homeservices Inc. shareholders $ 34,829
+
+[VERBATIM — Infrastructure IA]
+The Company leases office space, data center facilities and equipment used in connection with its operations under various operating leases, the majority of which contain escalation clauses.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The purchase obligations primarily consist of payments for advertising commitments and the Company's allocable share of a three year cloud computing arrangement between IAC and a third party provider. For additional information on purchase obligations, see " Note 14—Commitments and Contingencies " to the consolidated and combined financial statements included in " Item 8. Consolidated and Combined Financial Statements and Supplementary Data ."

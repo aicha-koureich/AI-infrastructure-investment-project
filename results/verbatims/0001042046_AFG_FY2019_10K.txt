@@ -1,0 +1,23 @@
+FIRM         : AFG (CIK 0001042046) | FY2019
+FILE         : 0001042046_AFG_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+We obtained an understanding, evaluated the design, and tested the operating effectiveness of controls over the process for estimating amortization of annuity deferred policy acquisition costs. This included, among others, controls over the review and approval processes that management has in place for the assumptions used in measuring estimated gross profits. To test the amortization of deferred policy acquisition costs related to annuity contracts, our audit procedures included, among others, testing the completeness and accuracy of the data used to calculate the estimated gross profits through testing the reconciliation of the underlying data recorded in the source systems to the actuarial valuation models. With the assistance of our actuarial specialists, we evaluated the assumptions used by management in determining estimated gross profits with those used in prior periods. Also, with the assistance of our actuarial specialists, we compared significant assumptions, including expected investment yields and lapse rates, to prior actual experience and observable market data, and we evaluated management’s estimates of prospective changes in these assumptions. In addition, we performed an independent calculation of estimated and actual gross profits for a sample of product cohorts for comparison with the actuarial model used by management.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

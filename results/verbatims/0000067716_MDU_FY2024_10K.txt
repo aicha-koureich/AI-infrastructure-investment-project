@@ -1,0 +1,20 @@
+FIRM         : MDU (CIK 0000067716) | FY2024
+FILE         : 0000067716_MDU_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-13
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+System Supply, System Demand and Competition Through an interconnected electric system, Montana-Dakota serves markets in portions of North Dakota, Montana and South Dakota. These markets are highly seasonal and sales volumes depend largely on the weather. Additionally, the average customer consumption has tended to decline due to increases in energy efficient lighting and appliances being installed. In mid-2023 a data center began operating in the Company's service territory which led to an increase in sales volumes. As of December 31, 2024, the interconnected system consisted of 13 electric generating units at 10 facilities and two small portable diesel generators. Additional details are included in the table that  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

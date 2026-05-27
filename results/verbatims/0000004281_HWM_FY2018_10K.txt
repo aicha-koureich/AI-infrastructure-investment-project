@@ -1,0 +1,23 @@
+FIRM         : HWM (CIK 0000004281) | FY2018
+FILE         : 0000004281_HWM_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Also on January 1, 2018, the Company changed its primary measure of segment performance from Adjusted earnings before interest, tax, depreciation and amortization (“Adjusted EBITDA”) to Segment operating profit, which more closely aligns segment performance with Operating income as presented in the Statement of Consolidated Operations. See Note
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued guidance which requires cloud computing arrangement implementation costs to be accounted for in accordance with the software stage model, regardless of whether or not the cloud computing arrangement contains a license. Arconic adopted this guidance in the third quarter of 2018. The adoption of this guidance did not have a material impact on the Consolidated Financial Statements.

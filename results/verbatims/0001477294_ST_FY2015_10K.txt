@@ -1,0 +1,23 @@
+FIRM         : ST (CIK 0001477294) | FY2015
+FILE         : 0001477294_ST_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 18. Segment Reporting
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+An operating segment’s performance is primarily evaluated based on segment operating income, which excludes share-based compensation expense, restructuring and special charges, and certain corporate costs not associated with the operations of the segment, including amortization expense and a portion of depreciation expense associated with assets recorded in connection with acquisitions. In addition, an operating segment’s performance excludes results from discontinued operations, if any. Corporate costs excluded from an operating segment’s performance are separately stated below and also include costs that are related to functional areas such as finance, information technology, legal, and human resources. We believe that segment operating income, as defined above, is an appropriate measure for evaluating the operating performance of our segments. However, this measure should be considered in addition to, and not as a substitute for, or superior to, income from operations or other measures of financial performance prepared in accordance with U.S. GAAP. The accounting policies of each of our
+
+[VERBATIM — Changement de politique]
+Expenditures for maintenance and repairs are charged to expense as incurred, whereas major improvements that increase asset values and extend useful lives are capitalized.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

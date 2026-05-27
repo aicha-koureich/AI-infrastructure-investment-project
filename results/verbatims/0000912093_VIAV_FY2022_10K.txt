@@ -1,0 +1,20 @@
+FIRM         : VIAV (CIK 0000912093) | FY2022
+FILE         : 0000912093_VIAV_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-07-18
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Basis of Presentation
+ASSET CAT.   : equipment, machinery and equipment, furniture, office equipment
+DURÉE        : 2.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost, net of accumulated depreciation. Depreciation is computed using a straight-line method, over the estimated useful lives of the assets: building and improvements 10 to 50 years; machinery and equipment 2 to 20 years; and furniture, fixtures, software and office equipment 2 to 10 years.
+
+[VERBATIM — Infrastructure IA]
+During fiscal 2022, we experienced global supply chain disruptions, increased raw material costs, higher shipping-related charges, and inflationary pressures. Nevertheless, our ability to secure critical components, build inventory and meet customer demands has helped enable us to grow revenue and market share. We saw strong revenue growth in our NE business segment driven by fiber and wireless, as North American service providers upgraded and expanded their networks with fiber optic, and wireless demand increased in fiscal 2022. Our SE business segment also experienced an increase in revenue year over year as we saw strong growth in assurance solutions and data center products, in part due to increased market demand for 5G and growth in network traffic. Revenue from our OSP business segment did decrease, primarily driven by a decrease in demand for our consumer electronics and industrial products.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

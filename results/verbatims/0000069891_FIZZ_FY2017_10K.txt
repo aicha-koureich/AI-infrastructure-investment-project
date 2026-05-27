@@ -1,0 +1,20 @@
+FIRM         : FIZZ (CIK 0000069891) | FY2017
+FILE         : 0000069891_FIZZ_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : April 28, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 10. COMMITMENTS AND CONTINGENCIES We lease buildings, machinery and equipment under various non-cancelable operating lease agreements expiring at vari
+ASSET CAT.   : machinery and equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+10. COMMITMENTS AND CONTINGENCIES We lease buildings, machinery and equipment under various non-cancelable operating lease agreements expiring at various dates through 2029. Certain of these leases contain scheduled rent increases and/or renewal options. Contractual rent increases are taken into account when calculating the minimum lease payment and recognized on a straight-line basis over the lease term. Rent expense under operating lease agreements totaled $13.3 million for Fiscal 2018, $12.0 million for Fiscal 2017 and $9.2 million for Fiscal 2016. Our minimum lease payments under non-cancelable operating leases as of April 28, 2018 were as follows: (In thousands) Fiscal 2019 $ 9,182 Fiscal 2020 7,615 Fiscal 2021 5,241 Fiscal 2022 3,223 Fiscal 2023 1,656 Thereafter 1,531 Total minimum lease payments $ 28,448 We enter into various agreements with suppliers for the purchase of raw materials, the terms of which may include variable or fixed pricing and minimum purchase quantities. As of April 28, 2018, we had purchase commitments for raw materials of $11.2 million through 2022. As of April 28, 2018, we had purchase commitments for plant and equipment of $4.7 million for Fiscal 2019. From time to time, we are a party to various litigation matters and claims arising in the ordinary course of business. We do not expect the ultimate disposition of such matters to have a material adverse effect on our consolidated financial position or results of operations. 41 Table of Contents
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : IRM (CIK 0001020569) | FY2016
+FILE         : 0001020569_IRM_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We have selected October 1 as our annual goodwill impairment review date. We performed our annual goodwill impairment review as of October 1, 2014, 2015 and 2016, and concluded that goodwill was not impaired as of such dates. Our reporting units at which level we performed our goodwill impairment analysis as of October 1, 2016 were as follows: (1) North American Records and Information Management; (2) North American Secure Shredding; (3) North American Data Management; (4) Adjacent Businesses - Data Centers; (5) Adjacent Businesses - Consumer Storage; (6) Adjacent Businesses - Fine Arts; (7) Western Europe; (8) Northern and Eastern Europe; (9) Latin America; (10) Australia and New Zealand; (11) Southeast Asia; and (12) Africa and India. See Note 2.h. to Notes to Consolidated Financial Statements included in this Annual Report for a description of our reporting units.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

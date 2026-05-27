@@ -1,0 +1,23 @@
+FIRM         : SANM (CIK 0000897723) | FY2024
+FILE         : 0000897723_SANM_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-09-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : buildings
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is provided on a straight-line basis over 20 to 40 years for buildings and 3 to 15 years for machinery, equipment, furniture and fixtures.
+
+[VERBATIM — Changement de politique]
+Stock-based Compensation . The Company recognizes stock-based compensation expense, net of estimated forfeitures, on a straight-line basis over the requisite service period of the award, which generally ranges from one year to four years and/or upon achievement of specified performance criteria. Stock-based compensation expense for time-based and performance-based restricted stock awards is valued at the closing market price of the Company’s common stock on the date of grant. During the requisite service period, performance-based restricted stock awards are monitored by management for probability of achievement of performance goals and if it becomes probable that the number of awarded shares that will vest is greater than or less than the previous estimate of the number of awarded shares that will vest, an adjustment to stock-based compensation expense will be recognized as a change in accounting estimate. The Company recognizes stock-based compensation expense for market-based restricted stock units measured at fair value on the grant date using a Monte Carlo valuation model. The stock-based compensation expense for awards with market conditions will be recognized over the requisite service periods regardless of whether the market conditions are satisfied.
+
+[VERBATIM — Infrastructure IA]
+Year Ended September 28, 2024 September 30, 2023 October 1, 2022 (In thousands) Segments: IMS $ 6,033,867 $ 7,289,037 $ 6,378,324 CPS $ 1,534,461 $ 1,646,011 $ 1,541,298 Total $ 7,568,328 $ 8,935,048 $ 7,919,622 End Markets: Industrial, Medical, Defense and Aerospace, and Automotive $ 4,915,880 $ 5,388,877 $ 4,744,088 Communications Networks and Cloud Infrastructure $ 2,652,448 $ 3,546,171 $ 3,175,534 Total $ 7,568,328 $ 8,935,048 $ 7,919,622 Geography: Americas (1) $ 3,962,652 $ 4,426,690 $ 3,748,643 APAC (2) $ 2,558,073 $ 3,187,017 $ 3,007,904 EMEA $ 1,047,603 $ 1,321,341 $ 1,163,075 Total $ 7,568,328 $ 8,935,048 $ 7,919,622  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

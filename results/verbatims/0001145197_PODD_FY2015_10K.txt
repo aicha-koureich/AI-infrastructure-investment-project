@@ -1,0 +1,23 @@
+FIRM         : PODD (CIK 0001145197) | FY2015
+FILE         : 0001145197_PODD_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 9 . Inventories
+ASSET CAT.   : Machinery and equipment, equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful Life (Years) As of December 31, 2015 2014 Machinery and equipment 2-5 $ 49,059 $ 35,690 Lab equipment 2-3 1,615 1,585 Computers 3 2,067 4,511 Software 3 2,566 5,618 Office furniture and fixtures 3-5 1,468 1,253 Leasehold improvement * 927 826 Construction in process — 12,275 10,502 Total property and equipment $ 69,977 $ 59,985 Less: accumulated depreciation (28,184 ) (22,916 ) Total property and equipment $ 41,793 $ 37,069
+
+[VERBATIM — Changement de politique]
+, the Company entered into a development agreement with a U.S. based pharmaceutical company (the "Development Agreement”). Under the Development Agreement, the Company was required to perform design, development, regulatory, and other services to support the pharmaceutical company as it worked to obtain regulatory approval to use the Company’s drug delivery technology as a delivery method for its pharmaceutical. Over the term of the Development Agreement, the Company has invoiced amounts based upon meeting certain deliverable milestones. Revenue on the Development Agreement was recognized using a proportional performance methodology based on efforts incurred and total payments under the agreement. The impact of changes in the expected total effort or contract payments was recognized as a change in estimate using the cumulative catch-up method. The pharmaceutical company received regulatory approval and now purchases product from the Company for use with its pharmaceutical under a supply agreement. Product revenue under this arrangement is recognized at the time that all of the revenue recognition criteria are met, typically upon shipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

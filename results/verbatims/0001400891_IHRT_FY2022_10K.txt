@@ -1,0 +1,20 @@
+FIRM         : IHRT (CIK 0001400891) | FY2022
+FILE         : 0001400891_IHRT_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 4 –
+ASSET CAT.   : equipment, Computer equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In thousands) December 31, 2022 December 31, 2021 Land, buildings and improvements $ 340,692 $ 355,474 Towers, transmitters and studio equipment 215,655 180,571 Computer equipment and software 617,794 521,872 Furniture and other equipment 41,924 35,390 Construction in progress 29,091 64,732 1,245,156 1,158,039 Less: accumulated depreciation 550,314 375,946 Property, plant and equipment, net $ 694,842 $ 782,093
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

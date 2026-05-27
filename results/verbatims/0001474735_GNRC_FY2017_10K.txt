@@ -1,0 +1,20 @@
+FIRM         : GNRC (CIK 0001474735) | FY2017
+FILE         : 0001474735_GNRC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Increasing penetration opportunity. Many potential customers are still not aware of the costs and benefits of automatic backup power solutions. We estimate that penetration rates for home standby generators are only approximately 4.0% of U.S. single-family detached, owner-occupied households with a home value of over $100,000, as defined by the U.S. Census Bureau's 2015 American Housing Survey for the United States. The decision to purchase backup power for many light-commercial buildings such as convenience stores, restaurants and gas stations is more return-on-investment driven and as a result these applications have relatively lower penetration rates as compared to buildings used in code-driven or mission critical applications such as hospitals, wastewater treatment facilities, 911 call centers, data centers and certain industrial locations. The emergence of lower cost, cleaner burning natural gas fueled generators has helped to increase the penetration of standby generators over the past decade in the light-commercial market. In addition, the installed base of backup power for telecommunications infrastructure is still increasing due to the growing importance for uninterrupted voice and data services. We believe by expanding our distribution network, continuing to develop our product line, and targeting our marketing efforts, we can continue to build awareness and increase penetration for our standby generators for residential, commercial and industrial purposes.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

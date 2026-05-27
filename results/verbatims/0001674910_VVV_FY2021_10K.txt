@@ -1,0 +1,20 @@
+FIRM         : VVV (CIK 0001674910) | FY2021
+FILE         : 0001674910_VVV_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 7 - Subsequent Events
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Valvoline Inc. and Consolidated Subsidiaries Consolidated Statements of Cash Flows Years ended September 30 (In millions) 2021 2020 2019 Cash flows from operating activities Net income $ 420 $ 317 $ 208 Adjustments to reconcile to cash flows from operations Loss on extinguishment of debt 36 19 — Depreciation and amortization 92 66 61 Deferred income taxes 48 92 23 Pension contributions (5) (11) (10) (Gain) loss on pension and other postretirement plan remeasurements (72) (22) 69 Stock-based compensation expense 14 12 9 Other, net 4 (5) (5) Change in assets and liabilities Receivables (65) (11) (30) Inventories (53) (1) (10) Payables and accrued liabilities 95 (3) 37 Other assets and liabilities (110) (81) (27) Total cash provided by operating activities 404 372 325 Cash flows from investing activities Additions to property, plant and equipment (144) (151) (108) Notes receivable, net of repayments of $3 million in 2020 17 (31) (2) Acquisitions of businesses, net of cash acquired (282) (40) (78) Other investing activities, net 9 — — Total cash used in investing activities (400) (222) (188) Cash flows from financing activities Proceeds from borrowings 555 1,558 752 Payments of debt issuance costs and discounts (7) (16) (2) Repayments on borrowings (829) (929) (734) Premium paid to extinguish debt (26) (15) — Repurchases of common stock (127) (60) — Cash dividends paid (91) (84) (80) Other financing activities (11) (4) (7) Total cash (used in) provided by financing activities (536) 450 (71) Effect of currency exchange rate changes on cash, cash equivalents, and restricted cash 2 2 (3) (Decrease) increase in cash, cash equivalents and restricted cash (530) 602 63 Cash, cash equivalents and restricted cash - beginning of year 761 159 96 Cash, cash equivalents and restricted cash - end of year $ 231 $ 761 $ 159 Supplemental disclosures Interest paid $ 62 $ 65 $ 67 Income taxes paid $ 72 $ 44 $ 25
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

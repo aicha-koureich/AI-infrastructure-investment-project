@@ -1,0 +1,21 @@
+FIRM         : SUPN (CIK 0001356576) | FY2016
+FILE         : 0001356576_SUPN_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 17. Subsequent Events (Continued)
+ASSET CAT.   : Computer equipment
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Computer equipment 3 years Software 3 years Lab equipment and furniture 5 - 10 years Leasehold improvements Shorter of lease term or useful life
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : YUM (CIK 0001041061) | FY2020
+FILE         : 0001041061_YUM_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 – Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Additionally, from time-to-time we provide non-refundable consideration to franchisees in the form of cash or other incentives (e.g. cash payments to incent new unit openings, free or subsidized equipment, etc.). The Company’s intent in providing such consideration is to drive new unit development or same-store sales growth that will result in higher future revenues for the Company. Such payments are capitalized and presented within Prepaid expense and other current assets or Other assets. These assets are being amortized as a reduction in Franchise and property revenues over the period of expected cash flows from the franchise agreements to which the payment relates.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

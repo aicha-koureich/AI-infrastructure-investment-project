@@ -1,0 +1,37 @@
+FIRM         : DUK (CIK 0001326160) | FY2013
+FILE         : 0001326160_DUK_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1.
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at
+the lower of depreciated historical cost net of any disallowances or fair value,
+if impaired. Costs of renewals and betterments that extend the
+useful life of property, plant and equipment are also capitalized.
+
+[VERBATIM — Changement de politique]
+On
+April 19, 2013, Duke Energy Progress filed an application with FERC for
+acceptance of changes to generation depreciation rates and in August filed for
+acceptance of additional changes. These changes will affect the rates of Duke Energy
+Progress wholesale power customers that purchase or will purchase power under
+formula rates. Certain Duke Energy Progress wholesale customers filed
+interventions and protests. FERC accepted the depreciation rate changes, subject
+to refund, and set the matter for settlement and hearing in a consolidated
+proceeding. FERC further initiated an action with respect to the justness and
+reasonableness of the proposed rate changes. Duke Energy Progress cannot
+predict the outcome of this matter.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

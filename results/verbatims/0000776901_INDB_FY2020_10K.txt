@@ -1,0 +1,20 @@
+FIRM         : INDB (CIK 0000776901) | FY2020
+FILE         : 0000776901_INDB_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 6 BANK PREMISES AND EQUIPMENT
+ASSET CAT.   : equipment, computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense related to bank premises and equipment was $12.8 million, $11.4 million, and $9.1 million for the years ended December 31, 2020, 2019 and 2018, respectively, and is reflected in occupancy and equipment expenses. Depreciation expense relating to computer software is included within other noninterest expense.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

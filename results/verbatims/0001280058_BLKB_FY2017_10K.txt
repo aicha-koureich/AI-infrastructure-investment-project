@@ -1,0 +1,20 @@
+FIRM         : BLKB (CIK 0001280058) | FY2017
+FILE         : 0001280058_BLKB_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 10
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Qualifying capitalized software development costs are amortized on a straight-line basis over the software asset's estimated useful life, which is generally
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+AcademicWorks is the market leader in scholarship management for higher education and K-12 institutions, foundations, and grant-making institutions. Their cloud platform enables students to apply for all awards at an institution using one intuitive and streamlined process, while offering schools and awarding institutions a common platform for improved awarding, reporting, compliance, communication and stewardship of those awards.

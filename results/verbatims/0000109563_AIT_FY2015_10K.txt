@@ -1,0 +1,21 @@
+FIRM         : AIT (CIK 0000109563) | FY2015
+FILE         : 0000109563_AIT_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2015
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: NOTE 1: BUSINESS AND ACCOUNTING POLICIES
+ASSET CAT.   : software, generally not to exceed
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 12.0 ans
+
+[VERBATIM — Durée de vie]
+Buildings, building improvements and leasehold improvements are depreciated over ten to thirty years or the life of the lease if a shorter period, and equipment is depreciated over three to ten years. Amortization of software begins when it is ready for its intended use, and is computed on a straight-line basis over the estimated useful life of the software, generally not to exceed twelve years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

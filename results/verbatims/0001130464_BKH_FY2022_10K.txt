@@ -1,0 +1,20 @@
+FIRM         : BKH (CIK 0001130464) | FY2022
+FILE         : 0001130464_BKH_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-26
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Explore opportunities as an energy solutions provider. Another strategic initiative is to grow our business through creative energy solutions with new customers and partnerships. We see value creation by recruiting new customers and expanding existing partnerships with data centers and blockchain opportunities; exploring energy markets such as RTOs; and expanding our transmission capabilities. A few recent examples of our initiatives to grow our business through creative solutions include:  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Operations and maintenance expense increased due to $10.3 million of higher generation-related expenses primarily due to higher fuel and materials costs and increased royalties on higher mining revenues, $4.5 million of higher outside services expenses primarily driven by higher contractor and consultant rates, $3.4 million of increased property taxes due to an expiration of an abatement and a higher asset base driven by recent capital expenditures, $3.4 million of higher cloud computing licensing costs, and $1.1 million of increased bad debt expense primarily attributable to higher customer billings. ||| Operations and maintenance expense increased due to $11.6 million of higher outside services and materials expenses driven primarily by higher contractor and consultant fees, $5.0 million of increased bad debt expense primarily attributable to higher customer billings, $4.6 million of higher cloud computing licensing costs, $3.2 million of higher property taxes driven by a higher asset base on recent capital expenditures, $2.1 million of higher vehicle expense driven by higher fuel costs, $1.6 million of higher employee-related expenses and $1.2 million increased travel and training expenses. ||| Cash outflows increased $15.2 million from other operating activities primarily due to higher cloud computing licensing costs, increased payments on settled commodity derivatives and higher preliminary survey charges.

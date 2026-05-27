@@ -1,0 +1,20 @@
+FIRM         : WBS (CIK 0000801337) | FY2013
+FILE         : 0000801337_WBS_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 25: Subsequent Event
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, (In thousands) 2013 2012 Land $ 13,777 $ 15,281 Buildings and improvements 97,586 95,775 Leasehold improvements 74,127 73,253 Fixtures and equipment 70,819 69,530 Data processing and software 162,693 162,833 Total premises and equipment 419,002 416,672 Less accumulated depreciation and amortization (297,397 ) (282,110 ) Premises and equipment, net $ 121,605 $ 134,562
+
+[VERBATIM — Infrastructure IA]
+contracts related to the Company's data center co-location initiative (i.e. the migration of IT applications to third-party hosted data centers).  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

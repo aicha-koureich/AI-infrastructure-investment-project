@@ -1,0 +1,20 @@
+FIRM         : ONB (CIK 0000707179) | FY2018
+FILE         : 0000707179_ONB_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. An entity need not reassess initial direct costs for any existing leases.
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Years Ended December 31, (dollars in thousands) 2018 2017 2016 Cash Flows From Operating Activities Net income $ 190,830 $ 95,725 $ 134,264 Adjustments to reconcile net income to cash provided by operating activities: Depreciation 53 36 29 Net securities (gains) losses (49 ) (667 ) (100 ) Gain on sale of ONB Insurance Group, Inc. — — (41,864 ) Share-based compensation expense 8,118 6,275 7,318 (Increase) decrease in other assets 28,754 (24,005 ) (3,958 ) Increase (decrease) in other liabilities 3,147 3,968 (225 ) Equity in undistributed earnings of affiliates (110,318 ) (12,480 ) 27,201 Total adjustments (70,295 ) (26,873 ) (11,599 ) Net cash flows provided by (used in) operating activities 120,535 68,852 122,665 Cash Flows From Investing Activities Net cash and cash equivalents of acquisitions 8,281 (24,005 ) (100,220 ) Proceeds from sale of ONB Insurance Group, Inc. — — 91,771 Proceeds from sales of equity securities 128 127 — Purchases of investment securities (76 ) (62 ) (52 ) Net advances to affiliates — (250 ) (3,500 ) Proceeds from sale of premises and equipment 1,065 — — Purchases of premises and equipment (945 ) (612 ) (13 ) Net cash flows provided by (used in) investing activities 8,453 (24,802 ) (12,014 ) Cash Flows From Financing Activities Payments for maturities/redemptions of other borrowings — (19,856 ) — Cash dividends paid on common stock (82,161 ) (72,604 ) (67,536 ) Common stock repurchased (1,805 ) (2,761 ) (2,202 ) Proceeds from exercise of stock options 948 2,655 2,349 Common stock issued 497 404 388 Net cash flows provided by (used in) financing activities (82,521 ) (92,162 ) (67,001 ) Net increase (decrease) in cash and cash equivalents 46,467 (48,112 ) 43,650 Cash and cash equivalents at beginning of period 43,538 91,650 48,000 Cash and cash equivalents at end of period $ 90,005 $ 43,538 $ 91,650
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+FASB ASC 350 – In August 2018, the FASB issued ASU No. 2018-15, Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract . The amendments in this update align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The amendments in this update become effective for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years. Early adoption is permitted. Old National is currently evaluating the impact of adopting the new guidance on the consolidated financial statements. ||| Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract

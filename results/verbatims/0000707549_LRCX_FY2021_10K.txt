@@ -1,0 +1,21 @@
+FIRM         : LRCX (CIK 0000707549) | FY2021
+FILE         : 0000707549_LRCX_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-06-27
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3: Recent Accounting Pronouncements)
+ASSET CAT.   : Equipment, Furniture and fixtures
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Equipment is depreciated by the straight-line method over the estimated useful lives of the assets, generally three to five years. Software is amortized by the straight-line method over the estimated useful lives of the assets, generally three to five years.
+
+[VERBATIM — Infrastructure IA]
+Throughout the 2021 fiscal year, there was an increase in wafer fabrication equipment spending by semiconductor manufacturers, driven by the robust secular demand for semiconductors in a number of markets including high-performance computing, personal computers, and 5G networks. Customer demand was strong, and we continued to increase our production output levels as we operated under COVID-19-related safety protocols. While we have seen improvements in both our own operations and those of our  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

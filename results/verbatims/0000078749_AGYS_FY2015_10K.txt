@@ -1,0 +1,20 @@
+FIRM         : AGYS (CIK 0000078749) | FY2015
+FILE         : 0000078749_AGYS_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amortization of the capitalized software is classified within products cost of goods sold in the Consolidated Statements of Operations. For each capitalized software product, the annual amortization is equal to the greater of: (i) the amount computed using the ratio that the software product’s current fiscal year gross revenue bears to the total current fiscal year and anticipated future gross revenues for that product or (ii) the amount computed based on straight-line method over the remaining estimated economic life of the product, which is a range between
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

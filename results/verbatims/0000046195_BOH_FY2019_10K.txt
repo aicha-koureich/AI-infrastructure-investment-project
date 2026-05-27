@@ -1,0 +1,20 @@
+FIRM         : BOH (CIK 0000046195) | FY2019
+FILE         : 0000046195_BOH_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company’s lease financing arrangements, excluding leveraged leases, primarily consist of equipment and automobile leases. These lease arrangments are classified as sales-type leases despite not receiving a selling profit at lease inception. Sales-type leases are carried at the aggregate of lease payments receivable plus the estimated residual value of leased property, less unearned income. Leveraged leases are carried net of non-recourse debt. Unearned income on sales-type and leveraged leases is amortized over the lease term by methods that approximate the interest method. Residual values on leased assets are periodically reviewed for impairment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

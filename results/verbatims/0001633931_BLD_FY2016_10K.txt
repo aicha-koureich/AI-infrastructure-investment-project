@@ -1,0 +1,20 @@
+FIRM         : BLD (CIK 0001633931) | FY2016
+FILE         : 0001633931_BLD_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES Basis of Presentation. On June 30, 2015 (the “Effective Date”), Masco Corporation (“Masco” or the “Forme
+ASSET CAT.   : Equipment, Computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31, 2016 2015 Land and improvements $ 7,907 $ 7,950 Buildings 38,865 39,424 Equipment 88,472 85,217 Computer hardware and software 123,725 123,550 Company vehicles 34,668 36,988 293,637 293,129 Less: Accumulated depreciation (200,877) (200,063) Total property and equipment, net $ 92,760 $ 93,066
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

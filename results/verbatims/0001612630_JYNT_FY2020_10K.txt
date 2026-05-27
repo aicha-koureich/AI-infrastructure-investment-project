@@ -1,0 +1,21 @@
+FIRM         : JYNT (CIK 0001612630) | FY2020
+FILE         : 0001612630_JYNT_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1: Nature of Operations and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Internal use software is amortized on a straight-line basis over its estimated useful life, which is generally three to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The FASB issued in August 2018 an update to accounting guidance related to implementation costs incurred in a cloud computing arrangement that is a service contract. The update aligns the requirements for capitalizing implementation costs incurred under such arrangements with the requirements for capitalizing costs incurred to develop or obtain internal-use software. Accordingly, implementation costs incurred in connection with a cloud computing arrangement that is a service contract are capitalized and such costs were included in prepaid expenses in the Company’s Consolidated Balance Sheet.

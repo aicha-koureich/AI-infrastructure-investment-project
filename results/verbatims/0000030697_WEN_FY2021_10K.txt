@@ -1,0 +1,23 @@
+FIRM         : WEN (CIK 0000030697) | FY2021
+FILE         : 0000030697_WEN_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-03-06
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Depreciation and amortization of properties is computed principally on the straight-line basis using the following estimated useful lives of the related major classes of properties: 3 to 20 years for office and restaurant equipment (including technology), 3 to 15 years for transportation equipment and 7 to 30 years for buildings and improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cash provided by operating activities consists primarily of net income, adjusted for non-cash expenses such as depreciation and amortization, deferred income tax and share-based compensation, and the net change in operating assets and liabilities. Cash provided by operating activities was $345.8 million and $284.4 million in 2021 and 2020, respectively. The increase was primarily due to (1) higher net income, adjusted for non-cash expenses, (2) a cash payment of $24.7 million related to the settlement of the financial institutions class action in January 2020, (3) the timing of the collection of royalty receivables and (4) a decrease in payments for incentive compensation for the 2020 fiscal year paid in 2021. These increases were partially offset by (1) the timing of payments for marketing expenses of the national advertising funds, (2) an increase in cash paid for income taxes and (3) cash paid for cloud computing arrangements, primarily related to the Company’s ERP implementation. ||| In addition to the capital expenditures noted above, the Company expects to spend approximately $30.0 million in 2022 on cloud computing arrangements (“CCA”), primarily related to the Company’s ERP implementation. See Note 1 of the Financial Statements and Supplementary Data contained in Item 8 herein for further information related to our accounting policy for CCA.

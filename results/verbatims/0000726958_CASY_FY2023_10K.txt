@@ -1,0 +1,20 @@
+FIRM         : CASY (CIK 0000726958) | FY2023
+FILE         : 0000726958_CASY_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-04-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : software implementation costs range from
+DURÉE        : 2.0-13.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+These costs are expensed on a straight-line basis within operating expenses, typically over the contractual life of the related software. The useful lives utilized for capitalized software implementation costs range from 2-13 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : WOLF (CIK 0000895419) | FY2022
+FILE         : 0000895419_WOLF_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-08-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 6 – Financial Statement Details
+ASSET CAT.   : Machinery and equipment, Computer hardware, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Dollars) June 26, 2022 June 27, 2021 Machinery and equipment $1,167.3 $988.6 Land and buildings 407.4 383.9 Computer hardware/software 61.9 51.5 Furniture and fixtures 8.0 8.0 Leasehold improvements and other 11.0 9.6 Vehicles 0.6 0.7 Finance lease assets 10.3 15.5 Construction in progress 802.3 767.8 Property and equipment, gross 2,468.8 2,225.6 Accumulated depreciation (987.7) (933.3) Property and equipment, net $1,481.1 $1,292.3
+
+[VERBATIM — Changement de politique]
+As a result of the LED Business Divestiture and the Company's continued investment in 200mm technology, the Company evaluated the useful lives applied to certain machinery and equipment assets by considering industry standards and reviewing the assets' historical and estimated future use.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

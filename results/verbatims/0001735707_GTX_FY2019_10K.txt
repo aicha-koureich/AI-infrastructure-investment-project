@@ -1,0 +1,21 @@
+FIRM         : GTX (CIK 0001735707) | FY2019
+FILE         : 0001735707_GTX_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : software
+DURÉE        : 5.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment —Property, plant and equipment are recorded at cost less accumulated depreciation and amortization. For financial reporting, the straight-line method of depreciation is used over the estimated useful lives of 10 to 50 years for buildings and improvements, 2 to 16 years for machinery and equipment, 3 to 10 years for tooling equipment and 5 to 7 years for software.
+
+[VERBATIM — Infrastructure IA]
+We are in the process of installing and implementing information technology infrastructure to support certain of our business functions, including accounting and reporting, manufacturing process control, customer service, inventory control and distribution. We may incur substantially higher costs than currently anticipated as we transition from the existing transactional and operational systems and data centers we previously used as part of Honeywell. If we are unable to transition effectively, we may incur temporary interruptions in business operations. Any delay in implementing, or operational interruptions suffered while implementing, our new information technology infrastructure could disrupt our business and have a material adverse effect on our results of operations.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

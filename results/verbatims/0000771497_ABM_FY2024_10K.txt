@@ -1,0 +1,20 @@
+FIRM         : ABM (CIK 0000771497) | FY2024
+FILE         : 0000771497_ABM_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 8. PROPERTY, PLANT AND EQUIPMENT
+ASSET CAT.   : Equipment, Machinery, Computer equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment As of October 31, (in millions) 2024 2023 Machinery and other equipment $ 172.9 $ 170.7 Computer equipment and software 117.2 110.7 Transportation equipment 95.9 79.0 Leasehold improvements 85.5 69.3 Furniture and fixtures 22.1 19.8 Buildings 7.7 7.7 Land 0.7 0.8 502.0 458.0 Less: Accumulated depreciation (1) 351.3 326.5 Total $ 150.7 $ 131.5
+
+[VERBATIM — Infrastructure IA]
+Effective June 21, 2024, we acquired Quality Uptime Services, Inc. (“Quality Uptime”), an uninterrupted power supply system (“UPS”) installation and maintenance company providing customized preventive and emergency service programs for mission-critical data centers and other facilities, for a net cash purchase price of approximately $118.2 million (subject to customary working capital adjustments). The acquisition was accounted for under the acquisition method. Accordingly, the assets acquired and liabilities assumed were recognized on the date of acquisition at their estimated fair values, with the excess of the purchase price recorded as goodwill. The goodwill is amortizable over 15 years for income tax purposes. As of October 31, 2024, we recorded preliminary goodwill and intangibles of $80.6 million and $35.2 million, respectively. The total assets acquired, excluding goodwill and intangibles, and liabilities assumed amounted to $24.0 million and $21.6 million, respectively. The acquisition accounting is subject to change as we obtain additional information about the facts and circumstances that existed as of the acquisition date during the measurement period, not to exceed one year from the acquisition date. The final acquisition accounting may include changes to non-current assets, including intangible assets and working capital.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+At October 31, 2024 and 2023, other noncurrent assets primarily consisted of long-term insurance recoverables, cloud computing arrangements, capitalized commissions, interest rate swap assets, prepayments to carriers for future insurance claims, and insurance deposits.

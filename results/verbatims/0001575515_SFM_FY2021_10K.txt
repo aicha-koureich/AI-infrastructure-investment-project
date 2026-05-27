@@ -1,0 +1,21 @@
+FIRM         : SFM (CIK 0001575515) | FY2021
+FILE         : 0001575515_SFM_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 2, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Significant Accounting Policies Fiscal Years The Company reports its results of operations on a 52- or 53-week fiscal calendar ending on the Sunday
+ASSET CAT.   : Equipment, Computer hardware, Furniture
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Property and Equipment Property and equipment are stated at cost, net of accumulated depreciation and amortization. Terms of leases used in the determination of estimated useful lives may include renewal options if the exercise of the renewal option is determined to be reasonably certain. 64 The following table includes the estimated useful lives of certain of the Company’s asset classes: Computer hardware and software 3 to 5 years Furniture, fixtures and equipment 7 to 20 years Leasehold improvements up to 15 years Buildings 40 years Store development costs, which include costs associated with the selection and procurement of real estate sites, are also included in property and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

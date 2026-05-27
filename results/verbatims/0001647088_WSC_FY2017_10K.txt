@@ -1,0 +1,24 @@
+FIRM         : WSC (CIK 0001647088) | FY2017
+FILE         : 0001647088_WSC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 - Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : Blackwell (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-7.0 ans | 3.0-5.0 ans | 3.0-10.0 ans | 7.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Type Estimated Useful Life Buildings 10 – 40 years Machinery and equipment 3 – 10 years Furniture and fixtures 7 – 10 years Software 3 – 5 years
+
+[VERBATIM — Changement de politique]
+(b) Depreciation of rental equipment and non-rental depreciation were adjusted for the fair value mark-ups of equipment acquired in
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

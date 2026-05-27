@@ -1,0 +1,21 @@
+FIRM         : SBUX (CIK 0000829224) | FY2023
+FILE         : 0000829224_SBUX_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 1, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1: Summary of Significant Accounting Policies and Estimates
+ASSET CAT.   : equipment
+DURÉE        : 2.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-15.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is carried at cost less accumulated depreciation. Depreciation is computed using the straight-line method over estimated useful lives of the assets, generally ranging from 2 to 15 years for equipment and 30 to 40 years for buildings.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

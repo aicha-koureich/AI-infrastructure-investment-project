@@ -1,0 +1,22 @@
+FIRM         : NWSA (CIK 0001564708) | FY2013
+FILE         : 0001564708_NWSA_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SUMMARY OF
+SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : computer software, capitalized software
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amortization of capitalized software development costs begins when the product is available for general release to customers and is computed on a product-by-product basis at a rate not less than the
+straight-line method over the remaining estimated useful life of the product, generally five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

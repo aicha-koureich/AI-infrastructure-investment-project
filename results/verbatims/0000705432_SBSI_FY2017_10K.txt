@@ -1,0 +1,20 @@
+FIRM         : SBSI (CIK 0000705432) | FY2017
+FILE         : 0000705432_SBSI_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING AND REPORTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+years for equipment. Leasehold improvements are generally depreciated over the lesser of the term of the respective leases or the estimated useful lives of the improvements. Maintenance and repairs are charged to expense as incurred while major improvements and replacements are capitalized.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

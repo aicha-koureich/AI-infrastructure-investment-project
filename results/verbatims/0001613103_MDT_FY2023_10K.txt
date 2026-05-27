@@ -1,0 +1,20 @@
+FIRM         : MDT (CIK 0001613103) | FY2023
+FILE         : 0001613103_MDT_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-06-03
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 10. Property, Plant, and Equipment
+ASSET CAT.   : Equipment, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(in millions) April 26, 2024 April 28, 2023 Estimated Useful Lives (in years) Equipment $ 6,396 $ 6,707 Generally 2-10, up to 15 Computer software 2,872 2,952 Up to 10 Land and land improvements 159 162 Up to 20 Buildings and leasehold improvements 2,506 2,487 Up to 40 Construction in progress 2,119 1,754 — Property, plant, and equipment 14,052 14,062 Less: Accumulated depreciation (7,922) (8,493) Property, plant, and equipment, net $ 6,131 $ 5,569
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• Continued acceptance and growth from the Azure XT and Azure S SureScan pacing systems and the 3830 lead. ||| Continued acceptance and growth from the Azure XT and Azure S SureScan pacing systems and the 3830 lead.

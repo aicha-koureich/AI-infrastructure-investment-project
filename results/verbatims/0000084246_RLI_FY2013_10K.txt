@@ -1,0 +1,20 @@
+FIRM         : RLI (CIK 0000084246) | FY2013
+FILE         : 0000084246_RLI_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment and up to 30 years for buildings and improvements
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+PROPERTY AND EQUIPMENT: Property and equipment are presented at cost less accumulated depreciation and are depreciated on a straight-line basis for financial statement purposes over periods ranging from 3 to 10 years for equipment and up to 30 years for buildings and improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

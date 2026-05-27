@@ -1,0 +1,20 @@
+FIRM         : PPL (CIK 0000922224) | FY2022
+FILE         : 0000922224_PPL_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 21. Accumulated Other Comprehensive Income (Loss)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Also, the RIPUC directed RIE to submit prefiled testimony on the issue of its replacement of heating and pressure regulation facilities at the Wampanoag and Tiverton take stations and to address three issues, specifically: (i) a cost-benefit analysis arising from RIE's decision to take ownership of the reconstructed take station equipment; (ii) the potential that the benefits derived from the reconstruction and ownership transfer of the take station equipment will not be realized due to the future use of hydrogen or abandonment of the gas system; and (iii) the depreciation and accounting treatment of the reconstructed take station equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• The $30 million decrease in cash provided by other operating activities was driven primarily by an increase in non-current assets (primarily related to cloud computing and a decrease in medical claim payments). ||| The $30 million decrease in cash provided by other operating activities was driven primarily by an increase in non-current assets (primarily related to cloud computing and a decrease in medical claim payments).

@@ -1,0 +1,20 @@
+FIRM         : AVGO (CIK 0001730168) | FY2019
+FILE         : 0001730168_AVGO_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : November 3, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We are a global technology leader that designs, develops and supplies a broad range of semiconductor and infrastructure software solutions. We develop semiconductor devices with a focus on complex digital and mixed signal complementary metal oxide semiconductor based devices and analog III-V based products. We have a history of innovation and offer thousands of products that are used in end products such as enterprise and data center networking, home connectivity, set-top boxes, broadband access, telecommunication equipment, smartphones and base stations, data center servers and storage systems, factory automation, power generation and alternative energy systems, and electronic displays. Our infrastructure software solutions enable customers to plan, develop, automate, manage, and secure applications across mainframe, distributed, mobile, and cloud platforms.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

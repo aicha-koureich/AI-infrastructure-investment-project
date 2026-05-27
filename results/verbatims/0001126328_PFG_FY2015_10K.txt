@@ -1,0 +1,22 @@
+FIRM         : PFG (CIK 0001126328) | FY2015
+FILE         : 0001126328_PFG_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 12. Contingencies, Guarantees and Indemnifications — (continued)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We lease buildings and hardware storage equipment under capital leases. As of December 31, 2015 and 2014, these leases had a
+gross asset balance of $63.6 million and $61.3 million and accumulated depreciation of $29.9 million and $18.8 million, respectively. Depreciation expense for the years
+ended December 31, 2015, 2014 and 2013 was $14.1 million, $14.0 million and $10.8 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

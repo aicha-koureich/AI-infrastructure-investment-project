@@ -1,0 +1,20 @@
+FIRM         : INGR (CIK 0001046257) | FY2019
+FILE         : 0001046257_INGR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+As previously announced on October 15, 2019 and November 19, 2019, we detected suspicious activity affecting several servers within certain data centers on our network. Immediately, we took steps to identify and contain the situation, which included engaging a third-party consultant. We assessed the impact of the incident and did not identify any impact to our financial reporting systems nor any material impacts to our Key Financial Performance Metrics discussed below. We incurred immaterial costs to perform these necessary remediation efforts during the three months ended December 31, 2019. We are not aware of any evidence that any customer, supplier, or employee data has been improperly accessed, misused or transferred by any third party. The remediation work related to this incident was completed in December 2019.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,24 @@
+FIRM         : APEI (CIK 0001201792) | FY2016
+FILE         : 0001201792_APEI_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 16. Quarterly Financial Summary (unaudited)
+ASSET CAT.   : equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 7.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Useful Life 2015 2016 (in thousands) Land — $ 9,501 $ 9,394 Building and building improvements 27.5 - 39 years 58,429 54,541 Leasehold improvements up to 15 years 1,002 1,208 Office equipment 5 years 2,322 2,219 Computer equipment 3 years 25,179 22,492 Furniture and fixtures 7 years 8,124 8,036 Other capital assets 5 years 1,829 128 Software development 5 years 74,737 79,452 Program development 3 years 4,920 6,966 186,043 184,436 Accumulated depreciation and amortization 76,762 86,749 $ 109,281 $ 97,687
+
+[VERBATIM — Changement de politique]
+. The standard requires customers to determine whether a cloud computing arrangement contains a software license. If the arrangement contains a software license, customers must account for fees related to the software license element in a manner consistent with how the acquisition of other software licenses is accounted for under ASC 350-40; if the arrangement does not contain a software license, customers must account for the arrangement as a service contract. ASU 2015-05 was effective for the Company for the fiscal year ending December 31, 2016. The prospective adoption of this standard did not have a material impact on the Company’s Consolidated Financial Statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles-Goodwill and Other-Internal-Use Software, Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement (Subtopic 350-40) ||| . The standard requires customers to determine whether a cloud computing arrangement contains a software license. If the arrangement contains a software license, customers must account for fees related to the software license element in a manner consistent with how the acquisition of other software licenses is accounted for under ASC 350-40; if the arrangement does not contain a software license, customers must account for the arrangement as a service contract. ASU 2015-05 was effective for the Company for the fiscal year ending December 31, 2016. The prospective adoption of this standard did not have a material impact on the Company’s Consolidated Financial Statements. ||| In April 2015, the FASB issued ASU No. 2015-05, Intangibles-Goodwill and Other-Internal-Use Software, Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement (Subtopic 350-40) . The standard requires customers to determine whether a cloud computing arrangement contains a software license. If the arrangement contains a software license, customers must account for fees related to the software license element in a manner consistent with how the acquisition of other software licenses is accounted for under ASC 350-40; if the arrangement does not contain a software license, customers must account for the arrangement as a service contract. ASU 2015-05 was effective for the Company for the fiscal year ending December 31, 2016. The prospective adoption of this standard did not have a material impact on the Company’s Consolidated Financial Statements.

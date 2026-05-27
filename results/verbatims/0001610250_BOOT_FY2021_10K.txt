@@ -1,0 +1,21 @@
+FIRM         : BOOT (CIK 0001610250) | FY2021
+FILE         : 0001610250_BOOT_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 26, 2022
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies Basis of Presentation
+ASSET CAT.   : equipment is depreciated over
+DURÉE        : 5.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property and equipment is subject to depreciation and is recorded at cost less accumulated depreciation. Machinery and equipment is depreciated over five years. Software and vehicles are depreciated over five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

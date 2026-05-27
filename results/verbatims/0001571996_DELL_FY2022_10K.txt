@@ -1,0 +1,20 @@
+FIRM         : DELL (CIK 0001571996) | FY2022
+FILE         : 0001571996_DELL_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-02
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 3 — Subsequent Events
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Fiscal Year Ended February 3, 2023 January 28, 2022 January 29, 2021 Cash flows from operating activities: Net income $ 2,422 $ 5,707 $ 3,505 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 3,156 4,551 5,390 Stock-based compensation expense 931 1,622 1,609 Deferred income taxes (717) (365) (399) Other, net (a) 961 (3,130) (88) Changes in assets and liabilities, net of effects from acquisitions and dispositions: Accounts receivable 113 (2,193) (396) Financing receivables (461) (241) (728) Inventories 875 (2,514) (243) Other assets and liabilities 973 (1,948) (1,656) Due from/to related party, net 649 479 — Accounts payable (8,546) 5,742 1,598 Deferred revenue 3,209 2,597 2,815 Change in cash from operating activities 3,565 10,307 11,407 Cash flows from investing activities: Purchases of equity and other investments (94) (256) (162) Purchases of held-to-maturity investments (14) (158) (176) Maturities and sales of equity and other investments 116 513 169 Capital expenditures and capitalized software development costs (3,003) (2,796) (2,082) Acquisition of businesses and assets, net (70) (16) (424) Divestitures of businesses, net — 3,957 2,187 Other 41 62 28 Change in cash from investing activities (3,024) 1,306 (460) Cash flows from financing activities: Dividends paid by VMware, Inc. to non-controlling interests — (2,240) — Proceeds from the issuance of common stock 5 334 452 Repurchases of parent common stock (b) (3,272) (663) (241) Repurchases of subsidiary common stock (9) (1,175) (1,363) Net transfer of cash, cash equivalents, and restricted cash to VMware, Inc. — (5,052) — Payments of dividends to stockholders (964) — — Proceeds from debt 12,479 20,425 16,391 Repayments of debt (9,825) (26,723) (20,919) Debt-related costs and other, net (39) (1,515) (270) Change in cash from financing activities (1,625) (16,609) (5,950)
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

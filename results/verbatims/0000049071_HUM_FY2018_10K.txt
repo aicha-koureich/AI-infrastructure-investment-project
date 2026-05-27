@@ -1,0 +1,20 @@
+FIRM         : HUM (CIK 0000049071) | FY2018
+FILE         : 0000049071_HUM_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment is recorded at cost. Gains and losses on sales or disposals of property and equipment are included in operating costs. Certain costs related to the development or purchase of internal-use software are capitalized. Depreciation is computed using the straight-line method over estimated useful lives ranging from
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

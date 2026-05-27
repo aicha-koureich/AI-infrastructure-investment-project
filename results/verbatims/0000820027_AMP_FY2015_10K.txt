@@ -1,0 +1,20 @@
+FIRM         : AMP (CIK 0000820027) | FY2015
+FILE         : 0000820027_AMP_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-39.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Land , buildings, equipment and internally developed or purchased software are carried at cost less accumulated depreciation or amortization and are reflected within other assets. At December 31, 2015 and 2014 , land, buildings, equipment and software were $724 million and $667 million , respectively, net of accumulated depreciation of $1.6 billion and $1.4 billion , respectively. Capitalized lease assets, net of accumulated depreciation, are included in land, buildings, equipment and software, and capital lease obligations are included in long-term debt.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

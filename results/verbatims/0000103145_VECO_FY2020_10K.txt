@@ -1,0 +1,20 @@
+FIRM         : VECO (CIK 0000103145) | FY2020
+FILE         : 0000103145_VECO_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Sales in the Semiconductor market were driven by our laser annealing systems, lithography systems for Advanced Packaging, as well as Low Defect Density IBD systems for EUV Mask Blank Production. We continue to build momentum for our laser annealing solutions with advanced node logic customers. We recently announced that Veeco won an additional application with a leading manufacturer. We have evaluation systems at a DRAM manufacturer and are working with new and existing customers on their next manufacturing nodes. Our lithography systems for Advanced Packaging are aligned with longer-term growth of FOWLP and other Advanced Packaging applications. Additionally, the ongoing adoption of EUV Lithography for advanced node, semiconductor manufacturing continues to drive requirements for our mask blank systems. Overall, our technology and market strategy is well aligned with trends such as artificial intelligence, mobile connectivity and high performance computing that drive the Semiconductor market.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Sales in the Data Storage market have been growing for several years, primarily driven by shipments of Ion Beam systems for data storage applications. Demand for our Ion Beam products for data storage is being driven by big data and cloud-based storage growth. In order to be successful, hard disk drive manufacturers are required to improve areal density of magnetic heads for hard disk drives and are manufacturing drives with an increasing number of thin film magnetic heads. These two factors taken together, along with new innovations by HDD manufacturers such as heat assisted magnetic recording and microwave assisted magnetic recording, are driving additional capacity requirements and equipment upgrades. Additionally, recent trends in the work from home environment and the importance of cloud computing are also providing tailwinds to this market. We have good visibility in this market, which we believe will remain healthy through 2021.

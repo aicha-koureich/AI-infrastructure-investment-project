@@ -1,0 +1,21 @@
+FIRM         : IRDM (CIK 0001418819) | FY2020
+FILE         : 0001418819_IRDM_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies and Basis of Presentation
+ASSET CAT.   : Equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans | 5.0-7.0 ans | 12.5 ans
+
+[VERBATIM — Durée de vie]
+Satellites 12.5 years Ground system 5-7 years Equipment 3-5 years Internally developed software and purchased software 3-7 years Building 39 years Building improvements 5-39 years Leasehold improvements shorter of useful life or remaining lease term
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

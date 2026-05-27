@@ -1,0 +1,20 @@
+FIRM         : UONEK (CIK 0001041657) | FY2022
+FILE         : 0001041657_UONEK_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-06-02
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Our significant expenses are: (i) employee salaries and commissions; (ii) programming expenses; (iii) marketing and promotional expenses; (iv) rental of premises for office facilities and studios; (v) rental of transmission tower space; (vi) music license royalty fees; and (vii) content amortization. We strive to control these expenses by centralizing certain functions such as finance, accounting, legal, human resources and management information systems and, in certain markets, the programming management function. We also use our multiple stations, market presence and purchasing power to negotiate favorable rates with certain vendors and national representative selling agencies. In addition to salaries and commissions, major expenses for our internet business include membership traffic acquisition costs, software product design, post-application software development and maintenance, database and server support costs, the help desk function, data center expenses connected with internet service provider (“ISP”) hosting services and other internet content delivery expenses. Major expenses for our cable television business include content acquisition and amortization, sales and marketing.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

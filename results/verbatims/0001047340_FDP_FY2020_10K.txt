@@ -1,0 +1,21 @@
+FIRM         : FDP (CIK 0001047340) | FY2020
+FILE         : 0001047340_FDP_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-23
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies (continued)
+ASSET CAT.   : buildings
+DURÉE        : 3.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is calculated using the straight-line method over the estimated useful lives of the assets, which range from 10 to 40 years for buildings, five to 20 years for maritime and other equipment, including ships and containers, three to 20 years for machinery and equipment, three to seven years for furniture, fixtures and office equipment and five to 10 years for automotive equipment including automobiles, tractors, trailers and trucks.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In September 2018, the FASB issued ASU 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40), Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract. This ASU requires implementation costs incurred by customers in cloud computing arrangements (i.e., hosting arrangements) to be capitalized under the same premises of authoritative guidance for internal-use software and deferred over the non-cancellable term of the cloud computing arrangements plus any option renewal periods that are reasonably certain to be exercised by the customer or for which the exercise is controlled by the service provider. We adopted this ASU prospectively on the first day of our 2020 fiscal year. The adoption of this ASU did not have a material impact on our consolidated financial statements. ||| Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40), Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract. ||| This ASU requires implementation costs incurred by customers in cloud computing arrangements (i.e., hosting arrangements) to be capitalized under the same premises of authoritative guidance for internal-use software and deferred over the non-cancellable term of the cloud computing arrangements plus any option renewal periods that are reasonably certain to be exercised by the customer or for which the exercise is controlled by the service provider. We adopted this ASU prospectively on the first day of our 2020 fiscal year. The adoption of this ASU did not have a material impact on our consolidated financial statements.

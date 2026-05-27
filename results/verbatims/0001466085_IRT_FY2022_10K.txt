@@ -1,0 +1,20 @@
+FIRM         : IRT (CIK 0001466085) | FY2022
+FILE         : 0001466085_IRT_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-24
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: Summary of Significant Accounting Policies
+ASSET CAT.   : buildings and improvements
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense for real estate assets is computed using a straight-line method based on a life of 40 years for buildings and improvements and five to ten years for furniture, fixtures, and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : MCRI (CIK 0000907242) | FY2014
+FILE         : 0000907242_MCRI_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, less accumulated depreciation and amortization. Property and equipment is depreciated principally on a straight line basis over the estimated useful lives as follows:
+
+[VERBATIM — Changement de politique]
+In December 2013, the Company began construction of a new parking facility at the Monarch Casino Black Hawk. Upon completion of that new structure, the Company plans to demolish the existing parking structure. At December 31, 2013, the existing parking structure had a net book value of approximately $4.8 million and a remaining depreciable life of approximately 37 years. The new parking facility was estimated to be completed on March 31, 2015. In accordance with ASC 250-10-45-17, effective January 1, 2014, the Company modified the estimated depreciable life of the existing parking structure to 15 months; the period from January 1, 2014 through the estimated demolition commencement date of March 31, 2015. As a result of this modification to the estimated depreciable life, depreciation expense of the existing parking structure increased by approximately $0.3 million per month (approximately $0.2 million net of tax). In July 2014, because of a delayed construction schedule, the Company revised the new parking facility completion date to December 31, 2015. At this time, the existing parking structure had a net book value of approximately $2.9 million. The Company modified the estimated depreciable life of the existing parking structure to 18 months; the period from July 1, 2014 through the revised estimated demolition commencement date of December 31, 2015. As a result of this modification, the increase in depreciation expense was adjusted to $0.2 million per month (approximately $0.1 million net of tax) for the period from July 1, 2014 through December 31, 2015. For the twelve months ended December 31, 2014, the effect of this change in estimate was an increase of depreciation expense by $2.9 million, a decrease of net income by $1.9 million and a decrease of basic and diluted earnings per share by $0.11.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

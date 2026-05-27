@@ -1,0 +1,20 @@
+FIRM         : VIAV (CIK 0000912093) | FY2019
+FILE         : 0000912093_VIAV_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 29, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 11. Debt
+ASSET CAT.   : equipment, machinery and equipment, furniture, office equipment
+DURÉE        : 2.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost, net of accumulated depreciation. Depreciation is computed using a straight-line method, over the estimated useful lives of the assets: building and improvements 10 to 50 years, machinery and equipment 2 to 20 years, furniture, fixtures, software and office equipment 2 to 5 years.
+
+[VERBATIM — Infrastructure IA]
+SE net revenue decrease d by $15.1 million , or 12.7% , during fiscal 2019 compared to fiscal 2018 . This decrease was primarily driven by a decline in our Data Center customer demand and from the expected run-off in our Mature Assurance products due to a decline in support renewal contracts. This decrease was partially offset by an increase in our Growth Assurance product portfolio.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

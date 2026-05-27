@@ -1,0 +1,21 @@
+FIRM         : TMUS (CIK 0001283699) | FY2019
+FILE         : 0001283699_TMUS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 Summary of Significant Accounting Policies 62 Note 2 Business Combinations 74 Note 3 Receivables and Allowance for Credit Losses 76 Note 4 Sale
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 10.0 ans | 12.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in Property and equipment, net in our Consolidated Balance Sheets and are amortized on a straight-line basis over the estimated useful life of the asset.
+
+[VERBATIM — Infrastructure IA]
+Property and equipment consists of buildings and equipment, wireless communications systems, leasehold improvements, capitalized software, leased wireless devices and construction in progress. Buildings and equipment include certain network server equipment. Wireless communications systems include assets to operate our wireless network and IT data centers, including tower assets and leasehold improvements and assets related to the liability for the retirement of long-lived assets. Leasehold improvements include asset improvements other than those related to the wireless network.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| In August 2018, the FASB issued ASU 2018-15, “Intangibles - Goodwill and Other - Internal-Use Software (Topic 350): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract.” The standard aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. We will adopt the standard on a prospective basis beginning on the effective date of January 1, 2020. Upon adoption of the standard, implementation costs are capitalized in the period incurred, which will result in an increase to Other assets in our Consolidated Balance Sheets. These capitalized amounts will be amortized over the term of the hosting arrangement to Cost of services or Selling, general and administrative expenses in our Consolidated Statements of Comprehensive Income based on the nature of the hosting arrangement. The impact of this standard on our Consolidated Financial Statements is dependent on the nature and composition of the hosting arrangements entered into subsequent to adoption.

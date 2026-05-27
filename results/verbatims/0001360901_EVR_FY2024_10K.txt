@@ -1,0 +1,23 @@
+FIRM         : EVR (CIK 0001360901) | FY2024
+FILE         : 0001360901_EVR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-12-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+In addition, certain aspects of our cost structure, such as costs for occupancy and equipment rentals, communication and information technology services, and depreciation and amortization are largely fixed, and we may not be able to timely adjust these costs to match fluctuations in revenue.
+
+[VERBATIM — Changement de politique]
+We estimate forfeitures in the aggregate compensation cost to be amortized over the requisite service period of the awards. We periodically monitor our estimated forfeiture rate and adjust our assumptions to the actual occurrence of forfeited awards. A change in estimated forfeitures is recognized through a cumulative adjustment in the period of the change.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : LGIH (CIK 0001580670) | FY2020
+FILE         : 0001580670_LGIH_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : property and equipment
+DURÉE        : 30.0-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, building, software, computer equipment and leasehold improvements are stated at cost, less accumulated depreciation. Depreciation is generally computed using the straight-line method over the estimated useful lives of the assets, ranging from two to five years for property and equipment and 30 years for our building.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+On January 1, 2020, we adopted the Financial Accounting Standards Board (the “FASB”) Accounting Standards Update (“ASU”) No. 2018-15, “Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract” (“ASU 2018-15”), which requires entities that are customers in cloud computing arrangements to defer implementation costs if they would be capitalized by the entity in software licensing arrangements under the internal-use software guidance. ASU 2018-15 was effective for us beginning January 1, 2020. The guidance may be applied retrospectively or prospectively to implementation costs incurred after the date of adoption. The adoption of ASU 2018-15 did not have a material effect on our consolidated financial statements or disclosures. ||| “Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract” ||| (“ASU 2018-15”), which requires entities that are customers in cloud computing arrangements to defer implementation costs if they would be capitalized by the entity in software licensing arrangements under the internal-use software guidance. ASU 2018-15 was effective for us beginning January 1, 2020. The guidance may be applied retrospectively or prospectively to implementation costs incurred after the date of adoption. The adoption of ASU 2018-15 did not have a material effect on our consolidated financial statements or disclosures.

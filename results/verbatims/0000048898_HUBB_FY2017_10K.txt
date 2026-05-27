@@ -1,0 +1,21 @@
+FIRM         : HUBB (CIK 0000048898) | FY2017
+FILE         : 0000048898_HUBB_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 Business Acquisitions
+ASSET CAT.   : technology
+DURÉE        : 12.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0 ans | 12.0 ans
+
+[VERBATIM — Durée de vie]
+In the second quarter of 2017, the Company acquired all of the issued and outstanding limited liability company interests in iDevices, LLC ("iDevices") for $59.2 million . iDevices is a developer with embedded firmware and application development expertise with custom-built Internet of Things ("IoT") Cloud infrastructure. The iDevices acquisition adds capabilities and expertise in IoT technology that is required to provide Tier 3 energy management solutions via connected hardware with a software front-end. iDevices is reported in the Electrical segment. We have recognized intangible assets of $9.6 million and goodwill of $45.9 million as a result of this acquisition. The $9.6 million of intangible assets consists primarily of developed technology, customer relationships and trade names and will be amortized over a weighted average period of approximately 12 years. All of the goodwill is expected to be deductible for tax purposes.
+
+[VERBATIM — Infrastructure IA]
+. iDevices is a developer with embedded firmware and application development expertise with custom-built Internet of Things ("IoT") Cloud infrastructure. The iDevices acquisition adds capabilities and expertise in IoT technology that is required to provide Tier 3 energy management solutions via connected hardware with a software front-end. iDevices is reported in the Electrical segment. We have recognized intangible assets of  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

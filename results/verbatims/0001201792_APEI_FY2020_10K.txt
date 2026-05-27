@@ -1,0 +1,21 @@
+FIRM         : APEI (CIK 0001201792) | FY2020
+FILE         : 0001201792_APEI_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-03-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 5. Property and Equipment
+ASSET CAT.   : equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 7.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+As of December 31, Useful Life 2019 2020 (in thousands) Land — $ 9,244 $ 9,019 Building and building improvements 15 - 39 years 54,592 53,309 Leasehold improvements up to 15 years 1,536 1,569 Office equipment 5 years 911 587 Computer equipment 3 years 22,090 20,227 Furniture and fixtures 7 years 9,035 8,447 Other capital assets 5 years 128 150 Software development 5 years 87,774 89,320 Program development 3 years 13,103 13,370 198,413 195,998 Accumulated depreciation and amortization 119,918 127,564 $ 78,495 $ 68,434
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, FASB issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract , which amends ASC 350-40 to address a customer’s accounting for implementation costs incurred in a cloud computing arrangement that is a service contract. This ASU aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software or software licenses. The accounting for the service element of a hosting arrangement that is a service contract is not affected by this amendment. The guidance is effective for fiscal years beginning after December 15, 2019, including interim periods within those fiscal years. Early adoption was permitted. The Company adopted this standard effective January 1, 2020 using the prospective approach. The adoption of this standard did not have a material impact on its Consolidated Financial Statements. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract ||| , which amends ASC 350-40 to address a customer’s accounting for implementation costs incurred in a cloud computing arrangement that is a service contract.

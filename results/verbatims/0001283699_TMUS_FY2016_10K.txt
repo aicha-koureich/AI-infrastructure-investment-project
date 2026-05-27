@@ -1,0 +1,24 @@
+FIRM         : TMUS (CIK 0001283699) | FY2016
+FILE         : 0001283699_TMUS_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 4 – Property and Equipment
+ASSET CAT.   : network equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 7.0 ans | 12.0 ans
+
+[VERBATIM — Durée de vie]
+, respectively, as a result of adjustments to useful lives of network equipment expected to be replaced in connection with our network transformation and decommissioning the MetroPCS CDMA network and redundant network cell sites.
+
+[VERBATIM — Changement de politique]
+The corresponding assets, net of accumulated depreciation, related to asset retirement obligations were $258 million and $241 million as of December 31, 2016 and 2015 , respectively. For the year ended December 31, 2015 , we settled asset retirement obligations in connection with the decommissioning of certain cell sites. Due to new information gained throughout 2015 , primarily from decommissioning the MetroPCS CDMA network cell sites, we reassessed the expected cash flows related to its asset retirement obligations for all remaining T-Mobile network cell sites. As a result, we recorded asset retirement obligations and corresponding assets in the fourth quarter of 2015 to reflect the change in estimated cash flows.
+
+[VERBATIM — Infrastructure IA]
+Property and equipment consists of buildings and equipment, wireless communication systems, leasehold improvements, capitalized software, leased wireless devices and construction in progress. Buildings and equipment include certain network server equipment. Wireless communication systems include assets to operate our wireless network and IT data centers, including tower assets and leasehold improvements, assets related to the liability for the retirement of long-lived assets and capital leases. Leasehold improvements include asset improvements other than those related to the wireless network.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Upon conclusion of the 2014 Advanced Wireless Services (“AWS”) auction, we were awarded AWS spectrum licenses covering approximately 97 million people for an aggregate bid price of approximately $1.8 billion . ||| Upon conclusion of the 2014 Advanced Wireless Services (“AWS”) auction, we were awarded AWS spectrum licenses covering approximately

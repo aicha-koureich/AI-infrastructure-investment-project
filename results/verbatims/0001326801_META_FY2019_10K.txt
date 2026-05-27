@@ -1,0 +1,23 @@
+FIRM         : META (CIK 0001326801) | FY2019
+FILE         : 0001326801_META_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies
+ASSET CAT.   : server, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+These include expenses related to the operation of our data centers and technical infrastructure, such as facility and server equipment depreciation, salaries, benefits, and share-based compensation for employees on our operations teams, and energy and bandwidth costs.
+
+[VERBATIM — Changement de politique]
+The useful lives of our property and equipment are determined by management when those assets are initially recognized and are routinely reviewed for the remaining estimated useful lives.
+
+[VERBATIM — Infrastructure IA]
+Our cost of revenue consists primarily of expenses associated with the delivery and distribution of our products. These include expenses related to the operation of our data centers and technical infrastructure, such as facility and server equipment depreciation, salaries, benefits, and share-based compensation for employees on our operations teams, and energy and bandwidth costs. Cost of revenue also includes costs associated with partner arrangements, including traffic acquisition and content acquisition costs, credit card and other transaction fees related to processing customer transactions, and cost of consumer hardware devices sold.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

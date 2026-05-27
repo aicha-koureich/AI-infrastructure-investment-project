@@ -1,0 +1,25 @@
+FIRM         : KODK (CIK 0000031235) | FY2013
+FILE         : 0000031235_KODK_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1: BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Revenue allocated to the
+software deliverables is deferred and amortized over the contract period if VSOE does not exist for post-contract support or at the completion of the contract for non-post-contract support undelivered elements such as specified up-grade rights.
+
+[VERBATIM — Infrastructure IA]
+Digital Printing and Enterprise: The Digital Printing and
+Enterprise Segment serves a variety of customers in the creative, in-plant, data center, consumer printing, commercial printing, packaging, newspaper and digital service bureau market segments with a range of software, media and hardware products
+that provide customers with a variety of solutions. The Digital Printing and Enterprise Segment encompasses Digital Printing, including PROSPER equipment and STREAM technology, Packaging and Functional Printing which includes the FLEXCEL NX and
+FLEXCEL direct platforms, Enterprise Services & Solutions, and Consumer Inkjet Systems. On September 28, 2012, Kodak announced a plan, starting in 2013, to focus its Consumer Inkjet business solely on the sale of ink to its installed
+printer base.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

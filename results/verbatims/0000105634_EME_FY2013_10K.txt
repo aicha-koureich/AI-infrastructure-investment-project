@@ -1,0 +1,20 @@
+FIRM         : EME (CIK 0000105634) | FY2013
+FILE         : 0000105634_EME_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 18 - SELECTED UNAUDITED QUARTERLY INFORMATION
+ASSET CAT.   : Machinery and equipment, Furniture and fixtures, Computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2013 2012 Machinery and equipment $ 116,945 $ 105,559 Vehicles 49,296 45,340 Furniture and fixtures 22,036 21,353 Computer hardware/software 88,956 82,205 Land, buildings and leasehold improvements 78,796 69,564 356,029 324,021 Accumulated depreciation and amortization (232,615 ) (207,390 ) $ 123,414 $ 116,631
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

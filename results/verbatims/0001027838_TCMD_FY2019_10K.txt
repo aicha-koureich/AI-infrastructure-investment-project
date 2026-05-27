@@ -1,0 +1,20 @@
+FIRM         : TCMD (CIK 0001027838) | FY2019
+FILE         : 0001027838_TCMD_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost and are depreciated using the straight-line method over their estimated useful lives of three to seven years. Patient rental equipment is depreciated over the multiple month rental period.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, “Intangibles – Goodwill and Other – Internal-Use Software” (“ASU 2018-15”), which aligns the accounting for implementation costs incurred in a cloud computing arrangement that is a service contract with the guidance on capitalizing costs associated with developing or obtaining internal-use software. We early adopted this ASU effective January 1, 2019, and it did not have a material impact on the consolidated financial statements.

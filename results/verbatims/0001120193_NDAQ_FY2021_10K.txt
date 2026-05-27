@@ -1,0 +1,20 @@
+FIRM         : NDAQ (CIK 0001120193) | FY2021
+FILE         : 0001120193_NDAQ_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-03-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Occupancy expense increased in 2021 compared with 2020 due to our acquisition of Verafin and higher data center costs.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+• Purchase obligations primarily represent minimum outstanding obligations due under software license agreements. The balance as of December 31, 2021 is primarily comprised of our multi-year AWS partnership contract, which replaces our previous shorter term contracts, including those with no minimum spend commitment, and is not expected to increase our overall spend footprint with AWS over the life of the contract, based on projected growth and expansion of our existing AWS-based solutions. ||| Purchase obligations primarily represent minimum outstanding obligations due under software license agreements. The balance as of December 31, 2021 is primarily comprised of our multi-year AWS partnership contract, which replaces our previous shorter term contracts, including those with no minimum spend commitment, and is not expected to increase our overall spend footprint with AWS over the life of the contract, based on projected growth and expansion of our existing AWS-based solutions.

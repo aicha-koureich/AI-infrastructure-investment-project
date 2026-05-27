@@ -1,0 +1,20 @@
+FIRM         : MPC (CIK 0001510295) | FY2016
+FILE         : 0001510295_MPC_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued an accounting standard update clarifying whether a customer should account for a cloud computing arrangement as an acquisition of a software license or as a service arrangement by providing characteristics that a cloud computing arrangement must have in order to be accounted for as a software license acquisition. The change was effective for fiscal years and interim periods within those fiscal years beginning after December 15, 2015. Retrospective or prospective application is allowed. We adopted this accounting standard update prospectively in the first quarter of 2016 and it did not have a material impact on our consolidated financial statements.

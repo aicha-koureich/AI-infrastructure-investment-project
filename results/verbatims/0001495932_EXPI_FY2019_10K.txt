@@ -1,0 +1,23 @@
+FIRM         : EXPI (CIK 0001495932) | FY2019
+FILE         : 0001495932_EXPI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 6. FAIR VALUE MEASUREMENT The following table summarizes the Company’s assets and liabilities measured at fair value on a recurring basis as of Decemb
+ASSET CAT.   : EQUIPMENT, Computer hardware, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+PROPERTY, PLANT AND EQUIPMENT, NET Property, plant and equipment, net consisted of the following: As of December 31, 2019 2018 Computer hardware and software $ 8,431,195 $ 3,925,129 Furniture, fixture and equipment 20,480 5,910 Total depreciable property and equipment 8,451,675 3,931,039 Less: accumulated depreciation and amortization (3,377,807) (1,320,103) Depreciable property, net 5,073,868 2,610,936 Assets under development 354,284 128,589 Property, plant and equipment, net $ 5,428,152 $ 2,739,525
+
+[VERBATIM — Changement de politique]
+Maintenance and repairs are expensed as incurred. Expenditures that substantially increase an asset’s useful life or improve an asset’s functionality are capitalized.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

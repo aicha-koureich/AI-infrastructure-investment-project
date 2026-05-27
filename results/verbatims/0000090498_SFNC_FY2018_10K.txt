@@ -1,0 +1,20 @@
+FIRM         : SFNC (CIK 0000090498) | FY2018
+FILE         : 0000090498_SFNC_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract ||| (“ASU 2018-15”), that amends the definition of a hosting arrangement and requires a customer in a hosting arrangement that is a service contract to capitalize certain implementation costs as if the arrangement was an internal-use software project. The internal-use software guidance states that only qualifying costs incurred during the application development stage can be capitalized. The effective date is for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years, with early adoption permitted. Entities have the option to apply the guidance prospectively to all implementation costs incurred after the date of adoption or retrospectively in accordance with the applicable guidance. At the time of adoption, entities will be required to disclose the nature of its hosting arrangements that are service contracts and provide disclosures as if the deferred implementation costs were a separate, major depreciable asset class. The Company is beginning to evaluate its cloud computing arrangements and has not yet determined how it will apply or the impact of this new standard.

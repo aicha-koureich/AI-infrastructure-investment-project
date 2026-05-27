@@ -1,0 +1,20 @@
+FIRM         : FOXA (CIK 0001754301) | FY2022
+FILE         : 0001754301_FOXA_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-08-10
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : buildings and leaseholds
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is provided using the straight-line method over an estimated useful life of three to 40 years for buildings and leaseholds and three to 10 years for machinery and equipment. In those cases where the Company determines that the estimated useful life of property, plant and equipment should be shortened, the Company depreciates the asset over its revised remaining useful life, thereby increasing depreciation expense.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : EXP (CIK 0000918646) | FY2020
+FILE         : 0000918646_EXP_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-03-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+The pro forma results include estimates for depreciation from the fair value adjustments to acquired Property and Equipment, amortization for acquired Intangible Assets, the Inventory step-up to fair value, and interest expense associated with debt used to fund the Kosmos Acquisition.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

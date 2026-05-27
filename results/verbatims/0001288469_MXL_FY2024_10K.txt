@@ -1,0 +1,20 @@
+FIRM         : MXL (CIK 0001288469) | FY2024
+FILE         : 0001288469_MXL_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We are a provider of communications SoCs used in broadband, mobile and wireline infrastructure, data center, and industrial and multi-market applications. We are a fabless integrated circuit design company whose products integrate all or substantial portions of a high-speed communication system, including RF, high-performance analog, mixed-signal, digital signal processing, security engines, data compression and networking layers, and power management. In most cases, these products are designed on a single silicon-die, using standard digital CMOS manufacturing processes and conventional packaging technologies. Importantly, our ability to design analog and mixed-signal circuits in CMOS allows us to efficiently combine analog functionality and complex digital signal processing logic in the same integrated circuit. As a result, we believe our solutions have exceptional levels of functional integration and performance, low manufacturing cost, and reduced power consumption versus competition. These solutions also enable shorter design cycles, significant design flexibility and low system-level cost across a range of markets.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

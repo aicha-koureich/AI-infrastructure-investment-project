@@ -1,0 +1,20 @@
+FIRM         : BRKR (CIK 0001109354) | FY2013
+FILE         : 0001109354_BRKR_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 22—Quarterly Financial Data (Unaudited)
+ASSET CAT.   : Machinery, equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2013 2012 Land $ 34.9 $ 33.8 Building and leasehold improvements 301.7 271.9 Machinery, equipment, software and furniture and fixtures 362.6 337.3 ​ ​ ​ ​ ​ ​ ​ ​ 699.2 643.0 Less accumulated depreciation and amortization (399.7 ) (359.4 ) ​ ​ ​ ​ ​ ​ ​ ​ Property, plant and equipment, net $ 299.5 $ 283.6 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

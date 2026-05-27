@@ -1,0 +1,21 @@
+FIRM         : NWSA (CIK 0001564708) | FY2022
+FILE         : 0001564708_NWSA_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-08-12
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 7. PROPERTY, PLANT AND EQUIPMENT
+ASSET CAT.   : Machinery and equipment, Capitalized software, equipment
+DURÉE        : 2.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-15.0 ans | 5.0-10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Original Useful Lives As of June 30, 2022 2021 (in millions) Land $ 120 $ 131 Buildings and leaseholds 3 to 50 years 1,478 1,692 Digital set top units and installations 5 to 10 years 1,109 1,151 Machinery and equipment 2 to 20 years 1,278 1,809 Capitalized software 2 to 15 years 1,707 1,632 Finance lease right-of-use assets 15 years 124 138 5,816 6,553 Less: accumulated depreciation and amortization (a) (3,933) (4,460) 1,883 2,093 Construction in progress 220 179 Total Property, plant and equipment, net $ 2,103 $ 2,272
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In accordance with ASC 350-24, “Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract,” the Company evaluates upfront costs, including implementation, set-up or other costs (collectively, “implementation costs”), for hosting arrangements under the internal-use software framework. Costs related to preliminary project activities and post implementation activities are expensed as incurred, whereas costs incurred in the development stage are generally capitalized as prepaid assets within Other Current Assets in the Balance Sheet. Capitalized implementation costs are amortized on a straight-line basis over the expected term of the hosting arrangement, which includes consideration of the non-cancellable contractual term and reasonably certain renewals. Amortization of capitalized implementation costs is included in the same line item in the Statements of Operations as the expense for fees for the associated hosting arrangement.

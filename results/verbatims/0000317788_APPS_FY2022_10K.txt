@@ -1,0 +1,24 @@
+FIRM         : APPS (CIK 0000317788) | FY2022
+FILE         : 0000317788_APPS_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4— Segment Inform ation
+ASSET CAT.   : Capitalized software
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs, whether for software developed to be sold, leased, or otherwise marketed or for internal use, are generally amortized over a 3-year useful life.
+
+[VERBATIM — Changement de politique]
+During the fiscal years ended March 31, 2023, 2022, and 2021, the Company recorded amortization expense of $64,608, $48,420, and $2,782, respectively, in general and administrative expenses on the consolidated statements of operations and comprehensive income (loss). As of March 31, 2022, the Company changed the useful lives of all its trade names intangible assets to approximately 3.33 years due to the rebranding of the Company’s past acquisitions.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

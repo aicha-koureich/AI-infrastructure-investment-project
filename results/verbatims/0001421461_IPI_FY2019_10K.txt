@@ -1,0 +1,20 @@
+FIRM         : IPI (CIK 0001421461) | FY2019
+FILE         : 0001421461_IPI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 — SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+cash flows, and useful lives of plant assets can affect various other items including depletion, the net carrying value of our mineral properties, the useful lives of related property, plant, and equipment, depreciation expense, and estimates associated with recoverability of long-lived assets and asset retirement obligations.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

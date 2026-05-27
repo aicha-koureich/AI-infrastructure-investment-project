@@ -1,0 +1,21 @@
+FIRM         : BTSG (CIK 0001865782) | FY2024
+FILE         : 0001865782_BTSG_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Significant Accounting Policies
+ASSET CAT.   : equipment and software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-15.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is recorded using the straight-line method over the estimated useful lives of the assets (generally, three to ten years for equipment and software and twenty years for buildings).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Other assets consist of the following (in thousands): December 31, 2024 December 31, 2023 Deposits $ 8,788 $ 7,137 Notes receivable 8,577 7,840 Insurance recoveries 7,564 8,509 Cloud computing 7,362 9,453 Deferred debt issuance costs 2,470 3,349 Equity method investments 670 720 Interest rate swaps — 24,947 Deferred offering costs — 3,850 Other assets 9,040 7,033 Total other assets $ 44,471 $ 72,838 Accrued expenses consist of the following (in thousands): December 31, 2024 December 31, 2023 Wages and payroll taxes $ 139,417 $ 127,707 Compensated absences 34,263 32,085 Checks in excess of cash balance 27,643 9,018 Automobile insurance reserves 21,353 27,381 Workers compensation insurance reserves 19,966 22,480 Health insurance reserves 14,934 13,452 Legal settlements and professional fees 13,982 114,677 Deferred revenue 11,001 30,848 Taxes other than income taxes 10,325 9,305 Interest 8,779 3,125 General and professional liability insurance reserves 8,328 22,738 Contingent consideration 3,136 2,650 Recoupment fees 536 36,071 Other 42,875 40,826 Total accrued expenses $ 356,538 $ 492,363 Long-term liabilities consist of the following (in thousands): December 31, 2024 December 31, 2023 Workers compensation insurance reserves $ 25,360 $ 30,514 General and professional liability insurance reserves 21,182 28,350 Automobile insurance reserves 9,034 8,526 Contingent consideration 5,250 2,681 Employee incentives 3,993 5,189 Deferred gain 764 1,346 Legal settlements and professional fees — 10,000 Other 6,176 5,337 Total long-term liabilities $ 71,759 $ 91,943

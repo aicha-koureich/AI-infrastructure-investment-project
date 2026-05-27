@@ -1,0 +1,20 @@
+FIRM         : JBL (CIK 0000898293) | FY2021
+FILE         : 0000898293_JBL_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-08-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Net revenue increased during the fiscal year ended August 31, 2021 compared to the fiscal year ended August 31, 2020. Specifically, the DMS segment net revenue increased 17% due to: (i) a 6% increase in revenues from existing customers within our mobility business as our ability to meet customer demand during the fiscal year ended August 31, 2020, was greatly diminished due to COVID-19 containment efforts in China, (ii) a 4% increase in revenues from existing customers within our connected devices business, (iii) a 4% increase in revenues from existing customers in our automotive and transportation business and (iv) a 3% increase in revenues from existing customers within our healthcare and packaging businesses. The EMS segment net revenue decreased 1% due primarily to a decrease in revenues from existing customers in our cloud business, which began transitioning to a consignment model in fiscal year 2021. ||| Net revenue increased during the fiscal year ended August 31, 2020 compared to the fiscal year ended August 31, 2019. Specifically, the EMS segment revenues increased 9% primarily due to (i) a 10% increase in revenues from existing customers within our 5G, wireless and cloud business and (ii) a 3% increase in revenues from existing customers within our industrial and capital equipment business. The increase is partially offset by (i) a 2% decrease from existing customers within our networking and storage business and (ii) a 2% decrease in revenues from existing customers within our digital print and retail business. DMS segment revenues increased 7% due to (i) an 8% increase in revenues from new and existing customers in our healthcare and packaging businesses and (ii) a 1% increase in revenues from existing customers in our automotive and transportation business. The increase is partially offset by a 2% decrease in revenue from customers within our connected devices business.

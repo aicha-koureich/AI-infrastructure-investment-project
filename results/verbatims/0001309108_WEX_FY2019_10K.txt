@@ -1,0 +1,20 @@
+FIRM         : WEX (CIK 0001309108) | FY2019
+FILE         : 0001309108_WEX_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, equipment and capitalized software are stated at cost, net of accumulated depreciation and amortization. Depreciation and amortization for all other property, equipment and capitalized software is primarily computed using the straight-line method over the estimated useful lives shown below for all periods presented in these consolidated financial statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+(f) Other - Includes amounts due under the Company’s tax receivable agreement, cloud platform services agreement, operating leases for vehicles and equipment, minimum spend commitments toward information technology contracts and liquidated damages due if the Company were to cancel certain contracts negotiated with hotels for future years’ conferences and events. See Item 8 - Note 17, Tax Receivable Agreement, for more information regarding the tax receivable agreement. ||| - Includes amounts due under the Company’s tax receivable agreement, cloud platform services agreement, operating leases for vehicles and equipment, minimum spend commitments toward information technology contracts and liquidated damages due if the Company were to cancel certain contracts negotiated with hotels for future years’ conferences and events. See Item 8 - Note 17, Tax Receivable Agreement, for more information regarding the tax receivable agreement.

@@ -1,0 +1,21 @@
+FIRM         : DOCU (CIK 0001261333) | FY2020
+FILE         : 0001261333_DOCU_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-07-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 5. Recognition of the revenue when, or as, we satisfy a performance obligation
+ASSET CAT.   : technology, equipment, server
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+“Subscription” cost of revenue primarily consists of personnel and related costs to support our software suite, amortization expense associated with capitalized internally-developed software and technology-related intangible assets, property and equipment depreciation, allocated overhead expenses, merchant processing fees and server hosting costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

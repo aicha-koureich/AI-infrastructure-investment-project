@@ -1,0 +1,20 @@
+FIRM         : HELE (CIK 0000916789) | FY2013
+FILE         : 0000916789_HELE_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 28, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+These assets are stated at cost, or in the case of assets recorded through acquisition, their fair values when they were acquired. Depreciation is recorded on a straight-line basis over the estimated useful lives of the assets. Expenditures for repair and maintenance of property and equipment are expensed as incurred. For tax purposes, accelerated depreciation methods are used where allowed by tax laws.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

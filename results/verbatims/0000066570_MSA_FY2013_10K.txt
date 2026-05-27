@@ -1,0 +1,20 @@
+FIRM         : MSA (CIK 0000066570) | FY2013
+FILE         : 0000066570_MSA_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 21—Subsequent Event
+ASSET CAT.   : machinery and equipment, equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is computed using straight-line and accelerated methods over the estimated useful lives of the assets, generally as follows: buildings 20 to 40 years and machinery and equipment 3 to 10 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

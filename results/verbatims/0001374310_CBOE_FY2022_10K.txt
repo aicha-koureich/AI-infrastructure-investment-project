@@ -1,0 +1,20 @@
+FIRM         : CBOE (CIK 0001374310) | FY2022
+FILE         : 0001374310_CBOE_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment, net is stated at cost less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+The Company currently leases office space, data centers, remote network operations centers, and equipment under non-cancelable operating leases with third parties as of December 31, 2022. Certain leases include one or more options to renew , with renewal terms that can extend the lease term from one to five years or more, and some of which include the Company’s option to terminate the leases within one year . During the year ended December 31, 2022, $24.4 million of  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Technology support services costs increased for the year ended December 31, 2022 compared to the year ended December 31, 2021, primarily due to increases in technology support services, including software maintenance support service fees, software licenses and subscriptions, cloud services, and hardware maintenance, partially offset by a decrease in purchased hardware and equipment and purchased software.

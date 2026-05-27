@@ -1,0 +1,43 @@
+FIRM         : BHE (CIK 0000863436) | FY2016
+FILE         : 0000863436_BHE_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+All share-based payments to employees, including grants of
+employee stock options, are recognized in the financial statements based on
+their grant date fair values. The total compensation cost recognized for
+stock-based awards was $5.3 million, $7.7 million and $6.4 million for 2016,
+2015 and 2014, respectively. The total income tax benefit recognized in the
+income statement for stock-based awards was $1.1 million, $3.1 million and
+$2.6 million for 2016, 2015 and 2014, respectively. The compensation
+expense for stock-based awards includes an estimate for forfeitures and is
+recognized over the vesting period of the awards using the straight-line
+method. Cash flows from the tax benefits resulting from tax deductions in
+excess of the compensation cost recognized for stock-based awards (excess tax
+benefits) are classified as cash flows from financing activities. Awards of
+restricted shares, restricted stock units and performance-based restricted
+stock units are valued at the closing market price of the Company’s common shares
+on the date of grant. For performance-based restricted stock units,
+compensation expense is based on the probability that the performance goals
+will be achieved, which is monitored by management throughout the requisite
+service period. When it becomes probable, based on the Company’s expectation of
+performance during the measurement period, that more or less than the previous
+estimate of the awarded shares will vest, an adjustment to stock-based
+compensation expense is recognized as a change in accounting estimate.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

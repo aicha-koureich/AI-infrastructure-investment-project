@@ -1,0 +1,23 @@
+FIRM         : UAA (CIK 0001336917) | FY2024
+FILE         : 0001336917_UAA_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+In accordance with ASC Topic 360 "Property, Plant and Equipment," property and equipment are stated at cost less accumulated depreciation. Property and equipment is depreciated using the straight-line method over the estimated useful lives of the assets, as follows:
+
+[VERBATIM — Changement de politique]
+The Company periodically reviews its assets' estimated useful lives based upon actual experience and expected future utilization. A change in useful life is treated as a change in accounting estimate and is applied prospectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

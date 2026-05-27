@@ -1,0 +1,23 @@
+FIRM         : VAC (CIK 0001524358) | FY2023
+FILE         : 0001524358_VAC_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-27
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, information technology, capitalized software
+DURÉE        : 3.0-40.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We capitalize the cost of improvements that extend the useful life of property and equipment when incurred.
+
+[VERBATIM — Changement de politique]
+Our CODM uses Adjusted Earnings before Interest Expense, Taxes, Depreciation and Amortization (“Adjusted EBITDA”) to evaluate the profitability of our operating segments, and the components of net income or loss attributable to common stockholders excluded from Adjusted EBITDA are not separately evaluated. Adjusted EBITDA is defined as net income or loss attributable to common stockholders, before interest expense (excluding consumer financing interest expense associated with term securitization transactions), income taxes, depreciation and amortization, excluding share-based compensation expense and adjusted for certain items that affect the comparability of our operating performance.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

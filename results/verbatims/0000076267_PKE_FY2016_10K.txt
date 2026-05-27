@@ -1,0 +1,20 @@
+FIRM         : PKE (CIK 0000076267) | FY2016
+FILE         : 0000076267_PKE_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 26, 2017
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment, furniture and fixtures are generally depreciated over
+DURÉE        : 10.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment – Property, plant and equipment are stated at cost less accumulated depreciation and amortization. Machinery, equipment, furniture and fixtures are generally depreciated over 10 years. The depreciation and amortization expenses associated with property, plant and equipment were $3,106, $3,369 and $3,559 for the 2017, 2016 and 2015 fiscal years, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

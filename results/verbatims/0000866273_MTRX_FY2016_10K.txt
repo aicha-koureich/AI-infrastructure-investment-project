@@ -1,0 +1,21 @@
+FIRM         : MTRX (CIK 0000866273) | FY2016
+FILE         : 0000866273_MTRX_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 13—Segment Information
+ASSET CAT.   : equipment, Office equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+June 30, 2016 June 30, 2015 Assets Current assets: Cash and cash equivalents $ 71,656 $ 79,239 Accounts receivable, less allowances (2016 - $8,403; 2015 - $561) 190,434 199,149 Costs and estimated earnings in excess of billings on uncompleted contracts 104,001 86,071 Inventories 3,935 2,773 Income taxes receivable 9 579 Other current assets 5,411 5,660 Total current assets 375,446 373,471 Property, plant and equipment, at cost: Land and buildings 39,224 32,746 Construction equipment 90,386 87,561 Transportation equipment 49,046 47,468 Office equipment and software 29,577 28,874 Construction in progress 7,475 5,196 Total property, plant and equipment - at cost 215,708 201,845 Accumulated depreciation (130,977 ) (116,782 ) Property, plant and equipment - net 84,731 85,063 Goodwill 78,293 71,518 Other intangible assets 20,999 23,961 Deferred income taxes 3,719 3,729 Other assets 1,779 3,947 Total assets $ 564,967 $ 561,689
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

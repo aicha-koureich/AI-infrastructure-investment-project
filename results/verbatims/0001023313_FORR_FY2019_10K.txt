@@ -1,0 +1,24 @@
+FIRM         : FORR (CIK 0001023313) | FY2019
+FILE         : 0001023313_FORR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 15 – Subsequent Events (unaudited)
+ASSET CAT.   : equipment, Computer software, Furniture and fixtures
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated Useful Life Computers and equipment 3 to 10 Years Computer software 3 to 5 Years Furniture and fixtures 7 Years Leasehold improvements Shorter of asset life or lease term
+
+[VERBATIM — Changement de politique]
+The Company evaluates reportable segment performance and allocates resources based on segment revenues and expenses. Segment expenses include the direct expenses of each segment organization and exclude, except as noted above for the SiriusDecisions segment, selling and marketing expenses, general and administrative expenses, stock-based compensation expense, depreciation expense, adjustments to incentive bonus compensation from target amounts, amortization of intangible assets, interest and other expense, and gains (losses) on investments. The accounting policies used by the segments are the same as those used in the consolidated financial statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles-Goodwill and Other-Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract. The new standard aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). The new standard will be effective for the Company on January 1, 2020. The adoption of this standard is not expected to have a material impact on the Company’s financial position or results of operations. ||| Intangibles-Goodwill and Other-Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract.

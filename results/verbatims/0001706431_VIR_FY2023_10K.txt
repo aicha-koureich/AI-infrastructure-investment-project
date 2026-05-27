@@ -1,0 +1,23 @@
+FIRM         : VIR (CIK 0001706431) | FY2023
+FILE         : 0001706431_VIR_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, net of accumulated depreciation and amortization and, if applicable, impairment charges.
+
+[VERBATIM — Changement de politique]
+Years Ended December 31, 2023 2022 2021 CASH FLOWS FROM OPERATING ACTIVITIES: Net (loss) income $ (615,117) $ 515,837 $ 528,584 Adjustments to reconcile net (loss) income to net cash (used in) provided by operating activities: Changes in estimated constraint on profit-sharing amount (28,118) 369,535 — Depreciation and amortization 18,920 6,251 5,278 Amortization of intangible assets 531 532 533 Accretion of discounts on investments, net (8,706) (8,943) (244) Noncash lease expense 7,658 8,709 6,172 Change in fair value of equity investments 21,888 111,140 (138,049) Change in estimated fair value of contingent consideration 1,024 2,115 91,848 Stock-based compensation 111,316 102,082 83,784 Change in deferred income taxes (1,063) (15,186) 15,186 In-process research and development impairment 9,658 — — Long-lived assets impairment and disposal loss 7,662 — — Payment of contingent consideration in excess of acquisition date fair value — (93,803) (8,140) Gain from a sublease termination — — (4,844) Other 153 (383) 697 Changes in operating assets and liabilities: Receivable from collaboration (565) 770,038 (773,079) Prepaid expenses and other current assets 64,970 (39,358) (3,665) Other assets 2,161 (11,795) (1,483) Accounts payable 732 797 (171) Accrued liabilities and other long-term liabilities (356,498) (15,513) 58,498 Operating lease liabilities (13,046) (5,502) (535) Deferred revenue (2,345) (33,300) 92,041 Net cash (used in) provided by operating activities (778,785) 1,663,253 (47,589) CASH FLOWS FROM INVESTING ACTIVITIES: Purchases of property and equipment (21,573) (68,006) (21,817) Purchases of investments (2,016,189) (1,476,965) (420,240) Maturities and sales of investments 2,202,391 351,510 301,243 Net cash provided by (used in) investing activities 164,629 (1,193,461) (140,814)
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

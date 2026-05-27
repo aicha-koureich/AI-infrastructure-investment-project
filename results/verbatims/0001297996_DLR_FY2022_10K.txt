@@ -1,0 +1,20 @@
+FIRM         : DLR (CIK 0001297996) | FY2022
+FILE         : 0001297996_DLR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 10. Acquired Intangible Assets and Liabilities
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amortization of these assets will begin once the data centers associated with the power grid rights are placed into service.
+
+[VERBATIM — Infrastructure IA]
+On August 1, 2022, we completed the acquisition of a 61.1% indirect controlling interest in Teraco, a leading carrier-neutral data center and interconnection services provider in South Africa (the “Teraco Acquisition”). The total purchase price was $1.7 billion cash, funded by our global revolving credit facility and partial settlement of our forward equity sale agreements described under Note 14. “Equity and Capital—Forward Equity Sale.” Teraco controls (and consolidates) the Teraco Connect Trust (“the Trust”) that was created as part of the Broad Based Black Economic Empowerment Program in South Africa. The Trust owns a 12% interest in Teraco’s primary operating company, however, because Teraco (and the Company) controls the Trust, the Trust is consolidated by Teraco (and the Company). If the Trust was not consolidated by Teraco, the Company’s ownership interest in Teraco would have been approximately 55%.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

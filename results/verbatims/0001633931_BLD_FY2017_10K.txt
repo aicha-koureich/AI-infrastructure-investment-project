@@ -1,0 +1,20 @@
+FIRM         : BLD (CIK 0001633931) | FY2017
+FILE         : 0001633931_BLD_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. RELATED PARTY TRANSACTIONS Prior to the Separation, interest was charged each month as an adjustment to Former Parent’s investment in TopBuild. Our
+ASSET CAT.   : EQUIPMENT, Computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+PROPERTY & EQUIPMENT The following table sets forth our property and equipment by class as of December 31, 2017 and 2016, in thousands: As of December 31, 2017 2016 Land and improvements $ 7,846 $ 7,907 Buildings 40,515 38,865 Equipment 96,580 88,472 Computer hardware and software 125,984 123,725 Company vehicles 41,298 34,668 312,223 293,637 Less: Accumulated depreciation (205,102) (200,877) Total property and equipment, net $ 107,121 $ 92,760 Depreciation expense was $13.5 million, $11.2 million, and $11.1 million for the years ended December 31, 2017, 2016, and 2015, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

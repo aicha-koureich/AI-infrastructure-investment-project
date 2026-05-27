@@ -1,0 +1,20 @@
+FIRM         : PLUS (CIK 0001022408) | FY2021
+FILE         : 0001022408_PLUS_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2022
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Our material contractual obligations consist of payments on recourse and non-recourse notes payable and lease liabilities. Please refer to Note 4 , “Lessee accounting” and Note 8 , “Notes payable and credit facility” in the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K for additional information regarding the maturities of these obligations. Additionally, we have contractual obligations of $7.8 million over the next 5 years for certain hosted software and data center services.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Our material contractual obligations consist of payments on recourse and non-recourse notes payable and lease liabilities. Please refer to Note 4 , “Lessee accounting” and Note 8 , “Notes payable and credit facility” in the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K for additional information regarding the maturities of these obligations. Additionally, we have contractual obligations of $7.8 million over the next 5 years for certain hosted software and data center services. ||| in the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K for additional information regarding the maturities of these obligations. Additionally, we have contractual obligations of $7.8 million over the next 5 years for certain hosted software and data center services. ||| for additional information regarding the maturities of these obligations. Additionally, we have contractual obligations of $7.8 million over the next 5 years for certain hosted software and data center services.

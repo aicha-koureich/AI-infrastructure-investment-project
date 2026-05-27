@@ -1,0 +1,20 @@
+FIRM         : DT (CIK 0001773383) | FY2021
+FILE         : 0001773383_DT_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 5. Recognition of revenue when, or as a performance obligation is satisfied
+ASSET CAT.   : capitalized software, technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Cost of subscription revenue includes all direct costs to deliver the Company’s subscription products including salaries, benefits, share-based compensation and related expenses such as employer taxes, third-party hosting fees related to the Company’s cloud services, allocated overhead for facilities, IT, and amortization of internally developed capitalized software technology.
+
+[VERBATIM — Infrastructure IA]
+Cost of subscription revenue increased by $4.3 million, or 6%, for the year ended March 31, 2021, as compared to the year ended March 31, 2020. The increase is primarily due to higher personnel costs to support the growth of our subscription cloud-based offering of $9.7 million and cloud-based hosting costs and software subscriptions of $7.4 million. Partially offsetting this increase was lower share-based compensation of $8.3 million as well as decreases in costs for data centers closed during fiscal 2021.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+• Enhance our strategic partner ecosystem. Our strategic partners include industry-leading global system integrators, software vendors, and cloud and technology providers. We intend to continue to invest in our partner ecosystem, with a particular emphasis on expanding our strategic alliances and cloud-focused partnerships with global system integrators, including Deloitte and DXC, and hyperscale cloud providers, including AWS, Microsoft Azure, Google Cloud Platform, and Red Hat. ||| Our strategic partners include industry-leading global system integrators, software vendors, and cloud and technology providers. We intend to continue to invest in our partner ecosystem, with a particular emphasis on expanding our strategic alliances and cloud-focused partnerships with global system integrators, including Deloitte and DXC, and hyperscale cloud providers, including AWS, Microsoft Azure, Google Cloud Platform, and Red Hat. ||| Cost of subscription . Cost of subscription revenue includes all direct costs to deliver and support our subscription products, including salaries, benefits, share-based compensation and related expenses such as employer taxes, third-party hosting fees related to our cloud services, allocated overhead for facilities, IT, and amortization of internally developed capitalized software technology. We recognize these expenses as they are incurred.

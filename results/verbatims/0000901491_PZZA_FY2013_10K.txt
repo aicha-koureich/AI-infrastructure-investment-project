@@ -1,0 +1,21 @@
+FIRM         : PZZA (CIK 0000901491) | FY2013
+FILE         : 0000901491_PZZA_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 29, 2013
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies (continued)
+ASSET CAT.   : restaurant, commissary and other equipment
+DURÉE        : 20.0-40.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Depreciation is recorded using the straight-line method over the estimated useful lives of the assets (generally five to ten years for restaurant, commissary and other equipment, and 20 to 40 years for buildings and improvements).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

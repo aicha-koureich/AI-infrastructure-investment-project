@@ -1,0 +1,21 @@
+FIRM         : VYX (CIK 0000070866) | FY2024
+FILE         : 0000070866_VYX_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-04-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Capitalized Software
+DURÉE        : 4.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 4.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized Software Certain direct development costs associated with internal-use software are capitalized within Other assets and amortized over the estimated useful lives of the resulting software. The Company typically amortizes capitalized internal-use software on a straight-line basis over four to seven years beginning when the asset is substantially ready for use, as this is considered to approximate the usage pattern of the software.
+
+[VERBATIM — Infrastructure IA]
+As previously disclosed, in April 2023 the Company determined that a single data center outage impacting certain of its commerce customers was caused by a cyber ransomware incident. Following investigation, the Company concluded that the incident impacted operations for some customers only with respect to specific Aloha cloud-based services and Counterpoint. Functionality was fully restored to all impacted customers, and we built a new cloud environment to host the affected applications.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Total revenue was flat for the year ended December 31, 2023 compared to the year ended December 31, 2022. Product revenue decreased 3% due to a decrease in SCO and POS hardware revenues partially offset by an increase in software license revenue. Service revenue increased 2% comparing the year ended 2023 to 2022 due primarily to growth in cloud services revenue, hardware maintenance revenue and recurring software related services.

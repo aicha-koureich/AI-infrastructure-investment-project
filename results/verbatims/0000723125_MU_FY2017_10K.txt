@@ -1,0 +1,24 @@
+FIRM         : MU (CIK 0000723125) | FY2017
+FILE         : 0000723125_MU_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment
+DURÉE        : 5.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Property, Plant, and Equipment: Property, plant, and equipment is stated at cost and depreciated using the straight-line method over estimated useful lives of generally 10 to 30 years for buildings, 5 to 7 years for equipment, and 3 to 5 years for software.
+
+[VERBATIM — Changement de politique]
+We periodically assess the estimated useful lives of our property, plant, and equipment. As a result, we revised the estimated useful lives of equipment in our DRAM wafer fabrication facilities from
+
+[VERBATIM — Infrastructure IA]
+Micron Technology, Inc., including its consolidated subsidiaries, is an industry leader in innovative memory and storage solutions. Through our global brands – Micron, Crucial, and Ballistix – our broad portfolio of high-performance memory and storage technologies, including DRAM, NAND, NOR Flash, and 3D XPoint memory, is transforming how the world uses information to enrich life. Backed by more than 35 years of technology leadership, our memory and storage solutions enable disruptive trends, including artificial intelligence, machine learning, and autonomous vehicles in key market segments like cloud, data center, networking, and mobile. The accompanying consolidated financial statements include the accounts of Micron and our consolidated subsidiaries and have been prepared in accordance with accounting principles generally accepted in the United States of America. Certain reclassifications have been made to prior period amounts to conform to current period presentation.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Customer's Accounting for Fees Paid in a Cloud Computing Arrangement ||| , which provided additional guidance to customers about whether a cloud computing arrangement includes a software license. Under ASU 2015-05, cloud computing arrangements that contain a software license should be accounted for in a manner consistent with the acquisition of other software licenses, otherwise customers should account for the arrangement as a service contract. ASU 2015-05 also removed the requirement to analogize to ASC 840-10 – ||| In April 2015, the FASB issued ASU 2015-05 – Customer's Accounting for Fees Paid in a Cloud Computing Arrangement , which provided additional guidance to customers about whether a cloud computing arrangement includes a software license. Under ASU 2015-05, cloud computing arrangements that contain a software license should be accounted for in a manner consistent with the acquisition of other software licenses, otherwise customers should account for the arrangement as a service contract. ASU 2015-05 also removed the requirement to analogize to ASC 840-10 – Leases , to determine the asset acquired in a software licensing arrangement. We adopted this ASU as of the beginning of the first quarter of 2017 on a prospective basis. The adoption of this ASU did not have a material impact on our financial statements.

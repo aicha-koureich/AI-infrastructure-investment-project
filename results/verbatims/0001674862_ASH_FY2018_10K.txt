@@ -1,0 +1,20 @@
+FIRM         : ASH (CIK 0001674862) | FY2018
+FILE         : 0001674862_ASH_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued guidance to align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. Under the new guidance, the deferred implementation costs are amortized to expense over the term of the hosting arrangement. The term of the hosting arrangement includes the non-cancellable period of the cloud computing arrangement plus any optional renewal periods that are reasonably certain to be exercised by the customer. Additionally, an entity should present the capitalized implementation costs in the same line item that a prepayment for fees of the associated hosting arrangement are presented, and an entity should classify the cash flows from capitalized implementation costs in the same manner as the cash flows for the fees paid for the associated hosting arrangement. Ashland elected to early adopt this guidance immediately and apply it prospectively as permitted by the guidance. This guidance did not have a material impact on Ashland’s Consolidated Financial Statements during 2018.

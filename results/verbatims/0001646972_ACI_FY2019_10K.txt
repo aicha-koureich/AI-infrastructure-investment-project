@@ -1,0 +1,20 @@
+FIRM         : ACI (CIK 0001646972) | FY2019
+FILE         : 0001646972_ACI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 29, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 DESCRIPTION OF BUSINESS, BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment under finance leases are recorded at the lower of the present value of the future minimum lease payments or the fair value of the asset and are amortized on the straight-line method over the lesser of the lease term or the estimated useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

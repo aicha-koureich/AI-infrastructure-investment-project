@@ -1,0 +1,20 @@
+FIRM         : PPG (CIK 0000079879) | FY2024
+FILE         : 0000079879_PPG_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2029-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Accelerated depreciation expense is recorded when facilities or equipment are subject to abnormal economic conditions, restructuring actions or obsolescence.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

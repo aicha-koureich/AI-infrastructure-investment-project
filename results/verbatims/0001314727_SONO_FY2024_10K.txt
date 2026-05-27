@@ -1,0 +1,20 @@
+FIRM         : SONO (CIK 0001314727) | FY2024
+FILE         : 0001314727_SONO_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-09-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 6. Balance Sheet Components
+ASSET CAT.   : equipment, Computer hardware, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+September 28, 2024 September 30, 2023 (In thousands) Tooling and production line test equipment $ 106,174 $ 108,693 Product displays 77,074 68,771 Leasehold improvements 52,112 53,648 Computer hardware, equipment, and software 39,163 41,679 Furniture and fixtures 5,724 6,971 Total property and equipment 280,247 279,762 Accumulated depreciation and amortization (178,099) (192,687) Property and equipment, net $ 102,148 $ 87,075
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We estimate SSP for items that are not sold separately, which include the products and related software, unspecified software upgrades and cloud services, using information that may include competitive pricing information, where available, as well as analysis of the cost of providing the products or services plus a reasonable margin. In developing SSP estimates, we also consider the nature of the products and services and the expected level of future services. ||| Revenue allocated to unspecified software upgrades and cloud-based services is deferred and recognized ratably over our best estimate of the period that the customer is expected to receive the services. Determining the revenue recognition period for unspecified software upgrades and cloud services requires judgment. In developing the estimated period of providing future services, we consider our past history, our plans to continue to provide services, including plans to continue to support updates and enhancements to prior versions of our products, expected technological developments, obsolescence, competition and other factors. The estimated service period may change in the future in response to competition, technology developments and our business strategy.

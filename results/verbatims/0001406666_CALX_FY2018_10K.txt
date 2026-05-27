@@ -1,0 +1,20 @@
+FIRM         : CALX (CIK 0001406666) | FY2018
+FILE         : 0001406666_CALX_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 15. Subsequent Event
+ASSET CAT.   : equipment, Computer equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2018 2017 Test equipment $ 39,148 $ 39,952 Computer equipment and purchased software 34,697 32,175 Furniture and fixtures 1,976 2,714 Leasehold improvements 3,559 6,029 79,380 80,870 Accumulated depreciation and amortization (54,435 ) (65,189 ) $ 24,945 $ 15,681
+
+[VERBATIM — Infrastructure IA]
+In June 2018, the Company entered into a co-location license agreement to lease data center space in West Jordan, Utah for a term of  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Costs ||| “Intangibles (Topic 350): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract” ||| In August 2018, the FASB issued ASU 2018-15, “Intangibles (Topic 350): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract” , which aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. This new standard also requires customers to expense the capitalized implementation costs of a hosting arrangement that is a service contract over the term of the hosting arrangement. This new standard becomes effective for the Company in the first quarter of 2020, with early adoption permitted.

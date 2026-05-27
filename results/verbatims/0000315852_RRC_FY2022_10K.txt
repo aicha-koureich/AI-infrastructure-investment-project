@@ -1,0 +1,23 @@
+FIRM         : RRC (CIK 0000315852) | FY2022
+FILE         : 0000315852_RRC_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+(8) Asset Retirement Obligations ARO primarily represents the present value of the estimated amounts we will incur to plug, abandon and remediate our producing properties at the end of their productive lives. Significant inputs used in determining such obligations include estimates of plugging and abandonment costs, estimated future inflation rates and well lives. The inputs are calculated based on historical data as well as current estimated costs. The following is a reconciliation of our liability for plugging and abandonment costs as of December 31, 2022 and 2021 (in thousands): 2022 2021 Beginning of period $ 95,836 $ 79,822 Liabilities incurred 2,589 73 Liabilities settled ( 10,650 ) ( 8,197 ) Accretion expense 6,569 5,511 Change in estimate 15,507 18,627 End of period 109,851 95,836 Less current portion ( 4,570 ) ( 5,310 ) Long-term asset retirement obligations $ 105,281 $ 90,526 Accretion expense is recognized as an increase to depreciation, depletion and amortization expense in the accompanying consolidated statements of operations.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

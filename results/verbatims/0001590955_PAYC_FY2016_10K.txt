@@ -1,0 +1,20 @@
+FIRM         : PAYC (CIK 0001590955) | FY2016
+FILE         : 0001590955_PAYC_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 3. PROPERTY AND EQUIPMENT
+ASSET CAT.   : equipment, capitalized software, Computer equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Year Ended December 31, 2016 2015 Property and equipment Buildings $ 48,250 $ 28,154 Software and capitalized software costs 23,879 13,959 Computer equipment 18,987 11,346 Rental clocks 10,669 8,750 Furniture, fixtures and equipment 6,695 5,464 Leasehold improvements 680 358 Vehicles — 421 109,160 68,452 Less: accumulated depreciation and amortization (35,833 ) (24,894 ) 73,327 43,558 Land 8,993 8,993 Construction in progress 14,528 6,307 Property and equipment, net $ 96,848 $ 58,858
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

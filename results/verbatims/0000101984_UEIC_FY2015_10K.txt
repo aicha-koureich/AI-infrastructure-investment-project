@@ -1,0 +1,20 @@
+FIRM         : UEIC (CIK 0000101984) | FY2015
+FILE         : 0000101984_UEIC_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 — Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are amortized on a product-by-product basis.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU 2015-05, "Customer's Accounting for Fees Paid in a Cloud Computing Arrangement," which amends Accounting Standards Codification ("ASC") 350, "Intangibles - Goodwill and Other". The amendments provide guidance as to whether a cloud computing arrangement includes a software license, and based on that determination, how to account for such arrangements. ASU 2015-05 is effective for fiscal periods beginning after December 15, 2015 and permits the use of either the prospective or retrospective transition method. Early adoption is not permitted. We are currently evaluating the impact that ASU 2015-05 will have on our consolidated financial statements.

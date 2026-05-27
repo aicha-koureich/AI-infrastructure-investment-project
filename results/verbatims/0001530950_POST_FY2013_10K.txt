@@ -1,0 +1,20 @@
+FIRM         : POST (CIK 0001530950) | FY2013
+FILE         : 0001530950_POST_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 24 — SUBSEQUENT EVENTS
+ASSET CAT.   : Machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+September 30, 2013 2012 Land and land improvements $ 13.0 $ 13.0 Buildings and leasehold improvements 139.9 135.3 Machinery and equipment 436.7 410.3 Software 28.4 21.9 Construction in progress 22.5 19.0 640.5 599.5 Accumulated depreciation (252.0 ) (194.4 ) $ 388.5 $ 405.1
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

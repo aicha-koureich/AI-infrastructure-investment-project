@@ -1,0 +1,23 @@
+FIRM         : PFE (CIK 0000078003) | FY2020
+FILE         : 0000078003_PFE_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Implementation Costs in a Cloud Computing Arrangement ––We prospectively adopted the new standard related to customers’ accounting for implementation costs incurred in a cloud computing arrangement that is considered a service contract. The new guidance aligns the requirements for capitalizing implementation costs in such arrangements with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The adoption of this guidance did not have a material impact on our consolidated financial statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Implementation Costs in a Cloud Computing Arrangement ––We prospectively adopted the new standard related to customers’ accounting for implementation costs incurred in a cloud computing arrangement that is considered a service contract. The new guidance aligns the requirements for capitalizing implementation costs in such arrangements with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The adoption of this guidance did not have a material impact on our consolidated financial statements. ||| Implementation Costs in a Cloud Computing Arrangement ||| ––We prospectively adopted the new standard related to customers’ accounting for implementation costs incurred in a cloud computing arrangement that is considered a service contract. The new guidance aligns the requirements for capitalizing implementation costs in such arrangements with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The adoption of this guidance did not have a material impact on our consolidated financial statements.

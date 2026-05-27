@@ -1,0 +1,23 @@
+FIRM         : AES (CIK 0000874761) | FY2015
+FILE         : 0000874761_AES_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+The change in discount rate approach in the U.S. and U.K. did not have an impact on the measurement of the benefit obligations as at December 31, 2015, nor will it impact future remeasurements. This change in estimate will impact the service cost and interest cost recorded in 2016 and future years. It will also impact the actuarial gains and losses recorded in future years, as well as the amortization thereof.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU No. 2015-05, Intangibles — Goodwill and Other — Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement ||| In April 2015, the FASB issued ASU No. 2015-05, which clarifies how customers in cloud computing arrangements should determine whether the arrangement includes a software license and eliminates the existing requirement for customers to account for software licenses they acquired by analogizing to the accounting guidance on leases. The standard is effective for annual reporting periods beginning after December 15, 2015 and interim periods therein. Early adoption is permitted. The standard permits the use of a prospective or retrospective approach. The Company expects to utilize the prospective approach upon adoption of this standard, which is not expected to have a material impact on its consolidated financial statements.

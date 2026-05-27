@@ -1,0 +1,21 @@
+FIRM         : IP (CIK 0000051434) | FY2019
+FILE         : 0000051434_IP_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 10
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 9.8 ans | 10.9 ans
+
+[VERBATIM — Durée de vie]
+Plants, properties and equipment are stated at cost, less accumulated depreciation. The units-of-production method of depreciation is used for pulp and paper mills, and the straight-line method is used for other plants and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

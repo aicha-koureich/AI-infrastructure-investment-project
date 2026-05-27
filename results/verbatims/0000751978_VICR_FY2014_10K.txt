@@ -1,0 +1,24 @@
+FIRM         : VICR (CIK 0000751978) | FY2014
+FILE         : 0000751978_VICR_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 7. PROPERTY, PLANT AND EQUIPMENT
+ASSET CAT.   : equipment
+DURÉE        : 3.0-39.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost and are depreciated and amortized over a period of three to 39 years
+generally under the straight-line method for financial reporting purposes and accelerated methods for income tax purposes.
+
+[VERBATIM — Infrastructure IA]
+The Company’s products are sold worldwide to customers ranging from smaller, independent manufacturers of highly specialized electronic
+devices, to larger OEMs and their contract manufacturers. The applications in which these products are used are in the higher-performance, higher-power segments of the power systems market, including, in alphabetical order, aerospace and defense
+electronics, enterprise and high performance computing, industrial automation, telecommunications and networking infrastructure, test and measurement instrumentation, and vehicles and transportation. While, overall, the Company has a broad customer
+base and  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

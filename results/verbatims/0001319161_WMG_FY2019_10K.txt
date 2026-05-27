@@ -1,0 +1,20 @@
+FIRM         : WMG (CIK 0001319161) | FY2019
+FILE         : 0001319161_WMG_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 17. Fair Value Measurements
+ASSET CAT.   : Furniture and fixtures, Computer hardware, Machinery and equipment, Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+September 30, 2019 September 30, 2018 (in millions) Land $ 12 $ 11 Buildings and improvements 186 109 Furniture and fixtures 25 11 Computer hardware and software 337 302 Construction in progress 20 42 Machinery and equipment 27 11 Gross Property, Plant and Equipment $ 607 $ 486 Less accumulated depreciation (307 ) (257 ) Net Property, Plant and Equipment $ 300 $ 229
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

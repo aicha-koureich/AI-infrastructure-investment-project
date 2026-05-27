@@ -1,0 +1,20 @@
+FIRM         : BCO (CIK 0000078890) | FY2014
+FILE         : 0000078890_BCO_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 25 – Selected Quarterly Financial Data (unaudited)
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amortization of capitalized software costs included in continuing operations was $20.3 million in 2014, $17.8 million in 2013 and $14.4 million in 2012.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : FFIV (CIK 0001048695) | FY2018
+FILE         : 0001048695_FFIV_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software, technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are amortized over the remaining estimated economic life of the product.
+
+[VERBATIM — Infrastructure IA]
+F5 is a global provider of application services designed to ensure the fast, secure, and reliable delivery of applications and data in multi-cloud environments and data centers. Our products include hardware-based software, software-only solutions, cloud-based services, and managed service offerings that accelerate, optimize, secure, and improve application performance for all types of deployment scenarios. We market and sell our products primarily through multiple indirect sales channels in the Americas (primarily the United States); Europe, the Middle East, and Africa (EMEA); Japan; and the Asia Pacific region (APAC). Enterprise customers (Fortune 1000 or Business Week Global 1000 companies) in the technology, telecommunications, financial services, transportation, education, manufacturing, and health care industries, along with government customers, continue to make up the largest percentage of our customer base.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

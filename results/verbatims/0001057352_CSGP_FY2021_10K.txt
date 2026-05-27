@@ -1,0 +1,20 @@
+FIRM         : CSGP (CIK 0001057352) | FY2021
+FILE         : 0001057352_CSGP_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Leases. The Company has lease arrangements for office facilities, data centers and certain vehicles. As of December 31, 2021, the Company had fixed lease payment obligations of $134 million, with $30 million payable within 12 months.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

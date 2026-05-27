@@ -1,0 +1,20 @@
+FIRM         : CTS (CIK 0000026058) | FY2015
+FILE         : 0000026058_CTS_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 — Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is stated at cost. Depreciation and amortization is computed primarily over the estimated useful lives of the various classes of assets using the straight-line method. Useful lives for buildings and improvements range from
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

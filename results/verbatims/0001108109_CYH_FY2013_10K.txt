@@ -1,0 +1,23 @@
+FIRM         : CYH (CIK 0001108109) | FY2013
+FILE         : 0001108109_CYH_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : 4.0-18.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Depreciation is
+recognized using the straight-line method over the estimated useful lives of the land and improvements (2 to 15 years; weighted-average useful life is 14 years), buildings and improvements (5 to 50 years; weighted-average useful life is 24 years)
+and equipment and fixtures (4 to 18 years; weighted-average useful life is 8 years).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

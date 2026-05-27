@@ -1,0 +1,21 @@
+FIRM         : THRY (CIK 0001556739) | FY2022
+FILE         : 0001556739_THRY_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : software are capitalized during the application development stage, if they have a useful life in excess of
+DURÉE        : 1.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Costs associated with internal use software are capitalized during the application development stage, if they have a useful life in excess of one year.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : HST (CIK 0001070750) | FY2015
+FILE         : 0001070750_HST_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+While we consider all of the above indicators as preliminary indicators to determine if the carrying value may not be recovered by undiscounted cash flows, we reviewed the actual year-to-date and the projected cash flows from operations in order to identify properties with actual or projected annual operating losses or minimal operating profit as of December 31, 2015. The projected cash flows consider items such as booking pace, occupancy, room rate and property-level operating costs. As a result of our review, we identified one property that required further consideration of property and market specific conditions or factors to determine if the property was impaired using an undiscounted cash flow analysis. Management considered a range of RevPAR and operating margins compared to prior years’ operating results in evaluating the probability-weighted projected cash flows from operations. To appropriately evaluate if the carrying value of the asset was recoverable, we projected cash flows at a stabilized growth rate of approximately 3% over the remaining estimated lives of the properties. This stabilized growth rate is lower than the projected growth rate for the urban upper upscale properties, which we believe is most representative of our portfolio, over the period from 2013 through 2023. Based on this testing, none of the properties previously identified required further analysis. Management believes its assumptions and estimates reflect current market conditions. No impairment was recorded in 2015. During 2014 and 2013, we recognized impairment expenses of $6 million and $1 million, respectively, on one property in each of 2014 and 2013, which impairment expenses are included in depreciation and amortization, based on changes in estimated holding periods.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

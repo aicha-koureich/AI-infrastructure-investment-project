@@ -1,0 +1,20 @@
+FIRM         : JBL (CIK 0000898293) | FY2022
+FILE         : 0000898293_JBL_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-08-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Net revenue increased during the fiscal year ended August 31, 2022 compared to the fiscal year ended August 31, 2021. Specifically, the EMS segment net revenue increased 20% due to: (i) a 9% increase in revenues from existing customers within our 5G, wireless and cloud business, (ii) a 5% increase in revenues from existing customers within our digital print and retail business, (iii) a 4% increase in revenues from existing customers within our industrial and capital equipment business and (iv) a 2% increase in revenues from existing customer within our networking and storage business. The DMS segment net revenue increased 9% due to: (i) a 6% increase in revenues from existing customers within our automotive and transportation business, (ii) a 3% increase in revenues from existing customers within our healthcare and packaging businesses and (iii) a 2% increase in revenues from existing customers within our connected devices business. The increase was partially offset by a 2% decrease in revenues from existing customers within our mobility business. ||| During fiscal year 2023, we expect an additional $500 million in components that we procure and integrate for our cloud business will shift from a purchase and resale model to a customer-controlled consignment service model. As a result of this continued transition, revenue associated with these components are shown on a net basis and as a result, we expect higher gross margins and lower cash used in this business.

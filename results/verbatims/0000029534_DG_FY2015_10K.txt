@@ -1,0 +1,21 @@
+FIRM         : DG (CIK 0000029534) | FY2015
+FILE         : 0000029534_DG_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 29, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Basis of presentation and accounting policies (Continued)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+In 2007, the Company's property and equipment was recorded at estimated fair values as the result of a merger transaction. Property and
+equipment acquired subsequent to the merger has been recorded at cost. The Company records depreciation and amortization on a straight-line basis over the assets'
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

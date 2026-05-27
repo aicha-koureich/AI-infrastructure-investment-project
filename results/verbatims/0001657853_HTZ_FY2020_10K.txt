@@ -1,0 +1,20 @@
+FIRM         : HTZ (CIK 0001657853) | FY2020
+FILE         : 0001657853_HTZ_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-19
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost and are depreciated utilizing the straight-line method over the estimated useful lives of the related assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We incurred charges of $213 million for impairment of intangible and other assets in 2020 due primarily to $124 million impairment of technology-related intangible assets and $69 million impairment of capitalized cloud computing implementation costs in our corporate operations due to uncertainty surrounding our financial ability to complete certain information technology projects as a result of COVID-19 and the filing of the Chapter 11 Cases. Additionally, we incurred a charge of $20 million for impairment of the Hertz tradename in our International RAC segment as a result of our annual testing of the recoverability of our indefinite-lived intangible assets. ||| In 2020, due to the impact related to COVID-19, our reduction in cash flow projections, the filing of the Chapter 11 Cases and declines in the stock price of Hertz Global, we tested the recoverability of our goodwill and indefinite-lived intangible assets as of June 30, 2020, and based on the quantitative test, no impairment was recorded. Due to uncertainty surrounding our financial ability to complete certain information technology projects as a result of COVID-19 and the filing of the Chapter 11 Cases, we concluded in the second quarter of 2020 that there was an impairment of such technology-related intangible assets and capitalized cloud computing implementation costs, and recorded an impairment charge of $193 million in our corporate operations, representing a full impairment of the carrying value of such assets as of June 30, 2020 of $124 million and $69 million of technology-related intangible assets and other assets, respectively.

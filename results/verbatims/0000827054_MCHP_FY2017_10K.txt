@@ -1,0 +1,20 @@
+FIRM         : MCHP (CIK 0000827054) | FY2017
+FILE         : 0000827054_MCHP_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+On March 1, 2018, we entered into the Merger Agreement to acquire Microsemi for $68.78 per share in cash. The acquisition price represents a total equity value of approximately $8.35 billion, and a total enterprise value of about $10.15 billion, after accounting for Microsemi’s cash and investments, net of debt, on its balance sheet at December 31, 2017. Microsemi offers a comprehensive portfolio of semiconductor and system solutions for aerospace and defense, communications, data center and industrial markets. Microsemi recorded net sales of $492.2 million for its second fiscal quarter ended April 1, 2018 compared to $442.9 million for its second fiscal quarter ended April 2, 2017 and net sales of $960.9 million for the six months ended April 1, 2018 compared to $878.4 million for the six months ended April 2, 2017. Microsemi is headquartered in Aliso Viejo, California, and has approximately 4,800 employees globally.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,24 @@
+FIRM         : RUN (CIK 0001469367) | FY2022
+FILE         : 0001469367_RUN_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, furniture, computer hardware, machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 10.0-13.0 ans
+
+[VERBATIM — Durée de vie]
+All property and equipment are stated at historical cost net of accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+Solar energy systems, net is comprised of system equipment costs related to solar energy systems, less accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract , which requires a customer in a cloud computing arrangement that is a service contract to follow the internal-use software guidance in Topic 350, Intangibles—Goodwill and Other, to determine which implementation costs to capitalize as assets or expense as incurred. This ASU is effective for annual reporting periods, and interim periods within those years, beginning after December 15, 2019, and can be applied either prospectively to implementation costs incurred after the date of adoption or retrospectively to all arrangements. The Company prospectively adopted ASU No. 2018-15 effective January 1, 2020, and there was no adoption date impact to its consolidated financial statements. ||| Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| , which requires a customer in a cloud computing arrangement that is a service contract to follow the internal-use software guidance in Topic 350, Intangibles—Goodwill and Other, to determine which implementation costs to capitalize as assets or expense as incurred. This ASU is effective for annual reporting periods, and interim periods within those years, beginning after December 15, 2019, and can be applied either prospectively to implementation costs incurred after the date of adoption or retrospectively to all arrangements. The Company prospectively adopted ASU No. 2018-15 effective January 1, 2020, and there was no adoption date impact to its consolidated financial statements.

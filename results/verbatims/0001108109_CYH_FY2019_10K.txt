@@ -1,0 +1,26 @@
+FIRM         : CYH (CIK 0001108109) | FY2019
+FILE         : 0001108109_CYH_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : 3.0-18.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 8.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is recognized using the straight-line method over the estimated useful lives of the land and improvements (3 to 20 years), buildings and improvements (5
+to 40 years) and equipment and fixtures (3 to 18 years).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In
+August 2018, the FASB issued ASU 2018-15 to provide guidance on the accounting for implementation costs incurred in a cloud computing arrangement (CCA) that is a service contract. This ASU requires entities to
+account for such costs consistent with the guidance on capitalizing costs associated with developing or obtaining internal-use software. The ASU is effective for all entities for fiscal years beginning after
+December 15, 2019, and interim periods within those fiscal years, with early adoption permitted. We adopted this ASU on January 1, 2020, and do not expect the adoption of this ASU will have a material impact on our consolidated financial
+position and results of operations.

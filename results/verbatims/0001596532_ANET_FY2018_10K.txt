@@ -1,0 +1,20 @@
+FIRM         : ANET (CIK 0001596532) | FY2018
+FILE         : 0001596532_ANET_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 14. Legal Settlement
+ASSET CAT.   : Equipment, machinery, Computer hardware, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2018 2017 Equipment and machinery $ 55,912 $ 47,711 Computer hardware and software 30,566 22,124 Furniture and fixtures 3,697 3,020 Leasehold improvements 36,447 30,548 Building 35,154 35,154 Construction-in-process 3,591 4,742 Property and equipment, gross 165,367 143,299 Less: accumulated depreciation (90,012 ) (69,020 ) Property and equipment, net $ 75,355 $ 74,279
+
+[VERBATIM — Infrastructure IA]
+We lease various offices and data centers in North America, Europe, Asia and Australia under non-cancelable operating lease arrangements that expire on various dates through  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

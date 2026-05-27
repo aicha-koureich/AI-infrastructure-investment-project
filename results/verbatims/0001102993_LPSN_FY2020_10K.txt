@@ -1,0 +1,21 @@
+FIRM         : LPSN (CIK 0001102993) | FY2020
+FILE         : 0001102993_LPSN_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of Business and Summary of Accounting Policies (Continued)
+ASSET CAT.   : equipment and software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, net of accumulated depreciation, and amortization. Depreciation and amortization is calculated using the straight-line method over the estimated useful lives of the related assets, generally three to five years for equipment and software. Depreciation expense, which includes amortization of internal use software totaled $22.8 million, $16.4 million, and $14.2 million for the years ended December 31, 2020, 2019 and 2018, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• Conversational Cloud: LivePerson's enterprise-class, AI-powered Conversational Cloud platform empowers consumers to message their favorite brands, just as they do with friends and family. ||| As a “cloud computing” or software-as-a-service (SaaS) provider, LivePerson provides solutions on a hosted basis. This model offers significant benefits over premise-based software, including lower up-front costs, faster implementation, lower total cost of ownership, scalability, cost predictability, and simplified upgrades. Organizations that adopt a fully-hosted, multi-tenant architecture that is maintained by LivePerson eliminate the majority of the time, server infrastructure costs, and IT resources required to implement, maintain, and support traditional on-premise software. ||| We continue to invest in new product development efforts to expand the capability of the Conversational Cloud. In accordance with ASC 350-40, ‘‘Internal- Use Software’’, as new projects are initiated that provide functionality to the Conversational Cloud platform, the associated development and employee costs will be capitalized. Upon completion, the project costs will be depreciated over five years. During the years ended December 31, 2020 and 2019, $33.9 million and $29.1 million was capitalized, respectively.

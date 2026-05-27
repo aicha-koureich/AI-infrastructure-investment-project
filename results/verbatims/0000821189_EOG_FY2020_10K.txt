@@ -1,0 +1,20 @@
+FIRM         : EOG (CIK 0000821189) | FY2020
+FILE         : 0000821189_EOG_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-25
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B100 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

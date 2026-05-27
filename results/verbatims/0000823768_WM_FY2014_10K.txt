@@ -1,0 +1,21 @@
+FIRM         : WM (CIK 0000823768) | FY2014
+FILE         : 0000823768_WM_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Summary of Significant Accounting Policies
+ASSET CAT.   : furniture, office equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of
+December 31, 2014 and 2013, capitalized costs for software placed in service, net of accumulated depreciation, were $114 million and $129 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : PINS (CIK 0001506293) | FY2019
+FILE         : 0001506293_PINS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In May 2017, we amended the enterprise agreement governing our use of services from AWS with an addendum. Under the agreement, as amended by the addendum, we agreed that a substantial majority of our monthly usage of certain compute, storage, data transfer and other services must be provided under the addendum, and we are required to purchase at least $750.0 million of cloud services, which we primarily use for compute, storage and data transfer services, from AWS through July 2023. If we fail to meet the contractual commitment, we are required to pay the difference, except in limited circumstances, such as termination due to acquisition of us by another cloud services provider (which would result in an obligation to pay liquidated damages under the addendum), but we are not otherwise subject to annual purchase commitments during the remainder of the six-year term of the addendum. The addendum restricts our ability to terminate the agreement until the minimum spend commitment is satisfied, other than termination only under certain additional conditions (such as the other party’s material breach or acquisition of us by another cloud services provider). As of December 31, 2019, the remaining contractual commitment was $171.3 million, which we expect to meet during the term of the addendum primarily through our use of AWS cloud services.

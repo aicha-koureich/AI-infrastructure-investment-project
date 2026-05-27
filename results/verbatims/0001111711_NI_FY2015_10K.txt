@@ -1,0 +1,20 @@
+FIRM         : NI (CIK 0001111711) | FY2015
+FILE         : 0001111711_NI_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer's Accounting for Fees Paid in a Cloud Computing Arrangement. ||| a cloud computing arrangement contains a software license that should be accounted for as internal-use software. NiSource is required to adopt ASU 2015-05 for periods beginning after December 15, 2015, including interim periods, and the guidance is permitted to be applied either (1) prospectively to all agreements entered into or materially modified after the effective date or (2) retrospectively, with early adoption permitted. NiSource is currently evaluating the impact the adoption of ASU 2015-05 will have on the Consolidated Financial Statements or Notes to Consolidated Financial Statements. ||| In April 2015, the FASB issued ASU 2015-05, Intangibles - Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement. ASU 2015-05 clarifies guidance on determining whether

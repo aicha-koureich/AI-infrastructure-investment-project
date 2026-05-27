@@ -1,0 +1,23 @@
+FIRM         : WPC (CIK 0001025378) | FY2019
+FILE         : 0001025378_WPC_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : technology
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized costs are amortized on a straight-line basis over the software’s estimated useful life, which is three to seven years .
+
+[VERBATIM — Changement de politique]
+Capitalized costs are amortized on a straight-line basis over the software’s estimated useful life, which is three to seven years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

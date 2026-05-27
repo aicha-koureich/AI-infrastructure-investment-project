@@ -1,0 +1,20 @@
+FIRM         : EEFT (CIK 0001029199) | FY2023
+FILE         : 0001029199_EEFT_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 2023. The Company earned revenue by payment and transaction processing and distribution solutions to financial institutions, retailers, service provid
+ASSET CAT.   : Equipment, office equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(8) Property and Equipment, Net The components of property and equipment, net of accumulated depreciation and amortization as of December 31, 2023 and 2022 are as follows: As of December 31, (in millions) 2023 2022 ATMs $ 635.8 $ 578.1 POS terminals 43.7 41.5 Vehicles and office equipment 73.8 76.3 Computers and software 235.1 216.5 Land and buildings 0.6 0.6 989.0 913.0 Less accumulated depreciation (656.9 ) (576.4 ) Total $ 332.1 $ 336.6 Depreciation expenses related to property and equipment, including property and equipment recorded under finance leases, for the years ended December 31, 2023 , 2022 and 2021 was $100.8 million, $ 101.5 million, and $ 104.7 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+for the year ended December 31, 2023 , an increase of $ 96.3 million or 20.2 % compared to the same period in 2022. Direct operating costs primarily consist of site rental fees, cash delivery costs, cash supply costs, maintenance, insurance, telecommunications, payment scheme processing fees, data center operations-related personnel, as well as the processing centers’ facility-related costs and other processing center-related expenses and commissions paid to retail merchants, banks and card processors involved with POS DCC transactions.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

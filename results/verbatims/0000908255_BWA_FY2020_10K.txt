@@ -1,0 +1,24 @@
+FIRM         : BWA (CIK 0000908255) | FY2020
+FILE         : 0000908255_BWA_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-19
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+Costs for molds, dies and other tools used to make products sold on long-term supply arrangements for which the Company has title to the assets are capitalized in property, plant and equipment and amortized to cost of sales over the shorter of the term of the arrangement or over the estimated useful lives of the assets, typically 3 to 5 years.
+
+[VERBATIM — Changement de politique]
+These pro forma amounts have been calculated after applying the Company’s accounting policies and the results presented above primarily reflect: (i) depreciation adjustments relating to fair value adjustments to property, plant and equipment; (ii) amortization adjustments relating to fair value estimates of intangible assets; (iii) incremental interest expense, net on assumed indebtedness, the $1.1 billion bond issuance, on June 19, 2020, debt issuance costs and fair value adjustments to debt; (iv) cost of goods sold adjustments relating to fair value adjustments to inventory; and (v) stock-based compensation that was accelerated and settled on the date of acquisition.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, “Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40).” It requires implementation costs incurred by customers in cloud computing arrangements to be deferred and recognized over the term of the arrangement, if those costs would be capitalized by the customer in a software licensing arrangement under the internal-use software guidance (Subtopic 350-40). This guidance was effective for interim and annual periods beginning after December 15, 2019. The Company adopted this guidance as of January 1, 2020, and the impact on its Consolidated Financial Statements was immaterial.

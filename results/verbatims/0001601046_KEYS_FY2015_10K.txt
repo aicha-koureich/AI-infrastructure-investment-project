@@ -1,0 +1,21 @@
+FIRM         : KEYS (CIK 0001601046) | FY2015
+FILE         : 0001601046_KEYS_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. OVERVIEW AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software is included in property, plant and equipment and is depreciated over
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued guidance that clarifies the circumstances under which a cloud computing customer would account for an arrangement as a license of internal-use software. The standard is effective for annual periods beginning after December 15, 2015, and interim periods within those fiscal years. Early adoption is permitted. We do not expect a material impact to our combined and consolidated financial statements due to the adoption of this guidance.

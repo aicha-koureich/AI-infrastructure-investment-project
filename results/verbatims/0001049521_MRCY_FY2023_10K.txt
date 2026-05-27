@@ -1,0 +1,23 @@
+FIRM         : MRCY (CIK 0001049521) | FY2023
+FILE         : 0001049521_MRCY_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2023
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Computer equipment, Furniture and fixtures, Machinery and equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful Lives (Years) As of June 30, 2023 July 1, 2022 Computer equipment and software 3-4 $ 125,297 $ 113,930 Furniture and fixtures 5 20,729 19,958 Leasehold improvements lesser of estimated useful life or lease term 70,305 66,117 Machinery and equipment 5-10 136,504 117,073 352,835 317,078 Less: accumulated depreciation (233,281) (189,887) Property and equipment, net $ 119,554 $ 127,191
+
+[VERBATIM — Changement de politique]
+Property and equipment are the long-lived, physical assets of the Company acquired for use in the Company’s normal business operations and are not intended for resale by the Company. These assets are recorded at cost. Renewals and betterments that increase the useful lives of the assets are capitalized. Repair and maintenance expenditures that increase the efficiency of the assets are expensed as incurred. Equipment under capital lease is recorded at the present value of the minimum lease payments required during the lease period. Depreciation is based on the estimated useful lives of the assets using the straight-line method (see Note F).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

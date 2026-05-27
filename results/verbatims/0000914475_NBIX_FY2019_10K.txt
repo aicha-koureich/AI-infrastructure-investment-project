@@ -1,0 +1,20 @@
+FIRM         : NBIX (CIK 0000914475) | FY2019
+FILE         : 0000914475_NBIX_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost and depreciated over the estimated useful lives of the assets using the straight-line method. Equipment is depreciated over an average estimated useful life of three to seven years.
+
+[VERBATIM — Infrastructure IA]
+We are increasingly dependent on information technology systems and infrastructure, including mobile technologies, to operate our business. In the ordinary course of our business, we collect and store confidential and sensitive electronic information on our networks and in our data centers. This information includes, among other things, our intellectual property and proprietary information, the confidential information of our collaborators and licensees, and the personally identifiable information of our employees. It is  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

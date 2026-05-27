@@ -1,0 +1,21 @@
+FIRM         : PODD (CIK 0001145197) | FY2020
+FILE         : 0001145197_PODD_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Machinery and equipment, Furniture and fixtures
+DURÉE        : 2.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100;B200 (2 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-15.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Building and building improvements 20 to 39 years Leasehold improvements Lesser of lease term or useful life of asset Machinery and equipment 2 to 15 years Furniture and fixtures 3 to 5 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| The Company capitalizes costs incurred to implement cloud computing arrangements that are service contracts within other current and non-current assets and amortizes such costs over the expected term of the hosting arrangement to the same income statement line as the associated cloud operating expenses. As of December 31, 2020 and 2019, the Company had net capitalized implementation costs of $24.2 million and $3.5 million, respectively. Amortization expense recorded during the period ended December 31, 2020 was $1.4 million and was insignificant for the period ended December 31, 2019.

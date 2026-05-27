@@ -1,0 +1,21 @@
+FIRM         : MU (CIK 0000723125) | FY2024
+FILE         : 0000723125_MU_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 29, 2024
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : software. Assets held for sale are carried at the lower of estimated fair value or carrying value and are included in current assets
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment is stated at cost and depreciated using the straight-line method over estimated useful lives of generally 10 to 30 years for buildings, 7 years for production equipment, up to 7 years for other equipment, and 3 to 5 years for software.
+
+[VERBATIM — Infrastructure IA]
+Data center and networking  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

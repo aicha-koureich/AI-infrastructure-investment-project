@@ -1,0 +1,23 @@
+FIRM         : WMB (CIK 0000107263) | FY2016
+FILE         : 0000107263_WMB_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 14 – Debt, Banking Arrangements, and Leases
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment is recorded at cost. We base the carrying value of these assets on estimates, assumptions, and judgments relative to capitalized costs, useful lives, and salvage values.
+
+[VERBATIM — Changement de politique]
+Several factors are considered in the annual review process, including inflation rates, current estimates for removal cost, market risk premiums, discount rates, and the estimated remaining useful life of the assets. The 2016 revisions reflect changes in removal cost estimates, increases in the estimated remaining useful life of certain assets, and decreases in the inflation rate and discount rates used in the annual review process. The 2015 revisions reflect changes in removal cost estimates and the estimated remaining useful life of assets, a decrease in the inflation rate, and increases in the discount rates used in the annual review process.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : VST (CIK 0001692819) | FY2018
+FILE         : 0001692819_VST_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+On December 22, 2017, President Trump signed into law a comprehensive tax reform bill (the TCJA), that significantly reforms the Internal Revenue Code. The TCJA, among other things, contains significant changes to corporate taxation, including a reduction of the corporate income tax rate, a partial limitation on the deductibility of business interest expense, limitation of the deduction for certain net operating losses to 80% of current year taxable income, an indefinite net operating loss carryforward, immediate deductions for certain new investments instead of deductions for depreciation expense over time and the modification or repeal of many business deductions and credits. While we expect a beneficial impact from the TCJA from the reduction in corporate tax rates and immediate deductions for certain new investments, we continue to examine the tax reform legislation, as its overall impact is uncertain, and note that certain provisions of the TCJA or its interaction with existing law could adversely affect the Company's business and financial condition. The impact of this tax reform legislation on our stockholders is also uncertain and could be adverse.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. ||| In August 2018, the FASB issued ASU 2018-15, Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. The ASU will be effective for fiscal years beginning after December 15, 2019 and early adoption is permitted. The ASU requires a customer in a cloud hosting arrangement that is a service contract to determine which implementation costs to capitalize and which costs to expense based on the project stage of the implementation. The ASU also requires the customer to expense the capitalized implementation costs over the term of the hosting arrangement. The customer is required to apply the existing impairment and abandonment guidance on the capitalized implementation costs. We are currently evaluating the impact of this ASU on our financial statements.

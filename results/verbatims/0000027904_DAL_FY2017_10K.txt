@@ -1,0 +1,20 @@
+FIRM         : DAL (CIK 0000027904) | FY2017
+FILE         : 0000027904_DAL_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 11
+ASSET CAT.   : capitalized software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We capitalize certain internal and external costs incurred to develop and implement software and amortize those costs over an estimated useful life of three to 10 years. Included in the depreciation and amortization expense discussed above, we recorded $189 million , $160 million and $148 million for amortization of capitalized software for the years ended December 31, 2017 , 2016 and 2015 , respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : RMD (CIK 0000943819) | FY2021
+FILE         : 0000943819_RMD_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-06-30
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ Our SaaS business depends substantially on customers entering into, renewing, upgrading and expanding their agreements for cloud services, term licenses, and maintenance and support agreements with us. Any decline in our customer renewals, upgrades or expansions could adversely affect our future operating results. ||| Our SaaS business depends substantially on customers entering into, renewing, upgrading and expanding their agreements for cloud services, term licenses, and maintenance and support agreements with us. Any decline in our customer renewals, upgrades or expansions could adversely affect our future operating results. We typically enter into term-based agreements for our licensed on-premises offerings, cloud services, and maintenance and support services, which customers have discretion to renew or terminate at the end of the initial term. In order for us to improve our operating results, it is important that new customers enter into renewable agreements, and our existing customers renew, upgrade and expand their term-based agreements when the initial contract term expires. Our customers have no obligation to renew, upgrade or expand their agreements with us after the terms have expired. Our customers’ renewal, upgrade and expansion rates may decline or fluctuate as a result of a number of factors, including their satisfaction or dissatisfaction with our offerings, our pricing, the effects of general economic conditions, competitive offerings or alterations or reductions in our customers’ spending levels. If our customers do not renew, upgrade or expand their agreements with us or renew on terms less favorable to us, our revenues may decline. ||| ASU No. 2018-15 “Intangibles-Goodwill and Other-Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract”

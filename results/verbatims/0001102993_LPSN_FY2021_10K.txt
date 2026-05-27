@@ -1,0 +1,21 @@
+FIRM         : LPSN (CIK 0001102993) | FY2021
+FILE         : 0001102993_LPSN_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-07
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment and software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, net of accumulated depreciation, and amortization. Depreciation and amortization is calculated using the straight-line method over the estimated useful lives of the related assets, generally three to five years for equipment and software. Depreciation expense, which includes amortization of internal use software totaled $27.4 million, $22.8 million, and $16.4 million for the years ended December 31, 2021, 2020, and 2019, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• Conversational Cloud: LivePerson’s enterprise-class, AI-powered Conversational Cloud platform empowers consumers to message their favorite brands, just as they do with friends and family. ||| Conversational Cloud: LivePerson’s enterprise-class, AI-powered Conversational Cloud platform empowers consumers to message their favorite brands, just as they do with friends and family. ||| As a “cloud computing” or SaaS provider, LivePerson provides solutions on a hosted basis. This model offers significant benefits over premise-based software, including lower up-front costs, faster implementation, lower total cost of ownership, scalability, cost predictability, and simplified upgrades. Organizations that adopt a fully-hosted, multi-tenant architecture that is maintained by LivePerson eliminate the majority of the time, server infrastructure costs, and IT resources required to implement, maintain, and support traditional on-premise software.

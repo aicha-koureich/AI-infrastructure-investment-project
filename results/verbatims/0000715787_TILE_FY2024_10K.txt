@@ -1,0 +1,21 @@
+FIRM         : TILE (CIK 0000715787) | FY2024
+FILE         : 0000715787_TILE_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment in our Weinheim manufacturing facility have estimated useful lives up to
+DURÉE        : 3.0-12.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-6.0 ans | 3.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is computed using the straight-line method over the following estimated useful lives: buildings and improvements – ten to forty years; equipment, furniture and fixtures – three to twelve years; and computer software – three to six years. Certain manufacturing equipment in our Weinheim manufacturing facility have estimated useful lives up to twenty-five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

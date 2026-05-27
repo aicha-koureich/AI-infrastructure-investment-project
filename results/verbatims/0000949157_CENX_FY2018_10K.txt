@@ -1,0 +1,20 @@
+FIRM         : CENX (CIK 0000949157) | FY2018
+FILE         : 0000949157_CENX_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3. Revenue
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+— Property, plant and equipment is stated at cost. Additions and improvements are capitalized. Asset and accumulated depreciation accounts are relieved for dispositions with resulting gains or losses included in
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : EXE (CIK 0000895126) | FY2019
+FILE         : 0000895126_EXE_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 26. Subsequent Events 137 Supplementary Information: Quarterly Financial Data (unaudited) 138 Supplemental Disclosures About Oil, Natural Gas and
+ASSET CAT.   : EQUIPMENT
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2019 2018 ($ in millions) CURRENT ASSETS: Cash and cash equivalents ($2 and $1 attributable to our VIE) $ 6 $ 4 Accounts receivable, net 990 1,247 Short-term derivative assets 134 209 Other current assets 121 138 Total Current Assets 1,251 1,598 PROPERTY AND EQUIPMENT: Oil and natural gas properties, at cost based on successful efforts accounting: Proved oil and natural gas properties ($755 and $755 attributable to our VIE) 30,765 25,407 Unproved properties 2,173 1,561 Other property and equipment 1,810 1,721 Total Property and Equipment, at Cost 34,748 28,689 Less: accumulated depreciation, depletion and amortization (($713) and ($707) attributable to our VIE) (20,002 ) (17,886 ) Property and equipment held for sale, net 10 15 Total Property and Equipment, Net 14,756 10,818 LONG-TERM ASSETS: Long-term derivative assets — 76 Other long-term assets 186 243 TOTAL ASSETS $ 16,193 $ 12,735
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : ENOV (CIK 0001420800) | FY2022
+FILE         : 0001420800_ENOV_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Costs include salaries, wages, consulting and depreciation and maintenance of facilities and equipment utilized in research, development and engineering activities relating to developing new products, as well as enhancing existing products with the latest technology and designs, creating new applications for existing products, lowering manufacturing costs and redesigning existing products to increase efficiency, improve durability, enhance performance and usability.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

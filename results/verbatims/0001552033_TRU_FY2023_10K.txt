@@ -1,0 +1,20 @@
+FIRM         : TRU (CIK 0001552033) | FY2023
+FILE         : 0001552033_TRU_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-08
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. Property, Plant and Equipment
+ASSET CAT.   : Computer equipment, furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2023 December 31, 2022 Computer equipment and furniture $ 615.8 $ 555.7 Purchased software 240.9 227.6 Building and building improvements 143.8 143.1 Land 3.2 3.2 Total cost of property, plant and equipment 1,003.7 929.6 Less: accumulated depreciation (804.4) (711.3) Total property, plant and equipment, net of accumulated depreciation $ 199.3 $ 218.2
+
+[VERBATIM — Infrastructure IA]
+Our lease obligations consist of operating leases for office space and data centers and a small number of finance leases for equipment. Our operating leases have remaining lease terms of up to 9.2 years. As of December 31, 2023 and 2022, the weighted-average remaining lease terms were 6.1 years and 6.4 years, respectively. We have options to extend many of our operating leases for an additional period of time and options to terminate several of our operating leases early. The lease term consists of the non-cancelable period of the lease, periods covered by options to extend the lease if we are reasonably certain to exercise the option, periods covered by an option to terminate the lease if we are reasonably certain not to exercise the option, and periods covered by an option to extend or not to terminate the lease in which the exercise of the option is controlled by the lessor.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

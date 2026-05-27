@@ -1,0 +1,23 @@
+FIRM         : APD (CIK 0000002969) | FY2023
+FILE         : 0000002969_APD_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-09-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. BASIS OF PRESENTATION AND MAJOR ACCOUNTING POLICIES
+ASSET CAT.   : computer software, equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized costs are reflected in "Plant and equipment, net" on the consolidated balance sheets and are depreciated over the estimated useful life of the software, generally a period of three to five years.
+
+[VERBATIM — Changement de politique]
+We receive, or expect to receive in the future, various types of government assistance, primarily in the form of grants or refundable tax credits. Government assistance is recognized when there is reasonable assurance that we have complied with relevant conditions and the assistance will be received. Government assistance is recognized in the consolidated income statements on a systematic basis over the periods in which we recognize the related costs for which the government assistance is intended to compensate. Government assistance related to assets is included in the balance sheet as a reduction of the cost of the asset and results in reduced depreciation expense over the useful life of the asset. Government assistance that relates to expenses is recognized in the income statement as a reduction of the related expense or as a component of other income (expense), net. Government assistance did not have a material impact on our financial statements in fiscal year 2023.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We capitalize costs incurred with the implementation of a cloud computing arrangement that is a service contract, consistent with our policy for software developed or obtained for internal use. However, the capitalized costs are reflected in "Other noncurrent assets" on our consolidated balance sheets and expensed over the term of the related hosting arrangement.

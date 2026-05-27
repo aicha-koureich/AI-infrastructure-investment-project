@@ -1,0 +1,20 @@
+FIRM         : TDY (CIK 0001094285) | FY2019
+FILE         : 0001094285_TDY_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-27
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+To extend our protocol test solution and products to the electronic storage industry and data centers:  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Design and test engineers use our protocol analysis solutions to monitor accurately and reliably high data-rate communication interfaces and diagnose operational problems in a wide range of systems and devices to ensure that they comply with industry standards, including the area of Cloud computing and networks, where PCI Express and related standards are required for high performance data centers. Our protocol test portfolio also covers wireless technologies, including Bluetooth and 802.11 (Wi-Fi), and modern video technologies, such as HDMI and DisplayPort. Both product lines, along with our leadership in USB technology, provide a unique base to service the mobile, internet of things, automotive and consumer electronics test market. Our most recent acquisition of OakGate Technology, Inc. provides protocol validation and test tools for disk drives, both spinning and solid state, and servers used for cloud-based storage.

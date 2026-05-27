@@ -1,0 +1,21 @@
+FIRM         : BMI (CIK 0000009092) | FY2019
+FILE         : 0000009092_BMI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 Summary of Significant Accounting Policies
+ASSET CAT.   : technology
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Municipal water, the largest sales category, is comprised of either mechanical or static (ultrasonic) water meters along with the related radio and software technologies and services used by municipal water utilities as the basis for generating their water and wastewater revenues. The largest geographic market for the Company’s municipal water products is North America, primarily the United States, because most of the Company's meters are designed and manufactured to conform to standards promulgated by the American Water Works Association. The majority of water meters sold by the Company continue to be mechanical in nature; however, ultrasonic meters are gaining in penetration due to a variety of factors, including their ability to maintain near absolute measurement accuracy over their useful life. Providing ultrasonic water meter technology, combined with advanced radio technology, provides the Company with the opportunity to sell into other geographical markets, for example the Middle East and Europe.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

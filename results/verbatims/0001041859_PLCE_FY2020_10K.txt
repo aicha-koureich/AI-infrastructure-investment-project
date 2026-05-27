@@ -1,0 +1,20 @@
+FIRM         : PLCE (CIK 0001041859) | FY2020
+FILE         : 0001041859_PLCE_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 30, 2021
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued guidance related to the accounting for implementation costs incurred in a cloud computing arrangement that is a service contract. The guidance aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software and hosting arrangements that include an internal-use software license. We adopted this guidance in the first quarter of Fiscal 2020. This adoption did not have a material impact on our consolidated financial statements.

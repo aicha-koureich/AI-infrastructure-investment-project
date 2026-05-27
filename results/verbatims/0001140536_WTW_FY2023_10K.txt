@@ -1,0 +1,20 @@
+FIRM         : WTW (CIK 0001140536) | FY2023
+FILE         : 0001140536_WTW_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 8 — Fixed Assets The following table reflects changes in the net carrying amount of the components of fixed assets for the years ended December 3
+ASSET CAT.   : Furniture, equipment, technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Note 8 — Fixed Assets The following table reflects changes in the net carrying amount of the components of fixed assets for the years ended December 31, 2023 and 2022: Furniture, equipment and software Leasehold improvements Land and buildings Total Cost: at January 1, 2022 $ 1,477 $ 527 $ 88 $ 2,092 Additions 174 24 — 198 Acquisitions 1 — — 1 Disposals (i) ( 129 ) ( 78 ) — ( 207 ) Foreign exchange ( 71 ) ( 21 ) ( 5 ) ( 97 ) Cost: at December 31, 2022 1,452 452 83 1,987 Additions 219 32 — 251 Disposals (i) ( 182 ) ( 34 ) — ( 216 ) Foreign exchange 38 9 2 49 Cost: at December 31, 2023 $ 1,527 $ 459 $ 85 $ 2,071 Depreciation: at January 1, 2022 $ ( 877 ) $ ( 301 ) $ ( 63 ) $ ( 1,241 ) Depreciation expense ( 211 ) ( 40 ) ( 4 ) ( 255 ) Disposals 113 57 — 170 Foreign exchange 42 12 3 57 Depreciation: at December 31, 2022 ( 933 ) ( 272 ) ( 64 ) ( 1,269 ) Depreciation expense ( 202 ) ( 37 ) ( 3 ) ( 242 ) Disposals 164 25 — 189 Foreign exchange ( 23 ) ( 5 ) ( 1 ) ( 29 ) Depreciation: at December 31, 2023 $ ( 994 ) $ ( 289 ) $ ( 68 ) $ ( 1,351 ) Net book value: At December 31, 2022 $ 519 $ 180 $ 19 $ 718 At December 31, 2023 $ 533 $ 170 $ 17 $ 720 (i) For 2023 and 2022, includes $ 17 million and $ 12 million, respectively, of furniture, equipment and software costs and $ 4 million and $ 18 million, respectively, of leasehold improvements costs which have been written off as part of technology modernization and real estate rationalization, respectively, under the Transformation program (see Note 6 – Restructuring Costs). 98 Included within land and buildings are the following assets held under finance leases: December 31, 2023 2022 Finance leases $ 26 $ 26 Accumulated depreciation ( 23 ) ( 22 ) $ 3 $ 4
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

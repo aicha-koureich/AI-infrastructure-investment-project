@@ -1,0 +1,21 @@
+FIRM         : SABR (CIK 0001597033) | FY2016
+FILE         : 0001597033_SABR_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 16. Segment Information
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization of property and equipment includes software developed for internal use.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued new guidance on a customer's accounting for fees paid in a cloud computing arrangement. Prior to this standard, there was no specific guidance under GAAP on accounting for these fees from the customer's perspective. Under the new standard, customers will apply the same criteria as vendors to determine whether a cloud computing agreement contains a software license or is solely a service contract. This new standard is effective for public companies for annual periods, including interim periods, beginning after December 15, 2015. We adopted this standard prospectively in the first quarter of 2016, which did not have a material impact on our consolidated financial statements.

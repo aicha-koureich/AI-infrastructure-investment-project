@@ -1,0 +1,20 @@
+FIRM         : HLX (CIK 0000866829) | FY2013
+FILE         : 0000866829_HLX_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 — Summary of Significant Accounting Policies
+ASSET CAT.   : machinery, equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Included in machinery, equipment, buildings and leasehold improvements were $17.5 million and $18.5 million of capitalized software costs ($4.8 million and $6.0 million, net of accumulated amortization) at December 31, 2013 and 2012, respectively. The total amount charged to expense related to the amortization of these software costs was $1.8 million for the year ended December 31, 2013 and $2.6 million during each of the years ended December 31, 2012 and 2011.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

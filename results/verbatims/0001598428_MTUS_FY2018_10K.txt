@@ -1,0 +1,20 @@
+FIRM         : MTUS (CIK 0001598428) | FY2018
+FILE         : 0001598428_MTUS_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 11 - Stock-Based Compensation
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Consolidated Statements of Cash Flows Year Ended December 31, 2018 2017 2016 (Dollars in millions) CASH PROVIDED (USED) Operating Activities Net Loss ($31.7 ) ($43.8 ) ($105.5 ) Adjustments to reconcile net loss to net cash provided by operating activities: Depreciation and amortization 73.0 74.9 74.9 Amortization of deferred financing fees and debt discount 5.5 4.0 2.9 Impairment charges and loss on sale or disposal of assets 0.9 1.6 1.2 Deferred income taxes 0.8 (0.3 ) (36.8 ) Stock-based compensation expense 7.3 6.5 6.7 Pension and postretirement expense, net 37.4 24.7 83.4 Pension and postretirement contributions and payments (13.1 ) (4.3 ) (4.9 ) Reimbursement from postretirement plan assets — — 13.3 Changes in operating assets and liabilities: Accounts receivable, net (13.6 ) (58.2 ) (10.7 ) Inventories, net (72.8 ) (59.8 ) 9.7 Accounts payable 24.4 45.7 37.5 Other accrued expenses (3.8 ) 18.3 (8.2 ) Deferred charges and prepaid expenses 0.4 (0.5 ) 8.3 Other, net 3.8 (0.7 ) 2.6 Net Cash Provided by Operating Activities 18.5 8.1 74.4 Investing Activities Capital expenditures (40.0 ) (33.0 ) (42.7 ) Proceeds from disposals of property, plant and equipment 1.0 — — Net Cash Used by Investing Activities (39.0 ) (33.0 ) (42.7 ) Financing Activities Proceeds from exercise of stock options 0.2 0.2 — Shares surrendered for employee taxes on stock compensation (0.7 ) (1.4 ) — Revenue Refunding Bonds repayments (30.2 ) — — Repayments on credit agreements (105.0 ) (5.0 ) (130.0 ) Borrowings on credit agreements 155.0 30.0 — Proceeds from issuance of convertible notes — — 86.3 Debt issuance costs (1.7 ) — (4.8 ) Net Cash Provided (Used) by Financing Activities 17.6 23.8 (48.5 ) Effect of exchange rate changes on cash — — — Decrease In Cash and Cash Equivalents (2.9 ) (1.1 ) (16.8 ) Cash and cash equivalents at beginning of period 24.5 25.6 42.4 Cash and Cash Equivalents at End of Period $21.6 $24.5 $25.6
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The standard aligns the requirements for capitalizing implementation costs in cloud computing software arrangements with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software.

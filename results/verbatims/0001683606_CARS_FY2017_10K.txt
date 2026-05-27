@@ -1,0 +1,21 @@
+FIRM         : CARS (CIK 0001683606) | FY2017
+FILE         : 0001683606_CARS_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Significant Accounting Policies and Recent Accounting Pronouncements
+ASSET CAT.   : Technology, Capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-10.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Internally Developed Technology . The Company capitalizes costs associated with customized internal-use software systems that have reached the application development stage. Such capitalized costs include external direct costs utilized in developing or obtaining the applications and payroll and payroll-related expenses for employees who are directly associated with the applications. Capitalization of such costs begins when the preliminary project stage is complete and ceases at the point in which the project is substantially complete and ready for its intended purpose. T he Company reviews the carrying amount of internally developed technology for impairment and useful lives whenever events or changes in circumstances indicate that the carrying amount may not be recoverable. Capitalized software costs in 2017, 2016 and 2015 were $6.9 million, $5.2 million and $1.3 million, respectively. Capitalized costs are included in property and equipment on the Consolidated and Combined Balance Sheets. Research and development costs are charged to expense as incurred.
+
+[VERBATIM — Infrastructure IA]
+Product and technology . The product team creates and manages consumer and dealer-facing innovation, manages consumer user experience and includes the costs associated with our editorial, data strategy and DealerRater teams. The technology team develops and supports the Cars.com website. Product and technology expenses include license fees for vehicle specifications, hardware/software maintenance, software licenses, data center and other infrastructure costs. Product and technology expenses increased 1% in 2017 as compared to the year-ago period primarily due to the acquisition of DealerRater in August 2016 and the additional costs associated with our data strategy team. Product and technology expenses represent 12% of revenue in both 2017 and 2016.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

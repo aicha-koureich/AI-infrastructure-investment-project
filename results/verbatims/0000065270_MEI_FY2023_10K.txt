@@ -1,0 +1,20 @@
+FIRM         : MEI (CIK 0000065270) | FY2023
+FILE         : 0000065270_MEI_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-06-16
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Industrial segment net sales increased $66.8 million, or 21.0%, to $384.9 million in fiscal 2023, compared to $318.1 million in fiscal 2022. Net sales were unfavorably impacted by foreign currency translation of $21.9 million. Excluding the impact of foreign currency translation and customer cost recoveries, net sales increased $91.6 million, or 29.5%, primarily due to higher sales volumes of power distribution solutions for data centers and of commercial vehicle lighting solutions products.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Our solutions are found in the end markets of transportation (including automotive, commercial vehicle, e-bike, aerospace, bus and rail), cloud computing infrastructure, construction equipment, consumer appliance and medical devices. Our business is managed on a segment basis, with our four segments being Automotive, Industrial, Interface and Medical. For more information regarding the business and products of these segments, see Item 1. “Business” of this Annual Report.

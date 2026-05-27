@@ -1,0 +1,20 @@
+FIRM         : PAYC (CIK 0001590955) | FY2020
+FILE         : 0001590955_PAYC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-10
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 3. PROPERTY AND EQUIPMENT
+ASSET CAT.   : equipment, capitalized software, Computer equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2020 December 31, 2019 Property and equipment Software and capitalized software costs $ 144,190 $ 99,125 Buildings 115,772 101,707 Computer equipment 68,181 56,879 Rental clocks 25,474 20,836 Furniture, fixtures and equipment 19,829 18,311 Other 7,016 6,242 380,462 303,100 Less: accumulated depreciation and amortization (178,111 ) (124,950 ) 202,351 178,150 Construction in progress 53,833 31,274 Land 29,034 29,034 Property and equipment, net $ 285,218 $ 238,458
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In January 2020, we adopted Accounting Standards Update (“ASU”) No. 2018-15, “Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force)” (“ASU 2018-15”). ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). The adoption of this guidance did not have a material impact on our consolidated financial statements.

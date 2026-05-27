@@ -1,0 +1,20 @@
+FIRM         : DAKT (CIK 0000915779) | FY2022
+FILE         : 0000915779_DAKT_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-04-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5
+ASSET CAT.   : Machinery and equipment, furniture, equipment, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+April 30, 2022 May 1, 2021 Land $ 1,899 $ 1,924 Buildings 69,170 69,608 Machinery and equipment 110,079 98,451 Office furniture and equipment 4,098 4,103 Computer software and hardware 46,922 44,851 Construction in Process 5,792 — Demonstration equipment 7,260 7,186 Transportation equipment 7,065 7,264 252,285 233,387 Less accumulated depreciation 185,520 174,705 $ 66,765 $ 58,682
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

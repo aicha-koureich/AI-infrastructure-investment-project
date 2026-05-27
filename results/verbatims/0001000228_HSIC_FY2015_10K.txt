@@ -1,0 +1,20 @@
+FIRM         : HSIC (CIK 0001000228) | FY2015
+FILE         : 0001000228_HSIC_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 26, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 19 – Supplemental Cash Flow Information
+ASSET CAT.   : Machinery, equipment, Furniture, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 26, December 27, 2015 2014 Land $ 18,762 $ 19,170 Buildings and permanent improvements 117,674 119,057 Leasehold improvements 89,766 84,649 Machinery and warehouse equipment 117,068 98,551 Furniture, fixtures and other 114,304 121,485 Computer equipment and software 339,006 306,227 796,580 749,139 Less accumulated depreciation (478,104 ) (437,643 ) Property and equipment, net $ 318,476 $ 311,496 Estimated Useful Lives (in years) Buildings and permanent improvements 40 Machinery and warehouse equipment 5-10 Furniture, fixtures and other 3-10 Computer equipment and software 3-10 Property and equipment related depreciation expense for the years ended December 26, 2015, December 27, 2014 and December 28, 2013 was $60.2 million, $57.6 million and $52.9 million.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

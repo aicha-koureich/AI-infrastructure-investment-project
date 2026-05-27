@@ -1,0 +1,20 @@
+FIRM         : SBSI (CIK 0000705432) | FY2020
+FILE         : 0000705432_SBSI_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-11-14
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING AND REPORTING POLICIES
+ASSET CAT.   : equipment.
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+are estimated to be 15 to 40 years for premises and 3 to 10 years for equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

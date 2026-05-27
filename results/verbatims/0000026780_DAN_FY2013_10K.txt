@@ -1,0 +1,21 @@
+FIRM         : DAN (CIK 0000026780) | FY2013
+FILE         : 0000026780_DAN_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+— As a result of our adoption of fresh start accounting on February 1, 2008, property, plant and equipment was stated at fair value with useful lives ranging from
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

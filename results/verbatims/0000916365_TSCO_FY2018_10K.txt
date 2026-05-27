@@ -1,0 +1,20 @@
+FIRM         : TSCO (CIK 0000916365) | FY2018
+FILE         : 0000916365_TSCO_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Significant Accounting Policies:
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are carried at cost. Depreciation is recorded using the straight-line method over the estimated useful lives of the assets. Improvements to leased premises are amortized using the straight-line method over the initial term of the lease or the useful life of the improvement, whichever is less. The following estimated useful lives are generally applied:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, “Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.” This update clarifies the accounting treatment for fees paid by a customer in a cloud computing arrangement (hosting arrangement) by providing guidance for determining when the arrangement includes a software license. This guidance is effective for public business entities for fiscal years, and interim periods within those years, beginning after December 15, 2019, with early adoption permitted. The amendments may be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. The Company is currently assessing the impact that adoption of this guidance will have on its Consolidated Financial Statements and related disclosures.

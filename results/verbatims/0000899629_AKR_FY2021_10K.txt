@@ -1,0 +1,20 @@
+FIRM         : AKR (CIK 0000899629) | FY2021
+FILE         : 0000899629_AKR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-09
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

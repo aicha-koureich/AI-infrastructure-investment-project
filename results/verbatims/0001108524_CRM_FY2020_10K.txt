@@ -1,0 +1,20 @@
+FIRM         : CRM (CIK 0001108524) | FY2020
+FILE         : 0001108524_CRM_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-07-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. Property and Equipment and Other Balance Sheet Accounts
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of January 31, 2021 2020 Land $ 293 $ 184 Buildings and building improvements 485 777 Computers, equipment and software 1,901 1,608 Furniture and fixtures 228 226 Leasehold improvements 1,507 1,381 Property and equipment, gross 4,414 4,176 Less accumulated depreciation and amortization (1,955) (1,801) Property and equipment, net $ 2,459 $ 2,375
+
+[VERBATIM — Infrastructure IA]
+The Company has operating leases for corporate offices, data centers, and equipment under noncancellable operating leases with various expiration dates. The leases have noncancellable remaining terms of 1 year to 18 years, some of which include options to extend for up to 5 years, and some of which include options to terminate within 1 year.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We plan to continue to reinvest a significant portion of our income from operations in future periods to grow and innovate our business and service offerings and expand our leadership role in the cloud computing industry. We drive innovation organically and, to a lesser extent, through acquisitions. We regularly evaluate acquisitions and investment opportunities in complementary businesses, joint ventures, services, technologies and intellectual property rights in an effort to expand our service offerings and to nurture the overall ecosystem for our offerings. Past acquisitions have enabled us to deliver innovative solutions in new categories, including analytics and integration. We continue to evaluate investment opportunities and expect to continue to make investments and acquisitions in the future, such as our pending acquisition of Slack. Slack has an integrated value proposition across all of our service offerings and, upon close of the transaction and successful product integration, we believe it will further enable companies to grow and succeed in an all-digital, work-from-anywhere era. ||| Subscription and support revenues are primarily comprised of subscription fees from customers accessing our enterprise cloud computing services (collectively, "Cloud Services"). Cloud Services allow customers to use our multi-tenant software without taking possession of the software. Revenue is generally recognized ratably over the contract term. With the May 2018 acquisition of MuleSoft and the August 2019 acquisition of Tableau, subscription and support revenues also include revenues associated with software licenses. Software license revenues include fees from the sales of term and perpetual licenses. Revenues from software licenses are generally recognized upfront when the software is made available to the customer and revenues from the related support are generally recognized ratably over the contract term. Changes in contract duration for multi-year licenses can impact the amount of revenues recognized upfront. Revenues from software licenses represent less than ten percent of total subscription and support revenue for fiscal 2021. ||| Revenue Recognition - Contracts with Multiple Performance Obligations. We enter into contracts with our customers that may include promises to transfer multiple Cloud Services, software licenses, premium support and professional services. A performance obligation is a promise in a contract with a customer to transfer products or services that are distinct. Determining whether products and services are distinct performance obligations that should be accounted for separately or combined as one unit of accounting may require significant judgment.

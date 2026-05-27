@@ -1,0 +1,21 @@
+FIRM         : NTRS (CIK 0000073124) | FY2019
+FILE         : 0000073124_NTRS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Buildings and equipment owned are carried at original cost less accumulated depreciation. The charge for depreciation is computed using the straight-line method based on the following range of lives: buildings – up to 30 years ; equipment – 3 to 10 years ; and leasehold improvements – the shorter of the lease term or 15 years .
+
+[VERBATIM — Infrastructure IA]
+Northern Trust’s business resiliency mitigation and preventative measures include sophisticated physical security, resilient designs and peer capacity for its corporate data centers, a highly redundant global network, robust network security, resiliency centers that offer alternative workstations, and transfer of work and work-from-home programs that provide further capability.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, “Intangibles - Goodwill and Other - Internal - Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force)” (ASU 2018-15). ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal use software license). ASU 2018-15 is effective for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years, although early adoption is permitted. ASU 2018-15 is not expected to have a significant impact on Northern Trust’s consolidated financial condition or results of operations.

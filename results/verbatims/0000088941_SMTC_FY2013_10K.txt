@@ -1,0 +1,23 @@
+FIRM         : SMTC (CIK 0000088941) | FY2013
+FILE         : 0000088941_SMTC_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4: Investments
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The following is a summary of property and equipment, at cost less accumulated depreciation:
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment are stated at cost. The Company’s cost basis includes certain assets acquired in business combinations that were initially recorded at fair value as of the date of acquisition. Depreciation is computed over the estimated useful lives of the related asset type or term of the operating lease using the straight-line method for financial statement purposes. Maintenance and repairs are charged to expense as incurred and the costs of additions and betterments that increase the useful lives of the assets are capitalized.
+
+[VERBATIM — Infrastructure IA]
+revenues within the Enterprise Computing end-market benefited from a full year of Gennum revenue, with particular strength from optical communications which was well positioned for the upgrading of data centers and the build-out of wireless infrastructure. Strength from these areas was primarily offset by a decline in the Communications market with particular weakness in 40Gbps and 100Gbps SerDes devices. The weakness in the Communications market was the result of continued delays in the release of capital investment tenders, primarily in China, and pricing pressure in this space as current suppliers to this market compete for the existing business. Higher revenue in the Industrial end-market was attributed to higher sales of video broadcast products. Revenue from the licensing of intellectual property was $2.5 million and $8.6 million in fiscal years 2014 and 2013, respectively. Licensing revenue in fiscal year 2013 benefited from a single licensing arrangement that resulted in the recognition of $7.5 million of revenue.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

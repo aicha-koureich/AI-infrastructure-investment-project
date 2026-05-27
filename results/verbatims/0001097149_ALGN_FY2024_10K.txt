@@ -1,0 +1,21 @@
+FIRM         : ALGN (CIK 0001097149) | FY2024
+FILE         : 0001097149_ALGN_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3 “Balance Sheet Components" of the Notes of Consolidated Financial Statements
+ASSET CAT.   : equipment, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 3.0 ans | 13.0 ans
+
+[VERBATIM — Durée de vie]
+These costs primarily include employee related costs, including payroll, benefits and stock-based compensation, equipment, material and maintenance costs, outside consulting expenses, depreciation and amortization expense and allocations of corporate overhead expenses including facilities and information technology (“IT”).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

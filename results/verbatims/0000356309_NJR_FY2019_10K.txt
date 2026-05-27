@@ -1,0 +1,23 @@
+FIRM         : NJR (CIK 0000356309) | FY2019
+FILE         : 0000356309_NJR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-11-13
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5. Derivative Instruments
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company capitalizes certain costs, such as software design and configuration, coding, testing and installation, that are incurred to purchase or create and implement computer software for internal use. Capitalized costs include external costs of materials and services utilized in developing or obtaining internal-use software and payroll and payroll-related costs for employees who are directly associated with and devote time to the internal-use software project. Maintenance costs are expensed as incurred. Upgrades and enhancements are capitalized if it is probable that such expenditures will result in additional functionality. Amortization is recorded on the straight-line basis over the estimated useful lives. The Company capitalized $6.5 million in other noncurrent assets on the Consolidated Balance Sheets and recorded $9.1 million in O&M on the Consolidated Statements of Operations for the fiscal year ended September 30, 2019 , related to information technology replacement and enhancement projects.
+
+[VERBATIM — Changement de politique]
+On January 31, 2018, the BPU issued an Order which directed New Jersey utilities to submit filings to the BPU by March 2, 2018, to propose the prospective change in base rates as a result of the Tax Act to be effective April 1, 2018, the method to return to customers the overcollection of taxes in base rates from January 1, 2018, through March 31, 2018 and an outline of the method by which the excess deferred taxes would be returned to customers. The excess deferred taxes are primarily related to timing differences associated with utility plant depreciation and are subject to IRS normalization rules, which require amortization over the remaining life of the utility plant.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

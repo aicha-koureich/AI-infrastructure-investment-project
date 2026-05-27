@@ -1,0 +1,21 @@
+FIRM         : AGCO (CIK 0000880266) | FY2020
+FILE         : 0000880266_AGCO_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Operations and Summary of Significant Accounting Policies
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are recorded at cost, less accumulated depreciation and amortization. Depreciation is provided on a straight-line basis over the estimated useful lives of ten to 40 years for buildings and improvements, three to 15 years for machinery and equipment and three to ten years for furniture and fixtures.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• ASU 2018-15 – “Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract” was adopted in 2020. ||| ASU 2018-15 – “Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract” was adopted in 2020.

@@ -1,0 +1,32 @@
+FIRM         : ARES (CIK 0001176948) | FY2014
+FILE         : 0001176948_ARES_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+ASSET CAT.   : furniture, equipment, computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Fixed assets, consisting of furniture, fixtures and equipment, leasehold improvements, and computer hardware and internal use software,
+are recorded at cost, less accumulated depreciation and amortization.
+
+[VERBATIM — Changement de politique]
+Economic
+net income ("ENI") is a key performance indicator used in the alternative asset management industry. ENI represents net income excluding (a) income tax expense,
+(b) operating results of Consolidated Funds, (c) depreciation expense, (d) the effects of changes arising from corporate actions
+and (e) certain other items that the Company does not believe are indicative of its core performance. Changes arising from corporate actions include equity-based compensation expenses, the
+amortization of intangible assets, transaction costs associated with acquisitions and capital transactions, placement fees and underwriting costs and expenses incurred in connection with corporate
+reorganization. The Company believes the exclusion of these items provides investors with a meaningful indication of the Company's core operating performance. ENI is evaluated regularly by management
+as a decision tool for deployment of resources and assess performances of each of the business segments. The Company believes that reporting ENI is helpful in understanding its business and that
+investors should review the same supplemental non-GAAP financial measures that management uses to analyze the segment performance. These measures supplement and should be considered in addition to,
+and not in lieu of, the Consolidated Statements of Operations prepared in accordance with GAAP.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

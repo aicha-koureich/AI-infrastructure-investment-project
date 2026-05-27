@@ -1,0 +1,20 @@
+FIRM         : NEM (CIK 0001164727) | FY2020
+FILE         : 0001164727_NEM_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B100 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Expenditures for new facilities or equipment and expenditures that extend the useful lives of existing facilities or equipment are capitalized and recorded at cost. The facilities and equipment are depreciated using the straight-line method at rates sufficient to depreciate such capitalized costs over the estimated productive lives of such facilities.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Capitalization of Certain Cloud Computing Implementation Costs ||| In August 2018, ASU No. 2018-15 was issued which allows for the capitalization for certain implementation costs incurred in a cloud computing arrangement that is considered a service contract. The Company adopted this standard as of January 1, 2020. The adoption did not have a material impact on the Consolidated Financial Statements or disclosures.

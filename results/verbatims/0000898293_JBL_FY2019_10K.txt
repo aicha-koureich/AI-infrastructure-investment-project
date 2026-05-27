@@ -1,0 +1,25 @@
+FIRM         : JBL (CIK 0000898293) | FY2019
+FILE         : 0000898293_JBL_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Net revenue increased during the fiscal year ended August 31, 2019 compared to the fiscal year ended August 31, 2018. Specifically,
+the EMS segment revenues increased 26% primarily due to (i) a 10% increase in revenues from new customers within our cloud business, (ii) an 8% increase in revenues from existing customers within our industrial and energy business,
+(iii) a 6% increase in revenues from existing customers within our networking and telecommunications business, (iv) a 5% increase in revenues from existing customers within our print and retail business and (v) a 1% increase in
+revenues spread across various industries within the EMS segment. The increase is partially offset by a 4% decrease from existing customers within our computing and storage business and our capital equipment business, which we expect to remain weak
+into the second half of calendar year 2020. DMS segment revenues remained consistent due to a 7% increase in revenues from new and existing customers in our healthcare and packaging businesses. The increase is offset by a 7% decrease in revenue from
+customers within our mobility business as a result of decreased end user product demand.

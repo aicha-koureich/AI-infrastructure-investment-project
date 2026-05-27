@@ -1,0 +1,29 @@
+FIRM         : ZBH (CIK 0001136869) | FY2015
+FILE         : 0001136869_ZBH_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 2. Revision of Prior Period Financial Statements In the three
+month period ended September 30, 2015, we discovered two errors related to our financial
+ASSET CAT.   : Equipment, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment Property,
+plant and equipment consisted of the following (in millions): As of December 31, 2015 2014 Land $ 39.6 $ 20.4 Building and equipment 1,789.3 1,283.4 Capitalized software costs 330.1 294.7 Instruments 2,160.5 1,692.8 Construction in progress 108.4 115.8 4,427.9 3,407.1 Accumulated depreciation (2,365.3 ) (2,121.8 ) Property, plant and equipment, net $ 2,062.6 $ 1,285.3 Depreciation expense was $375.0 million, $268.6 million and $262.6 million for the years ended
+December 31, 2015, 2014 and 2013, respectively.
+
+[VERBATIM — Changement de politique]
+Adjustments to the initial preliminary fair values of the assets acquired and liabilities
+assumed related to a change in estimate to the fair value of merger compensation expense for unvested LVB stock options and LVB stock-based awards, refinement of the estimated fair values of inventory, property, plant and equipment and intangible
+assets, refinement of income and deferred tax balances and adjustments to contingent liabilities and contingent gains based upon additional evidence obtained, among other adjustments. There may be additional adjustments to these preliminary
+estimates of fair value which could be material.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

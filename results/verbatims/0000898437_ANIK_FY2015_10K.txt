@@ -1,0 +1,24 @@
+FIRM         : ANIK (CIK 0000898437) | FY2015
+FILE         : 0000898437_ANIK_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31,
+        2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, furniture and fixtures, machinery and equipment
+DURÉE        : 2.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost and depreciated using the
+straight-line method over their estimated useful lives. Equipment and software are typically amortized over two to ten years, and
+furniture and fixtures over five to seven years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

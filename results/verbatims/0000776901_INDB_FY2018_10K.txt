@@ -1,0 +1,20 @@
+FIRM         : INDB (CIK 0000776901) | FY2018
+FILE         : 0000776901_INDB_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 5 BANK PREMISES AND EQUIPMENT
+ASSET CAT.   : equipment, computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense related to bank premises and equipment was $9.1 million in 2018 , $8.5 million in 2017 , and $7.3 million in 2016 , which is primarily included in occupancy and equipment expenses. Depreciation expense relating to computer software is included within other noninterest expense.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,27 @@
+FIRM         : LOPE (CIK 0001434588) | FY2016
+FILE         : 0001434588_LOPE_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Instructional costs and services consist primarily of costs related to the administration and delivery of the University’s educational
+programs. This expense category includes salaries, benefits and share-based compensation for full-time and adjunct faculty and administrative personnel, information technology costs, bad debt expense, curriculum and new program development costs
+(which are expensed as incurred) and costs associated with other support groups that provide services directly to the students. This category also includes an allocation of depreciation, amortization, rent, and occupancy costs attributable to the
+provision of educational services, primarily at the University’s Phoenix, Arizona campus.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued, “ Intangibles-Goodwill and Other-Internal-Use Software, Customer’s Accounting for Fees Paid in a
+Cloud Computing Arrangement .” The guidance requires customers to determine whether a cloud computing arrangement contains a software license. If the arrangement contains a software license, customers must account for fees related to the
+software license element in a manner consistent with how the acquisition of other software licenses is accounted for under ASC 350-40; if the arrangement does not contain a software license, customers must account for the arrangement as a service
+contract. The University adopted this standard on January 1, 2016 on a prospective basis, and the adoption of this guidance did not have a material impact on its financial condition, results of operations, or disclosures. Our current accounting
+policy for cloud computing arrangements is in compliance with the new guidance.

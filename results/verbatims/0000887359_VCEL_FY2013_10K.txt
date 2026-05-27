@@ -1,0 +1,20 @@
+FIRM         : VCEL (CIK 0000887359) | FY2013
+FILE         : 0000887359_VCEL_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment — Property and equipment is recorded at cost and depreciated or amortized using the straight-line method over the estimated useful life of the asset (primarily three to five years) or the underlying lease term for leasehold improvements, whichever is shorter.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

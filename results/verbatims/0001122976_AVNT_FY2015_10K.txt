@@ -1,0 +1,23 @@
+FIRM         : AVNT (CIK 0001122976) | FY2015
+FILE         : 0001122976_AVNT_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 16,
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is carried at cost, net of depreciation and amortization that is computed using the straight-line method over the estimated useful lives of the assets, which generally ranges from
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment is generally depreciated on accelerated methods for income tax purposes.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

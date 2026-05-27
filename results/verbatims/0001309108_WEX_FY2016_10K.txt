@@ -1,0 +1,20 @@
+FIRM         : WEX (CIK 0001309108) | FY2016
+FILE         : 0001309108_WEX_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 25. Quarterly Financial Results (Unaudited)
+ASSET CAT.   : equipment, capitalized software, Furniture, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, equipment and capitalized software, net consist of the following: December 31, 2016 2015 Furniture, fixtures and equipment $ 69,513 $ 63,278 Computer software 254,163 212,504 Software under development 49,922 39,694 Leasehold improvements 21,257 14,492 Capital leases 759 757 Total 395,614 330,725 Less: accumulated depreciation and amortization (228,336 ) (192,140 ) Total property, equipment and capitalized software, net $ 167,278 $ 138,585
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

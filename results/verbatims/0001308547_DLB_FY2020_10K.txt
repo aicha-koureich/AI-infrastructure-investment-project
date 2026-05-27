@@ -1,0 +1,21 @@
+FIRM         : DLB (CIK 0001308547) | FY2020
+FILE         : 0001308547_DLB_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 25, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment provided under operating leases
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-8.0 ans | 5.0-8.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+PP&E Category Useful Life Computer equipment and software 3 to 5 years Machinery and equipment 3 to 8 years Furniture and fixtures 5 to 8 years Leasehold improvements Lesser of useful life or related lease term Equipment provided under operating leases 15 years Buildings and building improvements 20 to 40 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

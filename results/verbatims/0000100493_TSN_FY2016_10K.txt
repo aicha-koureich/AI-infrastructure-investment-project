@@ -1,0 +1,20 @@
+FIRM         : TSN (CIK 0000100493) | FY2016
+FILE         : 0000100493_TSN_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1: BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost and generally depreciated on a straight-line method over the estimated lives for buildings and leasehold improvements of
+
+[VERBATIM — Infrastructure IA]
+to build a new data center. JHT, LLC (for which Mr. John Tyson is the manager), is owned  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued guidance on the recognition of fees paid by a customer for cloud computing arrangements. The guidance clarifies that if a cloud computing arrangement includes a software license, the customer should account for the software license consistent with the acquisition of other software licenses. If the arrangement does not include a software license, the customer should account for the arrangement as a service contract. The guidance is effective for annual reporting periods and interim periods within those annual reporting periods beginning after December 15, 2015, our fiscal 2017, and should be applied prospectively or retrospectively, of which we will apply prospectively. The adoption of this guidance is not expected to have a material impact on our consolidated financial statements.

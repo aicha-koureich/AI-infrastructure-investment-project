@@ -1,0 +1,21 @@
+FIRM         : SHAK (CIK 0001620533) | FY2020
+FILE         : 0001620533_SHAK_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES Basis of Presentation
+ASSET CAT.   : computer equipment and software
+DURÉE        : 2.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment, net is stated at historical cost less accumulated depreciation. Property and equipment is depreciated based on the straight-line method over the estimated useful lives of the assets, generally ranging from five to seven years for both equipment, and furniture and fixtures, and two to five years for computer equipment and software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Amortization of cloud computing asset ||| Other assets consist primarily of capitalized implementation costs from cloud computing arrangements, transferable liquor licenses, certain custom furniture pre-ordered for future Shacks and yet to be placed in service and security deposits.

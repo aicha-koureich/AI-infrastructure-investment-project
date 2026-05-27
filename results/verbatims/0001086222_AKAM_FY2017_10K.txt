@@ -1,0 +1,23 @@
+FIRM         : AKAM (CIK 0001086222) | FY2017
+FILE         : 0001086222_AKAM_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : network providers with terms typically ranging from several months to
+DURÉE        : 5.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Cost of revenue also includes employee costs for services delivery and network operation, build-out and support of the Company's network; network storage costs; cost of software licenses; depreciation of network equipment used to deliver the Company’s services; amortization of network-related internal-use software; and costs for the production of live events streamed by the Company for customers.
+
+[VERBATIM — Changement de politique]
+Significant estimates, judgments and assumptions used in these financial statements include, but are not limited to, those related to revenue, accounts receivable and related reserves, valuation and impairment of investments and marketable securities, valuation and useful lives of acquired intangible assets, useful lives and realizability of long-lived assets, capitalized internal-use software development costs, income tax reserves and accounting for stock-based compensation.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue consists primarily of fees paid to network providers for bandwidth and to third-party network data centers for housing servers, also known as co-location costs. Cost of revenue also includes employee costs for services delivery and network operation, build-out and support of the Company's network; network storage costs; cost of software licenses; depreciation of network equipment used to deliver the Company’s services; amortization of network-related internal-use software; and costs for the production of live events streamed by the Company for customers. The Company enters into contracts for bandwidth with third-party network providers with terms typically ranging from several months to five years. These contracts generally commit the Company to pay minimum monthly fees plus additional fees for bandwidth usage above the committed level. In some circumstances, Internet service providers (“ISPs”) make rack space available for the Company’s servers and access to their bandwidth at a discount or no cost. In exchange, the ISP and its customers benefit by receiving content through a local Company server resulting in better content delivery. The Company does not consider these relationships to represent the culmination of an earnings process. Accordingly, the Company does not recognize as revenue the value to the ISPs associated with the use of the Company’s servers, nor does the Company recognize as expense the value of the rack space and bandwidth received at discounted or no cost.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We provide cloud services for delivering, optimizing and securing content and business applications over the Internet. The key factors that influence our financial success are our ability to build on recurring revenue commitments for our performance and security offerings, increase media traffic on our network, develop new products and carefully manage our capital spending and other expenses.

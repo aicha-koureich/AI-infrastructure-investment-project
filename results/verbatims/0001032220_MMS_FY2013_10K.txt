@@ -1,0 +1,22 @@
+FIRM         : MMS (CIK 0001032220) | FY2013
+FILE         : 0001032220_MMS_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Business and summary of significant accounting policies (Continued)
+ASSET CAT.   : capitalized software
+DURÉE        : 3.0-8.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-8.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Direct costs of time and material incurred for the
+development of application software for internal use are capitalized and amortized using the straight-line method over the estimated useful life of the software, ranging from three to eight years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : BNED (CIK 0001634117) | FY2016
+FILE         : 0001634117_BNED_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Organization
+ASSET CAT.   : equipment, Capitalized software, furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of Useful Life April 30, 2016 May 2, 2015 Property and equipment: Leasehold improvements (a) $ 142,595 $ 138,307 Display fixtures and equipment 3-5 219,289 206,705 Capitalized software costs (b) 88,937 83,958 Office furniture and other 5-7 46,856 44,740 Construction in Progress 17,302 10,758 Total property and equipment 514,979 484,468 Less accumulated depreciation and amortization 403,794 376,911 Total property and equipment, net $ 111,185 $ 107,557
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement ||| (“ASU 2015-05”) to simplify the accounting for cloud computing arrangements. The amendments in this update requires that if a cloud computing arrangement includes a software license, then a customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The guidance will not change GAAP for a customer’s accounting for service contracts. We are required to adopt this standard in the first quarter of fiscal 2017, but have early adopted this standard during the fourth quarter of fiscal 2016 as permitted. This standard does not have an impact on our consolidated financial statements. ||| In April 2015, the FASB issued ASU No. 2015-05, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement (“ASU 2015-05”) to simplify the accounting for cloud computing arrangements. The amendments in this update requires that if a cloud computing arrangement includes a software license, then a customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The guidance will not change GAAP for a customer’s accounting for service contracts. We are required to adopt this standard in the first quarter of fiscal 2017, but have early adopted this standard during the fourth quarter of fiscal 2016 as permitted. This standard does not have an impact on our consolidated financial statements.

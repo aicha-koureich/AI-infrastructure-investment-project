@@ -1,0 +1,20 @@
+FIRM         : RLI (CIK 0000084246) | FY2018
+FILE         : 0000084246_RLI_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment and up to 30 years for buildings and improvements
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are presented at cost less accumulated depreciation and are depreciated on a straight-line basis for financial statement purposes over periods ranging from 3 to 10 years for equipment and up to 30 years for buildings and improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract ||| ASU 2018-15 requires a customer in a cloud computing arrangement (i.e. hosting arrangement) that is a service contract to follow the internal-use software guidance to determine which implementation costs to capitalize as assets or expense as incurred. Relevant implementation costs in the development stage are capitalized, while costs incurred during the preliminary project and post-implementation stages are expensed as the activities are performed. Capitalized costs are expensed over the term of the hosting arrangement. This ASU is effective for annual and interim reporting periods beginning after December 15, 2019. Early adoption is permitted. This update can either be applied retrospectively or prospectively to all implementation costs incurred after the date of adoption. We have not yet completed the analysis of how adopting this ASU will affect our financial statements.

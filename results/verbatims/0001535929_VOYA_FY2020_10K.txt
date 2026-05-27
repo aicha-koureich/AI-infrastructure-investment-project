@@ -1,0 +1,20 @@
+FIRM         : VOYA (CIK 0001535929) | FY2020
+FILE         : 0001535929_VOYA_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-09-30
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15, Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract ||| Standard Description of Requirements Effective Date and Method of Adoption Effect on the Financial Statements or Other Significant Matters ASU 2018-15, Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract This standard, issued in August 2018, requires a customer in a hosting arrangement that is a service contract to follow the guidance for internal-use software projects to determine which implementation costs to capitalize as an asset. Capitalized implementation costs are required to be expensed over the term of the hosting arrangement. In addition, a customer is required to apply the impairment and abandonment guidance for long-lived assets to the capitalized implementation costs. Balances related to capitalized implementation costs must be presented in the same financial statement line items as other hosting arrangement balances, and additional disclosures are required. January 1, 2020 using the prospective method. Adoption of the ASU did not have a material impact on the Company's financial condition, results of operations, or cash flows. ASU 2018-13, Changes to the Disclosure Requirements for Fair Value Measurement This standard, issued in August 2018, simplifies certain disclosure requirements for fair value measurement. January 1, 2020 using the transition method prescribed for each applicable provision. Adoption of the ASU had no effect on the Company's financial condition, results of operations, or cash flows. The adoption resulted in various disclosure changes that have been included in Note 5, Fair Value Measurements . ||| Implementation Costs Incurred in a Cloud Computing Arrangement

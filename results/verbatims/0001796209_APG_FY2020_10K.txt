@@ -1,0 +1,20 @@
+FIRM         : APG (CIK 0001796209) | FY2020
+FILE         : 0001796209_APG_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 10. Property and Equipment, Net
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation related to property and equipment, including finance leases, was $81, $18, $52, and $60 for the years ended December 31, 2020 and 2019 (Successor), the period from January 1, 2019 through September 30, 2019 (Predecessor), and the year ended December 31, 2018 (Predecessor), respectively, and is included within cost of revenues and selling, general, and administrative expense in the consolidated statements of operations.
+
+[VERBATIM — Infrastructure IA]
+The Safety Services segment focuses on end-to-end integrated occupancy systems (fire protection services, HVAC, and entry systems) including installation, inspection and service, and design of these integrated systems. The work performed within this segment includes, but is not limited to, customers in various industries and facilities including commercial, data center, distribution, education, healthcare, high tech, industrial and special-hazard settings .  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force) . The new guidance requires a customer in a cloud computing arrangement that is a service contract to follow the internal-use software guidance in ASC Subtopic 350-402 to determine which implementation costs to capitalize as assets. The guidance is effective for fiscal years beginning after December 15, 2019, with early adoption permitted. The Company adopted this guidance as of January 1, 2018. The adoption of this guidance did not have a material impact on the Company’s consolidated financial statements. ||| Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force)

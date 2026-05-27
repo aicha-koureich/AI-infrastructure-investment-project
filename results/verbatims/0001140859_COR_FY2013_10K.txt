@@ -1,0 +1,21 @@
+FIRM         : COR (CIK 0001140859) | FY2013
+FILE         : 0001140859_COR_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies
+ASSET CAT.   : buildings and improvements and from 3 to 10 years for machinery, equipment and other
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost and depreciated using the straight-line method over the estimated useful lives of the assets,
+which range from 3 to 40 years for buildings and improvements and from 3 to 10 years for machinery, equipment and other.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

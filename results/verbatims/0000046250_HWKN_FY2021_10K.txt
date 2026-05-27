@@ -1,0 +1,20 @@
+FIRM         : HWKN (CIK 0000046250) | FY2021
+FILE         : 0000046250_HWKN_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : April 3, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — Nature of Business and Significant Accounting Policies
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment - Property is stated at cost and depreciated or amortized over the lives of the assets, using the straight-line method. Estimated lives are: 10 to 40 years for buildings and improvements; 3 to 20 years for machinery and equipment; and 3 to 10 years for transportation equipment and office furniture and equipment including computer systems.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

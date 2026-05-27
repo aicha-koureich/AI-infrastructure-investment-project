@@ -1,0 +1,23 @@
+FIRM         : UPS (CIK 0001090727) | FY2018
+FILE         : 0001090727_UPS_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: note 2
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software is generally amortized over
+
+[VERBATIM — Changement de politique]
+We evaluate the useful lives of our property, plant and equipment based on our usage, maintenance and replacement policies, and taking into account physical and economic factors that may affect the useful lives of the assets. As part of our ongoing investment in transformation in 2018, we revised our estimates of useful lives for building improvements, vehicles and plant equipment based on our current assessment of these factors. In general, the change in estimate had the effect of lengthening the useful lives of building improvements, vehicles and plant equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

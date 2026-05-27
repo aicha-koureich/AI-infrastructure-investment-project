@@ -1,0 +1,21 @@
+FIRM         : LRCX (CIK 0000707549) | FY2022
+FILE         : 0000707549_LRCX_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-06-26
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2: Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment, Furniture and fixtures
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Equipment is depreciated by the straight-line method over the estimated useful lives of the assets, generally three to five years. Software is amortized by the straight-line method over the estimated useful lives of the assets, generally three to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Demand from cloud computing, the IoT, and other markets is driving the need for increasingly powerful and cost - efficient semiconductors. At the same time, there are growing technical challenges with traditional two-dimensional scaling. These trends are driving significant inflections in semiconductor manufacturing, such as the increasing importance of vertical scaling strategies like three-dimensional architecture as well as multiple patterning to enable shrinks. ||| Demand from cloud computing, the IoT, and other markets is driving the need for increasingly powerful and cost

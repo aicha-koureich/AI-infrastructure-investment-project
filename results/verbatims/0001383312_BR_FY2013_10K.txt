@@ -1,0 +1,27 @@
+FIRM         : BR (CIK 0001383312) | FY2013
+FILE         : 0001383312_BR_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : JUNE 30, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Costs directly related to the activities necessary to make the data center usable for its intended purpose are deferred and amortized over the life of the contract on a straight-line basis commencing on the
+date the data center has achieved full functionality.
+
+[VERBATIM — Infrastructure IA]
+I. Deferred Data Center Costs. Data center costs relate to conversion costs associated with our principal
+data center systems and applications. Costs directly related to the activities necessary to make the data center usable for its intended purpose are deferred and amortized over the life of the contract on a straight-line basis commencing on the
+date the data center has achieved full functionality. These deferred costs are reflected in Other non-current assets in the Consolidated Balance Sheets at June 30, 2013 and 2012, respectively. See Note 11, “Other non-current
+assets”.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The Company entered into a data center outsourcing services agreement with ADP before the
+Company’s spin-off from ADP in March 2007 (the “ADP Agreement”) under which ADP provided the Company with data center services. The ADP Agreement expired on June 30, 2012. The Company entered into a short-term extension of the
+ADP Agreement which expired in August 2012. At June 30, 2013, the Company has no further obligation to ADP for data center services. For the fiscal years ended June 30, 2013, 2012 and 2011, the Company recorded expenses of $5.8
+million, $111.4 million and $110.4 million, respectively, in the Consolidated Statements of Earnings related to the ADP Agreement.

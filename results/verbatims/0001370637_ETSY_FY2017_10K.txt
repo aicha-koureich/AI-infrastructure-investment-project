@@ -1,0 +1,21 @@
+FIRM         : ETSY (CIK 0001370637) | FY2017
+FILE         : 0001370637_ETSY_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1—Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-3.0 ans | 2.0-4.0 ans | 3.0 ans
+
+[VERBATIM — Durée de vie]
+Cost of revenue also includes expenses associated with the operation and maintenance of the Company’s platform and data centers, including depreciation and amortization, employee-related costs and hosting and bandwidth costs.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue primarily consists of the cost of interchange and other fees for credit card processing services, credit card verification service fees and credit card chargebacks to support Etsy Payments revenue and costs of refunds made to Etsy buyers that the Company is not able to collect from Etsy sellers. Cost of revenue also includes expenses associated with the operation and maintenance of the Company’s platform and data centers, including depreciation and amortization, employee-related costs and hosting and bandwidth costs.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+If a cloud computing arrangement includes a software license, then the Company accounts for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the Company accounts for the arrangement as a service contract.

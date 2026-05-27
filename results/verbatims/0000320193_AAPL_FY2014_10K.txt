@@ -1,0 +1,24 @@
+FIRM         : AAPL (CIK 0000320193) | FY2014
+FILE         : 0000320193_AAPL_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 27, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : Not disclosed
+DURÉE        : 2.0-4.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-4.0 ans | 2.0-5.0 ans | 3.0-5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+software upgrade rights and the non-software services is deferred and recognized on a straight-line basis over the estimated period the software upgrades and non-software services are expected to
+be provided for each of these devices, which ranges from two to four years.
+
+[VERBATIM — Infrastructure IA]
+The Company anticipates utilizing approximately $13.0 billion for capital expenditures during 2015, including approximately $600 million for retail store
+facilities and approximately $12.4 billion for other capital expenditures, including product tooling and manufacturing process equipment, data centers and corporate facilities and infrastructure, including information systems hardware, software and
+enhancements.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

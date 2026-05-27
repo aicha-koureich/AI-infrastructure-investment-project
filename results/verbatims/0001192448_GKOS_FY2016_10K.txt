@@ -1,0 +1,20 @@
+FIRM         : GKOS (CIK 0001192448) | FY2016
+FILE         : 0001192448_GKOS_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 14. Subsequent events
+ASSET CAT.   : equipment, Furniture and fixtures, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+At December 31, 2015 Maturity Amortized cost Unrealized Unrealized Estimated (in years) or cost gains losses fair value U.S. government agency bonds 1-3 $ 5,513 $ — $ (10) $ 5,503 Commercial paper less than 1 12,342 — (2) 12,340 Corporate notes 1-3 45,051 — (110) 44,941 Asset-backed securities 1-3 6,794 — (26) 6,768 Total $ 69,700 $ — $ (148) $ 69,552 Accounts receivable, net Accounts receivable consisted of the following (in thousands): December 31, 2016 2015 Accounts receivable $ 14,800 $ 7,632 Less allowance for doubtful accounts (495) (83) $ 14,305 $ 7,549 Inventory Inventory consisted of the following (in thousands): December 31, 2016 2015 Finished goods $ 2,014 $ 953 Work in process 2,105 1,123 Raw material 2,725 2,021 $ 6,844 $ 4,097 Property and equipment, net Property and equipment consisted of the following (in thousands): December 31, 2016 2015 Buildings $ 874 $ — Equipment 5,342 4,597 Furniture and fixtures 639 387 Leasehold improvements 3,474 999 Computer equipment and software 1,239 836 Construction in progress 1,320 12 12,888 6,831 Less accumulated depreciation and amortization (5,295) (4,677) $ 7,593 $ 2,154 Depreciation and amortization expense related to property and equipment was $1.1 million, $0.8 million and $0.7 million for the years ended December 31, 2016, 2015 and 2014, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

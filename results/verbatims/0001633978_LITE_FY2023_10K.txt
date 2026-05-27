@@ -1,0 +1,21 @@
+FIRM         : LITE (CIK 0001633978) | FY2023
+FILE         : 0001633978_LITE_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-07-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : building and improvements
+DURÉE        : 2.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is computed by the straight-line method generally over the following estimated useful lives of the assets: 10 to 40 years for building and improvements, 3 to 10 years for machinery and equipment, and 2 to 5 years for furniture, fixtures, software and office equipment.
+
+[VERBATIM — Infrastructure IA]
+Our OpComms products include a wide range of components, modules and subsystems to support customers including carrier networks for access (local), metro (intracity), long-haul (city-to-city and worldwide) and submarine (undersea) applications. Additionally, our products address enterprise, cloud, and data center applications, including storage-access networks (“SANs”), local-area networks (“LANs”) and wide-area networks (“WANs”), as well as artificial intelligence and machine learning (“AI/ML”). These products enable the transmission and transport of video, audio and data over high-capacity fiber-optic cables. We maintain leading positions in these fast-growing OpComms markets through our extensive product portfolio, including reconfigurable optical add/drop multiplexers (“ROADMs”), coherent dense wavelength division multiplexing (“DWDM”) pluggable transceivers, and tunable small form-factor pluggable transceivers. We also sell laser chips for use in manufacturing of high-speed Datacom transceivers.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+On August 3, 2022 (the “Closing date”), we completed our merger with NeoPhotonics Corporation (“NeoPhotonics”). The addition of NeoPhotonics expands our opportunities in some of the fastest growing markets for optical components used in cloud and telecom network infrastructure. The integrated company is better positioned to serve the needs of a global customer base who are increasingly utilizing photonics to accelerate the shift to digital and virtual approaches to work and life, the proliferation of IoT, 5G, and next-generation mobile networks, and the transition to advanced cloud computing architectures.

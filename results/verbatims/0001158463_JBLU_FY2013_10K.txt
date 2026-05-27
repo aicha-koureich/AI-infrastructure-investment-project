@@ -1,0 +1,23 @@
+FIRM         : JBLU (CIK 0001158463) | FY2013
+FILE         : 0001158463_JBLU_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1—Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated useful lives and residual values for our property and equipment are as follows:
+
+[VERBATIM — Changement de politique]
+Our intangible assets consist primarily of acquired take-off and landing slots, or Slots, at certain domestic airports. Slots are rights to take-off or land at a specific airport during a specific time period during the day and are a means by which airport capacity and congestion can be managed. The Federal government controls Slots at four domestic airports under the High Density rule, including Reagan National Airport in Washington D.C. and LaGuardia and JFK Airport in New York City. In December 2013, due to recent regulatory and market activities stemming from the auctioning of slots at LaGuardia and Reagan National airports, we reassessed the useful lives of these assets and concluded that Slots at High Density airports are indefinite lived intangible assets and will no longer amortize them, while Slots at other airports will continue to be amortized on a straight-line basis over their expected useful lives, up to
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

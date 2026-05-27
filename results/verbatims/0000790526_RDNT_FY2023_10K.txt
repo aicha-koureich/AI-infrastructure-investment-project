@@ -1,0 +1,23 @@
+FIRM         : RDNT (CIK 0000790526) | FY2023
+FILE         : 0000790526_RDNT_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-10-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+SOFTWARE DEVELOPMENT COSTS – When we develop our own software and artificial intelligence solutions we capitalize and amortize those costs over their useful life.
+
+[VERBATIM — Changement de politique]
+We define Adjusted EBITDA as earnings before interest, taxes, depreciation and amortization, as adjusted to exclude losses or gains on the disposal of equipment, other income or loss, loss on debt extinguishment, bargain purchase gains, loss on de-consolidation of joint ventures, gain on contribution of imaging centers into joint ventures, and non-cash equity compensation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Adjusted EBITDA Including Losses from AI Segment and Provider Relief Funding ||| Adjusted EBITDA including losses from AI Segment and excluding benefit from Provider Relief Funding ||| Adjusted EBITDA Losses from AI segment

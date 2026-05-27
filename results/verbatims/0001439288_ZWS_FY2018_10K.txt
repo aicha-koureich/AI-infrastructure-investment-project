@@ -1,0 +1,21 @@
+FIRM         : ZWS (CIK 0001439288) | FY2018
+FILE         : 0001439288_ZWS_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 23. Subsequent Event
+ASSET CAT.   : computer hardware and software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is provided using the straight-line method over 10 to 30 years for buildings and improvements, 5 to 10 years for machinery and equipment and 3 to 5 years for computer hardware and software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

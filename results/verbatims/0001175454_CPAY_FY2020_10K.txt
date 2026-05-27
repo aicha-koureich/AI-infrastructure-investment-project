@@ -1,0 +1,20 @@
+FIRM         : CPAY (CIK 0001175454) | FY2020
+FILE         : 0001175454_CPAY_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-11-12
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : computer software, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Software development costs are amortized using the straight-line method over the estimated useful life of the software. Amortization expense for software totaled $40.2 million, $37.2 million and $24.2 million in 2020, 2019 and 2018, respectively.
+
+[VERBATIM — Infrastructure IA]
+The Company primarily leases office space, data centers, vehicles, and equipment. Some of our leases contain variable lease payments, typically payments based on an index. The Company’s leases have remaining lease terms of one year to thirty years, some of which include options to extend from one to five years or more. The exercise of lease renewal options is typically at the Company's sole discretion; therefore, the majority of renewals to extend the lease terms are not reasonably certain to exercise and are not included in Right of Use (ROU) assets and lease liabilities. Variable lease payments based on an index or rate are initially measured using the index or rate in effect at lease commencement, for the purposes of transition, the rate in effect at January 1, 2019. Additional payments based on the change in an index or rate are recorded as a period expense when incurred. Lease modifications result in remeasurement of the lease liability as of the modification date.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| On August 29, 2018, the FASB issued ASU 2018-15, "Intangibles—Goodwill and Other— Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract", that provides guidance on implementation costs incurred in a cloud computing arrangement (CCA) that is a service contract. The ASU, which was released in response to a consensus reached by the EITF at its June 2018 meeting, aligns the accounting for such costs with the guidance on capitalizing costs associated with developing or obtaining internal-use software. Specifically, the ASU amends ASC 350 to include in its scope implementation costs of a CCA that is a service contract and clarifies that a customer should apply ASC 350-40 to determine which implementation costs should be capitalized in such a CCA. The Company adopted this guidance on January 1, 2020, which did not have a material impact on the Company's results of operations, financial condition, or cash flows.

@@ -1,0 +1,23 @@
+FIRM         : RGS (CIK 0000716643) | FY2013
+FILE         : 0000716643_RGS_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2013
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. BUSINESS DESCRIPTION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+ASSET CAT.   : buildings
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property and equipment are carried at cost, less accumulated depreciation and amortization. Depreciation of property and equipment is
+computed using the straight-line method over their estimated useful asset lives (30 to 39 years for buildings, 10 years for improvements and three to ten years for equipment, furniture
+and software).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

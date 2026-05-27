@@ -1,0 +1,20 @@
+FIRM         : SBSI (CIK 0000705432) | FY2022
+FILE         : 0000705432_SBSI_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-11-14
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 5. LOANS AND ALLOWANCE FOR LOAN LOSSES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Our commercial loans are diversified loan types including short-term working capital loans for inventory and accounts receivable and short- and medium-term loans for equipment or other business capital expansion. In our commercial loan underwriting, we assess the creditworthiness, ability to repay and the value and liquidity of the collateral being offered. Terms of commercial loans are generally commensurate with the useful life of the collateral offered.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

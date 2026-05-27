@@ -1,0 +1,20 @@
+FIRM         : UFI (CIK 0000100726) | FY2016
+FILE         : 0000100726_UFI_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 26, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2015-05, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement , providing criteria for determining if a license of software, as part of a cloud services arrangement, is subject to capitalization under the existing guidance for internal-use software. The guidance is effective for the Company’s fiscal 2017.

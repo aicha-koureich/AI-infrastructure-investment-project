@@ -1,0 +1,23 @@
+FIRM         : CVLT (CIK 0001169561) | FY2020
+FILE         : 0001169561_CVLT_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 6. Property and Equipment
+ASSET CAT.   : servers, equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+March 31, 2021 2020 Land $ 9,445 $ 9,445 Buildings 103,244 103,244 Computers, servers and other equipment 42,117 40,044 Furniture and fixtures 14,689 14,919 Leasehold improvements 8,089 9,252 Purchased software 1,955 1,637 Construction in process 4,304 2,021 183,843 180,562 Less: Accumulated depreciation and amortization (71,064) (66,043) $ 112,779 $ 114,519
+
+[VERBATIM — Changement de politique]
+Our intangible assets (developed technology and customer relationships) were acquired in connection with the Hedvig, Inc. ("Hedvig") transaction. The most material of these assets was the developed technology. The value of this asset was attributable to forecasted incremental revenues directly attributable to this technology. While we have successfully integrated this technology into our existing HyperScale X technology, we have not met our forecasts for standalone sales of this acquired technology. During the second quarter of fiscal year 2021 we identified an indicator of impairment and concluded that the carrying values of the developed technology and customer relationships acquired in connection with the Hedvig transaction were not recoverable on an undiscounted basis. As a result, we remeasured the fair value of these assets and concluded their value was de minimis. We recorded a $40,700 impairment charge in the accompanying Consolidated Statements of Operations for the year ended March 31, 2021. These non-recurring fair value measurements were categorized as Level 3, as significant unobservable inputs were used in the valuation analysis. Key assumptions used in the valuation include forecasts of revenue and expenses over an extended period, the useful life of the asset, tax rates, and estimated costs of debt and equity capital to discount the projected cash flows. Certain of these assumptions involve significant judgment and are based on management’s estimate of current and forecasted market conditions.
+
+[VERBATIM — Infrastructure IA]
+We also sell appliances that integrate our software with hardware and address a wide-range of business needs and use cases, ranging from support for remote or branch offices with limited IT staff up to large corporate data centers. Revenue related to appliances is recognized when control of the appliances passes to the customer; typically upon delivery. In the second half of fiscal 2021 we began transitioning to a software only model in which we sell software to a third party, which assembles an integrated appliance that is sold to end user customers. As a result, we expect the revenue and costs associated with hardware will decline going forward. The revenue for hardware is included in software and products revenue and associated costs are included in cost of software and products revenue.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

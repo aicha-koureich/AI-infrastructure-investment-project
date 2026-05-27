@@ -1,0 +1,20 @@
+FIRM         : WSFS (CIK 0000828944) | FY2020
+FILE         : 0000828944_WSFS_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, computer equipment, furniture
+DURÉE        : 10.0-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B100;B200 (3 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment are stated at cost less accumulated depreciation and amortization. In general, computer equipment, furniture and equipment and building renovations are depreciated over three , five and ten years, respectively. Software, which includes purchased or externally hosted software is recorded in Other assets and is amortized on a straight-line basis over the lesser of the contract term or estimated useful life of the software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Topic 350) : In August 2018, the FASB issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Topic 350) . The new guidance provided clarity on capitalizing and expensing implementation costs for cloud computing arrangements in a service contract. If an implementation cost is capitalized, the cost should be recognized over the noncancellable term and periodically assessed for impairment. The guidance is effective in annual and interim periods in fiscal years beginning after December 15, 2019. Early adoption is permitted. Adoption can be applied retrospectively or prospectively to all implementation costs incurred after the date of adoption. The Company adopted this standard on January 1, 2020, on a prospective basis with no impact to the Consolidated Financial Statements at the time of adoption. ||| . The new guidance provided clarity on capitalizing and expensing implementation costs for cloud computing arrangements in a service contract. If an implementation cost is capitalized, the cost should be recognized over the noncancellable term and periodically assessed for impairment. The guidance is effective in annual and interim periods in fiscal years beginning after December 15, 2019. Early adoption is permitted. Adoption can be applied retrospectively or prospectively to all implementation costs incurred after the date of adoption. The Company adopted this standard on January 1, 2020, on a prospective basis with no impact to the Consolidated Financial Statements at the time of adoption.

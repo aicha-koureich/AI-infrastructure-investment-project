@@ -1,0 +1,20 @@
+FIRM         : TBRG (CIK 0001169445) | FY2020
+FILE         : 0001169445_TBRG_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : computer equipment, furniture, and fixtures
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense is computed using the straight-line method over the asset’s useful life, which is generally 5 years for computer equipment, furniture, and fixtures and 30 years for buildings.
+
+[VERBATIM — Infrastructure IA]
+Net cash used in investing activities decreased $5.8 million, with $6.7 million used during 2020 compared to $12.5 million used during 2019. Most notably, we used $10.7 million of cash during 2019 to fund our acquisition of Get Real Health, with no such acquisitions occurring during 2020. Conversely, our investing activities during 2020 included $3.3 million in capitalized software development costs compared to none during 2019. Lastly, cash outflows for purchases of property and equipment increased to $3.3 million during 2020 from $1.8 million during 2019, mostly due to the addition of a West Coast data center to enhance our remote hosting capabilities.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

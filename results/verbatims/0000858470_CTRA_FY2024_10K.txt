@@ -1,0 +1,20 @@
+FIRM         : CTRA (CIK 0000858470) | FY2024
+FILE         : 0000858470_CTRA_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : furniture and fixtures, computer equipment
+DURÉE        : 3.0-30.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Fixed assets consist primarily of gas gathering systems, water infrastructure, buildings, vehicles, aircraft, furniture and fixtures, and computer equipment and software. These items are recorded at cost and are depreciated on the straight-line method based on expected lives of the individual assets, which range from three to 30 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

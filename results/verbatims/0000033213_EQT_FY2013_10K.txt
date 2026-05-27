@@ -1,0 +1,20 @@
+FIRM         : EQT (CIK 0000033213) | FY2013
+FILE         : 0000033213_EQT_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 21. Natural Gas Producing Activities (Unaudited)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Table of Contents EQT CORPORATION AND SUBSIDIARIES CONSOLIDATED BALANCE SHEETS DECEMBER 31, 2013 2012 (Thousands) Assets Current assets: Cash and cash equivalents $ 845,641 $ 182,055 Accounts receivable (less accumulated provision for doubtful accounts: $5,171 in 2013; $5,883 in 2012) 235,781 190,258 Inventory 19,656 45,165 Derivative instruments, at fair value 107,647 304,237 Prepaid expenses and other 46,700 38,451 Assets of discontinued operations – 92,678 Total current assets 1,255,425 852,844 Equity in nonconsolidated investments 128,983 130,368 Property, plant and equipment 11,062,136 9,153,207 Less: accumulated depreciation and depletion 2,728,374 2,093,795 Net property, plant and equipment 8,333,762 7,059,412 Other assets 73,883 57,182 Noncurrent assets of discontinued operations – 750,056 Total assets $ 9,792,053 $ 8,849,862 See notes to consolidated financial statements. 63
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

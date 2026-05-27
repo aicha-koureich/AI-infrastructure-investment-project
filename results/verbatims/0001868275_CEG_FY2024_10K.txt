@@ -1,0 +1,20 @@
+FIRM         : CEG (CIK 0001868275) | FY2024
+FILE         : 0001868275_CEG_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — Basis of Presentation
+ASSET CAT.   : Capitalized Software, equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized Software. Certain costs, such as design, coding, and testing incurred during the application development stage of software projects that are internally developed or purchased for operational use are capitalized in Property, plant and equipment in the Consolidated Balance Sheets. Similar costs incurred for cloud-based solutions treated as service arrangements are capitalized in Other current assets and Deferred debits and other assets in the Consolidated Balance Sheets. Such capitalized amounts are amortized ratably over the expected lives of the projects when they become operational, generally not to exceed five years.
+
+[VERBATIM — Infrastructure IA]
+During the third quarter of 2024, we executed a 20-year PPA with Microsoft that will support the restart of Three Mile Island Unit 1, renamed as the Crane Clean Energy Center, which was retired in 2019 for economic reasons. Under the agreement, Microsoft will purchase the output generated from the renewed plant as part of its goal to help power its data centers in PJM with clean energy. We expect Crane will also be eligible for the technology-neutral clean electricity PTC (45Y) provided for by the IRA for its first 10 years of operations. We estimate the project will require approximately $1.6 billion of cash from operations for capital expenditures necessary to restart the plant, with an estimated in-service date of 2028. The restart of the plant and delivery of electricity under the PPA is subject to certain regulatory approvals, including the NRC comprehensive safety and environmental review, as well as permits from relevant state and local agencies. Additionally, through a separate request, we will pursue obtaining a renewed license that will extend operations at the plant to at least 2054.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

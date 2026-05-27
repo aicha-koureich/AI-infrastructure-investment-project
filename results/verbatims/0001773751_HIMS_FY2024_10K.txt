@@ -1,0 +1,20 @@
+FIRM         : HIMS (CIK 0001773751) | FY2024
+FILE         : 0001773751_HIMS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-24
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 2.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, equipment, and software are depreciated or amortized using the straight-line method over the estimated useful lives ranging from two to ten years, with leasehold improvements depreciated over the shorter of their useful life or the related lease term. Property and equipment are recorded at cost, less accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

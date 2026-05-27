@@ -1,0 +1,20 @@
+FIRM         : DBI (CIK 0001319947) | FY2022
+FILE         : 0001319947_DBI_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Corporate expenses include expenses related to buying, information technology, rent (net of sublease income), depreciation and amortization expense for corporate assets, marketing, legal, finance, outside professional services, customer service center expenses, and payroll-related costs for associates.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Internal Use Software Costs- Costs related to software developed or obtained for internal use are expensed as incurred until the application development stage has been reached. Once the application development stage has been reached, certain qualifying costs are capitalized until the software is ready for its intended use. Capitalized software costs and the related accumulated amortization are included in property and equipment, net, on the consolidated balance sheets. Capitalized implementation costs for cloud computing arrangements accounted for as service contracts are included in other assets on the consolidated balance sheets and amortized over the life of the service contract to operating expenses on the consolidated statements of operations. ||| Costs related to software developed or obtained for internal use are expensed as incurred until the application development stage has been reached. Once the application development stage has been reached, certain qualifying costs are capitalized until the software is ready for its intended use. Capitalized software costs and the related accumulated amortization are included in property and equipment, net, on the consolidated balance sheets. Capitalized implementation costs for cloud computing arrangements accounted for as service contracts are included in other assets on the consolidated balance sheets and amortized over the life of the service contract to operating expenses on the consolidated statements of operations.

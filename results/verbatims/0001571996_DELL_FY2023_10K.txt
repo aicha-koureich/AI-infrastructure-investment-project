@@ -1,0 +1,21 @@
+FIRM         : DELL (CIK 0001571996) | FY2023
+FILE         : 0001571996_DELL_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-05-03
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 23 — Subsequent Events
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0 ans | 3.0-5.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Fiscal Year Ended February 2, 2024 February 3, 2023 January 28, 2022 Cash flows from operating activities: Net income $ 3,195 $ 2,422 $ 5,707 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 3,303 3,156 4,551 Stock-based compensation expense 878 931 1,622 Deferred income taxes (91) (717) (365) Other, net (a) 609 961 (3,130) Changes in assets and liabilities, net of effects from acquisitions and dispositions: Accounts receivable 2,977 113 (2,193) Financing receivables 309 (461) (241) Inventories 975 875 (2,514) Other assets and liabilities (1,470) 973 (1,948) Due from/to related party, net (652) 649 479 Accounts payable (335) (8,546) 5,742 Deferred revenue (1,022) 3,209 2,597 Change in cash from operating activities 8,676 3,565 10,307 Cash flows from investing activities: Purchases of investments (172) (108) (414) Maturities and sales of investments 226 116 513 Capital expenditures and capitalized software development costs (2,756) (3,003) (2,796) Acquisition of businesses and assets, net (126) (70) (16) Divestitures of businesses, net — — 3,957 Other 45 41 62 Change in cash from investing activities (2,783) (3,024) 1,306 Cash flows from financing activities: Dividends paid by VMware, Inc. to non-controlling interests — — (2,240) Proceeds from the issuance of common stock 10 5 334 Repurchases of common stock (2,080) (2,883) (1,496) Repurchases of common stock for employee tax withholdings (372) (398) (342) Net transfer of cash, cash equivalents, and restricted cash to VMware, Inc. — — (5,052) Payments of dividends and dividend equivalents (1,072) (964) — Proceeds from debt 7,775 12,479 20,425 Repayments of debt (11,246) (9,825) (26,723) Debt-related costs and other, net (109) (39) (1,515) Change in cash from financing activities (7,094) (1,625) (16,609) ____________________
+
+[VERBATIM — Infrastructure IA]
+ISG includes the Company’s storage, server, and networking offerings. The Company’s comprehensive storage portfolio includes modern and traditional storage solutions, including all-flash arrays, scale-out file, object platforms, hyper-converged infrastructure, and software-defined storage. The Company’s server portfolio includes high-performance general-purpose and AI-optimized servers. The Company’s networking portfolio includes wide area network infrastructure, data center and edge networking switches, and cables and optics. ISG also offers software, peripherals, and services, including consulting and support and deployment.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

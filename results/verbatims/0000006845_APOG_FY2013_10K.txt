@@ -1,0 +1,23 @@
+FIRM         : APOG (CIK 0000006845) | FY2013
+FILE         : 0000006845_APOG_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 1, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Intangible assets with discrete useful lives are amortized over their estimated useful lives. The Company has reassessed the useful lives of its identifiable intangible assets and determined that the remaining lives were appropriate.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

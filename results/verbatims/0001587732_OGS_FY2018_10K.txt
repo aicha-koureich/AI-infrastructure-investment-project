@@ -1,0 +1,20 @@
+FIRM         : OGS (CIK 0001587732) | FY2018
+FILE         : 0001587732_OGS_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+- In August 2018, the FASB issued ASU 2018-15, “Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force).” Under this guidance, a company should defer implementation costs that it incurs if the company would capitalize those same costs under the internal-use software guidance for an arrangement that is a software license. This standard is effective for interim and annual periods in fiscal years beginning after December 15, 2019, and early adoption is permitted. We are currently assessing the timing and impacts of adopting this standard. ||| Recently Issued Accounting Standards Update - In August 2018, the FASB issued ASU 2018-15, “Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force).” Under this guidance, a company should defer implementation costs that it incurs if the company would capitalize those same costs under the internal-use software guidance for an arrangement that is a software license. This standard is effective for interim and annual periods in fiscal years beginning after December 15, 2019, and early adoption is permitted. We are currently assessing the timing and impacts of adopting this standard.

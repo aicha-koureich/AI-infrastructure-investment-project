@@ -1,0 +1,23 @@
+FIRM         : FBNC (CIK 0000811589) | FY2017
+FILE         : 0000811589_FBNC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting
+Policies
+ASSET CAT.   : Equipment
+DURÉE        : 2.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(f)
+Premises and Equipment - Premises
+and equipment are stated at cost less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

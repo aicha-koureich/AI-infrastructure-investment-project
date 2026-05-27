@@ -1,0 +1,21 @@
+FIRM         : MIR (CIK 0001809987) | FY2023
+FILE         : 0001809987_MIR_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 6. Property, Plant and Equipment, Net
+ASSET CAT.   : equipment
+DURÉE        : 5.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciable Lives December 31, 2023 December 31, 2022 Land, buildings, and leasehold improvements 3-39 years $ 49.4 $ 46.5 Machinery and equipment 5-15 years 38.5 33.6 Badges 3-5 years 41.0 33.4 Furniture, fixtures, computer equipment and other 3-10 years 22.9 20.8 Software development costs 3-5 years 10.7 5.0 Construction in progress (1) — 28.6 15.9 191.1 155.2 Less: accumulated depreciation and amortization (56.6) (30.9) $ 134.5 $ 124.3
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

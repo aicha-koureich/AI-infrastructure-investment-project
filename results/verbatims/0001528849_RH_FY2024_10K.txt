@@ -1,0 +1,20 @@
+FIRM         : RH (CIK 0001528849) | FY2024
+FILE         : 0001528849_RH_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 1, 2025
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 4—PREPAID EXPENSE AND OTHER ASSETS Prepaid expense and other current assets consisted of the following: ​ ​ ​ ​ ​ ​ ​ ​ ​ FEBRUARY 1, FEBRUARY 3,
+ASSET CAT.   : EQUIPMENT, Computer software, Furniture, Machinery
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Table of Contents NOTE 5—PROPERTY AND EQUIPMENT Property and equipment consisted of the following: ​ ​ ​ ​ ​ ​ ​ ​ ​ FEBRUARY 1, FEBRUARY 3, ​ ​ 2025 ​ 2024 ​ ​ (in thousands) Finance lease right-of-use assets (1) ​ $ 1,327,476 ​ $ 1,104,365 Leasehold improvements (2) ​ ​ 441,140 ​ ​ 434,220 Building and building improvements (3) ​ 369,921 ​ 334,996 Computer software ​ 186,048 ​ 173,378 Furniture, fixtures and equipment ​ 111,384 ​ 97,990 Land ​ 105,071 ​ 106,347 Machinery, equipment and aircraft ​ 90,905 ​ 82,962 Built-to-suit property ​ ​ 37,057 ​ ​ 37,057 Total property and equipment ​ ​ 2,669,002 ​ ​ 2,371,315 Less—accumulated depreciation and amortization (4) ​ (785,826) ​ (685,457) Total property and equipment—net ​ $ 1,883,176 ​ $ 1,685,858 (1) Refer to “Lease Accounting” within Note 3— Significant Accounting Policies and Note 10— Leases . (2) Includes construction in progress of $13 million and $39 million as of February 1, 2025 and February 3, 2024, respectively. (3) Includes $109 million and $126 million of owned buildings under construction related to future Design Galleries as of February 1, 2025 and February 3, 2024, respectively. (4) Includes accumulated amortization related to finance lease right-of-use assets of $320 million and $268 million as of February 1, 2025 and February 3, 2024, respectively. We recorded depreciation of property and equipment, excluding amortization for finance lease right-of-use assets, of $76 million, $64 million and $56 million in fiscal 2024, fiscal 2023 and fiscal 2022, respectively. ​ ​ ​ PART II — FINANCIAL STATEMENTS FORM 10-K | 89 ​
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Capitalized cloud computing amortization (3) ||| Represents amortization associated with capitalized cloud computing costs.

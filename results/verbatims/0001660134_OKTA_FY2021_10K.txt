@@ -1,0 +1,21 @@
+FIRM         : OKTA (CIK 0001660134) | FY2021
+FILE         : 0001660134_OKTA_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 31, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : software costs
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+The useful lives of property and equipment are as follows: Useful lives Capitalized internal-use software costs 3 years Computers and equipment 3 years Furniture and fixtures 7 years Leasehold improvements Shorter of estimated useful life or remaining lease term
+
+[VERBATIM — Infrastructure IA]
+In order to reduce the risk of downtime of the Company’s subscription services, the Company uses data center facilities operated by a third-party located in Virginia, Oregon, Ohio, Germany, Ireland, Singapore, Sydney and Japan. The Company has internal procedures to restore services in the event of disaster at any of its current data center facilities. Even with these procedures for disaster recovery in place, the Company’s subscription services could be significantly interrupted during the time period following a disaster at one of its sites and the subsequent restoration of services at another site.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,24 @@
+FIRM         : WSC (CIK 0001647088) | FY2019
+FILE         : 0001647088_WSC_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 - Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-8.0 ans | 3.0-5.0 ans | 3.0-10.0 ans | 7.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Type Estimated Useful Life Buildings and leasehold improvements 10 – 40 years Machinery and equipment 3 – 10 years Furniture and fixtures 7 – 10 years Software 3 – 5 years
+
+[VERBATIM — Changement de politique]
+We define EBITDA as net income (loss) plus interest (income) expense, income tax expense (benefit), depreciation and amortization. Our adjusted EBITDA ("Adjusted EBITDA") reflects the following further adjustments to EBITDA to exclude certain non-cash items and the effect of what we consider transactions or events not related to our core business operations:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

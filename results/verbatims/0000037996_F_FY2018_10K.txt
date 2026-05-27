@@ -1,0 +1,20 @@
+FIRM         : F (CIK 0000037996) | FY2018
+FILE         : 0000037996_F_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract ||| ASU Effective Date (a) 2018-16 Inclusion of the Secured Overnight Financing Rate (SOFR) Overnight Index Swap (OIS) Rate as a Benchmark Interest Rate for Hedge Accounting Purposes January 1, 2019 2018-08 Clarifying the Scope and the Accounting Guidance for Contributions Received and Contributions Made January 1, 2019 2018-07 Improvements to Nonemployee Share-Based Payment Accounting January 1, 2019 2018-02 Reclassification of Certain Tax Effects from Accumulated Other Comprehensive Income January 1, 2019 2016-02 Leases January 1, 2019 (b) 2018-18 Clarifying the Interaction between Collaborative Arrangements and Revenue from Contracts with Customers January 1, 2020 2018-17 Targeted Improvements to Related Party Guidance for Variable Interest Entities January 1, 2020 2018-15 Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract January 1, 2020 2018-13 Fair Value Measurement - Changes to the Disclosure Requirement for Fair Value Measurement January 1, 2020 2016-13 Credit Losses - Measurement of Credit Losses on Financial Instruments January 1, 2020 2018-14 Changes to the Disclosure Requirements for Defined Benefits Plans January 1, 2021 2018-12 Targeted Improvements to the Accounting for Long Duration Contracts January 1, 2021

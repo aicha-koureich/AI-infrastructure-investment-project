@@ -1,0 +1,20 @@
+FIRM         : UCTT (CIK 0001275014) | FY2020
+FILE         : 0001275014_UCTT_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-25
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. ORGANIZATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, computer equipment
+DURÉE        : 10.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Direct costs incurred to develop software for internal use are capitalized and amortized over an estimated useful life of three or ten years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

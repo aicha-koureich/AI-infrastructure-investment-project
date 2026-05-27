@@ -1,0 +1,20 @@
+FIRM         : BKR (CIK 0001701605) | FY2021
+FILE         : 0001701605_BKR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : 10.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We sell product services under long-term product maintenance or extended warranty agreements in our Turbomachinery & Process Solutions and Oilfield Equipment segments. These agreements require us to maintain the customers' assets over the service agreement contract terms, which generally range from 10 to 20 years. In general, these are contractual arrangements to provide services, repairs, and maintenance of a covered unit (gas turbines for mechanical drive or power generation, primarily on LNG applications, drilling rigs). These services are performed at various times during the life of the contract, thus the costs of performing services are incurred on other than a straight-line basis. We recognize related sales based on the extent of our progress toward completion measured by actual costs incurred in relation to total expected costs. We provide for any loss that we expect to incur on any of these agreements when that loss is probable. The Company utilizes historical customer data, prior product performance data, statistical analysis, third-party data, and internal management estimates to calculate contract-specific margins. In certain contracts, the total transaction price is variable based on customer utilization, which is excluded from the contract margin until the period that the customer has utilized to appropriately reflect the
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

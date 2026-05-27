@@ -1,0 +1,20 @@
+FIRM         : UAL (CIK 0000100517) | FY2018
+FILE         : 0000100517_UAL_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 15 - SELECTED QUARTERLY FINANCIAL DATA (UNAUDITED)
+ASSET CAT.   : equipment, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The estimated useful lives of property and equipment are as follows: Estimated Useful Life (in years) Aircraft and related rotable parts 25 to 30 Aircraft seats 10 to 15 Buildings 25 to 45 Other property and equipment 3 to 15 Computer software 5 to 15 Building improvements 1 to 40
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

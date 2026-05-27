@@ -1,0 +1,21 @@
+FIRM         : GKOS (CIK 0001192448) | FY2024
+FILE         : 0001192448_GKOS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3.
+ASSET CAT.   : Equipment, Furniture and fixtures, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+No inventory write-downs were recognized for the year ended December 31, 2023. ​ Property and Equipment, Net Property and equipment consisted of the following (in thousands): ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ December 31, ​ ​ ​ 2024 ​ 2023 ​ ​ ​ ​ ​ ​ ​ ​ Buildings $ 874 ​ $ 874 ​ Equipment ​ ​ 32,197 ​ ​ 29,843 ​ Furniture and fixtures ​ ​ 9,030 ​ 8,287 ​ Leasehold improvements ​ ​ 80,987 ​ 70,332 ​ Computer equipment and software ​ ​ 4,198 ​ ​ 3,906 ​ Land ​ ​ 7,068 ​ ​ 7,068 ​ Construction in progress ​ ​ 8,087 ​ 17,379 ​ ​ ​ ​ 142,441 ​ 137,689 ​ Less accumulated depreciation and amortization ​ (44,574) ​ (34,477) ​ ​ $ 97,867 ​ $ 103,212 ​ ​ Depreciation and amortization expense related to property and equipment was $10.1 million, $7.3 million and $6.6 million for the years ended December 31, 2024, December 31, 2023 and December 31, 2022, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

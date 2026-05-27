@@ -1,0 +1,20 @@
+FIRM         : AGYS (CIK 0000078749) | FY2018
+FILE         : 0000078749_AGYS_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amortization of the capitalized software is classified within products cost of goods sold in the Consolidated Statements of Operations. For each capitalized software product, the annual amortization is equal to the greater of: (i) the amount computed using the ratio that the software product’s current fiscal year gross revenue bears to the total current fiscal year and anticipated future gross revenues for that product or (ii) the amount computed based on straight-line method over the remaining estimated economic life of the product, which is a range between
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| In August 2018, the FASB issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . ASU 2018-15 addresses the treatment of implementation costs incurred in a hosting arrangement that is a service contract. The update does not impact the accounting for the service element of a hosting arrangement that is a service contract. The update is effective for annual periods beginning after December 15, 2019, including interim periods within those annual periods, with early adoption (including

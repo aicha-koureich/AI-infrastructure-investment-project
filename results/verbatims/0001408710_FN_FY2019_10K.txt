@@ -1,0 +1,24 @@
+FIRM         : FN (CIK 0001408710) | FY2019
+FILE         : 0001408710_FN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 28, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Total
+revenues. Our total revenues decreased by $48.6 million, or 3.4%, to $1.37 billion for fiscal year 2018, compared with $1.42 billion for fiscal year 2017. This decrease was primarily due to a decrease in customers’ demand for
+optical communications manufacturing services, particularly telecom manufacturing services, for fiscal year 2018, driven by a slower growth rate in the data center market following a peak year in fiscal year 2017, partially offset by an increase in
+customers’ demand for non-optical communications manufacturing services. Revenues from optical communications products represented 72.9% of our total revenues for fiscal year 2018, compared with 78.0% for
+fiscal year 2017.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

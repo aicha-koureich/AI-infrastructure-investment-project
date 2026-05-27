@@ -1,0 +1,21 @@
+FIRM         : ADTN (CIK 0000926282) | FY2018
+FILE         : 0000926282_ADTN_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-02-27
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Nature of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, machinery and equipment, computer software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans | 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, which is stated at cost, is depreciated using the straight-line method over the estimated useful lives of the assets. We depreciate building and land improvements from five to 39 years, office machinery and equipment from three to seven years, engineering machinery and equipment from three to seven years, and computer software from three to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The company made two acquisitions in 2018, strengthening its position in both the Cable/MSO and connected home markets. In the first quarter of 2018, we acquired the market-leading EPON business and certain assets for North America from Sumitomo Electric Industries Ltd. These solutions, combined with our organic fiber access product portfolio and our distributed access expertise, present new opportunities in the cable/MSO market. Also, in the fourth quarter of 2018, we acquired U.S.-based SmartRG, an industry-leading provider of carrier-class, connected–home software platforms and cloud services for broadband service providers. With this acquisition, ADTRAN now offers a complete cloud-to-consumer portfolio of virtualized management, data analytics, Wi-Fi-enabled residential gateways and software platforms. For more information, see Note 2 of the Notes to Consolidated Financial Statements included in Item 8 of this report. ||| Subscri ber Solutions & Experience (formerly Customer Devices) includes open-source connected home platforms, cloud services and any of our solutions and services that deliver residential and/or enterprise subscribers an immersive and interactive broadband experience from the service provider ’s access network. These products , software , and services include S martRG solutions and applications, Net V anta Enterprise IP business gateways, access routers , Ethernet switches, ProCloud s ervice offerings, residential and enterprise operating systems (such as SmartOS and AOS), Bluesocket Wi-Fi portfolio, service provider and Cable/MSO Optical Network Terminals (ONTs) , as well as related software applications and services. In alignment with our increased focus on enhancing customer experience for both business and consumer broadband customers as well as the addition of SmartRG during 2018 , Customer Devices will now be known as Subscriber Solutions & Experience , as this more accurately represents this revenue category and our vision moving forward. ||| To complement our Network Solutions segment, we offer a complete portfolio of maintenance, network implementation, and solutions integration and managed services, which include hosted cloud services and subscription services.

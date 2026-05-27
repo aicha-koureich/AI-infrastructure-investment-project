@@ -1,0 +1,23 @@
+FIRM         : AMCR (CIK 0001748790) | FY2020
+FILE         : 0001748790_AMCR_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 - Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+practice or established local practice, liabilities for severance are recognized when incurred. If fixed assets are to be disposed of as a result of the Company’s restructuring efforts, the assets are written off when the Company commits to dispose of them and they are no longer in use. Depreciation is accelerated on fixed assets for the period of time the asset continues to be used until the asset ceases to be used. Other restructuring costs, including costs to relocate equipment, are generally recorded as the cost is incurred or the service is provided. See Note 6, "Restructuring Plans," for more information on the Company’s restructuring plans.
+
+[VERBATIM — Changement de politique]
+Property, Plant and Equipment, Net: Property, plant and equipment ("PP&E"), net is carried at cost less accumulated depreciation and impairment and includes expenditures for new facilities and equipment and those costs which substantially increase the useful lives or capacity of existing PP&E.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

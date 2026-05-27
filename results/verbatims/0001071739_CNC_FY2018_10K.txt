@@ -1,0 +1,21 @@
+FIRM         : CNC (CIK 0001071739) | FY2018
+FILE         : 0001071739_CNC_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Computer hardware and software
+DURÉE        : 2.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Fixed Asset Depreciation Period Buildings and land improvements 5 - 40 years Computer hardware and software 2 - 7 years Furniture and equipment 3 - 10 years Land improvements 3 - 20 years Leasehold improvements 1 - 20 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

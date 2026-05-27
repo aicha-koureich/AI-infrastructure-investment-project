@@ -1,0 +1,20 @@
+FIRM         : LGND (CIK 0000886163) | FY2013
+FILE         : 0000886163_LGND_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In July 2013, we entered into a global license agreement with Azure Biotech for the development of a novel formulation of lasofoxifene. Under the terms of the agreement, we are entitled to receive $2.6 million in potential development and regulatory milestones and a 5% royalty on future net sales. Under this agreement, we retain the rights to the oral formulation originally developed by Pfizer. Additionally, in July 2013, we entered into a license agreement with Ethicor Pharma Ltd. for the manufacture and distribution of the oral formulation of lasofoxifene in the European Economic Area, Switzerland and the Indian Subcontinent. Under the terms of the agreement, we are entitled to receive potential sales milestones of up to $16 million and a royalty of 25% on future net sales.

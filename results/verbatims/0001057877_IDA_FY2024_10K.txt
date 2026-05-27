@@ -1,0 +1,20 @@
+FIRM         : IDA (CIK 0001057877) | FY2024
+FILE         : 0001057877_IDA_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2074-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Accounting for the economics of rate regulation impacts multiple financial statement line items and disclosures, such as property, plant, and equipment; regulatory assets and liabilities; operating revenues; O&M expense; depreciation expense; and income tax expense.
+
+[VERBATIM — Infrastructure IA]
+Brisbie, LLC (Brisbie) Data Center and Clean Energy Your Way - Construction Arrangements : In May 2023, the IPUC approved a special contract (Brisbie Special Contract) between Idaho Power and a large load customer, Brisbie, a wholly-owned subsidiary of Meta Platforms, Inc., for service to a new enterprise data center. The Brisbie Special Contract allows Idaho Power to procure enough renewable resources to provide Brisbie with 100 percent renewable energy on an annual basis for Brisbie's facility. In April 2023, Idaho Power received IPUC approval of a contract with a 200 MW solar project that is scheduled to begin operating as early as March 2025. Idaho Power will assign the cost and renewable attributes of the energy from the solar facility to Brisbie in accordance with the Brisbie Special Contract. In May 2024, Idaho Power received IPUC approval of a contract with a 125 MW solar project to be online as early as December 2026 for energy to be purchased by Brisbie. In November 2024, Idaho Power filed for IPUC approval of an additional contract for Brisbie with a 320 MW solar project to be online as early as December 2027. As of the date of this report, the IPUC's decision regarding the additional contract is pending.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

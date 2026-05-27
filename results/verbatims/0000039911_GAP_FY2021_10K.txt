@@ -1,0 +1,20 @@
+FIRM         : GAP (CIK 0000039911) | FY2021
+FILE         : 0000039911_GAP_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 29, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+• lease and other occupancy related cost, depreciation, and amortization related to our store operations, distribution centers, information technology, and certain corporate functions; and
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

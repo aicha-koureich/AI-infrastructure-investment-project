@@ -1,0 +1,20 @@
+FIRM         : BAH (CIK 0001443646) | FY2013
+FILE         : 0001443646_BAH_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES Basis of Presentation
+ASSET CAT.   : equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost, and the balances are presented net of accumulated depreciation. Furniture and equipment is depreciated over
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

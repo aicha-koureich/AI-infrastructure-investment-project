@@ -1,0 +1,20 @@
+FIRM         : ALGM (CIK 0000866291) | FY2021
+FILE         : 0000866291_ALGM_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-01
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+technology and IC packaging development are critical to maintaining our competitive advantage. In both the automotive and industrial markets, major technology shifts driven by disruptive technologies are creating high-growth opportunities in areas such as electrified vehicles (“xEVs”), advanced driver assistance systems (“ADAS”), Industry 4.0, data centers and green energy applications. Our knowledge of customers’ end systems has driven an expansion of our sensor IC and power solutions to enable these new technologies. By aligning our research and development investments with disruptive technology trends while undergoing a rigorous ROI review, we believe we can deliver an attractive combination of growth and profitability.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Total net sales increased by $177.5 million, or 30.0%, to $768.7 million in the fiscal year ended March 25, 2022 from $591.2 million in the fiscal year ended March 26, 2021. This increase was primarily due to the continued economic recovery and increases in demand for ADAS, safety, comfort and convenience, internal combustion engine (“ICE”) applications, xEV, wireless infrastructure, personal mobility, industrial automation, cloud computing/data center and gaming applications, partially offset by declines in personal electronics and PC printers and peripherals. ||| Industrial net sales improved in the fiscal year ended March 25, 2022 compared to the fiscal year ended March 26, 2021 primarily due to increased demand in industrial automation, cloud computing/data center, wireless infrastructure and personal mobility. ||| The increase in net sales in Japan of $44.1 million, or 42.2%, was primarily driven by higher demand for our xEV, ADAS, personal mobility and cloud computing/data center offerings. The increases in net sales of $34.4 million, or 21.8%, in Greater China and $32.7 million, or 33.2%, in the Americas each related to higher automotive demand, primarily in our

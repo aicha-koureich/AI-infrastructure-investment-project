@@ -1,0 +1,20 @@
+FIRM         : INSP (CIK 0001609550) | FY2023
+FILE         : 0001609550_INSP_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Computer equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2023 2022 Computer equipment and software $ 2,601 $ 1,729 Manufacturing equipment 7,245 5,974 Other equipment 1,842 535 Leasehold improvements 2,356 2,064 Construction in process 33,211 11,857 Property and equipment, cost 47,255 22,159 Less: accumulated depreciation and amortization (7,271) (4,910) Property and equipment, net $ 39,984 $ 17,249
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

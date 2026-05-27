@@ -1,0 +1,20 @@
+FIRM         : WDAY (CIK 0001327811) | FY2014
+FILE         : 0001327811_WDAY_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Costs of subscription services primarily consist of costs related to providing our cloud applications, compensation and other employee-related expenses for data center staff, payments to outside service providers, data center and networking expenses and depreciation expenses.
+
+[VERBATIM — Infrastructure IA]
+Costs of subscription services primarily consist of costs related to providing our cloud applications, compensation and other employee-related expenses for data center staff, payments to outside service providers, data center and networking expenses and depreciation expenses.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In addition, we rely on Amazon Web Services (AWS), which provides a distributed computing infrastructure platform for business operations, to operate certain aspects of our services, such as environments for development testing, training and sales demonstrations. Any disruption of or interference with our use of AWS would impact our operations.

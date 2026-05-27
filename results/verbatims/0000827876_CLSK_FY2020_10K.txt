@@ -1,0 +1,52 @@
+FIRM         : CLSK (CIK 0000827876) | FY2020
+FILE         : 0000827876_CLSK_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT
+POLICIES
+ASSET CAT.   : our current product offerings
+DURÉE        : 7.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-10.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Commencing upon a product's release,
+capitalized software development costs are amortized to "Cost of revenues—software amortization " based on the
+ratio of current revenues to total projected revenues for the specific product, generally resulting in an amortization period of
+seven years for our current product offerings.
+
+[VERBATIM — Changement de politique]
+In August 2018, the FASB issued ASU
+2018-15, "Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation
+Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract," which allows for the capitalization of certain
+implementation costs incurred in a hosting arrangement that is a service contract. ASU 2018-15 allows for either retrospective
+adoption or prospective adoption to all implementation costs incurred after the date of adoption. ASU 2018-15 is effective for
+fiscal years beginning after December 15, 2019. We are currently evaluating the impact the adoption of this new standard will have
+on our financial position and results of operations.
+
+[VERBATIM — Infrastructure IA]
+On December 9, 2020, the Company, entered into an
+Agreement and Plan of Merger with ATL Data Centers LLC, (“ATL”), CLSK Merger Sub, LLC, a wholly-owned subsidiary
+of the Company (“Merger Sub”), and Sellers. The Merger closed on December 10, 2020. At the closing, Merger Sub
+merged with and into ATL, and ATL survived the Merger, continuing its existence as a wholly-owned subsidiary of the Company.
+In exchange, at closing, the Company issued 1,618,285 shares
+of restricted common stock of the Company valued at $19.4 million based on the
+average closing price of the common stock for the five trading days including and immediately preceding the closing date of
+$11.988 per share, to the Sellers, of which: (i) 642,309 Shares valued at $7.7 million would be fully earned on closing, and
+(ii) an additional 975,976 Shares valued at $11.7 million being issued to escrow and subject to holdback pending satisfaction
+of certain future milestones, with all such shares subject to a lock up of no less than 180 days and a leak out of no more
+than 10% of average daily trading value of the prior 30 days. The Company also assumed approximately $6.9 million in existing
+debt of ATL at closing. In connection with the acquisition, the Company issued 41,708 shares to the broker of the
+transaction and has agreed to issue an additional 10,427 shares upon achievement of certain revenue milestones.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU
+2018-15, "Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation
+Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract," which allows for the capitalization of certain
+implementation costs incurred in a hosting arrangement that is a service contract. ASU 2018-15 allows for either retrospective
+adoption or prospective adoption to all implementation costs incurred after the date of adoption. ASU 2018-15 is effective for
+fiscal years beginning after December 15, 2019. We are currently evaluating the impact the adoption of this new standard will have
+on our financial position and results of operations.

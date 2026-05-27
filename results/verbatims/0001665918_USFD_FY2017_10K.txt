@@ -1,0 +1,21 @@
+FIRM         : USFD (CIK 0001665918) | FY2017
+FILE         : 0001665918_USFD_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 30, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 8. PROPERTY AND EQUIPMENT
+ASSET CAT.   : equipment, Office equipment, furniture
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 5.0-10.0 ans | 5.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+December 30, 2017 December 31, 2016 Range of Useful Lives Land $ 312,909 $ 303,208 Buildings and building improvements 1,189,634 1,144,041 10–40 years Transportation equipment 949,236 835,089 5–10 years Warehouse equipment 384,361 343,315 5–12 years Office equipment, furniture and software 803,389 772,334 3–7 years Construction in process 87,478 94,075 3,727,007 3,492,062 Less accumulated depreciation and amortization (1,925,792 ) (1,724,451 ) Property and equipment—net $ 1,801,215 $ 1,767,611
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : BGC (CIK 0001094831) | FY2021
+FILE         : 0001094831_BGC_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 16. Fixed Assets, Net
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+December 31, 2021 December 31, 2020 Computer and communications equipment $ 96,472 $ 92,577 Software, including software development costs 280,540 265,082 Leasehold improvements and other fixed assets 105,362 121,024 482,374 478,683 Less: accumulated depreciation and amortization (292,262) (262,659) Fixed assets, net $ 190,112 $ 216,024
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

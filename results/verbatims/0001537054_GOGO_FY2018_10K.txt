@@ -1,0 +1,29 @@
+FIRM         : GOGO (CIK 0001537054) | FY2018
+FILE         : 0001537054_GOGO_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment, Network equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment and Depreciation— Property and equipment, including
+leasehold improvements, are stated at historical cost, less accumulated depreciation. Network asset inventory and construction in progress, which include materials, transmission and related equipment, and interest and other costs relating to the
+construction and development of our network, are not depreciated until they are put into service. Depreciation of property and equipment is computed using the straight-line method over the estimated useful lives for owned assets,
+which are as follows:
+
+[VERBATIM — Changement de politique]
+Due to advances in technology and changes in agreements with our airline partners, with
+respect to upgrading equipment, we periodically reassess the useful lives of our property and equipment.
+
+[VERBATIM — Infrastructure IA]
+Cost of service revenue for the CA-NA and CA-ROW segments
+includes network related expenses (satellite network expenses, including costs for transponder capacity and backhaul, as well as data centers, network operations center and network technical support), aircraft operations, component assembly, portal
+maintenance, revenue share and transactional costs.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : FSS (CIK 0000277509) | FY2020
+FILE         : 0000277509_FSS_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 — SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : buildings
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-15.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Properties and equipment are stated at cost, net of accumulated depreciation. Useful lives generally range from eight to 40 years for buildings and three to 15 years for machinery and equipment. Depreciation expense, which includes depreciation on rental equipment, was $35.2 million, $32.7 million and $28.4 million in the years ended December 31, 2020, 2019 and 2018, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

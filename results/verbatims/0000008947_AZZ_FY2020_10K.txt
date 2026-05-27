@@ -1,0 +1,23 @@
+FIRM         : AZZ (CIK 0000008947) | FY2020
+FILE         : 0000008947_AZZ_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 28, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 2. Property, Plant and Equipment
+ASSET CAT.   : Machinery and equipment, Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2021 2020 Land $ 21,328 $ 21,826 Building and structures 155,338 162,851 Machinery and equipment 249,065 252,726 Furniture, fixtures, software and computers 31,179 28,938 Automotive equipment 3,591 4,394 Construction in progress 26,223 16,466 486,724 487,201 Less accumulated depreciation (280,815) (274,097) Property, plant, and equipment, net $ 205,909 $ 213,104
+
+[VERBATIM — Changement de politique]
+Pro forma results presented above reflect: (i) incremental depreciation relating to fair value adjustments to property, plant, and equipment and (ii) amortization adjustments relating to fair value estimates of intangible assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles—Goodwill and Other— Internal-Use Software (Subtopic 350-40) - Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ("ASU 2018-15"), which aligns the accounting for implementation costs incurred in a hosting arrangement that is a service contract with the accounting for implementation costs incurred to develop or obtain internal-use software, in order to determine the applicable costs to capitalize and the applicable costs to expense as incurred. The Company adopted ||| Intangibles—Goodwill and Other— Internal-Use Software (Subtopic 350-40) - Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

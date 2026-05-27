@@ -1,0 +1,20 @@
+FIRM         : CAL (CIK 0000014707) | FY2023
+FILE         : 0000014707_CAL_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 3, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Other assets on the consolidated balance sheets include $16.3 million and $16.0 million of computer software costs as of February 3, 2024 and January 28, 2023, respectively, which are net of accumulated amortization of $88.1 million and $88.5 million as of the end of the respective periods. In addition, other assets on the consolidated balance sheets include $16.4 million and $5.6 million for cloud computing arrangements (software-as-a-service contracts) and related implementation costs as of February 3, 2024 and January 28, 2023, respectively, which are net of accumulated amortization of $6.7 million and $4.7 million as of the end of the respective periods.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The Company capitalizes certain costs in other assets, including internal payroll costs incurred in connection with the development or acquisition of software for internal use. Other assets on the consolidated balance sheets include $16.3 million and $16.0 million of computer software costs as of February 3, 2024 and January 28, 2023, respectively, which are net of accumulated amortization of $88.1 million and $88.5 million as of the end of the respective periods. In addition, other assets on the consolidated balance sheets include $16.4 million and $5.6 million for cloud computing arrangements (software-as-a-service contracts) and related implementation costs as of February 3, 2024 and January 28, 2023, respectively, which are net of accumulated amortization of $6.7 million and $4.7 million as of the end of the respective periods. The balance as of February 3, 2024 includes capitalized costs associated with the Company’s multi-year implementation of a cloud-based ERP.

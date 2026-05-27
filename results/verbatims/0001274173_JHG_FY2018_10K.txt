@@ -1,0 +1,21 @@
+FIRM         : JHG (CIK 0001274173) | FY2018
+FILE         : 0001274173_JHG_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 21 — Selected Quarterly Financial Data (Unaudited)
+ASSET CAT.   : computer equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation December 31, period 2018 2017 Furniture, fixtures and computer equipment 3-10 years $ 31.3 $ 31.9 Leasehold improvements Over the shorter of 20 years or the period of the lease 35.3 29.8 Computer software 3-7 years 65.6 58.3 Property, equipment and software, gross $ 132.2 $ 120.0 Accumulated depreciation (62.7) (49.4) Property, equipment and software, net $ 69.5 $ 70.6
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Implementation Costs — Cloud Computing Arrangements

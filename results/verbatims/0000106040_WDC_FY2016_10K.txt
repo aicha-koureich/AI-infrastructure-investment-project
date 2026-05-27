@@ -1,0 +1,20 @@
+FIRM         : WDC (CIK 0000106040) | FY2016
+FILE         : 0000106040_WDC_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are carried at cost less accumulated depreciation and amortization. The cost of property, plant and equipment is depreciated over the estimated useful lives of the respective assets.
+
+[VERBATIM — Infrastructure IA]
+In November 2015, the Company entered into an agreement to form a joint venture with Unis to market and sell the Company’s current data center storage systems in China and to develop data storage systems for the Chinese market in the future. A business plan for the joint venture has been completed, and the Company expects that the joint venture will be operational during calendar year 2016. The joint venture is  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05, “Intangibles — Goodwill and Other — Internal-Use Software (Subtopic 350-40)” (“ASU 2015-05”), which provides guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The standard is effective for fiscal years beginning after December 15, 2015, including interim periods within those fiscal years, which for the Company is the first quarter of fiscal 2017. The Company is currently evaluating the impact ASU 2015-05 will have on its consolidated financial statements and related disclosures.

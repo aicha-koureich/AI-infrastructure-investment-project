@@ -1,0 +1,21 @@
+FIRM         : LSCC (CIK 0000855658) | FY2019
+FILE         : 0000855658_LSCC_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 28, 2019
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 9 - Intangible Assets
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Right-of-use ("ROU") assets represent our right to use an underlying asset for the lease term, and lease liabilities represent our obligation to make lease payments arising from the lease. Operating lease ROU assets and liabilities are recognized on the commencement date of the lease based on the present value of lease payments over the lease term. As most of our leases do not provide an implicit rate, we determine the present value of lease payments using an incremental borrowing rate based on information from our commercial bank for an equivalent borrowing and term in the respective region as of the lease commencement date. At inception, we determine if an arrangement is a lease, if it includes options to extend or terminate the lease, and if it is reasonably certain that we will exercise the options. Lease cost, representing lease payments over the term of the lease and any capitalizable direct costs less any incentives received, is recognized on a straight-line basis over the lease term as lease expense. We have operating leases for corporate offices, sales offices, research and development facilities, storage facilities, and a data center.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

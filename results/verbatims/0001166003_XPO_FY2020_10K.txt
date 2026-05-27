@@ -1,0 +1,21 @@
+FIRM         : XPO (CIK 0001166003) | FY2020
+FILE         : 0001166003_XPO_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : Machinery and equipment, Computer software, equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-6.0 ans | 3.0-14.0 ans | 3.0-15.0 ans | 6.0 ans | 7.0 ans | 8.0 ans
+
+[VERBATIM — Durée de vie]
+Classification Estimated Useful Life Buildings and leasehold improvements Term of lease to 40 years Vehicles, containers, tractors, trailers and tankers 3 to 14 years Rail cars and chassis 15 to 30 years Machinery and equipment 3 to 15 years Computer software and equipment 1 to 6 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, “Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.” The ASU aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. Under the guidance, any capitalized implementation costs would be included in prepaid expenses, amortized over the term of the hosting arrangement on a straight-line basis and presented in the same line items in the Consolidated Statement of Income as the expense for fees of the associated hosting arrangements. We adopted this standard on January 1, 2020 on a prospective basis. The adoption did not have a material effect on our consolidated financial statements.

@@ -1,0 +1,20 @@
+FIRM         : ALGM (CIK 0000866291) | FY2020
+FILE         : 0000866291_ALGM_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-03-26
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+• Invest in research and development that is market-aligned and focused on targeted portfolio expansion . We believe that our investments in research and development in the areas of product design, automotive-grade wafer fabrication technology and IC packaging development are critical to maintaining our competitive advantage. In both the automotive and industrial markets, major technology shifts driven by disruptive technologies are creating high-growth opportunities in areas such as xEVs, ADAS, Industry 4.0, data centers and green energy applications. Our knowledge of customers’ end systems has driven an expansion of our sensor IC and power solutions to enable these new technologies. By aligning our research and development investments with disruptive technology trends while undergoing a rigorous ROI review, we believe we can deliver an attractive combination of growth and profitability.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

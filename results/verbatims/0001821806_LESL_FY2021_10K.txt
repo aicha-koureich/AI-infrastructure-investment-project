@@ -1,0 +1,21 @@
+FIRM         : LESL (CIK 0001821806) | FY2021
+FILE         : 0001821806_LESL_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-03
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 8—Property and Equipment
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization expense on property and equipment was $ 26.6 million, $ 28.9 million and $ 27.9 million in fiscal 2021, 2020 and 2019, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| From time to time, we enter into various agreements with unaffiliated third parties for assistance with technical development work related to our security-related software and systems and other ongoing projects. Expenditures for implementation, set-up, and other upfront costs incurred in a cloud computing arrangement that is hosted by the vendor are capitalized generally in the same manner as internal use software and are recorded as other assets in our consolidated balance sheets. Such costs are amortized over the life of the related cloud computing arrangement. As of October 2, 2021, approximately $ 5.2 million associated with these agreements are included in prepaid and other current assets in our consolidated balance sheets. In addition, as of October 2, 2021, approximately $ 23.1 million associated with these agreements are included other assets in our consolidated balance sheets. ||| Cloud Computing Arrangements From time to time, we enter into various agreements with unaffiliated third parties for assistance with technical development work related to our security-related software and systems and other ongoing projects. Expenditures for implementation, set-up, and other upfront costs incurred in a cloud computing arrangement that is hosted by the vendor are capitalized generally in the same manner as internal use software and are recorded as other assets in our consolidated balance sheets. Such costs are amortized over the life of the related cloud computing arrangement. As of October 2, 2021, approximately $ 5.2 million associated with these agreements are included in prepaid and other current assets in our consolidated balance sheets. In addition, as of October 2, 2021, approximately $ 23.1 million associated with these agreements are included other assets in our consolidated balance sheets.

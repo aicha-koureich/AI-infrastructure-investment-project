@@ -1,0 +1,20 @@
+FIRM         : SNPS (CIK 0000883241) | FY2022
+FILE         : 0000883241_SNPS_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-10-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We store sensitive data, including intellectual property, our proprietary business information and that of our customers, and confidential employee information, in our data centers, on our networks or on the cloud. These systems may be vulnerable to attacks by hackers or compromised due to employee error, malfeasance or other disruptions that could result in unauthorized disclosure or loss of sensitive information. Many employees continue to work remotely based on a hybrid work model, which magnifies the importance of maintaining the integrity of our remote access security measures.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In this era of Smart Everything, we have seen a remarkable proliferation of consumer and wireless electronic products, particularly mobile devices. The growth of the Internet and cloud computing has provided people with new ways to create, store, and share information. At the same time, the increasing use of electronics in cars, buildings, appliances, and other consumer products is creating a connected landscape of smart devices. Numerous software applications have been developed to expand the potential of these connected devices. The increasing impact of artificial intelligence and machine learning is driving an increase in the activity of new and existing chip and system design companies around the world. ||| The popularity of mobile devices and other electronic products has increased demand for chips and systems with greater functionality and performance, reduced size, and lower power consumption. Our customers, who design those products, are facing intense pressure to deliver innovative offerings in shorter timeframes and at lower prices. In other words, innovation in chip and system design often hinges on providing products “better,” “sooner,” and “cheaper” than competitors. The design of these chips and systems is extremely complex and necessitates state-of-the-art solutions. Over the past several years, market verticals including artificial intelligence (AI), 5G, automotive and cloud computing infrastructure have contributed to the ongoing demand for our products and services. ||| As the availability and amount of cloud-based data storage grows, customer interest in accessing EDA on the cloud is also increasing as customers seek to benefit from the scalability and flexibility that cloud computing can offer to their flows and engineering teams. While many of our solutions have been used in cloud-based environments for years, such as in a customer’s own server and/or cloud environment, in fiscal 2022 we launched a new Synopsys Cloud offering that provides customers additional options for accessing our EDA products.

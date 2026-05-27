@@ -1,0 +1,20 @@
+FIRM         : EG (CIK 0001095073) | FY2020
+FILE         : 0001095073_EG_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Accounting for Cloud Computing Arrangement. In August 2018, FASB issued ASU 2018-15, which outlines accounting for implementation costs of a cloud computing arrangement that is a service contract. This guidance requires that implementation costs of a cloud computing arrangement that is a service contract must be capitalized and expensed in accordance with the existing provisions provided in Subtopic 350-40 regarding development of internal use software. In addition, any capitalized implementation costs should be amortized over the term of the hosting arrangement. The guidance is effective for annual reporting periods beginning after December 15, 2019 and interim periods within that annual reporting period. The Company adopted the guidance as of January 1, 2020. The adoption of ASU 2018-15 did not have a material impact on the Company’s financial statements. ||| Accounting for Cloud Computing Arrangement. ||| In August 2018, FASB issued ASU 2018-15, which outlines accounting for implementation costs of a cloud computing arrangement that is a service contract. This guidance requires that implementation costs of a cloud computing arrangement that is a service contract must be capitalized and expensed in accordance with the existing provisions provided in Subtopic 350-40 regarding development of internal use software. In addition, any capitalized implementation costs should be amortized over the term of the hosting arrangement. The guidance is effective for annual reporting periods beginning after December 15, 2019 and interim periods within that annual reporting period. The Company adopted the guidance as of January 1, 2020. The adoption of ASU 2018-15 did not have a material impact on the Company’s financial statements.

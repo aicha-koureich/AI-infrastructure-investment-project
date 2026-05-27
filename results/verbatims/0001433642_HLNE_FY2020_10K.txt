@@ -1,0 +1,20 @@
+FIRM         : HLNE (CIK 0001433642) | FY2020
+FILE         : 0001433642_HLNE_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-04-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies Basis of Presentation
+ASSET CAT.   : Furniture, equipment, office equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Furniture, fixtures and equipment consist primarily of leasehold improvements, office equipment, furniture and fixtures, and computer hardware and software and are recorded at cost, less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

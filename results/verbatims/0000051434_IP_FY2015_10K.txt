@@ -1,0 +1,20 @@
+FIRM         : IP (CIK 0000051434) | FY2015
+FILE         : 0000051434_IP_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 7
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Plants, properties and equipment are stated at cost, less accumulated depreciation. The units-of-production method of depreciation is used for pulp and paper mills, and the straight-line method is used for other plants and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+CLOUD COMPUTING ARRANGEMENTS ||| In April 2015, the FASB issued ASU 2015-05, "Customer's Accounting for Fees Paid in a Cloud Computing Arrangement." This ASU provides clarification on whether a cloud computing arrangement includes a software license. If a software license is included, the customer should account for the license consistent with its accounting of other software licenses. If a software license is not included, the arrangement should be accounted for as a service contract. This ASU is effective for annual reporting periods beginning after December 15, 2015, and interim periods within those years. Early adoption is permitted. The application of the requirements of this guidance is not expected to have a material effect on the consolidated financial statements.

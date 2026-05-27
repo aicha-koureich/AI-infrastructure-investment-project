@@ -1,0 +1,20 @@
+FIRM         : ATI (CIK 0001018963) | FY2015
+FILE         : 0001018963_ATI_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 22. Selected Quarterly Financial Data
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In millions) 2015 2014 2013 Depreciation of property, plant and equipment $ 159.6 $ 146.7 $ 156.8 Software and other amortization 30.3 29.9 23.8 Total depreciation and amortization $ 189.9 $ 176.6 $ 180.6
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : GD (CIK 0000040533) | FY2018
+FILE         : 0000040533_GD_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Information Technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Identifiable Assets Capital Expenditures Depreciation and Amortization Year Ended December 31 2018 2017 2016 2018 2017 2016 2018 2017 2016 Aerospace $ 11,220 $ 10,126 $ 9,792 $ 194 $ 132 $ 125 $ 154 $ 147 $ 153 Combat Systems 9,853 9,846 8,885 91 84 71 87 86 86 Information Technology 14,159 3,021 2,778 62 16 10 333 32 42 Mission Systems 5,984 5,856 5,667 49 47 87 65 60 61 Marine Systems 3,130 2,906 3,063 243 123 92 116 109 105 Corporate* 1,062 3,291 2,987 51 26 7 8 7 6 Total $ 45,408 $ 35,046 $ 33,172 $ 690 $ 428 $ 392 $ 763 $ 441 $ 453
+
+[VERBATIM — Infrastructure IA]
+$145 to provide operations and maintenance support services for a Department of Homeland Security (DHS) data center.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

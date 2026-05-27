@@ -1,0 +1,20 @@
+FIRM         : AMD (CIK 0000002488) | FY2024
+FILE         : 0000002488_AMD_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 28, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 – Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 2.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : AMD_EPYC;AMD_Instinct;AMD_Radeon;AMD_Ryzen;MI300;MI325;NVIDIA (7 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization are provided on a straight-line basis over the estimated useful lives of two to 15 years for equipment, 34 to 44 years for buildings, and leasehold improvements are measured by the shorter of the remaining terms of the leases or the estimated useful economic lives of the improvements.
+
+[VERBATIM — Infrastructure IA]
+• the Data Center segment, which primarily includes Artificial Intelligence (AI) accelerators, server microprocessors (CPUs), graphics processing units (GPUs), accelerated processing units (APUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), Smart Network Interface Cards (SmartNICs) and Adaptive System-on-Chip (SoC) products for data centers;  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+During the year, we successfully launched multiple leadership products and made significant progress executing our AI strategy. One of our priorities in 2024 was to accelerate growth in our Data Center segment. The demand for our Data Center AI accelerator products was very strong led by large hyperscale cloud customers deploying our AMD Instinct MI300X GPU accelerators. During the year, we unveiled an accelerated AMD Instinct accelerator roadmap to deliver an annual cadence of leadership AI solutions. To further expand our high-performance server CPU portfolio, we launched our 5th Gen AMD EPYC™ processors, formerly codenamed “Turin,” built with our latest “Zen 5” core architecture designed to deliver leadership performance and efficiency.

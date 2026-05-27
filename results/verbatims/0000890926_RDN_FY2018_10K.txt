@@ -1,0 +1,21 @@
+FIRM         : RDN (CIK 0000890926) | FY2018
+FILE         : 0000890926_RDN_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 20 - Quarterly Financial Data (Unaudited)
+ASSET CAT.   : equipment is depreciated over
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment is carried at cost, net of depreciation. For financial statement reporting purposes, computer hardware and software is generally depreciated over three or five years , furniture and fixtures is depreciated over seven years , and office equipment is depreciated over five years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued an update to the accounting standard regarding the capitalization of implementation costs for activities performed in a cloud computing arrangement that is a service contract. The new standard aligns the accounting for implementation costs of hosting arrangements that are service contracts with the accounting for capitalizing internal-use software. This update is effective for fiscal years beginning after December 15, 2019, including interim periods within those fiscal years. Early adoption is permitted, including adoption in an interim period. We are currently evaluating the potential impact of the adoption of this update and do not expect it to have a material effect on our financial statements and disclosures.

@@ -1,0 +1,20 @@
+FIRM         : TKO (CIK 0001973266) | FY2024
+FILE         : 0001973266_TKO_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-06-30
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+in June 2025 unless extended and it may be revoked in the future by the European Commission if the UK data protection regime is reformed in ways that deviate substantially from the EU GDPR. There can be no assurances that we will be successful in our efforts to comply with the GDPR or other privacy and data protection laws and regulations, or that violations will not occur, particularly given the complexity of both these laws and our business, as well as the uncertainties that accompany new laws. In addition, cloud service providers upon which our services depend are experiencing heightened scrutiny from EU regulators, which may lead to significant shifts or unavailability of cloud services to transfer personal information outside the EU, which may significantly impact our costs or ability to operate. ||| There can be no assurances that we will be successful in our efforts to comply with the GDPR or other privacy and data protection laws and regulations, or that violations will not occur, particularly given the complexity of both these laws and our business, as well as the uncertainties that accompany new laws. In addition, cloud service providers upon which our services depend are experiencing heightened scrutiny from EU regulators, which may lead to significant shifts or unavailability of cloud services to transfer personal information outside the EU, which may significantly impact our costs or ability to operate.

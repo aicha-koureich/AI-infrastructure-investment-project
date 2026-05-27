@@ -1,0 +1,20 @@
+FIRM         : ADMA (CIK 0001368514) | FY2024
+FILE         : 0001368514_ADMA_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+performance of adequate and well-controlled clinical trials meeting FDA requirements, commonly referred to as Good Clinical Practices (“GCP”), and other additional requirements for the protection of human research subjects and to establish the safety and efficacy of the product candidate for each proposed indication; ||| Our submission of an IND, or those of our collaboration partners, may not result in the FDA allowing us to commence a clinical trial. A separate submission to an existing IND must also be made for each successive clinical trial conducted during product development. The FDA must also approve certain changes to an existing IND, such as certain manufacturing changes. Further, an independent IRB duly constituted to meet FDA requirements for each medical center proposing to conduct the clinical trial must review and approve the plan for any clinical trial before it commences at that center and it must monitor the safety of the study and study subjects until completed. Special clinical trial ethical considerations also must be taken into account if a study involves children. The FDA, the IRB or the sponsor may suspend a clinical trial at any time on various grounds, including a finding that the subjects or patients are being exposed to an unacceptable health risk. Clinical testing also must satisfy extensive GCP requirements and regulations for informed consent and must be conducted with product meeting cGMPs. Additionally, some clinical trials are overseen by an independent group of qualified experts organized by the clinical trial sponsor, known as a data safety monitoring board or committee, which reviews data and makes recommendations to the sponsor regarding the trial.

@@ -1,0 +1,23 @@
+FIRM         : TRGP (CIK 0001389170) | FY2016
+FILE         : 0001389170_TRGP_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+We define Adjusted EBITDA as net income (loss) available to TRC before: interest; income taxes; depreciation and amortization; impairment of goodwill; gains or losses on debt repurchases, redemptions, amendments, exchanges and early debt extinguishments and asset disposals; risk management activities related to derivative instruments including the cash impact of hedges acquired in the merger with APL (the “APL merger”); non-cash compensation on equity grants; transaction costs related to business acquisitions; the Splitter Agreement adjustment; net income attributable to TRP preferred limited partners; earnings/losses from unconsolidated affiliates net of distributions, distributions from preferred interests, change in contingent consideration and the noncontrolling interest portion of depreciation and amortization expenses. Adjusted EBITDA is used as a supplemental financial measure by us and by external users of our financial statements such as investors, commercial banks and others. The economic substance behind our use of Adjusted EBITDA is to measure the ability of our assets to generate cash sufficient to pay interest costs, support our indebtedness and pay dividends to our investors.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

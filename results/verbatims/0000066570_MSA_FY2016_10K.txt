@@ -1,0 +1,20 @@
+FIRM         : MSA (CIK 0000066570) | FY2016
+FILE         : 0000066570_MSA_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 13—Acquisitions
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated future depreciation expense related to Latchways property, plant and equipment is approximately
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+- Customer's Accounting for Fees Paid in a Cloud Computing Arrangement ||| . This ASU clarifies when entities should account for fees paid in a cloud computing arrangement as a software license or service contract. This ASU was adopted on January 1, 2016 and was implemented on a prospective basis. The adoption of this ASU did not have a material effect on our consolidated financial statements. ||| In April 2015, the FASB issued ASU 2015-05, Goodwill and Other Internal Use Software - Customer's Accounting for Fees Paid in a Cloud Computing Arrangement . This ASU clarifies when entities should account for fees paid in a cloud computing arrangement as a software license or service contract. This ASU was adopted on January 1, 2016 and was implemented on a prospective basis. The adoption of this ASU did not have a material effect on our consolidated financial statements.

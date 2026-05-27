@@ -1,0 +1,20 @@
+FIRM         : CIEN (CIK 0000936395) | FY2019
+FILE         : 0000936395_CIEN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 31, 2019
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Types of expense incurred in research and development include employee compensation, prototype equipment, consulting and third-party services, depreciation, facility costs and information technology.
+
+[VERBATIM — Infrastructure IA]
+We continue to diversify our business across geographies, customer segments and product solutions and applications. In fiscal 2019 and for the last several years, our diversification and global scale have been key contributors to our strong revenue growth despite any challenges in a particular geography, segment or account that may have served as a meaningful revenue contributor in an earlier period. During fiscal 2019, we grew revenue in our North America, EMEA and CALA geographic regions, and across three of our four operating segments. During fiscal 2019, we also grew revenue with our largest service provider customers, particularly in North America, after recent years of declining revenues. During fiscal 2019 we also benefited meaningfully from our strong market position with leading Web-scale providers for data center interconnection applications. Sales to Web-scale provider customers, representing approximately 22% of total revenue and growing over 40% year-over-year, were an important contributor to our annual revenue growth, with certain of these customers among our largest customers by revenue for fiscal 2019. Certain of such customers have announced an intention to reduce capital spending in future periods, and we expect our revenue from Web-scale customers to moderate from the level achieved in fiscal 2019. Our revenue gains from these areas offset a meaningful revenue reduction from our APAC region during fiscal 2019. After recent years of strong growth driven by aggressive network build outs by service providers in India, capital spending in this region decreased year-over-year. We believe our business and financial performance in recent years highlights the benefits of our diverse global business and our ability to target high growth segments within our markets.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

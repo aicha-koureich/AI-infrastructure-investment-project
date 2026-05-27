@@ -1,0 +1,20 @@
+FIRM         : KSS (CIK 0000885639) | FY2018
+FILE         : 0000885639_KSS_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 2, 2019
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 1. B
+ASSET CAT.   : equipment, Information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(Dollars in Millions) Feb 2, 2019 Feb 3, 2018 Land $ 1,110 $ 1,115 Buildings and improvements: Owned 8,048 8,062 Leased 1,816 1,813 Fixtures and equipment 1,489 1,700 Information technology 2,628 2,337 Construction in progress 299 152 Total property and equipment, at cost 15,390 15,179 Less accumulated depreciation and amortization (7,962 ) (7,406 ) Property and equipment, net $ 7,428 $ 7,773
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing (ASU 2018-15) Issued August 2018 Effective Q1 2020 ||| Under the new standard, implementation costs related to a cloud computing arrangement will be deferred or expensed as incurred, in accordance with the existing internal-use software guidance for similar costs. The new standard also prescribes the balance sheet, income statement, and cash flow classification of the capitalized implementation costs and related amortization expense. ||| We are evaluating the impact of the new standard, but believe it is generally consistent with our current accounting for cloud computing arrangements and will not have a material impact on our financials.

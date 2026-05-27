@@ -1,0 +1,21 @@
+FIRM         : UBER (CIK 0001543151) | FY2024
+FILE         : 0001543151_UBER_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-08-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment Estimated Useful Life Land Indefinite Buildings
+DURÉE        : 30.0-45.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0 ans | 3.0-5.0 ans | 3.0-10.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, net of accumulated depreciation and amortization. Depreciation and amortization is computed using the straight‑line method over the estimated useful lives of the assets, which are as follows: Property and Equipment Estimated Useful Life Land Indefinite Buildings 30-45 years Site improvements 5-15 years Computer equipment 3-5 years Furniture and fixtures 3-5 years Internal-use software 2 years Motor vehicles and other equipment 3-10 years Leased computer equipment Shorter of estimated useful life or lease term Leasehold improvements Shorter of estimated useful life or lease term
+
+[VERBATIM — Infrastructure IA]
+• Cost of revenue, exclusive of depreciation and amortization, primarily consists of costs incurred for certain Mobility and Delivery transactions where we are primarily responsible for Mobility and Delivery services and pay Drivers and Couriers for services, certain insurance costs related to our Mobility and Delivery offerings, costs incurred with Carriers for Uber Freight transportation services, credit card processing fees, bank fees, data center and networking expenses, mobile device and service costs, and amounts related to fare chargebacks and other credit card losses.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We have non-cancelable commitments which primarily relate to network and cloud services and other items in the ordinary course of business. These amounts are determined based on the non-cancelable quantities to which we are contractually obligated. ||| In November 2022, we entered into commercial technology agreements with vendors for cloud computing services (“2022 Cloud Computing Service Agreements”). We are committed to spend an aggregate of at least $2.5 billion through November 2029, of which $412 million is short-term. We may pay more than the minimum purchase commitment to our cloud-computing web services providers based on usage. For the year ended December 31, 2024, Uber satisfied its commitment for the 2022 Cloud Computing Service Agreements. ||| As of December 31, 2024, we had $2.7 billion in non-cancelable commitments, this includes the $2.5 billion in 2022 Cloud Computing Service Agreements discussed above. The non-cancellable commitments have varying expiration terms through November 2029.

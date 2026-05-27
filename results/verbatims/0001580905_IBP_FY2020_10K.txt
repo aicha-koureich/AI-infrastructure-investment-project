@@ -1,0 +1,20 @@
+FIRM         : IBP (CIK 0001580905) | FY2020
+FILE         : 0001580905_IBP_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 6 – PROPERTY AND EQUIPMENT
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+We recorded the following depreciation and amortization expense on our property and equipment, by income statement category (in thousands):
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

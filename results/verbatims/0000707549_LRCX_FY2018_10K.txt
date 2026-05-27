@@ -1,0 +1,21 @@
+FIRM         : LRCX (CIK 0000707549) | FY2018
+FILE         : 0000707549_LRCX_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 19: Business Combinations
+ASSET CAT.   : Equipment, Furniture and fixtures
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Equipment is depreciated by the straight-line method over the estimated useful lives of the assets, generally three to five years. Software is amortized by the straight-line method over the estimated useful lives of the assets, generally three to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

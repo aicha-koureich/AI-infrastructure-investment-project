@@ -1,0 +1,20 @@
+FIRM         : LPSN (CIK 0001102993) | FY2024
+FILE         : 0001102993_LPSN_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 6. Property and Equipment, Net
+ASSET CAT.   : Computer equipment, Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, Useful Life (Years) 2024 2023 (In thousands) Computer equipment and software 3 to 5 $ 134,647 $ 123,580 Internal-use software development costs 5 176,725 181,079 Finance lease right-of-use assets 2 62 3,060 Furniture, equipment and building improvements The lesser of 5 or estimated useful life 234 327 Property and equipment, at cost 311,668 308,046 Less: accumulated depreciation and amortization (211,111) (188,721) Total Property and equipment, net $ 100,557 $ 119,325
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

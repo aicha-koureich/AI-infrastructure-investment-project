@@ -1,0 +1,30 @@
+FIRM         : EXC (CIK 0001109357) | FY2016
+FILE         : 0001109357_EXC_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Significant Accounting Policies (All Registrants)
+ASSET CAT.   : capitalized software
+DURÉE        : 5.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Certain other capitalized software costs are
+being amortized over longer lives based on the expected life or pursuant to prescribed regulatory requirements. The following table presents net unamortized capitalized software costs and amortization of capitalized software costs by year:
+
+[VERBATIM — Changement de politique]
+In June 2016, as a result of the retirement decision for Clinton and Quad Cities, Exelon and
+Generation recognized one-time charges in Operating and maintenance expense of $146 million related to materials and supplies inventory reserve adjustments, employee-related costs and construction work-in-progress (CWIP) impairments, among other items. In addition to these one-time charges, Exelon and Generation began recognizing
+incremental non-cash charges to earnings stemming from shortening the expected economic useful life of Clinton and Quad Cities, including accelerated depreciation of plant assets (along with any asset
+retirement costs (ARC)), accelerated amortization of nuclear fuel, and additional asset retirement obligation (ARO) accretion expense associated with the changes in decommissioning timing and cost assumptions.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer ’ s
+Accounting for Fees Paid in a Cloud Computing Arrangement (Issued April 2015; Adopted first quarter 2016 prospectively): Clarifies the circumstances under which a cloud computing customer would account for the arrangement as a license of internal-use software. A cloud computing arrangement would include a software license if (1) the customer has a contractual right to take possession of the software at any time during the hosting period without
+significant penalty and (2) it is feasible for the customer to either operate the software on its own hardware or contract with another party unrelated to the vendor to host the software. If the arrangement does not contain a software license,
+it would be accounted for as a service contract.

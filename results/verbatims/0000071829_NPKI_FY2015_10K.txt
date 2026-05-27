@@ -1,0 +1,20 @@
+FIRM         : NPKI (CIK 0000071829) | FY2015
+FILE         : 0000071829_NPKI_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 4 — Property, Plant and Equipment Our investment in property, plant and equipment consisted of the following at December 31: (In thousands) 2015 
+ASSET CAT.   : Machinery and equipment, Computer hardware, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In thousands) 2015 2014 Land $ 11,613 $ 11,736 Buildings and improvements 122,514 98,492 Machinery and equipment 224,974 188,987 Computer hardware and software 29,688 27,431 Furnitures and fixtures 5,788 5,466 Construction in progress 20,950 40,628 415,527 372,740 Less accumulated depreciation (164,818 ) (146,860 ) 250,709 225,880 Composite mats (rental fleet) 100,341 90,321 Less accumulated depreciation-mats (43,418 ) (32,840 ) 56,923 57,481 Property, plant and equipment, net $ 307,632 $ 283,361
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

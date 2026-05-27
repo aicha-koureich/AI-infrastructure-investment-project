@@ -1,0 +1,21 @@
+FIRM         : GTM (CIK 0001794515) | FY2021
+FILE         : 0001794515_GTM_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 - Basis of Presentation and Summary of Significant Accounting Policies (continued)
+ASSET CAT.   : equipment
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 4.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment is stated at cost, net of accumulated depreciation and amortization. Qualifying internal use software costs incurred during the application development stage, which consist primarily of internal product development costs, outside services, and purchased software license costs, are capitalized and amortized over the estimated useful life of the asset.
+
+[VERBATIM — Infrastructure IA]
+We determine if an arrangement is or contains a lease at contract inception. Determining if a contract contains a lease requires judgement. In certain of our lease arrangements, primarily those related to our data center arrangements, judgment is required in determining if a contract contains a lease. For these arrangements, there is judgment in evaluating if the arrangement involves an identified asset that is physically distinct or whether we have the right to substantially all of the capacity of an identified asset that is not physically distinct. In arrangements that involve an identified asset, there is also judgment in evaluating if we have the right to direct the use of that asset.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

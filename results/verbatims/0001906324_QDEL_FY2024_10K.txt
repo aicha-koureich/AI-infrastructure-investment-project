@@ -1,0 +1,21 @@
+FIRM         : QDEL (CIK 0001906324) | FY2024
+FILE         : 0001906324_QDEL_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-8.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Asset type Useful life Building and building improvements 7-47 years Machinery and equipment 3-15 years Customer leased instruments 3-8 years Computer software 3-5 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Amortization of deferred cloud computing implementation costs ||| Fiscal Year Ended 2024 (In millions) North America EMEA China Other Total Total revenues $ 1,619.8 $ 335.8 $ 325.0 $ 502.3 $ 2,782.9 Less (1) : Cost of sales, excluding amortization of intangibles 547.0 179.5 148.0 271.3 1,145.8 Selling, marketing and administrative 179.6 105.8 44.6 96.6 426.6 Research and development 1.6 2.6 4.3 3.1 11.6 Other expense, net (0.5) 1.4 (2.4) (2.2) (3.7) Total segment Adjusted EBITDA $ 892.1 $ 46.5 $ 130.5 $ 133.5 1,202.6 Reconciliation of segment Adjusted EBITDA Corporate (2) (659.7) Depreciation and amortization (453.4) Interest expense, net (163.5) Acquisition and integration costs (127.2) Goodwill impairment charge (1,822.6) Asset impairment charge (56.9) Asset write off (3) (20.0) Amortization of deferred cloud computing implementation costs (14.7) Employee compensation charges (5.6) Credit Agreement amendment fees (4.0) EU medical device regulation transition costs (4) (2.0) Loss on disposal (5) (1.2) Gain on investments 0.7 Other adjustments (4.0) (Loss) income before income taxes $ (2,131.5) ||| Fiscal Year Ended 2023 (In millions) North America EMEA China Other Total Total revenues $ 1,877.1 $ 327.3 $ 310.1 $ 483.3 $ 2,997.8 Less (1) : Cost of sales, excluding amortization of intangibles 644.3 176.2 134.9 264.7 1,220.1 Selling, marketing and administrative 205.9 105.1 44.7 100.1 455.8 Research and development 1.6 2.5 4.5 3.1 11.7 Other expense, net 0.1 2.5 (1.2) 0.1 1.5 Total segment Adjusted EBITDA $ 1,025.2 $ 41.0 $ 127.2 $ 115.3 1,308.7 Reconciliation of segment Adjusted EBITDA Corporate (2) (585.5) Depreciation and amortization (457.2) Interest expense, net (147.6) Acquisition and integration costs (113.4) Asset impairment charge (4.5) Tax indemnification expense (12.6) Amortization of deferred cloud computing implementation costs (9.2) Loss on investments (3.6) EU medical device regulation transition costs (4) (2.5) Other adjustments (1.7) (Loss) income before income taxes $ (29.1)

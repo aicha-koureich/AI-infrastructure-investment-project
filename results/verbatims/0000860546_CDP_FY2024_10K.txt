@@ -1,0 +1,20 @@
+FIRM         : CDP (CIK 0000860546) | FY2024
+FILE         : 0000860546_CDP_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-01
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+> general economic and business conditions, which will, among other things, affect office property and data center demand and rents, tenant creditworthiness, interest rates, financing availability, property operating and construction costs, and property values;  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+> acquiring 365 acres of land near Des Moines, Iowa for $32.0 million on September 27, 2024 that we believe could be developed into approximately 3.3 million square feet of data center shell space in the long term. We believe that significant demand for data center shells exists, fueled in large part by advancements in cloud computing and artificial intelligence, and Des Moines is one of the largest hyperscale data center markets in the United States. ||| acquiring 365 acres of land near Des Moines, Iowa for $32.0 million on September 27, 2024 that we believe could be developed into approximately 3.3 million square feet of data center shell space in the long term. We believe that significant demand for data center shells exists, fueled in large part by advancements in cloud computing and artificial intelligence, and Des Moines is one of the largest hyperscale data center markets in the United States.

@@ -1,0 +1,22 @@
+FIRM         : WHLM (CIK 0001013706) | FY2015
+FILE         : 0001013706_WHLM_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 2.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+When property and equipment are retired or sold, the cost and accumulated depreciation
+and amortization are eliminated from the related accounts and gains or losses, if any, are reflected in the consolidated statement
+of operations.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

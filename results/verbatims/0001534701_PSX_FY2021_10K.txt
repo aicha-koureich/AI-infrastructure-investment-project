@@ -1,0 +1,20 @@
+FIRM         : PSX (CIK 0001534701) | FY2021
+FILE         : 0001534701_PSX_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1—Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization of properties, plants and equipment (PP&E) are determined by either the individual-unit-straight-line method or the group-straight-line method (for those individual units that are highly integrated with other units).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

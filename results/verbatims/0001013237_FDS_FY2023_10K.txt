@@ -1,0 +1,21 @@
+FIRM         : FDS (CIK 0001013237) | FY2023
+FILE         : 0001013237_FDS_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-08-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 18
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation on property, equipment and leasehold improvements
+
+[VERBATIM — Infrastructure IA]
+Our clients rely on us for the delivery of time-sensitive, up-to-date data and applications. Our business is dependent on our ability to process substantial volumes of data and transactions rapidly and efficiently. We currently use multiple providers of cloud services; however, one supplier provided the majority of our cloud computing support for fiscal 2023. We maintain back-up facilities and other redundancies at our major data centers, take security measures and have emergency planning procedures to minimize the risk that an event will disrupt our operations.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Our clients rely on us for the delivery of time-sensitive, up-to-date data and applications. Our business is dependent on our ability to process substantial volumes of data and transactions rapidly and efficiently. We currently use multiple providers of cloud services; however, one supplier provided the majority of our cloud computing support for fiscal 2023. We maintain back-up facilities and other redundancies at our major data centers, take security measures and have emergency planning procedures to minimize the risk that an event will disrupt our operations.

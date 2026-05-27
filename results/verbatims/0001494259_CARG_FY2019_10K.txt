@@ -1,0 +1,20 @@
+FIRM         : CARG (CIK 0001494259) | FY2019
+FILE         : 0001494259_CARG_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-16
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies Basis of Presentation
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+These costs include salaries, benefits, incentive compensation and stock‑based compensation for the Company’s customer support team, and third‑party service provider costs such as data center and networking expenses, allocated overhead costs, depreciation and amortization expense associated with the Company’s property and equipment, and amortization of capitalized website development costs.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue primarily consists of costs related to supporting and hosting the Company’s product offerings. These costs include salaries, benefits, incentive compensation and stock‑based compensation for the Company’s customer support team, and third‑party service provider costs such as data center and networking expenses, allocated overhead costs, depreciation and amortization expense associated with the Company’s property and equipment, and amortization of capitalized website development costs.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40) Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. This update aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. This new standard requires companies to amortize the capitalized implementation costs over the term of the hosting arrangement. Amounts amortized would be presented through operating expense, rather than depreciation or amortization. Accounting for the service component of a hosting arrangement remains unchanged. The new standard is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019. Early adoption is permitted and an entity can elect to apply the new guidance on a prospective or retrospective basis. The Company adopted this standard effective January 1, 2019 and applied the guidance using a prospective transition method for each period presented. ||| Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40) Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.

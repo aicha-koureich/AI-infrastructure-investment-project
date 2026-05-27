@@ -1,0 +1,21 @@
+FIRM         : ADTN (CIK 0000926282) | FY2021
+FILE         : 0000926282_ADTN_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-02
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 22 – Subsequent Events
+ASSET CAT.   : Equipment, machinery and equipment, computer software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment Property, plant and equipment, which is stated at cost, is depreciated using the straight-line method over the estimated useful lives of the assets. We depreciate building and land improvements from five to 39 years , office machinery and equipment from three to seven years , engineering machinery and equipment from three to seven years , and computer software from three to five years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Among our customers, we made progress with our fiber, fiber-extension, in-home service delivery platforms and cloud services while also continuing to engage in value-added service opportunities that we expect will contribute to 2022 revenue and beyond. In addition, we believe that we are at the beginning of a significant investment cycle for fiber deployment and in-home Wi-Fi connectivity driven by technology advancements and regulatory influences. The transition to next-generation network architectures is beginning, and we are seeing demand for our next-generation fiber access and connected home solutions. In 2021, FCC RDOF government funding programs commenced with our service providers and we believe that we are well positioned in 2022 to receive orders. ||| Services & Support Segment – Includes a complete portfolio of maintenance, network implementation and solutions integration and managed services, including hosted cloud services and subscription services which complement our Network Solutions segment. ||| – Includes a complete portfolio of maintenance, network implementation and solutions integration and managed services, including hosted cloud services and subscription services which complement our Network Solutions segment.

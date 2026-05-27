@@ -1,0 +1,20 @@
+FIRM         : PKE (CIK 0000076267) | FY2020
+FILE         : 0000076267_PKE_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 28, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. OTHER CONSOLIDATED BALANCE SHEET DATA Other consolidated balance sheet data consisted of the following: February 28, March 1, 2021 2020 Inventories
+ASSET CAT.   : equipment, Machinery, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+OTHER CONSOLIDATED BALANCE SHEET DATA Other consolidated balance sheet data consisted of the following: February 28, March 1, 2021 2020 Inventories: Raw materials $ 3,490 $ 5,319 Work-in-process 147 254 Finished goods 1,157 806 $ 4,794 $ 6,379 Property, plant and equipment: Land, buildings and improvements $ 14,236 $ 13,642 Machinery, equipment, furniture and fixtures 37,446 35,182 51,682 48,824 Less: accumulated depreciation and amortization 30,552 32,724 $ 21,130 $ 16,100 Goodwill and other intangible assets: Goodwill $ 9,776 $ 9,776 Other intangibles 21 28 $ 9,797 $ 9,804 Accrued liabilities: Payroll and payroll related $ 596 $ 578 Employee benefits 2 1 Workers' compensation 138 111 Professional fees 451 467 Restructuring (Notes 8 and 12) 260 432 Other 261 120 $ 1,708 $ 1,709
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

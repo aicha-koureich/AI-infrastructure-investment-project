@@ -1,0 +1,20 @@
+FIRM         : CDW (CIK 0001402057) | FY2019
+FILE         : 0001402057_CDW_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 18
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company enters into operating lease contracts, as assessed at contract inception, primarily for real estate, data centers and equipment. On the lease commencement date, the Company records operating lease liabilities based on the present value of the future lease payments. In determining the present value of future lease payments, the Company uses its incremental borrowing rate based on the information available at the commencement date. For real estate and data center contracts, the Company accounts for the lease and non-lease components as a single lease component. For certain equipment leases, the Company applies a portfolio approach to account for the right-of-use asset and operating lease liability. In assessing the lease term, the Company includes options to renew only when it is reasonably certain that it will be exercised; a determination which is at the sole discretion of the Company. For leases with an initial term of 12 months or less, the Company has elected to not record a right-of-use asset and lease liability. For equipment leases used in revenue generating activities, the Company records a right-of-use asset and lease liability for leases with a term of 12 months or less. The Company records lease expense on a straight-line basis over the lease term beginning on the commencement date.
+
+[VERBATIM — Infrastructure IA]
+The Company has operating leases primarily for real estate, data centers and equipment. Lease terms range from 1 year to 17 years .  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+CDW Corporation, a Fortune 500 company and member of the S&P 500 Index, is a market-leading provider of integrated information technology ("IT") solutions to small, medium and large business, government, education and healthcare customers in the US, the UK and Canada. Our broad array of offerings ranges from discrete hardware and software products to integrated IT solutions such as mobility, security, data center optimization, cloud computing, virtualization and collaboration.

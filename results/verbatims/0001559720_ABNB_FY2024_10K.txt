@@ -1,0 +1,20 @@
+FIRM         : ABNB (CIK 0001559720) | FY2024
+FILE         : 0001559720_ABNB_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies Basis of Presentation
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are classified as property and equipment, net on the consolidated balance sheets and are amortized using the straight-line method over the estimated useful life of the applicable software.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue primarily consists of payment processing charges, including merchant fees and chargebacks, costs associated with third-party data centers used to host the Company’s platform, and amortization of internally developed software, and acquired technology.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Cost of revenue increased $175 million, or 10%, in 2024 compared to 2023, primarily due to an increase in merchant fees of $173 million, due to an increase in GBV, the impact of certain one-time incentives in 2023, and an increase in cloud computing costs of $26 million, due to increased server and data storage usage. These increases were partially offset by a reduction in chargebacks of $34 million.

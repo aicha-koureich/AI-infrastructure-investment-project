@@ -1,0 +1,20 @@
+FIRM         : CNXC (CIK 0001803599) | FY2020
+FILE         : 0001803599_CNXC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : November 30, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 17—UNAUDITED QUARTERLY FINANCIAL INFORMATION:
+ASSET CAT.   : Equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of November 30, 2020 2019 Land $ 29,000 $ 28,873 Equipment, computers and software 476,243 379,091 Furniture and fixtures 90,944 83,247 Buildings, building improvements and leasehold improvements 336,194 280,379 Construction-in-progress 10,115 9,943 Total property and equipment, gross $ 942,496 $ 781,533 Less: Accumulated depreciation (490,847) (370,068) Property and equipment, net $ 451,649 $ 411,465
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued guidance clarifying the accounting for capitalizing implementation costs incurred by a customer in a cloud computing arrangement that is a service contract. Under the new guidance, implementation costs related to a cloud computing arrangement will be deferred or expensed as incurred, in accordance with the existing guidance for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). The amendments also require the customer to expense the capitalized implementation costs of a hosting arrangement that is a service contract over the term of the hosting arrangement, which includes reasonably certain renewals. The guidance is effective for interim and annual reporting periods beginning after December 15, 2019 and early adoption is permitted. The Company adopted this guidance prospectively in the third quarter of fiscal year 2018. The adoption did not have a material impact on the Company’s combined financial statements.

@@ -1,0 +1,27 @@
+FIRM         : QSR (CIK 0001618756) | FY2015
+FILE         : 0001618756_QSR_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We record property and equipment at historical cost less accumulated depreciation and amortization.
+
+[VERBATIM — Changement de politique]
+Our measure of segment income is Adjusted EBITDA. Adjusted EBITDA represents earnings (net income
+or loss) before interest, loss on early extinguishment of debt, taxes, depreciation and amortization, adjusted to exclude the impact of share-based compensation and non-cash incentive compensation expense, other operating expenses (income), net,
+(income) loss from equity method investments, net of cash distributions received from equity method investments, and all other specifically identified items that management believes do not directly reflect our core operations. Adjusted EBITDA
+assists management in comparing segment performance by removing the impact of such items, including acquisition accounting impact on cost of sales and TH transaction and restructuring costs. A reconciliation of segment income to net income (loss)
+consists of the following:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

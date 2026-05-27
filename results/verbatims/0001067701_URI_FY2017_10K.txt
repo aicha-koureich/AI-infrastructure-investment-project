@@ -1,0 +1,23 @@
+FIRM         : URI (CIK 0001067701) | FY2017
+FILE         : 0001067701_URI_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+In June 2016, the FASB issued guidance that will require companies to present assets held at amortized cost and available for sale debt securities net of the amount expected to be collected. The guidance requires the measurement of expected credit losses to be based on relevant information from past events, including historical experiences, current conditions and reasonable and supportable forecasts that affect collectibility. The guidance will be effective for fiscal years and interim periods beginning after December 15, 2019 and early adoption is permitted for fiscal years beginning after December 15, 2018, including interim periods within those fiscal years. Different components of the guidance require modified retrospective or prospective adoption. We are currently assessing whether we will early adopt, and the impact on our financial statements is not currently estimable as it will depend on market conditions and our forecast expectations upon, and following, adoption.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

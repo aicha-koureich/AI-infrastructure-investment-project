@@ -1,0 +1,21 @@
+FIRM         : COF (CIK 0000927628) | FY2016
+FILE         : 0000927628_COF_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4—Loans
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Premises and equipment, including leasehold improvements, are carried at cost less accumulated depreciation and amortization. Useful lives for premises and equipment are estimated as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+AWS: Amazon Web Services

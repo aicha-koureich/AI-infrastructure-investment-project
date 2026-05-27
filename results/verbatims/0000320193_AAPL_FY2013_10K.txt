@@ -1,0 +1,22 @@
+FIRM         : AAPL (CIK 0000320193) | FY2013
+FILE         : 0000320193_AAPL_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 28, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : Not disclosed
+DURÉE        : 2.0-4.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-4.0 ans | 2.0-5.0 ans | 3.0-5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Revenue allocated to the embedded unspecified software upgrade rights and the non-software services is deferred and recognized on a straight-line
+basis over the estimated period the software upgrades and non-software services are expected to be provided for each of these devices, which ranges from two to four years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

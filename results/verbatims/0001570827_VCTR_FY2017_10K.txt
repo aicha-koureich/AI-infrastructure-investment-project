@@ -1,0 +1,20 @@
+FIRM         : VCTR (CIK 0001570827) | FY2017
+FILE         : 0001570827_VCTR_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 20. Subsequent Events (Continued)
+ASSET CAT.   : Equipment, Furniture and Fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31, 2017 2016 Equipment, Purchased Software and Implementation Costs $ 14,685 $ 10,979 Leasehold Improvements 2,720 4,274 Furniture and Fixtures 1,501 1,382 ​ ​ ​ ​ ​ ​ ​ ​ Total 18,906 16,635 Accumulated Depreciation and Amortization (10,062 ) (7,091 ) ​ ​ ​ ​ ​ ​ ​ ​ Total Property and Equipment, Net $ 8,844 $ 9,544 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

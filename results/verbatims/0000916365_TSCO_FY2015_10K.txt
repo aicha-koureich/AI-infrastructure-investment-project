@@ -1,0 +1,20 @@
+FIRM         : TSCO (CIK 0000916365) | FY2015
+FILE         : 0000916365_TSCO_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 12 – New Accounting Pronouncements:
+ASSET CAT.   : equipment, Furniture, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 26, 2015 December 27, 2014 ASSETS Current assets: Cash and cash equivalents $ 63,813 $ 51,134 Inventories 1,284,375 1,115,450 Prepaid expenses and other current assets 87,510 66,444 Income taxes receivable 3,763 — Deferred income taxes 45,970 40,962 Total current assets 1,485,431 1,273,990 Property and equipment: Land 86,991 79,571 Buildings and improvements 814,802 698,462 Furniture, fixtures and equipment 523,383 453,692 Computer software and hardware 180,020 154,818 Construction in progress 38,720 30,803 Property and equipment, gross 1,643,916 1,417,346 Accumulated depreciation and amortization (796,340 ) (696,346 ) Property and equipment, net 847,576 721,000 Goodwill 10,258 10,258 Deferred income taxes 9,224 8,782 Other assets 18,337 20,541 Total assets $ 2,370,826 $ 2,034,571 LIABILITIES AND STOCKHOLDERS’ EQUITY Current liabilities: Accounts payable $ 427,249 $ 370,823 Accrued employee compensation 42,684 37,056 Other accrued expenses 195,024 182,565 Current portion of capital lease obligations 878 213 Income taxes payable 5,449 12,436 Total current liabilities 671,284 603,093 Revolving credit loan 150,000 — Capital lease obligations, less current maturities 16,992 4,957 Deferred rent 84,793 79,807 Other long-term liabilities 54,463 53,153 Total liabilities 977,532 741,010 Stockholders’ equity: Preferred Stock, $1.00 par value; 40 shares authorized; no shares issued — — Common Stock, $0.008 par value; 400,000 shares authorized at December 26, 2015 and December 27, 2014; 168,974 shares issued and 134,224 shares outstanding at December 26, 2015 and 167,716 shares issued and 136,382 shares outstanding at December 27, 2014 1,352 1,342 Additional paid-in capital 596,131 510,997 Treasury stock, at cost, 34,750 shares at December 26, 2015 and 31,334 shares at December 27, 2014 (1,429,790 ) (1,137,085 ) Retained earnings 2,225,601 1,918,307 Total stockholders’ equity 1,393,294 1,293,561 Total liabilities and stockholders’ equity $ 2,370,826 $ 2,034,571
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

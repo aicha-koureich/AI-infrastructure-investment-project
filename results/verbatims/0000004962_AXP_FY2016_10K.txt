@@ -1,0 +1,22 @@
+FIRM         : AXP (CIK 0000004962) | FY2016
+FILE         : 0000004962_AXP_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : premises,
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Premises and equipment, including leasehold improvements, are carried at cost less accumulated depreciation. Depreciation is generally computed using the straight-line method over the estimated useful lives of the assets, which range from 3 to 10 years for equipment, furniture and building improvements, and
+from 40 to 50 years for premises, which are depreciated based upon their estimated useful life at the acquisition date.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

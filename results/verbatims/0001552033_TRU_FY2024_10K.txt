@@ -1,0 +1,20 @@
+FIRM         : TRU (CIK 0001552033) | FY2024
+FILE         : 0001552033_TRU_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Significant Accounting Policies
+ASSET CAT.   : equipment, Computer equipment, furniture
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is depreciated primarily using the straight-line method, over the estimated useful lives of the assets. Computer equipment and furniture and purchased software are depreciated over 3 to 7 years.
+
+[VERBATIM — Infrastructure IA]
+Costs of services includes data acquisition and royalty fees, personnel costs related to our databases and software applications, consumer and call center support costs, hardware and software maintenance costs, telecommunication expenses and data center costs.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

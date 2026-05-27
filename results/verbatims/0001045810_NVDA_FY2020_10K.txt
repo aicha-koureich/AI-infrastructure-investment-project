@@ -1,0 +1,20 @@
+FIRM         : NVDA (CIK 0001045810) | FY2020
+FILE         : 0001045810_NVDA_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-03-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;DGX;HGX;NVIDIA (4 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+NVIDIA pioneered accelerated computing to help solve the most challenging computational problems. Starting with a focus on PC graphics, we extended our focus in recent years to the revolutionary field of AI. Fueled by the sustained demand for exceptional 3D graphics and the scale of the gaming market, NVIDIA leveraged its GPU architecture to create platforms for virtual reality, HPC, and AI.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In our Data Center platform, we announced the NVIDIA A100 Tensor Core GPU and DGX A100, the first products based on the NVIDIA Ampere architecture; announced more than 50 NVIDIA A100-powered systems with OEM partners and released NVIDIA-Certified Systems with NVIDIA A100 GPUs to OEMs; shared news that major cloud providers, including Google Cloud Platform, AWS, Microsoft Azure and Oracle Cloud Infrastructure, reached general availability of cloud computing instances based on the NVIDIA A100 GPU; announced the NVIDIA DGX SuperPOD Solution for Enterprise; introduced the new family of NVIDIA BlueField-2 DPUs; introduced new products for the EGX Edge AI platform; announced a broad partnership with VMware to create an end-to-end enterprise platform for AI and a new architecture for data center, cloud and edge; powered eight of the top 10, and two-thirds of the total systems, on the latest TOP500 list of the world’s fastest supercomputers; announced that five supercomputers backed by EuroHPC will use NVIDIA’s data center accelerators or networking; and set 16 AI performance records on the latest MLPerf benchmarks.

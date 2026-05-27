@@ -1,0 +1,24 @@
+FIRM         : KLIC (CIK 0000056978) | FY2024
+FILE         : 0000056978_KLIC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 28, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. BASIS OF PRESENTATION
+ASSET CAT.   : equipment, machinery, furniture, computer software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 3.0-10.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization are provided on a straight-line basis over the estimated useful lives as follows: buildings 25 years; machinery, equipment, furniture and fittings 3 to 10 years; toolings 1 year; and leasehold improvements are based on the shorter of the life of lease or life of asset. Purchased computer software costs related to business and financial systems are amortized over a five-year period on a straight-line basis.
+
+[VERBATIM — Changement de politique]
+Depreciation and amortization are provided on a straight-line basis over the estimated useful lives as follows: buildings 25 years; machinery, equipment, furniture and fittings 3 to 10 years; toolings 1 year; and leasehold improvements are based on the shorter of the life of lease or life of asset. Purchased computer software costs related to business and financial systems are amortized over a five-year period on a straight-line basis.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

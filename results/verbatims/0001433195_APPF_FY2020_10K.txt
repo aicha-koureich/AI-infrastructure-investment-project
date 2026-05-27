@@ -1,0 +1,20 @@
+FIRM         : APPF (CIK 0001433195) | FY2020
+FILE         : 0001433195_APPF_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Assets and liabilities which are subject to judgment and use of estimates include the fair value of assets and liabilities assumed in business combinations, fair value of financial instruments, capitalized software development costs, period of benefit associated with deferred costs, incremental borrowing rate used to measure operating lease liabilities, the recoverability of goodwill and long-lived assets, income taxes, useful lives associated with property and equipment and intangible assets, contingencies, and valuation and assumptions underlying stock-based compensation and other equity instruments.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue includes the fees paid to these third-party service providers (including legal fees and costs associated with the delivery and provision of those services, as well as loss reserves and other costs associated with our legal liability to landlord insurance services), which vary both in cost and as a percent of revenue for each Value+ service offering, personnel-related costs (including salaries, performance-based compensation, benefits, and stock-based compensation) for our employees focused on customer service and the support of our operations, platform infrastructure costs (such as data center operations and hosting-related costs), payment processing fees and allocated shared costs. Cost of revenue excludes depreciation of property and equipment, and amortization of capitalized software development costs and intangible assets.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ("ASU 2018-15"), a series of amendments which align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal use software license). The accounting for the service element of a hosting arrangement that is a service contract is not affected by these amendments. We adopted ASU 2018-15 on January 1, 2020. The adoption of this guidance did not have a material impact on our financial condition, results of operations, cash flows or disclosures. ||| Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

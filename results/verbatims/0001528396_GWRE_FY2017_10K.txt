@@ -1,0 +1,20 @@
+FIRM         : GWRE (CIK 0001528396) | FY2017
+FILE         : 0001528396_GWRE_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. The Company and Summary of Significant Accounting Policies
+ASSET CAT.   : computer software, Capitalized software, equipment
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+For qualifying costs incurred for computer software developed for internal use, the Company begins to capitalize its costs to develop software when preliminary development efforts are successfully completed, management has authorized and committed project funding, and it is probable that the project will be completed and the software will be used as intended. These capitalized costs are amortized to expense over the estimated useful life of the related asset, generally estimated to be three years. Costs incurred prior to meeting these capitalization criteria and costs incurred for training and maintenance are expensed as incurred and recorded in research and development expense on the Company’s consolidated statements of operations. Capitalized software development costs are recorded in property and equipment on the Company’s consolidated balance sheet as of July 31, 2017.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We generally price our software based on the amount of direct written premiums, or DWP, that will be managed by our software. We typically invoice our term-license customers annually or quarterly in advance. We invoice our perpetual license customers either in full at contract signing or on an installment basis. We currently anticipate billing our subscription customers annually or quarterly in advance, but terms may change as our cloud business matures and the market develops. ||| Our gross margin decreased to 63% for fiscal year 2017, as compared to 64% for fiscal year 2016, primarily due to growing costs associated with license and other revenue as we invest more in our emerging cloud business. In addition, the decrease in our gross margin was also attributable to the effect from the deferral of revenue and direct costs incurred in connection with our implementation for MetLife of Guidewire InsuranceSuite Cloud. The recognition of deferred revenue and costs will have a positive impact on services margins in fiscal 2018. Nevertheless, we expect gross margins to decrease in fiscal 2018 as lower margin services revenues will increase more rapidly than higher margin license revenues and as we scale our investments in our cloud-based offerings.

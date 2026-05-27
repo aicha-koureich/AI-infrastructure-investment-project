@@ -1,0 +1,20 @@
+FIRM         : MED (CIK 0000910329) | FY2021
+FILE         : 0000910329_MED_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 4. PROPERTY, PLANT AND EQUIPMENT
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2021 December 31, 2020 Land $ 565 $ 565 Building and leasehold improvements 23,518 13,013 Equipment and fixtures 42,708 20,955 Software 21,894 20,047 Vehicles 145 145 Property, plant and equipment - gross 88,830 54,725 Less: accumulated depreciation (32,699) (27,092) Property, plant and equipment - net $ 56,131 $ 27,633
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

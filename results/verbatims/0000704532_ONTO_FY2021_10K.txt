@@ -1,0 +1,20 @@
+FIRM         : ONTO (CIK 0000704532) | FY2021
+FILE         : 0000704532_ONTO_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 1, 2022
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+During fiscal 2021, there was an increase in wafer fabrication equipment spending by semiconductor manufacturers, driven by the growing importance of semiconductor technology across a broadening range of industries, from mobile devices to cloud computing and high-performance computers. We are also seeing increasing global emphasis on more advanced power devices for electric vehicles and smart power grids to help combat climate change. Customer demand was strong throughout the year and we continued to increase our production output levels. Revenues in the four quarters of 2021 increased sequentially as customers transitioned to advanced nodes and increased advanced packaging volumes. While we have seen improvements in our own operations, we experienced higher costs of goods sold related to freight and logistics costs during the year. Risks and uncertainties related to the COVID-19 pandemic and the supply chain remain and we expect this uncertainty especially in the supply chain to continue to be a factor through at least the first half of 2022, and possibly the entire year. Over the longer term, we believe that demand for semiconductors will continue to drive sustainable growth for our products and services across all of the markets we serve.

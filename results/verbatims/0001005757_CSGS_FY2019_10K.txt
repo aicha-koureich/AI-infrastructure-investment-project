@@ -1,0 +1,20 @@
+FIRM         : CSGS (CIK 0001005757) | FY2019
+FILE         : 0001005757_CSGS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Segment Reporting and Significant Concentration
+ASSET CAT.   : Computer equipment, equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Useful Lives (Years) 2019 2018 Computer equipment 3-6 $ 88,701 $ 84,814 Leasehold improvements 5-10 25,778 22,494 Operating equipment 3-8 59,864 58,521 Furniture and fixtures 8 8,115 9,262 182,458 175,091 Less - accumulated depreciation (98,029 ) (93,278 ) Property and equipment, net $ 84,429 $ 81,813
+
+[VERBATIM — Infrastructure IA]
+We have an agreement with Ensono, Inc. (“Ensono”) to provide us outsourced computing services through September 30, 2025. We outsource the computer processing and related services required for the operation of our outsourced ACP solutions. Our ACP proprietary software and other software applications are run in an outsourced data center environment in order to obtain the necessary computer  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

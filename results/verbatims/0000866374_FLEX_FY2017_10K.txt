@@ -1,0 +1,20 @@
+FIRM         : FLEX (CIK 0000866374) | FY2017
+FILE         : 0000866374_FLEX_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 21. QUARTERLY FINANCIAL DATA (UNAUDITED)
+ASSET CAT.   : Machinery and equipment, Furniture, computer equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciable Life (In Years) As of March 31, 2018 2017 (In thousands) Machinery and equipment 3 - 10 $ 3,004,707 $ 3,233,392 Buildings 30 1,154,881 1,237,739 Leasehold improvements up to 30 414,917 395,663 Furniture, fixtures, computer equipment and software 3 - 7 482,248 502,223 Land — 152,992 145,663 Construction-in-progress — 287,724 212,326 5,497,469 5,727,006 Accumulated depreciation and amortization (3,257,963 ) (3,409,980 ) Property and equipment, net $ 2,239,506 $ 2,317,026
+
+[VERBATIM — Infrastructure IA]
+segment, largely attributable to lower sales within our telecom and networking businesses, offset by increased sales in our cloud and data center business.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+segment, largely attributable to lower sales within our telecom and networking businesses, offset by increased sales in our cloud and data center business. ||| Net sales during fiscal year 2018 increased $1.0 billion or 20% in our IEI segment, which was mainly driven by our industrial, home and lifestyle businesses in addition to growth in our solar energy business. Our CTG segment increased $0.6 billion or 10% largely attributable to stronger sale in our connected living and mobile devices businesses, offset by a decrease in gaming. Our HRS segment increased $0.6 billion or 15% from higher sales in our automotive business. These increases were partially offset by a decrease of $0.7 billion or 8% in our CEC segment, largely attributable to lower sales within our telecom and networking businesses, offset by increased sales in our cloud and data center business.

@@ -1,0 +1,21 @@
+FIRM         : MMS (CIK 0001032220) | FY2019
+FILE         : 0001032220_MMS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-10-10
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Business and summary of significant accounting policies
+ASSET CAT.   : capitalized software
+DURÉE        : 3.0-8.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-8.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Direct costs of time and materials incurred for the development of application software for internal use are capitalized and depreciated using the straight-line method over the estimated useful life of the software, ranging from three to eight years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the Financial Accounting Standards Board (FASB) issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) - Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . This accounting guidance requires customers in cloud-computing arrangements to identify and defer certain implementation costs in a manner broadly consistent with that of existing guidance on the costs to develop or obtain internal-use software. We will adopt this guidance on October 1, 2020. The guidance may be adopted early and we may adopt using either a prospective or retrospective methodology. We are currently assessing the future impact of this update on its consolidated financial statements and related disclosures. ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) - Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

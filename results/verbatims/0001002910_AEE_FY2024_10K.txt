@@ -1,0 +1,21 @@
+FIRM         : AEE (CIK 0001002910) | FY2024
+FILE         : 0001002910_AEE_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2027-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 3 – PROPERTY, PLANT, AND EQUIPMENT, NET
+ASSET CAT.   : Capitalized software, Equipment
+DURÉE        : 2.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-15.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are classified within “Property, Plant, and Equipment, Net” on the balance sheet and are amortized on a straight-line basis over the expected period of benefit, ranging from 2 to 15 years, with the amortization expense included in “Depreciation and amortization” on the statement of income. The following table presents the amortization expense, gross carrying value, and related accumulated amortization of capitalized software and deferred cloud implementation costs by year:
+
+[VERBATIM — Infrastructure IA]
+• Ameren Missouri and Ameren Illinois continue to make infrastructure investments and expect to seek increases to electric and natural gas rates to recover the cost of investments and earn an adequate return. Ameren Missouri and Ameren Illinois will also seek new, or to maintain existing, regulatory and legislative solutions to address regulatory lag and to support investment in their utility infrastructure for the benefit of their customers. Ameren Missouri and Ameren Illinois continue to face cost recovery pressures, higher cost of debt, customer conservation efforts, the impacts of additional customer energy-efficiency programs, and increased customer use of increasingly cost-effective advancements in innovative energy technologies, including private generation and energy storage. We expect a net increase in demand resulting from the electrification of the economy, including in the transportation sector. In addition, a new 250-MW data center is expected to be constructed in Ameren Missouri’s service territory with electric service starting in 2026. Several other entities in various industries, including data center and manufacturing, are considering either locating or expanding their operations within our service territories. To serve these new loads, we expect increased investments will be necessary, including expected future investments for environmental compliance, system reliability improvements, and new generation sources, that will result in rate base and revenue growth but also higher depreciation and financing costs.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+• Individually insignificant increases of $7 million in various other operations and maintenance expenses, including other labor, cloud computing costs, and a decrease in the cash surrender value of COLI. ||| Individually insignificant increases of $7 million in various other operations and maintenance expenses, including other labor, cloud computing costs, and a decrease in the cash surrender value of COLI. ||| Other operations and maintenance costs decreased $7 million in 2024, compared with 2023, primarily due to a decrease of $6 million in contractor service costs and a $4 million decrease in labor expense due to steps taken to align operations with the November 2023 ICC natural gas rate order. These decreases were partially offset by an increase of $2 million in cloud computing costs.

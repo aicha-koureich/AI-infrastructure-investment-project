@@ -1,0 +1,20 @@
+FIRM         : ORI (CIK 0000074260) | FY2013
+FILE         : 0000074260_ORI_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 - Summary of Significant Accounting Policies -
+ASSET CAT.   : equipment
+DURÉE        : 2.0-27.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+- Property and equipment is generally depreciated or amortized over the estimated useful lives of the assets, (2 to 27 years), substantially by the straight-line method. Depreciation and amortization expenses related to property and equipment were
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

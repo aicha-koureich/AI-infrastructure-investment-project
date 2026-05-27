@@ -1,0 +1,23 @@
+FIRM         : BILL (CIK 0001786352) | FY2021
+FILE         : 0001786352_BILL_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-10-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 17 – SUBSEQUENT EVENT
+ASSET CAT.   : equipment, Capitalized software, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+June 30, 2021 2020 Software and equipment $ 17,508 $ 11,262 Capitalized software 6,794 4,026 Furniture and fixtures 8,926 3,116 Leasehold improvements 34,606 9,257 Property and equipment, gross 67,834 27,661 Less: accumulated depreciation and amortization (18,932 ) (13,795 ) Property and equipment, net $ 48,902 $ 13,866
+
+[VERBATIM — Changement de politique]
+The unaudited pro forma information does not necessarily reflect the actual results of operations of the combined entities that would have been achieved, nor are they necessarily indicative of future results of operations. The unaudited pro forma information reflects certain adjustments that were directly attributable to the acquisition of Divvy, including additional depreciation and amortization adjustments for the fair value of the assets acquired and liabilities assumed. The pro forma net loss for the year ended June 30, 2021 was adjusted to exclude nonrecurring acquisition-related costs of $2.3 million. The pro forma net loss for the year ended June 30, 2020 was adjusted to include nonrecurring acquisition-related costs of $75.3 million. Below is the unaudited pro forma financial information of the combined results of operations of the Company and Divvy as if the acquisition occurred on July 1, 2019 (in thousands).
+
+[VERBATIM — Infrastructure IA]
+The Company has non-cancelable operating leases for office facilities located in three cities in the U.S., a data center facility, and certain equipment, which expire through 2031. Also, the Company subleases part of its office facility in Draper, Utah under a non-cancellable operating lease that expires in December 2025. The Company's leases do not contain any material residual value guarantees.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+On July 1, 2020, the Company early adopted FASB ASU 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract , which requires implementation costs incurred in a hosting arrangement that is a service contract to be capitalized and amortized over the term of the hosting arrangement. This ASU was adopted on a prospective basis and did not have a material impact on the Company’s consolidated financial statements. ||| Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract

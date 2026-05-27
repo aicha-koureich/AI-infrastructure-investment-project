@@ -1,0 +1,21 @@
+FIRM         : RGA (CIK 0000898174) | FY2021
+FILE         : 0000898174_RGA_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 SIGNIFICANT ACCOUNTING POLICIES AND PRONOUNCEMENTS
+ASSET CAT.   : company occupied real estate property, from 1 to 7 years for leasehold improvements, and from 3 to 7 years for all other property and equipment
+DURÉE        : 1.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-7.0 ans | 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Property, equipment and leasehold improvements, which are included in other assets, are stated at cost, less accumulated depreciation. The estimated life is generally 40 years for company occupied real estate property, from one to seven years for leasehold improvements, and from three to seven years for all other property and equipment. Accumulated depreciation of property, equipment and leasehold improvements was $131 million and $116 million at December 31, 2021 and 2020, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

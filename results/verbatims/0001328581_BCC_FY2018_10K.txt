@@ -1,0 +1,20 @@
+FIRM         : BCC (CIK 0001328581) | FY2018
+FILE         : 0001328581_BCC_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, information technology, furniture, Machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2018 (a) December 31, 2017 General Range of Estimated Useful Lives in Years (thousands) Land $ 38,888 $ 38,606 Buildings (b) 164,878 144,404 20 - 40 Improvements 49,509 55,267 10 - 15 Mobile equipment, information technology, and office furniture 150,712 138,245 3 - 7 Machinery and equipment 629,337 659,708 7 - 12 Construction in progress 31,015 23,303 1,064,339 1,059,533 Less accumulated depreciation (577,115 ) (493,741 ) $ 487,224 $ 565,792
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| . This ASU provides guidance on implementation costs incurred in a cloud computing arrangement (CCA) that is a service contract. The guidance aligns the accounting for such costs with the guidance on capitalizing costs associated with developing or obtaining internal-use software. Specifically, the ASU amends ASC 350 to include in its scope implementation costs of a CCA that is a service contract and clarifies that a customer should apply ASC 350-40 to determine which implementation costs should be capitalized in such a CCA. The updated guidance is effective for interim and annual reporting periods beginning after December 15, 2019, with early adoption permitted. The amendments should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. We currently do not expect the adoption of the guidance to have a material effect on our financial statements, but will continue to monitor the standard through the effective date. ||| In August 2018, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . This ASU provides guidance on implementation costs incurred in a cloud computing arrangement (CCA) that is a service contract. The guidance aligns the accounting for such costs with the guidance on capitalizing costs associated with developing or obtaining internal-use software. Specifically, the ASU amends ASC 350 to include in its scope implementation costs of a CCA that is a service contract and clarifies that a customer should apply ASC 350-40 to determine which implementation costs should be capitalized in such a CCA. The updated guidance is effective for interim and annual reporting periods beginning after December 15, 2019, with early adoption permitted. The amendments should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. We currently do not expect the adoption of the guidance to have a material effect on our financial statements, but will continue to monitor the standard through the effective date.

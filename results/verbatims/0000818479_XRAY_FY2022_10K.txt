@@ -1,0 +1,24 @@
+FIRM         : XRAY (CIK 0000818479) | FY2022
+FILE         : 0000818479_XRAY_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-14
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 - SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 4.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost, net of accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+The cumulative amounts for the provisions and adjustments and amounts applied for all the plans by segment were as follows: (in millions) December 31, 2021 Provisions and Adjustments Amounts Applied Change in Estimates December 31, 2022 Technologies & Equipment $ 7 $ 4 $ (7) $ (2) $ 2 Consumables 11 8 (10) (3) 6 All Other — 4 (4) — — Total $ 18 $ 16 $ (21) $ (5) $ 8
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

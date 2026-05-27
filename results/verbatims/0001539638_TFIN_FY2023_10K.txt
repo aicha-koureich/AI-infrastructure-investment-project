@@ -1,0 +1,20 @@
+FIRM         : TFIN (CIK 0001539638) | FY2023
+FILE         : 0001539638_TFIN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 — SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : capitalized software
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Once the software is substantially complete and ready for its intended use, capitalization ceases and the asset is amortized straight line over its estimated useful life, which ranges between three and five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

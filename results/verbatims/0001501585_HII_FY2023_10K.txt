@@ -1,0 +1,20 @@
+FIRM         : HII (CIK 0001501585) | FY2023
+FILE         : 0001501585_HII_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : computer software developed or purchased for internal use are capitalized and amortized over the expected useful life of the software, not to exceed
+DURÉE        : 9.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant, and Equipment - Depreciable properties owned by the Company are recorded at cost and depreciated over the estimated useful lives of individual assets. Costs incurred for computer software developed or purchased for internal use are capitalized and amortized over the expected useful life of the software, not to exceed nine years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

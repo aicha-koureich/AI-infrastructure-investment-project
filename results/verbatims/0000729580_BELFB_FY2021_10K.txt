@@ -1,0 +1,20 @@
+FIRM         : BELFB (CIK 0000729580) | FY2021
+FILE         : 0000729580_BELFB_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018 - 15, Intangibles – Goodwill and Other-Internal-Use Software (Subtopic 350 - 40 ): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Cost . This guidance aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. This guidance is effective for interim and annual reporting periods beginning after December 15, 2019. The Company adopted this guidance effective January 1, 2020 and it did not have a material impact on its consolidated financial position or consolidated results of operations.

@@ -1,0 +1,21 @@
+FIRM         : ECL (CIK 0000031462) | FY2016
+FILE         : 0000031462_ECL_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, computer software, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Certain dispensing systems capitalized by the Company are accounted for on a mass asset basis, whereby equipment is capitalized and depreciated as a group and written off when fully depreciated. Expenditures for major renewals and improvements, which significantly extend the useful lives of existing plant and equipment, are capitalized and depreciated. Upon retirement or disposition of plant and equipment, the cost and related accumulated depreciation are removed from the accounts and any resulting gain or loss is recognized in income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2015-05 — Intangibles - Goodwill and Other - Internal Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement ||| An entity that is the customer in a cloud computing arrangement that includes a software license should account for the software license element of the arrangement consistent with the acquisition of other software licenses. ||| Date of Date of Effect on the Standard Issuance Description Adoption Financial Statements Standards that were adopted: ASU 2015-02 — Consolidation (Topic 810): Amendments to the Consolidation Analysis February 2015 Certain factors that previously required reporting entities to consolidate a given legal entity have been eliminated, requiring fewer legal entities to be consolidated under the new guidance. January 1, 2016 The adoption of the guidance did not have a material impact on the Company's financial statements. ASU 2015-05 — Intangibles - Goodwill and Other - Internal Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement April 2015 An entity that is the customer in a cloud computing arrangement that includes a software license should account for the software license element of the arrangement consistent with the acquisition of other software licenses. January 1, 2016 The adoption of the guidance did not have a material impact on the Company's financial statements. ASU 2015-07 - Fair Value Measurement (Topic 820): Disclosures for Investments in Certain Entities That Calculate Net Asset Value per Share (or its Equivalent) (a consensus of the Emerging Issues Taskforce) May 2015 Investments for which fair value is measured at net asset value per share (or its equivalent) using the practical expedient of ASC 820 should not be categorized in the fair value hierarchy. However, the reporting entity should continue to disclose information on such investments. January 1, 2016 As discussed in Note 16, presentation impact related to year end 2016 pension plan asset disclosures.

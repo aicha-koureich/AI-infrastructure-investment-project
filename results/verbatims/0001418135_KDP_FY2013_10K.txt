@@ -1,0 +1,21 @@
+FIRM         : KDP (CIK 0001418135) | FY2013
+FILE         : 0001418135_KDP_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2013
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 23 - Guarantor and Non-Guarantor Financial Information:
+ASSET CAT.   : Machinery and equipment, equipment, Computer software
+DURÉE        : 3.0-23.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans | 5.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+Type of Asset Useful Life Buildings 40 years Building improvements 3 to 35 years Machinery and equipment 3 to 23 years Vehicles 5 to 12 years Cold drink equipment 3 to 7 years Computer software 3 to 5 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

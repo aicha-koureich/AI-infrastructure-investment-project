@@ -1,0 +1,20 @@
+FIRM         : XNCR (CIK 0001326732) | FY2021
+FILE         : 0001326732_XNCR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-07-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Marketable Debt and Equity Securities The Company’s marketable debt securities held as of December 31, 2021 and 2020 are summarized below: ​ ​ ​ ​ 
+ASSET CAT.   : Equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment Property and equipment consist of the following: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ December 31, ​ ​ 2021 ​ 2020 ​ ​ (in thousands) Computers, software and equipment $ 41,955 $ 31,229 ​ Furniture and fixtures ​ ​ 539 ​ 527 ​ Leasehold and tenant improvements ​ ​ 8,574 ​ 6,957 ​ Total gross carrying amount ​ ​ 51,068 ​ 38,713 ​ Less accumulated depreciation and amortization ​ (22,828) ​ (17,031) ​ Total property and equipment, net ​ $ 28,240 ​ $ 21,682 ​ ​ Depreciation expense related to property and equipment in 2021, 2020, and 2019 was $6.3 million, $4.7 million, and $3.4 million, respectively. 6.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

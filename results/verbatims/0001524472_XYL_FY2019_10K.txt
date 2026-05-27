@@ -1,0 +1,21 @@
+FIRM         : XYL (CIK 0001524472) | FY2019
+FILE         : 0001524472_XYL_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 24 Quarterly Financial Data
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Adjustments to the depreciation of property, plant and equipment reflecting the impact of the calculated fair value of those assets in accordance with purchase accounting
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

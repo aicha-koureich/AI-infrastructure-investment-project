@@ -1,0 +1,21 @@
+FIRM         : MCY (CIK 0000064996) | FY2020
+FILE         : 0000064996_MCY_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : software, generally not exceeding
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Furniture, equipment, and purchased software are depreciated on a combination of straight-line and accelerated methods over 3 to 7 years. The Company has capitalized certain consulting costs, payroll, and payroll-related costs for employees related to computer software developed for internal use, which are amortized on a straight-line method over the estimated useful life of the software, generally not exceeding 7 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Capitalized Implementation Costs for Cloud Computing Arrangements ||| On January 1, 2020, the Company adopted Accounting Standards Update ("ASU") 2018-15, " Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract, " on a prospective basis, which provides guidance that requires capitalizing and amortizing certain of the implementation costs. The majority of the Company's cloud computing arrangements relate to service contracts with third parties that host the Company's data and computing infrastructure that are used in providing services to and supporting transactions with its existing or potential policyholders and insurance agents. ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract,

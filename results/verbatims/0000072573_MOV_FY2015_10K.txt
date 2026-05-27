@@ -1,0 +1,20 @@
+FIRM         : MOV (CIK 0000072573) | FY2015
+FILE         : 0000072573_MOV_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

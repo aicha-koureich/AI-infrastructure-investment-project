@@ -1,0 +1,20 @@
+FIRM         : ANET (CIK 0001596532) | FY2021
+FILE         : 0001596532_ANET_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 4. Financial Statements Details
+ASSET CAT.   : Equipment, machinery, Computer hardware, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2021 2020 Land $ 40,145 $ — Equipment and machinery 90,915 70,655 Computer hardware and software 44,083 40,081 Furniture and fixtures 3,634 3,787 Leasehold improvements 30,502 31,448 Construction-in-process 2,378 1,441 Property and equipment, gross 211,657 147,412 Less: accumulated depreciation (133,023) (115,181) Property and equipment, net $ 78,634 $ 32,231
+
+[VERBATIM — Infrastructure IA]
+We lease office space, data centers, and equipment under non-cancellable operating leases with various expiration dates through 2028. We determine if an arrangement contains a lease at inception. Operating leases are included in operating lease right-of-use (“ROU”) assets, other current liabilities, and operating lease liabilities, non-current in our consolidated balance sheets. We do not have any finance leases in any of the periods presented.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We believe that cloud computing represents a fundamental shift from traditional legacy network architectures. As organizations of all sizes have moved workloads to the cloud, spending on cloud and next-generation data centers has increased rapidly, while traditional legacy IT spending has grown more slowly. Our cloud networking platforms are well positioned to address the growing cloud networking market, and to address increasing performance requirements driven by the growing number of connected devices, as well as the need for constant connectivity and access to data and applications.

@@ -1,0 +1,20 @@
+FIRM         : CBOE (CIK 0001374310) | FY2015
+FILE         : 0001374310_CBOE_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The retired furniture and equipment and data processing software had a gross cost and accumulated depreciation of
+
+[VERBATIM — Infrastructure IA]
+The Company currently leases additional office space, a data center and remote network operations center, with lease terms remaining from  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

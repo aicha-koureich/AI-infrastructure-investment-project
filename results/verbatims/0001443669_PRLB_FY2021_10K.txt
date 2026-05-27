@@ -1,0 +1,24 @@
+FIRM         : PRLB (CIK 0001443669) | FY2021
+FILE         : 0001443669_PRLB_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 — Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, furniture, computer hardware
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Manufacturing equipment is depreciated over 3 to 15 years, office furniture and equipment are depreciated over 3 to 7 years, computer hardware and software are depreciated over 3 to 5 years, building costs are depreciated over 39 years, leasehold improvements are depreciated over the estimated lives of the related assets or the life of the lease, whichever is shorter, and building and land improvements are depreciated over 10 to 39 years.
+
+[VERBATIM — Changement de politique]
+The Company periodically reviews the carrying amount of its property, equipment and leasehold improvements to determine if circumstances exist indicating an impairment or if depreciation periods should be modified.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

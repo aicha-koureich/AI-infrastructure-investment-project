@@ -1,0 +1,20 @@
+FIRM         : ATNI (CIK 0000879585) | FY2022
+FILE         : 0000879585_ATNI_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Fixed revenue within our International Telecom segment may further decrease as a result of the future scheduled step downs in USF funding in the US Virgin Islands and a decrease in demand for our video services due to subscribers using alternative methods to receive video content. Such decreases, however, may be offset as a result of an increase in demand for broadband and other data services from consumers, businesses and government, driven by such trends as the popularity of video and audio streaming, demand for cloud services and smart home, business and city solutions as well as macro-economic and population growth in places like the Cayman Islands and Guyana.

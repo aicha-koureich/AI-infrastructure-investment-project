@@ -1,0 +1,20 @@
+FIRM         : NYT (CIK 0000071691) | FY2021
+FILE         : 0000071691_NYT_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-23
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 19. Subsequent Events
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In thousands) December 26, 2021 December 27, 2020 Assets Current assets Cash and cash equivalents $ 319,973 $ 286,079 Short-term marketable securities 341,075 309,080 Accounts receivable (net of allowances of $12,374 in 2021 and $13,797 in 2020) 232,908 183,692 Prepaid expenses 33,199 29,487 Other current assets 25,553 27,497 Total current assets 952,708 835,835 Long-term marketable securities 413,380 286,831 Property, plant and equipment: Equipment 426,912 470,505 Buildings, building equipment and improvements 723,850 722,122 Software 72,600 173,046 Land 106,128 105,710 Assets in progress 23,099 9,282 Total, at cost 1,352,589 1,480,665 Less: accumulated depreciation and amortization (777,637) (886,149) Property, plant and equipment, net 574,952 594,516 Goodwill 166,360 171,657 Deferred income taxes 95,800 99,518 Miscellaneous assets 360,908 319,332 Total assets $ 2,564,108 $ 2,307,689
+
+[VERBATIM — Infrastructure IA]
+We currently utilize third-party subscription-based software services as well as public cloud infrastructure services to provide solutions for many of our computing and bandwidth needs. Any interruptions to these services generally could result in interruptions in service to our subscribers and advertisers and/or the Company’s critical business functions, notwithstanding any business continuity or disaster recovery plans or agreements that may currently be in place with some of these providers. This could result in unanticipated downtime and/or harm to our operations, reputation and operating results. A transition of these services to different cloud providers would be difficult to implement and cause us to incur significant time and expense. In addition, if hosting costs increase over time and/or if we require more computing or storage capacity as a result of subscriber growth or otherwise, our costs could increase disproportionately.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

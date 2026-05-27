@@ -1,0 +1,24 @@
+FIRM         : CYH (CIK 0001108109) | FY2014
+FILE         : 0001108109_CYH_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : software is generally
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 8.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+The gross carrying amount of capitalized software for internal use was approximately $1.5 billion and $972
+million at December 31, 2014 and December 31, 2013, respectively, and the net carrying amount considering accumulated amortization was approximately $790 million and $550 million at December 31, 2014 and December 31, 2013,
+respectively. The estimated amortization period for capitalized internal-use software is generally three years, except for capitalized costs related to significant system conversions, which is generally eight to ten years. At December 31, 2014, there was approximately $53 million of capitalized costs for internal-use software that is currently in the development stage and will begin amortization once the
+software project is complete and ready for its intended use. Amortization expense on capitalized internal-use software was $260 million, $139 million and $99 million during the years ended December 31, 2014, 2013 and 2012, respectively. Amortization expense on capitalized internal-use software is estimated to be $178 million in 2015, $149 million in 2016, $117 million in 2017, $74 million in 2018, $67 million in 2019 and $205 million thereafter.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : ENOV (CIK 0001420800) | FY2013
+FILE         : 0001420800_ENOV_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 17. Selected Quarterly Data—(unaudited)
+ASSET CAT.   : Machinery and equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, Depreciable Life 2013 2012 (In years) (In thousands) Land n/a $ 48,353 $ 40,319 Buildings and improvements 5-40 372,197 314,216 Machinery and equipment 3-15 504,184 440,975 Software 3-5 88,463 70,092 1,013,197 865,602 Accumulated depreciation (256,057 ) (177,032 ) Property, plant and equipment, net $ 757,140 $ 688,570
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

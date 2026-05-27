@@ -1,0 +1,20 @@
+FIRM         : RVTY (CIK 0000031791) | FY2020
+FILE         : 0000031791_RVTY_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-02
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 11: Property, Plant and Equipment, Net
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense on property, plant and equipment for the fiscal years ended January 3, 2021, December 29, 2019 and December 30, 2018 was $54.0 million, $49.7 million and $44.7 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud services, which allow customers to use hosted software over the contract period without taking possession of the software, are provided on either a subscription or consumption basis. Revenue related to cloud services provided on a subscription basis is recognized ratably over the contract period. Revenue related to cloud services provided on a consumption basis, such as the amount of storage used in a period, is recognized based on the customer utilization of such resources. Payment terms are generally net 30 days from signing of contract and contracts are non-cancelable. ||| In August 2018, the FASB issued Accounting Standards Update No. 2018-15, Intangibles-Goodwill and Other- Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract ("ASU 2018-15"). ASU 2018-15 aligns the accounting for implementation costs incurred in a hosting arrangement that is a service contract with the guidance on capitalizing costs associated with developing or obtaining internal-use software (and hosting arrangements that include an internal-use software license). The provisions of this guidance are to be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. The standard was effective for the Company beginning on December 30, 2019, the first day of the Company's fiscal year 2020. The Company applied the provisions of this guidance prospectively. The adoption did not have a material impact on the Company's consolidated financial position, results of operations and cash flows. ||| Intangibles-Goodwill and Other- Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract

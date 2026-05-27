@@ -1,0 +1,21 @@
+FIRM         : QDEL (CIK 0001906324) | FY2023
+FILE         : 0001906324_QDEL_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-8.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Asset type Useful life Building and building improvements 7-47 years Machinery and equipment 3-15 years Customer leased instruments 3-8 years Computer software 3-5 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Amortization of deferred cloud computing implementation costs ||| Fiscal Year Ended (In millions) 2023 2022 2021 North America $ 949.2 $ 1,614.6 $ 1,028.5 EMEA 58.3 31.7 28.1 China 129.1 104.1 24.1 Other 116.3 92.7 43.0 Total segment Adjusted EBITDA 1,252.9 1,843.1 1,123.7 Corporate (1) (529.7) (512.1) (152.9) Interest expense, net (147.6) (75.7) (5.8) Depreciation and amortization (457.2) (283.6) (52.7) Acquisition and integration costs (113.4) (136.0) (9.6) Tax indemnification expense (12.6) (0.3) — Amortization of deferred cloud computing implementation costs (9.2) (5.4) (3.7) Impairment of long-lived assets (4.5) (2.8) — (Loss) gain on investments (3.6) (5.8) 1.5 EU medical device regulation transition costs (2) (2.5) (1.5) — Unwind inventory fair value adjustment — (60.6) — Loss on extinguishment of debt — (24.0) — Employee compensation charges — (3.2) — Derivative mark-to-market gain — 4.4 — Other adjustments (1.7) (0.6) (0.2) (Loss) income before income taxes $ (29.1) $ 735.9 $ 900.3

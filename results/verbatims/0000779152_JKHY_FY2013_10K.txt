@@ -1,0 +1,20 @@
+FIRM         : JKHY (CIK 0000779152) | FY2013
+FILE         : 0000779152_JKHY_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 13.
+ASSET CAT.   : EQUIPMENT, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+AND SUBSIDIARIES CONSOLIDATED BALANCE SHEETS (In Thousands, Except Share and Per Share Data) June 30, 2013 June 30, 2012 ASSETS CURRENT ASSETS: Cash and cash equivalents $ 127,905 $ 157,313 Receivables, net 231,263 218,305 Income tax receivable 6,107 8,476 Prepaid expenses and other 59,244 61,261 Prepaid cost of product 23,366 23,294 Total current assets 447,885 468,649 PROPERTY AND EQUIPMENT, net 300,511 276,730 OTHER ASSETS: Non-current prepaid cost of product 27,898 21,344 Computer software, net of amortization 132,612 115,785 Other non-current assets 30,411 30,523 Customer relationships, net of amortization 147,167 162,561 Trade names, net of amortization 9,380 10,380 Goodwill 533,291 533,520 Total other assets 880,759 874,113 Total assets $ 1,629,155 $ 1,619,492 LIABILITIES AND STOCKHOLDERS' EQUITY CURRENT LIABILITIES: Accounts payable $ 11,701 $ 16,317 Accrued expenses 68,528 58,260 Deferred income tax liability 30,845 26,256 Notes payable and current maturities of long term debt 7,929 25,503 Deferred revenues 293,255 275,907 Total current liabilities 412,258 402,243 LONG TERM LIABILITIES: Non-current deferred revenues 11,342 20,093 Non-current deferred income tax liability 120,434 100,932 Debt, net of current maturities 7,366 106,166 Other long-term liabilities 5,586 7,002 Total long term liabilities 144,728 234,193 Total liabilities 556,986 636,436 STOCKHOLDERS' EQUITY Preferred stock - $1 par value; 500,000 shares authorized, none issued — — Common stock - $0.01 par value; 250,000,000 shares authorized; 101,993,808 shares issued at June 30, 2013 101,482,461 shares issued at June 30, 2012 1,020 1,015 Additional paid-in capital 400,710 381,919 Retained earnings 1,072,521 944,078 Less treasury stock at cost 16,753,889 shares at June 30, 2013 15,452,064 shares at June 30, 2012 (402,082 ) (343,956 ) Total stockholders' equity 1,072,169 983,056 Total liabilities and equity $ 1,629,155 $ 1,619,492
+
+[VERBATIM — Infrastructure IA]
+, which included spend on our online bill payment data center migration and an aircraft purchase. Other uses of cash included  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : PTGX (CIK 0001377121) | FY2020
+FILE         : 0001377121_PTGX_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+performance of adequate and well-controlled human clinical trials in accordance with good clinical practice (“GCP”) requirements to establish the safety and efficacy of the proposed drug product for each indication; ||| satisfactory completion of an FDA inspection of one or more clinical trial sites to assure compliance with GCP requirements and the clinical protocol; and ||| Clinical trials involve the administration of the investigational new drug to human subjects under the supervision of qualified investigators in accordance with GCP requirements, which include the requirement that all research subjects provide their informed consent in writing before their participation in any clinical trial. Clinical trials are conducted under protocols detailing, among other things, the objectives of the trial, the parameters to be used in monitoring safety, and the effectiveness criteria to be evaluated. A protocol for each clinical trial and any subsequent protocol amendments must be submitted to the FDA as part of the IND (or equivalent submission ex-US). In addition, an IRB or ethics committee (“EC”) must review and approve the plan for any clinical trial at each institution participating in the clinical trial before it commences at that site. Information about certain clinical trials must be submitted within specific timeframes to the National Institutes of Health (“NIH”) for public dissemination on their www.clinicaltrials.gov website.

@@ -1,0 +1,34 @@
+FIRM         : ORCL (CIK 0001341439) | FY2016
+FILE         : 0001341439_ORCL_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : May 31, 2017
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+In addition to providing a broad spectrum of cloud offerings, we develop and sell our applications, platform and
+infrastructure products and services to our customers worldwide for use in their global data centers and on-premise IT environments. An important element of our corporate strategy is to continue our investments in, and innovation with respect to,
+our products and services that we offer through our cloud and on-premise software, hardware and services businesses. We have a deep understanding as to how applications, platform and infrastructure technologies interact and function with one another
+within IT environments. We focus our development efforts on improving the performance, security, operation and integration of these differing technologies to make them more cost-effective and easier to deploy, manage and maintain for our customers
+and to improve their computing performance relative to our competitors. After the initial purchase of Oracle products and services, our customers can continue to benefit from our research and development efforts and deep IT expertise by purchasing
+and renewing Oracle support offerings for their on-premise deployments, which may include product enhancements that we periodically deliver to our products, and/or by renewing their SaaS, PaaS and IaaS contracts with us.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Our comprehensive and fully integrated stack of Oracle Cloud SaaS, PaaS and IaaS offerings integrate the software, hardware and services on the
+customers’ behalf in IT environments that we deploy, support and manage for the customer. Our integrated Oracle Cloud offerings are designed to be rapidly deployable to enable customers shorter time to innovation; easily maintainable to reduce
+integration and testing work; connectable among differing deployment models to enable interchangeability and extendibility between cloud and on-premise IT environments; compatible to easily move workloads between on-premise IT environments and the
+Oracle Cloud; cost-effective by requiring lower upfront customer investment; and secure, standards-based and reliable. We are a leader in the core technologies of cloud IT environments, including database and middleware software as well as
+enterprise applications, virtualization, clustering, large-scale systems management and related infrastructure. Our products and services are the building blocks of our Oracle Cloud services, our partners’ cloud services and our customers’
+cloud IT environments. ||| Our Oracle Cloud SaaS, PaaS and IaaS offerings deliver applications, platform and infrastructure technologies via cloud-based deployment models that we host, manage and support and that customers access
+by entering into a subscription agreement with us for a stated period. Our IaaS offerings also include Oracle Managed Cloud Services, which are designed to provide comprehensive software and hardware management, maintenance and security services for
+on-premise, cloud-based, or hybrid IT infrastructure for a stated period. Our SaaS, PaaS and IaaS arrangements are generally one to three years in duration and we strive to renew these contracts when they are eligible for renewal. ||| cloud and on-premise software revenues, which include the sale of: cloud SaaS, PaaS and IaaS offerings, which generally grant customers access to a
+broad range of our applications, platform and infrastructure technologies and related support and services offerings on a subscription basis in a secure, standards-based cloud computing environment; new software licenses, which generally grant to
+customers a perpetual right to use our database, middleware, applications and industry-specific software products; and software license updates and product support offerings (described further below);

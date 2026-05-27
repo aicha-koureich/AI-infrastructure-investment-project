@@ -1,0 +1,20 @@
+FIRM         : UCTT (CIK 0001275014) | FY2024
+FILE         : 0001275014_UCTT_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 27, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 4. BALANCE SHEET INFORMATION
+ASSET CAT.   : equipment, Machinery and equipment, Computer equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, net, consisted of the following: (In millions) Useful Life (In years) December 27, 2024 December 29, 2023 Land n/a $ 5.7 $ 5.6 Buildings 50 52.2 57.1 Leasehold improvements * 138.7 110.8 Machinery and equipment 5 - 10 222.4 207.4 Computer equipment and software 3 - 10 78.2 72.2 Furniture and fixtures 5 4.8 5.0 502.0 458.1 Accumulated depreciation (214.0) (170.3) Construction in progress 37.9 40.5 Total $ 325.9 $ 328.3
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

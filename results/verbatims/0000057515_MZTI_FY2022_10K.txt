@@ -1,0 +1,23 @@
+FIRM         : MZTI (CIK 0000057515) | FY2022
+FILE         : 0000057515_MZTI_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+We capitalize certain costs related to hosting arrangements that are service contracts (cloud computing arrangements). Capitalized costs are included in Other Current Assets or Other Noncurrent Assets and are amortized on a straight-line basis over the estimated useful life. In 2022, 2021 and 2020, we capitalized $1.6 million, $3.5 million and $10.3 million, respectively, of deferred software costs related to cloud computing arrangements.
+
+[VERBATIM — Changement de politique]
+In 2021, we recorded impairment charges of $1.2 million related to certain tradename and technology / know-how intangible assets for Bantam, which reflected the impact of a SKU rationalization by a Foodservice customer resulting in the loss of sales to that customer after November 30, 2020. The impairment charges were reflected in Restructuring and Impairment Charges and were recorded in our Foodservice segment. We also reduced the remaining useful life for Bantam’s Foodservice customer relationship and recorded accelerated amortization expense.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We capitalize certain costs related to hosting arrangements that are service contracts (cloud computing arrangements). Capitalized costs are included in Other Current Assets or Other Noncurrent Assets and are amortized on a straight-line basis over the estimated useful life. In 2022, 2021 and 2020, we capitalized $1.6 million, $3.5 million and $10.3 million, respectively, of deferred software costs related to cloud computing arrangements.

@@ -1,0 +1,24 @@
+FIRM         : IRDM (CIK 0001418819) | FY2013
+FILE         : 0001418819_IRDM_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Cash and Cash Equivalents and Marketable Securities
+ASSET CAT.   : Equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Satellites estimated useful life Ground system 5 - 7 years Equipment 3 - 5 years Internally developed software and purchased software 3 - 7 years Building 39 years Building improvements estimated useful life Leasehold improvements shorter of useful life or remaining lease term
+
+[VERBATIM — Changement de politique]
+The Company calculates depreciation expense using the straight-line method and evaluates the appropriateness of the useful life used in this calculation on a quarterly basis. During 2012, the Company updated its analysis of the current satellite constellation’s health and remaining useful life. Based on the results of this analysis, the Company estimates that its current constellation of satellites will be operational for longer than previously expected. As a result, the estimated useful life of the current constellation has been extended and is also consistent with the expected deployment of Iridium NEXT. This change in estimated useful life resulted in a decrease in depreciation expense compared to the prior year. The change in accounting estimate reduced depreciation expense in 2012 by $ 19.6 million. For the year ended December 31, 2012, the reduction in depreciation expense increased basic and diluted net income per share by $ 0.17 and $ 0.16 , respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

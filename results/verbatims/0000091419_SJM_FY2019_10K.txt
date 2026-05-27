@@ -1,0 +1,20 @@
+FIRM         : SJM (CIK 0000091419) | FY2019
+FILE         : 0000091419_SJM_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : April 30, 2020
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 1: Accounting Policies
+ASSET CAT.   : machinery and equipment
+DURÉE        : 1.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant, and Equipment: Property, plant, and equipment is recognized at cost and is depreciated on a straight-line basis over the estimated useful life of the asset (3 to 20 years for machinery and equipment, 1 to 7 years for capitalized software costs related to software that we have purchased or has been licensed to us, and 5 to 40 years for buildings, fixtures, and improvements).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40) Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. ASU 2018-15 is effective for us on May 1, 2020, but we elected to early adopt on May 1, 2019, as permitted, on a prospective basis. During 2020, we capitalized implementation costs related to third-party cloud computing services of $4.9 which is reflected in other noncurrent assets in the Consolidated Balance Sheet. ||| Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40) Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| . ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. ASU 2018-15 is effective for us on May 1, 2020, but we elected to early adopt on May 1, 2019, as permitted, on a prospective basis. During 2020, we capitalized implementation costs related to third-party cloud computing services of $4.9 which is reflected in other noncurrent assets in the Consolidated Balance Sheet.

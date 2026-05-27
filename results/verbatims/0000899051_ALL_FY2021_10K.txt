@@ -1,0 +1,23 @@
+FIRM         : ALL (CIK 0000899051) | FY2021
+FILE         : 0000899051_ALL_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment is carried at cost less accumulated depreciation. Property and equipment depreciation is calculated using the straight-line method over the estimated useful lives of the assets, generally 3 to 10 years for equipment and 40 years for real property. Accumulated depreciation on property and equipment was $2.44 billion and $2.81 billion as of December 31, 2021 and 2020, respectively. Depreciation expense on property and equipment was $411 million, $353 million and $326 million in 2021, 2020 and 2019, respectively.
+
+[VERBATIM — Changement de politique]
+Restructuring programs ($ in millions) Future work environment Transformative Growth Expected program charges $ 110 $ 290 2020 expenses — (238) 2021 expenses (131) 6 Change in estimated program costs in 2021 37 (52) Remaining program charges $ 16 $ 6 These charges are primarily in the Allstate Protection segment. The actions related to the Transformative Growth program are substantially complete as of December 31, 2021. The future work environment program will be substantially complete in the first half of 2022 based on decisions made through December 31, 2021. Employee costs include severance and employee benefits primarily impacting claims, sales, service and support functions. Exit costs, primarily related to future work environment, reflect real estate costs primarily related to accelerated amortization of right of use assets and related leasehold improvements at facilities to be vacated.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

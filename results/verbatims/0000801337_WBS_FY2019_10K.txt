@@ -1,0 +1,20 @@
+FIRM         : WBS (CIK 0000801337) | FY2019
+FILE         : 0000801337_WBS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1: Summary of Significant Accounting Policies
+ASSET CAT.   : Information Technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+To implement the new standard, the Company established a project lead and empowered a steering committee comprised of members from different disciplines including Credit, Accounting, Finance, Financial Analytics, Information Technology, and Treasury, as well as specific working groups focused on key components of the development process. Through the working groups, the Company evaluated the effect that the Updates have on its financial statements and related disclosures. The CECL credit models incorporate assumptions used to calculate credit losses over the estimated life of the applicable financial assets and include the impact of forecasted macroeconomic conditions. During the fourth quarter of 2019, the Company continued testing CECL credit models, processes, and controls in parallel with the existing incurred loss approach. The Company is continuing to work on finalizing CECL accounting policies and drafting required disclosures under these Updates.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) - Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.

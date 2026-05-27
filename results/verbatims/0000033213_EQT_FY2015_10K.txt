@@ -1,0 +1,20 @@
+FIRM         : EQT (CIK 0000033213) | FY2015
+FILE         : 0000033213_EQT_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31, 2015 2014 (Thousands) Oil and gas producing properties, successful efforts method $ 11,816,769 $ 10,082,825 Accumulated depreciation and depletion (3,425,618 ) (2,693,535 ) Net oil and gas producing properties 8,391,151 7,389,290 Midstream plant 3,703,994 3,234,370 Accumulated depreciation and amortization (685,398 ) (606,998 ) Net midstream plant 3,018,596 2,627,372 Other properties, at cost less accumulated depreciation 62,274 60,152 Net property, plant and equipment $ 11,472,021 $ 10,076,814
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement ||| . The ASU adds guidance that will help entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement. The ASU will be effective for annual reporting periods beginning after December 15, 2015. The Company has early adopted this standard which had no significant impact on reported results or related disclosures. ||| In April 2015, the FASB issued ASU No. 2015-05, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement . The ASU adds guidance that will help entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement. The ASU will be effective for annual reporting periods beginning after December 15, 2015. The Company has early adopted this standard which had no significant impact on reported results or related disclosures.

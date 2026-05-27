@@ -1,0 +1,20 @@
+FIRM         : PFGC (CIK 0001618673) | FY2021
+FILE         : 0001618673_PFGC_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : July 3, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 7. Property, Plant, and Equipment
+ASSET CAT.   : equipment, Office equipment, furniture
+DURÉE        : 2.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In millions) As of July 3, 2021 As of June 27, 2020 Range of Lives Buildings and building improvements $ 842.0 $ 801.2 10 – 39 years Land 96.0 93.5 — Transportation equipment 565.4 440.4 2 – 10 years Warehouse and plant equipment 447.8 376.0 3 – 20 years Office equipment, furniture, and fixtures 385.2 374.1 2 – 10 years Leasehold improvements 212.7 139.9 Lease term(1) Construction-in-process 61.5 108.3 2,610.6 2,333.4 Less: accumulated depreciation and amortization (1,021.0 ) (854.4 ) Property, plant and equipment, net $ 1,589.6 $ 1,479.0
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15 , Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . The amendments in this update align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). The accounting for the service element of a hosting arrangement that is a service contract is not affected by the amendments in this update. The amendments in this update are effective for interim and annual periods beginning after December 15, 2019, with early adoption permitted. The amendments in this update should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. The Company adopted this ASU on a prospective basis at the beginning of fiscal 2021. The adoption of this guidance did not have a material impact on the Company's consolidated financial statements. ||| Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

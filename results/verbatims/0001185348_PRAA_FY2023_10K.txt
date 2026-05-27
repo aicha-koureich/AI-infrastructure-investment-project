@@ -1,0 +1,21 @@
+FIRM         : PRAA (CIK 0001185348) | FY2023
+FILE         : 0001185348_PRAA_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. General and Summary of Significant Accounting Policies:
+ASSET CAT.   : Equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Category of Property and Equipment Estimated Useful Life Software and computer equipment Three to five years Furniture and fixtures Ten years Equipment Five years Leasehold improvements Remaining term of the lease Building improvements Ten to 39 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

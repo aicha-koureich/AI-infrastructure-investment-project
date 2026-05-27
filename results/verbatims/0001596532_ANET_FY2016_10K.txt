@@ -1,0 +1,20 @@
+FIRM         : ANET (CIK 0001596532) | FY2016
+FILE         : 0001596532_ANET_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 11. Selected Quarterly Financial Information (Unaudited)
+ASSET CAT.   : equipment, machinery, Computer hardware, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment, net consists of the following (in thousands): December 31, 2016 2015 Equipment and machinery $ 40,721 $ 29,101 Computer hardware and software 17,420 12,630 Furniture and fixtures 2,879 2,380 Leasehold improvements 29,498 24,372 Building 35,154 35,154 Construction-in-process 421 6,408 Property and equipment, gross 126,093 110,045 Less: accumulated depreciation (49,132 ) (30,339 ) Property and equipment, net $ 76,961 $ 79,706
+
+[VERBATIM — Infrastructure IA]
+We are a leading supplier of cloud networking solutions that use software innovations to address the needs of large-scale Internet companies, cloud service providers and next-generation data centers for enterprise support. Our cloud networking solutions consist of our Extensible Operating System, or EOS, a set of network applications and our Ethernet switching and routing platforms. Our cloud networking solutions deliver industry-leading performance, scalability, availability, programmability, automation and visibility. At the core of our cloud networking platform is EOS, which was purpose-built to be fully programmable and highly modular. The programmability of EOS has allowed us to create a set of software applications that address the requirements of cloud networking, including workflow automation, network visibility and analytics, and has also allowed us to rapidly integrate with a wide range of third-party applications for virtualization, management, automation, orchestration and network services.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

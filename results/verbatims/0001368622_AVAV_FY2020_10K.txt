@@ -1,0 +1,20 @@
+FIRM         : AVAV (CIK 0001368622) | FY2020
+FILE         : 0001368622_AVAV_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-07-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Organization and Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of property and equipment, including amortization of leasehold improvements, are provided using the straight-line method over the following estimated useful lives:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Effective May 1, 2020, the Company adopted ASU 2018-15, “ Intangibles—Goodwill and Other— Internal-Use Software (Subtopic 350-40) Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ” (“ASU 2018-15”). ASU 2018-15 provides guidance on the treatment of accounting for fees paid by a customer in a cloud computing arrangement. This guidance includes the requirements for capitalizing implementation costs incurred in a hosting arrangement. The Company adopted ASU 2018-15 using the prospective method, applying the new guidance to all implementation costs incurred after adoption. The adoption of ASU 2018-15 did not have an impact on the Company’s consolidated financial statements.

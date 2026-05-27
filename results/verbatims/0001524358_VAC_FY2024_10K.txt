@@ -1,0 +1,23 @@
+FIRM         : VAC (CIK 0001524358) | FY2024
+FILE         : 0001524358_VAC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-20
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, information technology
+DURÉE        : 3.0-40.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We capitalize the cost of improvements that extend the useful life of property and equipment when incurred.
+
+[VERBATIM — Changement de politique]
+Our CODM uses Adjusted Earnings before Interest Expense, Taxes, Depreciation and Amortization (“Adjusted EBITDA”) to evaluate the profitability of our operating segments, and the components of net income attributable to common stockholders excluded from Adjusted EBITDA are not separately evaluated. Our CODM reviews budget-to-actual variances on a monthly basis using Adjusted EBITDA to make decisions about capital allocation and resource distribution to the segments. Adjusted EBITDA is defined as net income attributable to common stockholders, before interest expense (excluding consumer financing interest expense associated with term securitization transactions), income taxes, depreciation and amortization, excluding share-based compensation expense and adjusted for certain items that affect the comparability of our operating performance. Our reconciliation of the aggregate amount of Adjusted EBITDA for our reportable segments to consolidated net income attributable to common stockholders is presented below.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| We have entered into various cloud computing arrangements that are considered service contracts. We capitalize certain qualified implementation costs incurred in connection with these arrangements, including both internal and external costs. Capitalization of costs begins when the preliminary project stage is completed, management with the relevant authority authorizes and commits to the funding of the project, and it is probable that the project will be completed and will be used to perform the function intended. We cease capitalization of such costs when the implementation activities are complete. Capitalized implementation costs of $35 million and $28 million are recorded in Other assets on our Balance Sheets as of December 31, 2024 and December 31, 2023, respectively. ||| We amortize capitalized implementation costs to an operating expense using the straight-line method over the term of the cloud computing arrangement (3 to 5 years). To the extent that we conclude we will not complete a project, we expect to cease using the services such capitalized costs are related to or expect to terminate the cloud computing arrangement early, we write off the remaining capitalized cost.

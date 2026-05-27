@@ -1,0 +1,20 @@
+FIRM         : PCTY (CIK 0001591698) | FY2014
+FILE         : 0001591698_PCTY_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+In order to grow our business, we intend to increase our personnel and related expenses and to make significant investments in our platform, data centers and infrastructure generally. The timing and amount of these investments will vary based on the rate at which we can add new clients and new personnel and the scale of our application development, data center and other activities. Many of these investments will occur in advance of our experiencing any direct benefit from them which could negatively impact our liquidity and cash flows during any particular period and may make it difficult to determine if we are effectively allocating our resources. However, we expect to fund our operations, capital expenditures and other investments principally with cash flows from operations, and to the extent that our liquidity needs exceed our cash from operations, we would look to our cash on hand and available borrowings to satisfy those needs.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

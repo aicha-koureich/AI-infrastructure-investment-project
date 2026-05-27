@@ -1,0 +1,23 @@
+FIRM         : MMS (CIK 0001032220) | FY2023
+FILE         : 0001032220_MMS_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-11-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Our balance sheet includes a number of long-lived assets, including property and equipment, capitalized software, operating lease right-of-use assets, deferred contract costs, and intangible assets. These assets are depreciated or amortized over their estimated useful economic lives but are subject to impairment if events indicate that the carrying amounts may not be recoverable.
+
+[VERBATIM — Changement de politique]
+In May 2021, we acquired VES Group, Inc. As part of the acquisition, we allocated a valuation of $27 million to certain technology assets used by the business, which we elected to amortize over twelve years, which was our best estimate of asset life at that time. In fiscal year 2023, we have taken the opportunity to improve our technology portfolio, including the development of technology, that will eventually replace much of the acquired technology. Accordingly, we have revised the asset life on the existing technology, assuming the assets will cease being used by September 2026. This change in estimated useful life will result in additional annual amortization expense of $3.8 million per year. In fiscal year 2023, this change reduced our diluted earnings per share by approximately $0.04.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

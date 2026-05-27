@@ -1,0 +1,20 @@
+FIRM         : AXTI (CIK 0001051627) | FY2018
+FILE         : 0001051627_AXTI_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Revenue from customers in China increased in 2018 by 26.2%, primarily due to an increase of $1.2 million, or 12%, from raw materials sales and an increase of $5.3 million, or 36%, from wafer substrate sales. Sales of all three of our wafer substrate products in China increased in 2018. Revenue from customers in Europe decreased by 8.1%, primarily due to a decrease of $1.6 million, or 75.5%, in gallium sales from our consolidated joint ventures and from a decrease of $0.7 million, or 3%, from wafer substrate sales. Revenue from customers in Japan decreased in 2018 by 22.3% due to a decrease of $3.9 million in GaAs wafer substrate sales. However, sales from InP and Ge wafer substrates and raw materials in Japan all increased in 2018 as compared to 2017. Revenue from customers in Taiwan increased by 9.8%, primarily due to strong demand for InP substrates used in silicon photonics, specifically in data center expansions and upgrades.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : MTN (CIK 0000812011) | FY2021
+FILE         : 0000812011_MTN_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-10-22
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 8. Supplementary Balance Sheet Information
+ASSET CAT.   : Machinery and equipment, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+July 31, 2021 2020 Land and land improvements $ 756,517 $ 750,714 Buildings and building improvements 1,496,402 1,475,661 Machinery and equipment 1,417,705 1,361,178 Furniture and fixtures 308,432 308,267 Software 122,778 104,223 Vehicles 80,328 80,510 Construction in progress 67,710 81,967 Gross property, plant and equipment 4,249,872 4,162,520 Accumulated depreciation (2,181,996) (1,969,841) Property, plant and equipment, net $ 2,067,876 $ 2,192,679
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : MPT (CIK 0001287865) | FY2024
+FILE         : 0001287865_MPT_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+When a real estate investment is designated as held for sale, we cease recording depreciation expense and adjust the assets’ value to the lower of its carrying value or fair value, less cost of disposal. Fair value is typically based on estimated cash flows discounted at a risk-adjusted rate of interest. We classify real estate assets as held for sale when we have commenced an active program to sell the assets, and in the opinion of management, it is probable the asset will be sold within the next 12 months.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

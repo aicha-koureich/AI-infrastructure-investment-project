@@ -1,0 +1,24 @@
+FIRM         : DLB (CIK 0001308547) | FY2017
+FILE         : 0001308547_DLB_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Equipment provided under operating leases Lesser of lease term or
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-8.0 ans | 5.0-8.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+PP&E Category Useful Life Computer equipment and software 3 to 5 years Machinery and equipment 3 to 8 years Furniture and fixtures 5 to 8 years Leasehold improvements Lesser of useful life or related lease term Equipment provided under operating leases Lesser of lease term or 15 years Buildings and building improvements 20 to 40 years
+
+[VERBATIM — Changement de politique]
+Stock-based compensation expense for equity awards granted to employees is determined by estimating their fair value on the date of grant, and recognizing that value as an expense on a straight-line basis over the requisite service period in which our employees earn the awards. Compensation expense related to these equity awards is recognized net of estimated forfeitures, which reduce the expense recorded in the consolidated statements of operations. Our methodology under which estimated forfeiture rates are derived is based on an evaluation of trends in our historical forfeiture data with consideration for other potential driving factors. If in subsequent periods actual forfeitures significantly differ from our estimates, we will revise such estimates accordingly. Beginning in fiscal 2015, we revised the method under which we estimate forfeitures. The impact of this change in estimate was not material. The estimated annual forfeiture rates used for awards granted were
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

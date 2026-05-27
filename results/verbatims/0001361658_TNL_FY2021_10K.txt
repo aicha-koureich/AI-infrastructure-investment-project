@@ -1,0 +1,21 @@
+FIRM         : TNL (CIK 0001361658) | FY2021
+FILE         : 0001361658_TNL_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 30. Related Party Transactions
+ASSET CAT.   : equipment, Capitalized software, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment, net, as of December 31, consisted of (in millions): 2021 2020 Capitalized software $ 707 $ 694 Building and leasehold improvements 653 591 Furniture, fixtures and equipment 204 207 Land 30 30 Finance leases 20 14 Construction in progress 18 12 Total property and equipment 1,632 1,548 Less: Accumulated depreciation and amortization 943 882 Property and equipment, net $ 689 $ 666
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

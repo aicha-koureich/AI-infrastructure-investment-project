@@ -1,0 +1,21 @@
+FIRM         : USPH (CIK 0000885978) | FY2013
+FILE         : 0000885978_USPH_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies
+ASSET CAT.   : furniture, equipment
+DURÉE        : 3.0-8.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans | 3.0-8.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated useful lives for furniture and equipment range from three to eight years and for software purchased from three to seven years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

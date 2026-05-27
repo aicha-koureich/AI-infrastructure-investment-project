@@ -1,0 +1,21 @@
+FIRM         : TRN (CIK 0000099780) | FY2023
+FILE         : 0000099780_TRN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, office equipment
+DURÉE        : 1.0-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 5.0 ans | 13.0 ans
+
+[VERBATIM — Durée de vie]
+We are the lessee of operating leases predominantly for office buildings and railcars, as well as manufacturing equipment and office equipment. Our operating leases have remaining lease terms ranging from one year to thirteen years, some of which include options to extend for up to five years, and some of which include options to terminate within one year. As of December 31, 2023, we had no material finance leases in which we were the lessee. Certain of our operating leases include lease incentives, which reduce the right-of-use asset and are recognized on a straight-line basis over the lease term.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

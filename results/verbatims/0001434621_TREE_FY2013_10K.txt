@@ -1,0 +1,21 @@
+FIRM         : TREE (CIK 0001434621) | FY2013
+FILE         : 0001434621_TREE_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 16—Discontinued Operations—LendingTree Loans—Loan Loss Obligations for additional information on the loan loss reserve.
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment, including internally-developed software and significant improvements, are recorded at cost less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

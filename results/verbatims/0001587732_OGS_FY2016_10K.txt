@@ -1,0 +1,20 @@
+FIRM         : OGS (CIK 0001587732) | FY2016
+FILE         : 0001587732_OGS_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU 2015-05, “Intangibles-Goodwill and Other-Internal-Use Software,” which helps entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement. We adopted this guidance prospectively in the first quarter of 2016, and it did not have a material impact on our financial position or results of operations.

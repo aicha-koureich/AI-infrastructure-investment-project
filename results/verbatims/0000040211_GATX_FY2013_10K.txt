@@ -1,0 +1,20 @@
+FIRM         : GATX (CIK 0000040211) | FY2013
+FILE         : 0000040211_GATX_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 18 . Allowance for Losses
+ASSET CAT.   : furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2013 2012 Inventory $ 45.8 $ 49.1 Office furniture, fixtures and other equipment, net of accumulated depreciation 34.9 35.8 Derivatives 6.0 10.2 Deferred financing costs 18.6 14.8 Assets held for sale 10.3 10.1 Other investments 6.9 6.5 Prepaid items 12.4 9.5 Prepaid pension 32.9 — Other 57.7 50.7 $ 225.5 $ 186.7
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

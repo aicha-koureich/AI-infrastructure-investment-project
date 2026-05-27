@@ -1,0 +1,20 @@
+FIRM         : OFG (CIK 0001030469) | FY2024
+FILE         : 0001030469_OFG_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 8
+ASSET CAT.   : Furniture and fixtures, Information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Useful Life (Years) December 31, 2024 2023 (In thousands) Land — $ 4,031 $ 4,031 Buildings and improvements 20 — 40 77,267 76,542 Leasehold improvements 1 — 10 23,176 19,145 Furniture and fixtures 3 — 10 23,591 21,377 Information technology and other 3 — 7 69,787 58,898 197,852 179,993 Less: accumulated depreciation and amortization (93,340) (75,891) $ 104,512 $ 104,102
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

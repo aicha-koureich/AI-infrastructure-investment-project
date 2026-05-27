@@ -1,0 +1,28 @@
+FIRM         : UVE (CIK 0000891166) | FY2013
+FILE         : 0000891166_UVE_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 – SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment is recorded at cost less accumulated depreciation. Estimated useful life of all property and equipment ranges from three to twenty-seven-and-one-half years.
+
+[VERBATIM — Changement de politique]
+In September 2010, the FASB issued guidance related to accounting for costs associated with acquiring or renewing insurance
+contracts. This guidance defines allowable deferred policy acquisition costs as costs incurred by insurance entities for the successful acquisition of new and renewal contracts. Such costs result directly from and are essential to the contract
+transaction(s) and would not have been incurred by the insurance entity had the contract(s) not occurred. This guidance is effective for periods beginning after December 15, 2011, with early adoption permitted. The Company adopted this guidance
+prospectively effective January 1, 2012. Under the new guidance, the Company’s net deferred policy acquisition costs were reduced from $13.0 million to $11.4 million, a difference of 13% at December 31, 2011. The resulting $1.6
+million difference was charged directly to earnings during the three months ended March 31, 2012. This charge represents a charge-off of capitalized costs existing at December 31, 2011, which would have been amortized to earnings within a
+twelve-month period under the old guidance.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

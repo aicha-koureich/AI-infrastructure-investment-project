@@ -1,0 +1,20 @@
+FIRM         : NTNX (CIK 0001618732) | FY2024
+FILE         : 0001618732_NTNX_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-08-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. OVER VIEW AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200;NVIDIA (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Allocated costs consist of certain facilities, depreciation and amortization, recruiting, and information technology costs, allocated based on headcount.
+
+[VERBATIM — Infrastructure IA]
+Our Nutanix Cloud Platform is designed to enable organizations to build a hybrid multicloud infrastructure, providing a consistent cloud operating model with a single platform for running applications and managing data in core data centers, at the edge, and in public clouds, all while supporting a variety of hypervisors and container platforms. Nutanix Cloud Platform supports a wide variety of workloads with varied compute, storage, and network requirements, including business-critical applications, data platforms (including SQL and NoSQL databases and business intelligence applications), general-purpose workloads (including system infrastructure, networking, and security), and end-user computing and virtual desktop infrastructure services, as well as enterprise artificial intelligence ("AI") workloads (including machine learning and generative AI workloads) and cloud native applications (including modern, containerized applications).  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Our Nutanix Cloud Platform is designed to enable organizations to build a hybrid multicloud infrastructure, providing a consistent cloud operating model with a single platform for running applications and managing data in core data centers, at the edge, and in public clouds, all while supporting a variety of hypervisors and container platforms. Nutanix Cloud Platform supports a wide variety of workloads with varied compute, storage, and network requirements, including business-critical applications, data platforms (including SQL and NoSQL databases and business intelligence applications), general-purpose workloads (including system infrastructure, networking, and security), end-user computing and virtual desktop infrastructure services, enterprise artificial intelligence ("AI") workloads (including machine learning and generative AI workloads), and cloud native applications (including modern, containerized applications). ||| We generate revenue primarily from the sale of our Nutanix Cloud Platform, sold primarily as subscription term-based licenses, and which can be deployed on a variety of qualified hardware platforms or, in the case of our cloud-based SaaS offerings, via hosted service or delivered pre-installed on a server that is configured to order. Non-portable software licenses are delivered or sold alongside configured-to-order servers and can be used over the life of the associated server. ||| Product revenue — Product revenue primarily consists of software revenue. A majority of our product revenue is generated from the sale of our Nutanix Cloud Platform. We also sell renewals of previously purchased software licenses and SaaS offerings. Revenue from our software products is generally recognized upon transfer of control to the customer, which is typically upon shipment for sales including a server from a partner, upon making the software available to the customer when not sold with a server, or as services are performed with SaaS offerings. In the infrequent transactions where the hardware is purchased directly from Nutanix, we consider ourselves to be the principal in the transaction and we record revenue and costs of goods sold on a gross basis.

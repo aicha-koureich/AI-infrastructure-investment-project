@@ -1,0 +1,21 @@
+FIRM         : EIG (CIK 0001379041) | FY2024
+FILE         : 0001379041_EIG_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, furniture
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-8.0 ans
+
+[VERBATIM — Durée de vie]
+Electronic data processing equipment, software, furniture and equipment, and automobiles are depreciated using the straight-line method over 3 to 7 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Our underwriting results for the year ended December 31, 2023 reflect increases in net premiums earned from higher new and renewal business premiums, strong final audit premiums, and significant net favorable prior year loss reserve development. Our investment results benefited from a sharp increase in our net investment income due to higher bond yields and net realized and unrealized gains. Our non-underwriting expenses in 2023 included the cost of the early lease termination of our former corporate headquarters and a write-off of previously capitalized cloud computing costs associated with a former policy management system. ||| In 2023, we wrote-off $1.6 million of previously capitalized cloud computing costs associated with a policy management system as part of a continual evaluation of our ongoing technology initiatives. Additionally, we recorded a non-recurring charge in connection with the early termination of the lease associated with our former corporate headquarters in Reno, Nevada. This charge included a one-time lease termination payment of $7.6 million, a write-off related to remaining leasehold improvements and furniture and equipment of $2.6 million, and estimated miscellaneous expenses associated with exiting the property of $0.2 million. We also recognized a related lease termination gain pertaining to the elimination of the lease liability, net of an associated right-of-use asset (ROU asset) of $1.0 million, which was included in Other expenses on our Consolidated Statements of Comprehensive Income (Loss). The decision to terminate the former Reno operating lease was undertaken as part of an ongoing review of our facility needs.

@@ -1,0 +1,23 @@
+FIRM         : RRX (CIK 0000082811) | FY2020
+FILE         : 0000082811_RRX_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-01-02
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+The Company incurred restructuring and restructuring-related costs on projects during fiscal 2020, 2019 and 2018. Restructuring costs include associate termination and plant relocation costs. Restructuring-related costs include costs directly associated with actions resulting from the Company's simplification initiatives, such as asset write-downs or accelerated depreciation due to shortened useful lives in connection with site closures, discretionary employment benefit costs and other facility rationalization costs. Restructuring costs for associate termination expenses are generally required to be accrued over the associate's remaining service period while restructuring costs for plant relocation costs and restructuring-related costs are generally required to be expensed as incurred.
+
+[VERBATIM — Infrastructure IA]
+Industrial Systems segment produces integral motors, generators, alternators and switchgear for industrial applications, along with aftermarket parts and kits to support such products. These products serve markets including agriculture, marine, mining, oil and gas, food and beverage, data centers, healthcare, prime and standby power, and general industrial equipment.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

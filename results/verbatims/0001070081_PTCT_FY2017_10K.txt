@@ -1,0 +1,21 @@
+FIRM         : PTCT (CIK 0001070081) | FY2017
+FILE         : 0001070081_PTCT_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 19. Selected quarterly financial data (Unaudited) (Continued)
+ASSET CAT.   : Computer equipment and software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Depreciation is computed starting when the asset is placed into service on a straight-line basis over the estimated useful life of the related asset as follows: Leasehold improvements Lesser of useful life or lease term Computer equipment and software 3 years Furniture, fixtures, and lab equipment 3 to 7 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

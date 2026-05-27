@@ -1,0 +1,20 @@
+FIRM         : KMB (CIK 0000055785) | FY2018
+FILE         : 0000055785_KMB_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 1 . Accounting Policies
+ASSET CAT.   : software, which generally does not exceed
+DURÉE        : 16.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost and are depreciated on the straight-line method. Machinery and equipment are depreciated over their estimated useful lives, primarily ranging from 16 to 20 years . Computer software costs are amortized on the straight-line method over the estimated useful life of the software, which generally does not exceed 5 years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+. The new guidance reduces complexity for the accounting for costs of implementing a cloud computing service arrangement and ||| In 2018, the FASB issued ASU No. 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40) . The new guidance reduces complexity for the accounting for costs of implementing a cloud computing service arrangement and aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal use software license). For public companies, the amendments in this ASU are effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019, with early adoption permitted. Implementation should be applied either retrospectively or prospectively to all implementation cost incurred after the date of adoption. The effects of this standard on our financial position, results of operations or cash flows are not expected to be material.

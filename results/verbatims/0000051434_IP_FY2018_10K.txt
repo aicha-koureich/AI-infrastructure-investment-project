@@ -1,0 +1,20 @@
+FIRM         : IP (CIK 0000051434) | FY2018
+FILE         : 0000051434_IP_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 10
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Plants, properties and equipment are stated at cost, less accumulated depreciation. The units-of-production method of depreciation is used for pulp and paper mills, and the straight-line method is used for other plants and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract." The guidance aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). The accounting for the service element of a hosting arrangement that is a service contract is not affected by the amendments in this guidance. This guidance is effective for annual reporting periods beginning after December 15, 2019, and interim periods within those fiscal years. Early adoption is permitted. The Company is currently evaluating the provisions of this guidance.

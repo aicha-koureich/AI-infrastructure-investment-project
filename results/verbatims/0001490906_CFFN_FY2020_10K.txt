@@ -1,0 +1,20 @@
+FIRM         : CFFN (CIK 0001490906) | FY2020
+FILE         : 0001490906_CFFN_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-09-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 20. PARENT COMPANY FINANCIAL INFORMATION (PARENT COMPANY ONLY) The Company serves as the holding company for the Bank (see "Note 1. Summary of Significant Accounti
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+STATEMENTS OF CASH FLOWS YEARS ENDED SEPTEMBER 30, 2020, 2019, and 2018 (Dollars in thousands) 2020 2019 2018 CASH FLOWS FROM OPERATING ACTIVITIES: Net income $ 64,540 $ 94,243 $ 98,927 Adjustments to reconcile net income to net cash provided by operating activities: Equity in excess of distribution over earnings of subsidiary 3,895 35,381 34,940 Depreciation of equipment 45 37 30 Loss on disposal of premises and equipment — 8 — Provision for deferred income taxes 91 — (35) Changes in: Other assets (60) 54 (53) Income taxes receivable/payable (63) 57 (145) Accounts payable and accrued expenses 13 (86) (257) Net cash provided by operating activities 68,461 129,694 133,407 CASH FLOWS FROM INVESTING ACTIVITIES: Principal collected on note receivable from ESOP 1,357 1,314 1,272 Cash acquired from acquisition — — 18 Purchase of equipment — (423) — Proceeds from the redemption of common equity securities related to the redemption of junior subordinated debentures — 302 — Net cash provided by investing activities 1,357 1,193 1,290 CASH FLOWS FROM FINANCING ACTIVITIES: Net payment from subsidiary related to restricted stock awards 319 1,245 253 Cash dividends paid (93,862) (134,929) (118,312) Repurchase of common stock (20,767) — — Repayment of other borrowings — (10,052) — Stock options exercised 638 1,485 261 Net cash used in financing activities (113,672) (142,251) (117,798) NET (DECREASE) INCREASE IN CASH AND CASH EQUIVALENTS (43,854) (11,364) 16,899 CASH AND CASH EQUIVALENTS: Beginning of year 126,320 137,684 120,785 End of year $ 82,466 $ 126,320 $ 137,684 SUPPLEMENTAL DISCLOSURE OF NONCASH INVESTING AND FINANCING ACTIVITIES: Common stock issued for acquisition $ — $ — $ 39,113 Capital contribution to subsidiary in conjunction with acquisition of CCB $ — $ — $ 48,798
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles - Goodwill and Other - Internal-Use Software: Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . The ASU aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include internal-use software license). The effective date of this ASU for the Company is October 1, 2020, with early adoption permitted. This ASU is not expected to have a significant impact on the Company's consolidated financial condition, results of operations and disclosures. ||| Intangibles - Goodwill and Other - Internal-Use Software: Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

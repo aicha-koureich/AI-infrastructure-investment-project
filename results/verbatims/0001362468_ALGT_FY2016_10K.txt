@@ -1,0 +1,23 @@
+FIRM         : ALGT (CIK 0001362468) | FY2016
+FILE         : 0001362468_ALGT_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 14 — Subsequent Events
+ASSET CAT.   : equipment, Computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31, 2016 As of December 31, 2015 Flight equipment $ 1,377,829 $ 1,123,115 Computer hardware and software 101,850 78,200 Ground property and equipment 81,786 72,078 Total property and equipment 1,561,465 1,273,393 Less accumulated depreciation and amortization (466,151 ) (387,451 ) Property and equipment, net $ 1,095,314 $ 885,942
+
+[VERBATIM — Changement de politique]
+Changes in the estimate for useful lives or residual values of the Company’s property and equipment could result in an acceleration of depreciation expense associated with the change in estimate.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

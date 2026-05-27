@@ -1,0 +1,23 @@
+FIRM         : CARR (CIK 0001783180) | FY2023
+FILE         : 0001783180_CARR_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-02
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment are stated at cost less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+In addition, the net assets of the Company’s Industrial Fire business met the criteria to be classified as held for sale during the fourth quarter of 2023. Industrial Fire, historically reported in the Company's Fire & Security segment, is a leading manufacturer of a full spectrum of fire detection and suppression solutions and services in critical high-hazard environments, including oil and gas, power generation, marine and offshore facilities, automotive, data centers and aircraft hangars. As a result, the assets and liabilities of the business are presented as held for sale in the accompanying Consolidated Balance Sheet as of December 31, 2023 and recorded at the lower of their carrying value or fair value less estimated cost to sell.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

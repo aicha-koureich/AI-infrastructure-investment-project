@@ -1,0 +1,20 @@
+FIRM         : BFAM (CIK 0001437578) | FY2024
+FILE         : 0001437578_BFAM_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 8. FIXED ASSETS
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Fixed assets consisted of the following: December 31, Estimated useful lives 2024 2023 (In years) (In thousands) Buildings 15 - 40 $ 200,230 $ 201,718 Furniture, equipment and software 3 - 10 342,618 326,542 Leasehold improvements Shorter of the lease term or the estimated useful life 572,928 569,494 Land — 94,319 96,237 Total fixed assets 1,210,095 1,193,991 Accumulated depreciation (637,156) (614,695) Fixed assets — net $ 572,939 $ 579,296
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

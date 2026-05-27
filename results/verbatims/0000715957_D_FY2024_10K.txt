@@ -1,0 +1,23 @@
+FIRM         : D (CIK 0000715957) | FY2024
+FILE         : 0000715957_D_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-27
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : A100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of property, plant and equipment is computed on the straight-line method based on projected service lives. The Companies’ average composite depreciation rates on utility property, plant and equipment are as follows:
+
+[VERBATIM — Changement de politique]
+In January 2022, Dominion Energy revised the estimated useful life of its non-jurisdictional and certain nonregulated solar generation facilities to 35 years. This revision resulted in an annual decrease of depreciation expense of $ 16 million ($ 12 million after-tax), including $ 6 million ($ 4 million after-tax) at Virginia Power, and increased Dominion Energy’s EPS by approximately $ 0.02 .
+
+[VERBATIM — Infrastructure IA]
+The Companies’ operating revenue consists of the following: Dominion Energy Virginia Power Year Ended December 31, 2024 2023 2022 2024 2023 2022 (millions) Regulated electric sales: Residential $ 5,436 $ 5,141 $ 5,261 $ 4,133 $ 3,863 $ 4,039 Commercial (1) 4,679 4,556 4,480 3,786 3,632 3,647 Industrial 845 887 901 429 440 472 Government and other retail 1,081 1,036 1,235 1,015 965 1,172 Wholesale 136 176 234 105 116 132 Nonregulated electric sales 933 758 1,249 86 65 68 Regulated gas sales: Residential 309 293 331 Commercial 136 145 188 Other 67 79 168 Regulated gas transportation and storage 21 18 38 Other regulated revenues 372 253 296 359 238 277 Other nonregulated revenues (2)(3)(4) 167 145 171 46 53 61 Total operating revenue from contracts with customers 14,182 13,487 14,552 9,959 9,372 9,868 Other revenues (2)(5) 277 906 ( 614 ) 276 201 ( 214 ) Total operating revenue $ 14,459 $ 14,393 $ 13,938 $ 10,235 $ 9,573 $ 9,654 (1) Includes large scale users including certain data center customers. (2) See Note 25 for amounts attributable to affiliates. (3) Includes sales of renewable energy credits of $ 31 million, $ 44 million and $ 42 million for the years ended December 31, 2024, 2023 and 2022 , respectively, at Dominion Energy and $ 12 million, $ 29 million and $ 18 million for the years ended December 31, 2024, 2023 and 2022 , respectively, at Virginia Power. (4) Includes revenue from transition services agreements of $ 61 million, $ 18 million and $ 28 million for the years ended December 31, 2024, 2023 and 2022 , respectively, at Dominion Energy. (5) Includes alternative revenue of $ 129 million, $ 162 million and $ 72 million at both Dominion Energy and Virginia Power for years ended December 31, 2024, 2023 and 2022 , respectively. Neither Dominion Energy nor Virginia Power have any amounts for revenue to be recognized in the future on multi-year contracts in place at December 31, 2024 .  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

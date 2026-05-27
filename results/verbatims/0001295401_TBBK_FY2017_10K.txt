@@ -1,0 +1,21 @@
+FIRM         : TBBK (CIK 0001295401) | FY2017
+FILE         : 0001295401_TBBK_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 6. Internal Use Software
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 7.0 ans | 8.0 ans
+
+[VERBATIM — Durée de vie]
+Company had net capitalized software costs of approximately $8.2 million and $9.9 million, respectively. Net capitalized software is presented as part of other assets on the consolidated balance sheet. The Company recorded amortization expense of approximately $2.6 million, $2.1 million and $1.9 million for the years ended December 31, 2017, 2016 and 2015, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

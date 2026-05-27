@@ -1,0 +1,21 @@
+FIRM         : GBX (CIK 0000923120) | FY2015
+FILE         : 0000923120_GBX_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 - Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+In the event the railcars are not sold in the first six months, the railcars are either held in Leased railcars for syndication and
+are depreciated or are transferred to Equipment on operating leases and are depreciated.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

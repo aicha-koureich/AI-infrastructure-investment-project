@@ -1,0 +1,20 @@
+FIRM         : QTWO (CIK 0001410384) | FY2024
+FILE         : 0001410384_QTWO_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Significant resources, personnel and expertise are required to effectively deliver and manage advanced digital solutions in the complex and heavily regulated financial services industry. We provide digital solutions that are designed to be highly configurable, scalable and adaptable to the specific needs of our customers. We design and develop our solutions with an open platform approach intended to provide comprehensive integration among our solution offerings and our customers' internal and third-party systems. This integrated approach allows our customers to deliver unified and robust financial experiences across digital channels. Our solutions provide our customers the flexibility to configure their digital services in a manner that is consistent with each customer's specific offerings, workflows, processes and controls. Our solutions also allow our customers to personalize the digital experiences they deliver to their End Users by extending their individual services and brand requirements across digital channels. Our solutions and our data center and cloud-based hosting infrastructure and resources are designed to comply with the stringent security and technical regulations applicable to financial institutions and financial services providers and to safeguard our customers' data and that of their End Users.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

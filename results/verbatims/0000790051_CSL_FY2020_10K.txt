@@ -1,0 +1,20 @@
+FIRM         : CSL (CIK 0000790051) | FY2020
+FILE         : 0000790051_CSL_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1—Summary of Accounting Policies Basis of Presentation
+ASSET CAT.   : buildings
+DURÉE        : 2.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Asset lives are generally 20 to 40 years for buildings, five to 15 years for machinery and equipment and two to 20 years for leasehold improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : EQIX (CIK 0001101239) | FY2019
+FILE         : 0001101239_EQIX_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+premium data center colocation;  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In April, we completed the acquisition of Switch Datacenters' AMS1 data center business in Amsterdam, Netherlands (the "AM11 data center"), for a cash purchase price of approximately €30.6 million, or approximately $34.3 million. See Note 3 within the Consolidated Financial Statements. ||| During the last three years, we have completed a number of business combinations, including the acquisition of Switch Datacenters' AMS1 data center business in Amsterdam, Netherlands in April 2019, the Metronode Acquisition and the Infomart Dallas Acquisition in April 2018, the Itconic Acquisition and the Zenium data center acquisition in October 2017, the Verizon Data Center Acquisition in May 2017, and the IO Acquisition in February 2017. The purchase price allocation for these acquisitions has been finalized. As of December 31, 2019 and 2018, we had net intangible assets of $2.1 billion and $2.3 billion, respectively. We recorded amortization expense for intangible assets of $196.3 million, $203.4 million and $177.0 million for the years ended December 31, 2019, 2018 and 2017, respectively. We do not believe there is a reasonable likelihood that there will be a material change in the estimates or assumptions we used to complete the purchase price allocations and the fair value of assets acquired and liabilities assumed. However, if actual results are not consistent with our estimates or assumptions, we may be exposed to losses or gains that could be material, which would be recorded in our consolidated statements of operations in 2019 or beyond.

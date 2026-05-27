@@ -1,0 +1,20 @@
+FIRM         : CPF (CIK 0000701347) | FY2016
+FILE         : 0000701347_CPF_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 15 - Mortgage Banking Income
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We provide equipment financing to our customers through a variety of lease arrangements. Direct financing leases are carried at the aggregate of lease payments receivable plus estimated residual value of the leased property, less unearned income. Unearned income on direct financing leases is amortized over the lease terms by methods that approximate the interest method.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

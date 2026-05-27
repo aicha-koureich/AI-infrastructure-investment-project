@@ -1,0 +1,21 @@
+FIRM         : BURL (CIK 0001579298) | FY2020
+FILE         : 0001579298_BURL_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 30, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4. Long Term Debt
+ASSET CAT.   : equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+(in thousands) Useful Lives January 30, 2021 February 1, 2020 Land N/A $ 148,973 $ 149,426 Buildings 20 to 40 Years 492,289 491,389 Store fixtures and equipment 3 to 15 Years 1,074,584 1,030,646 Software 3 to 10 Years 278,786 273,674 Leasehold improvements Shorter of lease term or useful life 772,825 761,561 Construction in progress N/A 170,061 58,759 Total property and equipment at cost 2,937,518 2,765,455 Less: accumulated depreciation and amortization (1,498,655 ) (1,362,282 ) Total property and equipment, net of accumulated depreciation and amortization $ 1,438,863 $ 1,403,173
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, “Intangibles—Goodwill and Other—Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.” This ASU requires that implementation costs incurred in a hosting arrangement that is a service contract be assessed in accordance with the existing guidance in Subtopic 350-40, “Internal-Use Software.” Accordingly, costs incurred during the preliminary project stage must be expensed as incurred, while costs incurred during the application development stage must be capitalized. Capitalized implementation costs associated with a hosting arrangement that is a service contract must be expensed over the term of the hosting arrangement. Additionally, the new guidance requires that the expense of these capitalized costs be presented in the same line item in the statements of income as the fees associated with the hosting element of the arrangement. The new guidance became effective for the Company as of the beginning of Fiscal 2020. Adoption of this guidance did not have a significant impact on the Company’s consolidated financial statements and notes thereto.

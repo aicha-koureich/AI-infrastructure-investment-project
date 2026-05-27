@@ -1,0 +1,23 @@
+FIRM         : BLKB (CIK 0001280058) | FY2021
+FILE         : 0001280058_BLKB_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 19. Subsequent Events
+ASSET CAT.   : capitalized software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Qualifying capitalized software development costs are amortized on a straight-line basis over the software asset's estimated useful life, which is generally 3 to 7 years. We write off the gross carrying amount and accumulated amortization balances for all fully amortized software development cost assets.
+
+[VERBATIM — Changement de politique]
+In October 2021, we made the decision to permanently close our fixed office locations (with the exception of our global headquarters facility in Charleston, South Carolina), effective in December 2021. This change was intended to align our real estate footprint with our transition to a remote-first workforce. We enter into arrangements for smaller more flexible workspaces where ne cessary. As a result, during the twelve months ended December 31, 2021, we reduced the estimated useful lives of our operating lease ROU assets for certain of our office locations we expected to exit. We recorded $5.3 million in incremental operating lease costs during 2021 related to this change in accounting estimate. For these same office locations, we also reduced the estimated useful lives of certain facilities-related fixed assets, which resulted in incremental depreciation expense of $1.7 million during 2021 (see Note 7 to these consolidated financial statements). During the twelve months ended December 31, 2021, we also recorded $3.6 million in impairments of op erating lease ROU assets associated with certain leased office spaces we have ceased using as a result of our adjusted workforce strategy. These impairment charges are reflected in general and administrative expense.
+
+[VERBATIM — Infrastructure IA]
+We are continuing to make critical investments in the business in areas such as digital marketing, engineering, security, customer success and our continued shift of cloud infrastructure to leading public cloud service providers. While we are making good progress, some of these investments have pushed into early 2022, particularly in areas where we are increasing headcount.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Decrease in maintenance revenue of $14.7 million primarily related to our continuing efforts to migrate customers from legacy on-premises solutions onto our solutions powered by Blackbaud SKY, our modern cloud platform ||| Increases in amortization expense of capitalized cloud computing implementation costs and third-party contractor costs of $1.0 million and $0.6 million, respectively ||| + Increase in transactional revenue of $18.3 million, including an accelerated shift toward virtual and online fundraising and charitable giving related to COVID-19 + Increase in contractual recurring revenue of $15.5 million related to positive demand from customers across our portfolio of cloud solutions - Decrease in maintenance revenue of $14.7 million primarily related to our continuing efforts to migrate customers from legacy on-premises solutions onto our solutions powered by Blackbaud SKY, our modern cloud platform

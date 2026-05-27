@@ -1,0 +1,21 @@
+FIRM         : APEI (CIK 0001201792) | FY2017
+FILE         : 0001201792_APEI_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 16. Quarterly Financial Summary (unaudited)
+ASSET CAT.   : equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans | 7.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Useful Life 2016 2017 (in thousands) Land — $ 9,244 $ 9,244 Building and building improvements 27.5 - 39 years 54,691 54,408 Leasehold improvements up to 15 years 1,208 1,437 Office equipment 5 years 2,219 2,248 Computer equipment 3 years 22,492 22,736 Furniture and fixtures 7 years 8,036 8,022 Other capital assets 5 years 128 128 Software development 5 years 79,452 84,178 Program development 3 years 6,966 9,150 184,436 191,551 Accumulated depreciation and amortization 86,749 99,177 $ 97,687 $ 92,374
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

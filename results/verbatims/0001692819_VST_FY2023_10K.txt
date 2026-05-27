@@ -1,0 +1,23 @@
+FIRM         : VST (CIK 0001692819) | FY2023
+FILE         : 0001692819_VST_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Nuclear fuel is capitalized and reported as a component of our property, plant and equipment in our consolidated balance sheets. Amortization of nuclear fuel is calculated on the units-of-production method and is reported as a component of fuel, purchased power costs and delivery fees in our consolidated statements of operations.
+
+[VERBATIM — Changement de politique]
+The final Section 163(j) regulations were issued in July 2020 and provided a critical correction to the proposed regulations with respect to the computation of adjusted taxable income. As of January 1, 2022, certain provisions in the final Section 163(j) regulations have sunset, including the addback of depreciation and amortization to adjusted taxable income. As a result, under the law as currently enacted, Vistra's deductible business interest expense has been significantly limited for the 2023 tax year. Vistra remains active in legislative monitoring and advocacy efforts to support a legislative solution to reinstate and make permanent the addback of depreciation and amortization to adjusted taxable income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

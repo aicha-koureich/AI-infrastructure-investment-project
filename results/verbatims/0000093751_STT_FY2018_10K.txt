@@ -1,0 +1,20 @@
+FIRM         : STT (CIK 0000093751) | FY2018
+FILE         : 0000093751_STT_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 27. Parent Company Financial Statements
+ASSET CAT.   : computer hardware, equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Occupancy expense and information systems and communications expense include depreciation of buildings, leasehold improvements, computer hardware and software, equipment, and furniture and fixtures.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force) ||| This standard addresses accounting for fees paid by a customer for implementation, set-up and other upfront costs incurred in a cloud computing arrangement that is hosted by the vendor, i.e., a service contract. The new guidance aligns treatment for capitalization of implementation costs with guidance on internal-use software. ||| Relevant standards that were recently issued but not yet adopted as of December 31, 2018 (continued): Standard Description Date of Adoption Effects on the financial statements or other significant matters ASU 2018-13, Fair Value Measurement (Topic 820): Disclosure Framework-Changes to the Disclosure Requirements for Fair Value Measurement The standard eliminates, amends and adds disclosure requirements for fair value measurements. January 1, 2020, early adoption permitted, including partial early adoption. Provisions that eliminate or amend disclosures can be early adopted without early adopting the new disclosure requirements. We have elected to early adopt the provisions of the new standard that eliminate or amend disclosures as of December 31, 2018 and our disclosures were modified accordingly. The provisions of the new standard that add disclosures will be adopted upon the effective date of the standard. ASU 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force) This standard addresses accounting for fees paid by a customer for implementation, set-up and other upfront costs incurred in a cloud computing arrangement that is hosted by the vendor, i.e., a service contract. The new guidance aligns treatment for capitalization of implementation costs with guidance on internal-use software. January 1, 2020, early adoption permitted We are currently evaluating the impact of the new standard and the early adoption provisions.

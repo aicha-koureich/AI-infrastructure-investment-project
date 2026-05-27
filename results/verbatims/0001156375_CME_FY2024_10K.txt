@@ -1,0 +1,21 @@
+FIRM         : CME (CIK 0001156375) | FY2024
+FILE         : 0001156375_CME_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : certain trading and clearing applications, depending upon expected useful lives
+DURÉE        : 2.0-4.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-7.0 ans | 1.0-10.0 ans | 2.0-4.0 ans | 2.0-8.0 ans | 8.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are depreciated over their estimated useful lives. Internal and external costs incurred in developing, obtaining, or implementing computer software for internal use which meet the requirements for capitalization are amortized on a straight-line basis over the estimated useful life of the software, generally two to four years, but up to eight years for certain trading and clearing applications, depending upon expected useful lives.
+
+[VERBATIM — Infrastructure IA]
+Future capital expenditures for technology are anticipated as we continue to support our growth through increased system capacity, performance improvements, integration of acquired platforms and improvements to some of our office spaces. Each year, capital expenditures are incurred for improvements to and modification of our offices, remote data centers, telecommunications network and other operating equipment. In 2025, we expect capital expenditures to total approximately $90.0 million, n et of any leasehold improvement allowances. We continue to monitor our capital needs and may revise our forecasted expenditures as necessary in the future.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Our strategy focuses on maximizing futures and options growth globally, diversifying our business and revenues and delivering unparalleled customer efficiencies and operational excellence, including through our partnership with Google Cloud. This strategy allows us to continue to develop into a more broadly diversified financial exchange that provides trading and clearing solutions across a wide range of products and asset classes. Our strategic initiatives are discussed in "Item 1 - Business" beginning o n page 7 . ||| • The increase in expenses related to technology support services was primarily driven by higher software license fees and third party services to support the ongoing Google Cloud transformation project. ||| The increase in expenses related to technology support services was primarily driven by higher software license fees and third party services to support the ongoing Google Cloud transformation project.

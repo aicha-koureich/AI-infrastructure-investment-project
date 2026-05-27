@@ -1,0 +1,22 @@
+FIRM         : IBKR (CIK 0001381197) | FY2016
+FILE         : 0001381197_IBKR_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 17. Subsequent Events
+ASSET CAT.   : Computer equipment, furniture, equipment, technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2016 2015 (in millions) Leasehold improvements $ 6 $ 16 Computer equipment 14 9 Office furniture and equipment 2 2 ​ ​ ​ ​ ​ ​ ​ ​ 22 27 Less—accumulated depreciation and amortization (9 ) (17 ) ​ ​ ​ ​ ​ ​ ​ ​ Property and equipment, net 13 10 ​ ​ ​ ​ ​ ​ ​ ​ Internally developed software 49 47 Intangible assets (acquired technology) 7 8 Less—accumulated amortization (28 ) (25 ) ​ ​ ​ ​ ​ ​ ​ ​ Intangible assets, net 28 30 ​ ​ ​ ​ ​ ​ ​ ​ Total property, equipment, and intangible assets, net $ 41 $ 40 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+
+[VERBATIM — Infrastructure IA]
+Occupancy expenses consist primarily of rental payments on office and data center leases and related occupancy costs, such as utilities. Depreciation and
+amortization expenses result from the depreciation of fixed assets, such as computing and communications hardware, as well as amortization of leasehold improvements, capitalized in-house software
+development and acquired intangible assets.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

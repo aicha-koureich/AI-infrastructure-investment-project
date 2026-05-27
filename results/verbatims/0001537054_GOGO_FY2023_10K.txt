@@ -1,0 +1,23 @@
+FIRM         : GOGO (CIK 0001537054) | FY2023
+FILE         : 0001537054_GOGO_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : network equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As a result of our determination to participate in the FCC Reimbursement Program (as defined below), we reassessed and shortened the estimated useful lives of affected network equipment to be consistent with our estimated date to complete the program.
+
+[VERBATIM — Changement de politique]
+As a result of our determination to participate in the FCC Reimbursement Program (as defined below), we reassessed and shortened the estimated useful lives of affected network equipment to be consistent with our estimated date to complete the program.
+
+[VERBATIM — Infrastructure IA]
+Cost of service revenue increased to $69.6 million for the year ended December 31, 2023, as compared with $64.4 million for the prior year, primarily due to an increase in personnel costs and network and data center costs.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

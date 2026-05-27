@@ -1,0 +1,30 @@
+FIRM         : AJG (CIK 0000354190) | FY2018
+FILE         : 0000354190_AJG_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Other costs that are not costs to obtain or fulfill are expensed as incurred. Examples include other operating costs such as rent, utilities,
+management costs, overhead costs, legal and other professional fees, technology costs, insurance related costs, communication and advertising, and travel and entertainment. Depreciation, amortization and change in estimated acquisition earnout
+payable are expensed as incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. This new accounting guidance requires deferral of certain
+implementation costs associated with a cloud computing arrangement, or hosting arrangement, thereby aligning deferral of such costs with implementation costs associated with developing internal-use software.
+Accounting for the service component of a hosting arrangement remains unchanged. An entity will defer these implementation costs over the term of the hosting arrangement, including optional renewal periods that are reasonably certain of exercise.
+Amounts expensed would be presented through operating expense, rather than depreciation or amortization. The new guidance is effective January 1, 2020, with early adoption permitted. An entity may adopt the guidance either prospectively for all
+cloud computing arrangement implementation costs incurred on or after the effective date or retrospectively, including comparative periods. We are currently assessing the impact that adopting this guidance will have on our consolidated financial
+statements.

@@ -1,0 +1,21 @@
+FIRM         : AAPL (CIK 0000320193) | FY2020
+FILE         : 0000320193_AAPL_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-09-26
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : machinery and equipment, including product tooling and manufacturing process equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation on property, plant and equipment is recognized on a straight-line basis over the estimated useful lives of the assets, which for buildings is the lesser of 40 years or the remaining life of the building; between one and five years for machinery and equipment, including product tooling and manufacturing process equipment; and the shorter of lease term or useful life for leasehold improvements. Capitalized costs related to internal-use software are amortized on a straight-line basis over the estimated useful lives of the assets, which range from three to seven years. Depreciation and amortization expense on property and equipment was $9.7 billion, $11.3 billion and $9.3 billion during 2020, 2019 and 2018, respectively.
+
+[VERBATIM — Infrastructure IA]
+The Company has lease arrangements for certain equipment and facilities, including retail, corporate, manufacturing and data center space. These leases typically have original terms not exceeding 10 years and generally contain multi-year renewal options, some of which are reasonably certain of exercise. The Company’s lease arrangements may contain both lease and non-lease components. The Company has elected to combine and account for lease and non-lease components as a single lease component for leases of retail, corporate, and data center facilities.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Services net sales increased during 2020 compared to 2019 due primarily to higher net sales from the App Store, advertising and cloud services.

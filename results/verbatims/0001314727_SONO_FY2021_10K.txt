@@ -1,0 +1,20 @@
+FIRM         : SONO (CIK 0001314727) | FY2021
+FILE         : 0001314727_SONO_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-11-09
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 5. Balance Sheet Components
+ASSET CAT.   : Computer hardware, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+October 2, 2021 October 3, 2020 (In thousands) Computer hardware and software $ 40,098 $ 45,798 Furniture and fixtures 7,483 8,239 Tooling and production line test equipment 76,210 67,495 Leasehold improvements 49,846 51,102 Product displays 57,863 48,925 Total property and equipment 231,500 221,559 Accumulated depreciation and amortization (160,159) (160,775) Property and equipment, net $ 71,341 $ 60,784
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Determining the standalone selling price ("SSP") for each distinct performance obligation requires judgment. We estimate SSP for items that are not sold separately, which include the products and related software, unspecified software upgrades and cloud services, using information that may include competitive pricing information, where available, as well as analysis of the cost of providing the products or services plus a reasonable margin. In developing SSP estimates, we also consider the nature of the products and services and the expected level of future services. ||| Determining the revenue recognition period for unspecified software upgrades and cloud services requires judgment. We recognize revenue attributable to these performance obligations ratably over the best estimate of the period that the customer is expected to receive the services. In developing the estimated period of providing future services, we consider our past history, our plans to continue to provide services, including plans to continue to support updates and enhancements to prior versions of our products, expected technological developments, obsolescence, competition and other factors. The estimated service period may change in the future in response to competition, technology developments and our business strategy.

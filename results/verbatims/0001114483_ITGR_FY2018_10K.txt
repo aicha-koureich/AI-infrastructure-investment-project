@@ -1,0 +1,20 @@
+FIRM         : ITGR (CIK 0001114483) | FY2018
+FILE         : 0001114483_ITGR_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : machinery and equipment, Information technology, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+PP&E is comprised of the following (in thousands): December 28, 2018 December 29, 2017 Manufacturing machinery and equipment $ 261,912 $ 249,233 Buildings and building improvements 95,886 97,346 Information technology hardware and software 60,901 54,302 Leasehold improvements 61,418 58,918 Furniture and fixtures 15,082 15,068 Land and land improvements 11,544 13,146 Construction work in process 23,886 19,758 Other 1,048 829 531,677 508,600 Accumulated depreciation (300,408 ) (273,420 ) Total $ 231,269 $ 235,180
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

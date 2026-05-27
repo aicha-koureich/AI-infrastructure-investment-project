@@ -1,0 +1,20 @@
+FIRM         : NOW (CIK 0001373715) | FY2015
+FILE         : 0001373715_NOW_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+. Cost of subscription revenues consists primarily of expenses related to hosting our services and providing support to our customers. These expenses are comprised of data center capacity costs, which includes facility costs associated with our data center, depreciation related to our cloud-based infrastructure hardware equipment dedicated for customer use, amortization of acquired developed technology intangibles, personnel related costs directly associated with our cloud-based infrastructure and customer support, including salaries, benefits, bonuses and stock-based compensation and allocated overhead.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+ServiceNow is a leading provider of enterprise cloud computing solutions that define, structure, manage and automate services across the global enterprise. Our mission is to help the modern enterprise operate faster and be more scalable by applying a service-oriented lens to the activities, tasks and processes that comprise day-to-day work life. Our solutions, and the custom solutions built by our customers and partners, are empowering enterprises to change the way people work. We offer our services on an annual subscription fee basis which includes access to the ordered subscription service and related support including updates to the subscribed service during the subscription term. We provide a scaled pricing model based on the duration of the subscription term and we frequently extend discounts to our customers based on the number of users. We generate sales through our direct sales team and indirectly through channel partners and third-party referrals. We also generate revenues from professional services for implementation and training of customer personnel. We generally bill our customers annually in advance for subscription services and monthly in arrears for our professional services as the work is performed. ||| In April 2015, the FASB issued ASU 2015-05, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement. ASU 2015-05 provides guidance to customers about whether a cloud computing arrangement includes software. If a cloud computing arrangement includes a software license, the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The new guidance does not change the customer’s accounting for service contracts. This guidance is effective for our interim and annual reporting periods beginning January 1, 2016. We are currently evaluating the impact of this guidance on our consolidated financial statements.

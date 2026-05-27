@@ -1,0 +1,21 @@
+FIRM         : MSFT (CIK 0000789019) | FY2019
+FILE         : 0000789019_MSFT_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 2
+ASSET CAT.   : Computer equipment, Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-10.0 ans | 2.0-3.0 ans | 3.0-7.0 ans | 5.0-15.0 ans | 7.0 ans | 13.0 ans
+
+[VERBATIM — Durée de vie]
+(In millions) June 30, 2019 2018 Land $ 1,540 $ 1,254 Buildings and improvements 26,288 20,604 Leasehold improvements 5,316 4,735 Computer equipment and software 33,823 27,633 Furniture and equipment 4,840 4,457 Total, at cost 71,807 58,683 Accumulated depreciation (35,330 ) (29,223 ) Total, net $ 36,477 $ 29,460
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Commercial cloud revenue, which includes Microsoft Office 365 Commercial, Microsoft Azure, the commercial portion of LinkedIn, Microsoft Dynamics 365, and other commercial cloud properties, increased 43% to $38.1 billion. ||| Server products and cloud services revenue, including GitHub, increased 25%, driven by Azure growth of 72%. ||| We have recast certain prior period commercial cloud metrics to include the commercial portion of LinkedIn to provide a comparable view of our commercial cloud business performance. The commercial portion of LinkedIn includes LinkedIn Recruiter, Sales Navigator, premium business subscriptions, and other services for organizations.

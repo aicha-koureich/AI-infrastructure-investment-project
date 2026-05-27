@@ -1,0 +1,20 @@
+FIRM         : CSCO (CIK 0000858877) | FY2022
+FILE         : 0000858877_CSCO_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-08-23
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are amortized using the straight-line amortization method over the estimated useful life of the applicable software.
+
+[VERBATIM — Infrastructure IA]
+The Secure, Agile Networks product category represents our core networking offerings related to switching, enterprise routing, wireless, and compute. Secure, Agile Networks revenue increased by 5%, or $1.1 billion, with growth across the portfolio except enterprise routing. Revenue grew in both campus switching and data center switching, primarily driven by growth in our Catalyst 9000 series, Nexus 9000 series and Meraki switching offerings. The decrease in enterprise routing was primarily driven by declines in our Access and Edge offerings. Wireless had double-digit growth driven by our WiFi-6 products and Meraki offerings. Revenue from compute grew primarily driven by our servers.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

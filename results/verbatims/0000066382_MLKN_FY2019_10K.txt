@@ -1,0 +1,21 @@
+FIRM         : MLKN (CIK 0000066382) | FY2019
+FILE         : 0000066382_MLKN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 1, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 19. Quarterly Financial Data (Unaudited)
+ASSET CAT.   : machinery and equipment and do not exceed 40 years for buildings
+DURÉE        : 40.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated useful lives range from 3 to 10 years for machinery and equipment and do not exceed 40 years for buildings. Software for internal use is included in property and equipment and is depreciated over an estimated useful life not exceeding 5 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+years for buildings. Leasehold improvements are depreciated over the lesser of the lease term or the useful life of the asset. The Company capitalizes certain costs incurred in connection with the development, testing and installation of software for internal use and cloud computing arrangements. Software for internal use is included in property and equipment and is depreciated over an estimated useful life not exceeding ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| Property and equipment are stated at cost. The cost is depreciated over the estimated useful lives of the assets using the straight-line method. Estimated useful lives range from 3 to 10 years for machinery and equipment and do not exceed 40 years for buildings. Leasehold improvements are depreciated over the lesser of the lease term or the useful life of the asset. The Company capitalizes certain costs incurred in connection with the development, testing and installation of software for internal use and cloud computing arrangements. Software for internal use is included in property and equipment and is depreciated over an estimated useful life not exceeding 5 years. Depreciation and amortization expense is included in the Consolidated Statements of Comprehensive Income in the Cost of sales, Selling, general and administrative and Design and research line items.

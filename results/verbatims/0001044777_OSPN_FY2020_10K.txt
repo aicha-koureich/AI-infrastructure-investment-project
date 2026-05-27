@@ -1,0 +1,20 @@
+FIRM         : OSPN (CIK 0001044777) | FY2020
+FILE         : 0001044777_OSPN_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2020
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Research and development expenses decreased $1.3 million, or 3% during the year ended December 31, 2020 compared to the year ended December 31, 2019. The decrease in expense for the year ended December 31, 2020 was primarily driven by lower cloud computing costs for our test environment and lower travel costs, partially offset by higher personnel costs. ||| Subscription Revenue: We generate subscription revenues from our cloud services offerings. Subscription revenues mostly include fees from customers for access to the OneSpan Sign, TID, and Dealflo solutions. Our standard customer arrangements do not provide the customer with the right to take possession of the software supporting the cloud-based application service at any time. As such, these arrangements are considered service contracts and revenue is recognized ratably over the service period of the contract. Customer payments are normally in advance for annual service. ||| In August 2018, the FASB issued ASU 2018-15, Customer's Accounting for Fees Paid in a Cloud Computing Arrangement , which helps entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement (CCA) by providing guidance for determining when an arrangement includes a software license and when an arrangement is solely a hosted CCA service. Under ASU 2018-15, customers will apply the same criteria for capitalizing implementation costs as they would for an arrangement that has a software license. The new guidance also prescribes the balance sheet, income statement, and cash flow classification of the capitalized implementation costs and related amortization expense, and requires additional quantitative and qualitative disclosures. We adopted this standard on January 1, 2020 on a prospective basis. The adoption of this standard did not have a material impact on our consolidated financial statements.

@@ -1,0 +1,20 @@
+FIRM         : NDAQ (CIK 0001120193) | FY2014
+FILE         : 0001120193_NDAQ_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Additionally, in June 2013 we acquired the eSpeed platform, which operates a fully executable central limit order book for electronic trading in benchmark U.S. Treasuries, one of the largest and most liquid cash markets in the world, enabling us to enter new markets with a low-cost platform available to both existing and new clients, while creating additional sales opportunities for both our Market Services and Data Products businesses. During 2014 , we move d eSpeed onto Nasdaq infrastructure and into Nasdaq data centers to reduce costs and make these products more accessible to market participants. We also expanded the range of U.S. Treasury Securities traded on the eSpeed platform.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

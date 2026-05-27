@@ -1,0 +1,20 @@
+FIRM         : PYYX (CIK 0000939930) | FY2017
+FILE         : 0000939930_PYYX_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5 – Goodwill and Other Intangibles
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+* Estimated amortization expense for the internally developed software is based on costs accumulated as of March 31, 2018 .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

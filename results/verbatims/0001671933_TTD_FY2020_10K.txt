@@ -1,0 +1,20 @@
+FIRM         : TTD (CIK 0001671933) | FY2020
+FILE         : 0001671933_TTD_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Basis of Presentation and Summary of Significant Accounting Policies Basis of Presentation and Principles of Consolidation
+ASSET CAT.   : equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+On an on-going basis, management evaluates its estimates, primarily those related to: (1) revenue recognition criteria, including the determination of revenue reporting as net versus gross in the Company’s revenue arrangements, (2) allowances for credit losses accounts, (3) operating lease assets and liabilities, including our incremental borrowing rate and terms and provisions of each lease (4) the useful lives of property and equipment and capitalized software development costs, (5) income taxes, (6) assumptions used in the Black-Scholes option pricing model to determine the fair value of stock-based compensation and (7) the recognition and disclosure of contingent liabilities.
+
+[VERBATIM — Infrastructure IA]
+The increase in platform operations expense was primarily due to increases of $14.6 million in hosting costs and $5.7 million in facilities costs and allocated overhead. The increase in hosting costs was primarily attributable to supporting the increased use of our platform by our clients. The increase in facilities costs was primarily driven by new data center locations and leases for additional office space to support our growth.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Cloud computing arrangements (“CCAs”), such as software as a service and other hosting arrangements, are evaluated for capitalized implementation costs in a similar manner as capitalized software development costs. If a CCA includes a software license, the software license element of the arrangement is accounted for in a manner consistent with the acquisition of other software licenses. If a CCA does not include a software license, the service element of the arrangement is accounted for as a service contract. The Company capitalized certain implementation costs for its CCAs that are service contracts, which are included in other assets, non-current . The Company amortizes capitalized implementation costs in a CCA over the life of the service contract. The Company capitalized $1.0 million and $2.9 million of CCA implementation costs in 2020 and 2019, respectively. Amortization expense was $0.9 million and $0.6 million for 2020 and 2019, respectively.

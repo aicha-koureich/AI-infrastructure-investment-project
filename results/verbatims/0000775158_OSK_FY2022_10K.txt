@@ -1,0 +1,21 @@
+FIRM         : OSK (CIK 0000775158) | FY2022
+FILE         : 0000775158_OSK_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : software and related costs
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+The estimated useful lives range from ten to forty years for buildings and improvements, from four to twenty-five years for machinery and equipment and from three to ten years for software and related costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

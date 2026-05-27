@@ -1,0 +1,23 @@
+FIRM         : UAA (CIK 0001336917) | FY2016
+FILE         : 0001336917_UAA_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, including the cost of internal labor for software customized for internal use, less accumulated depreciation and amortization. Property and equipment is depreciated using the straight-line method over the estimated useful lives of the assets:
+
+[VERBATIM — Changement de politique]
+years. The Company periodically reviews assets’ estimated useful lives based upon actual experience and expected future utilization. A change in useful life is treated as a change in accounting estimate and is applied prospectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

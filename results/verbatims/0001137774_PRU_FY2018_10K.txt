@@ -1,0 +1,23 @@
+FIRM         : PRU (CIK 0001137774) | FY2018
+FILE         : 0001137774_PRU_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 24. Subsequent Events
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are carried at cost less accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+in the Individual Life segment, reflecting a change in estimate of reinsurance cash flows associated with universal life products as well as a change in method of reflecting these cash flows in the financial statements. Under the previous method of accounting, with the exception of recoveries pertaining to no lapse guarantees, reinsurance cash flows (e.g., premiums and recoveries) were generally recognized as they occurred. Under the new method, the expected reinsurance cash flows are recognized more ratably over the life of the underlying reinsured policies. In conjunction with this change, the way in which reinsurance is reflected in estimated gross profits used for the amortization of unearned revenue reserves, DAC and VOBA was also revised. The change represents a change in accounting estimate effected by a change in accounting principle and is included within the Company’s annual reviews and update of assumptions and other refinements. The change in accounting estimate reflected insights gained from revised cashflow modeling enabled by a systems conversion, which prompted the change to a preferable accounting method. This new methodology is viewed as preferable as the Company believes it better reflects the economics of reinsurance transactions by aligning the results of reinsurance activity more closely to the underlying direct insurance activity and by better reflecting the profit pattern of this business for purposes of the amortization of the balances noted above.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

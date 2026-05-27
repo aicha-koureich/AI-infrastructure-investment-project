@@ -1,0 +1,20 @@
+FIRM         : EVTC (CIK 0001559865) | FY2024
+FILE         : 0001559865_EVTC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-20
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+On November 19, 2024, the Company signed and closed an agreement to acquire 100% of the share capital of Nubity, Inc ("Nubity"). Nubity is a cloud services provider based in Mexico, specializing in AWS cloud infrastructure management, DevOps, and cloud-native application solutions for clients across Latin America.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+On November 19, 2024, the Company signed and closed an agreement to acquire 100% of the share capital of Nubity, Inc ("Nubity"). Nubity is a cloud services provider based in Mexico, specializing in AWS cloud infrastructure management, DevOps, and cloud-native application solutions for clients across Latin America. ||| Cost of revenues for the year ended December 31, 2024 amounted to $406.4 million, an increase of $69.7 million or 21% when compared to the same period in the prior year. The increase in cost of revenues was primarily driven by an increase in personnel costs, which includes the added headcount in Latin America from the acquisitions completed throughout the year, an increase in cost of sales mainly related to merchant acquiring revenue sharing agreements and the projects completed in Business Solutions and an increase in cloud services and professional fees.

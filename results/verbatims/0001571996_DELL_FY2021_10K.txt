@@ -1,0 +1,20 @@
+FIRM         : DELL (CIK 0001571996) | FY2021
+FILE         : 0001571996_DELL_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-24
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 3 — Subsequent Events
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Fiscal Year Ended January 28, 2022 January 29, 2021 January 31, 2020 Cash flows from operating activities: Net income $ 5,707 $ 3,505 $ 5,529 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 4,551 5,390 6,143 Stock-based compensation expense 1,622 1,609 1,262 Deferred income taxes (365) (399) (6,339) Other, net (a) (3,130) (88) 938 Changes in assets and liabilities, net of effects from acquisitions and dispositions: Accounts receivable (2,193) (396) (286) Financing receivables (241) (728) (1,329) Inventories (2,514) (243) 311 Other assets and liabilities (1,948) (1,656) (1,559) Due from/to related party, net 479 — — Accounts payable 5,742 1,598 894 Deferred revenue 2,597 2,815 3,727 Change in cash from operating activities 10,307 11,407 9,291 Cash flows from investing activities: Purchases of investments (414) (338) (181) Maturities and sales of investments 513 169 497 Capital expenditures and capitalized software development costs (2,796) (2,082) (2,576) Acquisition of businesses and assets, net (16) (424) (2,463) Divestitures of businesses and assets, net 3,957 2,187 (3) Other 62 28 40 Change in cash from investing activities 1,306 (460) (4,686) Cash flows from financing activities: Dividends paid by VMware, Inc. to non-controlling interests (2,240) — — Proceeds from the issuance of common stock 334 452 658 Repurchases of parent common stock (663) (241) (8) Repurchases of subsidiary common stock (1,175) (1,363) (3,547) Net transfer of cash, cash equivalents, and restricted cash to VMware, Inc. (5,052) — — Proceeds from debt 20,425 16,391 20,481 Repayments of debt (26,723) (20,919) (22,117) Debt related costs and other, net (1,515) (270) (71) Change in cash from financing activities (16,609) (5,950) (4,604) Effect of exchange rate changes on cash, cash equivalents, and restricted cash (106) 36 (90) Change in cash, cash equivalents, and restricted cash (5,102) 5,033 (89)
+
+[VERBATIM — Infrastructure IA]
+ISG enables the digital transformation of the Company’s customers through its trusted multi-cloud and big data solutions, which are built upon a modern data center infrastructure. The ISG comprehensive portfolio of advanced storage solutions includes traditional storage solutions as well as next-generation storage solutions (such as all-flash arrays, scale-out file, object platforms, and software-defined solutions), while the Company’s server portfolio includes high-performance rack, blade, tower, and hyperscale servers. The ISG networking portfolio helps business customers transform and modernize their infrastructure, mobilize and enrich end-user experiences, and accelerate business applications and processes. ISG also offers attached software, peripherals, and services, including support and deployment, configuration, and extended warranty services.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

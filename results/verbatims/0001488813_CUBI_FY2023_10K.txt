@@ -1,0 +1,24 @@
+FIRM         : CUBI (CIK 0001488813) | FY2023
+FILE         : 0001488813_CUBI_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 10 – BANK PREMISES AND EQUIPMENT
+ASSET CAT.   : equipment, Furniture
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+The components of bank premises and equipment as of December 31, 2023 and 2022 were as follows: December 31, (amounts in thousands) Expected Useful Life 2023 2022 Leasehold improvements 3 to 25 years $ 13,623 $ 13,514 Furniture, fixtures and equipment 5 to 10 years 6,311 6,082 IT equipment 3 to 5 years 9,566 9,389 Automobiles 3 to 5 years 349 398 29,849 29,383 Accumulated depreciation and amortization (22,478) (20,358) Total $ 7,371 $ 9,025
+
+[VERBATIM — Changement de politique]
+Leased assets under operating leases are reported at amortized cost net of accumulated depreciation and any impairment charges. The depreciation expense of the leased assets is recognized on a straight-line basis over the contractual term of the leases up to their expected residual value. The expected residual value and, accordingly, the monthly depreciation expense, may change throughout the term of the lease. Operating lease rental income for leased assets is recognized in non-interest income on a straight-line basis over the lease term. Customers periodically reviews its leased assets for impairment. An impairment loss is recognized if the carrying amount of the leased asset exceeds its fair value and is not recoverable. The carrying amount of leased assets is not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the lease payments and the estimated residual value upon the eventual disposition of the leased asset.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

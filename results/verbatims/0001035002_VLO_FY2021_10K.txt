@@ -1,0 +1,23 @@
+FIRM         : VLO (CIK 0001035002) | FY2021
+FILE         : 0001035002_VLO_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-17
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF BUSINESS, BASIS OF PRESENTATION, AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+The cost of property, plant, and equipment (property assets) purchased or constructed, including betterments of property assets, is capitalized. However, the cost of repairs to and normal maintenance of property assets is expensed as incurred. Betterments of property assets are those that extend the useful life, increase the capacity or improve the operating efficiency of the asset, or improve the safety of our operations. The cost of property assets constructed includes interest and certain overhead costs allocable to the construction activities.
+
+[VERBATIM — Changement de politique]
+In September 2021 and 2020, we reduced the estimated useful lives of our ethanol plants in Jefferson, Wisconsin and Riga, Michigan, respectively, which reduced their net book values to estimated salvage value. The additional depreciation expense for the years ended December 31, 2021 and 2020 of $48 million and $30 million, respectively, resulting from these changes did not have a material impact on our results of operations nor was there a material impact to our financial position.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

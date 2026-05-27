@@ -1,0 +1,20 @@
+FIRM         : CLFD (CIK 0000796505) | FY2020
+FILE         : 0000796505_CLFD_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment: Property, plant and equipment are recorded at cost. Significant additions or improvements extending asset lives are capitalized, while repairs and maintenance are charged to expense when incurred. Depreciation is provided in amounts sufficient to relate the cost of assets to operations over their estimated useful lives. Leasehold improvements are amortized over the shorter of the remaining term of the lease or estimated life of the asset.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

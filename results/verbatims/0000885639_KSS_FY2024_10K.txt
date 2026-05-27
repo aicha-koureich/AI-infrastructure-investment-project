@@ -1,0 +1,21 @@
+FIRM         : KSS (CIK 0000885639) | FY2024
+FILE         : 0000885639_KSS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-05-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 3. Lea
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+The following tables summarize our operating and finance leases, which are predominately store related, and where they are presented in our Consolidated Financial Statements: Consolidated Balance Sheets (Dollars in Millions) Classification February 1, 2025 February 3, 2024 Assets Operating leases Operating leases $ 2,394 $ 2,499 Finance leases Property and equipment, net 1,666 1,883 Total operating and finance leases 4,060 4,382 Liabilities Current Operating leases Current portion of operating leases 102 102 Finance leases Current portion of finance leases and financing obligations 72 74 Noncurrent Operating leases Operating leases 2,703 2,781 Finance leases Finance leases and financing obligations 2,008 2,242 Total operating and finance leases $ 4,885 $ 5,199 Consolidated Statement of Operations (Dollars in Millions) Classification 2024 2023 2022 Operating leases Selling, general, and administrative $ 276 $ 271 $ 264 Finance Leases Amortization of leased assets Depreciation and amortization 113 121 126 Interest on leased assets Interest expense, net 136 144 140 Total operating and finance leases $ 525 $ 536 $ 530 Consolidated Statement of Cash Flows (Dollars in Millions) 2024 2023 2022 Cash paid for amounts included in measurement of leased liabilities Operating cash flows from operating leases $ 265 $ 272 $ 266 Operating cash flows from finance leases 132 140 133 Financing cash flows from finance leases 74 78 86
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : FTNT (CIK 0001262039) | FY2022
+FILE         : 0001262039_FTNT_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. THE COMPANY AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Computer equipment, Furniture and fixtures
+DURÉE        : 1.0-7.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Estimated Useful Lives Building and building improvements 2 to 40 years Computer equipment and software 1 to 7 years Evaluation units 1 year Furniture and fixtures 3 to 8 years Leasehold improvements Shorter of useful life or lease term
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

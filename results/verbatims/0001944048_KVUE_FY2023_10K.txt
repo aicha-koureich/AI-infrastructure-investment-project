@@ -1,0 +1,23 @@
+FIRM         : KVUE (CIK 0001944048) | FY2023
+FILE         : 0001944048_KVUE_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 3. Property, Plant and Equipment
+ASSET CAT.   : Machinery and equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(Dollars in Millions) December 31, 2023 January 1, 2023 Machinery and equipment $ 2,447 $ 2,280 Buildings and building equipment 1,749 1,709 Software 1,491 1,329 Construction in progress 480 307 Land and land improvements 76 75 Total property, plant and equipment, gross $ 6,243 $ 5,700 Less: accumulated depreciation (4,201) (3,880) Total property, plant and equipment, net $ 2,042 $ 1,820
+
+[VERBATIM — Changement de politique]
+(1) The Company adjusted the allocation for certain intangible asset amortization costs within Cost of sales to align with segment financial results as measured by the Company, including the CODM. Accordingly, the Company has updated its depreciation and amortization disclosures in the impacted period. Total depreciation and amortization did not change as a result of this update.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

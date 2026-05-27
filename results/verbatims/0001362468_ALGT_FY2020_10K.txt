@@ -1,0 +1,20 @@
+FIRM         : ALGT (CIK 0001362468) | FY2020
+FILE         : 0001362468_ALGT_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 5 — Property and Equipment
+ASSET CAT.   : equipment, Computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31, (in thousands) 2020 2019 Flight equipment $ 2,331,499 $ 2,289,157 Computer hardware and software 149,727 171,516 Land and buildings/leasehold improvements (1) 87,030 98,885 Other property and equipment 80,601 161,760 Total property and equipment 2,648,857 2,721,318 Less accumulated depreciation and amortization (598,546) (484,510) Property and equipment, net $ 2,050,311 $ 2,236,808
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

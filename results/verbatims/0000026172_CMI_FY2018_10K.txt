@@ -1,0 +1,20 @@
+FIRM         : CMI (CIK 0000026172) | FY2018
+FILE         : 0000026172_CMI_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 6
+ASSET CAT.   : buildings
+DURÉE        : 20.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We depreciate the cost of the majority of our property, plant and equipment using the straight-line method with depreciable lives ranging from 20 to 40 years for buildings and 3 to 15 years for machinery, equipment and fixtures.
+
+[VERBATIM — Infrastructure IA]
+We anticipate power generation markets will remain strong, with increased demand in global data center markets.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued a new standard that aligns the accounting for implementation costs incurred in a cloud computing arrangement accounted for as a service contract with the model currently used for internal use software costs. Under the new standard, costs that meet certain criteria will be required to be capitalized on the balance sheet and subsequently amortized over the term of the hosting arrangement. The standard is effective for us beginning on January 1, 2020, with early adoption permitted. The standard allows for either prospective or retrospective transition. We are still evaluating the impact of this standard on our financial statements.

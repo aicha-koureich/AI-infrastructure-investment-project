@@ -1,0 +1,23 @@
+FIRM         : ILMN (CIK 0001110803) | FY2013
+FILE         : 0001110803_ILMN_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Machinery and equipment, Computer hardware, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 29, 2013 December 30, 2012 Leasehold improvements $ 104,571 $ 87,734 Machinery and equipment 175,340 158,112 Computer hardware and software 73,544 58,313 Furniture and fixtures 10,511 8,022 Building 7,670 — Construction in progress 8,531 7,390 Total property and equipment, gross 380,167 319,571 Accumulated depreciation (177,501 ) (153,404 ) Total property and equipment, net $ 202,666 $ 166,167
+
+[VERBATIM — Changement de politique]
+In 2012, the Company completed the relocation of its headquarters to another facility in San Diego, California. The Company recorded accelerated depreciation expense for leasehold improvements at its former headquarter facility based on the reassessed useful lives of less than a year. The Company recorded cease-use losses and the corresponding facility exit obligation upon vacating its former headquarters, calculated as the present value of the remaining lease obligation offset by estimated sublease rental receipts during the remaining lease period, adjusted for deferred items and estimated lease incentives. The key assumptions used in the calculation include the amount and timing of estimated sublease rental receipts, and the risk-adjusted discount rate.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

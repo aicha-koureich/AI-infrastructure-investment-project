@@ -1,0 +1,20 @@
+FIRM         : ALRM (CIK 0001459200) | FY2016
+FILE         : 0001459200_ALRM_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 5. Property and Equipment, net
+ASSET CAT.   : Furniture and fixtures, computer software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Furniture and fixtures, computer software and equipment and leasehold improvements are recorded at cost and presented net of depreciation. Furniture and fixtures and computer software and equipment are depreciated straight-line over lives ranging from
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement,” ||| which clarifies the accounting for fees paid by a customer in a cloud computing arrangement by providing guidance as to whether an arrangement includes the sale or license of software. The amendment requires a customer to determine whether a cloud computing arrangement contains a software license. If the arrangement contains a software license, the customer would account for the fees related to the software license element in a manner consistent with how the acquisition of other software licenses is accounted for under Accounting Standards Codification, or ASC, 350-40; if the arrangement does not contain a software license, the customer would account for the arrangement as a service contract. The guidance will not change GAAP for a customer’s accounting for service contracts. The amendment is effective for annual periods, including periods within those annual periods beginning after December 31, 2015 with early adoption permitted. We elected to adopt the amendments prospectively to all arrangements entered into or materially modified after the effective date. We adopted this pronouncement in the first quarter of 2016, and it did not have an impact on our financial statements. ||| On April 15, 2015, the FASB issued ASU 2015-05, “ Intangibles - Goodwill and Other - Internal- Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement,” which clarifies the accounting for fees paid by a customer in a cloud computing arrangement by providing guidance as to whether an arrangement includes the sale or license of software. The amendment requires a customer to determine whether a cloud computing arrangement contains a software license. If the arrangement contains a software license, the customer would account for the fees related to the software license element in a manner consistent with how the acquisition of other software licenses is accounted for under Accounting Standards Codification, or ASC, 350-40; if the arrangement does not contain a software license, the customer would account for the arrangement as a service contract. The guidance will not change GAAP for a customer’s accounting for service contracts. The amendment is effective for annual periods, including periods within those annual periods beginning after December 31, 2015 with early adoption permitted. We elected to adopt the amendments prospectively to all arrangements entered into or materially modified after the effective date. We adopted this pronouncement in the first quarter of 2016, and it did not have an impact on our financial statements.

@@ -1,0 +1,20 @@
+FIRM         : SHW (CIK 0000089800) | FY2021
+FILE         : 0000089800_SHW_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 – SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : buildings
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is charged to expense using the straight-line method over the assets’ estimated useful lives which range from 5 to 25 years for buildings and 3 to 15 years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

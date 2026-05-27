@@ -1,0 +1,21 @@
+FIRM         : SYY (CIK 0000096021) | FY2013
+FILE         : 0000096021_SYY_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 29, 2013
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 1. SUMMARY
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Certain internal and external costs related to the acquisition and development of internal use software being built within our Business Transformation Project are capitalized within plant and equipment during the application development stages of the project. Amortization commenced in August 2012 as the project entered the deployment stage. Additional costs are capitalized for added software that is in the application development stage of the project.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

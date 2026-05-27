@@ -1,0 +1,20 @@
+FIRM         : CPS (CIK 0001320461) | FY2017
+FILE         : 0001320461_CPS_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+– Costs for molds, dies and other tools owned by the Company to produce products under long-term supply arrangements are recorded at cost in property, plant and equipment and amortized over the lesser of
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

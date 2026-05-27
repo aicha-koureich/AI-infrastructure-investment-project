@@ -1,0 +1,20 @@
+FIRM         : LNTH (CIK 0001521036) | FY2021
+FILE         : 0001521036_LNTH_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Certain costs to obtain or develop computer software are capitalized and amortized over the estimated useful life of the software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• Prostate Cancer - We collaborate with pharmaceutical companies developing therapies and diagnostics in prostate cancer. In January 2022, we announced a collaboration with the Prostate Cancer Clinical Trial Consortium (“PCCTC”), a premier multicenter clinical research organization that specializes in prostate cancer research. The intent of the strategic collaboration is to integrate our AI platform into PCCTC studies to advance the development and validation of novel AI-enabled biomarkers. In September 2021, we entered into a development and commercialization collaboration with RefleXion Medical, Inc. to evaluate the use of piflufolastat F 18 to enable real-time therapeutic guidance of biology-guided radiotherapy in prostate cancer using the RefleXion X1 TM platform. Prior to 2021, we had also entered into several other agreements, including ones with Bayer, POINT Biopharma and Regeneron, under which we supply piflufolastat F 18 in connection with their clinical studies, and Curium, under which we licensed exclusive rights to Curium to develop and commercialize piflufolastat F 18 in Europe. ||| - We collaborate with pharmaceutical companies developing therapies and diagnostics in prostate cancer. In January 2022, we announced a collaboration with the Prostate Cancer Clinical Trial Consortium (“PCCTC”), a premier multicenter clinical research organization that specializes in prostate cancer research. The intent of the strategic collaboration is to integrate our AI platform into PCCTC studies to advance the development and validation of novel AI-enabled biomarkers. In September 2021, we entered into a development and commercialization collaboration with RefleXion Medical, Inc. to evaluate the use of piflufolastat F 18 to enable real-time therapeutic guidance of biology-guided radiotherapy in prostate cancer using the RefleXion X1

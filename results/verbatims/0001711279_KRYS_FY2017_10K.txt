@@ -1,0 +1,20 @@
+FIRM         : KRYS (CIK 0001711279) | FY2017
+FILE         : 0001711279_KRYS_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+performance of adequate and well-controlled human clinical trials according to the FDA’s GCP regulations, and any additional requirements for the protection of human research subjects and their health information, to establish the safety and efficacy of the proposed biologic product candidate for its intended use; ||| Before approving a BLA, the FDA will inspect the facilities at which the product candidate is manufactured. The FDA will not approve the product candidate unless it determines that the manufacturing processes and facilities are in compliance with cGMP requirements and adequate to assure consistent production of the product candidate within required specifications. Additionally, before approving a BLA, the FDA typically will inspect one or more clinical sites to assure that the clinical trials were conducted in compliance with IND trial requirements and GCP requirements. ||| Further, we, the FDA or an IRB, may suspend our clinical trials at any time if it appears that we or our collaborators are failing to conduct a trial in accordance with regulatory requirements, including the FDA’s current Good Clinical Practice, or GCP, regulations, that we are exposing participants to unacceptable health risks, or if the FDA finds deficiencies in our IND applications or the conduct of these trials. Therefore, we cannot predict with any certainty the schedule for commencement and completion of future clinical trials. If we experience delays in the commencement or completion of our clinical trials, or if we terminate a clinical trial prior to completion, the commercial prospects of our drug candidates could be negatively impacted, and our ability to generate revenues from our drug candidates may be delayed.

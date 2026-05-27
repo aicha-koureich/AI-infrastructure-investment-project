@@ -1,0 +1,20 @@
+FIRM         : TGT (CIK 0000027419) | FY2013
+FILE         : 0000027419_TGT_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 1, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 20. Leases
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We lease certain retail locations, warehouses, distribution centers, office space, land, equipment and software. Assets held under capital leases are included in property and equipment. Operating lease rentals are expensed on a straight-line basis over the life of the lease beginning on the date we take possession of the property. At lease inception, we determine the lease term by assuming the exercise of those renewal options that are reasonably assured. The exercise of lease renewal options is at our sole discretion. The lease term is used to determine whether a lease is capital or operating and is used to calculate straight-line rent expense. Additionally, the depreciable life of leased assets and leasehold improvements is limited by the expected lease term.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

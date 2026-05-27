@@ -1,0 +1,20 @@
+FIRM         : VRRM (CIK 0001682745) | FY2020
+FILE         : 0001682745_VRRM_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. Property and Equipment, Net
+ASSET CAT.   : Equipment, Computer equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+($ in thousands) 2020 2019 Equipment installed at customer sites $ 80,880 $ 71,464 Software 19,202 13,839 Leasehold improvements 9,938 8,809 Computer equipment 10,974 8,882 Furniture 2,079 1,681 Automobiles 2,899 2,128 Construction in progress 4,876 4,773 Property and equipment 130,848 111,576 Less: accumulated depreciation (60,564 ) (39,310 ) Property and equipment, net $ 70,284 $ 72,266
+
+[VERBATIM — Infrastructure IA]
+The Company adopted the leases guidance under ASC 842, Leases , as of January 1, 2019. The Company’s operating leases primarily consist of office and data center space expiring at various dates through April 2035 . The Company has lease agreements with lease and non-lease components and has elected to account for such components as a single lease component. The Company recognizes and measures contracts containing a lease and determines lease classification at commencement. Right of use operating assets and lease liabilities are measured based on the estimated present value of lease payments over the lease term. In determining the present value of lease payments, the Company used its estimated incremental borrowing rate when the rate implicit in the lease cannot be readily determined. The estimated incremental borrowing rate is based upon information available at lease commencement including publicly available data for debt instruments. The lease term includes periods covered by options to extend when it is reasonably certain the Company will exercise such options as well as periods subsequent to an option to terminate the lease if it is reasonably certain the Company will not exercise the termination option. Operating lease costs are recognized on a straight-line basis over the lease term. Variable lease costs are recognized as incurred. The Company’s lease agreements do not contain any material residual value guarantees or material restrictive covenants. The Company does not have material short-term leases and does not engage in subleasing activities.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

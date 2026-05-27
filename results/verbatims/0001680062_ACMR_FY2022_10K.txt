@@ -1,0 +1,21 @@
+FIRM         : ACMR (CIK 0001680062) | FY2022
+FILE         : 0001680062_ACMR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2022
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES Basis of Presentation and Principles of Consolidation
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment are recorded at cost less accumulated depreciation and any provision for impairment in value.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

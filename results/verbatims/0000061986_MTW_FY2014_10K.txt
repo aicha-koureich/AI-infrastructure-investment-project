@@ -1,0 +1,23 @@
+FIRM         : MTW (CIK 0000061986) | FY2014
+FILE         : 0000061986_MTW_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 25. Subsequent Events
+ASSET CAT.   : Machinery, equipment, Furniture and fixtures, Computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(in millions) 2014 2013 Land $ 31.2 $ 40.8 Building and improvements 344.2 361.2 Machinery, equipment and tooling 509.1 509.0 Furniture and fixtures 24.5 47.8 Computer hardware and software 169.7 125.8 Rental cranes 111.2 89.3 Construction in progress 104.2 102.2 Total cost 1,294.1 1,276.1 Less accumulated depreciation (703.1 ) (697.3 ) Property, plant and equipment-net $ 591.0 $ 578.8
+
+[VERBATIM — Changement de politique]
+The Senior Credit Facility contains financial covenants including (a) a Consolidated Interest Coverage Ratio, which measures the ratio of (i) consolidated earnings before interest, taxes, depreciation and amortization, and other adjustments (Adjusted EBITDA), as defined in the credit agreement to (ii) consolidated cash interest expense, each for the most recent four fiscal quarters; and (b) a Consolidated Senior Secured Leverage Ratio, which measures the ratio of (i) consolidated senior secured indebtedness to (ii) consolidated EBITDA for the most recent four fiscal quarters. The covenant levels of the financial covenants under the New Senior Credit Facility are as set forth below:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

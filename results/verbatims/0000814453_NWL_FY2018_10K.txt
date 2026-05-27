@@ -1,0 +1,25 @@
+FIRM         : NWL (CIK 0000814453) | FY2018
+FILE         : 0000814453_NWL_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, “Intangibles –
+Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is
+a Service Contract.” ASU 2018-15 clarifies the accounting treatment for fees paid by a customer in a cloud computing arrangement (hosting arrangement) by providing guidance for determining when the
+arrangement includes a software license. ASU 2018-15 is effective for public business entities for fiscal years, and interim periods within those years, beginning after December 15, 2019, with early
+adoption permitted. ASU 2018-15 may be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. The Company is currently assessing the impact that
+adoption of ASU 2018-15 will have on the consolidated financial statements.

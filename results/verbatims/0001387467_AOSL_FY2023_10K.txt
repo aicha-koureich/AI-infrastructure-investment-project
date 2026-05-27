@@ -1,0 +1,20 @@
+FIRM         : AOSL (CIK 0001387467) | FY2023
+FILE         : 0001387467_AOSL_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-07-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+A decline of the PC market may have a negative impact on our revenue, factory utilization, gross margin, our ability to resell excess inventory, and other performance measures. We have executed and continue to execute strategies to diversify our product portfolio, penetrate other market segments, including the consumer, communications and industrial markets, and improve gross margins and profit by implementing cost control measures. While making efforts to reduce our reliance on the computing market, we continue to support our computing business and capitalize on the opportunities in this market with a more focused and competitive PC product strategy to gain market share.

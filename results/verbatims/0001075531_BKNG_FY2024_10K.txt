@@ -1,0 +1,20 @@
+FIRM         : BKNG (CIK 0001075531) | FY2024
+FILE         : 0001075531_BKNG_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-20
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+• cloud computing costs and outsourced data center costs;  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+• cloud computing costs and outsourced data center costs; ||| cloud computing costs and outsourced data center costs; ||| Information technology expenses increased year-over-year in 2024 due to an increase in expenses related to cloud computing costs and outsourced data center costs, as well as software license and system maintenance fees.

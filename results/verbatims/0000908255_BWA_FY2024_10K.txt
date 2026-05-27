@@ -1,0 +1,24 @@
+FIRM         : BWA (CIK 0000908255) | FY2024
+FILE         : 0000908255_BWA_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+Costs for molds, dies and other tools used to make products sold on long-term supply arrangements for which the Company has title to the assets are capitalized in property, plant and equipment and amortized to cost of sales over the shorter of the term of the arrangement or over the estimated useful lives of the assets, typically three to five years.
+
+[VERBATIM — Changement de politique]
+Year Ended December 31, (in millions) 2024 2023 2022 Turbos & Thermal Technologies $ 877 $ 874 $ 783 Drivetrain & Morse Systems 1,010 958 783 PowerDrive Systems (144) (90) (88) Battery & Charging Systems (47) (116) (44) Segment Adjusted Operating Income 1,696 1,626 1,434 Corporate, including stock-based compensation 279 278 282 Restructuring expense 74 79 48 Intangible asset amortization expense 69 67 69 Impairment charges 646 29 30 Accelerated depreciation 50 4 — Change in accounting method (29) — — Adjustments associated with Spin-Off related balances 17 — — Commercial contract settlement 15 — — Loss (gain) on sale of businesses 6 (5) (13) Merger and acquisition expense, net 2 23 9 Loss (gain) on sale of assets 2 (13) — Other non-comparable items 19 4 — Equity in affiliates' earnings, net of tax (27) (30) (28) Unrealized and realized loss on equity and debt securities 1 174 73 Interest expense, net 20 10 51 Other postretirement expense (income) 13 15 — Earnings from continuing operations before income taxes and noncontrolling interest $ 539 $ 991 $ 913
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

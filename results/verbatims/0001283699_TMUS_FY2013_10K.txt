@@ -1,0 +1,21 @@
+FIRM         : TMUS (CIK 0001283699) | FY2013
+FILE         : 0001283699_TMUS_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 – Business Combinations
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 7.0 ans | 12.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in property and equipment, net and amortized on a straight-line basis over the estimated useful life of the asset.
+
+[VERBATIM — Infrastructure IA]
+T-Mobile’s components of property and equipment consist of buildings and equipment, wireless communication systems, leasehold improvements, capitalized software and construction in progress. Buildings and equipment include certain network server equipment. Wireless communication systems include assets to operate the Company’s wireless network and IT data centers, including tower asset leaseholds, assets related to the liability for the retirement of long-lived assets and capital leases. Leasehold improvements include asset improvements other than those related to the wireless network.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+– In October 2013, we closed the purchase of 10 MHz of AWS spectrum from U.S. Cellular for $308 million in cash. The spectrum covers a total of 32 million people in 29 markets. In January 2014, we entered into agreements with Verizon for the acquisition of 700 MHz A-Block spectrum licenses in exchange for approximately $2.4 billion in cash and the transfer of certain AWS spectrum and PCS spectrum. The spectrum licenses to be acquired from Verizon cover more than 150 million people, including approximately 50% of the U.S. population and 70% of our existing customer base, in 23 markets. The transaction, which is subject to regulatory approval and other customary closing conditions, is expected to occur in mid-2014. These transactions are expected to further enhance our portfolio of U.S. nationwide broadband spectrum and enable the expansion of LTE coverage to new markets. ||| gain due primarily to an AWS spectrum license exchange, partially offset by costs associated with the terminated AT&T acquisition of T-Mobile USA. ||| in 2012 primarily relates to a gain recorded on an AWS spectrum license exchange, partially offset by expenses associated with the terminated AT&T acquisition of T-Mobile USA. The net expense of

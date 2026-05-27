@@ -1,0 +1,20 @@
+FIRM         : LPX (CIK 0000060519) | FY2021
+FILE         : 0000060519_LPX_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-14
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization expense on property, plant, and equipment was included in our Consolidated Statements of Income as noted below:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

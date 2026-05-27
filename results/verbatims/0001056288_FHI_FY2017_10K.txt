@@ -1,0 +1,20 @@
+FIRM         : FHI (CIK 0001056288) | FY2017
+FILE         : 0001056288_FHI_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Certain internal and external costs incurred in connection with developing or obtaining software for internal use, including software licenses in a cloud computing arrangement, are capitalized in accordance with the applicable accounting guidance relating to Intangibles - Goodwill and Other - Internal-Use Software. These capitalized costs are included in

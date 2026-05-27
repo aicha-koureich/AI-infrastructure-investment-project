@@ -1,0 +1,20 @@
+FIRM         : DORM (CIK 0000868780) | FY2024
+FILE         : 0000868780_DORM_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 4. Property, Plant and Equipment
+ASSET CAT.   : Machinery, equipment, Furniture, computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, (in thousands) 2024 2023 Buildings $ 67,040 $ 62,434 Machinery, equipment, and tooling 223,807 208,086 Furniture, fixtures, and leasehold improvements 18,390 17,083 Software and computer equipment 127,578 113,148 Total 436,815 400,751 Less-accumulated depreciation and amortization (272,316) (240,638) Property, plant and equipment, net $ 164,499 $ 160,113
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

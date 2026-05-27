@@ -1,0 +1,26 @@
+FIRM         : VSAT (CIK 0000797721) | FY2013
+FILE         : 0000797721_VSAT_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : April 4, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Total cost of revenues increased $212.2 million during fiscal year 2013 when compared to fiscal year 2012
+principally related to a cost of service revenues increase of approximately $130.0 million. Cost of service revenues increased from $233.2 million to $363.2 million during fiscal year 2013 when compared to fiscal year 2012 primarily due to an
+increase in service revenues, which caused an increase of approximately $97.0 million in cost of service revenues on a constant margin basis, mainly related to government satellite communications systems services in our government systems segment
+and our Exede broadband services in our satellite services segment. Additionally, in fiscal year 2013 we experienced an increase of cost of service revenues associated with our ViaSat-1 satellite, data center, billing system and costs in connection
+with our Exede broadband services, which commenced commercial operation in January 2012. Cost of product revenues increased from $402.8 million to $485.0 million during fiscal year 2013 when compared to fiscal year 2012 primarily due to increased
+product revenues, which caused an increase of approximately $90.9 million in cost of product revenues on a constant margin basis, mainly related to consumer broadband products in our commercial networks segment and government satellite
+communications systems in our government systems segment. This increase in cost of product revenues was partially offset by improved margins in our commercial networks segment mainly related to consumer broadband products.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

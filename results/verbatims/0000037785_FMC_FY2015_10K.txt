@@ -1,0 +1,23 @@
+FIRM         : FMC (CIK 0000037785) | FY2015
+FILE         : 0000037785_FMC_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 21: Quarterly Financial Information (Unaudited)
+ASSET CAT.   : Capitalized software, computer software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We amortize capitalized software costs over expected useful lives ranging from three to 10 years .
+
+[VERBATIM — Changement de politique]
+Additionally, as part of these restructuring plans, write-downs of long-lived assets may occur. Two types of assets are impacted: assets to be disposed of by sale and assets to be abandoned. Assets to be disposed of by sale are measured at the lower of carrying amount or estimated net proceeds from the sale. Assets to be abandoned with no remaining future service potential are written down to amounts expected to be recovered. The useful life of assets to be abandoned that have a remaining future service potential are adjusted and depreciation is recorded over the adjusted useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

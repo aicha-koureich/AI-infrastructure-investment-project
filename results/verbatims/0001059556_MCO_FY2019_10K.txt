@@ -1,0 +1,21 @@
+FIRM         : MCO (CIK 0001059556) | FY2019
+FILE         : 0001059556_MCO_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 8
+ASSET CAT.   : computer equipment, furniture and fixtures, computer software, equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-10.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+December 31, 2019 2018 Office and computer equipment (3 - 10 year estimated useful life) $ 221 $ 242 Office furniture and fixtures (3 - 10 year estimated useful life) 51 52 Internal-use computer software (1 - 10 year estimated useful life) 619 574 Leasehold improvements and building (1 - 21 year estimated useful life) 240 242 Total property and equipment, at cost 1,131 1,110 Less: accumulated depreciation and amortization (839) (790) Total property and equipment, net $ 292 $ 320
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, “Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract.” This ASU requires implementation costs incurred by customers in cloud computing arrangements (i.e., hosting arrangements) to be capitalized under the same premises of authoritative guidance for internal-use software, and deferred over the non-cancellable term of the cloud computing arrangements plus any option renewal periods that are reasonably certain to be exercised by the customer or for which the exercise is controlled by the service provider. The ASU is effective for all entities for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years, with early adoption permitted. The Company will be required to present the amortization of capitalized implementation costs in the same line item in the statement of operations as the fees associated with the hosting service (i.e. operating and SG&A expense) and classify the related payments in the statement of cash flows in the same manner as payments made for fees associated with the hosting service (i.e. cash flows from operating activities). This ASU also requires capitalization of implementation costs in the balance sheet to be consistent with the location of prepayment of fees for the hosting element (i.e. within other current assets or other assets). The Company will adopt this ASU prospectively to all implementation costs incurred after the date of adoption. The future impact to the Company's financial statements will relate to the aforementioned classification of these capitalized costs and related amortization.

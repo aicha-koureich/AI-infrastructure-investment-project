@@ -1,0 +1,20 @@
+FIRM         : TYL (CIK 0000860731) | FY2021
+FILE         : 0000860731_TYL_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-08
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Investing activities used cash of $2.1 billion in 2021 compared to $98.3 million in 2020. We invested $77.5 million and received $131.4 million in proceeds from investment grade corporate bonds, municipal bonds and asset-backed securities with maturity dates ranging from 2022 through 2027. On March 31, 2021, we completed two acquisitions with the total purchase price, net of cash acquired, of $12.1 million paid in cash. On April 21, 2021, we completed the acquisition of NIC for the total purchase price of $2.0 billion, net of cash acquired of $331.8 million, including cash paid of $2.3 billion and $1.9 million of purchase consideration related to the conversion of unvested restricted stock awards. On September 1, 2021, we acquired VendEngine for the total purchase price, net of cash acquired of $1.7 million, of approximately $83.8 million consisting of $80.2 million paid in cash and approximately $5.4 million related to indemnity holdbacks, subject to certain post-closing adjustments. On September 9, 2021, we acquired all of the equity interest of Arx for the total purchase price, net of cash acquired, of approximately $12.8 million, of which $12.3 million was paid in cash and approximately $0.5 million was accrued for indemnity holdbacks. Approximately $33.9 million was invested in property and equipment, including $12.8 million related to real estate. In addition, approximately $21.7 million of software development was capitalized in 2021. The remaining additions were for computer equipment and furniture and fixtures in support of internal growth, with the majority associated with our data centers supporting growth in our cloud-based offerings. These expenditures were funded from cash generated from operations.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

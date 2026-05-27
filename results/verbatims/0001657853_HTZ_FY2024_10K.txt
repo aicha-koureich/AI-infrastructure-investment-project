@@ -1,0 +1,23 @@
+FIRM         : HTZ (CIK 0001657853) | FY2024
+FILE         : 0001657853_HTZ_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost and are depreciated utilizing the straight-line method over the estimated useful lives of the related assets.
+
+[VERBATIM — Changement de politique]
+During the third quarter of 2024, at the conclusion of the Company’s historical peak rental season, there was a reduction in the cash flow projections in the Americas RAC and International RAC segments, indicating that the carrying values of their long-lived assets may not be recoverable. The reduction was largely attributed to the acceleration of the rental fleet rotation in the segments, where shortening the useful life reduced the potential future cash flows expected to be earned from the fleet. Operating cash flow projections also deteriorated from delayed timing of operating cost improvements and longer timeframes associated with revenue maximization initiatives. As a result, the Company tested the recoverability of its long-lived assets, consisting of revenue earning vehicles, ROU assets and property and equipment (collectively, the “Long-Lived Assets”) in its Americas RAC and International RAC segments by comparing the carrying values against undiscounted future cash flow projections and determined that an impairment existed.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+(8) Represents miscellaneous items. For 2024, primarily includes certain IT-related charges, cloud computing costs and certain storm-related vehicle damages, partially offset by a loss recovery settlement and certain litigation settlements. For 2023, primarily includes certain IT-related charges, certain storm-related vehicle damages and certain professional fees and charges related to the settlement of bankruptcy claims, partially offset by a loss recovery settlement. ||| Represents miscellaneous items. For 2024, primarily includes certain IT-related charges, cloud computing costs and certain storm-related vehicle damages, partially offset by a loss recovery settlement and certain litigation settlements. For 2023, primarily includes certain IT-related charges, certain storm-related vehicle damages and certain professional fees and charges related to the settlement of bankruptcy claims, partially offset by a loss recovery settlement.

@@ -1,0 +1,20 @@
+FIRM         : CFG (CIK 0000759944) | FY2015
+FILE         : 0000759944_CFG_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 - SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : computer software, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Costs related to computer software developed or obtained for internal use are capitalized if the projects improve functionality and provide long-term future operational benefits. Capitalized costs are amortized using the straight-line method over the asset’s expected useful life, based upon the basic pattern of consumption and economic benefits provided by the asset. The Company begins to amortize the software when the asset (or identifiable component of the asset) is substantially complete and ready for its intended use. All other costs incurred in connection with an internal-use software project are expensed as incurred. Capitalized software is included in other assets on the Consolidated Balance Sheets.
+
+[VERBATIM — Infrastructure IA]
+ATMs with advanced deposit-taking functionality as well as additional investment in our Treasury Solutions platform in 2014. In the third quarter of 2015 we enhanced our data resiliency via a new back up data center and began rolling out a new mortgage platform. We expect that these investments will increase our long-term overall efficiency and add to our capacity to increase revenue.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05 “Intangibles - Goodwill and Other - Internal Use Software” which will assist entities in evaluating the accounting for fees paid by a customer in a cloud computing arrangement. The ASU, which allows for early adoption, is effective for the Company beginning on January 1, 2016. Adoption of this guidance is not expected to have a material impact on the Company’s Consolidated Financial Statements.

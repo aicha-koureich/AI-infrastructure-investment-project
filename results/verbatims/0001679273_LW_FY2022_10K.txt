@@ -1,0 +1,20 @@
+FIRM         : LW (CIK 0001679273) | FY2022
+FILE         : 0001679273_LW_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-05-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We recorded $181.5 million, $177.7 million, and $175.3 million of depreciation expense in fiscal 2022, 2021, and 2020, respectively. At May 29, 2022 and May 30, 2021, purchases of property, plant and equipment included in accounts payable were $38.3 million and $23.1 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

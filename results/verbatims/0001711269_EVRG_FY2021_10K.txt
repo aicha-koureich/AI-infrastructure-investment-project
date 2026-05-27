@@ -1,0 +1,20 @@
+FIRM         : EVRG (CIK 0001711269) | FY2021
+FILE         : 0001711269_EVRG_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-02
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 20:
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+economics of rate regulation impacts multiple financial statement line items and disclosures, such as property, plant, and equipment, including asset retirements and abandonments; regulatory assets and liabilities; operating revenues; operating and maintenance expense; and depreciation expense.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

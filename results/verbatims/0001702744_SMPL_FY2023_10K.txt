@@ -1,0 +1,20 @@
+FIRM         : SMPL (CIK 0001702744) | FY2023
+FILE         : 0001702744_SMPL_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-08-26
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 3. Property and Equipment, Net
+ASSET CAT.   : Furniture and fixtures, Computer equipment, Machinery and equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In thousands) August 26, 2023 August 27, 2022 Furniture and fixtures $ 7,291 $ 7,232 Computer equipment and software 1,570 1,432 Machinery and equipment 16,944 6,292 Leasehold improvements 9,747 9,883 Finance lease right-of-use-assets 968 1,185 Construction in progress 221 137 Property and equipment, gross 36,741 26,161 Less: accumulated depreciation (11,880) (8,004) Property and equipment, net $ 24,861 $ 18,157
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

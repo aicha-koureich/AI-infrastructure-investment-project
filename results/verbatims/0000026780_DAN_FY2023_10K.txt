@@ -1,0 +1,21 @@
+FIRM         : DAN (CIK 0000026780) | FY2023
+FILE         : 0000026780_DAN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Leases — Our global lease portfolio represents leases of real estate, including manufacturing, assembly and office facilities, while the remainder represents leases of personal property, including manufacturing, material handling and IT equipment. We have lease agreements with lease and non-lease components, which are accounted for separately. Leases with an initial term of twelve months or less are not recorded on the balance sheet, and we recognize lease expense for these leases on a straight-line basis over the lease term. Generally, we use our incremental borrowing rate in determining the present value of lease payments, unless there is a rate stated in the lease agreement.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

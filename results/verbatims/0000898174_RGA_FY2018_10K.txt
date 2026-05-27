@@ -1,0 +1,20 @@
+FIRM         : RGA (CIK 0000898174) | FY2018
+FILE         : 0000898174_RGA_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 SIGNIFICANT ACCOUNTING POLICIES AND PRONOUNCEMENTS
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, equipment and leasehold improvements, which are included in other assets, are stated at cost, less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

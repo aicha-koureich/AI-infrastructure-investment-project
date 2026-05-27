@@ -1,0 +1,24 @@
+FIRM         : AJG (CIK 0000354190) | FY2024
+FILE         : 0000354190_AJG_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-07
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies Terms Used in Notes to Consolidated Financial Statements ASC - Accounting Standards Codification. ASU - 
+ASSET CAT.   : Office equipment, Furniture and fixtures, Computer equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : B100;B200 (2 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 3.0-5.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation for fixed assets is computed using the straight-line method over the following estimated useful lives: Useful Life Office equipment Three to ten years Furniture and fixtures Two to ten years Computer equipment Three to five years Building Fifteen to forty years Software Three to five years Leasehold improvements Shorter of the lease term or useful life of the asset
+
+[VERBATIM — Changement de politique]
+The unaudited pro forma results above have been prepared for comparative purposes only and do not purport to be indicative of the results of operations which actually would have resulted had these acquisitions occurred at January 1, 2023, nor are they necessarily indicative of future operating results. Annualized revenues of entities acquired in 2024 totaled approximately $ 386.5 million. Total revenues, pre-tax loss and net earnings before interest, income taxes, depreciation, amortization and the change in estimated acquisition earnout payables recorded in our consolidated statement of earnings for 2024 related to the 2024 acquisitions in the aggregate, were $ 169.2 million, $( 18.0 ) million and $ 33.1 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+We have operating leases primarily related to branch facilities, data centers, sales offices, and agent locations, automobiles and office equipment. Many of our leases include both lease (fixed rent payments) and non-lease components (common-area or other maintenance costs) which are accounted for as a single lease component as we have elected the practical expedient to group lease and non-lease components for all leases. Variable lease payments, such as periodically indexed and/or market adjustments, are presented as lease expense in the period in which they are incurred. Since we did not elect the short-term policy election, we record leases of 12 months or less on the balance sheet.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : OSG (CIK 0000874501) | FY2021
+FILE         : 0000874501_OSG_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-07-06
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 15. Net Income Per Share.
+ASSET CAT.   : furniture and fixtures, information technology, equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of furniture and fixtures, certain information technology development costs and electronic data processing equipment is charged over the estimated useful lives of the respective assets, ranging from three to five years, using the straight-line method.
+
+[VERBATIM — Infrastructure IA]
+Ambac is the lessee in operating leases for corporate offices, a data center and equipment. Leases in effect at December 31, 2021, have remaining lease terms ranging from slightly over 2 years to 8 years. Certain of these leases include automatic renewal or early termination provisions. Ambac does not include these provisions in the determination of its lease liabilities and  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

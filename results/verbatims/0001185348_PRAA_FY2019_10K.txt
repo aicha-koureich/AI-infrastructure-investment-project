@@ -1,0 +1,21 @@
+FIRM         : PRAA (CIK 0001185348) | FY2019
+FILE         : 0001185348_PRAA_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 7. Property and Equipment, net:
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 5.0-7.0 ans | 5.0-10.0 ans | 30.0-9.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization expense relating to property and equipment for the years ended December 31, 2019 , 2018 and 2017 was $15.9 million , $15.1 million and $15.4 million , respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

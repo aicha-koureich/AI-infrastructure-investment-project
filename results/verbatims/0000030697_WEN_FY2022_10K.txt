@@ -1,0 +1,23 @@
+FIRM         : WEN (CIK 0000030697) | FY2022
+FILE         : 0000030697_WEN_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-01
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : A100;B100 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+of the assets over their shortened useful lives. Leasehold improvements are amortized over the shorter of their estimated useful lives or the terms of the respective leases, including periods covered by renewal options that the Company is reasonably assured of exercising.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Depreciation and amortization (exclusive of amortization of cloud computing arrangements shown separately below) ||| Amortization of cloud computing arrangements ||| Depreciation and Amortization (exclusive of amortization of cloud computing arrangements shown separately below)

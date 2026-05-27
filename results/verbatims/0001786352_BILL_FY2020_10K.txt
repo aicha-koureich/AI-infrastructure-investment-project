@@ -1,0 +1,21 @@
+FIRM         : BILL (CIK 0001786352) | FY2020
+FILE         : 0001786352_BILL_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 14 – Quarterly Results of Operations (Unaudited)
+ASSET CAT.   : equipment, Capitalized software, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 3.0 ans
+
+[VERBATIM — Durée de vie]
+June 30, 2020 2019 Computers, software and equipment $ 11,262 $ 10,341 Capitalized software 4,026 3,387 Furniture and fixtures 3,116 1,859 Leasehold improvements 9,257 2,435 Property and equipment, gross 27,661 18,022 Less: accumulated depreciation and amortization (13,795 ) (11,465 ) Property and equipment, net $ 13,866 $ 6,557
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract , which requires implementation costs incurred in a hosting arrangement that is a service contract to be capitalized and amortized over the term of the hosting arrangement. As an emerging growth company, ASU 2018-15 may be adopted by the Company effective in fiscal years beginning after December 15, 2020, and interim periods within annual periods beginning after December 15, 2021; however, early adoption is permitted. The Company is planning to adopt this ASU beginning July 1, 2020. The Company does not expect this ASU to have a material impact on its consolidated financial statements. ||| Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract

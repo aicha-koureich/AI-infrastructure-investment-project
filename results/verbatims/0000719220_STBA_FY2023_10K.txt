@@ -1,0 +1,21 @@
+FIRM         : STBA (CIK 0000719220) | FY2023
+FILE         : 0000719220_STBA_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Computer Equipment and Software
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+1) Land and Land Improvements Non-depreciating assets 2) Buildings 25 years 3) Furniture and Fixtures 5 years 4) Computer Equipment and Software 5 years or term of license 5) Other Equipment 5 years 6) Vehicles 5 years 7) Leasehold Improvements Lesser of estimated useful life of the asset (generally 15 years unless established otherwise) or the remaining term of the lease, including renewal options in the lease that are reasonably assured of exercise
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : ADBE (CIK 0000796343) | FY2015
+FILE         : 0000796343_ADBE_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 19. SELECTED QUARTERLY FINANCIAL DATA (unaudited)
+ASSET CAT.   : equipment, Furniture and fixtures, Server
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2015 2014 Computers and equipment $ 940,057 $ 855,218 Furniture and fixtures 89,434 82,385 Server hardware under capital lease — 25,703 Capital projects in-progress 12,394 68,652 Leasehold improvements 247,535 240,506 Land 70,728 106,283 Buildings 398,468 320,410 Total 1,758,616 1,699,157 Less accumulated depreciation and amortization (971,195 ) (914,034 ) Property and equipment, net $ 787,421 $ 785,123
+
+[VERBATIM — Infrastructure IA]
+% Change 2015-2014 % Change 2014-2013 Data center cost 4 % 10 % Compensation cost and related benefits associated with headcount 4 4 Depreciation expense 3 3 Royalty cost 4 3 Amortization of purchased intangibles 3 — Various individually insignificant items 4 1 Total change 22 % 21 %  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Our total deferred revenue of $1.49 billion as of November 27, 2015 increased by $330.0 million , or 29% , from $1.16 billion as of November 28, 2014 , primarily due to increases in Creative Cloud individual and team subscriptions, ETLAs and new contracts and existing renewals for our Adobe Marketing Cloud services. Also contributing to the increase in deferred revenue were the increases associated with our stock photography offering from the acquisition of Fotolia in fiscal 2015. ||| , primarily due to increases in Creative Cloud individual and team subscriptions, ETLAs and new contracts and existing renewals for our Adobe Marketing Cloud services. Also contributing to the increase in deferred revenue were the increases associated with our stock photography offering from the acquisition of Fotolia in fiscal 2015. ||| Our subscription revenue is comprised primarily of fees we charge for our subscription and hosted service offerings including Creative Cloud and certain of our Adobe Marketing Cloud and Document Cloud services. We recognize subscription revenue ratably over the term of agreements with our customers, beginning with commencement of the service. We expect our subscription revenue will continue to increase as a result of our investments in new software-as-a-service (“SaaS”) and subscription models.

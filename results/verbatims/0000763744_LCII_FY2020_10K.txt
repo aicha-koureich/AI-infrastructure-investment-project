@@ -1,0 +1,20 @@
+FIRM         : LCII (CIK 0000763744) | FY2020
+FILE         : 0000763744_LCII_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Fixed assets which are owned are stated at cost less accumulated depreciation, and are depreciated on a straight-line basis over the estimated useful lives of the properties and equipment. Leasehold improvements and leased equipment are amortized over the shorter of the lives of the leases or the underlying assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

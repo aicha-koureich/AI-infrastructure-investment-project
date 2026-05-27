@@ -1,0 +1,23 @@
+FIRM         : EXPI (CIK 0001495932) | FY2018
+FILE         : 0001495932_EXPI_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 15. SUBSEQUENT EVENTS
+ASSET CAT.   : Computer hardware, Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+﻿ ﻿ Year Ended December 31, ﻿ 2018 2017 ﻿ Computer hardware and software $ 3,925,129 $ 1,982,749 Furniture, fixture and equipment 5,910 5,910 Total depreciable property and equipment 3,931,039 1,988,659 Less: accumulated depreciation and amortization (1,320,103) (450,446) Depreciable property, net 2,610,936 1,538,213 Assets under development 128,589 – Fixed assets, net $ 2,739,525 $ 1,538,213
+
+[VERBATIM — Changement de politique]
+Maintenance and repairs are expensed as incurred. Expenditures that substantially increase an asset’s useful life or improve an asset’s functionality are capitalized.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

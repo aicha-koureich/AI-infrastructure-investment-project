@@ -1,0 +1,20 @@
+FIRM         : HSIC (CIK 0001000228) | FY2023
+FILE         : 0001000228_HSIC_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 30, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5 – Business Acquisitions and Divestiture Our acquisition strategy is focused on investments in companies that add new customers and sales teams,
+ASSET CAT.   : Equipment, Machinery, Furniture, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (in millions, except share and per share data) 92 Note 6 – Property and Equipment, Net Property and equipment, including related estimated useful lives, consisted of the following as of: December 30, December 31, 2023 2022 Land $ 21 $ 20 Buildings and permanent improvements 166 135 Leasehold improvements 103 94 Machinery and warehouse equipment 243 169 Furniture, fixtures and other 137 127 Computer equipment and software 500 411 1,170 956 Less accumulated depreciation and amortization (672) (573) Property and equipment, net $ 498 $ 383 Estimated Useful Lives (in years) Buildings and permanent improvements 40 Machinery and warehouse equipment 5 - 10 Furniture, fixtures and other 3 - 10 Computer equipment and software 3 - 10 Leasehold improvements are amortized on a straight-line basis over the lesser of the useful life of the assets or the remaining lease term. Property and equipment related depreciation expense for the years ended December 30, 2023, December 31, 2022 and December 25, 2021, was $ 70 million, $ 68 million and $ 71 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,24 @@
+FIRM         : AMKR (CIK 0001047127) | FY2024
+FILE         : 0001047127_AMKR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 8. Property, Plant and Equipment
+ASSET CAT.   : Machinery and equipment, Furniture, equipment, computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+December 31, 2024 2023 (In thousands) Land $ 246,953 $ 212,722 Buildings and improvements 2,239,481 2,080,589 Machinery and equipment 7,389,787 7,022,614 Finance lease assets 274,302 209,506 Furniture, fixtures and other equipment 18,652 22,655 Software and computer equipment 215,031 200,362 Construction in progress 185,351 223,332 Total property, plant and equipment 10,569,557 9,971,780 Accumulated depreciation and amortization (6,993,409) (6,672,335) Total property, plant and equipment, net $ 3,576,148 $ 3,299,445
+
+[VERBATIM — Changement de politique]
+We periodically assess the estimated useful lives of our property, plant and equipment. Based on our assessment of test equipment and its increased interchangeability enabling broader and longer use, we extended the estimated useful lives of test equipment from five years to seven years as of January 1, 2024.
+
+[VERBATIM — Infrastructure IA]
+Amkor is the world’s largest U.S. headquartered OSAT (outsourced semiconductor assembly and test) service provider. Since its founding in 1968, Amkor has pioneered the outsourcing of IC packaging and test services and is a strategic manufacturing partner for the world’s leading semiconductor companies, foundries, and electronics OEMs. Amkor provides turnkey manufacturing services for the communication, computing, automotive and industrial and consumer markets, including smartphones, data centers, artificial intelligence, electric vehicles and wearables. Amkor’s operational base includes production facilities, research and development centers and sales and support offices located in key electronics manufacturing regions in Asia, Europe and the United States. Amkor has built a leading position by:  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+High performance computing supporting artificial intelligence and increasing demand for improved networking speed and storage within data centers, cloud computing, PCs and laptops, are driving demand for more semiconductors and advanced packaging in the computing end market. Increasing semiconductor content in automobiles is driving increased demand for advanced packaging to enable the proliferation of safety features such as ADAS and radar and digital cockpit features such as infotainment displays and telematics. The IoT wearables within our consumer end market are evolving in multiple applications, such as hearables, watches and augmented reality and virtual reality devices. Integration of multiple functions into small form factors, such as processors, sensors and connectivity devices, relies on innovation in advanced packaging. Within our communications end market, we have a strong position across multiple device functionalities within premium and high tier smartphones. We are collaborating with industry leaders as smartphones transition to include artificial intelligence and drive semiconductor growth through integration of a broad range of applications, enhanced features and higher performance requirements to support increased data processing.

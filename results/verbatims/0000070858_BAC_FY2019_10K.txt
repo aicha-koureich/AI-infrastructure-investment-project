@@ -1,0 +1,20 @@
+FIRM         : BAC (CIK 0000070858) | FY2019
+FILE         : 0000070858_BAC_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 Summary of Significant Accounting Principles
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Corporation provides equipment financing to its customers through a variety of lessor arrangements. Direct financing leases and sales-type leases are carried at the aggregate of lease payments receivable plus the estimated residual value of the leased property less unearned income, which is accreted to interest income over the lease terms using methods that approximate the interest method. Operating lease income is recognized on a straight-line basis. The Corporation's lease arrangements generally do not contain non-lease components.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

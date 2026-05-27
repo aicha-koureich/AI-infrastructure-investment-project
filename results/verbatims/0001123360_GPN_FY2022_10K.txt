@@ -1,0 +1,20 @@
+FIRM         : GPN (CIK 0001123360) | FY2022
+FILE         : 0001123360_GPN_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1—BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment — Property and equipment are stated at cost less accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Our leases consist primarily of operating real estate leases for office space and data centers in the markets in which we conduct business. We also have operating and finance leases for computer and other equipment. Many of our leases include escalating rental payments and incentives, as well as termination and renewal options. Certain of our lease agreements provide that we pay the cost of property taxes, insurance and maintenance.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In addition, we capitalize implementation costs associated with cloud computing arrangements that are service contracts following the same internal-use software capitalization criteria. Our cloud computing arrangements involve services we use to support certain internal corporate functions as well as technology associated with revenue-generating activities. We regularly evaluate whether events or circumstances have occurred that indicate the carrying amount of the capitalized implementation costs may not be recoverable. As of December 31, 2022, capitalized implementation costs, net of accumulated amortization, were $142.9 million and are presented within other noncurrent assets in the consolidated balance sheets. Costs capitalized during the year ended December 31, 2022 totaled $74.7 million.

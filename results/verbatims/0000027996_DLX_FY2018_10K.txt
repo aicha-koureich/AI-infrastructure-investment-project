@@ -1,0 +1,21 @@
+FIRM         : DLX (CIK 0000027996) | FY2018
+FILE         : 0000027996_DLX_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 15: Debt and lease obligations
+ASSET CAT.   : information technology, equipment, Machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 7.0 ans | 11.0 ans
+
+[VERBATIM — Durée de vie]
+The balance of those leased assets placed in service as of December 31 was as follows: (in thousands) 2018 2017 Machinery and equipment $ 6,413 $ 4,676 Accumulated depreciation (4,673 ) (3,522 ) Net assets under capital leases $ 1,740 $ 1,154
+
+[VERBATIM — Infrastructure IA]
+In June 2018, we acquired selected assets of Velocity Servers, Inc., doing business as ColoCrossing, a data center solutions, cloud hosting and infrastructure colocation provider of dedicated hosting services. The preliminary allocation of the purchase price based upon the estimated fair values of the assets acquired and liabilities assumed resulted in tax-deductible goodwill of $9,689 . The acquisition resulted in goodwill as we expect to accelerate revenue growth by bringing colocation services into our portfolio of hosting services. We expect to finalize the allocation of the purchase price in the first quarter of 2019, when our valuation of the acquired intangible assets is complete.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . This standard aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The accounting for the service element of a hosting arrangement that is a service contract is not affected by the new standard. The guidance is effective for us on January 1, 2020 and may be adopted retrospectively or prospectively to eligible costs incurred on or after the date the guidance is first applied. This new guidance will impact our results of operations and financial position as we currently expense these implementation costs as incurred. As we have not historically tracked these costs separately, we are not able to quantify the expected impact on our consolidated financial statements. We plan to adopt the standard prospectively. ||| Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

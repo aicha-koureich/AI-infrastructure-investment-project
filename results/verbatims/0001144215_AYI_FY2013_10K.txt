@@ -1,0 +1,20 @@
+FIRM         : AYI (CIK 0001144215) | FY2013
+FILE         : 0001144215_AYI_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company recorded amortization expense of $0.9 related to capitalized software costs during fiscal 2013 , and $1.1 in fiscal 2012 and 2011 .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

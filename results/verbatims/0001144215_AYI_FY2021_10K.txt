@@ -1,0 +1,20 @@
+FIRM         : AYI (CIK 0001144215) | FY2021
+FILE         : 0001144215_AYI_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-10-05
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 16 — Supplemental Disaggregated Information
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Year Ended August 31, 2021 2020 2019 Cash flows from operating activities: Net income $ 306.3 $ 248.3 $ 330.4 Adjustments to reconcile net income to net cash flows from operating activities: Depreciation and amortization 100.1 101.1 88.3 Share-based payment expense 32.5 38.2 29.2 (Gain) loss on the sale or disposal of property, plant, and equipment (0.1) 0.3 0.9 Asset impairments 6.0 8.8 — Deferred income taxes (2.7) (6.7) 9.3 Changes in operating assets and liabilities, net of acquisitions Accounts receivable (68.7) 74.5 97.7 Inventories (35.5) 38.0 70.8 Prepayments and other current assets (18.2) 12.9 (34.0) Accounts payable 65.5 (19.6) (111.5) Other 23.5 9.0 13.6 Net cash provided by operating activities 408.7 504.8 494.7 Cash flows from investing activities: Purchases of property, plant, and equipment (43.8) (54.9) (53.0) Proceeds from sale of property, plant, and equipment 4.7 0.2 — Acquisitions of businesses, net of cash acquired (75.3) (303.0) (2.9) Other investing activities (3.5) (2.1) 2.9 Net cash used for investing activities (117.9) (359.8) (53.0) Cash flows from financing activities: Issuances of long-term debt 493.8 400.0 86.5 Repayments of long-term debt (401.1) (355.7) (86.9) Repurchases of common stock (434.9) (69.3) (81.6) Proceeds from stock option exercises and other 3.2 0.9 0.6 Payments of taxes withheld on net settlement of equity awards (4.5) (5.4) (6.0) Dividends paid (19.1) (20.8) (20.8) Net cash used for financing activities (362.6) (50.3) (108.2) Effect of exchange rate changes on cash and cash equivalents 2.4 5.0 (1.6) Net change in cash and cash equivalents (69.4) 99.7 331.9 Cash and cash equivalents at beginning of year 560.7 461.0 129.1 Cash and cash equivalents at end of year $ 491.3 $ 560.7 $ 461.0 Supplemental cash flow information: Income taxes paid $ 86.4 $ 64.6 $ 92.9 Interest paid $ 22.2 $ 29.8 $ 35.6
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15 — Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract (“ASU 2018-15”) ||| ASU 2018-15 — Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract ||| In August 2018, the FASB issued ASU 2018-15, which requires customers to apply internal-use software guidance to determine the implementation costs that are able to be capitalized. Capitalized implementation costs are required to be amortized over the term of the arrangement, beginning when the cloud computing arrangement is ready for its intended use. ASU 2018-15 is effective for fiscal years, and interim reporting periods within those years, beginning after December 15, 2019. We adopted ASU 2018-15 as of September 1, 2020 on a prospective basis. This standard did not have a material effect on our financial condition, results of operations, or cash flows.

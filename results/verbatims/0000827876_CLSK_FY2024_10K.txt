@@ -1,0 +1,24 @@
+FIRM         : CLSK (CIK 0000827876) | FY2024
+FILE         : 0000827876_CLSK_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-03
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 11. LEASES As of September 30, 2024, the Company had operating leases primarily for the land leases of its mining facilities in Georgia and Tennessee 
+ASSET CAT.   : equipment
+DURÉE        : 1.8-12.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.8-12.0 ans | 2.6-14.7 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+11. LEASES As of September 30, 2024, the Company had operating leases primarily for the land leases of its mining facilities in Georgia and Tennessee and finance leases primarily related to equipment used at its data center. The mining facilities comprise the Company’s material underlying asset class under operating lease agreements. The Company has no material finance leases. In September 2024, the Company assumed two land leases and three short-term leases in connection with the acquisition of the locations in Tennessee. The lease terms of the land leases range from 1.8 to 12 years. As a result of the acquisition, the Company recognized operating lease liabilities of $ 344, and based upon acquisition cost allocation, recorded right of use assets, net unfavorable terms of $ 47 . The short term leases are expiring in October 2024. As such, the lease payments are recognized on a straight-line basis on the consolidated statements of operations and comprehensive loss. In June 2024, the Company assumed four land leases in connection with the acquisition of the LN Energy locations in Georgia. The lease terms of the LN Energy land leases range from 2.6 to 14.7 years. As a result of the acquisition, the Company recognized operating lease liabilities of $ 243, and based upon acquisition cost allocation, recorded right of use assets of $ 2,550 . In April 2024, the Company entered into a new operating land lease in Dalton, GA for the expansion of a fourth bitcoin mining location. The lease is for a total of $ 18 per year with an initial lease term of five years and one renewal period of five years , for which the Company recorded a right of use asset and operating lease liability of $ 122 .
+
+[VERBATIM — Changement de politique]
+(1) Effective May 1, 2024, the Company reduced the useful life for miners from five years to three years .
+
+[VERBATIM — Infrastructure IA]
+Revenues from Data Center Services  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Revenues from Data Center Services ||| Effective as of September 30, 2023, data center services are no longer provided to external customers. The Company formerly provided data services, such as providing its customers with rack space, power and equipment, and cloud services, such as virtual services, virtual storage and data backup services, generally based on monthly services provided at a defined price included in the contracts. The performance obligations were the services provided to a customer for the month based on the contract. The transaction price was the price agreed with the customer for the monthly services provided and the revenues are recognized monthly based on the services rendered for the month. ||| The total revenue recognized from data center services included as Other services revenue in the Consolidated Statement of Operations and Comprehensive Loss for the years ended September 30, 2024, 2023 and 2022 was $ 0 , $ 287 and $ 525 , respectively.

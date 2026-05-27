@@ -1,0 +1,20 @@
+FIRM         : AWK (CIK 0001410636) | FY2018
+FILE         : 0001410636_AWK_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 7—Regulatory Assets and Liabilities
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+When units of property, plant and equipment are replaced, retired or abandoned, the carrying value is credited against the asset and charged to accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract ||| Updated the accounting and disclosure guidance for cloud computing arrangements that are service contracts. Under this guidance, implementation costs incurred in cloud computing arrangements and in developing or obtaining internal-use software follow the same capitalization requirements. The accounting for the service element of the arrangement remains unchanged.

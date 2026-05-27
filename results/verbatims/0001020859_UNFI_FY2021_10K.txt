@@ -1,0 +1,20 @@
+FIRM         : UNFI (CIK 0001020859) | FY2021
+FILE         : 0001020859_UNFI_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-07-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1—SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, less accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles—Goodwill and Other—Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract . ASU 2018-15 requires implementation costs incurred by customers in cloud computing arrangements (i.e. hosting arrangements) to be capitalized under the same premises as authoritative guidance for internal-use software, and deferred over the noncancellable term of the cloud computing arrangements plus any optional renewal periods that are reasonably certain to be exercised by the customer or for which the exercise is controlled by the service provider. The Company adopted this standard on a prospective basis in fiscal 2021. Under this standard, the Company is required to defer these costs and recognize these costs as a service expense over future periods. Adoption of this standard did not have a material impact on the Company’s Consolidated Financial Statements. ||| Intangibles—Goodwill and Other—Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract ||| . ASU 2018-15 requires implementation costs incurred by customers in cloud computing arrangements (i.e. hosting arrangements) to be capitalized under the same premises as authoritative guidance for internal-use software, and deferred over the noncancellable term of the cloud computing arrangements plus any optional renewal periods that are reasonably certain to be exercised by the customer or for which the exercise is controlled by the service provider. The Company adopted this standard on a prospective basis in fiscal 2021. Under this standard, the Company is required to defer these costs and recognize these costs as a service expense over future periods. Adoption of this standard did not have a material impact on the Company’s Consolidated Financial Statements.

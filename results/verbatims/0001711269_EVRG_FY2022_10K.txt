@@ -1,0 +1,20 @@
+FIRM         : EVRG (CIK 0001711269) | FY2022
+FILE         : 0001711269_EVRG_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-23
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 7. PROPERTY, PLANT AND EQUIPMENT
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2022 Evergy Evergy Kansas Central Evergy Metro (millions) Electric plant in service $ 32,129.3 $ 15,376.9 $ 12,343.3 Electric plant acquisition adjustment 724.3 724.3 — Accumulated depreciation (12,304.9) (5,922.9) (5,065.3) Plant in service 20,548.7 10,178.3 7,278.0 Construction work in progress 1,421.2 819.5 482.6 Nuclear fuel, net 165.8 82.2 83.6 Plant to be retired, net (a) 0.8 0.8 — Net property, plant and equipment $ 22,136.5 $ 11,080.8 $ 7,844.2 December 31, 2021 Evergy Evergy Kansas Central Evergy Metro (millions) Electric plant in service $ 30,289.9 $ 14,686.3 $ 11,656.9 Electric plant acquisition adjustment 724.3 724.3 — Accumulated depreciation (11,515.5) (5,590.8) (4,733.7) Plant in service 19,498.7 9,819.8 6,923.2 Construction work in progress 1,350.6 652.2 475.3 Nuclear fuel, net 152.5 76.1 76.4 Plant to be retired, net (a) 0.8 0.8 — Net property, plant and equipment $ 21,002.6 $ 10,548.9 $ 7,474.9
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

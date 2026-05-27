@@ -1,0 +1,20 @@
+FIRM         : COKE (CIK 0000317540) | FY2016
+FILE         : 0000317540_COKE_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 1, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. Property, Plant and Equipment
+ASSET CAT.   : Machinery and equipment, equipment, Furniture and fixtures
+DURÉE        : 5.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated (in thousands) January 1, 2017 January 3, 2016 Useful Lives Land $ 68,541 $ 24,731 Buildings 201,247 134,496 8-50 years Machinery and equipment 229,119 165,733 5-20 years Transportation equipment 316,929 251,712 4-20 years Furniture and fixtures 78,219 59,500 3-10 years Cold drink dispensing equipment 484,771 398,867 5-17 years Leasehold and land improvements 112,393 94,208 5-20 years Software for internal use 105,405 97,760 3-10 years Construction in progress 14,818 24,632 Total property, plant and equipment, at cost 1,611,442 1,251,639 Less: Accumulated depreciation and amortization 798,453 725,819 Property, plant and equipment, net $ 812,989 $ 525,820
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

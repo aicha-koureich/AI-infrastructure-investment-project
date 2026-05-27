@@ -1,0 +1,22 @@
+FIRM         : MSCI (CIK 0001408198) | FY2015
+FILE         : 0001408198_MSCI_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Cost of revenues consists of costs related to the production and servicing of our products and services and primarily includes related
+information technology costs, including data center, platform and infrastructure costs; costs to acquire, produce and maintain market data information; costs of research to support, maintain and rebalance existing products; costs of product
+management teams; costs of client service and consultant teams to support customer needs; as well as other support costs directly attributable to the cost of revenues including certain human resources, finance and legal costs.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

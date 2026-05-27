@@ -1,0 +1,24 @@
+FIRM         : SO (CIK 0000092122) | FY2023
+FILE         : 0000092122_SO_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2028-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. REGULATORY MATTERS
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : Blackwell (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Southern Company Alabama Power Georgia Power Mississippi Power Southern Company Gas (in millions) At December 31, 2023 AROs (a)(w) $ 5,733 $ 1,936 $ 3,505 $ 247 $ — Retiree benefit plans (b)(w) 3,011 815 976 140 146 Remaining net book value of retired assets (c) 1,357 499 841 17 — Deferred income tax charges (d) 897 262 605 28 — Under recovered regulatory clause revenues (e) 413 381 — 12 20 Fuel-hedging (realized and unrealized) losses (f) 270 100 121 49 — Deferred depreciation (g) 270 143 127 — — Environmental remediation (h)(w) 255 — 20 — 235 Loss on reacquired debt (i) 238 35 197 5 1 Vacation pay (j)(w) 217 83 107 11 16 Software and cloud computing costs (k) 150 59 84 2 5 Regulatory clauses (l) 140 112 — — 28 Storm damage (m) 92 — 54 38 — Nuclear outage (n) 83 50 33 — — Long-term debt fair value adjustment (o) 60 — — — 60 Qualifying repairs of natural gas distribution systems (p) 40 — — — 40 Plant Daniel Units 3 and 4 (q) 25 — — 25 — Kemper County energy facility assets, net (r) 7 — — 7 — Other regulatory assets (s) 182 39 33 18 93 Deferred income tax credits (d) (4,686) (1,506) (2,161) (241) (759) Other cost of removal obligations (a) (1,312) 28 617 (186) (1,771) Over recovered regulatory clause revenues (e) (287) (3) (46) — (238) Reliability reserves (t) (179) (143) — (36) — Storm/property damage reserves (t) (120) (76) — (44) — Customer refunds (u) (19) (15) (4) — — Fuel-hedging (realized and unrealized) gains (f) (6) (5) (1) — Other regulatory liabilities (v) (308) (74) (18) (2) (101) Total regulatory assets (liabilities), net $ 6,523 $ 2,720 $ 5,090 $ 90 $ (2,225)
+
+[VERBATIM — Changement de politique]
+Depreciation studies are conducted periodically to update the composite rates. These studies are filed with the respective state PSC and/or other applicable state and federal regulatory agencies for the traditional electric operating companies and the natural gas distribution utilities. Effective January 1, 2023, Alabama Power's and Georgia Power's depreciation rates were revised. See Note 2 for additional information.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Software and cloud computing costs (k) ||| Southern Company Alabama Power Georgia Power Mississippi Power Southern Company Gas (in millions) At December 31, 2023 AROs (a)(w) $ 5,733 $ 1,936 $ 3,505 $ 247 $ — Retiree benefit plans (b)(w) 3,011 815 976 140 146 Remaining net book value of retired assets (c) 1,357 499 841 17 — Deferred income tax charges (d) 897 262 605 28 — Under recovered regulatory clause revenues (e) 413 381 — 12 20 Fuel-hedging (realized and unrealized) losses (f) 270 100 121 49 — Deferred depreciation (g) 270 143 127 — — Environmental remediation (h)(w) 255 — 20 — 235 Loss on reacquired debt (i) 238 35 197 5 1 Vacation pay (j)(w) 217 83 107 11 16 Software and cloud computing costs (k) 150 59 84 2 5 Regulatory clauses (l) 140 112 — — 28 Storm damage (m) 92 — 54 38 — Nuclear outage (n) 83 50 33 — — Long-term debt fair value adjustment (o) 60 — — — 60 Qualifying repairs of natural gas distribution systems (p) 40 — — — 40 Plant Daniel Units 3 and 4 (q) 25 — — 25 — Kemper County energy facility assets, net (r) 7 — — 7 — Other regulatory assets (s) 182 39 33 18 93 Deferred income tax credits (d) (4,686) (1,506) (2,161) (241) (759) Other cost of removal obligations (a) (1,312) 28 617 (186) (1,771) Over recovered regulatory clause revenues (e) (287) (3) (46) — (238) Reliability reserves (t) (179) (143) — (36) — Storm/property damage reserves (t) (120) (76) — (44) — Customer refunds (u) (19) (15) (4) — — Fuel-hedging (realized and unrealized) gains (f) (6) (5) (1) — Other regulatory liabilities (v) (308) (74) (18) (2) (101) Total regulatory assets (liabilities), net $ 6,523 $ 2,720 $ 5,090 $ 90 $ (2,225) ||| Software and cloud computing costs

@@ -1,0 +1,20 @@
+FIRM         : SONO (CIK 0001314727) | FY2018
+FILE         : 0001314727_SONO_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 12. Quarterly financial data (unaudited)
+ASSET CAT.   : Computer hardware, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2018 2017 (In thousands) Computer hardware and software $ 46,385 $ 42,928 Furniture and fixtures 9,696 9,840 Tooling and production line test equipment 47,297 42,368 Leasehold improvements 53,962 53,479 Product displays 40,265 55,855 Total property and equipment 197,605 204,470 Accumulated depreciation and amortization (112,234 ) (109,340 ) Property and equipment, net $ 85,371 $ 95,130
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Our service revenue includes revenue allocated to (i) unspecified software upgrades and (ii) cloud services that enable products to access third-party music and voice assistant platforms, which are each distinct performance obligations and are provided to customers at no additional charge. Unspecified software upgrades are provided on a when-and-if-available basis and have historically included updates and enhancements such as bug fixes, feature enhancements and updates to the ability to connect to third-party music or voice assistant platforms. Service revenue is recognized ratably over the estimated service period. ||| Judgment is required to determine the standalone selling price ("SSP") for each distinct performance obligation. We estimate SSP for items that are not sold separately, which include the products and related software, unspecified software upgrades and cloud services, using information that may include competitive pricing information, where available, as well as analyses of the cost of providing the products or services plus a reasonable margin. In developing SSP estimates, we also consider the nature of the products and services and the expected level of future services. ||| Determining the revenue recognition period for unspecified software upgrades and cloud services also requires judgment. We recognize revenue attributable to these performance obligations ratably over the best estimate of the period that the customer is expected to receive the services. In developing the estimated period of providing future services, we consider our past history, our plans to continue to provide services, including plans to continue to support updates and enhancements to prior versions of our products, expected technological developments, obsolescence, competition and other factors. The estimated service period may change in the future in response to competition, technology developments and our business strategy.

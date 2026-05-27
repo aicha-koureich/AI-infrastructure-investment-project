@@ -1,0 +1,20 @@
+FIRM         : SFM (CIK 0001575515) | FY2015
+FILE         : 0001575515_SFM_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 3, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, net of accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05, “Customer's Accounting for Fees Paid in a Cloud Computing Arrangement.” ASU No. 2015-05 provides guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If the arrangement does not include a software license, the customer should account for a cloud computing arrangement as a service contract. This guidance will be effective for the Company for its fiscal year 2016. Early adoption is permitted. The amendment may be adopted either prospectively to all arrangements entered into or materially modified after the effective date or retrospectively. The Company is currently evaluating the potential impact of this guidance.

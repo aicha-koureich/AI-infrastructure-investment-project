@@ -1,0 +1,20 @@
+FIRM         : SAFE (CIK 0001095651) | FY2022
+FILE         : 0001095651_SAFE_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3—Summary of Significant Accounting Policies
+ASSET CAT.   : furniture and equipment, the shorter of the remaining lease term or expected life for tenant improvements and the remaining useful life of the facility for facility improvements
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+facilities, five years for furniture and equipment, the shorter of the remaining lease term or expected life for tenant improvements and the remaining useful life of the facility for facility improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

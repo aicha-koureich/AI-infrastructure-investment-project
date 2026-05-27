@@ -1,0 +1,20 @@
+FIRM         : DV (CIK 0001819928) | FY2021
+FILE         : 0001819928_DV_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-16
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : software, which is
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Once this software is ready for use in the Company’s products, these costs are amortized on a straight-line basis over the estimated useful life of the software, which is 3 years. Amortization expense was $3.7 million, $1.4 million, and $0.4 million on capitalized internal-use software costs during the years ended December 31, 2021, 2020 and 2019, respectively. This is included within depreciation expense on Property, plant and equipment, net.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue includes platform hosting fees, data center costs, software and other technology expenses and other costs directly associated with data infrastructure. Cost of revenue also includes personnel costs including salaries, bonuses, stock-based compensation, employee benefit costs, commissions related to revenue share arrangements with Demand-Side Platforms, and allocated overhead expenses for personnel who provide the Company’s customers with support in implementing and using the Company’s software platform. Cost of revenues excludes depreciation and amortization.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Cost of revenue increased by $18.6 million, or 52%, from $35.8 million in the year ended December 31, 2020 to $54.4 million in the year ended December 31, 2021. The increase was primarily due to growth in Advertiser Programmatic revenue which drove increases in partner costs from revenue-sharing arrangements, as well as accelerated investments in cloud services to provide scale and flexibility necessary to support future growth.

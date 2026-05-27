@@ -1,0 +1,21 @@
+FIRM         : KDP (CIK 0001418135) | FY2018
+FILE         : 0001418135_KDP_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 24. Subsequent Events
+ASSET CAT.   : Machinery and equipment, equipment, Computer software
+DURÉE        : 1.0-24.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-7.0 ans | 1.0-8.0 ans
+
+[VERBATIM — Durée de vie]
+Type of Asset Useful Life Buildings and improvements 1 to 41 years Machinery and equipment 1 to 24 years Cold drink equipment 1 to 7 years Computer software 1 to 8 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles - Goodwill and Other - Internal Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| In August 2018, the FASB issued ASU 2018-15, Intangibles - Goodwill and Other - Internal Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (" ASU 2018-15 "). The standard aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal use software. ASU 2018-15 is effective for public companies for annual periods, and interim periods within those annual periods, beginning after December 15, 2019, and early adoption is permitted. The Company will early adopt ASU 2018-15 during the quarter ended March 31, 2019 on a prospective basis.

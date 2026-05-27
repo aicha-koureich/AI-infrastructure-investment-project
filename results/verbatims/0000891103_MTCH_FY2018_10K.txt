@@ -1,0 +1,21 @@
+FIRM         : MTCH (CIK 0000891103) | FY2018
+FILE         : 0000891103_MTCH_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 21—SUBSEQUENT EVENTS (UNAUDITED)
+ASSET CAT.   : Computer equipment, capitalized software, Furniture, equipment
+DURÉE        : 2.0-3.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-3.0 ans | 3.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+Asset Category Estimated Useful Lives Buildings and leasehold improvements 3 to 39 Years Computer equipment and capitalized software 2 to 3 Years Furniture and other equipment 3 to 12 Years
+
+[VERBATIM — Infrastructure IA]
+The Company leases land, office space, data center facilities and equipment used in connection with its operations under various operating leases, many of which contain escalation clauses. The Company is also committed to pay a portion of the related operating expenses under certain lease agreements. These operating expenses are not included in the table below.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+ASU No. 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| In August 2018, the FASB issued ASU No. 2018-15, which clarifies the accounting for implementation costs in a cloud computing arrangement that is a services contract to follow the internal-use software guidance of ASC 350-40,

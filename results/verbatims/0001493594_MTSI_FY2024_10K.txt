@@ -1,0 +1,20 @@
+FIRM         : MTSI (CIK 0001493594) | FY2024
+FILE         : 0001493594_MTSI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : SEPTEMBER 27, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5
+ASSET CAT.   : Computer equipment, Furniture and fixtures, Machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Asset Classification Estimated Useful Life (In Years) Buildings and improvements 20 - 40 Computer equipment and software 2 - 5 Furniture and fixtures 7 - 10 Finance lease assets and leasehold improvements Shorter of useful life or term of lease Machinery and equipment 2 - 7
+
+[VERBATIM — Infrastructure IA]
+Revenue Recognition —Our revenue is derived primarily from sales of high-performance RF, microwave, millimeter wave, optical and photonic semiconductor products into three primary markets: I&D, Data Center and Telecom.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

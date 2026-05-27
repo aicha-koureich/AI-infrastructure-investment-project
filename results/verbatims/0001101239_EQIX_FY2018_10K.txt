@@ -1,0 +1,20 @@
+FIRM         : EQIX (CIK 0001101239) | FY2018
+FILE         : 0001101239_EQIX_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Equinix provides global data center offerings that protect and connect the world's most valued information assets. Global enterprises, financial services companies and content and network service providers rely upon Equinix's leading insight and data centers around the world for the safehousing of their critical IT equipment and the ability to directly connect to the networks that enable today's information-driven economy. The acquisitions of Infomart Dallas and Metronode expanded our total global footprint to  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Historically, our market has been served by large telecommunications carriers who have bundled telecommunications products and services with their colocation offerings. The data center market landscape has evolved to include cloud computing/utility providers, application hosting providers and systems integrators, managed infrastructure hosting providers and colocation providers. More than 350 companies provide data center solutions in the U.S. alone. Each of these data center solutions providers can bundle various colocation, interconnection and network offerings and outsourced IT infrastructure solutions. We are able to offer our customers a global platform that reaches

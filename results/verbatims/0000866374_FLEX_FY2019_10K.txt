@@ -1,0 +1,20 @@
+FIRM         : FLEX (CIK 0000866374) | FY2019
+FILE         : 0000866374_FLEX_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2020
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Machinery and equipment, Furniture, computer equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciable Life (In Years) As of March 31, 2020 2019 (In thousands) Machinery and equipment 3 - 10 $ 3,265,387 $ 3,305,335 Buildings 30 1,085,887 1,111,708 Leasehold improvements up to 30 510,404 453,119 Furniture, fixtures, computer equipment and software 3 - 7 491,959 501,994 Land — 112,016 121,976 Construction-in-progress — 271,026 291,458 5,736,679 5,785,590 Accumulated depreciation and amortization (3,520,688 ) (3,449,377 ) Property and equipment, net $ 2,215,991 $ 2,336,213
+
+[VERBATIM — Infrastructure IA]
+Net sales during fiscal year 2019 increased $0.6 billion, or 8%, in our CEC segment driven by momentum from our cloud and data center business as well as the expansion of network infrastructure programs to support 4G and 5G technology, offset by declines in our data networking business due to weakness with some legacy product lines. Net sales in our IEI segment increased $0.2 billion or 4%, which was mainly driven by new programs and customer launches within our industrial, home and lifestyle businesses, offset by declines in our capital equipment and energy businesses. Net sales in our HRS segment increased $59 million, or 1%, from higher sales in our health solutions business as we benefited from prior year investments in design, engineering and automation that have strengthened and improved our capabilities and competitive positioning that more than offset year over year declines from our automotive customers primarily in Asia. These segment increases were partially offset by a decrease of $107 million, or 1.5%, in our CTG segment, primarily within the legacy consumer sectors of the segment and as a result of actively repositioning the portfolio of customers and rationalizing underperforming customers and eliminating certain product categories.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Net sales during fiscal year 2019 increased $0.6 billion, or 8%, in our CEC segment driven by momentum from our cloud and data center business as well as the expansion of network infrastructure programs to support 4G and 5G technology, offset by declines in our data networking business due to weakness with some legacy product lines. Net sales in our IEI segment increased $0.2 billion or 4%, which was mainly driven by new programs and customer launches within our industrial, home and lifestyle businesses, offset by declines in our capital equipment and energy businesses. Net sales in our HRS segment increased $59 million, or 1%, from higher sales in our health solutions business as we benefited from prior year investments in design, engineering and automation that have strengthened and improved our capabilities and competitive positioning that more than offset year over year declines from our automotive customers primarily in Asia. These segment increases were partially offset by a decrease of $107 million, or 1.5%, in our CTG segment, primarily within the legacy consumer sectors of the segment and as a result of actively repositioning the portfolio of customers and rationalizing underperforming customers and eliminating certain product categories.

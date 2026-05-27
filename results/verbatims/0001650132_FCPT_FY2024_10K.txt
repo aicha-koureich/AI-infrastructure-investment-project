@@ -1,0 +1,20 @@
+FIRM         : FCPT (CIK 0001650132) | FY2024
+FILE         : 0001650132_FCPT_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-13
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

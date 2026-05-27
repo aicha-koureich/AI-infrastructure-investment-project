@@ -1,0 +1,20 @@
+FIRM         : BKH (CIK 0001130464) | FY2024
+FILE         : 0001130464_BKH_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-03
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+• Electric Utilities’ operating income decreased $15.8 million primarily due to unfavorable impacts from unplanned generation outages in 2024, lower off-system excess energy sales, higher insurance expense, and one-time benefits in 2023 from a gain on the sale of Northern Iowa Windpower assets, a gain on sale of land to support data center growth, and a recovery from our business interruption insurance. These unfavorable variances were partially offset by new rates and rider recovery and retail customer growth and usage.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+• Cash outflows decreased $6.7 million from other operating activities primarily due to lower costs from cloud computing arrangements. ||| Cash outflows decreased $6.7 million from other operating activities primarily due to lower costs from cloud computing arrangements.

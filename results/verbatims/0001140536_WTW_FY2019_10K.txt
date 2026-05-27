@@ -1,0 +1,20 @@
+FIRM         : WTW (CIK 0001140536) | FY2019
+FILE         : 0001140536_WTW_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 23 — Financial Information for Issuers and Other Guarantor Subsidiaries
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Furniture, equipment and software Leasehold improvements Land and buildings Total Cost: at January 1, 2018 $ 1,300 $ 468 $ 94 $ 1,862 Additions 249 70 — 319 Disposals (278 ) (35 ) — (313 ) Reclassification due to ASC 606 (i) (102 ) — — (102 ) Foreign exchange (39 ) (15 ) (2 ) (56 ) Cost: at December 31, 2018 1,130 488 92 1,710 Additions 268 68 — 336 Acquisitions 7 3 — 10 Disposals (117 ) (15 ) — (132 ) Reclassification due to ASC 842 (ii) — — (3 ) (3 ) Foreign exchange 14 6 1 21 Cost: at December 31, 2019 $ 1,302 $ 550 $ 90 $ 1,942 Depreciation: at January 1, 2018 $ (652 ) $ (176 ) $ (49 ) $ (877 ) Depreciation expense (iii) (155 ) (54 ) (4 ) (213 ) Disposals 250 27 — 277 Reclassification due to ASC 606 (i) 19 — — 19 Foreign exchange 19 6 1 26 Depreciation: at December 31, 2018 (519 ) (197 ) (52 ) (768 ) Depreciation expense (179 ) (57 ) (4 ) (240 ) Disposals 109 11 — 120 Foreign exchange (5 ) (2 ) (1 ) (8 ) Depreciation: at December 31, 2019 $ (594 ) $ (245 ) $ (57 ) $ (896 ) Net book value: At December 31, 2018 $ 611 $ 291 $ 40 $ 942 At December 31, 2019 $ 708 $ 305 $ 33 $ 1,046
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

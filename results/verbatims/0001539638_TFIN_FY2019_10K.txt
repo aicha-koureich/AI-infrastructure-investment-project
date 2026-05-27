@@ -1,0 +1,20 @@
+FIRM         : TFIN (CIK 0001539638) | FY2019
+FILE         : 0001539638_TFIN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 — SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company leases certain properties and equipment under operating leases. For leases in effect upon adoption of Accounting Standards Update 2016-02, “Leases (Topic 842)” at January 1, 2019 and for any leases commencing thereafter, the Company recognizes a liability to make lease payments, the “lease liability”, and an asset representing the right to use the underlying asset during the lease term, the “right-of-use asset”. The lease liability is measured at the present value of the remaining lease payments, discounted at the Company’s incremental borrowing rate. The right-of-use asset is measured at the amount of the lease liability adjusted for the remaining balance of any lease incentives received, any cumulative prepaid or accrued rent if the lease payments are uneven throughout the lease term, any unamortized initial direct costs, and any impairment of the right-of-use-asset. Operating lease expense consists of a single lease cost calculated so that the remaining cost of the lease is allocated over the remaining lease term on a straight-line basis, variable lease payments not included in the lease liability, and any impairment of the right-of-use asset.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

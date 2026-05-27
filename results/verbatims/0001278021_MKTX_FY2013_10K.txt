@@ -1,0 +1,22 @@
+FIRM         : MKTX (CIK 0001278021) | FY2013
+FILE         : 0001278021_MKTX_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies Basis of Presentation
+ASSET CAT.   : computer hardware, furniture and fixtures
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+The Company depreciates computer hardware and related software, office hardware
+and furniture and fixtures on a straight-line basis over three to seven years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

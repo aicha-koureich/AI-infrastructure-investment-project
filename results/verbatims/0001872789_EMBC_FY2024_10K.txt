@@ -1,0 +1,20 @@
+FIRM         : EMBC (CIK 0001872789) | FY2024
+FILE         : 0001872789_EMBC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-11-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3 — Summary of Accounting Policies
+ASSET CAT.   : buildings
+DURÉE        : 1.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost, less accumulated depreciation. Depreciation is principally provided on the straight-line basis over estimated useful lives, which range from 20 to 45 years for buildings, 4 to 13 years for machinery and equipment and 1 to 20 years for leasehold improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Amortization of cloud computing arrangements ||| For the year ended September 30, 2024, we recognized costs associated with the amortization of cloud computing arrangements. For the year ended September 30, 2023, there was no amortization of implementation costs associated with cloud computing arrangements due to the timing of when these projects were placed into service. ||| Twelve months ended September 30, 2024 2023 Costs related to the Separation $ 118.2 $ 98.3 Amortization of cloud computing arrangements 6.3 — Other — 1.1 Total $ 124.5 $ 99.4

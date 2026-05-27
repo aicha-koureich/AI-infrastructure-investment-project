@@ -1,0 +1,23 @@
+FIRM         : BOX (CIK 0001372612) | FY2020
+FILE         : 0001372612_BOX_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 31, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Such estimates include, but are not limited to, the determination of the allowance for accounts receivable, fair value of acquired intangible assets and goodwill, useful lives of acquired intangible assets and property and equipment, the liability and equity allocation of our convertible senior notes, timing and costs associated with our asset retirement obligations, the nature and timing of satisfaction of performance obligations, estimate of standalone selling price allocation included in contracts with multiple performance obligations, the estimated expected benefit period for deferred commissions, the estimated useful life of capitalized internally developed software costs, observable price changes of non-marketable equity securities, the incremental borrowing rate we use to determine our lease liabilities, fair values of stock-based awards, legal contingencies, the valuation of deferred income tax assets, and unrecognized tax benefits, among others.
+
+[VERBATIM — Changement de politique]
+In accordance with our property and equipment policy, we review the estimated useful lives of our fixed assets on an ongoing basis.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue consists primarily of costs related to providing our subscription services to our paying customers, including employee compensation and related expenses for data center operations, customer support and professional services personnel, payments to outside technology service providers, depreciation of servers and equipment, security services and other tools, as well as amortization expense associated with capitalized internally developed software and acquired technology. We allocate overhead such as rent, information technology costs and employee benefit costs to all departments based on headcount.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We intend to continue scaling our organization to meet the increasingly complex needs of our customers. Our sales and customer success teams are organized to efficiently serve organizations ranging from small businesses to the world’s largest global organizations. We have invested in our sales and marketing teams to sell our services around the world, as well as in our development efforts to deliver additional features and capabilities of our cloud services to address our customers’ evolving needs. We also expect to continue to make investments in both our infrastructure to meet the needs of our growing global user base and our professional services organization (Box Consulting) to address the strategic needs of our customers in more complex deployments and to drive broader adoption across a wide array of use cases.

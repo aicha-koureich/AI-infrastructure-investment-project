@@ -1,0 +1,20 @@
+FIRM         : OSG (CIK 0000874501) | FY2020
+FILE         : 0000874501_OSG_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : furniture and fixtures, information technology, equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of furniture and fixtures, certain information technology development costs and electronic data processing equipment is charged over the estimated useful lives of the respective assets, ranging from three to five years, using the straight-line method.
+
+[VERBATIM — Infrastructure IA]
+Ambac is the lessee in operating leases for corporate offices, a data center and equipment. Ambac's purchase of Xchange resulted in additional office and equipment leases. Leases in effect at December 31, 2020, have remaining lease terms ranging from less than 1 year to 9 years. Our data center lease has an automatic renewal of one-year unless either party elects to terminate by providing 120 days notice prior to the renewal. This renewal feature is not recognized in the lease liability or right-of-use asset as it is not reasonably certain we will elect to renew. An office lease related to Xchange includes a one-time early termination provision. The lease liability and right-of-use asset on this lease consider its full term as Ambac does not reasonably expect to exercise the early termination option. No other leases contain extension or termination provisions.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangement Service Contracts ||| In August 2018, the FASB issued ASU 2018-15, Intangibles—Goodwill and Other— Internal-Use Software (Subtopic 350-40) - Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. The new guidance requires a customer in a cloud computing arrangement that is a service contract to capitalize certain implementation costs as if the arrangement was an internal-use software project. The internal-use software guidance requires the capitalization of certain costs incurred only during the application development stage. That guidance also requires entities to expense costs during the preliminary project and post-implementation stages as they are incurred. Adoption of this ASU did not impact Ambac's financial statements. ||| Intangibles—Goodwill and Other— Internal-Use Software (Subtopic 350-40) - Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.

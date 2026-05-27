@@ -1,0 +1,23 @@
+FIRM         : VCTR (CIK 0001570827) | FY2023
+FILE         : 0001570827_VCTR_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-08
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 8. Property and Equipment The following table presents property and equipment as of December 31, 2023 and 2022: As of December 31, (in thousands)
+ASSET CAT.   : Equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment The following table presents property and equipment as of December 31, 2023 and 2022: As of December 31, (in thousands) 2023 2022 Equipment, purchased software and implementation costs $ 40,713 $ 33,925 Leasehold improvements 4,381 4,380 Furniture and fixtures 3,055 3,036 Total 48,149 41,341 Accumulated depreciation and amortization ( 28,571 ) ( 20,195 ) Total property and equipment, net $ 19,578 $ 21,146 Depreciation and amortization expense for property and equipment was $ 8.8 million, $ 8.0 million and $ 6.2 million for the years ended December 31, 2023, 2022 and 2021, respectively.
+
+[VERBATIM — Changement de politique]
+Capitalized service contract implementation costs are expensed over the fixed, noncancelable term of the contract plus any reasonably certain renewal periods. The estimated term of the hosting arrangement is reassessed periodically, and any change is accounted for as a change in accounting estimate, with the remaining deferred costs recognized over the rest of the revised period. Amortization begins when the related component of the arrangement is ready for its intended use, and costs are evaluated for impairment on an annual basis.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

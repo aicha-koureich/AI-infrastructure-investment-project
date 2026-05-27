@@ -1,0 +1,20 @@
+FIRM         : AZZ (CIK 0000008947) | FY2014
+FILE         : 0000008947_AZZ_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 17. Subsequent Events
+ASSET CAT.   : Machinery and equipment, Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2015 2014 (In thousands) Land $ 16,004 $ 15,116 Building and structures 122,539 117,765 Machinery and equipment 184,921 175,955 Furniture, fixtures, software and computers 21,716 20,497 Automotive equipment 2,351 2,429 Construction in progress 12,193 8,277 359,724 340,039 Less accumulated depreciation (163,141 ) (142,400 ) Net property, plant, and equipment $ 196,583 $ 197,639
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

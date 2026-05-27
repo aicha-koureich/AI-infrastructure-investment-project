@@ -1,0 +1,20 @@
+FIRM         : FOR (CIK 0001406587) | FY2019
+FILE         : 0001406587_FOR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3—Real Estate
+ASSET CAT.   : equipment
+DURÉE        : 2.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful Lives September 30, 2019 2018 (In millions) Buildings and building improvements 10 to 40 years $ 0.9 $ 0.3 Property and equipment 2 to 10 years 3.4 3.1 Total property and equipment 4.3 3.4 Accumulated depreciation (1.9 ) (1.7 ) Property and equipment, net $ 2.4 $ 1.7
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : AXON (CIK 0001069183) | FY2015
+FILE         : 0001069183_AXON_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 18. Supplemental Disclosure to Cash Flows
+ASSET CAT.   : equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Estimated Useful Life 2015 2014 Land N/A $ 2,900 $ 2,900 Building and leasehold improvements 3-39 years 15,246 14,302 Production equipment 3-7 years 18,689 18,443 Computer equipment 3-5 years 8,048 7,209 Furniture and office equipment 5-7 years 4,116 3,066 Vehicles 5 years 713 270 Website development costs 3 years 601 601 Capitalized software development costs 3 years 3,670 3,670 Construction-in-process N/A 3,885 968 Total cost 57,868 51,429 Less: Accumulated depreciation (36,020 ) (33,906 ) Property and equipment, net $ 21,848 $ 17,523
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

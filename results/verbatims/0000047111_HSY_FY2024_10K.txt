@@ -1,0 +1,21 @@
+FIRM         : HSY (CIK 0000047111) | FY2024
+FILE         : 0000047111_HSY_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 19
+ASSET CAT.   : capitalized software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+We amortize software costs using the straight-line method over the expected life of the software, generally 3 to 7 years. Accumulated amortization of capitalized software was $476,611 and $395,410 as of 2024 and 2023, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

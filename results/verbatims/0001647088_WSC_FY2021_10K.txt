@@ -1,0 +1,21 @@
+FIRM         : WSC (CIK 0001647088) | FY2021
+FILE         : 0001647088_WSC_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 - Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-30.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100;B200 (2 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-8.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated Useful Life Buildings and leasehold improvements 10 - 40 years Vehicles, machinery, and equipment 3 - 30 years Furniture and fixtures 3 - 10 years Software 3 - 10 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The Company capitalizes external costs and directly attributable internal costs to acquire or create internal use software incurred subsequent to the completion of the preliminary project stage. Costs associated with post-implementation activities are expensed as incurred. The Company evaluates implementation costs incurred in a cloud computing arrangement that is a service contract as described in Cloud Computing Arrangements below. ||| Costs associated with post-implementation activities are expensed as incurred. The Company evaluates implementation costs incurred in a cloud computing arrangement that is a service contract as described in Cloud Computing Arrangements below. ||| Cloud Computing Arrangements

@@ -1,0 +1,20 @@
+FIRM         : APH (CIK 0000820313) | FY2016
+FILE         : 0000820313_APH_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1—Summary of Significant Accounting Policies
+ASSET CAT.   : machinery and equipment
+DURÉE        : 20.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are carried at cost less accumulated depreciation. Depreciation is recorded on a straight-line basis over the respective asset lives determined on a composite basis by asset group or on a specific item basis using the estimated useful lives of such assets, which range from 3 to 12 years for machinery and equipment and 20 to 40 years for buildings. The Company assesses the impairment of property and equipment subject to depreciation, whenever events or changes in circumstances indicate the carrying value may not be recoverable.
+
+[VERBATIM — Infrastructure IA]
+Net sales were $6,286.4 for the year ended December 31, 2016 compared to $5,568.7 for the year ended December 31, 2015, an increase of 13% in U.S. dollars, 14% in constant currencies and 2% organically (excluding both currency and acquisition impacts) over the prior year. Net sales in the Interconnect Products and Assemblies segment (approximately 94% of net sales) increased 13% in U.S. dollars, 14% in constant currencies and 2% organically in 2016, compared to 2015. The sales growth was driven primarily by growth in the information technology and data communications, industrial, automotive, mobile networks and military markets, with contributions from both the Company’s acquisitions as well as organic strength, partially offset by a decline in sales in the mobile devices market and a slight decline in the commercial aerospace market. Net sales to the information technology and data communications market increased (approximately $404.0), reflecting the benefits of FCI and other acquisitions as well as growth in products for data centers, including server, networking and storage-related applications. Net sales to the industrial market increased (approximately $183.9) reflecting the benefit of acquisitions including FCI as well as sales strength in hybrid bus and truck, factory automation and heavy equipment, which was partially offset by sales declines in products sold into oil and gas exploration and alternative energy applications. Net sales to the automotive market increased (approximately $118.3), driven by both an expansion of our products across a diversified range of vehicles and new onboard electronics as well as contributions from acquisitions. Net sales to the mobile networks market increased (approximately $114.9), primarily due to contributions from acquisitions including FCI as well as increased sales to  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

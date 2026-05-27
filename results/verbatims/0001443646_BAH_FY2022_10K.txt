@@ -1,0 +1,21 @@
+FIRM         : BAH (CIK 0001443646) | FY2022
+FILE         : 0001443646_BAH_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-05-26
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies Basis of Presentation
+ASSET CAT.   : computer equipment is depreciated over
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 4.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost, and the balances are presented net of accumulated depreciation. Furniture and equipment is depreciated over five to ten years, and computer equipment is depreciated over four years.
+
+[VERBATIM — Infrastructure IA]
+• cost cutting and efficiency and effectiveness efforts by U.S. civilian agencies with a focus on increased use of performance measurement, “program integrity” efforts to reduce waste, fraud and abuse in entitlement programs, and renewed focus on improving procurement practices for and interagency use of IT services, including through the use of cloud based options and data center consolidation;  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

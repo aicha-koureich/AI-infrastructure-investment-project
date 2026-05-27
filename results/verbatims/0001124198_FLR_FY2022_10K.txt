@@ -1,0 +1,20 @@
+FIRM         : FLR (CIK 0001124198) | FY2022
+FILE         : 0001124198_FLR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Revenue in 2022 decreased primarily due to the completion of three large mining projects partially offset by increased execution activities on a life sciences project and a mining project in South America. Revenue in 2021 decreased due to the close out of data center projects in Europe and mining projects in South America and Australia as well as the cancellation of a rail project and a steel project that were in progress in the prior year periods.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

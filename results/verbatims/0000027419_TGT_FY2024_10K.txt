@@ -1,0 +1,20 @@
+FIRM         : TGT (CIK 0000027419) | FY2024
+FILE         : 0000027419_TGT_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-02-07
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 10. Property and Equipment
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment, including assets acquired under finance leases, is depreciated using the straight-line method over estimated useful lives or lease terms if shorter.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

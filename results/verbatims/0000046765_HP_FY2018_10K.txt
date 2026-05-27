@@ -1,0 +1,23 @@
+FIRM         : HP (CIK 0000046765) | FY2018
+FILE         : 0000046765_HP_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES, RISKS AND UNCERTAINTIES Basis of Presentation
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost less accumulated depreciation. Substantially all property, plant and equipment are depreciated using the straight-line method based on the estimated useful lives of the assets after deducting their residual values.
+
+[VERBATIM — Changement de politique]
+Depreciation in the Consolidated Statements of Operations of $583.8 million, $585.5 million and $598.6 million includes abandonments of $27.7 million, $42.6 million and $39.3 million for fiscal years 2018, 2017 and 2016, respectively. During 2018, we have shortened the estimated useful lives of certain components of rigs planned for conversion, with a total net book value of $3.7 million, resulting in an increase in depreciation expense during 2018 of approximately $9.7 million. This will also increase the depreciation expense for the next three months by approximately $0.9 million and will decrease the depreciation expense for fiscal years 2019, 2020, 2021, 2022, and 2023 by $2.3 million, $2.3 million, $2.2 million, $1.3 million, and $0.4 million, respectively, and thereafter by $1.0 million.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

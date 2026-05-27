@@ -1,0 +1,20 @@
+FIRM         : FBP (CIK 0001057706) | FY2022
+FILE         : 0001057706_FBP_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 6 – PREMISES AND EQUIPMENT
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Useful Life Range In Years As of December 31, Minimum Maximum 2022 2021 (Dollars in thousands) Buildings and improvements 10 35 $ 135,802 $ 138,524 Leasehold improvements 1 10 76,390 79,419 Furniture, equipment and software 2 10 155,567 148,171 367,759 366,114 Accumulated depreciation and amortization (264,233) (251,659) 103,526 114,455 Land 24,485 23,873 Projects in progress 14,924 8,089 Total premises and equipment, net $ 142,935 $ 146,417
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,25 @@
+FIRM         : NTRS (CIK 0000073124) | FY2014
+FILE         : 0000073124_NTRS_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Buildings and
+equipment owned are carried at original cost less accumulated depreciation. The charge for depreciation is computed using the straight-line method based on the following range of lives: buildings – up to 30 years; equipment – 3
+to 10 years; and leasehold improvements–the shorter of the lease term or 15 years.
+
+[VERBATIM — Infrastructure IA]
+Northern Trust’s business resiliency mitigation and preventative measures include sophisticated physical security, resilient designs
+and peer capacity for its corporate data centers, a highly redundant worldwide network, robust network security, resiliency centers that offer alternative workstations, transfer of work and work-from-home programs that provide further capability by
+allowing staff to work from home.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

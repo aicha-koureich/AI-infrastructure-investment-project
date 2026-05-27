@@ -1,0 +1,21 @@
+FIRM         : WLY (CIK 0000107140) | FY2018
+FILE         : 0000107140_WLY_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : APRIL 30, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 21. Subsequent Events
+ASSET CAT.   : Technology, equipment, Computer Software, Computer Hardware
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 5.0-10.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Technology, property and equipment is depreciated using the straight-line method based upon the following estimated useful lives: Computer Software – 3 to 10 years, Computer Hardware – 3 to 5 years; Buildings and Leasehold Improvements – the lesser of the estimated useful life of the asset up to 40 years or the duration of the lease; Furniture, Fixtures, and Warehouse Equipment – 5 to 10 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles-Goodwill and Other-Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract ||| In August 2018, the FASB issued ASU 2018-15, “Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract.” ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The standard is effective for us on May 1, 2020, and interim periods within that fiscal year, with early adoption permitted. We are currently assessing the impact the new guidance will have on our consolidated financial statements.

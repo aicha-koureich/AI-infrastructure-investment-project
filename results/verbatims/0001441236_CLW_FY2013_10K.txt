@@ -1,0 +1,20 @@
+FIRM         : CLW (CIK 0001441236) | FY2013
+FILE         : 0001441236_CLW_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost, including assets acquired under capital lease obligations and any interest costs capitalized, less accumulated depreciation. Depreciation of buildings, equipment and other depreciable assets is determined using the straight-line method.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : NPKI (CIK 0000071829) | FY2021
+FILE         : 0000071829_NPKI_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 4 — Property, Plant and Equipment
+ASSET CAT.   : Machinery and equipment, Computer hardware, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In thousands) 2021 2020 Land $ 11,820 $ 11,901 Buildings and improvements 118,395 122,961 Machinery and equipment 282,258 285,678 Computer hardware and software 48,389 46,801 Furniture and fixtures 5,879 5,955 Construction in progress 8,194 6,958 474,935 480,254 Less accumulated depreciation (287,046) (268,862) 187,889 211,392 Composite mats (rental fleet) 135,975 126,617 Less accumulated depreciation - composite mats (63,608) (60,313) 72,367 66,304 Property, plant and equipment, net $ 260,256 $ 277,696
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

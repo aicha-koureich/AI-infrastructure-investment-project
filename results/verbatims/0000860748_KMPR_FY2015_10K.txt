@@ -1,0 +1,21 @@
+FIRM         : KMPR (CIK 0000860748) | FY2015
+FILE         : 0000860748_KMPR_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 25—Quarterly Financial Information (Unaudited)
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 1.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation of Property and Equipment
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

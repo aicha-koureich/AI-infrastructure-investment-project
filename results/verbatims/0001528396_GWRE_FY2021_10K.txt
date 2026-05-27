@@ -1,0 +1,20 @@
+FIRM         : GWRE (CIK 0001528396) | FY2021
+FILE         : 0001528396_GWRE_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-08-18
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. The Company and Summary of Significant Accounting Policies and Estimates
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Significant items subject to such estimates include, but are not limited to, revenue recognition, the useful lives of property and equipment and intangible assets, accounts receivable allowances, valuation allowance for deferred tax assets, stock-based compensation, annual bonus attainment, income tax uncertainties, fair value of convertible senior notes and investments, valuation of goodwill and intangible assets, fair value of acquired assets and assumed liabilities, software development costs to be capitalized, leases, and contingencies.
+
+[VERBATIM — Infrastructure IA]
+Because our platform is critical to our new and existing customers’ businesses, their decision-making and product evaluation process is long, which results in an extended sales cycle. These evaluation periods can extend further if a customer purchases multiple services and products or assesses the benefits of a cloud-based subscription. Sales to new customers also involve extensive customer due diligence and reference checks. Our sales cycle has lengthened due to the COVID-19 pandemic. The success of our sales efforts relies on continued improvements and enhancements to our current services and products, the introduction of new services and products, efficient operation of our cloud infrastructure, continued development of relevant local content and automated tools for updating content, and successful implementations.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+These applications are built on and optimized for our Guidewire Cloud Platform (“GWCP”) architecture and leverage our in-house Guidewire Cloud operations team. ||| Our revenue is derived from contracts with customers. The majority of our revenue is derived from subscriptions to our cloud services, licensing arrangements for our software, and implementation and other professional services arrangements. We account for revenue in accordance with Accounting Standards Codification 606, Revenue from Contracts with Customers (“ASC 606”). The core principle of ASC 606 is to recognize revenue upon the transfer of services or products to customers in an amount that reflects the consideration we expect to be entitled to in exchange for those services or products. We apply a five-step framework to recognize revenue as described in our Revenue Recognition policy included in Note 1 of our consolidated financial statements included in this Annual Report on Form 10-K.

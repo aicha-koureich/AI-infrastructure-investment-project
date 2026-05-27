@@ -1,0 +1,20 @@
+FIRM         : NUE (CIK 0000073309) | FY2022
+FILE         : 0000073309_NUE_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is stated at cost, except for property, plant and equipment acquired through acquisitions which is recorded at acquisition date fair value. With the exception of our natural gas wells, depreciation primarily is provided on a straight-line basis over the estimated useful lives of the assets. Depletion of all capitalized costs associated with our natural gas producing properties is expensed on a unit-of-production basis by individual field as the gas from the proved developed reserves is produced. The costs of acquiring unproved natural gas leasehold acreage are capitalized. When proved reserves are found on unproved properties, the associated leasehold cost is transferred to proved properties. Unproved leases are reviewed periodically for any impairment triggering event, and a valuation allowance is provided for any estimated decline in value. The costs of planned major maintenance activities are capitalized as part of other current assets and amortized over the period until the next scheduled major maintenance activity. All other repairs and maintenance activities are expensed when incurred.
+
+[VERBATIM — Infrastructure IA]
+On August 9, 2021, Nucor used cash on hand to acquire the assets of the insulated metal panels, or, IMP, business of Cornerstone Building Brands, Inc. (“Cornerstone”) for a purchase price of $1.00 billion. The Company believes this acquisition will broaden the value-added solutions that Nucor Buildings group provides to targeted end markets such as warehousing, distribution and data centers. We expect these end-use markets to continue to grow in the coming years and that the use of IMP products within them will also increase. IMPs facilitate cost-effective climate control in the built environment and reduce energy usage and overall operations-related GHG emissions for owners and lessees. The acquired IMP business is comprised of two industry leading brands, CENTRIA and Metl-Span, and has seven manufacturing facilities located throughout North America, complementing Nucor’s existing IMP business, TrueCore, LLC. The IMP business financial results are included as part of the steel products segment (see Note 22) beginning on August 9, 2021 , the date Nucor acquired it .  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

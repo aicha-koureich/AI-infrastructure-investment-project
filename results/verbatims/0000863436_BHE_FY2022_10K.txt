@@ -1,0 +1,20 @@
+FIRM         : BHE (CIK 0000863436) | FY2022
+FILE         : 0000863436_BHE_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-03
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 4—Goodwill and Other Intangible Assets
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+and 2020, $ 3.4 m illion, $ 3.4 million and $ 4.9 million, respectively, of purchased software costs were capitalized. Amortization on the statements of cash flow for 2022, 2021 and 2020 was as follows:
+
+[VERBATIM — Infrastructure IA]
+Advanced Computing. 2022 sales increased 56% to $310.5 million from $199.4 million in 2021 primarily due to the planned ramp and execution of high-performance computing programs.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

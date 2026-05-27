@@ -1,0 +1,21 @@
+FIRM         : FTNT (CIK 0001262039) | FY2013
+FILE         : 0001262039_FTNT_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 16. SUBSEQUENT EVENT
+ASSET CAT.   : Computer equipment, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 2.0 ans | 3.0 ans
+
+[VERBATIM — Durée de vie]
+December 31, 2013 December 31, 2012 Land 13,895 13,895 Building and building improvements 610 610 Evaluation units 23,442 18,322 Computer equipment and software 22,442 17,176 Furniture and fixtures 1,697 1,501 Construction-in-progress 10,947 — Leasehold improvements and tooling 5,417 5,354 Total property and equipment 78,450 56,858 Less: accumulated depreciation (41,798 ) (31,220 ) Property and equipment—net 36,652 25,638
+
+[VERBATIM — Infrastructure IA]
+, we also made a significant investment in sales and marketing to increase brand awareness and grow our global sales force and distribution channels to expand our global presence both geographically and by industry segment. As a result, we experienced increased deal volumes driven by traction in enterprise data center deployments and large enterprise deals, with particular strength in the retail, financial and telecommunication sectors.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

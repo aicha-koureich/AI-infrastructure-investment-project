@@ -1,0 +1,20 @@
+FIRM         : OFG (CIK 0001030469) | FY2022
+FILE         : 0001030469_OFG_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 9
+ASSET CAT.   : Furniture and fixtures, Information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Useful Life (Years) December 31, 2022 2021 (In thousands) Land — $ 4,031 $ 4,080 Buildings and improvements 20 — 40 74,349 77,988 Leasehold improvements 1 — 10 17,901 20,929 Furniture and fixtures 3 — 10 23,460 19,378 Information technology and other 3 — 7 59,130 43,156 178,871 165,531 Less: accumulated depreciation and amortization (72,051) (73,407) $ 106,820 $ 92,124
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• Increase of $2.9 million in information technology expenses driven by higher cloud computing expenses, cyber security expenses and new digital projects; ||| Increase of $2.9 million in information technology expenses driven by higher cloud computing expenses, cyber security expenses and new digital projects;

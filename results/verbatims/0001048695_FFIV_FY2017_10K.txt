@@ -1,0 +1,20 @@
+FIRM         : FFIV (CIK 0001048695) | FY2017
+FILE         : 0001048695_FFIV_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software, technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are amortized over the remaining estimated economic life of the product.
+
+[VERBATIM — Infrastructure IA]
+We are a global provider of software-defined application delivery services designed to ensure the fast, secure and reliable delivery of applications and data. Our products include hardware-based software, software-only solutions, cloud-based subscription services and a common management framework that enable customers to accelerate, optimize, secure and manage applications across hybrid computing infrastructures that combine traditional networks and data centers with software-defined networks, virtualized data centers and cloud-based resources. We market and sell our products primarily through multiple indirect sales channels in the Americas (primarily the United States); Europe, the Middle East, and Africa (EMEA); Japan; and the Asia Pacific region (APAC). Enterprise customers (Fortune 1000 or Business Week Global 1000 companies) in the technology, telecommunications, financial services, transportation, education, manufacturing and health care industries, along with government customers, continue to make up the largest percentage of our customer base.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

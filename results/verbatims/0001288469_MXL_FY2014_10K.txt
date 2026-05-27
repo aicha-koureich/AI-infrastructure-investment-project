@@ -1,0 +1,20 @@
+FIRM         : MXL (CIK 0001288469) | FY2014
+FILE         : 0001288469_MXL_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We are a provider of integrated, radio-frequency and mixed-signal integrated circuits for broadband communications and data center, metro, and long-haul transport network applications. Our high performance radio-frequency, or RF, receiver products capture and process digital and analog broadband signals to be decoded for various applications. These products include both RF receivers and RF receiver systems-on-chip, or SoCs, which incorporate our highly integrated radio system architecture and the functionality necessary to receive and demodulate broadband signals, and physical medium devices that provide a constant current source, current-to-voltage regulation, and data alignment and retiming functionality in optical interconnect applications. Our current products receive and process RF and digital signals and enable the display of broadband video and data content in a wide range of electronic devices, including cable and terrestrial and satellite set top boxes, DOCSIS data and voice gateways, and hybrid analog and digital televisions, satellite low-noise blocker transponders or outdoor units and optical modules for data center, metro, and long-haul transport network applications.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

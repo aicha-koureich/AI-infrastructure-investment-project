@@ -1,0 +1,21 @@
+FIRM         : FFIV (CIK 0001048695) | FY2024
+FILE         : 0001048695_FFIV_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 3.0-5.0 ans | 3.0-10.0 ans | 4.5 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are amortized over the remaining estimated economic life of the product.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• Revenues . Our revenue is derived from the sales of both global services and products. Our global services revenue includes annual maintenance contracts, training and consulting services. The majority of our product revenues are derived from sales of our application security and delivery solutions including our BIG-IP software and systems, F5 NGINX software, and our F5 Distributed Cloud Services offerings. Our BIG-IP software solutions are sold both on a perpetual license and a subscription basis. We sell F5 NGINX on a subscription basis. F5 Distributed Cloud Services provides security, multicloud networking, and edge-based computing solutions and are offered on a subscription basis, under a unified software-as-a-service ("SaaS") platform. ||| . Our revenue is derived from the sales of both global services and products. Our global services revenue includes annual maintenance contracts, training and consulting services. The majority of our product revenues are derived from sales of our application security and delivery solutions including our BIG-IP software and systems, F5 NGINX software, and our F5 Distributed Cloud Services offerings. Our BIG-IP software solutions are sold both on a perpetual license and a subscription basis. We sell F5 NGINX on a subscription basis. F5 Distributed Cloud Services provides security, multicloud networking, and edge-based computing solutions and are offered on a subscription basis, under a unified software-as-a-service ("SaaS") platform.

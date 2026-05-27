@@ -1,0 +1,20 @@
+FIRM         : AZTA (CIK 0000933974) | FY2014
+FILE         : 0000933974_AZTA_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 23. Subsequent Events
+ASSET CAT.   : Computer equipment, Machinery and equipment, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+September 30, 2014 2013 Buildings and land $ 47,639 $ 38,539 Computer equipment and software 59,962 72,240 Machinery and equipment 42,104 49,947 Furniture and fixtures 4,774 9,456 Leasehold improvements 17,771 13,937 Capital projects in progress 1,528 2,042 173,778 186,161 Less accumulated depreciation and amortization (123,595 ) (138,655 ) Property, plant and equipment, net $ 50,183 $ 47,506
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : PLUS (CIK 0001022408) | FY2024
+FILE         : 0001022408_PLUS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We are a leading solutions provider in the areas of security, cloud, networking, collaboration, AI, and emerging technologies. We deliver actionable outcomes for organizations by using IT and consulting solutions to drive business agility and innovation. Leveraging our engineering talent, we assess, plan, deliver, and secure solutions comprised of leading technologies and consumption models aligned with our customers’ needs. Our expertise and experience enable us to craft optimized solutions that take advantage of the cost, scale, and efficiency of private, public and hybrid cloud services in an evolving market. ||| Managed services segment sales for the year ended March 31, 2025, increased compared to the year ended March 31, 2024, due to ongoing expansion of these service offerings, primarily related to ongoing growth in enhanced maintenance support, cloud services, and service desk services. ||| Managed services segment margin for the year ended March 31, 2025 , decreased by 110 basis points, compared to the year ended March 31, 2024, due to higher third-party costs incurred for cloud services.

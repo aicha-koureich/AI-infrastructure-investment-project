@@ -1,0 +1,20 @@
+FIRM         : TWLO (CIK 0001447669) | FY2021
+FILE         : 0001447669_TWLO_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Research and development expenses consist primarily of personnel costs, cloud infrastructure fees for staging and development, outsourced engineering services, amortization of capitalized internal-use software development costs and an allocation of general overhead expenses.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue consists primarily of costs of communications services purchased from network service providers. Cost of revenue also includes fees to support the Company's cloud infrastructure, direct costs of personnel, such as salaries and stock-based compensation for the customer care and support services employees, and non-personnel costs, such as amortization of capitalized internal-use software development costs and amortization of acquired intangibles.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Our revenue is primarily derived from usage-based fees earned from customers accessing our enterprise cloud computing services. Platform access is considered a monthly series comprising one performance obligation and usage-based fees are recognized as revenue in the period in which the usage occurs.

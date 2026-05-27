@@ -1,0 +1,20 @@
+FIRM         : KNF (CIK 0001955520) | FY2024
+FILE         : 0001955520_KNF_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 – Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Generally, property, plant and equipment are depreciated on a straight-line basis over the average useful lives of the assets with the exception of large marine equipment, which is computed using units-of-production.
+
+[VERBATIM — Infrastructure IA]
+Our revenue increased $65.9 million in 2023, largely the result of EDGE-related pricing initiatives on all product lines, which together contributed $52.0 million. In addition, higher demand for contracting services work related to public agencies and railroad projects, as well as prestress data center and other projects, accounted for an increase in revenues of $37.7 million. Partially offsetting the increases were lower sales volumes across all product lines of $22.2 million, due in large part to the timing of impact projects in 2023 and decreased demand for asphalt paving and residential work.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

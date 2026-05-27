@@ -1,0 +1,20 @@
+FIRM         : RH (CIK 0001528849) | FY2020
+FILE         : 0001528849_RH_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 30, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 3—SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 10.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized costs are amortized on a straight-line basis over the estimated useful lives of the software, generally between three and ten years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Capitalized cloud computing amortization (c) ||| Represents amortization associated with capitalized cloud computing costs. ||| ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Fiscal 2019 ​ Fiscal 2020 ​ ​ FIRST ​ SECOND ​ THIRD ​ FOURTH ​ FIRST ​ SECOND ​ THIRD ​ FOURTH ​ ​ QUARTER QUARTER QUARTER QUARTER QUARTER QUARTER QUARTER QUARTER ​ ​ (in thousands) Net income (loss) ​ $ 35,722 ​ $ 63,757 ​ $ 52,463 ​ $ 68,433 ​ $ (3,212) ​ $ 98,423 ​ $ 46,411 ​ $ 130,193 Depreciation and amortization ​ ​ 27,189 ​ ​ 25,321 ​ ​ 23,435 ​ ​ 24,794 ​ ​ 24,870 ​ ​ 25,342 ​ ​ 26,476 ​ ​ 23,352 Interest expense—net ​ ​ 21,118 ​ ​ 24,513 ​ ​ 21,564 ​ ​ 19,982 ​ ​ 19,629 ​ ​ 19,418 ​ ​ 15,656 ​ ​ 14,547 Income tax expense (benefit) ​ ​ 11,793 ​ 16,665 ​ ​ 8,353 ​ ​ 11,996 ​ ​ (1,423) ​ ​ 18,879 ​ ​ 49,154 ​ ​ 37,988 EBITDA ​ ​ 95,822 ​ ​ 130,256 ​ ​ 105,815 ​ ​ 125,205 ​ ​ 39,864 ​ ​ 162,062 ​ ​ 137,697 ​ ​ 206,080 Non-cash compensation (a) ​ ​ 5,695 ​ ​ 5,298 ​ ​ 5,116 ​ ​ 5,723 ​ ​ 5,828 ​ ​ 6,861 ​ ​ 118,783 ​ ​ 14,232 Asset impairment and lease losses (b) ​ ​ 483 ​ ​ 629 ​ ​ 1,031 ​ ​ 13,508 ​ ​ 7,133 ​ ​ — ​ ​ 752 ​ ​ 950 (Gain) loss on sale leaseback transaction (b) ​ ​ — ​ ​ — ​ ​ (1,196) ​ ​ — ​ ​ — ​ ​ 9,352 ​ ​ — ​ ​ — (Gain) loss on extinguishment of debt (b) ​ ​ — ​ ​ (954) ​ ​ 6,857 ​ ​ 569 ​ ​ — ​ ​ (152) ​ ​ — ​ ​ — Reorganization related costs (b) ​ ​ — ​ ​ — ​ ​ 1,075 ​ ​ — ​ ​ 4,143 ​ ​ 2,884 ​ ​ — ​ ​ — Recall accrual (b) ​ ​ (1,615) ​ ​ (320) ​ ​ (2,053) ​ ​ — ​ ​ — ​ ​ 4,780 ​ ​ 781 ​ ​ 1,809 Share of equity method investments losses (b) ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ 888 Capitalized cloud computing amortization (c) ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ 462 Gain on sale of land (b) ​ ​ — ​ ​ — ​ ​ (333) ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — Legal settlements (b) ​ ​ — ​ ​ (1,193) ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ — Tradename impairment (b) ​ ​ — ​ ​ — ​ ​ — ​ ​ — ​ ​ 20,459 ​ ​ — ​ ​ — ​ ​ — Adjusted EBITDA ​ $ 100,385 ​ $ 133,716 ​ $ 116,312 ​ $ 145,005 ​ $ 77,427 ​ $ 185,787 ​ $ 258,013 ​ $ 224,421

@@ -1,0 +1,21 @@
+FIRM         : DASH (CIK 0001792789) | FY2022
+FILE         : 0001792789_DASH_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Estimates include, but are not limited to, revenue recognition, allowances for credit losses, gift card breakage, estimated useful lives of property and equipment, capitalized software and website development costs, intangible assets, valuation of stock-based compensation, valuation of investments and other financial instruments including valuation of investments without readily determinable fair values, valuation of acquired intangible assets and goodwill, the incremental borrowing rate applied in lease accounting, insurance reserves, loss contingencies, and income and indirect taxes.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

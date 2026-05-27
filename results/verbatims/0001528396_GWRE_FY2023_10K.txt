@@ -1,0 +1,20 @@
+FIRM         : GWRE (CIK 0001528396) | FY2023
+FILE         : 0001528396_GWRE_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-07-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. The Company and Summary of Significant Accounting Policies and Estimates
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Significant items subject to such estimates include, but are not limited to, revenue recognition, the useful lives of property and equipment and intangible assets, accounts receivable and unbilled accounts receivable allowances, valuation allowance for deferred tax assets, stock-based compensation, annual bonus attainment, income tax uncertainties, fair value of convertible senior notes and investments, valuation of goodwill and intangible assets, fair value of acquired assets and assumed liabilities, software development costs to be capitalized, leases, and contingencies.
+
+[VERBATIM — Infrastructure IA]
+(1) Purchase commitments represent royalty obligations and commitments to purchase goods and services, entered into in the ordinary course of business, for which a penalty could be imposed if the agreement was cancelled for any reason other than an event of default as described by the agreement. During fiscal year 2023, the Company entered into an agreement with a cloud infrastructure services provider for a total obligation of $600 million over a five-year period. Purchase commitments do not include lease obligations (refer to Note 8).  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+InsuranceSuite Cloud is a highly configurable and scalable product, delivered as a service, and primarily comprised of three core applications (PolicyCenter Cloud, BillingCenter Cloud, and ClaimCenter Cloud) that can be subscribed to separately or together. These applications are built on and optimized for our Guidewire Cloud Platform (“GWCP”) architecture and leverage our in-house cloud operations team. InsuranceSuite Cloud is designed to support multiple releases each year to ensure that cloud customers remain on the latest version and gain fast access to our innovation efforts. Additionally, InsuranceSuite Cloud embeds digital and analytics capabilities natively into our platform. Most new sales and implementations are for InsuranceSuite Cloud. ||| Our revenue is derived from contracts with customers. The majority of our revenue is derived from subscriptions to our cloud services, licensing arrangements for our software, and implementation and other professional services arrangements. We account for revenue in accordance with Accounting Standards Codification 606, Revenue from Contracts with Customers (“ASC 606”). The core principle of ASC 606 is to recognize revenue upon the transfer of services or products to customers in an amount that reflects the consideration we expect to be entitled to in exchange for those services or products. We apply a five-step framework to recognize revenue as described in our Revenue Recognition policy included in Note 1 of our consolidated financial statements included in this Annual Report on Form 10-K. ||| We expect our research and development expenses to increase in absolute dollars due to inflation and investments to support our growing customer base, but decrease as a percentage of revenue after a period of significant investment in cloud platform capabilities as overall hiring slows and we focus on hiring in lower cost regions. We continue to dedicate internal resources to develop, improve, and expand the functionality of our solutions and migrate our solutions to the cloud. Research and development expenses may also increase if we pursue additional acquisitions.

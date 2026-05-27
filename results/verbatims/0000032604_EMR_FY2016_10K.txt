@@ -1,0 +1,20 @@
+FIRM         : EMR (CIK 0000032604) | FY2016
+FILE         : 0000032604_EMR_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+in cash, subject to certain post-closing adjustments, and will retain a subordinated interest in distributions, contingent upon the equity holders first receiving a threshold return on their initial investment. This business comprised the former Network Power segment and provides mission-critical infrastructure products and solutions and life cycle management services for vital applications in data centers,  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : DLX (CIK 0000027996) | FY2016
+FILE         : 0000027996_DLX_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 13: Debt and lease obligations
+ASSET CAT.   : information technology, equipment, Machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 7.0 ans | 11.0 ans
+
+[VERBATIM — Durée de vie]
+The balance of those leased assets placed in service as of December 31 was as follows: (in thousands) 2016 2015 Machinery and equipment $ 4,434 $ 4,193 Accumulated depreciation (3,058 ) (1,942 ) Net assets under capital leases $ 1,376 $ 2,251
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05, Customer's Accounting for Fees Paid in a Cloud Computing Arrangement . The standard provides guidance to customers about whether a cloud computing arrangement includes a software license. If the arrangement does include a software license, the software license element of the arrangement should be accounted for in the same manner as the acquisition of other software licenses. We adopted this standard on January 1, 2016, applying it prospectively to all arrangements entered into or materially modified on or after January 1, 2016. Adoption of this standard did not have a significant impact on our results of operations or financial position. ||| Customer's Accounting for Fees Paid in a Cloud Computing Arrangement ||| . The standard provides guidance to customers about whether a cloud computing arrangement includes a software license. If the arrangement does include a software license, the software license element of the arrangement should be accounted for in the same manner as the acquisition of other software licenses. We adopted this standard on January 1, 2016, applying it prospectively to all arrangements entered into or materially modified on or after January 1, 2016. Adoption of this standard did not have a significant impact on our results of operations or financial position.

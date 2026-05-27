@@ -1,0 +1,23 @@
+FIRM         : GSHD (CIK 0001726978) | FY2018
+FILE         : 0001726978_GSHD_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 17. Selected quarterly financial data (unaudited)
+ASSET CAT.   : Furniture, Computer equipment, Network equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31 2018 2017 Furniture & fixtures $ 2,233 $ 1,977 Computer equipment 1,023 662 Network equipment 252 242 Phone system 824 710 Leasehold improvements 6,692 5,788 Total 11,024 9,379 Less accumulated depreciation (3,449 ) (2,534 ) Property and equipment, net $ 7,575 $ 6,845
+
+[VERBATIM — Changement de politique]
+reportable segments: Corporate Channel and Franchise Channel. The Corporate Channel consists of company-owned and financed operations with employees who are hired, trained, and managed by Goosehead. The Franchise Channel network consists of franchisee operations that are owned and managed by individual business owners. These business owners have a contractual relationship with Goosehead to use the Company's processes, systems, and back-office support team to sell insurance and manage their business. In exchange, Goosehead is entitled to an initial franchise fee and ongoing royalty fees. Allocations of contingent commissions and certain operating expenses are based on reasonable assumptions and estimates primarily using revenue, headcount and other information. The Company’s chief operating decision maker uses net income before interest, income taxes, depreciation and amortization, adjusted to exclude equity-based compensation and other non-operating items, including, among other things, certain non-cash charges and certain non-recurring or non-operating gains or losses (“Adjusted EBITDA”) as a performance measure to manage resources and make decisions about the business. Summarized financial information concerning the Company’s reportable segments is shown in the following tables (in thousands). There are no intersegment sales, only interest income and interest expense related to an intersegment line of credit, all of which eliminate in consolidation. The “Other” column includes any income and expenses not allocated to reportable segments and corporate-related items, including equity-based compensation, certain legal expenses and interest related to the note payable.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

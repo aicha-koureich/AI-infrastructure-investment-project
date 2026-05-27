@@ -1,0 +1,20 @@
+FIRM         : GL (CIK 0000320335) | FY2024
+FILE         : 0000320335_GL_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-26
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 7—DAC
+ASSET CAT.   : equipment and software
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment : Property and equipment, included in “Other assets,” is reported at cost less accumulated depreciation. Depreciation is recorded primarily on the straight line method over the estimated useful lives of these assets which range from three to fifteen years for equipment and software, and fifteen to forty years for buildings and improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

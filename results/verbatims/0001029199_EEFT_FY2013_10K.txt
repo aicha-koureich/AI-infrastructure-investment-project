@@ -1,0 +1,21 @@
+FIRM         : EEFT (CIK 0001029199) | FY2013
+FILE         : 0001029199_EEFT_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : ERROR | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Other assets include deferred financing costs, investments in unconsolidated affiliates, capitalized software development costs and capitalized payments for new or renewed contracts, contract renewals and customer conversion costs. Deferred financing costs represent expenses incurred to obtain financing that have been deferred and are being amortized over the life of the loan. Euronet capitalizes initial payments for new or renewed contracts to the extent recoverable through future operations, contractual minimums and/or penalties in the case of early termination. The Company's accounting policy is to limit the amount of capitalized costs for a given contract to the lesser of the estimated ongoing net future cash flows related to the contract or the termination fees the Company would receive in the event of early termination of the contract by the customer.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

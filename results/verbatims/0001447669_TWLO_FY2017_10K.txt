@@ -1,0 +1,29 @@
+FIRM         : TWLO (CIK 0001447669) | FY2017
+FILE         : 0001447669_TWLO_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies (Continued)
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Research
+and development expenses consist primarily of personnel costs, cloud infrastructure fees for staging and development, outsourced engineering services, amortization of
+capitalized internal-use software development costs and an allocation of general overhead expenses.
+
+[VERBATIM — Infrastructure IA]
+Research
+and development expenses consist primarily of personnel costs, cloud infrastructure fees for staging and development, outsourced engineering services, amortization of
+capitalized internal-use software development costs and an allocation of general overhead expenses. The Company capitalizes
+the portion of its software development costs that meets the criteria for capitalization.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The
+Company derives its revenue primarily from usage-based fees earned from customers accessing the Company's enterprise cloud computing services invoiced or paid monthly. The Company
+provides services to its customers under pay-as-you-go contracts and term-based contracts ranging in duration from one month to 48 months. Customers that pay via credit card are either billed
+in advance or as they use service. Larger customers are billed in arrears via invoices for services used. Certain customers have contracts that provide for a minimum monthly commitment and some
+customers have contracts that provide for a commitment that may be of a quarterly, annual or other specific durations.

@@ -1,0 +1,23 @@
+FIRM         : TDG (CIK 0001260221) | FY2018
+FILE         : 0001260221_TDG_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is assessed for potential impairment whenever indicators of impairment are present by determining whether the carrying value of the property can be recovered through projected, undiscounted cash flows from future operations over the property’s remaining estimated useful life.
+
+[VERBATIM — Changement de politique]
+—Property, plant and equipment are stated at cost and include improvements which significantly increase capacities or extend the useful lives of existing plant and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

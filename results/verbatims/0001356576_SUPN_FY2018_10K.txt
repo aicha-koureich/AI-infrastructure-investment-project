@@ -1,0 +1,26 @@
+FIRM         : SUPN (CIK 0001356576) | FY2018
+FILE         : 0001356576_SUPN_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 20. Subsequent Event (Continued)
+ASSET CAT.   : equipment and furniture, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2018 December 31, 2017 Lab equipment and furniture $ 8,995 $ 8,331 Leasehold improvements 2,731 2,731 Software 2,181 2,004 Computer equipment 1,313 1,226 Construction-in-progress 94 178 ​ ​ ​ ​ ​ ​ ​ ​ 15,314 14,470 Less accumulated depreciation and amortization (11,219 ) (9,346 ) ​ ​ ​ ​ ​ ​ ​ ​ $ 4,095 $ 5,124 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+
+[VERBATIM — Changement de politique]
+In
+March 2017, the Company entered into two settlements with several companies related to Trokendi XR patent litigation, which effectively reduced the remaining life of the Trokendi XR patents. The
+remaining unamortized aggregate capitalized patent defense costs for Trokendi XR have subsequently been amortized over the reduced remaining useful life of the patents at issue, or January 1,
+2023. This is the date the Company is obligated under the settlements to grant a non-exclusive license to the patents at issue.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

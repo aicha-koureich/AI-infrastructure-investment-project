@@ -1,0 +1,20 @@
+FIRM         : MTW (CIK 0000061986) | FY2022
+FILE         : 0000061986_MTW_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies Cash and Cash Equivalents The Company considers all cash and short-term investments purchased with an or
+ASSET CAT.   : equipment, Machinery, Furniture and fixtures, Computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are generally depreciated over the following estimated useful lives: Years Building and improvements 15 - 40 Machinery, equipment and tooling 10 - 15 Furniture and fixtures 5 - 10 Computer hardware and software 3 Rental cranes 5 - 15
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

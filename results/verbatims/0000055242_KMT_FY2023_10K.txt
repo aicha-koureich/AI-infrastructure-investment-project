@@ -1,0 +1,21 @@
+FIRM         : KMT (CIK 0000055242) | FY2023
+FILE         : 0000055242_KMT_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 — SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment over
+DURÉE        : 4.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 4.0-15.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation for financial reporting purposes is computed using the straight-line method over the following estimated useful lives: building and improvements over 15-40 years; machinery and equipment over 4-15 years; furniture and fixtures over 5-10 years and computer hardware and software over 3-5 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

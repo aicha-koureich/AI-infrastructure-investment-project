@@ -1,0 +1,21 @@
+FIRM         : CRWD (CIK 0001535527) | FY2021
+FILE         : 0001535527_CRWD_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : information technology, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+The Company contracts with third party information technology providers for various service arrangements including software, platform, and information technology infrastructure. The Company capitalizes the implementation cost incurred to develop or obtain internal-use software in such arrangements which are recorded as part of property and equipment, net in the consolidated balance sheets. All capitalized implementation costs are amortized over the term of the arrangement which includes reasonably certain renewals. Costs incurred during the preliminary project and post implement stage are expensed as the activities are performed.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

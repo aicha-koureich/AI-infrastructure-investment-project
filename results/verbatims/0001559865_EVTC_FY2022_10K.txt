@@ -1,0 +1,20 @@
+FIRM         : EVTC (CIK 0001559865) | FY2022
+FILE         : 0001559865_EVTC_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-16
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cost of revenues for the year ended December 31, 2022 amounted to $292.6 million, an increase of $42.5 million or 17% when compared to the same period in the prior year. The increase in cost of revenues was primarily driven by an increase in personnel costs, in part due to the impact of increased headcount in Latin America and the added headcount from the BBR acquisition. The year over year variance also reflected higher equipment expenses for cloud services as utilization continues to grow, an increase in printing supply expense, an increase in provisions for operational losses and an increase in cost of sales mainly due to the new revenue sharing agreement with Popular resulting from the Popular Transaction. Cost of revenues also includes a $4.1 million impairment loss related to a multi-year software development recorded during the second quarter. ||| Payment Services - Puerto Rico & Caribbean segment revenues for the year ended December 31, 2022 increased by $23.1 million to $178.5 million when compared to the same period in the prior year. The increase in revenues was primarily driven by an increase in transaction volumes, mainly POS processing, the continued strong digital payments growth from ATH Movil Business, higher issuing services and the revenue contribution from the acquisition completed in the second quarter. Segment revenue also benefited from an increase in transaction processing and monitoring revenue recognized for services provided to the Payment Services - Latin America Segment. Adjusted EBITDA increased by $10.8 million to $100.8 million driven by the increase in revenues partially offset by higher operating expenses, including the $4.1 million impairment charge discussed in Cost of Revenues above, higher personnel costs, cloud services, and the impact from the one-time credit granted upon closing of the Popular Transaction.

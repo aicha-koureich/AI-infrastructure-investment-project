@@ -1,0 +1,20 @@
+FIRM         : HAIN (CIK 0000910406) | FY2020
+FILE         : 0000910406_HAIN_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 8. PROPERTY, PLANT AND EQUIPMENT, NET
+ASSET CAT.   : Machinery and equipment, Computer hardware, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+June 30, 2020 June 30, 2019 Land $ 13,866 $ 14,240 Buildings and improvements 74,325 83,151 Machinery and equipment 288,466 274,554 Computer hardware and software 60,391 48,984 Furniture and fixtures 20,044 17,325 Leasehold improvements 40,876 32,264 Construction in progress 16,489 35,786 514,457 506,304 Less: Accumulated depreciation and impairment 225,201 218,459 $ 289,256 $ 287,845
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles - Goodwill and Other - Internal-Use Software, Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract , which aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The amended guidance ||| Intangibles - Goodwill and Other - Internal-Use Software, Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract

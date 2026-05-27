@@ -1,0 +1,22 @@
+FIRM         : ROCK (CIK 0000912562) | FY2013
+FILE         : 0000912562_ROCK_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 17. COMMITMENTS AND CONTINGENCIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company leases certain facilities and equipment under operating leases. As leases expire, it can be expected that, in the normal course
+of business, certain leases will be renewed or replaced. Certain lease agreements include escalating rent payments over the lease terms. The Company expenses rent on a straight-line basis over the lease term which commences on the date the Company
+has the right to control the property. Rent expense under operating leases for the years ended December 31 aggregated (in thousands):
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

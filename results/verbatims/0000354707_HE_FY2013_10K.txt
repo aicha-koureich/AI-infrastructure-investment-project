@@ -1,0 +1,23 @@
+FIRM         : HE (CIK 0000354707) | FY2013
+FILE         : 0000354707_HE_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+less than its carrying value at the financial statement date. When a security is impaired, the Company determines whether this impairment is temporary or other-than-temporary. If the Company does not expect to recover the entire amortized cost basis of the security, an OTTI exists. If the Company intends to sell the security, or will more likely than not be required to sell the security before recovery of its amortized cost, the OTTI must be recognized in earnings. If the Company does not intend to sell the security and it is not more likely than not that the Company will be required to sell the security before recovery of its amortized cost, the OTTI must be separated into the amount representing the credit loss and the amount related to all other factors. The amount of OTTI related to the credit loss is recognized in earnings while the remaining OTTI is recognized in other comprehensive income. Once an OTTI has been recognized on a security, the Company accounts for the security as if the security had been purchased on the measurement date of the OTTI at an amortized cost basis equal to the previous amortized cost basis less the OTTI recognized in earnings. The difference between the new amortized cost basis and the cash flows expected to be collected is accreted in accordance with existing applicable guidance as interest income. Any discount or reduced premium recorded for the security will be amortized over the remaining life of the security in a prospective manner based on the amount and timing of future estimated cash flows. If upon subsequent evaluation, there is a significant increase in cash flows expected to be collected or if actual cash flows are significantly greater than cash flows previously expected, such changes shall be accounted for as a prospective adjustment to the accretable yield.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

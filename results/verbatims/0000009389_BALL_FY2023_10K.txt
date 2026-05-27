@@ -1,0 +1,23 @@
+FIRM         : BALL (CIK 0000009389) | FY2023
+FILE         : 0000009389_BALL_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Critical and Significant Accounting Policies
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-18.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Assets are depreciated and amortized using the straight-line method over their estimated useful lives, generally 5 to 50 years for buildings and improvements and 2 to 23 years for machinery and equipment. Finite-lived intangible assets, excluding capitalized software costs, are generally amortized over their estimated useful lives of 3 to 18 years. Capitalized software is generally amortized over estimated useful lives of 3 to 7 years. During 2022, the company completed an evaluation of the estimated useful lives of its manufacturing equipment, buildings and certain assembly and test equipment.
+
+[VERBATIM — Changement de politique]
+Assets are depreciated and amortized using the straight-line method over their estimated useful lives, generally 5 to 50 years for buildings and improvements and 2 to 23 years for machinery and equipment. Finite-lived intangible assets, excluding capitalized software costs, are generally amortized over their estimated useful lives of 3 to 18 years. Capitalized software is generally amortized over estimated useful lives of 3 to 7 years. During 2022, the company completed an evaluation of the estimated useful lives of its manufacturing equipment, buildings and certain assembly and test equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

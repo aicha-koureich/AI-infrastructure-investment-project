@@ -1,0 +1,20 @@
+FIRM         : CBSH (CIK 0000022356) | FY2019
+FILE         : 0000022356_CBSH_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+years for equipment. Leasehold improvements are amortized over the shorter of
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangible Assets The FASB issued ASU 2018-15, "Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract", in August 2018. Under current guidance the accounting for implementation costs of a hosting arrangement that is a service contract is not specifically addressed. Under the new amendments, the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract are aligned with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software or hosting arrangements that include internal-use software license. The guidance was effective January 1, 2020 and did not have a significant effect on the Company's consolidated financial statements. ||| The FASB issued ASU 2018-15, "Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract", in August 2018. Under current guidance the accounting for implementation costs of a hosting arrangement that is a service contract is not specifically addressed. Under the new amendments, the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract are aligned with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software or hosting arrangements that include internal-use software license. The guidance was effective January 1, 2020 and did not have a significant effect on the Company's consolidated financial statements.

@@ -1,0 +1,23 @@
+FIRM         : GEO (CIK 0000923796) | FY2021
+FILE         : 0000923796_GEO_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Business Organization, Operations and Significant Accounting Policies
+ASSET CAT.   : Equipment, Furniture, computer software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Useful Life 2021 2020 (Years) (In thousands) Land — $ 120,837 $ 128,498 Buildings and improvements 2 to 50 2,277,575 2,264,910 Leasehold improvements 1 to 29 278,299 283,561 Equipment 3 to 10 220,965 225,509 Furniture, fixtures and computer software 1 to 7 68,474 66,375 Facility construction in progress — 20,758 42,863 Total $ 2,986,908 $ 3,011,716 Less accumulated depreciation and amortization (949,063 ) (889,521 ) Property and equipment, net $ 2,037,845 $ 2,122,195
+
+[VERBATIM — Changement de politique]
+Property and equipment are stated at cost, less accumulated amortization and depreciation. Equipment and furniture and fixtures are depreciated over 3 to 10 years . The Company performs ongoing evaluations of the estimated useful lives of the property and equipment for depreciation purposes.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

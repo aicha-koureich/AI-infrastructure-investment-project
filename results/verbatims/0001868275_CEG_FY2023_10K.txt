@@ -1,0 +1,23 @@
+FIRM         : CEG (CIK 0001868275) | FY2023
+FILE         : 0001868275_CEG_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 23 — Supplemental Financial Information for the taxes that are presented on a gross basis.
+ASSET CAT.   : Capitalized Software, equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized Software. Certain costs, such as design, coding, and testing incurred during the application development stage of software projects that are internally developed or purchased for operational use are capitalized in Property, plant and equipment in the Consolidated Balance Sheets. Similar costs incurred for cloud-based solutions treated as service arrangements are capitalized in Other current assets and Deferred debits and other assets in the Consolidated Balance Sheets. Such capitalized amounts are amortized ratably over the expected lives of the projects when they become operational, generally not to exceed five years.
+
+[VERBATIM — Changement de politique]
+In 2021, we reversed $81 million of severance benefit costs and $13 million of other one-time charges initially recorded in Operating and maintenance expense in 2020 associated with the early retirements. In addition, we updated the expected economic useful life for both facilities to 2044 and 2046, for Byron Units 1 and 2, respectively, and to 2029 and 2031 for Dresden Units 2 and 3, respectively, the end of the respective NRC operating license for each unit. Depreciation was therefore adjusted beginning September 15, 2021, to reflect these extended useful life estimates. See Note 10 — Asset Retirement Obligations for additional detail on changes to the nuclear decommissioning ARO balances resulting from the initial decision and subsequent reversal of the decision to early retire Byron and Dresden.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

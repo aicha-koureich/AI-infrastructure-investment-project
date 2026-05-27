@@ -1,0 +1,20 @@
+FIRM         : SBCF (CIK 0000730708) | FY2021
+FILE         : 0000730708_SBCF_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-03
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 - Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-12.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Bank Premises and Equipment: Bank premises and equipment are stated at cost, less accumulated depreciation and amortization. Depreciation and amortization are recognized principally by the straight-line method, over the estimated useful lives as follows: buildings - 25-40 years, leasehold improvements 5-25 years, furniture and equipment - 3-12 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

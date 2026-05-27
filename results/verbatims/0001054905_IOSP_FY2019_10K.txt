@@ -1,0 +1,21 @@
+FIRM         : IOSP (CIK 0001054905) | FY2019
+FILE         : 0001054905_IOSP_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 6. Leases
+ASSET CAT.   : equipment
+DURÉE        : 9.1-0.4 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 1.1 ans | 1.7 ans | 3.3 ans | 5.8-0.1 ans | 9.1-0.4 ans
+
+[VERBATIM — Durée de vie]
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS—(Continued) Supplemental balance sheet information related to leases is as follows: (in millions except lease term and discount rate) December 31 2019 Operating leases: Operating lease right-of-use assets $ 32.4 Current portion of operating lease liabilities $ 10.6 Operating lease liabilities, net of current portion 21.9 Total operating lease liabilities $ 32.5 Finance leases: Property, plant and equipment at cost $ 9.9 Accumulated depreciation (8.1 ) Net property, plant and equipment, net $ 1.8 Current portion of finance leases $ 1.0 Finance leases, net of current portion 0.5 Total finance lease liabilities $ 1.5 Weighted average remaining lease term: Operating leases 3.3 years Finance leases 1.7 years Weighted average discount rate: Operating leases 3.1 % Finance leases 2.4 % Maturities of lease liabilities were as follows as at December 31, 2019: ( in millions ) Operating Leases Finance Leases Within one year $ 10.8 $ 1.1 Year two 9.1 0.4 Year three 5.8 0.1 Year four 4.4 0.0 Year five 2.1 0.0 Thereafter 2.5 0.0 Total lease payments 34.7 1.6 Less imputed interest (2.2 ) (0.1 ) Total $ 32.5 $ 1.5 As of December 31, 2019, additional operating and finance leases that have not yet commenced are $0.0 million. 6 7
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

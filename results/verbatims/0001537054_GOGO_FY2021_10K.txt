@@ -1,0 +1,23 @@
+FIRM         : GOGO (CIK 0001537054) | FY2021
+FILE         : 0001537054_GOGO_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment, Network equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment and Depreciation - Property and equipment, including leasehold improvements, are stated at historical cost, less accumulated depreciation. Network asset inventory and construction in progress, which include materials, transmission and related equipment, interest and other costs relating to the construction and development of our network, are not depreciated until they are put into service.
+
+[VERBATIM — Changement de politique]
+As a result, the useful lives of the equipment installed on these fleets were shortened to align with the expiration dates in the amended agreement. Additionally, the amortization periods for the remaining deferred airborne lease incentives associated with the equipment installed on the 2Ku fleets were shortened to align with the new expiration dates, which resulted in approximately $ 42.0 million of accelerated amortization during the year ended December 31, 2020.
+
+[VERBATIM — Infrastructure IA]
+Cost of service revenue increased to $56.1 million for the year ended December 31, 2021, as compared with $45.1 million for the prior year, primarily due to an increase in ATG network costs as these costs are no longer shared with the divested CA business and an increase in network and data center operating costs related to the separation from the CA business, partially offset by a credit for regulatory surcharges from which we are now exempt.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

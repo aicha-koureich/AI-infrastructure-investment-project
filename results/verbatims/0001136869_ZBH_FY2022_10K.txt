@@ -1,0 +1,23 @@
+FIRM         : ZBH (CIK 0001136869) | FY2022
+FILE         : 0001136869_ZBH_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies
+ASSET CAT.   : computer software, Capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in property, plant and equipment on our balance sheet and amortized on a straight-line or weighted average estimated user basis when the software is ready for its intended use over the estimated useful lives of the software, which approximate
+
+[VERBATIM — Changement de politique]
+We are required to estimate the number of RSUs that will vest and recognize share-based payment expense on a straight-line basis over the requisite service period. As of December 31, 2022 , we estimate that approximately 893,091 outstanding RSUs will vest. If our estimate were to change in the future, the cumulative effect of the change in estimate will be recorded in that period. Based upon the number of RSUs that we expect to vest, the unrecognized share-based payment expense as of December 31, 2022 was $ 59.5 million and is expected to be recognized over a weighted-average period of 1.8 years. The fair value of RSUs that vested during the years ended December 31, 2022, 2021 and 2020 based upon our stock price on the date of vesting was $ 20.3 million, $ 40.0 million, and $ 33.2 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+For cloud computing arrangements that are considered a service contract, our capitalization of implementation costs is aligned with the internal use software requirements. However, on our consolidated balance sheet these implementation costs are recognized in other noncurrent assets. On our consolidated statement of cash flows, these implementations costs are recognized in operating cash flows. The implementation costs are recognized on a straight-line basis over the expected term of the related service contract.

@@ -1,0 +1,21 @@
+FIRM         : ECL (CIK 0000031462) | FY2018
+FILE         : 0000031462_ECL_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, computer software, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Certain dispensing systems capitalized by the Company are accounted for on a mass asset basis, whereby equipment is capitalized and depreciated as a group and written off when fully depreciated. Expenditures for major renewals and improvements, which significantly extend the useful lives of existing plant and equipment, are capitalized and depreciated. Upon retirement or disposition of plant and equipment, the cost and related accumulated depreciation are removed from the accounts and any resulting gain or loss is recognized in income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15 - Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force)

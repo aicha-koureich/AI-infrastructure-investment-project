@@ -1,0 +1,21 @@
+FIRM         : FDS (CIK 0001013237) | FY2021
+FILE         : 0001013237_FDS_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-10-12
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 21
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation on property, equipment and leasehold improvements
+
+[VERBATIM — Infrastructure IA]
+Each segment records expenses related to its individual operations with the exception of expenditures associated with our data centers, third-party data costs and corporate headquarters charges, which are recorded by the Americas segment and are not allocated to the other segments. The content collection centers, located in India, the Philippines, and Latvia, benefit all our segments and the expenses incurred at these locations are allocated to each segment based on a percentage of revenue.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : CBRE (CIK 0001138118) | FY2020
+FILE         : 0001138118_CBRE_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-23
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 8. Property and Equipment
+ASSET CAT.   : Computer hardware and software
+DURÉE        : 2.0-10.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+December 31, Useful Lives 2020 2019 Computer hardware and software 2-10 years $ 974,490 $ 931,891 Leasehold improvements 1-15 years 554,252 510,917 Furniture and equipment 1-10 years 243,880 334,625 Construction in progress N/A 117,274 129,671 Total cost 1,889,896 1,907,104 Less: Accumulated depreciation and amortization 1,074,887 1,070,898 Property and equipment, net $ 815,009 $ 836,206
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

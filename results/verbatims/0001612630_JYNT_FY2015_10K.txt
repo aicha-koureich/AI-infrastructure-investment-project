@@ -1,0 +1,28 @@
+FIRM         : JYNT (CIK 0001612630) | FY2015
+FILE         : 0001612630_JYNT_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 4: Property and Equipment Property and equipment consist of the following: December 31, 2015 December 31, 2014 Office and computer equipment $ 96
+ASSET CAT.   : Equipment, computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Note 4: Property and Equipment Property and equipment consist of the following: December 31, 2015 December 31, 2014 Office and computer equipment $ 963,299 $ 209,575 Leasehold improvements 4,672,582 665,961 Software developed 691,827 564,560 Gross property and equipment 6,327,708 1,440,096 Accumulated depreciation (1,098,438 ) (305,644 ) 5,229,270 1,134,452 Construction in progress 1,909,476 - Property and equipment, net $ 7,138,746 $ 1,134,452 Depreciation expense was $792,794 and $210,123
+for the years ended December 31, 2015 and 2014, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, FASB issued ASU No. 2015-05,
+“Customer's Accounting for Fees Paid in a Cloud Computing Arrangement.” The guidance provides clarification on
+whether a cloud computing arrangement includes a software license. If a software license is included, the customer should
+account for the license consistent with its accounting of other software licenses. If a software license is not included, the arrangement
+should be accounted for as a service contract. The update is effective for reporting periods beginning after December
+15, 2015. We are currently evaluating the effect of adoption of this standard, if any, on our consolidated financial
+position, results of operations or cash flows.

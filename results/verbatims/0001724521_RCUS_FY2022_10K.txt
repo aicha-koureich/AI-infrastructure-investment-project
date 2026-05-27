@@ -1,0 +1,21 @@
+FIRM         : RCUS (CIK 0001724521) | FY2022
+FILE         : 0001724521_RCUS_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of significant accounting policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 5.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment is recorded at cost and depreciated using the straight-line method over the estimated useful lives of the assets, ranging from three to ten years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

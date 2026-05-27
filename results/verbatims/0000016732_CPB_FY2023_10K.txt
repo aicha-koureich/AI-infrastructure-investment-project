@@ -1,0 +1,20 @@
+FIRM         : CPB (CIK 0000016732) | FY2023
+FILE         : 0000016732_CPB_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-10-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment are depreciated over periods not exceeding
+DURÉE        : 45.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment — Property, plant and equipment are recorded at historical cost and are depreciated over estimated useful lives using the straight-line method. Buildings and machinery and equipment are depreciated over periods not exceeding 45 years and 20 years, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the Financial Accounting Standards Board (FASB) issued guidance on accounting for implementation costs incurred in a cloud computing arrangement that is a service contract. The guidance aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The guidance is effective for fiscal years beginning after December 15, 2019. Entities have the option to apply the guidance prospectively to all implementation costs incurred after the date of adoption or retrospectively. Early adoption is permitted. We adopted the guidance on a prospective basis in the first quarter of 2021. The adoption did not have a material impact on our consolidated financial statements.

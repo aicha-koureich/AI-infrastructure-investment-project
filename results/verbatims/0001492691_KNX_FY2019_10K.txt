@@ -1,0 +1,21 @@
+FIRM         : KNX (CIK 0001492691) | FY2019
+FILE         : 0001492691_KNX_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 26
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 3.0-5.0 ans | 5.0-7.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization of property and equipment
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+2018-15: Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract 2 ||| ASU 2018-15: Intangibles – Goodwill and Other – Internal Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract — Management has established an implementation team and is currently assessing the potential financial and business impacts of implementing the standard. Based on a preliminary assessment, the Company expects to capitalize costs within the development stage of a cloud computing arrangement and continue to expense any costs in the preliminary or post implementation stages. The Company is not expecting a material impact from adopting the amendments in this ASU and has established an implementation team to assess the impact, if any. ||| Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract

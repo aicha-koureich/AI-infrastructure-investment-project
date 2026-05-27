@@ -1,0 +1,20 @@
+FIRM         : NBHC (CIK 0001475841) | FY2018
+FILE         : 0001475841_NBHC_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 9 Premises and Equipment
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company incurred $8.6 million, $7.6 million and $8.7 million of depreciation expense during 2018, 2017 and 2016, respectively, as a component of occupancy and equipment expense in the consolidated statements of operations.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Other Pronouncements —The Company early adopted ASU 2018-15, Intangibles – Goodwill and Other – Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract (Subtopic 350-40) on a prospective basis with no material impact on its financial statements. The Company also adopted ASU 2018-07, Compensation – Stock Compensation (Topic 718): Improvements to Nonemployee Share-Based Payment Accounting ; ASU 2016-01, Financial Instruments - Recognition and Measurement of Financial Assets and Financial Liabilities (Topic 825); ASU 2016-18, Restricted Cash (a consensus of the FASB Emerging Issues Task Force ; ASU 2016-15, Statement of Cash Flows: Classification of Certain Cash Receipts and Cash Payment s and ASU 2017-05, Other Income – Gains and Losses from the Derecognition of Nonfinancial Assets (Subtopic 610-20) with no material impact on its financial statements. ||| Intangibles – Goodwill and Other – Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract

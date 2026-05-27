@@ -1,0 +1,21 @@
+FIRM         : EXTR (CIK 0001078271) | FY2018
+FILE         : 0001078271_EXTR_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, computer equipment, office equipment, furniture and fixtures
+DURÉE        : 1.0-4.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-4.0 ans | 2.0-10.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation and amortization. Estimated useful lives of one to four years are used for computer equipment and software. Estimated useful lives of three to seven years are used for office equipment, furniture and fixtures.
+
+[VERBATIM — Infrastructure IA]
+Data Center Business  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+A trend effecting the Enterprise Network Equipment market is the continued adoption of the cloud-managed enterprise WLAN in the enterprise market. Hybrid cloud is a cloud computing environment which uses a mix of on-premises, private cloud and third-party, public cloud services with orchestration between the two platforms. We introduced our Cloud offering in 2016 and announced our enhanced cloud offering in 2017. ExtremeCloud is the only offering in the market that seamlessly integrates the cloud with on-premise infrastructures. (See Part 1, Item 1. Business, for additional discussion of our business) ||| Data Center Business ||| We completed our acquisition of the data center business (the “Data Center Business”) of Brocade Communication Systems, Inc. (“Brocade”) on October 27, 2017 (“Data Center Business Closing Date”). Upon the terms and subject to the conditions of the Data Center Business Asset Purchase Agreement (“Data Center Business APA”), we acquired customers, employees, technology and other assets of the Data Center Business, as well as assumed certain contracts and other liabilities of the Data Center Business, for an upfront cash closing payment equal to $23.0 million, plus deferred payments of $20.0 million to be paid $1.0 million per quarter for 20 full quarters following the Data Center Business Closing Date, plus quarterly earn out payments equal to 50% of profits of the Data Center Business for the five-year period commencing at the end of our first full fiscal quarter following the Data Center Business Closing Date. See Note 4. Business Combinations, for additional information.

@@ -1,0 +1,23 @@
+FIRM         : VRA (CIK 0001495320) | FY2017
+FILE         : 0001495320_VRA_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Furniture, computer equipment, Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+February 3, 2018 January 28, 2017 Land and land improvements $ 5,981 $ 5,981 Building and building improvements 46,233 46,233 Furniture, fixtures, leasehold improvements, computer equipment and software 108,351 127,791 Equipment and vehicles 20,264 20,329 Construction in progress 903 7,885 181,732 208,219 Less: Accumulated depreciation and amortization (95,269 ) (106,642 ) Property, plant, and equipment, net $ 86,463 $ 101,577
+
+[VERBATIM — Changement de politique]
+When a decision is made to abandon property, plant, and equipment prior to the end of the previously estimated useful life, depreciation or amortization estimates are revised to reflect the use of the asset over the shortened estimated useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

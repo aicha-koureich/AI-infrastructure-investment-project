@@ -1,0 +1,20 @@
+FIRM         : WTS (CIK 0000795403) | FY2024
+FILE         : 0000795403_WTS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-03
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Global gross domestic product (“GDP”) remains positive and is generally a leading indicator for our repair and replacement business. New construction indicators are mixed. Multi-family housing, office, retail and recreation verticals are expected to be down, but light industrial, including data centers, is growing and institutional verticals remain steady. The European economy remains weak and geo-political uncertainties continue. Elevated interest rates may impact new construction. Tariffs on foreign imports into the United States, particularly from Canada, China and Mexico, should they be implemented, will increase the cost of our products and could adversely impact the gross margin we earn on our products. We believe we are prepared to proactively work with our supply chain to mitigate the cost impact, seek alternative supply sources when necessary and pass increases in costs to our customers, to the extent possible, when they occur. We also continue to experience inflation across our labor and overhead costs. Despite these anticipated challenges and uncertainties, we continue to invest in our business, including new products, our smart and connected solutions and our growth and productivity initiatives. We remain focused on our customers’ needs and executing on our long-term strategy.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

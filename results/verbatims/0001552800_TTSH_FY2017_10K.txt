@@ -1,0 +1,20 @@
+FIRM         : TTSH (CIK 0001552800) | FY2017
+FILE         : 0001552800_TTSH_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 1
+ASSET CAT.   : Furniture and fixtures, Machinery and equipment, Computer equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+﻿ ﻿ ﻿ 2017 2016 ﻿ (in thousands) Land $ 904 $ 904 Building and building improvements 25,417 21,916 Leasehold improvements 84,677 77,404 Furniture and fixtures 129,876 119,589 Machinery and equipment 28,561 26,433 Computer equipment and software 29,851 24,002 Vehicles 3,463 3,136 Construction in progress 6,124 3,543 Total property, plant and equipment 308,873 276,927 Less accumulated depreciation (157,468) (135,890) Total property, plant and equipment, net $ 151,405 $ 141,037
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

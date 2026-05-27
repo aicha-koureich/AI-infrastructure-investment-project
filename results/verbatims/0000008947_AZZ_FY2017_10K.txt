@@ -1,0 +1,20 @@
+FIRM         : AZZ (CIK 0000008947) | FY2017
+FILE         : 0000008947_AZZ_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 28, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 17 – Selected Quarterly Financial Data (Unaudited)
+ASSET CAT.   : Machinery and equipment, Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+February 28, 2018 February 28, 2017 Land $ 22,445 $ 22,360 Building and structures 152,191 139,627 Machinery and equipment 234,071 228,246 Furniture, fixtures, software and computers 25,316 25,593 Automotive equipment 3,432 2,998 Construction in progress 13,977 23,669 451,432 442,493 Less accumulated depreciation (234,577 ) (213,883 ) Net property, plant, and equipment $ 216,855 $ 228,610
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

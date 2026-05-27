@@ -1,0 +1,20 @@
+FIRM         : DT (CIK 0001773383) | FY2022
+FILE         : 0001773383_DT_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 5. Recognition of revenue when, or as a performance obligation is satisfied
+ASSET CAT.   : capitalized software, technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Cost of subscription revenue includes all direct costs to deliver the Company’s subscription products including salaries, benefits, share-based compensation and related expenses such as employer taxes, third-party hosting fees related to the Company’s cloud services, allocated overhead for facilities, IT, and amortization of internally developed capitalized software technology.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We take Dynatrace® to market through a combination of our global direct sales team and a network of partners, including global system integrators, cloud providers (such as AWS, Azure, and GCP), resellers and technology alliance partners. We target the largest 15,000 global enterprise accounts, which generally have annual revenues in excess of $1 billion, which we believe see more value from our integrated full-stack platform. ||| Cost of subscription . Cost of subscription revenue includes all direct costs to deliver and support our subscription products, including salaries, benefits, share-based compensation and related expenses such as employer taxes, third-party hosting fees related to our cloud services, allocated overhead for facilities, IT, and amortization of internally developed capitalized software technology. We recognize these expenses as they are incurred. ||| . Cost of subscription revenue includes all direct costs to deliver and support our subscription products, including salaries, benefits, share-based compensation and related expenses such as employer taxes, third-party hosting fees related to our cloud services, allocated overhead for facilities, IT, and amortization of internally developed capitalized software technology. We recognize these expenses as they are incurred.

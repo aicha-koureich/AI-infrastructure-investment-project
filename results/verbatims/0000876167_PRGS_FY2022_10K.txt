@@ -1,0 +1,21 @@
+FIRM         : PRGS (CIK 0000876167) | FY2022
+FILE         : 0000876167_PRGS_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-03
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1: Nature of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, computer equipment, furniture and fixtures
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Useful lives by major asset class are as follows: computer equipment and software, 3 to 7 years and furniture and fixtures, 5 to 7 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We also offer products via a software-as-a-service ("SaaS") model, which is a subscription-based model. Our customers can use hosted software over the contract period without taking possession of it and the cloud services are available to them throughout the entire term, even if they do not use the service. Revenue related to SaaS offerings is recognized ratably over the contract period. The SSP of SaaS performance obligations is determined based upon observable prices in stand-alone SaaS transactions. SaaS arrangements are generally invoiced in advance on a monthly, quarterly, or annual basis over the term of the arrangement, which is typically one to three years.

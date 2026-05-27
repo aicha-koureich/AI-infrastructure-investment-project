@@ -1,0 +1,21 @@
+FIRM         : TRMB (CIK 0000864749) | FY2020
+FILE         : 0000864749_TRMB_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-01-01
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: NOTE 1: DESCRIPTION OF BUSINESS AND ACCOUNTING POLICIES
+ASSET CAT.   : computer equipment and software
+DURÉE        : 2.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 4.0-6.0 ans | 5.0-10.0 ans | 30.0-9.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment, net is stated at cost less accumulated depreciation. Depreciation of property and equipment is computed using the straight-line method over the shorter of the estimated useful lives or the lease terms when applicable. Useful lives generally range from four to six years for machinery and equipment, five to ten years for furniture and fixtures, two to five years for computer equipment and software, thirty-nine years for buildings, and the life of the lease for leasehold improvements. Capitalized costs related to internal-use software are amortized using the straight-line method over the estimated useful lives of the assets, which range generally from two to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued new guidance that clarifies the accounting for implementation costs incurred in a cloud computing arrangement that is a service contract. This guidance aligns the accounting for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the accounting for implementation costs incurred to develop or obtain internal-use software.

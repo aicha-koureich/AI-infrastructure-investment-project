@@ -1,0 +1,23 @@
+FIRM         : GOGO (CIK 0001537054) | FY2020
+FILE         : 0001537054_GOGO_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-28
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 2. Discontinued Operations
+ASSET CAT.   : equipment, Network equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment, including leasehold improvements, are stated at historical cost, less accumulated depreciation. Network asset inventory and construction in progress, which include materials, transmission and related equipment, interest and other costs relating to the construction and development of our network, are not depreciated until they are put into service. Depreciation of property and equipment is computed using the straight-line method over the estimated useful lives for owned assets, which are as follows:
+
+[VERBATIM — Changement de politique]
+As a result, the useful lives of the equipment installed on these fleets were shortened to align with the expiration dates in the amended agreement.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+On January 1, 2020, we adopted ASU 2018-15, Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (“ASU 2018-15”), which requires an entity in a hosting arrangement that is a service contract to follow the guidance in Subtopic 350-40 to determine which implementation costs to capitalize as an asset related to the service contract and which costs to expense. Adoption of this standard did not have a material impact on our consolidated financial statements. ||| Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

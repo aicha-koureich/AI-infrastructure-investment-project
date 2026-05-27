@@ -1,0 +1,20 @@
+FIRM         : AVNS (CIK 0001606498) | FY2015
+FILE         : 0001606498_AVNS_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 1 . Accounting Policies
+ASSET CAT.   : equipment, Machinery and equipment, computer software
+DURÉE        : 16.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost and depreciated on the straight-line method. Machinery and equipment are depreciated over their estimated useful lives, primarily ranging from 16 to 20 years . Computer software costs are amortized on the straight-line method over the estimated useful life of the software, which is generally three to five years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement. ||| This ASU provides guidance about whether a cloud computing arrangement includes a software license and the appropriate accounting for such arrangements. Notably, the guidance in this ASU already exists in the FASB Accounting Standards Codification (“ASC”) Subtopic 985-605, ||| In April 2015 , the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) No. 2015-05, Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement. This ASU provides guidance about whether a cloud computing arrangement includes a software license and the appropriate accounting for such arrangements. Notably, the guidance in this ASU already exists in the FASB Accounting Standards Codification (“ASC”) Subtopic 985-605, Software - Revenue Recognition, which is used by cloud service providers to determine whether an arrangement includes the sale or license of software. This ASU will become effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2015 . Early adoption of this ASU is permitted. The application of this ASU is not expected to have a material effect on our financial position, results of operations or cash flows.

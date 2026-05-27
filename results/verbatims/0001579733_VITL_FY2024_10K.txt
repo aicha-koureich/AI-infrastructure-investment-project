@@ -1,0 +1,20 @@
+FIRM         : VITL (CIK 0001579733) | FY2024
+FILE         : 0001579733_VITL_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment: Property, plant and equipment are stated at cost, net of accumulated depreciation and amortization. The general range of useful lives of other property, plant and equipment is as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements: The Company incurs costs to implement cloud computing arrangements hosted by third party vendors. Costs incurred to implement cloud computing service arrangements are capitalized when incurred during the application development phase and recognized as other current assets and other non-current assets in the consolidated balance sheets. Amortization of the cloud computing arrangement implementation costs will begin once the software is placed in service. ||| Cloud computing implementation costs ||| Cloud Computing Arrangements:

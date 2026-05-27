@@ -1,0 +1,20 @@
+FIRM         : ORA (CIK 0001296445) | FY2020
+FILE         : 0001296445_ORA_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 — BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 15.0-30.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost. All costs associated with the acquisition, development and construction of power plants operated by the Company are capitalized. Major improvements are capitalized and repairs and maintenance (including major maintenance) costs are expensed. Power plants operated by the Company, which include geothermal wells and exploration and resource development costs, are depreciated using the straight-line method over their estimated useful lives, which range from 15 to 30 years. The other assets are depreciated using the straight-line method over the following estimated useful lives of the assets:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

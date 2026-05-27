@@ -1,0 +1,20 @@
+FIRM         : MPC (CIK 0001510295) | FY2020
+FILE         : 0001510295_MPC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF PRINCIPAL ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 1.0-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are recorded at cost and depreciated on a straight-line basis over the estimated useful lives of the assets, which range from one year to 61 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

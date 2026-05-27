@@ -1,0 +1,23 @@
+FIRM         : TXT (CIK 0000217346) | FY2019
+FILE         : 0000217346_TXT_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 4, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 20. Supplemental Cash Flow Information
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are recorded at cost and are depreciated primarily using the straight-line method.
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment are recorded at cost and are depreciated primarily using the straight-line method.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

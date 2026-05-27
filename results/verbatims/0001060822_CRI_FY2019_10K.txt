@@ -1,0 +1,20 @@
+FIRM         : CRI (CIK 0001060822) | FY2019
+FILE         : 0001060822_CRI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 28, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Capitalized software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software is depreciated or amortized on the straight-line method over its estimated useful lives, from 3 to 10 years.
+
+[VERBATIM — Infrastructure IA]
+We have operating leases for retail stores, distribution centers, corporate offices, data centers, and certain equipment. Our leases have remaining lease terms of 1 year to 20 years, some of which may include options to extend the leases for up to 5 years, and some of which may include options to early terminate the lease.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

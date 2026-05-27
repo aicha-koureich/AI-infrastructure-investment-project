@@ -1,0 +1,20 @@
+FIRM         : VECO (CIK 0000103145) | FY2021
+FILE         : 0000103145_VECO_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Sales in the Semiconductor market grew 49% in 2021 and were driven by our laser annealing systems for logic devices and lithography systems for Advanced Packaging. We continue to build momentum for our laser annealing solutions with advanced node logic customers. We have been winning additional application steps with leading manufacturers. We have evaluation systems at a DRAM manufacturer and are working with new and existing logic customers on their next manufacturing nodes. We also continue to deliver our laser annealing systems to trailing node logic manufacturers. Our lithography systems for Advanced Packaging are aligned with longer-term growth of FOWLP and other Advanced Packaging applications such as heterogeneous integration. Additionally, the ongoing adoption of EUV Lithography for advanced node, semiconductor manufacturing continues to drive demand for our mask blank systems. Overall, our technology and market strategy is well aligned with trends such as artificial intelligence, mobile connectivity and high performance computing that drive the Semiconductor market. We expect continued growth in this market. Finally, we have begun shipping systems from our new San Jose facility, and expect to fully transition to this new location in 2022.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

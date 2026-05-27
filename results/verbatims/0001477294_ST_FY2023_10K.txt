@@ -1,0 +1,23 @@
+FIRM         : ST (CIK 0001477294) | FY2023
+FILE         : 0001477294_ST_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 5: Restructuring and Other Charges, Net
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(3) During the year ended December 31, 2022, we retired approximately $2.2 million of capitalized software that was not in use, along with approximately $0.5 million of associated accumulated amortization.
+
+[VERBATIM — Changement de politique]
+Expenditures for maintenance and repairs are charged to expense as incurred, whereas major improvements that increase asset values and extend useful lives are capitalized.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Elastic M2M is an innovator of connected intelligence for operational assets across heavy-duty transport, warehouse, supply chain and logistics, industrial, light-duty passenger car, and a variety of other industry segments. Elastic M2M primarily serves telematics service providers and resellers, enabling them to leverage Elastic M2M’s cloud platform and analytics capabilities to deliver sensor-based operational insights to their end users. This acquisition augments our cloud capabilities critical to delivering actionable sensor-based insights. We are integrating Elastic M2M into the Performance Sensing reportable segment.

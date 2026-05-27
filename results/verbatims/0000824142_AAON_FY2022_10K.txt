@@ -1,0 +1,23 @@
+FIRM         : AAON (CIK 0000824142) | FY2022
+FILE         : 0000824142_AAON_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-27
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+During the first quarter of 2022, a review of the Company's useful lives for certain sheet metal manufacturing equipment at our Longview, Texas facilities resulted in a change in estimate that increased the useful lives from between ten and twelve years to fifteen years.
+
+[VERBATIM — Infrastructure IA]
+Year Ended December 31, 2022 AAON Oklahoma AAON Coil Products BASX 1 Total (in thousands) Rooftop Units $ 579,363 $ — $ — $ 579,363 Condensing Units 302 46,287 — 46,589 Air Handlers — 47,442 14,434 61,876 Outdoor Mechanical Rooms 612 855 — 1,467 Cleanroom Systems — — 47,020 47,020 Data Center Cooling Solutions — — 53,522 53,522 Water-Source Heat Pumps 11,529 8,797 — 20,326 Part Sales 52,927 — 671 53,598 Other 19,112 3,909 2,006 25,027 $ 663,845 $ 107,290 $ 117,653 $ 888,788 Year Ended December 31, 2021 AAON Oklahoma AAON Coil Products BASX 1 Total (in thousands) Rooftop Units $ 398,461 $ — — $ 398,461 Condensing Units 762 25,989 — 26,751 Air Handlers — 26,589 95 26,684 Outdoor Mechanical Rooms 820 464 — 1,284 Cleanroom Systems — — 2,288 2,288 Data Center Cooling Solutions — — 1,688 1,688 Water-Source Heat Pumps 10,831 10,343 — 21,174 Part Sales 41,127 1 — 41,128 Other 11,844 3,203 12 15,059 $ 463,845 $ 66,589 $ 4,083 $ 534,517 Year Ended December 31, 2020 AAON Oklahoma AAON Coil Products BASX 1 Total (in thousands) Rooftop Units $ 400,946 $ — — $ 400,946 Condensing Units 900 20,249 — 21,149 Air Handlers — 23,931 — 23,931 Outdoor Mechanical Rooms 2,355 487 — 2,842 Water-Source Heat Pumps 10,663 8,390 — 19,053 Part Sales 32,561 — — 32,561 Other 11,532 2,537 — 14,069 $ 458,957 $ 55,594 — $ 514,551 1 BASX was acquired by the Company on December 10, 2021, as such, the only applicable periods presented for BASX is the year ended December 31, 2022 and December 11, 2021 through December 31, 2021.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

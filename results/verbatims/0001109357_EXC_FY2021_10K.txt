@@ -1,0 +1,23 @@
+FIRM         : EXC (CIK 0001109357) | FY2021
+FILE         : 0001109357_EXC_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 24 — Supplemental Financial Information for taxes that are presented on a gross basis.
+ASSET CAT.   : Capitalized Software, equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : A100;B100;B200 (3 modèle(s))
+
+[VERBATIM — Durée de vie]
+Certain other capitalized software costs are being amortized over longer lives based on the expected life or pursuant to prescribed regulatory requirements.
+
+[VERBATIM — Changement de politique]
+As a result of the decision to early retire Byron and Dresden, Exelon recognized certain one-time charges in the third and fourth quarters of 2020 related to materials and supplies inventory reserve adjustments, employee-related costs including severance benefit costs, and construction work-in-progress impairments, among other items. In addition, there were ongoing annual financial impacts stemming from shortening the expected economic useful lives of these nuclear plants primarily related to accelerated depreciation of plant assets (including any
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

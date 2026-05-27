@@ -1,0 +1,21 @@
+FIRM         : NTRS (CIK 0000073124) | FY2015
+FILE         : 0000073124_NTRS_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Buildings and equipment owned are carried at original cost less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Northern Trust’s business resiliency mitigation and preventative measures include sophisticated physical security, resilient designs and peer capacity for its corporate data centers, a highly redundant global network, robust network security, resiliency centers that offer alternative workstations, and transfer of work and work-from-home programs that provide further capability by allowing staff to work from home.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05, “Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement” (ASU 2015-05) which clarifies whether fees paid by a customer in a cloud computing arrangement pertain to the acquisition of a software license, services, or both. ASU 2015-05 is effective for interim and annual periods beginning after December 15, 2015, although early adoption is permitted. The adoption of ASU 2015-05 by Northern Trust, effective January 1, 2016, will not significantly impact Northern Trust’s consolidated financial position or results of operations.

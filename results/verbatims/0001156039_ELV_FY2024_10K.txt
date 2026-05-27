@@ -1,0 +1,21 @@
+FIRM         : ELV (CIK 0001156039) | FY2024
+FILE         : 0001156039_ELV_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : computer equipment and software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and Equipment: Property and equipment is recorded at cost, net of accumulated depreciation. Depreciation is computed principally by the straight-line method over estimated useful lives ranging from fifteen to thirty years for buildings and improvements, three to five years for computer equipment and software, and seven years for furniture and other equipment. Certain costs related to the development or purchase of internal-use software are capitalized and amortized over estimated useful lives ranging from three to ten years.
+
+[VERBATIM — Infrastructure IA]
+During the third quarter of 2023, based on a strategic review of our operations, assets and investments, management implemented the “2023-2024 Business Efficiency Program” to enhance operating efficiency, refine the focus of our investments and optimize our physical footprint. The 2023-2024 Business Efficiency Program included the write-off of certain information technology assets and contract exit costs, a reduction in staff including the relocation of certain job functions, and the impairment of assets associated with the closure or partial closure of data centers and offices. The 2023-2024 Business Efficiency Program was finalized as of December 31, 2024. Cash outlays associated with this program, which primarily relate to the personnel-related costs, are expected to be paid through 2025.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

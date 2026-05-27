@@ -1,0 +1,21 @@
+FIRM         : DELL (CIK 0001571996) | FY2024
+FILE         : 0001571996_DELL_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-27
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 — SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Computer and other equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0 ans | 3.0-5.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated Useful Life Computer and other equipment 3-5 years Assets in a customer contract Term of underlying lease contract Buildings and building improvements 10-30 years or term of underlying land lease Leasehold improvements 5 years or contract term Internal use software 5 years
+
+[VERBATIM — Infrastructure IA]
+ISG includes the Company’s servers and networking offerings and storage offerings. The Company’s server portfolio includes high-performance general-purpose and AI-optimized servers. The Company’s networking portfolio includes wide area network infrastructure, data center and edge networking switches, and cables and optics. The Company’s comprehensive storage portfolio includes modern and traditional storage solutions, including all-flash arrays, scale-out file, object platforms, hyper-converged infrastructure, and software-defined storage. ISG also offers software, peripherals, and services, including consulting and support and deployment.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We monitor credit risk associated with our financial counterparties using various market credit risk indicators such as credit ratings issued by nationally recognized credit rating agencies and changes in market credit default swap levels. Our AI solutions to date have been purchased primarily by a small number of larger customers and cloud service providers. Such purchases generally involve larger amounts of credit, and could impact overall credit risk in trade and financing receivables. We perform periodic evaluations of our positions with counterparties and may limit exposure to any one counterparty in accordance with our policies. We monitor and manage our positions based on current and expected market developments.

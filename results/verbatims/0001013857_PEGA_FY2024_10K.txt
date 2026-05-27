@@ -1,0 +1,21 @@
+FIRM         : PEGA (CIK 0001013857) | FY2024
+FILE         : 0001013857_PEGA_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 6. PROPERTY AND EQUIPMENT (1) (in thousands) December 31, 2024 2023 Leasehold improvements $ 51,932 $ 62,787 Computer equipment 29,817 31,144 Furnitur
+ASSET CAT.   : EQUIPMENT, Computer equipment, Furniture and fixtures, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+PROPERTY AND EQUIPMENT (1) (in thousands) December 31, 2024 2023 Leasehold improvements $ 51,932 $ 62,787 Computer equipment 29,817 31,144 Furniture and fixtures 4,603 6,665 Computer software purchased 9,918 10,060 Computer software developed for internal use 19,776 19,470 Fixed assets in progress 5,038 223 121,084 130,349 Less: accumulated depreciation (79,278) (83,070) $ 41,806 $ 47,279
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

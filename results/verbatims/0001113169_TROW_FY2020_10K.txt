@@ -1,0 +1,21 @@
+FIRM         : TROW (CIK 0001113169) | FY2020
+FILE         : 0001113169_TROW_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 – BASIS OF PREPARATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES.
+ASSET CAT.   : computer and communications software and equipment
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 6.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment is stated at cost net of accumulated depreciation and amortization computed using the straight-line method. Provisions for depreciation and amortization are based on the following weighted-average estimated useful lives: computer and communications software and equipment, 3 years; buildings and improvements, 33 years; leasehold improvements, 7 years; and furniture and other equipment, 6 years.
+
+[VERBATIM — Infrastructure IA]
+Our leases qualify as operating leases and consist primarily of real estate leases for corporate offices, data centers, and other facilities. We measure our operating lease liabilities using an estimated incremental borrowing rate as an implicit rate cannot be readily determinable from any of our operating lease arrangements. Since we do not have any outstanding borrowings, we estimate our incremental borrowing rate using an estimated credit rating and available market information. Additionally, certain of our leases contain options to extend or terminate the lease term that, if exercised, would result in the remeasurement of the operating lease liability.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We adopted Accounting Standards Update No. 2018-15 — Intangibles—Goodwill and Other— Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract on January 1, 2020 using the prospective method of adoption. This update required implementation costs incurred in cloud computing arrangements to be deferred and recognized over the term of the hosting arrangement. A hosting arrangement is an agreement that allows customers, like us, to access and use software on an as-needed basis without having possession of the software. Beginning January 1, 2020, we were required to defer such qualifying implementation costs. We have capitalized an immaterial amount of implementation costs incurred in a cloud computing arrangement. Accordingly, the adoption of this guidance did not have a material impact on our consolidated balance sheets or our consolidated statements of income.

@@ -1,0 +1,20 @@
+FIRM         : POWL (CIK 0000080420) | FY2023
+FILE         : 0000080420_POWL_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-10-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We develop, design, manufacture and service custom-engineered equipment and systems that (1) distribute, control and monitor the flow of electrical energy and (2) provide protection to motors, transformers and other electrically powered equipment. We are headquartered in Houston, Texas and serve the oil and gas and petrochemical markets, which include onshore and offshore production, LNG facilities and terminals, pipelines, refineries and petrochemical plants. Additional markets include electric utility, light rail traction power as well as mining and metals, pulp and paper, data centers and other municipal, commercial and industrial markets. Revenues and costs are primarily related to custom engineered-to-order equipment and systems and are accounted for under percentage-of-completion accounting, which precludes us from providing detailed price and volume information. Our backlog includes various projects that typically take a number of months to produce.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

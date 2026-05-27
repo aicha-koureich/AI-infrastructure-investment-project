@@ -1,0 +1,38 @@
+FIRM         : SFNC (CIK 0000090498) | FY2017
+FILE         : 0000090498_SFNC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Employee Share-Based Payments – In March 2016, the
+FASB issued ASU No. 2016-09, Compensation – Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment
+Accounting (“ASU 2016-09”), which requires all excess tax benefits and tax deficiencies related to share-based
+payment awards be recognized as income tax expense or benefit in the income statement during the period in which they occur. Previously,
+such amounts were recorded in the pool of excess tax benefits included in additional paid-in capital, if such pool was available.
+Due to excess tax benefits no longer recognized in additional paid-in capital, the assumed proceeds from applying the treasury
+stock method when computing earnings per share should exclude the amount of excess tax benefits that would have previously been
+recognized in additional paid-in capital. Additionally, excess tax benefits should be classified along with other income tax cash
+flows as an operating activity rather than a financing activity, as was previously the case. ASU 2016-09 also provides that
+an entity can make an entity-wide accounting policy election to either estimate the number of awards that are expected to vest
+(current US GAAP) or account for forfeitures when they occur. ASU 2016-09 changes the threshold to qualify for equity classification
+(rather than as a liability) to permit withholding up to the maximum statutory tax rates (rather than the minimum as was previously
+the case) in the applicable jurisdictions. ASU 2016-09 became effective for annual and interim periods beginning after December
+15, 2016. The prospective adoption of this standard has not had a material effect on our results of operations, financial position
+or disclosures. The impact of the requirement to report those income tax effects in earnings reduced reported federal and state
+income tax expense by approximately $1.7 million for the year ended December 31, 2017.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

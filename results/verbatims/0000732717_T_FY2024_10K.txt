@@ -1,0 +1,23 @@
+FIRM         : T (CIK 0000732717) | FY2024
+FILE         : 0000732717_T_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2028-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 7. PROPERTY, PLANT AND EQUIPMENT
+ASSET CAT.   : office equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Lives (years) 2024 2023 Land - $ 1,372 $ 1,377 Buildings and improvements 2-44 39,947 39,380 Central office equipment 1 3-10 101,607 100,264 Cable, wiring and conduit 15-50 95,217 90,109 Other equipment 3-20 87,656 85,379 Software 3-7 17,663 17,742 Under construction - 7,452 5,640 350,914 339,891 Accumulated depreciation and amortization 222,043 211,402 Property, plant and equipment – net $ 128,871 $ 128,489 1 Includes certain network software.
+
+[VERBATIM — Changement de politique]
+During the first quarter of 2022, we updated our analysis of economic lives of AT&T-owned fiber network assets. As of January 1, 2022, we extended the estimated economic life and depreciation period of such costs to better reflect the physical life of the assets that we had been experiencing and absence of technological changes that would replace fiber as the best broadband technology in the industry. The change in accounting estimate decreased depreciation expense $280, or $0.03 per diluted share from continuing operations for the year ended December 31, 2022.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

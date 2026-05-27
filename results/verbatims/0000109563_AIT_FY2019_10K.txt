@@ -1,0 +1,21 @@
+FIRM         : AIT (CIK 0000109563) | FY2019
+FILE         : 0000109563_AIT_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2019
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: NOTE 1: BUSINESS AND ACCOUNTING POLICIES
+ASSET CAT.   : software, generally not to exceed
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 12.0 ans
+
+[VERBATIM — Durée de vie]
+Buildings, building improvements and leasehold improvements are depreciated over ten to thirty years or the life of the lease if a shorter period, and equipment is depreciated over three to ten years. Amortization of software begins when it is ready for its intended use, and is computed on a straight-line basis over the estimated useful life of the software, generally not to exceed twelve years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued its final standard on the accounting for implementation costs incurred in a cloud computing arrangement that is a service contract. This standard, issued as ASU 2018-15, aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements

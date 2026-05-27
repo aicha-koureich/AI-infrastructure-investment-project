@@ -1,0 +1,20 @@
+FIRM         : MHO (CIK 0000799292) | FY2016
+FILE         : 0000799292_MHO_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 17. Supplementary Financial Data
+ASSET CAT.   : computer equipment, computer software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Year Ended December 31, (In thousands) 2016 2015 Land, building and improvements $ 11,823 $ 11,823 Office furnishings, leasehold improvements, computer equipment and computer software 25,895 25,676 Transportation and construction equipment (a) 10,075 102 Property and equipment 47,793 37,601 Accumulated depreciation (25,494 ) (24,704 ) Property and equipment, net $ 22,299 $ 12,897
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

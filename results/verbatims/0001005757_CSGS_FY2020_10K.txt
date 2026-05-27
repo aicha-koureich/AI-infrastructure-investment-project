@@ -1,0 +1,20 @@
+FIRM         : CSGS (CIK 0001005757) | FY2020
+FILE         : 0001005757_CSGS_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We have an agreement with Ensono, Inc. (“Ensono”) to provide us outsourced computing services through September 30, 2025. We outsource the computer processing and related services required for the operation of our ACP solutions. Our ACP proprietary software and other software applications are run in an outsourced data center environment in order to obtain the necessary computer  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

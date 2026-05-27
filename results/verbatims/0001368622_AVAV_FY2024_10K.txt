@@ -1,0 +1,23 @@
+FIRM         : AVAV (CIK 0001368622) | FY2024
+FILE         : 0001368622_AVAV_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-06-02
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Organization and Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of property and equipment, including amortization of leasehold improvements, are provided using the straight-line method over the following estimated useful lives:
+
+[VERBATIM — Changement de politique]
+The Company monitors conditions related to these assets to determine whether events and circumstances warrant a revision to the remaining amortization period. The Company tests its intangible assets with finite lives for potential impairment whenever management concludes events or changes in circumstances indicate that the carrying amount may not be recoverable. The original estimate of an asset’s useful life and the impact of an event or circumstance on either an asset’s useful life or carrying value involve significant judgment. As part of the Company’s annual goodwill impairment and identifiable asset test during the fiscal quarter ended April 30, 2025, a decrease in forecasted results of the Uncrewed Ground vehicles (“UGV”) reporting unit resulted in accelerated intangible amortization expenses of $4,258,000, which was recorded during the three months ended April 30, 2025. Due to the closure of all the Company’s MUAS COCO sites, the Company revised the estimated useful life for the MUAS customer relationships which resulted in accelerated intangible amortization expenses of $34,149,000 during the fiscal year ended April 30, 2023. Additionally, in conjunction with the goodwill impairment test performed during the year ended April 30, 2023, the remaining intangibles in the MUAS reporting unit were tested for recoverability. The asset recoverability test did not result in an impairment for the remaining intangibles in the MUAS reporting unit. Refer to Note 6—Goodwill for further details.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Also effective May 1, 2025 due to the increased size and complexity of the businesses, the significant amount of debt to finance the acquisition and the related debt covenants, the Chief Operating Decision Maker’s (“CODM”) measure of profitability for the new reportable segments will be Segment Adjusted EBITDA, defined as income from operations before interest income, interest expense, income tax expense (benefit) and depreciation and amortization, adjusted for the impact of certain other non-cash items, including goodwill impairment, amortization of implementation of cloud computing arrangements, stock-based compensation, other purchase accounting adjustments and cash items including acquisition related expenses.

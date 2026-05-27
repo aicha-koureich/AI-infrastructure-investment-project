@@ -1,0 +1,20 @@
+FIRM         : ROK (CIK 0001024478) | FY2014
+FILE         : 0001024478_ROK_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 16. Quarterly Financial Information (Unaudited)
+ASSET CAT.   : computer hardware and internal-use software
+DURÉE        : 3.0-8.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We calculate depreciation of property using the straight-line method over 5 to 40 years for buildings and improvements, 3 to 20 years for machinery and equipment and 3 to 8 years for computer hardware and internal-use software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

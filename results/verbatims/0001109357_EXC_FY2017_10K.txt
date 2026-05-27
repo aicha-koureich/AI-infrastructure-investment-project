@@ -1,0 +1,23 @@
+FIRM         : EXC (CIK 0001109357) | FY2017
+FILE         : 0001109357_EXC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 2017. As of
+ASSET CAT.   : equipment, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The DLC program costs include equipment, installation, and information technology costs necessary to implement the DLC Program under PECO’s EE&C Phase I Plans. PECO received full cost recovery through Phase I collections and will amortize the costs as a credit to the income statement to offset the related depreciation expense during the same period through September 2025, which is the remaining useful life of the assets.
+
+[VERBATIM — Changement de politique]
+As a result of these plant retirement decisions, Exelon and Generation recognized one-time charges in Operating and maintenance expense related to materials and supplies inventory reserve adjustments, employee-related costs and CWIP impairments, among other items. In addition to these one-time charges, annual incremental non-cash charges to earnings stemming from shortening the expected economic useful lives primarily related to accelerated depreciation of plant assets (including any ARC), accelerated amortization of nuclear fuel, and additional ARO accretion expense associated with the changes in decommissioning timing and cost assumptions were also recorded. See Note
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

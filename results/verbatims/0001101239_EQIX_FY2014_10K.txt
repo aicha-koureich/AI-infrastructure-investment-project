@@ -1,0 +1,27 @@
+FIRM         : EQIX (CIK 0001101239) | FY2014
+FILE         : 0001101239_EQIX_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+In July 2014, as more fully described in Note 2 and Note 10 to Notes to Consolidated Financial
+Statements in Item 8 of this Annual Report on Form 10-K, we and Riverwood Capital L.P. (“Riverwood”) entered into a purchase and sale agreement in which we acquired Riverwood’s interest in ALOG Data Centers do Brasil S.A. and its
+subsidiaries (“ALOG”) and the approximate 10% of ALOG owned by ALOG management, which resulted in our 100% ownership interest in ALOG. The net purchase price of $225.7 million consisted of: (i) $216.5 million of cash paid to Riverwood
+and ALOG management to acquire their interests in ALOG, (ii) $8.5 million of cash paid for the common shares of ALOG related to vested and outstanding stock options to purchase common shares of ALOG that were held by ALOG employees and
+(iii) $686,000 for the assumption of Riverwood’s portion of the contingent consideration in connection with the acquisition of ALOG in 2011.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Historically, our market has been served by large telecommunications carriers who have bundled telecommunications products and services with their colocation offerings. The data center market landscape
+has evolved to include cloud computing/utility providers, application hosting providers and systems integrators, managed infrastructure hosting providers and colocation providers. More than 350 companies provide data center solutions in the U.S.
+alone. Each of these data center solutions providers can bundle various colocation, interconnection and network offerings, and outsourced IT infrastructure services. We are able to offer our customers a global platform that reaches 15 countries with
+proven operational reliability, improved application performance and network choice, and a highly scalable set of offerings.

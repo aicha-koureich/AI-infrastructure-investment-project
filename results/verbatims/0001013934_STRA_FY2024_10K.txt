@@ -1,0 +1,20 @@
+FIRM         : STRA (CIK 0001013934) | FY2024
+FILE         : 0001013934_STRA_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2031-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 6. Property and Equipment
+ASSET CAT.   : Furniture, office equipment, Computer hardware, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2023 December 31, 2024 Estimated useful life (years) Land $ 1,499 $ 1,499 — Buildings and improvements 6,707 6,186 10-40 Furniture and office equipment 40,520 39,196 5-7 Computer hardware 12,339 13,142 3-7 Computer software 173,537 175,039 3-10 Leasehold improvements 72,351 67,858 3-15 Construction in progress 6,525 8,006 — 313,478 310,926 Accumulated depreciation and amortization (194,949) (199,679) $ 118,529 $ 111,247
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud computing arrangements ||| Cloud computing arrangements, net of current portion ||| The Company defers certain commissions earned by third party international agents that are considered incremental and recoverable costs of obtaining a contract with customers in the Australia/New Zealand segment. These costs are amortized over the period of benefit which ranges from one to two years. The Company also defers implementation costs incurred in cloud computing arrangements and amortizes these costs over the term of the arrangement.

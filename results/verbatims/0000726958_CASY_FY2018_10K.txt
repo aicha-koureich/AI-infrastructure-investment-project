@@ -1,0 +1,20 @@
+FIRM         : CASY (CIK 0000726958) | FY2018
+FILE         : 0000726958_CASY_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. ||| This standard provides guidance on accounting for costs of implementation activities performed in a cloud computing arrangement that is a service contract. The amendments in the update align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software and hosting arrangements that include an internal-use software license. The Company early adopted this guidance retrospectively, in the first quarter of fiscal 2019. The adoption did not have a material impact on our consolidated financial statements. ||| In August 2018, the FASB issued ASU 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. This standard provides guidance on accounting for costs of implementation activities performed in a cloud computing arrangement that is a service contract. The amendments in the update align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software and hosting arrangements that include an internal-use software license. The Company early adopted this guidance retrospectively, in the first quarter of fiscal 2019. The adoption did not have a material impact on our consolidated financial statements.

@@ -1,0 +1,20 @@
+FIRM         : PRDO (CIK 0001046568) | FY2020
+FILE         : 0001046568_PRDO_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+The enrollment growth within both CTU and AIU reflects consistent levels of prospective student interest that were well served by our student enrollment processes. During the year we have also made investments to support remote work arrangements and upgrade our data center to enhance the security, stability and capacity of our IT infrastructure as well as further leveraged and applied our AI technology across a student’s academic life cycle which enables us to efficiently serve prospective students and customize our outreach and engagement with current students to help them stay and succeed in school. We have also improved the efficiency and effectiveness of our student recruiting process to identify and attract prospective students that we believe are more likely to succeed in one of our academic programs. We believe our continued focus on student experiences, retention and academic outcomes, including the technology investments we have made, have contributed to positive new and total student enrollment growth.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

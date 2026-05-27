@@ -1,0 +1,24 @@
+FIRM         : STX (CIK 0001137789) | FY2020
+FILE         : 0001137789_STX_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-07-22
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Equipment and buildings are depreciated using the straight-line method over the estimated useful lives of the assets.
+
+[VERBATIM — Changement de politique]
+This review indicated that the actual lives of certain manufacturing equipment at its manufacturing facilities were longer than the estimated useful lives used for depreciation purposes in the Company’s consolidated financial statements. As a result, effective June 29, 2019, the Company changed its estimate of the useful lives of its manufacturing equipment from a range of three to five years to a range of three to seven years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+I n August 2018, the FASB issued ASU 2018-15 (ASC Subtopic 350-40), Intangibles—Goodwill and Other - Internal-Use Software—Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract . This ASU aligns the accounting for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the accounting for implementation costs incurred to develop or obtain internal-use software. The Company is required to adopt this guidance in the first quarter of fiscal year 2021. The Company will adopt this ASU on July 4, 2020 and does not expect the adoption of this ASU to have a material impact on its consolidated financial statements. ||| Intangibles—Goodwill and Other - Internal-Use Software—Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract

@@ -1,0 +1,24 @@
+FIRM         : WDAY (CIK 0001327811) | FY2022
+FILE         : 0001327811_WDAY_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Overview and Basis of Presentation
+ASSET CAT.   : software that increased efficiencies in how we operate our data center equipment, we determined we should increase the estimated useful lives of data center equipment from
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+In February 2023, we completed an assessment of the useful lives of our data center equipment, including servers, network equipment, and integrated complete server and network racks. Due to advances in technology, as well as investments in software that increased efficiencies in how we operate our data center equipment, we determined we should increase the estimated useful lives of data center equipment from 3 years to 5 years.
+
+[VERBATIM — Changement de politique]
+In February 2023, we completed an assessment of the useful lives of our data center equipment, including servers, network equipment, and integrated complete server and network racks. Due to advances in technology, as well as investments in software that increased efficiencies in how we operate our data center equipment, we determined we should increase the estimated useful lives of data center equipment from 3 years to 5 years.
+
+[VERBATIM — Infrastructure IA]
+In February 2023, we completed an assessment of the useful lives of our data center equipment, including servers, network equipment, and integrated complete server and network racks. Due to advances in technology, as well as investments in software that increased efficiencies in how we operate our data center equipment, we determined we should increase the estimated useful lives of data center equipment from 3 years to 5 years. This change in accounting estimate will be effective beginning fiscal 2024.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In addition, we rely upon third-party hosted infrastructure partners globally, including AWS, Google LLC, and Microsoft Corporation, to serve customers and operate certain aspects of our services. Given this, any disruption of or interference at our hosted infrastructure partners may impact our operations and our business could be adversely impacted.

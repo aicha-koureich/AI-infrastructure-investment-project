@@ -1,0 +1,20 @@
+FIRM         : NBHC (CIK 0001475841) | FY2017
+FILE         : 0001475841_NBHC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 8 Premises and Equipment
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company incurred $7.6 million, $8.7 million and $10.1 million of depreciation expense during 2017, 2016 and 2015, respectively, as a component of occupancy and equipment expense in the consolidated statements of operations.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

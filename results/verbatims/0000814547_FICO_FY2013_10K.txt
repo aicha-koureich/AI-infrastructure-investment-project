@@ -1,0 +1,24 @@
+FIRM         : FICO (CIK 0000814547) | FY2013
+FILE         : 0000814547_FICO_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Nature of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost less accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We continue to invest in our franchise technologies, including in the areas of cloud computing and SaaS. The expansion of cloud-based solutions will enable us to deliver solutions more efficiently to our
+customers and expand our market opportunities further into markets outside the banking industry sector. In addition to our ongoing product development efforts, we completed multiple strategic acquisitions in our Applications segment during fiscal
+2013 and 2012 for aggregate purchase consideration of $165.5 million. Our acquisitions included: Adeptra, a provider of cloud-based customer engagement and risk intervention solutions; Entiera, a provider of customer dialogue management solutions;
+CR Software, a provider of enterprise-class collections and recovery solutions; and Infoglide, a provider of entity resolution and social network analysis solutions. ||| In fiscal 2014, we expect that research and development expenditures as a percentage of revenues will be consistent with or slightly
+higher than those incurred during fiscal 2013 as we continue to invest in the areas of cloud computing and SaaS.

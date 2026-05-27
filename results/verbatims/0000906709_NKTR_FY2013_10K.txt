@@ -1,0 +1,32 @@
+FIRM         : NKTR (CIK 0000906709) | FY2013
+FILE         : 0000906709_NKTR_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Manufacturing, laboratory and other equipment are depreciated using
+the straight-line method generally over estimated useful lives of three to seven years.
+
+[VERBATIM — Changement de politique]
+As royalties are remitted to RPI from Roche and UCB, the balance of the Royalty Obligation will be effectively repaid over the life of the agreement. In order to determine the amortization of the Royalty
+Obligation, we are required to estimate the total amount of future royalty payments to be received by RPI and payments we are required to make to RPI as noted below, if any, over the life of the agreement. The sum of these amounts less the $124.0
+million proceeds we received will be recorded as interest expense over the life of the Royalty Obligation. Since inception, our estimate of this total interest expense resulted in an effective annual interest rate of approximately 17%. We
+periodically assess the estimated royalty payments to RPI from UCB and Roche and to the extent such payments are greater or less than our initial estimates, or the timing of such payments is materially different than our original estimates, we will
+prospectively adjust the amortization of the Royalty Obligation. There are a number of factors that could materially affect the amount and timing of royalty payments from CIMZIA ® and MIRCERA ® , most of which
+are not within our control. Such factors include, but are not limited to, changing standards of care, the introduction of competing products, manufacturing or other delays, biosimilar competition, intellectual property matters, adverse events that
+result in governmental health authority imposed restrictions on the use of the drug products, and other events or circumstances that could result in reduced royalty payments from CIMZIA ® and MIRCERA ® , all of which
+would result in a reduction of non-cash royalty revenues and the non-cash interest expense over the life of the Royalty Obligation. Conversely, if sales of CIMZIA ® and MIRCERA ® are more than
+expected, the non-cash royalty revenues and the non-cash interest expense recorded by us would be greater over the term of the Royalty Obligation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

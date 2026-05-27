@@ -1,0 +1,20 @@
+FIRM         : QMCO (CIK 0000709283) | FY2015
+FILE         : 0000709283_QMCO_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are carried at cost, less accumulated depreciation and amortization, computed on a straight-line basis over the estimated useful lives of the assets as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer's Accounting for Fees Paid in a Cloud Computing Arrangement ||| ("ASU 2015-05"). ASU 2015-05 requires that customers apply the same criteria as vendors to determine whether a cloud computing arrangement ("CCA") contains a software license or is solely a service contract. Under ASU 2015-05, fees paid by a customer in a CCA will be within the scope of internal-use software guidance if both of the following criteria are met: 1) the customer has the contractual right to take possession of the software at any time without significant penalty, and 2) it is feasible for the customer to run the software on its own hardware (or to contract with another party to host the software). ASU 2015-05 will be effective for us beginning April 1, 2016, or fiscal 2017. We do not anticipate adoption will impact our statements of financial position or results of operations. ||| In April 2015, the FASB issued ASU No. 2015-05, Customer's Accounting for Fees Paid in a Cloud Computing Arrangement ("ASU 2015-05"). ASU 2015-05 requires that customers apply the same criteria as vendors to determine whether a cloud computing arrangement ("CCA") contains a software license or is solely a service contract. Under ASU 2015-05, fees paid by a customer in a CCA will be within the scope of internal-use software guidance if both of the following criteria are met: 1) the customer has the contractual right to take possession of the software at any time without significant penalty, and 2) it is feasible for the customer to run the software on its own hardware (or to contract with another party to host the software). ASU 2015-05 will be effective for us beginning April 1, 2016, or fiscal 2017. We do not anticipate adoption will impact our statements of financial position or results of operations.

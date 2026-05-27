@@ -1,0 +1,20 @@
+FIRM         : NFBK (CIK 0001493225) | FY2019
+FILE         : 0001493225_NFBK_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU No. 2018-15. In August 2018, the FASB issued ASU No. 2018-15, “Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract.” This guidance aligns the accounting for implementation costs related to a hosting arrangement that is a service contract with the guidance on capitalizing costs associated with developing or obtaining internal-use software. Specifically, where a cloud computing arrangement includes a license to internal-use software, the software license is accounted for by the customer in accordance with Subtopic 350-40, “Intangibles - Goodwill and Other-Internal-Use Software”. ASU No. 2018-15 is effective for fiscal years beginning after December 15, 2019, with early adoption permitted. The amendments in this ASU should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. ASU No. 2018-15 is not expected to have a material impact on the Company’s Consolidated Financial Statements. ||| “Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract.” ||| This guidance aligns the accounting for implementation costs related to a hosting arrangement that is a service contract with the guidance on capitalizing costs associated with developing or obtaining internal-use software. Specifically, where a cloud computing arrangement includes a license to internal-use software, the software license is accounted for by the customer in accordance with Subtopic 350-40, “Intangibles - Goodwill and Other-Internal-Use Software”. ASU No. 2018-15 is effective for fiscal years beginning after December 15, 2019, with early adoption permitted. The amendments in this ASU should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. ASU No. 2018-15 is not expected to have a material impact on the Company’s Consolidated Financial Statements.

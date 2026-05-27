@@ -1,0 +1,23 @@
+FIRM         : HWM (CIK 0000004281) | FY2017
+FILE         : 0000004281_HWM_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Arconic is a global leader in lightweight metals engineering and manufacturing. Arconic’s innovative, multi-material products, which include aluminum, titanium, and nickel, are used worldwide in aerospace, automotive, commercial transportation, packaging, building and construction, oil and gas, defense, consumer electronics, and industrial applications. Arconic’s segments are organized by product on a worldwide basis. In the first quarter of 2017, the Company changed its primary measure of segment performance from After-tax operating income (ATOI) to Adjusted earnings before interest, tax, depreciation and amortization (“Adjusted EBITDA”). Segment performance under Arconic’s management reporting system is evaluated based on a number of factors; however, the primary measure of performance in 2017 was Adjusted EBITDA. Arconic’s definition of Adjusted EBITDA is net margin plus an add-back for depreciation and amortization. Net margin is equivalent to Sales minus the following items: Cost of goods sold; Selling, general administrative, and other expenses; Research and development expenses; and Provision for depreciation and amortization. Prior period information has been recast to conform to current year presentation. The Adjusted EBITDA presented may not be comparable to similarly titled measures of other companies.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

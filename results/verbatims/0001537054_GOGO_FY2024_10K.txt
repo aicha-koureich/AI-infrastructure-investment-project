@@ -1,0 +1,21 @@
+FIRM         : GOGO (CIK 0001537054) | FY2024
+FILE         : 0001537054_GOGO_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment, Network equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Property and Equipment and Depreciation - Property and equipment, including leasehold improvements, are stated at historical cost, less accumulated depreciation. Network asset inventory and construction in progress, which include materials, transmission and related equipment, interest and other costs relating to the construction and development of our network, are not depreciated until they are put into service. Depreciation of property and equipment is computed using the straight-line method over the estimated useful lives for owned assets, which are as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

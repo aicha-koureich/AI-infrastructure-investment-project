@@ -1,0 +1,20 @@
+FIRM         : WTW (CIK 0001140536) | FY2013
+FILE         : 0001140536_WTW_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES (Continued)
+ASSET CAT.   : furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation on furniture and equipment is
+
+[VERBATIM — Infrastructure IA]
+Total net cash used in continuing investing activities was $172 million in 2012 compared to $101 million in 2011. The $71 million increase in net outflow was due to higher capital spend, including; the fit-out and refurbishment of certain leasehold properties, including the completion of the European Data Center; development and implementation of a number of information technology projects including, financial systems and trading platforms; a $23 million increase in payments to acquire subsidiaries, primarily related to the acquisition of Avalon Actuarial, Inc, a Canadian actuarial consulting firm; and the non-recurrence of proceeds from the disposal of certain businesses during 2011.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

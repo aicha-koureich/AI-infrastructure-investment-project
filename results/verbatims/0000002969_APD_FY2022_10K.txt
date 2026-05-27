@@ -1,0 +1,20 @@
+FIRM         : APD (CIK 0000002969) | FY2022
+FILE         : 0000002969_APD_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-09-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. BASIS OF PRESENTATION AND MAJOR ACCOUNTING POLICIES
+ASSET CAT.   : computer software, equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized costs are reflected in "Plant and equipment, net" on the consolidated balance sheets and are depreciated over the estimated useful life of the software, generally a period of three to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We capitalize costs incurred with the implementation of a cloud computing arrangement that is a service contract, consistent with our policy for software developed or obtained for internal use. However, the capitalized costs are reflected in "Other noncurrent assets" on our consolidated balance sheets and expensed over the term of the related hosting arrangement.

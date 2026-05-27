@@ -1,0 +1,21 @@
+FIRM         : NWSA (CIK 0001564708) | FY2020
+FILE         : 0001564708_NWSA_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-08-03
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 7. PROPERTY, PLANT AND EQUIPMENT
+ASSET CAT.   : Machinery and equipment, Capitalized software, equipment
+DURÉE        : 2.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-13.0 ans | 3.0-10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Useful Lives As of June 30, 2020 2019 (in millions) Land $ 123 $ 146 Buildings and leaseholds 3 to 50 years 1,473 1,729 Digital set top units and installations 3 to 10 years 1,006 911 Machinery and equipment 2 to 20 years 1,680 1,792 Capitalized software 2 to 13 years 1,402 1,331 Finance lease right-of-use assets 15 years 124 — 5,808 5,909 Less: accumulated depreciation and amortization (a) (3,667) (3,524) 2,141 2,385 Construction in progress 115 169 Total Property, plant and equipment, net $ 2,256 $ 2,554
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Upon adoption of ASU 2018-15, “Intangibles–Goodwill and Other–Internal-Use Software (Subtopic 350-24): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract” (“ASU 2018-15”), the Company evaluates upfront costs, including implementation, set-up or other costs (collectively, “implementation costs”), for hosting arrangements under the internal-use software framework. Costs related to preliminary project activities and post implementation activities are expensed as incurred, whereas costs incurred in the development stage are generally capitalized as prepaid assets within Other Current Assets in the Balance Sheet. Capitalized implementation costs are amortized on a straight-line basis over the expected term of the hosting arrangement, which includes consideration of the non-cancellable contractual term and reasonably certain renewals. Amortization of capitalized implementation costs is included in the same line item in the Statements of Operations as the expense for fees for the associated hosting arrangement.

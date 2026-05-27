@@ -1,0 +1,20 @@
+FIRM         : FLS (CIK 0000030625) | FY2024
+FILE         : 0000030625_FLS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 11. DETAILS OF CERTAIN CONSOLIDATED BALANCE SHEET CAPTIONS
+ASSET CAT.   : Machinery, equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2024 2023 (Amounts in thousands) Land $ 61,351 $ 60,312 Buildings and improvements 450,718 427,332 Machinery, equipment and tooling 803,355 781,771 Software, furniture and fixtures and other 366,946 395,194 Gross property, plant and equipment 1,682,370 1,664,609 Less: accumulated depreciation (1,142,667) (1,158,451) Property, plant and equipment, net $ 539,703 $ 506,158
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Internally Developed Software — We capitalize certain costs associated with the development of internal-use software. Generally, these costs are related to significant software development projects and are amortized over their estimated useful life, typi cally three to seven years, upon implementation of the software. We also capitalize certain costs incurred during the application development stage of implementation of cloud computing arrangements. Amounts capitalized for cloud arrangements are amortized on a straight-line basis over a period of three to seven years and are reported as a component of other long-term assets. ||| cally three to seven years, upon implementation of the software. We also capitalize certain costs incurred during the application development stage of implementation of cloud computing arrangements. Amounts capitalized for cloud arrangements are amortized on a straight-line basis over a period of three to seven years and are reported as a component of other long-term assets.

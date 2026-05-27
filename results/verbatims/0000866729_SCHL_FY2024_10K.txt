@@ -1,0 +1,21 @@
+FIRM         : SCHL (CIK 0000866729) | FY2024
+FILE         : 0000866729_SCHL_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : May 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF THE BUSINESS, BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment are depreciated over periods not exceeding
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software, net of accumulated amortization, was $54.6 and $62.7 at May 31, 2024 and 2023, respectively. Capitalized software is amortized over a period of three to ten years. Amortization expense for capitalized software was $25.1, $25.3 and $26.4 for the fiscal years ended May 31, 2024, 2023 and 2022, respectively. Furniture, fixtures and equipment are depreciated over periods not exceeding ten years. The Company evaluates the depreciation periods of property, plant and equipment to determine whether events or circumstances indicate that the asset’s carrying value is not recoverable or warrant revised estimates of useful lives.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Depreciation and amortization expenses for the fiscal year ended May 31, 2024 were $57.1 million, compared to $54.7 million in the prior fiscal year. The $2.4 million increase was primarily driven by certain assets related to the Company's technology systems placed into service during the year ended May 31, 2024. The Company continues to shift to cloud computing arrangements (e.g. software as a service) which results in capitalized software being amortized through Selling, general and administrative expenses rather than Depreciation and amortization. Amortization of capitalized cloud software increased $1.1 million when compared to the prior fiscal year as a result of new assets placed into service.

@@ -1,0 +1,21 @@
+FIRM         : EGBN (CIK 0001050441) | FY2023
+FILE         : 0001050441_EGBN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2030-06-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : computer software and hardware
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Premises and equipment are stated at cost less accumulated depreciation and amortization computed using the straight-line method for financial reporting purposes. Premises and equipment are depreciated over the useful lives of the assets, which generally range from three to seven years for furniture, fixtures and equipment, three to five years for computer software and hardware and five to twenty years for leasehold improvements.
+
+[VERBATIM — Infrastructure IA]
+Income producing – commercial real estate . Income producing commercial real estate loans comprise permanent and bridge financing provided to professional real estate owners/managers of commercial and residential real estate projects and properties who have a demonstrated a record of past success with similar properties. Collateral properties include apartment buildings, office buildings, hotels, mixed-use buildings, retail, data centers, warehouse and shopping centers. The primary source of repayment on these loans is generally expected to come from lease or operation of the real property collateral. Income producing commercial real estate loans are impacted by fluctuation in collateral values, as well as rental demand and rates.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+(3) The Bank has outstanding obligations under its current core data processing contract that expire in June 2029 and one other vendor arrangement that relates to network infrastructure and data center services that expires in December 2024. ||| The Bank has outstanding obligations under its current core data processing contract that expire in June 2029 and one other vendor arrangement that relates to network infrastructure and data center services that expires in December 2024.

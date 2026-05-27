@@ -1,0 +1,20 @@
+FIRM         : LDOS (CIK 0001336920) | FY2017
+FILE         : 0001336920_LDOS_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 29, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1—Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Under certain services contracts, costs are incurred, usually at the beginning of the contract performance, to transition the services, employees and equipment from the customer or prior contractor. These costs are capitalized as deferred assets and amortized over the shorter of the contractual period of performance or expected period of performance, if recoverability is deemed probable.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

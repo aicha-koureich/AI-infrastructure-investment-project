@@ -1,0 +1,24 @@
+FIRM         : SO (CIK 0000092122) | FY2022
+FILE         : 0000092122_SO_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. REGULATORY MATTERS
+ASSET CAT.   : software, which ranges up to
+DURÉE        : 10.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : A100;B100;Blackwell (3 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+For Alabama Power, costs are amortized ratably over the life of the related software, which ranges up to 10 years. For Southern Company Gas, costs began being amortized ratably in July 2022 over the life of the related software, which ranges up to 10 years.
+
+[VERBATIM — Changement de politique]
+Depreciation studies are conducted periodically to update the composite rates. These studies are filed with the respective state PSC and/or other applicable state and federal regulatory agencies for the traditional electric operating companies and the natural gas distribution utilities. Effective April 1, 2020, Mississippi Power's depreciation rates were revised. Effective January 1, 2023, Alabama Power's and Georgia Power's depreciation rates were revised. See Note 2 for additional information.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Software and cloud computing costs (j) ||| Southern Company Alabama Power Georgia Power Mississippi Power Southern Company Gas (in millions) At December 31, 2022 AROs (a)(u) $ 6,096 $ 1,971 $ 3,829 $ 242 $ — Retiree benefit plans (b)(u) 2,517 675 848 113 114 Remaining net book value of retired assets (c) 1,543 562 962 19 — Under recovered regulatory clause revenues (d) 953 788 — 31 134 Deferred income tax charges (e) 866 250 583 30 — Environmental remediation (f)(u) 294 — 25 — 269 Loss on reacquired debt (g) 257 38 213 5 1 Vacation pay (h)(u) 212 82 108 10 12 Regulatory clauses (i) 142 142 — — — Software and cloud computing costs (j) 111 46 59 — 6 Nuclear outage (k) 82 52 30 — — Long-term debt fair value adjustment (l) 69 — — — 69 Fuel-hedging (realized and unrealized) losses (m) 60 15 45 — — Storm damage (n) 44 — — 44 — Plant Daniel Units 3 and 4 (o) 27 — — 27 — Kemper County energy facility assets, net (p) 20 — — 20 — Other regulatory assets (q) 197 36 27 16 118 Deferred income tax credits (e) (5,251) (1,925) (2,244) (269) (788) Other cost of removal obligations (a) (1,430) 11 462 (196) (1,707) Storm/property damage reserves (r) (216) (97) (83) (36) — Reliability reserves (r) (191) (166) — (25) — Customer refunds (s) (183) (62) (121) — — Fuel-hedging (realized and unrealized) gains (m ) (83) (38) (21) (24) — Over recovered regulatory clause revenues (d) (64) — (38) — (26) Other regulatory liabilities (t) (239) (40) (21) (3) (93) Total regulatory assets (liabilities), net $ 5,833 $ 2,340 $ 4,663 $ 4 $ (1,891) ||| Software and cloud computing costs

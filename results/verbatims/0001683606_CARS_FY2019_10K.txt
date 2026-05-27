@@ -1,0 +1,21 @@
+FIRM         : CARS (CIK 0001683606) | FY2019
+FILE         : 0001683606_CARS_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of business, company history and basis of presentation
+ASSET CAT.   : Computer software, Computer hardware, Furniture and fixtures, equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+December 31, Asset 2019 2018 Estimated Useful Life Computer software $ 46,636 $ 29,300 18 months - 5 years Computer hardware 19,429 19,461 3 - 5 years Furniture and fixtures 4,757 4,970 10 years Leasehold improvements 19,151 18,594 Lesser of useful life or lease term Property and equipment, gross 89,973 72,325 Less: Accumulated depreciation (46,277 ) (30,843 ) Property and equipment, net $ 43,696 $ 41,482
+
+[VERBATIM — Infrastructure IA]
+Product and technology. The product team creates and manages consumer and dealer-facing innovation, manages consumer user experience and includes the costs associated with our editorial, SEO and data strategy teams. The technology team develops and supports our products and websites. Product and technology expense includes compensation costs, as well as license fees for vehicle specifications, search engine optimization, hardware/software maintenance, software licenses, data center and other infrastructure costs. Product and technology expense represents 10.4% of total revenue for the years ended December 31, 2019 and 2018. Product and technology expense decreased $5.9 million, primarily due to cost efficiencies as a result of the Technology Transformation.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements. In August 2018, the FASB issued ASU 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract , aligning the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs for internal-use software. This ASU will be effective in the first quarter of 2020 and will be adopted on a prospective basis. The Company has evaluated this new guidance and it will not have a material impact on its Consolidated and Combined Financial Statements and related disclosures. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

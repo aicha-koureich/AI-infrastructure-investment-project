@@ -1,0 +1,20 @@
+FIRM         : LGIH (CIK 0001580670) | FY2023
+FILE         : 0001580670_LGIH_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 4. PROPERTY AND EQUIPMENT
+ASSET CAT.   : equipment, Computer software, Furniture and fixtures, Machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment consist of the following (in thousands): December 31, 2023 2022 Rental properties $ 43,324 $ 29,833 Computer software and equipment 3,946 3,894 Leasehold improvements 1,722 1,466 Furniture and fixtures 2,091 1,060 Machinery and equipment 231 127 Total property and equipment 51,314 36,380 Less: Accumulated depreciation (5,792) (3,383) Property and equipment, net $ 45,522 $ 32,997
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,29 @@
+FIRM         : INVA (CIK 0001080014) | FY2016
+FILE         : 0001080014_INVA_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+ASSET CAT.   : software costs are depreciated over
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are depreciated over three years.
+
+[VERBATIM — Changement de politique]
+We
+incurred approximately $15.3 million in transaction costs in connection with issuance of 2029 Notes, which we amortize to interest expense over the estimated life of the 2029 Notes based on
+the effective interest method. Since the principal and interest payments on the 2029 Notes are based on royalties from product sales, which will vary from quarter to quarter, the 2029 Notes may be
+repaid prior to the final maturity date in 2029. We continue to assess, on an ongoing basis, our estimates on royalties from products sales as it relates to its impact on payments of principal and
+interest on the 2029 Notes. To the extent that the interest or principal payments are greater or less than our initial estimates or the timing of such payments is materially different than our
+original estimates, we prospectively adjust the amortization of the debt issuance costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

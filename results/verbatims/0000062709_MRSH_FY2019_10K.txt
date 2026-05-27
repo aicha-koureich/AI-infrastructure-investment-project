@@ -1,0 +1,20 @@
+FIRM         : MRSH (CIK 0000062709) | FY2019
+FILE         : 0000062709_MRSH_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized Software, computer software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized computer software costs of $496 million and $435 million , net of accumulated amortization of $1.4 billion and $1.3 billion as of December 31, 2019 and 2018 , respectively, are included in other assets in the consolidated balance sheets.
+
+[VERBATIM — Infrastructure IA]
+(a) Includes data center contract termination costs and temporary infrastructure leasing costs.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

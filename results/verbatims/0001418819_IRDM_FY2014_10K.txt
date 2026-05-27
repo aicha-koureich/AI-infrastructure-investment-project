@@ -1,0 +1,37 @@
+FIRM         : IRDM (CIK 0001418819) | FY2014
+FILE         : 0001418819_IRDM_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31,
+2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies and Basis of Presentation Principles of Consolidation and Basis of Presentation
+ASSET CAT.   : Not disclosed
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Internal use software costs are amortized once the software is placed in
+service using the straight-line method over periods ranging from three to seven years.
+
+[VERBATIM — Changement de politique]
+The Company calculates depreciation expense using the straight-line
+method and evaluates the appropriateness of the useful life used in this calculation on a quarterly basis or as events occur that
+require additional assessment. During 2012, the Company updated its analysis of the current satellite constellation’s
+health and remaining useful life. Based on the results of this analysis, the Company estimated that its current constellation of
+satellites would be operational for longer than previously expected. As a result, the estimated useful life of the current
+constellation was extended and was consistent with the expected deployment of Iridium NEXT. In September 2014, the Company
+further updated its analysis of the current satellites’ remaining useful lives based on the refinement of the launch schedule
+and deployment plan for Iridium NEXT. As a result, the estimated useful lives of the satellites within the current constellation
+have been extended and are consistent with the expected deployment of Iridium NEXT. These changes in estimated useful life resulted
+in a decrease in depreciation expense compared to the prior year. The change in accounting estimate reduced depreciation expense
+in 2014 and 2012 by $3.8 million and $19.6 million, respectively. For the year ended December 31, 2014, the reduction in depreciation
+expense increased each of basic and diluted net income per share by $0.03 and $0.02, respectively. For the year ended December
+31, 2012, the reduction in depreciation expense increased basic and diluted net income per share by $0.17 and $0.16, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

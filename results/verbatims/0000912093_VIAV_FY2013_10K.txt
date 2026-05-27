@@ -1,0 +1,25 @@
+FIRM         : VIAV (CIK 0000912093) | FY2013
+FILE         : 0000912093_VIAV_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 29, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : building and improvements
+DURÉE        : 2.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is computed by the straight-line method over the following estimated useful lives of the assets:
+10 to 50 years for building and improvements, 2 to 20 years for machinery and equipment, and 2 to 5 years for furniture, fixtures, software and office equipment.
+
+[VERBATIM — Infrastructure IA]
+Serving
+telecommunications and enterprise data communications markets, CCOP products include components, modules, subsystems, and solutions for access (local), metro (intracity),
+long-haul (city-to-city and worldwide), and submarine (undersea) networks, as well as SANs, LANs and WANs. These products enable the transmission and transport of video, audio and text data over
+high-capacity fiber-optic cables. CCOP maintains leading positions in the fastest-growing optical communications segments, including ROADMs and tunable XFPs and SFPs. CCOP's growing portfolio
+of pluggable transceivers supports LAN/SAN needs and the cloud for customers building proprietary data center networks.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

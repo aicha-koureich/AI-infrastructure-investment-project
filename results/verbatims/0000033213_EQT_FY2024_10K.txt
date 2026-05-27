@@ -1,0 +1,20 @@
+FIRM         : EQT (CIK 0000033213) | FY2024
+FILE         : 0000033213_EQT_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-19
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2024 2023 (Thousands) Oil and gas producing properties $ 33,549,913 $ 32,510,595 Less: Accumulated depletion 12,489,317 10,734,099 Net oil and gas producing properties 21,060,596 21,776,496 Other production assets, at cost less accumulated depreciation 20,434 21,679 Net production assets 21,081,030 21,798,175 Gathering assets 8,067,556 1,153,049 Less: Accumulated depreciation 131,546 41,793 Net gathering assets 7,936,010 1,111,256 Transmission and storage assets 2,667,352 — Less: Accumulated depreciation 30,027 — Net transmission and storage assets 2,637,325 — Other property, plant and equipment, at cost less accumulated depreciation 93,453 40,739 Net property, plant and equipment $ 31,747,818 $ 22,950,170
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

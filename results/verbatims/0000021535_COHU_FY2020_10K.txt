@@ -1,0 +1,20 @@
+FIRM         : COHU (CIK 0000021535) | FY2020
+FILE         : 0000021535_COHU_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 26, 2020
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+In 2019 and 2020, the global semiconductor market was impacted by U.S. and China trade tensions which impacted our customers’ ability to supply product to certain end users resulting in customer test cell utilization below levels that have historically triggered the need for additional capacity. During the first half of 2020 our net sales were negatively impacted by movement control orders and the subsequent supply disruptions caused by the rapid and global spread of COVID-19 and weakness in the automotive market. Demand for equipment used in testing mobility semiconductor applications, data centers and personal computers strengthened during the second half of 2020 driven by the launch and accelerated ramp of our RedDragon RF module for testing 5G, Wi-Fi 6 and Ultra-Wideband devices, and new customers for our Neon inspection platform. We also began to see improved demand from semiconductor automotive and industrial customers and orders for PCB test equipment were at near record levels. Based on improved business conditions, during the second half of 2020, we took action to reduce outstanding principal, by $36.4 million, under our Term Loan B debt associated with the financing of the Xcerra acquisition in October 2018.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

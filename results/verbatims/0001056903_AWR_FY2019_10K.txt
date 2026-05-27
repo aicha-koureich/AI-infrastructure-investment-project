@@ -1,0 +1,20 @@
+FIRM         : AWR (CIK 0001056903) | FY2019
+FILE         : 0001056903_AWR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense for GSWC, excluding amortization expense and depreciation on transportation equipment, totaled $31.7 million , $37.3 million and $36.5 million for the years ended December 31, 2019 , 2018 and 2017 . Depreciation computed on GSWC’s transportation equipment is recorded in other operating expenses and totaled $316,000 , $238,000 and $242,000 for the years ended December 31, 2019 , 2018 and 2017 , respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15-Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract . Under this ASU, entities that enter into cloud computing service arrangements are required to apply existing internal-use software guidance to determine which implementation costs are eligible for capitalization. Under that guidance, implementation costs are capitalized or expensed depending on the nature of the costs and the project stage during which they are incurred. Registrant adopted this guidance effective January 1, 2019. The adoption of this accounting standard did not have a significant impact on Registrant's financial statements. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| . Under this ASU, entities that enter into cloud computing service arrangements are required to apply existing internal-use software guidance to determine which implementation costs are eligible for capitalization. Under that guidance, implementation costs are capitalized or expensed depending on the nature of the costs and the project stage during which they are incurred. Registrant adopted this guidance effective January 1, 2019. The adoption of this accounting standard did not have a significant impact on Registrant's financial statements.

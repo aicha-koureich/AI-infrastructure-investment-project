@@ -1,0 +1,20 @@
+FIRM         : CVS (CIK 0000064803) | FY2021
+FILE         : 0000064803_CVS_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Significant Accounting Policies
+ASSET CAT.   : buildings, building improvements and leasehold improvements
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment is reported at historical cost, net of accumulated depreciation. Property, equipment and improvements to leased premises are depreciated using the straight-line method over the estimated useful lives of the assets, or when applicable, the term of the lease, whichever is shorter. Estimated useful lives generally range from 1 to 40 years for buildings, building improvements and leasehold improvements and 3 to 10 years for fixtures, equipment and internally developed software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

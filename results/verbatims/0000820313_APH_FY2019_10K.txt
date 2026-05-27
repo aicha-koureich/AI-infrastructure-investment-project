@@ -1,0 +1,20 @@
+FIRM         : APH (CIK 0000820313) | FY2019
+FILE         : 0000820313_APH_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1—Summary of Significant Accounting Policies
+ASSET CAT.   : machinery and equipment and office equipment
+DURÉE        : 20.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are carried at cost less accumulated depreciation. Depreciation is recorded on a straight-line basis over the respective asset lives determined on a composite basis by asset group or on a specific item basis using the estimated useful lives of such assets, which generally range from 3 to 12 years for machinery and equipment and office equipment and 20 to 40 years for buildings. The Company assesses the impairment of property and equipment subject to depreciation, whenever events or changes in circumstances indicate the carrying value may not be recoverable.
+
+[VERBATIM — Infrastructure IA]
+the industrial market increased (approximately $214.9), reflecting sales strength in medical, heavy equipment, electric vehicle, railway and mass transit, and oil and gas, as well as contributions from acquisitions. Net sales to the automotive market increased (approximately $184.9), driven by growth and expansion in most regions of the global automotive market, as well as contributions from acquisitions. Net sales to the information technology and data communications market increased (approximately $166.1), reflecting organic growth in products for data centers, including server and networking-related applications, storage, and consumer electronics. Net sales to the military market increased (approximately $133.2), driven by broad strength across the market including increased sales into avionics, military communications and military airframe applications, as well as missile applications. Net sales to the mobile networks market increased (approximately $56.3), due to increased sales to both mobile networks equipment manufacturers and mobile operators. Net sales to the commercial aerospace market increased (approximately $39.6) primarily due to strength in large passenger planes. Net sales in the Cable Products and Solutions segment (approximately 5% of net sales), which primarily serves the broadband communications market, increased 4% in U.S. dollars, 6% in constant currencies and 6% organically in 2018, compared to 2017. The increase in the Cable Products and Solutions segment was primarily due to an increase in cable products sold into the mobile networks market, which was partially offset by the slight decrease in sales into the broadband communications market.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

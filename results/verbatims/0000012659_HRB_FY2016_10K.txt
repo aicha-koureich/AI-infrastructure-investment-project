@@ -1,0 +1,21 @@
+FIRM         : HRB (CIK 0000012659) | FY2016
+FILE         : 0000012659_HRB_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : April 30, 2017
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 17: CONDENSED CONSOLIDATING FINANCIAL STATEMENTS
+ASSET CAT.   : computers and other equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+PROPERTY AND EQUIPMENT – Buildings and equipment are initially recorded at cost and are depreciated over the estimated useful life of the assets using the straight-line method. Estimated useful lives are 15 to 40 years for buildings, three to five years for computers and other equipment, three years for purchased software and up to eight years for leasehold improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

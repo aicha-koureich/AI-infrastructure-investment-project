@@ -1,0 +1,23 @@
+FIRM         : PEG (CIK 0000788784) | FY2021
+FILE         : 0000788784_PEG_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Organization, Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The cost of nuclear fuel is capitalized within Property, Plant and Equipment and amortized to fuel expense using the units-of-production method.
+
+[VERBATIM — Changement de politique]
+In early 2020, the NRC approved Peach Bottom’s second license extension for both units. Concurrent with the license extensions, PSEG extended the useful life of the asset to match the 80-year life expectation and reassessed the related ARC and ARO assumptions. This resulted in an increase to the ARC asset and ARO liability of $74 million, primarily due to lower discount rates offset by a longer discounting period as a result of the Peach Bottom units’ longer expected useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

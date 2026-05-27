@@ -1,0 +1,21 @@
+FIRM         : FTK (CIK 0000928054) | FY2021
+FILE         : 0000928054_FTK_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-04-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 6 — Property and Equipment
+ASSET CAT.   : equipment, Machinery and equipment, Furniture and fixtures, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.9 ans | 3.1 ans | 9.1 ans | 9.9 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are as follows (in thousands): December 31, 2021 2020 Land $ 886 $ 2,415 Land improvements 520 867 Buildings and leasehold improvements 5,473 6,364 Machinery and equipment 6,843 7,760 Furniture and fixtures 620 649 Transportation equipment 878 1,190 Computer equipment and software 1,176 1,296 Property and equipment 16,396 20,541 Less accumulated depreciation (11,100) (11,454) Property and equipment, net $ 5,296 $ 9,087
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

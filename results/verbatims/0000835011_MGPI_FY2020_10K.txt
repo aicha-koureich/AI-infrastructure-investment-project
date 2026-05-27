@@ -1,0 +1,20 @@
+FIRM         : MGPI (CIK 0000835011) | FY2020
+FILE         : 0000835011_MGPI_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-23
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1: NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Properties, Depreciation, and Amortization. Property, plant, and equipment are typically stated at cost. Additions, including those that increase the life or utility of an asset, are capitalized and all properties are depreciated over their estimated remaining useful lives. Depreciation and amortization are computed using the straight line method over the following estimated useful lives:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

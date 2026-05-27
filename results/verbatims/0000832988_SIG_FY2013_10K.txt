@@ -1,0 +1,23 @@
+FIRM         : SIG (CIK 0000832988) | FY2013
+FILE         : 0000832988_SIG_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 1, 2014
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 1. Principal accounting policies
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Cost of sales includes merchandise costs net of discounts and allowances, freight, processing and distribution costs of moving merchandise from suppliers to distribution centers and to stores,
+inventory shrinkage, store operating and occupancy costs, net bad debts and charges for late payments under the US in-house customer finance programs. Store operating and occupancy costs include utilities, rent, real estate taxes, common
+area maintenance charges and depreciation. Selling, general and administrative expenses include store staff and store administrative costs, centralized administrative expenses, including information technology, credit and eCommerce, advertising and
+promotional costs, and other operating expenses not specifically categorized elsewhere in the consolidated income statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

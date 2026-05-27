@@ -1,0 +1,21 @@
+FIRM         : FCN (CIK 0000887936) | FY2023
+FILE         : 0000887936_FCN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : furniture, equipment and software
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 3.0 ans | 10.0 ans | 11.0 ans
+
+[VERBATIM — Durée de vie]
+We record property and equipment, including improvements that extend useful life, at cost, while maintenance and repairs are expensed as incurred. We calculate depreciation using the straight-line method based on an estimated useful life ranging from less than one year to 11 years for furniture, equipment and software. Capitalized software developed for internal use is classified within computer equipment and software and is amortized over the estimated useful life of the software, which ranges from three years to 10 years. Purchased software licenses to be sold to customers are capitalized and amortized over the license term.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

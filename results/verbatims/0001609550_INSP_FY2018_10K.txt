@@ -1,0 +1,21 @@
+FIRM         : INSP (CIK 0001609550) | FY2018
+FILE         : 0001609550_INSP_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Composition of Certain Financial Statement Items
+ASSET CAT.   : Computer equipment, Furniture, office equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+December 31, 2018 2017 Computer equipment and software $ 333 $ 351 Furniture and office equipment 4 137 Manufacturing equipment 1,049 1,108 Research and development equipment 30 30 Leasehold improvements 185 178 Property and equipment, cost 1,601 1,804 Less: accumulated depreciation and amortization (799) (810) Property and equipment, net $ 802 $ 994
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

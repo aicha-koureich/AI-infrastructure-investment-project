@@ -1,0 +1,21 @@
+FIRM         : JBSS (CIK 0000880117) | FY2023
+FILE         : 0000880117_JBSS_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-09-13
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 — SIGNIFICANT ACCOUNTING POLICIES Basis of Presentation and Consolidation and Description of Business Our consolidated financial statements inc
+ASSET CAT.   : Equipment, Machinery and equipment, Furniture
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100;B200 (2 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation expense for the last three fiscal years is as follows: Year Ended June 29, 2023 Year Ended June 30, 2022 Year Ended June 24, 2021 Depreciation expense $ 18,746 $ 16,390 $ 16,144 Cost is depreciated using the straight-line method over the following estimated useful lives: Classification Estimated Useful Lives Buildings 10 to 40 years Machinery and equipment 5 to 10 years Furniture and leasehold improvements 5 to 10 years Vehicles 3 to 5 years Computers and software 3 to 10 years No interest costs were capitalized for the last three fiscal years due to the lack of any significant project requiring such capitalization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

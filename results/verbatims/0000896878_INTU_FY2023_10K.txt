@@ -1,0 +1,20 @@
+FIRM         : INTU (CIK 0000896878) | FY2023
+FILE         : 0000896878_INTU_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-08-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+• Application of AI : We believe AI is essential to how we help our customers work smarter because we can automate, predict, and personalize their experiences. Intuit has built AI capabilities into our products and services for nearly a decade, including machine learning, knowledge engineering, natural language processing and understanding, and, more recently, fine-tuned financial large language models. Our investment in AI, and generative AI in particular, provides a foundation for us to innovate at scale and with speed to build new customer experiences.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Our online offerings include QuickBooks Online, online payroll services, merchant payment processing and bill pay services, Mailchimp’s marketing automation and customer relationship management offerings, TurboTax Online, ProConnect Tax Online, consumer and professional electronic tax filing services, Credit Karma offerings, and Mint. We completed the transition of our systems, networks, and databases used to operate these online offerings to public cloud providers, such as Amazon Web Services and Google Cloud Platform. ||| Ms. Tessel has been Executive Vice President and Chief Technology Officer of Intuit since January 2019 and previously served as Chief Product Development Officer of Intuit’s Small Business & Self-Employed Group from June 2017 to December 2018. She has been appointed as Executive Vice President and General Manager of Intuit’s Small Business & Self-Employed Group, effective September 5, 2023. Prior to joining Intuit, Ms. Tessel worked for Docker Inc., a software containerization platform, serving as Senior Vice President of Engineering and Executive Vice President of Strategic Development from November 2014 to June 2017, and VMware, which provides cloud computing and related services, from June 2008 through November 2014, most recently serving as Vice President of Engineering. She has served on the board of directors of Cisco Systems, Inc. since March 2021. Ms. Tessel holds a Bachelor of Science degree in Computing from Technion – Israel Institute of Technology. ||| Our reputation and ability to attract, retain and serve our customers is dependent upon the reliable performance of our products and our underlying technical infrastructure. As we continue to grow our online services, we become more dependent on the continuing operation and availability of our information technology and communications systems and those of our external service providers, including, for example, third-party Internet-based or cloud computing services. We do not have redundancy for all of our systems, and our disaster recovery planning may not account for all eventualities. We have designed a significant portion of our software and computer systems to utilize data processing and storage capabilities provided by public cloud providers. If any public cloud service that we use is unavailable to us for any reason, our customers may not be able to access certain of our cloud products or features, which could significantly impact our operations, business, and financial results.

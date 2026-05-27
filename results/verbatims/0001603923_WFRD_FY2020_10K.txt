@@ -1,0 +1,21 @@
+FIRM         : WFRD (CIK 0001603923) | FY2020
+FILE         : 0001603923_WFRD_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment PP&E Estimated Useful Lives Buildings and leasehold improvements
+DURÉE        : 10.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-12.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Major Classes of Property, Plant and Equipment PP&E Estimated Useful Lives Buildings and leasehold improvements 10 – 40 years or lease term Rental and service equipment 3 – 10 years Machinery and other 2 – 12 years
+
+[VERBATIM — Infrastructure IA]
+We have data center lease agreements with lease and non-lease components which are accounted for separately, while for the remainder of our agreements we have elected the practical expedient to account for lease and non-lease components as a single lease component. For certain equipment leases, such as copiers and vehicles, we account for the leases under a portfolio method. Operating lease payments include related options to extend or terminate lease terms that are reasonably certain of being exercised.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

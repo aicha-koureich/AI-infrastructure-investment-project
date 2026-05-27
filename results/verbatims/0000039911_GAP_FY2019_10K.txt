@@ -1,0 +1,23 @@
+FIRM         : GAP (CIK 0000039911) | FY2019
+FILE         : 0000039911_GAP_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 1, 2020
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 2
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+($ in millions) February 1, 2020 February 2, 2019 Leasehold improvements $ 2,923 $ 3,104 Furniture and equipment 2,802 2,732 Software 1,626 1,525 Land, buildings, and building improvements 1,408 1,123 Construction-in-progress 202 183 Property and equipment, at cost 8,961 8,667 Less: Accumulated depreciation (5,839 ) (5,755 ) Property and equipment, net of accumulated depreciation $ 3,122 $ 2,912
+
+[VERBATIM — Changement de politique]
+In August 2018, the FASB issued ASU No. 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. The ASU is intended to align the requirements for capitalization of implementation costs incurred in a cloud computing arrangement that is a service contract with the existing guidance for internal-use software. This guidance is effective for fiscal years and interim periods within those years beginning after December 15, 2019. The guidance provides flexibility in adoption, allowing for either retrospective adjustment or prospective adjustment for all implementation costs incurred after the date of adoption. We do not expect that the adoption of this ASU will have a material impact on our Consolidated Financial Statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU No. 2018-15, Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| In August 2018, the FASB issued ASU No. 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. The ASU is intended to align the requirements for capitalization of implementation costs incurred in a cloud computing arrangement that is a service contract with the existing guidance for internal-use software. This guidance is effective for fiscal years and interim periods within those years beginning after December 15, 2019. The guidance provides flexibility in adoption, allowing for either retrospective adjustment or prospective adjustment for all implementation costs incurred after the date of adoption. We do not expect that the adoption of this ASU will have a material impact on our Consolidated Financial Statements.

@@ -1,0 +1,20 @@
+FIRM         : SPGI (CIK 0000064040) | FY2022
+FILE         : 0000064040_SPGI_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-06-30
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 1. Accounting Policies
+ASSET CAT.   : Capitalized software, technology
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized costs are amortized from the year the software is ready for its intended use over its estimated useful life, three to seven years, using the straight-line method. Capitalized software development and website implementation costs are included in other non-current assets and are presented net of accumulated amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : EHTH (CIK 0001333493) | FY2022
+FILE         : 0001333493_EHTH_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-04-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4 – Fair Value Measurements
+ASSET CAT.   : Computer equipment, Office equipment and furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2022 December 31, 2021 Computer equipment and software $ 8,727 $ 13,243 Office equipment and furniture 3,556 6,854 Leasehold improvements 5,992 7,458 Property and equipment, gross 18,275 27,555 Less accumulated depreciation and amortization (12,774) (15,450) Property and equipment, net $ 5,501 $ 12,105
+
+[VERBATIM — Changement de politique]
+(2) Depreciation and amortization has been adjusted to include amortization of software development costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

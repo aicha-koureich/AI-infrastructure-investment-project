@@ -1,0 +1,23 @@
+FIRM         : NKTR (CIK 0000906709) | FY2020
+FILE         : 0000906709_NKTR_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-12
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 4 — Property, Plant and Equipment
+ASSET CAT.   : equipment, Computer equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2020 2019 Building and leasehold improvements $ 92,977 $ 93,097 Laboratory equipment 40,121 36,623 Computer equipment and software 28,684 26,910 Manufacturing equipment 21,796 22,030 Furniture, fixtures, and other 9,872 9,662 Depreciable property, plant and equipment at cost 193,450 188,322 Less: accumulated depreciation (138,488) (127,875) Depreciable property, plant and equipment, net 54,962 60,447 Construction-in-progress 4,700 5,218 Property, plant and equipment, net $ 59,662 $ 65,665
+
+[VERBATIM — Changement de politique]
+As royalties are remitted to RPI and HCR by our licensees, the balances of the respective Royalty Obligations will be effectively repaid over the lives of the agreements. To determine the amortization of the Royalty Obligations, we are required to estimate the total amount of future royalty payments to be received by RPI and HCR, respectively. The sum of these amounts less the net proceeds we received will be recorded as non-cash interest expense over the lives of the respective Royalty Obligations. We periodically assess the estimated royalty payments to RPI and HCR from our licensees and to the extent the amount or timing of such payments is materially different than our original estimates, we will prospectively adjust the imputed interest rate and the related amortization of the appropriate Royalty Obligation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

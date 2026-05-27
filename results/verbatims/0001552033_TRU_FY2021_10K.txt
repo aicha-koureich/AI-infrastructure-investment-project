@@ -1,0 +1,21 @@
+FIRM         : TRU (CIK 0001552033) | FY2021
+FILE         : 0001552033_TRU_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. Property, Plant and Equipment
+ASSET CAT.   : Computer equipment, furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+(in millions) December 31, 2021 December 31, 2020 Computer equipment and furniture $ 511.8 $ 451.8 Purchased software 218.3 179.0 Building and building improvements 139.8 118.0 Land 3.2 3.2 Total cost of property, plant and equipment 873.1 752.0 Less: accumulated depreciation (625.4) (532.3) Total property, plant and equipment, net of accumulated depreciation $ 247.7 $ 219.7
+
+[VERBATIM — Infrastructure IA]
+As a result of our acquisitions of Neustar and Sontiq on December 31, 2021, we acquired additional leases in 2021. Our lease obligations consist of operating leases for office space and data centers and a small number of finance leases for equipment. Our operating leases have remaining lease terms of up to 11.1 years. As of December 31, 2021 and December 31, 2020 the weighted-average remaining lease terms were 6.6 years and 5.4 years, respectively. We have options to extend many of our operating leases for an additional period of time and options to terminate several of our operating leases early. The lease term consists of the non-cancelable period of the lease, periods covered by options to extend the lease if we are reasonably certain to exercise the option, periods covered by an option to terminate the lease if we are reasonably certain not to exercise the option, and periods covered by an option to extend or not to terminate the lease in which the exercise of the option is controlled by the lessor.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

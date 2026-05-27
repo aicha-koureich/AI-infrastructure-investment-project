@@ -1,0 +1,21 @@
+FIRM         : APEI (CIK 0001201792) | FY2015
+FILE         : 0001201792_APEI_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 13. Quarterly Financial Summary (unaudited)
+ASSET CAT.   : equipment upon completion of each program and amortized over an estimated life not to exceed
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 3.0 ans | 5.0 ans | 7.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+All property and equipment are carried at cost less accumulated depreciation, except the acquired assets of HCON, which were recorded at fair value at the acquisition date. These costs are transferred to property and equipment upon completion of each program and amortized over an estimated life not to exceed three years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05, “Intangibles-Goodwill and Other-Internal-Use Software, Customer's Accounting for Fees Paid in a Cloud Computing Arrangement (Subtopic 350-40)” (“ASU 2015-05”). ASU 2015-05 requires customers to determine whether a cloud computing arrangement contains a software license. If the arrangement contains a software license, customers must account for fees related to the software license element in a manner consistent with how the acquisition of other software licenses is accounted for under ASC 350-40; if the arrangement does not contain a software license, customers must account for the arrangement as a service contract. ASU 2015-05 will take effect for us for the year ending December 31, 2016 and all interim periods therein. Entities may adopt ASU 2015-05: (i) retrospectively, or (ii) prospectively to arrangements entered into, or materially modified, after ASU 2015-05's effective date.

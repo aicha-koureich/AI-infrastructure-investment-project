@@ -1,0 +1,20 @@
+FIRM         : DFH (CIK 0001825088) | FY2024
+FILE         : 0001825088_DFH_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Nature of Business and Significant Accounting Policies
+ASSET CAT.   : Furniture and fixtures, Office equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Asset Class Useful Life Years Furniture and fixtures 2-7 Office equipment and software 1-4 Aircraft and other vehicles 5 Buildings 39
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

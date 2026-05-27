@@ -1,0 +1,23 @@
+FIRM         : NKTR (CIK 0000906709) | FY2022
+FILE         : 0000906709_NKTR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 4 — Property, Plant and Equipment
+ASSET CAT.   : equipment, Computer equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment consists of the following (in thousands): December 31, 2022 2021 Building and leasehold improvements $ 74,889 $ 97,385 Laboratory equipment 24,243 42,704 Computer equipment and software 26,205 28,829 Manufacturing equipment 25,052 22,374 Furniture, fixtures, and other 4,263 10,094 Depreciable property, plant and equipment at cost 154,652 201,386 Less: accumulated depreciation (124,731) (148,039) Depreciable property, plant and equipment, net 29,921 53,347 Construction-in-progress 2,530 7,163 Property, plant and equipment, net $ 32,451 $ 60,510
+
+[VERBATIM — Changement de politique]
+On February 24, 2012, we entered into a purchase and sale agreement (the 2012 Purchase and Sale Agreement) with RPI Finance Trust (RPI), an affiliate of Royalty Pharma, pursuant to which we sold, and RPI purchased, our right to receive royalty payments (the 2012 Transaction Royalties) arising from the worldwide net sales, from and after January 1, 2012, of (a) CIMZIA ® , under our license, manufacturing and supply agreement with UCB Pharma (UCB), and (b) MIRCERA ® , under our license, manufacturing and supply agreement with F. Hoffmann-La Roche Ltd and Hoffmann-La Roche Inc. (together referred to as Roche). We received aggregate cash proceeds of $124.0 million for the 2012 Transaction Royalties. Although we sold all of our rights to receive royalties from the CIMZIA ® and MIRCERA ® products, as a result of our ongoing manufacturing and supply obligations related to the generation of these royalties, we continue to account for these royalties as revenue. We recorded the $124.0 million in proceeds from this transaction as a liability (the 2012 Royalty Obligation) that is amortized using the effective interest method over the estimated life of the 2012 Purchase and Sale Agreement as royalties from the CIMZIA ® and MIRCERA ® products are remitted directly to RPI. As of December 31, 2022, our prospective effective interest rate used to amortize the liability is 10%.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

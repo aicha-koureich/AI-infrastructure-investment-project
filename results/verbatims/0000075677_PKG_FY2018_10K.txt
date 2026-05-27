@@ -1,0 +1,20 @@
+FIRM         : PKG (CIK 0000075677) | FY2018
+FILE         : 0000075677_PKG_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Revenue
+ASSET CAT.   : Machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Year Ended December 31, 2018 2017 Buildings $ 0.3 $ 0.3 Machinery and equipment 28.5 28.5 Total 28.8 28.8 Less accumulated amortization (16.7 ) (15.2 ) Total $ 12.1 $ 13.6
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

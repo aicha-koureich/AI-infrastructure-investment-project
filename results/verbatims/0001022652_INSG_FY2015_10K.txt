@@ -1,0 +1,20 @@
+FIRM         : INSG (CIK 0001022652) | FY2015
+FILE         : 0001022652_INSG_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We are a provider of intelligent wireless solutions for the worldwide mobile communications market. Our broad range of products principally includes intelligent mobile hotspots, USB modems, embedded modules, integrated asset-management and mobile tracking machine-to-machine (“M2M”) devices, communications and applications software and cloud services. In addition, through our acquisitions of DigiCore Holdings Limited (“DigiCore” or “Ctrack”) on October 5, 2015, and of R.E.R. Enterprises, Inc. (“RER”) and its wholly-owned subsidiary and principal operating asset, Feeney Wireless, LLC (collectively, “FW”), on March 27, 2015, our product portfolio was further expanded to include additional product offerings for fleet and vehicle telematics, stolen vehicle recovery, user-based insurance, M2M communications devices, applications software and software-as-a-service (“SaaS”) services.

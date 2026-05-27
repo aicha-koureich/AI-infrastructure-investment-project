@@ -1,0 +1,20 @@
+FIRM         : VST (CIK 0001692819) | FY2019
+FILE         : 0001692819_VST_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-02-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Nuclear fuel is capitalized and reported as a component of our property, plant and equipment in our consolidated balance sheets. Amortization of nuclear fuel is calculated on the units-of-production method and is reported as a component of fuel, purchased power costs and delivery fees in our consolidated statements of operations.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. The ASU will be effective for fiscal years beginning after December 15, 2019 and early adoption is permitted. The ASU requires a customer in a cloud hosting arrangement that is a service contract to determine which implementation costs to capitalize and which costs to expense based on the project stage of the implementation. The ASU also requires the customer to expense the capitalized implementation costs over the term of the hosting arrangement. The customer is required to apply the existing impairment and abandonment guidance on the capitalized implementation costs. We do not expect the ASU to have a material impact on our financial statements. ||| Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.

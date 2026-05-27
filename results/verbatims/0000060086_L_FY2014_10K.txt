@@ -1,0 +1,23 @@
+FIRM         : L (CIK 0000060086) | FY2014
+FILE         : 0000060086_L_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Contract drilling revenue from dayrate drilling contracts is recognized as services are performed. In connection with such
+drilling contracts, Diamond Offshore may receive fees (either lump-sum or dayrate) for the mobilization of equipment. These fees are earned as services are performed over the initial term of the related drilling contracts. Absent a contract,
+mobilization costs are recognized currently. From time to time, Diamond Offshore may receive fees from its customers for capital improvements to their rigs. Diamond Offshore defers such fees received and recognizes these fees into revenue on a
+straight-line basis over the period of the related drilling contract. Diamond Offshore capitalizes the costs of such capital improvements and depreciates them over the estimated useful life of the improvement.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

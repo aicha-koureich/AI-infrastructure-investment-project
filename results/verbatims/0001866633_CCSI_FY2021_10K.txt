@@ -1,0 +1,21 @@
+FIRM         : CCSI (CIK 0001866633) | FY2021
+FILE         : 0001866633_CCSI_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-04
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 1.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 1.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+The estimated useful lives of property and equipment range from 1 to 10 years. Fixtures, which are comprised primarily of leasehold improvements and equipment under finance leases, are amortized on a straight-line basis over their estimated useful lives or for leasehold improvements, the related lease term, if less. The estimated useful life of costs capitalized is evaluated for each specific project and ranges from 1 to 5 years (see Note 7 - Property and Equipment).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+At December 31, 2021, we had cash and cash equivalents of $66.8 million compared to $66.2 million at December 31, 2020. The increase in cash and cash equivalents resulted primarily from cash provided from operations, partially offset by cash used for purchases of property and equipment (including capitalized labor) and cash used to pay Ziff Davis for its equity interest in J2 Cloud Services, LLC. As of December 31, 2021, cash and cash equivalents held within domestic and foreign jurisdictions were $44.5 million and $22.3 million, respectively. ||| On October 7, 2020, the Former Parent issued $750 million aggregate principal amount of 4.625% Senior Notes due 2030. A portion of the proceeds were used to fund the redemption of the outstanding aggregate principal amount of the 6.0% Senior Notes due 2025 previously issued by J2 Cloud Services, LLC and to pay the redemption premium due in respect of such redemption and accrued and unpaid interest. The Parent used the remainder of the net proceeds for general corporate purposes including acquisitions. ||| On October 7, 2021, Consensus issued $500 million of 6.5% senior notes due in 2028 (the “2028 Senior Notes”), in a private placement offering exempt from the registration requirements of the Securities Act of 1933. In exchange for the equity interest in J2 Cloud Services, LLC, Consensus issued the 2028 Senior Notes to Ziff Davis. Ziff Davis then exchanged the 2028 Senior Notes with lenders under its credit agreement (or their affiliates) in exchange for extinguishment of a similar amount indebtedness under such credit agreement. The 2028 Senior Notes are presented as long-term debt, net of deferred issuance costs, on the Consolidated Balance Sheet as of December 31, 2021. The 2028 Senior Notes bear interest at a rate of 6.5% per annum, payable semi-annually in arrears on April 15 and October 15 of each year, commencing on April 15, 2022.

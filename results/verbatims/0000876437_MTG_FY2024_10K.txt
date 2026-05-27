@@ -1,0 +1,20 @@
+FIRM         : MTG (CIK 0000876437) | FY2024
+FILE         : 0000876437_MTG_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-21
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Year That the Rate Reaches the Ultimate Trend Rate
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+MGIC INVESTMENT CORPORATION AND SUBSIDIARIES CONSOLIDATED BALANCE SHEETS December 31, (In thousands) Note 2024 2023 Assets Investment portfolio: 5 / 6 Fixed income, available-for-sale, at fair value (amortized cost 2024 - $5,838,145; 2023 - $5,939,483) $ 5,511,564 $ 5,601,540 Short-term, fixed income, available-for-sale, at fair value (amortized cost 2024 - $339,978; 2023 - $121,539) 340,125 121,573 Equity securities, at fair value (cost, 2024 - $16,146; 2023 - $16,025) 14,762 14,771 Other invested assets, at cost 1,109 850 Total investment portfolio 5,867,560 5,738,734 Cash and cash equivalents 229,485 363,666 Restricted cash and cash equivalents 5,142 6,978 Accrued investment income 61,064 58,774 Reinsurance recoverable on loss reserves 9 47,281 33,302 Reinsurance recoverable on paid losses 9 4,197 9,896 Premiums receivable 57,536 58,499 Home office and equipment, net 35,679 38,755 Deferred insurance policy acquisition costs 11,694 14,591 Deferred income taxes, net 12 69,875 79,782 Other assets 157,722 135,403 Total assets $ 6,547,235 $ 6,538,380 Liabilities and shareholders' equity Liabilities: Loss reserves 8 $ 462,662 $ 505,379 Unearned premiums 120,360 157,779 Senior notes 7 644,667 643,196 Other liabilities 147,171 160,009 Total liabilities 1,374,860 1,466,363 Contingencies 17 Shareholders' equity: 13 Common stock ($1.00 par value, shares authorized 1,000,000; shares issued 2024 - 248,449; 2023 - 371,353; shares outstanding 2024 - 248,449; 2023 - 272,494) 248,449 371,353 Paid-in capital 1,808,236 1,808,113 Treasury stock at cost (shares 2024 - 0; 2023 - 98,859) 13 — (1,384,293) Accumulated other comprehensive income (loss), net of tax 10 (288,162) (316,281) Retained earnings 3,403,852 4,593,125 Total shareholders' equity 5,172,375 5,072,017 Total liabilities and shareholders' equity $ 6,547,235 $ 6,538,380
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+As part of our business, we maintain large amounts of confidential and proprietary information both on our own servers and those of cloud computing services. This includes personal information of consumers and our employees. Personal information is subject to an increasing number of federal and state laws and regulations regarding privacy and data security, as well as contractual commitments. Any failure or perceived failure by us, or by the vendors with whom we share this information, to comply with such obligations may result in damage to our reputation, financial losses, litigation, increased costs, regulatory penalties or customer dissatisfaction.

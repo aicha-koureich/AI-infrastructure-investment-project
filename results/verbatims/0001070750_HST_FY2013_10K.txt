@@ -1,0 +1,23 @@
+FIRM         : HST (CIK 0001070750) | FY2013
+FILE         : 0001070750_HST_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+many assumptions and estimates, including assumptions of the projected cash flows, both from operations and the eventual disposition, the expected useful life and holding period of the asset, the future required capital expenditures and fair values, including consideration of capitalization rates, discount rates and comparable selling prices, as well as available third-party appraisals. During 2013 and 2012, we recognized impairment expenses of $1 million and $60 million, respectively, each on one property, which impairment expenses are included in depreciation and amortization, based on changes in estimated holding periods.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

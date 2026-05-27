@@ -1,0 +1,20 @@
+FIRM         : EW (CIK 0001099800) | FY2017
+FILE         : 0001099800_EW_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 20. VALUATION AND QUALIFYING ACCOUNTS
+ASSET CAT.   : equipment, Machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31, 2017 2016 (in millions) Accounts receivable, net Trade accounts receivable $ 430.1 $ 374.5 Allowance for doubtful accounts (8.5 ) (9.0 ) $ 421.6 $ 365.5 Inventories Raw materials $ 101.4 $ 60.6 Work in process 121.1 102.4 Finished products 332.4 233.6 $ 554.9 $ 396.6 Property, plant, and equipment, net Land $ 39.1 $ 30.1 Buildings and leasehold improvements 436.8 367.2 Machinery and equipment 393.4 346.5 Equipment with customers 41.0 37.4 Software 93.4 100.6 Construction in progress 88.2 79.6 1,091.9 961.4 Accumulated depreciation (412.2 ) (381.4 ) $ 679.7 $ 580.0 Accrued and other liabilities Employee compensation and withholdings $ 249.4 $ 216.1 Taxes payable 97.8 5.9 Accrued rebates 53.9 36.1 Property, payroll, and other taxes 41.9 35.3 Research and development accruals 39.2 40.0 Fair value of derivatives 24.8 3.3 Litigation and insurance reserves (Note 17) 15.0 14.6 Accrued marketing expenses 14.9 12.6 Accrued professional services 8.5 4.0 Accrued realignment reserves 8.2 0.1 Accrued relocation costs 8.7 7.0 Other accrued liabilities 74.3 60.4 $ 636.6 $ 435.4
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

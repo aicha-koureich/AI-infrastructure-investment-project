@@ -1,0 +1,24 @@
+FIRM         : CUBI (CIK 0001488813) | FY2018
+FILE         : 0001488813_CUBI_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 5. A transferor's beneficial interest obtained in a securitization of financial assets will be disclosed as a non-cash activity, and cash received fro
+ASSET CAT.   : Furniture, equipment
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+December 31, Expected Useful Life 2018 2017 (amounts in thousands) Leasehold improvements 3 to 25 years $ 14,080 $ 14,028 Furniture, fixtures and equipment 5 to 10 years 7,110 6,447 IT equipment 3 to 5 years 8,645 8,002 Automobiles 3 to 5 years 455 506 30,290 28,983 Accumulated depreciation and amortization (19,227 ) (17,028 ) Total $ 11,063 $ 11,955
+
+[VERBATIM — Changement de politique]
+Leased assets under operating leases are carried at amortized cost net of accumulated depreciation and any impairment charges. The depreciation expense of the leased assets is recognized on a straight-line basis over the contractual term of the leases up to their expected residual value. The expected residual value and, accordingly, the monthly depreciation expense, may change throughout the term of the lease. Operating lease rental income for leased assets is recognized in other non-interest income on a straight-line basis over the lease term. Customers periodically reviews its leased assets for impairment. An impairment loss is recognized if the carrying amount of the leased asset exceeds its fair value and is not recoverable. The carrying amount of leased assets is not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the lease payments and the estimated residual value upon the eventual disposition of the equipment. During 2018, Customers leased various types of equipment to customers within its commercial and industrial loan portfolio. The net carrying value of the leased assets was
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15, Internal-Use Software (Subtopic 350-40): Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract Issued August 2018 ||| Internal-Use Software (Subtopic 350-40): Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

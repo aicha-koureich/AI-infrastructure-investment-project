@@ -1,0 +1,23 @@
+FIRM         : APAM (CIK 0001517302) | FY2015
+FILE         : 0001517302_APAM_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 23. Subsequent Events
+ASSET CAT.   : equipment, Computer software, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+The composition of property and equipment at December 31, 2015 and 2014 are as follows: As of December 31, 2015 2014 Computers and equipment $ 7,551 $ 5,910 Computer software 4,966 4,021 Furniture and fixtures 6,892 6,654 Leasehold improvements 19,673 17,049 Total Cost 39,082 33,634 Less: Accumulated depreciation (21,087 ) (17,040 ) Property and equipment, net of accumulated depreciation $ 17,995 $ 16,594
+
+[VERBATIM — Changement de politique]
+Amounts payable under tax receivable agreements Deferred Tax Asset - Amortizable basis December 31, 2013 $ 160,663 $ 183,858 2014 Follow-On Offering, H&F Conversion and Exchanges 328,949 386,667 Amortization — (23,472 ) Payments under TRA (1) (4,645 ) — Change in estimate 4,187 4,899 December 31, 2014 489,154 551,952 2015 Follow-On Offering and Exchanges 107,740 126,753 Amortization — (33,128 ) Payments under TRA (1) (20,040 ) — Change in estimate 12,247 14,677 December 31, 2015 $ 589,101 $ 660,254 (1) Interest of $179 thousand and $36 thousand was paid in addition to these TRA payments for the years ended December 31, 2015 and 2014, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement ||| , which provides guidance on determining whether a cloud computing arrangement contains a software license that should be accounted for as internal-use software. The new guidance was effective on January 1, 2016. The Company does not expect the adoption of this ASU to have an impact on its consolidated financial statements. ||| In April 2015, the FASB issued ASU 2015-05, Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement , which provides guidance on determining whether a cloud computing arrangement contains a software license that should be accounted for as internal-use software. The new guidance was effective on January 1, 2016. The Company does not expect the adoption of this ASU to have an impact on its consolidated financial statements.

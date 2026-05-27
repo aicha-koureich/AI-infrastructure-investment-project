@@ -1,0 +1,21 @@
+FIRM         : SABR (CIK 0001597033) | FY2024
+FILE         : 0001597033_SABR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-20
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Business and Significant Accounting Policies
+ASSET CAT.   : Furniture and fixtures, Equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Buildings Lesser of lease term or 35 years Leasehold improvements Lesser of lease term or useful life Furniture and fixtures 5 to 15 years Equipment, general office and computer 3 to 5 years Software developed for internal use 3 to 5 years
+
+[VERBATIM — Infrastructure IA]
+We expect to continue to benefit from higher margins in 2025 than would have been realized had we not undertaken our technology transformation efforts as we believe the technology transformation has and will help enable us to avoid capital expenditures that would have otherwise been required while also yielding lower cloud infrastructure costs.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

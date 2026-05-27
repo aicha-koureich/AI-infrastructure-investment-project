@@ -1,0 +1,20 @@
+FIRM         : BLKB (CIK 0001280058) | FY2015
+FILE         : 0001280058_BLKB_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of significant accounting policies
+ASSET CAT.   : Capitalized software
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are amortized on a straight line basis over the software asset's estimated useful life, which is generally three years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) - Customer's Accounting for Fees Paid in a Cloud Computing Arrangement (ASU 2015-05) ||| . The amendments in this update provide guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, the update specifies that the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. The update further specifies that the customer should account for a cloud computing arrangement as a service contract if the arrangement does not include a software license. ASU 2015-05 will be effective for the Company in fiscal year 2016. An entity can elect to adopt the amendments either (1) prospectively to all arrangements entered into or materially modified ||| In April 2015, the FASB issued ASU No. 2015-05, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) - Customer's Accounting for Fees Paid in a Cloud Computing Arrangement (ASU 2015-05) . The amendments in this update provide guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, the update specifies that the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. The update further specifies that the customer should account for a cloud computing arrangement as a service contract if the arrangement does not include a software license. ASU 2015-05 will be effective for the Company in fiscal year 2016. An entity can elect to adopt the amendments either (1) prospectively to all arrangements entered into or materially modified

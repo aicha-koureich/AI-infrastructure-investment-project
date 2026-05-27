@@ -1,0 +1,24 @@
+FIRM         : SSTK (CIK 0001549346) | FY2014
+FILE         : 0001549346_SSTK_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Cash
+used in investing activities in 2014 was $29.0 million consisting of capital expenditures to purchase software and equipment related to our data centers, as well as
+capitalization of leasehold improvements and software and website development costs in the amount of $18.0 million. We also paid $10.1 million to acquire certain assets and liabilities
+of WebDAM and paid $0.7 million to acquire the non-exclusive licensing rights to distribute certain digital content in perpetuity. Additionally, we purchased short-term investments, net of
+sales, in the amount of $0.4 million.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

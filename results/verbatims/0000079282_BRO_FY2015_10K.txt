@@ -1,0 +1,23 @@
+FIRM         : BRO (CIK 0000079282) | FY2015
+FILE         : 0000079282_BRO_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+The excess of the purchase price of an acquisition over the fair value of the identifiable tangible and amortizable intangible assets is assigned to goodwill. While goodwill is not amortizable, it is subject to assessment at least annually, and more frequently in the presence of certain circumstances, for impairment by application of a fair value-based test. The Company compares the fair value of each reporting unit with its carrying amount to determine if there is potential impairment of goodwill. If the fair value of the reporting unit is less than its carrying value, an impairment loss is recorded to the extent that the fair value of the goodwill within the reporting unit is less than its carrying value. Fair value is estimated based on multiples of earnings before interest, income taxes, depreciation, amortization and change in estimated acquisition earn-out payables (“EBITDAC”), or on a discounted cash flow basis. Brown & Brown completed its most recent annual assessment as of November 30, 2015 and determined that the fair value of goodwill exceeded the carrying value of such assets. In addition, as of December 31, 2015, there are no accumulated impairment losses.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, FASB issued ASU No. 2015-05, “Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement” (“ASU 2015-05”), which issues guidance on determining whether a cloud computing arrangement contains a software license that should be accounted for as internal-use software. If a cloud computing arrangement does not contain a software license, it should be accounted for as a service contract. This guidance is effective for fiscal years beginning after December 15, 2015 and for interim periods within those fiscal years, with early adoption permitted. The Company has to this point not been a party to any material cloud computing arrangements and as such has determined the impact of the adoption of this guidance on the Consolidated Financial Statements to be immaterial.

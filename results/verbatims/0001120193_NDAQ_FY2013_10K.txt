@@ -1,0 +1,20 @@
+FIRM         : NDAQ (CIK 0001120193) | FY2013
+FILE         : 0001120193_NDAQ_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We generate revenues by providing market participants with several alternatives for accessing our markets for a fee. The type of connectivity is determined by the level of functionality a customer needs. As a result, Access Services revenues vary depending on the type of connection provided to customers. We provide co-location services to market participants whereby firms may lease space for equipment within our data center. These participants are charged monthly fees for cabinet space, connectivity and support. We also earn revenues from annual and monthly exchange membership and registration fees. Revenues for providing access to our markets, co-location services and revenues for monthly exchange membership and registration fees are recognized on a monthly basis as the service is provided. Revenues from annual fees for exchange membership and registration fees are recognized ratably over the following 12-month period.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

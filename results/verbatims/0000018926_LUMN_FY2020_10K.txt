@@ -1,0 +1,23 @@
+FIRM         : LUMN (CIK 0000018926) | FY2020
+FILE         : 0000018926_LUMN_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-16
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : A100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software, less accumulated amortization of $3,279 and $2,957
+
+[VERBATIM — Changement de politique]
+The 2019 and 2018 change in estimates are offset against gross property, plant and equipment.
+
+[VERBATIM — Infrastructure IA]
+Includes wavelengths, private line, dark fiber services, colocation and data center services, including cloud, hosting and application management solutions, professional services and other ancillary services.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+• Transport and Infrastructure , which includes wavelengths, dark fiber, private line, colocation and data center services, including cloud, hosting and application management solutions, professional services and other ancillary services; ||| , which includes wavelengths, dark fiber, private line, colocation and data center services, including cloud, hosting and application management solutions, professional services and other ancillary services;

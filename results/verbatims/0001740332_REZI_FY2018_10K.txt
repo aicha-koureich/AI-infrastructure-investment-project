@@ -1,0 +1,20 @@
+FIRM         : REZI (CIK 0001740332) | FY2018
+FILE         : 0001740332_REZI_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies.
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment —Property, plant and equipment are recorded at cost, less accumulated depreciation. For financial reporting, the straight-line method of depreciation is used over the estimated useful lives of 10 to 50 years for buildings and improvements, 3 to 16 years for machinery and equipment and 3 to 10 years for tooling equipment.
+
+[VERBATIM — Infrastructure IA]
+We are a leading global provider of critical comfort, residential and thermal solutions and security solutions primarily in residential environments. Our products consist of solutions in Comfort, Residential Thermal Solutions and Security categories and include temperature and humidity control, thermal, water and air solutions and remote patient monitoring software solutions as well as security panels, sensors, peripherals, wire and cable, communications devices, video cameras, awareness solutions, cloud infrastructure, installation and maintenance tools and related software. Our ADI Global Distribution business is the leading wholesale distributor of security and low voltage electronic products which include video surveillance, intrusion, access control, fire and life safety, wire, networking and professional audio visual systems. We manage our business operations through two segments, Products and Solutions and Global Distribution. The Products and Solutions segment offerings include our Comfort, Residential Thermal Solutions and Security products, which, consistent with our industry, has a higher gross and operating margin profile in comparison to the Global Distribution segment.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

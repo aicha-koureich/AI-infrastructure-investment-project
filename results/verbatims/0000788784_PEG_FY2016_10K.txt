@@ -1,0 +1,23 @@
+FIRM         : PEG (CIK 0000788784) | FY2016
+FILE         : 0000788784_PEG_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3. Early Plant Retirements
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The cost of nuclear fuel is capitalized within Property, Plant and Equipment and amortized to fuel expense using the units-of-production method.
+
+[VERBATIM — Changement de politique]
+in 2017 due to the significant shortening of the expected economic useful lives of Hudson and Mercer. Additional employee-related salary continuance and severance costs and various miscellaneous costs may also be incurred during the period prior to retirement. Finally, Power currently anticipates using the sites for alternative industrial activity. However, if Power determines not to use the sites for alternative industrial activity, the early retirement of the units at such sites would trigger obligations under certain environmental regulations, including possible remediation. The amounts for any such environmental remediation are neither currently probable nor estimable but may be material.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

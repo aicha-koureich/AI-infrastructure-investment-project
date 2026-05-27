@@ -1,0 +1,23 @@
+FIRM         : LUV (CIK 0000092380) | FY2024
+FILE         : 0000092380_LUV_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-04-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : computer software, equipment
+DURÉE        : 5.0-15.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company amortizes these costs using the straight-line method over the estimated useful life of the software, which is typically five to fifteen years. Capitalized computer software, included as a component of Ground property and equipment in the accompanying Consolidated Balance Sheet, net of accumulated depreciation, was $1.1 billion and $1.0 billion as of December 31, 2024, and 2023, respectively. Computer software depreciation expense was $271 million, $246 million, and $232 million for the years ended December 31, 2024, 2023, and 2022, respectively, and is included as a component of Depreciation and amortization expense in the accompanying Consolidated Statement of Income.
+
+[VERBATIM — Changement de politique]
+limited to, significant decreases in the market value of the long-lived asset group, a significant change in the long-lived asset group’s physical condition, and operating or cash flow losses associated with the use of the long-lived asset group. If an asset group is deemed to be impaired, an impairment loss is recorded for the excess of the asset group's book value in relation to its estimated fair value. During 2022, the Company recorded impairment charges of $28 million associated with the accelerated retirement of 10 of its Boeing 737-700 ("-700") aircraft. There were no material impairments in 2024 or 2023 associated with the accelerated retirement of the Company's aircraft. However, the Company identified certain -700 aircraft that were retired early in 2023 and 2024 or are planned for early retirement in 2025. This change in retirement dates, and the corresponding impact to depreciation expense, is considered a change in estimate and resulted in the following impact to expense in 2024 and 2023:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

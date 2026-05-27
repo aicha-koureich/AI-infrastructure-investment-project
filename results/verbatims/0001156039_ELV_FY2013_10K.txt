@@ -1,0 +1,21 @@
+FIRM         : ELV (CIK 0001156039) | FY2013
+FILE         : 0001156039_ELV_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 23. Selected Quarterly Financial Data (Unaudited)
+ASSET CAT.   : computer software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and Equipment: Property and equipment is recorded at cost, net of accumulated depreciation. Depreciation is computed principally by the straight-line method over estimated useful lives ranging from 15 to 39 years for buildings and improvements, three to seven years for data processing equipment, furniture and other equipment, and three to five years for computer software. Certain costs related to the development or purchase of internal-use software are capitalized and amortized.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : OSPN (CIK 0001044777) | FY2024
+FILE         : 0001044777_OSPN_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The cost of services and other revenue increased $3.2 million or 11% for the year ended December 31, 2024, compared to the year ended December 31, 2023. This increase was largely due to higher cloud platform costs related to ||| • Digital Agreements gross profit increased $4.0 million, or approximately 11%, for the year ended December 31, 2024 compared to the prior year. The increase in gross profit was driven by higher overall revenue, partially offset by higher cloud platform costs and higher depreciation of capitalized software costs. Digital Agreements gross margin for the years ended December 31, 2024 and 2023 was 68% and 74%, respectively. The decrease in gross margin is primarily the result of an increase in depreciation of capitalized software costs and the write-off in 2024 of the previously capitalized software costs discussed above. ||| gross profit increased $4.0 million, or approximately 11%, for the year ended December 31, 2024 compared to the prior year. The increase in gross profit was driven by higher overall revenue, partially offset by higher cloud platform costs and higher depreciation of capitalized software costs. Digital Agreements gross margin for the years ended December 31, 2024 and 2023 was 68% and 74%, respectively. The decrease in gross margin is primarily the result of an increase in depreciation of capitalized software costs and the write-off in 2024 of the previously capitalized software costs discussed above.

@@ -1,0 +1,21 @@
+FIRM         : ECL (CIK 0000031462) | FY2023
+FILE         : 0000031462_ECL_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, computer software, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 3.0-7.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Certain dispensing systems capitalized by the Company are accounted for on a mass asset basis, whereby equipment is capitalized and depreciated as a group and written off when fully depreciated. Expenditures for major renewals and improvements, which significantly extend the useful lives of existing plant and equipment, are capitalized and depreciated. Upon retirement or disposition of plant and equipment, the cost and related accumulated depreciation are removed from the accounts and any resulting gain or loss is recognized in income.
+
+[VERBATIM — Infrastructure IA]
+At an operating segment level, Water organic sales increased 8% in 2023 driven by strong pricing and new business wins. Water organic sales increased 13% in 2022 driven by strong pricing and new business wins. Light industry reported good sales growth driven by strong performance across data centers, microelectronics and institutional. Heavy industry in 2023 reported good sales growth driven by strong pricing, gains in primary metals and growth in chemicals and strong sales in 2022 led by double-digit growth in power and chemicals. Downstream reported strong sales growth in 2023 driven by innovative water treatment programs. Food & Beverage organic sales increased 9% in 2023 reflecting continued pricing, strong performance in dairy, and solid growth in beverage & brewing and animal health. Organic increased 14% in 2022 primarily reflecting accelerating pricing. Paper organic sales decreased 1% in 2023 as pricing and new business wins were offset by easing customer production rates​. Organic sales increased 16% in 2022 driven by accelerating pricing, new business wins and continued growth in ecommerce markets.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : TVRD (CIK 0001346830) | FY2019
+FILE         : 0001346830_TVRD_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3,
+ASSET CAT.   : equipment, furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0 ans | 5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment (consisting of computer, office and laboratory equipment, furniture and fixtures and leasehold improvements) are stated at cost, net of accumulated depreciation and amortization of leasehold improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

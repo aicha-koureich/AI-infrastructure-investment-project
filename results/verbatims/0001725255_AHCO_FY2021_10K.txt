@@ -1,0 +1,23 @@
+FIRM         : AHCO (CIK 0001725255) | FY2021
+FILE         : 0001725255_AHCO_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2021
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Equipment and other fixed assets are stated at cost less accumulated depreciation or, when acquired as part of a business combination, fair value at date of acquisition. The useful lives for patient medical equipment correlate with the medical reimbursement periods. Computer equipment, vehicles and other assets are depreciated over the estimated useful lives of the assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

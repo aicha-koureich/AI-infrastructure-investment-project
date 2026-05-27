@@ -1,0 +1,20 @@
+FIRM         : LNTH (CIK 0001521036) | FY2019
+FILE         : 0001521036_LNTH_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 20. Subsequent Events
+ASSET CAT.   : Machinery, equipment, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, (in thousands) 2019 2018 Land $ 13,450 $ 13,450 Buildings 75,654 64,444 Machinery, equipment and fixtures 87,763 69,298 Computer software 20,739 19,266 Construction in progress 10,546 24,169 208,152 190,627 Less: accumulated depreciation and amortization (91,655 ) (82,739 ) Total property, plant and equipment, net $ 116,497 $ 107,888
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

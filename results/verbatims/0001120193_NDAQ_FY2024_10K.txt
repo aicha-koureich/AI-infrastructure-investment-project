@@ -1,0 +1,20 @@
+FIRM         : NDAQ (CIK 0001120193) | FY2024
+FILE         : 0001120193_NDAQ_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Capital Markets Technology Revenues The following table presents key drivers for our Capital Markets Technology business: As of or Year Ended December 31 2024 2023 2022 (in millions) ARR $ 868 $ 799 $ 499 Quarterly annualized SaaS revenues 134 108 39 Capital Markets Technology revenues increased in 2024 compared with the same period in 2023. The increase was primarily due to the inclusion of revenues from Calypso associated with our acquisition of Adenza. The increase was also driven by higher trade management services revenues mainly driven by demand for additional colocation and connectivity services following our recent data center expansion and higher market technology license and support revenues, partially offset by lower market technology professional services revenue due to a large project delivery in the comparable period in 2023 . Market Services The following table presents revenues from our Market Services segment: Year Ended December 31, Percentage Change 2024 2023 2022 2024 vs. 2023 2023 vs. 2022 (in millions) Market Services $ 3,771 $ 3,156 $ 3,632 20.9 % (13.4) % Transaction-based expenses: Transaction rebates (2,026) (1,838) (2,092) 10.2 % (12.1) % Brokerage, clearance and exchange fees (725) (331) (552) 119.1 % (40.1) % Total Market Services, net $ 1,020 $ 987 $ 988 3.4 % (0.1) % The following table presents net revenues by product from our Market Services segment: Year Ended December 31, Percentage Change 2024 2023 2022 2024 vs. 2023 2023 vs. 2022 (in millions) U.S. Equity Derivative Trading $ 395 $ 374 $ 371 5.7 % 0.7 % Cash Equity Trading 430 397 397 8.3 % — % U.S. Tape plans 125 141 149 (11.5) % (5.4) % Other 70 75 71 (6.2) % 4.6 % Total Market Services, net $ 1,020 $ 987 $ 988 3.4 % (0.1) %  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+• Purchase obligations primarily represent minimum outstanding obligations due under software license agreements. The balance as of December 31, 2024 is primarily comprised of our multi-year AWS partnership contract. ||| Purchase obligations primarily represent minimum outstanding obligations due under software license agreements. The balance as of December 31, 2024 is primarily comprised of our multi-year AWS partnership contract.

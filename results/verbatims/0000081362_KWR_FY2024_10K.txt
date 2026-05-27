@@ -1,0 +1,24 @@
+FIRM         : KWR (CIK 0000081362) | FY2024
+FILE         : 0000081362_KWR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-24
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 4.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+These costs are amortized over the expected useful life of the software- generally 3 to 5 years once the assets are ready for their intended use.
+
+[VERBATIM — Changement de politique]
+Depreciation is computed using the straight-line method on an individual asset basis over the following estimated useful lives: buildings and improvements, 10 to 33 years (for finance leases, the remaining term of the lease); and machinery and equipment, 4 to 10 years (for financing leases, the remaining term of the lease).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The Company capitalizes costs incurred with the implementation of a cloud computing arrangement that is a service contract, consistent with its policy for software for internal use. The capitalized costs are reflected in "Other non-current assets" on its Consolidated Balance Sheets and expensed over the term of the related hosting arrangement.

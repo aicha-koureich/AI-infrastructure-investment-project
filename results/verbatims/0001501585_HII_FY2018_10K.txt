@@ -1,0 +1,20 @@
+FIRM         : HII (CIK 0001501585) | FY2018
+FILE         : 0001501585_HII_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 21. SUBSEQUENT EVENT
+ASSET CAT.   : Equipment, Machinery, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31 ($ in millions) 2018 2017 Assets Current Assets Cash and cash equivalents $ 240 $ 701 Accounts receivable, net of allowance for doubtful accounts of $9 million as of 2018 and $13 million as of 2017 252 429 Contract assets 1,003 759 Inventoried costs, net 128 183 Prepaid expenses and other current assets 122 123 Total current assets 1,745 2,195 Property, Plant, and Equipment Land and land improvements 321 292 Buildings and leasehold improvements 2,043 1,923 Machinery and other equipment 1,771 1,559 Capitalized software costs 211 211 4,346 3,985 Accumulated depreciation and amortization (1,829 ) (1,770 ) Property, plant, and equipment, net 2,517 2,215 Other Assets Goodwill 1,263 1,217 Other intangible assets, net of accumulated amortization of $564 million as of 2018 and $528 million as of 2017 492 508 Long-term deferred tax assets 163 114 Miscellaneous other assets 203 125 Total other assets 2,121 1,964 Total assets $ 6,383 $ 6,374
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

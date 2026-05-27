@@ -1,0 +1,24 @@
+FIRM         : LULU (CIK 0001397187) | FY2022
+FILE         : 0001397187_LULU_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 29, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at cost less accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+Acquired finite-lived intangible assets are amortized on a straight-line basis over their estimated useful lives, and are reviewed for impairment when events or circumstances indicate that the asset group to which the intangible assets belong might be impaired. The Company revises the estimated remaining useful life of these assets when events or changes in circumstances warrant a revision. If the Company revises the useful life, the unamortized balance is amortized over the remaining useful life on a prospective basis.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+– an increase in costs of $142.2 million primarily due to increased depreciation of $43.5 million and increased technology costs, including cloud computing amortization, of $35.7 million, as well as increased brand and community costs and professional fees; and ||| an increase in costs of $142.2 million primarily due to increased depreciation of $43.5 million and increased technology costs, including cloud computing amortization, of $35.7 million, as well as increased brand and community costs and professional fees; and ||| General Corporate Expenses. The increase in general corporate expenses was primarily due to increased employee costs, primarily from headcount growth and increased wage rates, as well as increased depreciation, technology costs including cloud computing amortization, brand and community costs, and professional fees. The increase in general corporate expenses was partially offset by a decrease in net foreign exchange and derivative losses of $0.8 million. We expect general corporate expenses to continue to increase in future years as we grow our overall business and require increased efforts at our head office to support our operations.

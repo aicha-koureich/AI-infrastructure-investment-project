@@ -1,0 +1,20 @@
+FIRM         : NJR (CIK 0000356309) | FY2024
+FILE         : 0000356309_NJR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-11-25
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3.
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+O&M includes salaries and benefits, materials and supplies, usage of vehicles, tools and equipment, payments to contractors, utility plant maintenance, amortization of software costs for unregulated entities, customer service, professional fees and other outside services, insurance expense, accretion of cost of removal for future retirements of utility assets and other administrative expenses, and are expensed as incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

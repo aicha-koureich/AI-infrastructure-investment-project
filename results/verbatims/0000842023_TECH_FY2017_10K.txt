@@ -1,0 +1,20 @@
+FIRM         : TECH (CIK 0000842023) | FY2017
+FILE         : 0000842023_TECH_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of Business and Summary of Significant Accounting Policies:
+ASSET CAT.   : equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Equipment is depreciated using the straight-line method over an estimated useful life of five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the Financial Accounting Standards Board (“FASB”) issued ASU No. 2015-05, Customer's Accounting for Fees Paid in a Cloud Computing Arrangement . The standard provides guidance to customers about whether a cloud computing arrangement includes a software license. If the arrangement does include a software license, the software license element of the arrangement should be accounted for in the same manner as the acquisition of other software licenses. We adopted this standard on July 1, 2016, applying it prospectively to all arrangements entered into or materially modified on or after July 1, 2016. Adoption of this standard did not have a significant impact on our results of operations or financial position.

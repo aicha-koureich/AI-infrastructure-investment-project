@@ -1,0 +1,25 @@
+FIRM         : APD (CIK 0000002969) | FY2013
+FILE         : 0000002969_APD_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : 30 September 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. MAJOR ACCOUNTING POLICIES
+ASSET CAT.   : computer software, equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized computer software costs are included in the balance sheet classification plant and equipment, net and depreciated over the estimated useful life of the software, generally a period of three to ten years.
+
+[VERBATIM — Changement de politique]
+We receive government grants that primarily relate to research and development projects. Government grants are recognized when there
+is reasonable assurance that the grant will be received and that we have complied with the conditions of the grant. Government grants related to assets are included in the balance sheet as a reduction of the cost of the asset and result in reduced
+depreciation expense over the useful life of the asset. Government grants that relate to expenses are recognized in the income statement as a reduction of the related expense or as a component of other income (expense), net.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

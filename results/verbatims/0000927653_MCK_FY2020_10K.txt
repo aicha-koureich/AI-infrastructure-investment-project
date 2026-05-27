@@ -1,0 +1,24 @@
+FIRM         : MCK (CIK 0000927653) | FY2020
+FILE         : 0000927653_MCK_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Significant Accounting Policies
+ASSET CAT.   : Capitalized Software
+DURÉE        : 10.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-15.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized Software Held for Internal Use: The Company capitalizes costs of software held for internal use during the application development stage of a project and amortizes those costs using the straight-line method over their estimated useful lives, not to exceed 10 years. As of March 31, 2021 and 2020, capitalized software held for internal use was $513 million and $400 million, respectively, net of accumulated amortization of $1.4 billion and $1.3 billion, respectively, and is included in “Other non-current assets” in the Consolidated Balance Sheets. Amortization expense for capitalized software held for internal use was $117 million, $129 million, and $137 million for the years ended March 31, 2021, 2020, and 2019, respectively.
+
+[VERBATIM — Changement de politique]
+In the first quarter of 2021, the Company prospectively adopted Accounting Standard Update (“ASU”) 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract , which aligns the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs in a cloud computing arrangement that has a software license. As a result, the Company began capitalizing eligible implementation costs for such contracts and recognizing the expense over the service period. The adoption of this amended guidance did not have a material impact on the Company’s consolidated financial statements or disclosures.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In the first quarter of 2021, the Company prospectively adopted Accounting Standard Update (“ASU”) 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract , which aligns the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs in a cloud computing arrangement that has a software license. As a result, the Company began capitalizing eligible implementation costs for such contracts and recognizing the expense over the service period. The adoption of this amended guidance did not have a material impact on the Company’s consolidated financial statements or disclosures. ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| , which aligns the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs in a cloud computing arrangement that has a software license. As a result, the Company began capitalizing eligible implementation costs for such contracts and recognizing the expense over the service period. The adoption of this amended guidance did not have a material impact on the Company’s consolidated financial statements or disclosures.

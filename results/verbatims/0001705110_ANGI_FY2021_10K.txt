@@ -1,0 +1,24 @@
+FIRM         : ANGI (CIK 0001705110) | FY2021
+FILE         : 0001705110_ANGI_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Summary of Significant Accounting Policies
+ASSET CAT.   : capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-3.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+We review the carrying value of all long-lived assets, comprising of leased right-of-use assets (“ROU assets”), capitalized software, leasehold improvements and equipment and definite-lived intangible assets, for impairment whenever events or changes in circumstances indicate that the carrying value of an asset may not be recoverable. The carrying value of a long-lived asset is not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the use and eventual disposition of the asset. If the carrying value is deemed not to be recoverable, an impairment loss is recorded equal to the amount by which the carrying value of the long-lived asset exceeds its fair value. In addition, the Company reviews the useful lives of its long-lived assets whenever events or changes in circumstances indicate that these lives may be changed. The carrying value of these long-lived assets is $210.5 million and $234.2 million at December 31, 2021 and 2020, respectively.
+
+[VERBATIM — Changement de politique]
+Adjusted Earnings Before Interest, Taxes, Depreciation and Amortization (“Adjusted EBITDA”) is a non-GAAP financial measure. See “ Principles of Financial Reporting ” for the definition of Adjusted EBITDA and a reconciliation of net loss attributable to Angi Inc. shareholders to operating loss to consolidated Adjusted EBITDA for the years ended December 31, 2021 and 2020.
+
+[VERBATIM — Infrastructure IA]
+The Company leases office space, data center facilities, and equipment in connection with its operations under various operating leases, the majority of which contain escalation clauses.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

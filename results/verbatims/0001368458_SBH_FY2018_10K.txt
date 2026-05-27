@@ -1,0 +1,20 @@
+FIRM         : SBH (CIK 0001368458) | FY2018
+FILE         : 0001368458_SBH_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Consolidated selling, general and administrative expenses decreased primarily as a result of cost reduction initiatives and lower expenses associated with the data security incidents, as more fully discussed above, partially offset by the incremental depreciation and amortization expenses associated with capital expenditures made in the preceding 12 months, mainly in connection with store openings in both operating segments, with store refreshes in the SBS segment (primarily in the U.S.) and with ongoing information technology upgrades.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

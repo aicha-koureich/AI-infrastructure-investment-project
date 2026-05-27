@@ -1,0 +1,21 @@
+FIRM         : OKTA (CIK 0001660134) | FY2022
+FILE         : 0001660134_OKTA_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment, net, is stated at cost less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+The Company serves customers and users from data center facilities located across various different physical locations, such as the U.S., Europe and Asia-Pacific, most of which are operated by a single third party. The Company has disaster recovery protocols at the third-party service providers. Even with these procedures for disaster recovery in place, access to the Company's service could be significantly interrupted, resulting in an adverse effect on its operating results and financial condition.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

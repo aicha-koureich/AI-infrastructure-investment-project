@@ -1,0 +1,20 @@
+FIRM         : PRSU (CIK 0000884219) | FY2021
+FILE         : 0000884219_PRSU_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 7. Property and Equipment, Net Property and equipment consisted of the following: December 31, (in thousands) 2021 2020 Land and land interests (
+ASSET CAT.   : Equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment, Net Property and equipment consisted of the following: December 31, (in thousands) 2021 2020 Land and land interests (1) $ 30,532 $ 32,849 Buildings and leasehold improvements 407,930 386,751 Equipment and other 413,684 401,288 Gross property and equipment 852,146 820,888 Accumulated depreciation ( 364,060 ) ( 352,100 ) Property and equipment, net (excluding finance leases) 488,086 468,788 Finance lease ROU assets, net (2) 61,022 23,366 Property and equipment, net $ 549,108 $ 492,154 (1) Land and land interests include certain leasehold interests in land within Pursuit for which we are considered to have perpetual use rights.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

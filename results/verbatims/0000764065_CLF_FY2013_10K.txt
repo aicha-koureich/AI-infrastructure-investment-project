@@ -1,0 +1,21 @@
+FIRM         : CLF (CIK 0000764065) | FY2013
+FILE         : 0000764065_CLF_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 1993. Retiree healthcare coverage is provided through programs administered by insurance companies whose charges are based on benefits paid.
+ASSET CAT.   : equipment, Information technology
+DURÉE        : 10.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-3.0 ans | 2.0-7.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Asset Class Basis Life Buildings Straight line 45 Years Mining equipment Straight line/Double declining balance 10 to 20 Years Processing equipment Straight line 15 to 45 Years Information technology Straight line 2 to 7 Years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : AEP (CIK 0000004904) | FY2020
+FILE         : 0000004904_AEP_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : A100;B100 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Electric utility property, plant and equipment for rate-regulated operations are stated at original cost. Additions, major replacements and betterments are added to the plant accounts. Under the group composite method of depreciation, continuous interim routine replacements of items such as boiler tubes, pumps, motors, etc. result in original cost retirements, less salvage, being charged to accumulated depreciation. The group composite method of depreciation assumes that on average, asset components are retired at the end of their useful lives and thus there is no gain or loss. The equipment in each primary electric plant account is identified as a separate group. The depreciation rates that are established take into account the past history of interim capital replacements and the amount of removal cost incurred and salvage received. These rates and the related lives are subject to periodic review. Removal costs accrued are typically recorded as regulatory liabilities when the revenue received for removal costs accrued exceeds actual removal costs incurred. The asset removal costs liability is relieved as removal costs are incurred. A regulatory asset balance will occur if actual removal costs incurred exceed accumulated removal costs accrued.
+
+[VERBATIM — Changement de politique]
+During the second quarter of 2019, the Dolet Hills Power Station initiated a seasonal operating schedule. In January 2020, in accordance with the terms of SWEPCo’s settlement of its base rate review filed with the APSC, management announced that SWEPCo will seek regulatory approval to retire the Dolet Hills Power Station by the end of 2026. DHLC provides 100% of the fuel supply to Dolet Hills Power Station. After careful consideration of current economic conditions, and particularly for the benefit of their customers, management of SWEPCo and CLECO determined DHLC would not proceed developing additional Oxbow Lignite Company (Oxbow) mining areas for future lignite extraction and ceased extraction of lignite at the mine in May 2020. Based on these actions, management revised the estimated useful life of DHLC’s and Oxbow’s assets to coincide with the date at which extraction was discontinued in the second quarter of 2020 and the date at which delivery of lignite is expected to cease in September 2021. Management also revised the useful life of the Dolet Hills Power Station to 2021 based on the remaining estimated fuel supply available for continued seasonal operation. In March 2020, primarily due to the revision in the useful life of DHLC, SWEPCo recorded a revision to increase estimated ARO liabilities by $21 million. In April 2020, SWEPCo and CLECO jointly filed a notification letter to the LPSC providing notice of the cessation of lignite mining.
+
+[VERBATIM — Infrastructure IA]
+Critical cyber assets, such as data centers, power plants, transmission operations centers and business networks are protected using multiple layers of cyber security controls and authentication. Cyber hackers have been successful in breaching a number of very secure facilities, including federal agencies, banks and retailers. As understanding of these events develop, AEP has adopted a defense in depth approach to cyber security and continually assesses its cyber security tools and processes to determine where to strengthen its defenses. These strategies include monitoring, alerting and emergency response, forensic analysis, disaster recovery, threat sharing and criminal activity reporting. This approach has allowed AEP to deal with threats in real-time and to limit the impact of cyber and related events to levels that would be expected in the ordinary course of business in the absence of such activity.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

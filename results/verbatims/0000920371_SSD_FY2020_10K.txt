@@ -1,0 +1,20 @@
+FIRM         : SSD (CIK 0000920371) | FY2020
+FILE         : 0000920371_SSD_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Operations and Summary of Significant Accounting Policies
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Major components of these expenses are personnel, sales commissions, facility costs such as rent, depreciation and utilities, professional services, information technology costs, sales promotion, advertising, literature and trade shows.
+
+[VERBATIM — Infrastructure IA]
+The Company has operating and finance leases for certain facilities, equipment, autos and data centers. As an accounting policy for short-term leases, the Company elected to not recognize a right-of-use asset ("ROU asset") and liability if, at the commencement date, the lease (1) has a term of 12 months or less and (2) does not include renewal and purchase options that the Company is reasonably certain to exercise. Monthly payments on short-term leases are recognized on a straight-line basis over the full lease term.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

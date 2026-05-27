@@ -1,0 +1,20 @@
+FIRM         : PRSU (CIK 0000884219) | FY2022
+FILE         : 0000884219_PRSU_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 7. Property and Equipment, Net Property and equipment consisted of the following: December 31, (in thousands) 2022 2021 Land and land interests (
+ASSET CAT.   : Equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and Equipment, Net Property and equipment consisted of the following: December 31, (in thousands) 2022 2021 Land and land interests (1) $ 30,902 $ 30,532 Buildings and leasehold improvements 409,852 407,930 Equipment and other 413,485 413,684 Gross property and equipment 854,239 852,146 Accumulated depreciation ( 362,195 ) ( 364,060 ) Property and equipment, net (excluding finance leases) 492,044 488,086 Finance lease ROU assets, net 57,534 61,022 Property and equipment, net $ 549,578 $ 549,108 (1) Land and land interests include certain leasehold interests in land within Pursuit for which we are considered to have perpetual use rights.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

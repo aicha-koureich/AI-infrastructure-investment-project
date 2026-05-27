@@ -1,0 +1,24 @@
+FIRM         : TREE (CIK 0001434621) | FY2014
+FILE         : 0001434621_TREE_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 15—Discontinued Operations—LendingTree Loans—Loan Loss Obligations for additional information on the loan loss reserve.
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment, including internally-developed software and significant improvements, are recorded at cost less accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+Adjusted earnings before interest, taxes, depreciation and amortization ("Adjusted EBITDA"), a non-GAAP measure, is the primary metric by which the chief operating decision maker evaluates the performance of the Company's businesses, on which its marketing expenditures and internal budgets are based and by which management and many employees are compensated. Adjusted EBITDA is defined as operating income or loss (which excludes interest expense and taxes) adjusted to exclude amortization of intangibles and depreciation, and excludes (1) non-cash compensation expense, (2) non-cash asset impairment charges, (3) gain/loss on disposal of assets, (4) restructuring and severance expenses, (5) litigation settlements and contingencies and legal fees for certain patent litigation, (6) adjustments for acquisitions or dispositions and (7) one-time items. For the periods presented in this report, there are no adjustments for one-time items, except for a
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

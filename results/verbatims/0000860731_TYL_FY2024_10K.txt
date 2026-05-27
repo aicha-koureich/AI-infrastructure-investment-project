@@ -1,0 +1,20 @@
+FIRM         : TYL (CIK 0000860731) | FY2024
+FILE         : 0000860731_TYL_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+In 2024, the cost of subscriptions, maintenance and professional services grew 11% primarily due to increased hosting costs as we expand our SaaS client base and transition from our proprietary data centers to the public cloud, together with higher personnel costs. Our professional services staff grew by 121 employees since December 31, 2023, as we increased hiring to ensure that we are well-positioned to serve our growing client base. The increases were partially offset by a reduction in merchant fee expense associated with the change from the gross model to the net model for payments revenue under one of our state enterprise agreements.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

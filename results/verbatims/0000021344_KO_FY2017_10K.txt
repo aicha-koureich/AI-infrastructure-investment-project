@@ -1,0 +1,20 @@
+FIRM         : KO (CIK 0000021344) | FY2017
+FILE         : 0000021344_KO_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost. Repair and maintenance costs that do not improve service potential or extend economic life are expensed as incurred. Depreciation is recorded principally by the straight-line method over the estimated useful lives of our assets, which are reviewed periodically and generally have the following ranges: buildings and improvements:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

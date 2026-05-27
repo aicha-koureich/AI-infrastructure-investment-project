@@ -1,0 +1,21 @@
+FIRM         : BRBR (CIK 0001772016) | FY2022
+FILE         : 0001772016_BRBR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 — SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : software. Total depreciation expense was $1.6, $2.5 and $2.9 in fiscal 2022
+DURÉE        : 1.0-3.0 ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-3.0 ans | 2.0-13.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated useful lives range from 2 to 13 years for machinery and equipment; 1 to 33 years for buildings, building improvements and leasehold improvements; and 1 to 3 years for software.
+
+[VERBATIM — Infrastructure IA]
+The Company uses certain functions and services performed by Post under the MSA. These functions and services include finance, internal audit, treasury, information technology support, insurance and tax matters, the use of office and/or data center space, payroll processing services and tax compliance services. Prior to the Spin-off, Post also provided legal services to the  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

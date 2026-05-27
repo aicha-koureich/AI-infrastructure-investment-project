@@ -1,0 +1,23 @@
+FIRM         : EAF (CIK 0000931148) | FY2024
+FILE         : 0000931148_EAF_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+In November 2024, the FASB issued ASU 2024-03, Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses . Under this ASU, a public entity would be required to disclose information about purchases of inventory, employee compensation, depreciation, intangible asset amortization, and depletion for each income statement line item that contains those expenses. This ASU is effective for annual reporting periods beginning after December 15, 2026 and interim reporting periods beginning after December 15, 2027. This ASU allows for early adoption and requires either prospective adoption to financial statements issued for reporting periods after the effective date of this ASU or retrospectively to any or all prior periods presented in the financial statements. The Company is currently assessing the impact of this ASU on its financial statements and disclosures, but does not expect it to be material.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

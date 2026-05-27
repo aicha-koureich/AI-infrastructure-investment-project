@@ -1,0 +1,20 @@
+FIRM         : ZD (CIK 0001084048) | FY2013
+FILE         : 0001084048_ZD_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 1.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The estimated useful lives of property and equipment range from one to 10 years. Fixtures, which are comprised primarily of leasehold improvements and equipment under capital leases, are amortized on a straight-line basis over their estimated useful lives or for leasehold improvements, the related lease term, if less.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+j2 Global, Inc., together with its subsidiaries (“j2 Global”, “our”, “us” or “we”), is a global provider of Internet services. Through our Business Cloud Services Division, we provide cloud services to businesses of all sizes, from individuals to enterprises, and license our intellectual property ("IP") to third parties. Our Digital Media Division operates a portfolio of web properties providing technology, gaming and lifestyle content, and an innovative data-driven platform to connect advertisers with visitors to those properties and to visitors of third party websites that are part of the Division's advertising network. ||| Our Business Cloud Services Division generates revenues primarily from customer subscription and usage fees and from IP licensing fees. Our Digital Media Division generates revenues primarily from advertising and IP licensing fees. ||| Our consolidated revenues are currently generated from three basic business models, each with different financial profiles and variability in revenues. Our Business Cloud Services Division is driven primarily by subscription revenues that are relatively higher margin and stable and predictable from quarter-to-quarter with some seasonal weakness in the fourth quarter. The Business Cloud Services Division also includes the results of our IP licensing business, which can vary dramatically in both revenues and profitability from period-to-period. Our Digital Media Division is driven primarily by advertising revenues, has relatively higher sales and marketing expense and has seasonal strength in the fourth quarter. We continue to pursue additional acquisitions, which may include companies operating under business models that differ from those we operate under today. Such acquisitions could impact our consolidated profit margins and the variability of our revenues.

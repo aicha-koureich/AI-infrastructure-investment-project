@@ -1,0 +1,24 @@
+FIRM         : CSX (CIK 0000277948) | FY2019
+FILE         : 0000277948_CSX_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 6. Properties,
+ASSET CAT.   : equipment assets (e.g
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 6.0 ans
+
+[VERBATIM — Durée de vie]
+The STB requires depreciation studies be performed every three years for equipment assets (e.g. locomotives and freight cars) and every six years for road and track assets (e.g. bridges, signals, rail, ties, and ballast).
+
+[VERBATIM — Changement de politique]
+In 2019, the Company completed a depreciation study for its equipment assets which resulted in changes to accumulated depreciation, service lives, salvage values, and other related factors for certain assets. The Company plans to complete the next depreciation study for road and track assets in 2020 and equipment assets in 2022.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

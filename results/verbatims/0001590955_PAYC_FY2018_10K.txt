@@ -1,0 +1,20 @@
+FIRM         : PAYC (CIK 0001590955) | FY2018
+FILE         : 0001590955_PAYC_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 3. PROPERTY AND EQUIPMENT
+ASSET CAT.   : equipment, capitalized software, Computer equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2018 2017 (in thousands) Property and equipment Buildings $ 101,421 $ 60,441 Software and capitalized software costs 66,634 41,996 Computer equipment 39,492 27,928 Rental clocks 16,950 13,131 Furniture, fixtures and equipment 16,474 7,528 Leasehold improvements 1,274 767 Vehicles 74 — 242,319 151,791 Less: accumulated depreciation and amortization (82,969 ) (53,525 ) 159,350 98,266 Construction in progress 8,589 40,446 Land 9,023 8,993 Property and equipment, net $ 176,962 $ 147,705
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

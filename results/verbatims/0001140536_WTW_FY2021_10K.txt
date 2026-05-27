@@ -1,0 +1,20 @@
+FIRM         : WTW (CIK 0001140536) | FY2021
+FILE         : 0001140536_WTW_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 3 – Acquisitions and Divestitures
+ASSET CAT.   : Furniture, equipment, technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+The following table reflects changes in the net carrying amount of the components of fixed assets for the years ended December 31, 2021 and 2020: Furniture, equipment and software Leasehold improvements Land and buildings Total Cost: at January 1, 2020 $ 1,297 $ 549 $ 90 $ 1,936 Additions 238 31 — 269 Acquisitions 1 — — 1 Disposals ( 65 ) ( 12 ) ( 1 ) ( 78 ) Abandonment of long-lived asset (i) ( 35 ) — — ( 35 ) Foreign exchange 31 9 1 41 Cost: at December 31, 2020 1,467 577 90 2,134 Additions 176 18 — 194 Disposals (ii) ( 145 ) ( 61 ) ( 2 ) ( 208 ) Foreign exchange ( 21 ) ( 7 ) — ( 28 ) Cost: at December 31, 2021 $ 1,477 $ 527 $ 88 $ 2,092 Depreciation: at January 1, 2020 $ ( 590 ) $ ( 244 ) $ ( 57 ) $ ( 891 ) Depreciation expense (i) ( 213 ) ( 55 ) ( 4 ) ( 272 ) Disposals 56 10 — 66 Foreign exchange ( 17 ) ( 6 ) ( 1 ) ( 24 ) Depreciation: at December 31, 2020 ( 764 ) ( 295 ) ( 62 ) ( 1,121 ) Depreciation expense ( 227 ) ( 51 ) ( 3 ) ( 281 ) Disposals 103 41 2 146 Foreign exchange 11 4 — 15 Depreciation: at December 31, 2021 $ ( 877 ) $ ( 301 ) $ ( 63 ) $ ( 1,241 ) Net book value: At December 31, 2020 $ 703 $ 282 $ 28 $ 1,013 At December 31, 2021 $ 600 $ 226 $ 25 $ 851 (i) Depreciation expense on the consolidated statement of comprehensive income for the year ended December 31, 2020 includes both the depreciation expense presented here as well as the abandonment of an internally-developed software asset of $ 35 million prior to being placed in service. (ii) Includes $ 5 million of furniture, equipment and software costs and $ 4 million of leasehold improvements costs which have been written off as part of technology modernization and real estate rationalization, respectively, under the Transformation program (see Note 6 – Restructuring Costs).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

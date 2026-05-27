@@ -1,0 +1,20 @@
+FIRM         : BCPC (CIK 0000009326) | FY2018
+FILE         : 0000009326_BCPC_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 - BUSINESS DESCRIPTION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment and Depreciation
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, “Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract.” The guidance requires implementation costs incurred by customers in cloud computing arrangements to be deferred over the noncancelable term of the cloud computing arrangements plus any optional renewal periods (1) that are reasonably certain to be exercised by the customer or (2) for which exercise of the renewal option is controlled by the cloud service provider. The effective date of this pronouncement is for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years. Early adoption is permitted, and the standard may be adopted either using the prospective or retrospective transition approach. The Company is currently evaluating the impact of this pronouncement on the Company’s consolidated financial statements and disclosures.

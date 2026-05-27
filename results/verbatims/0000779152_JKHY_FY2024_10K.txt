@@ -1,0 +1,20 @@
+FIRM         : JKHY (CIK 0000779152) | FY2024
+FILE         : 0000779152_JKHY_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-08-23
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 8. INCOME TAXES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+June 30, 2024 2023 Deferred tax assets: Contract and service revenues $ 21,985 $ 18,186 Expense reserves and accruals (bad debts and compensation) 16,123 14,023 Leasing liabilities 14,755 12,462 Net operating loss and tax credit carryforwards 2,155 1,965 Other, net 3,369 2,916 Total gross deferred tax assets 58,387 49,552 Valuation allowance (108) (125) Net deferred tax assets 58,279 49,427 Deferred tax liabilities: Property and equipment depreciation (26,689) (27,788) Intangibles, software development, and research and development tax amortization (113,623) (136,045) Contract and service costs (148,126) (119,201) Leasing right-of-use assets (13,363) (10,824) Total gross deferred liabilities (301,801) (293,858) Net deferred tax liability $ (243,522) $ (244,431)
+
+[VERBATIM — Infrastructure IA]
+The Company leases certain office space, data centers and equipment. The Company’s leases have remaining terms of 3 months to 9 years. Certain leases contain renewal options for varying periods, which are at the Company’s sole discretion. For leases where the Company is reasonably certain to exercise a renewal option, such option periods have been included in the determination of the Company’s ROU assets and lease liabilities. Certain leases require the Company to pay taxes, insurance, maintenance, and other operating expenses associated with the leased asset. Such amounts are not included in the measurement of the lease liability to the extent they are variable in nature. These variable lease costs are recognized as a variable lease expense when incurred. Certain leases include options to purchase the leased asset at the end of the lease term, which is assessed as a part of the Company’s lease classification determination. The depreciable life of the ROU asset and leasehold improvements are limited by the expected lease term unless the Company is reasonably certain of a transfer of title or purchase option.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

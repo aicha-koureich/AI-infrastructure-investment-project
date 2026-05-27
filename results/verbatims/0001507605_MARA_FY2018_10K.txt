@@ -1,0 +1,36 @@
+FIRM         : MARA (CIK 0001507605) | FY2018
+FILE         : 0001507605_MARA_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE
+2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : servers
+DURÉE        : 2.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Management
+has assessed the basis of depreciation of the Company’s Crypto-currency Machines used to verify digital currency transactions
+and generate digital currencies and believes they should be depreciated over a 2 year period. The rate at which the Company generates
+digital assets and, therefore, consumes the economic benefits of its transaction verification servers are influenced by a number
+of factors including the following:
+
+[VERBATIM — Infrastructure IA]
+Marathon
+Patent Group, Inc. (the “Company”) was incorporated in the State of Nevada on February 23, 2010 under the name Verve
+Ventures, Inc. On December 7, 2011, the Company changed its name to American Strategic Minerals Corporation and were engaged in
+exploration and potential development of uranium and vanadium minerals business. In June 2012, the Company discontinued the minerals
+business and began to invest in real estate properties in Southern California. In October 2012, the Company discontinued its real
+estate business when the former CEO joined the firm and the Company commenced IP licensing operations, at which time the Company’s
+name was changed to Marathon Patent Group, Inc. On November 1, 2017, the Company entered into a merger agreement with Global Bit
+Ventures, Inc. (“GBV”), which is focused on mining digital assets. The Company purchased cryptocurrency mining machines
+and established a data center in Canada to mine digital assets. As part of the cancellation of certain indebtedness owed to Fortress
+Investment Group, LLC, we transferred ownership of various patents, including U.S. Patent No. 7,177,798, commonly referred to
+as “Patent 798.” Fortress created a new Special Purpose Entity, CF Dynamic Advances LLC, in which we own a 30% interest.
+There was no activity in 2018.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

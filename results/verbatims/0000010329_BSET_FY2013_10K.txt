@@ -1,0 +1,20 @@
+FIRM         : BSET (CIK 0000010329) | FY2013
+FILE         : 0000010329_BSET_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : November 30, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Income (loss) from operations for fiscal 2013, 2012 and 2011 includes new store pre-opening costs of $671, $371 and $90, respectively. Such costs consist of expenses incurred at the new store location during the period prior to its opening and include, among other things, facility occupancy costs such as rent and utilities and local store personnel costs related to pre-opening activities including training. New store pre-opening costs do not include costs which are capitalized in accordance with our property and equipment capitalization policies, such as leasehold improvements and store fixtures and equipment. Such capitalized costs associated with new stores are depreciated commencing with the opening of the store. There are no pre-opening costs associated with stores acquired from licensees, as such locations were already in operation at the time of their acquisition.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

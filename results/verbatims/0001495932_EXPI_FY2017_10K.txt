@@ -1,0 +1,24 @@
+FIRM         : EXPI (CIK 0001495932) | FY2017
+FILE         : 0001495932_EXPI_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Maintenance and repairs are expensed as incurred.
+Expenditures that substantially increase an asset’s useful life or improve an asset’s functionality are capitalized.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : GTLS (CIK 0000892553) | FY2024
+FILE         : 0000892553_GTLS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Heat Transfer Systems segment orders for 2024 were $1,467.7 million compared to $1,114.2 million for 2023, an increase of $353.5 million . The increase in orders across the segment was driven by increased orders for data centers as well as LNG including a large order in the fourth quarter for IPSMR® process technology and associated LNG equipment. Heat Transfer Systems segment backlog totaled a $2,097.4 million as of December 31, 2024 compared to $1,716.5 million as of December 31, 2023, an increase of $380.9 million.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

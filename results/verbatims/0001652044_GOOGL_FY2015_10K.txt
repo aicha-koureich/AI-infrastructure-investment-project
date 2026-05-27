@@ -1,0 +1,20 @@
+FIRM         : GOOGL (CIK 0001652044) | FY2015
+FILE         : 0001652044_GOOGL_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We continue to make significant research and development (R&D) investments in areas of strategic focus for Google, such as search and advertising, as well as in new products and services across both Google and Other Bets. The amount of our capital expenditures has fluctuated and may continue to fluctuate in the long term as we invest heavily in our systems, data centers, real estate and facilities, and information technology infrastructure.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

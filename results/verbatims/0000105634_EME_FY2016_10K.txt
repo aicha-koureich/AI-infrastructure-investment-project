@@ -1,0 +1,20 @@
+FIRM         : EME (CIK 0000105634) | FY2016
+FILE         : 0000105634_EME_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 19 Subsequent Event
+ASSET CAT.   : Machinery and equipment, Furniture and fixtures, Computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2016 2015 Machinery and equipment $ 133,455 $ 123,211 Vehicles 54,165 51,673 Furniture and fixtures 21,513 20,730 Computer hardware/software 87,416 95,993 Land, buildings and leasehold improvements 90,215 88,877 Construction in progress 7,544 5,688 394,308 386,172 Accumulated depreciation and amortization (266,357 ) (264,154 ) $ 127,951 $ 122,018
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

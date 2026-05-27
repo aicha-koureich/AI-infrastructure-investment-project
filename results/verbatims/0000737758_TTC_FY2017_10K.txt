@@ -1,0 +1,23 @@
+FIRM         : TTC (CIK 0000737758) | FY2017
+FILE         : 0000737758_TTC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment, Machinery and equipment, Computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment was as follows: October 31 2017 2016 Land and land improvements $ 38,060 $ 34,744 Buildings and leasehold improvements 194,995 182,121 Machinery and equipment 349,976 325,595 Tooling 197,299 200,842 Computer hardware and software 88,152 85,173 Construction in process 17,132 9,561 Property, plant and equipment 885,614 838,036 Less: accumulated depreciation 650,384 615,998 Property, plant and equipment, net $ 235,230 $ 222,038
+
+[VERBATIM — Changement de politique]
+years. Expenditures for major renewals and improvements, which substantially increase the useful lives of existing assets, are capitalized, and expenditures for general maintenance and repairs are charged to operating expenses as incurred. Interest is capitalized during the construction period for significant capital projects. During the fiscal years ended
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement ||| In April 2015, the FASB issued ASU No. 2015-05, Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement .

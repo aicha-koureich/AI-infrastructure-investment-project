@@ -1,0 +1,22 @@
+FIRM         : WABC (CIK 0000311094) | FY2015
+FILE         : 0000311094_WABC_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1: Business and Accounting Policies Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : 20.0-50.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment are stated at cost,
+less accumulated depreciation and amortization. Estimated useful lives of premises and equipment range from 20 to 50 years and from 3 to 20
+years, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

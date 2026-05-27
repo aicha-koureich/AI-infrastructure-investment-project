@@ -1,0 +1,21 @@
+FIRM         : UPWK (CIK 0001627475) | FY2022
+FILE         : 0001627475_UPWK_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2—Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-3.0 ans | 2.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Goodwill represents the excess of the aggregate fair value of the consideration transferred over the fair value of the net tangible and identifiable intangible assets acquired in the Elance-oDesk Combination. As of December 31, 2022 and 2021, all of the Company’s intangible assets were fully amortized. Goodwill is not amortized, but rather is assessed for impairment at least annually, or more frequently if events and changes in circumstances indicate that its carrying amount may not be recoverable. The Company performs its annual impairment assessment during the fourth quarter of each calendar year based on a single reporting unit structure by comparing the carrying value of the reporting unit to its fair value. An impairment would occur if the carrying amount of a reporting unit exceeded the fair value of that reporting unit. There has been no impairment of goodwill for any of the periods presented. The Company’s long-lived assets consist of property and equipment and internal-use software and platform development costs. The Company evaluates the recoverability of its long-lived assets for possible impairment whenever events or circumstances indicate that the carrying amount of such assets may not be recoverable. Recoverability of these assets is measured by comparing the carrying amounts to the future undiscounted cash flows the assets are expected to generate. If it is determined that the asset group is not recoverable, an impairment loss is recorded in the amount by which the carrying amount of the asset group exceeds the aggregate future
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cost of Revenue. Cost of revenue consists primarily of the cost of payment processing fees, amounts paid to talent to deliver services for clients under our managed services offering, personnel-related costs for our services and support personnel, third-party hosting fees for our use of AWS, and the amortization expense associated with capitalized internal-use software and platform development costs. We define personnel-related costs as salaries, bonuses, benefits, travel and entertainment, and stock-based compensation costs for employees and the costs related to other service providers we engage. ||| Cost of revenue consists primarily of the cost of payment processing fees, amounts paid to talent to deliver services for clients under our managed services offering, personnel-related costs for our services and support personnel, third-party hosting fees for our use of AWS, and the amortization expense associated with capitalized internal-use software and platform development costs. We define personnel-related costs as salaries, bonuses, benefits, travel and entertainment, and stock-based compensation costs for employees and the costs related to other service providers we engage.

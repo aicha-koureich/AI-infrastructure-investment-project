@@ -1,0 +1,20 @@
+FIRM         : ALV (CIK 0001034670) | FY2017
+FILE         : 0001034670_ALV_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Increases in IT security threats, the sophistication of computer crime and our reliance on global data centers could expose our systems, networks, solutions and services to risks  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We rely on third parties to provide or maintain some of our IT systems, data centers and related services and do not exercise direct control over these systems. Despite the implementation of security measures at our own and at third party locations, these IT systems, data centers and cloud services are vulnerable to disruptions, including those resulting from natural disasters, cyber-attacks or failures in third-party-provided services. Cyberattacks have become increasingly frequent and sophisticated and could target software embedded in certain of our products. To the extent that any disruption or security breach results in misappropriation, loss or damage to our data, or an inappropriate disclosure of our confidential or our customer’s information, it could cause significant damage to our reputation, affect our relationships with our customers create significant expense for us to investigate and remediate damage, lead to claims against the Company and ultimately harm our business. In addition, we may be required to incur significant costs to protect against damage caused by these disruptions or security breaches in the future.

@@ -1,0 +1,21 @@
+FIRM         : XYZ (CIK 0001512673) | FY2024
+FILE         : 0001512673_XYZ_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 - DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Computer equipment, data center equipment, and computer software
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 7.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are recorded at historical cost less accumulated depreciation, which is computed on a straight-line basis over the asset’s estimated useful life. The estimated useful lives of property and equipment are described below: Property and Equipment Useful Life Capitalized software 18 months Computer equipment, data center equipment, and computer software Three years Furniture and fixtures Seven years Leasehold improvements Lesser of ten years or remaining lease term
+
+[VERBATIM — Infrastructure IA]
+Property and equipment are recorded at historical cost less accumulated depreciation, which is computed on a straight-line basis over the asset’s estimated useful life. The estimated useful lives of property and equipment are described below: Property and Equipment Useful Life Capitalized software 18 months Computer equipment, data center equipment, and computer software Three years Furniture and fixtures Seven years Leasehold improvements Lesser of ten years or remaining lease term  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Product development expenses currently represent the largest component of our operating expenses and consist primarily of expenses related to our engineering, data science, and design personnel; fees and supply costs related to maintenance at third-party data center facilities; hardware related development and tooling costs; software and cloud computing infrastructure fees; and fees for software licenses, consulting, legal, and other services that are directly related to growing and maintaining our portfolio of products and services. Additionally, product development expenses include the depreciation of product-related infrastructure and tools, including data center equipment, internally developed software, and computer equipment. We continue to focus our product development efforts on adding new features and expanding our apps, and on enhancing the functionality and ease of use of our offerings. Our ability to realize returns on these investments is substantially dependent upon our ability to successfully address current and emerging requirements of sellers, buyers, and customers through the development and introduction of these new products and services. ||| Product development expenses for the year ended December 31, 2024, increased by $193.6 million, or 7%, compared to the year ended December 31, 2023, primarily due to an increase of $154.1 million in software and cloud computing infrastructure fees for the year ended December 31, 2024, as a result of increased capacity needs and expansion of our cloud-based services. Impairment charges of certain assets related to TIDAL of $60.3 million were also recognized in the fourth quarter of 2024. The increase in product development expenses was partially offset by a decrease of $87.9 million in personnel costs primarily due to a decrease in headcount, which is a result of executing on our cost efficiency goals and employee headcount cap.

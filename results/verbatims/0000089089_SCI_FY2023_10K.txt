@@ -1,0 +1,21 @@
+FIRM         : SCI (CIK 0000089089) | FY2023
+FILE         : 0000089089_SCI_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3
+ASSET CAT.   : equipment is depreciated over a period from
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 10.0 ans | 12.0 ans
+
+[VERBATIM — Durée de vie]
+Buildings and improvements are depreciated over a period ranging from ten years to forty years , equipment is depreciated over a period from three years to twelve years , and leasehold improvements are depreciated over the shorter of the lease term or twelve years . Depreciation and amortization expense related to property and equipment was $191.3 million, $175.3 million, and $159.3 million for the years ended December 31, 2023, 2022, and 2021, respectively. When property or equipment is sold or retired, the cost and related accumulated depreciation are removed from the Consolidated Balance Sheet and the resulting gains and losses are included in the Consolidated Statement of Operations in the period of sale or disposal.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : AMN (CIK 0001142750) | FY2024
+FILE         : 0001142750_AMN_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1(j)
+ASSET CAT.   : furniture, equipment, capitalized software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company records furniture, equipment, leasehold improvements and capitalized software at cost less accumulated amortization and depreciation. The Company calculates depreciation on furniture, equipment and software using the straight-line method based on the estimated useful lives of the related assets (typically three to ten years). The Company depreciates leasehold improvements and equipment obtained under finance leases over the shorter of the term of the lease or their estimated useful lives. The Company includes depreciation of equipment obtained under finance leases with depreciation expense in the accompanying consolidated financial statements.
+
+[VERBATIM — Infrastructure IA]
+The Company leases certain office facilities, data centers, and equipment under various operating leases. The Company’s short-term leases (with initial lease terms of 12 months or less) are primarily related to housing arrangements for healthcare professionals on assignment. Certain leases include one or more options to renew, with renewal terms that can extend the lease term up to 10 years. Additionally, certain leases also include options to terminate the leases within 2 years.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

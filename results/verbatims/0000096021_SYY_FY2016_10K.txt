@@ -1,0 +1,21 @@
+FIRM         : SYY (CIK 0000096021) | FY2016
+FILE         : 0000096021_SYY_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : ERROR | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 7. PLANT AND EQUIPMENT
+ASSET CAT.   : equipment, Computer hardware
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Jul. 2, 2016 Jun. 27, 2015 Estimated Useful Lives (In thousands) Plant and equipment at cost: Land $ 448,981 $ 441,939 Buildings and improvements 3,962,454 3,877,817 10-30 years Fleet and equipment 2,990,267 2,836,554 3-10 years Computer hardware and software 1,183,548 1,234,138 3-7 years Total plant and equipment at cost 8,585,250 8,390,448 Accumulated depreciation (4,704,808 ) (4,408,305 ) Total plant and equipment, net $ 3,880,442 $ 3,982,143
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

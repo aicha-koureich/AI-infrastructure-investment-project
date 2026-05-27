@@ -1,0 +1,20 @@
+FIRM         : APH (CIK 0000820313) | FY2024
+FILE         : 0000820313_APH_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1—Summary of Significant Accounting Policies
+ASSET CAT.   : machinery and
+DURÉE        : 3.0-12.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are carried at cost less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Net cash used in investing activities was $2,648.6 in 2024, compared to $1,393.7 in 2023 and $731.1 in 2022. In 2024, net cash used in investing activities was primarily driven by the use of $2,156.4 to fund acquisitions and capital expenditures (net of disposals) of $657.6, partially offset by net sales and maturities of short-term investments of $163.5. In 2023, net cash used in investing activities was primarily driven by the use of $970.4 to fund acquisitions, capital expenditures (net of disposals) of $368.8, and net purchases of short-term investments of $59.4. In 2022, net cash used in investing activities was primarily driven by capital expenditures (net of disposals) of $378.2, the use of $288.2 to fund acquisitions, net purchases of long-term investments of $56.0, and net purchases of short-term investments of $25.2. The elevated capital expenditures in 2024, in particular in the second half of the year, were driven by investments, primarily in support of the growth in our IT datacom and defense markets. We currently expect this elevated level of capital spending to continue into 2025 to support the significant growth we are experiencing related to artificial intelligence applications in our IT datacom market.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

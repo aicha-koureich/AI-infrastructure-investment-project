@@ -1,0 +1,20 @@
+FIRM         : CRI (CIK 0001060822) | FY2018
+FILE         : 0001060822_CRI_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 29, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 3 - REVENUE RECOGNITION
+ASSET CAT.   : equipment, computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(dollars in thousands) December 29, 2018 December 30, 2017 Fixtures, equipment, computer hardware and software $ 425,686 $ 430,156 Land, building, and leasehold improvements 348,131 336,981 Marketing fixtures 7,001 7,602 Construction in progress 18,517 7,358 799,335 782,097 Accumulated depreciation and amortization (448,898 ) (404,173 ) Total $ 350,437 $ 377,924
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

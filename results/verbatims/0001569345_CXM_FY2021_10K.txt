@@ -1,0 +1,21 @@
+FIRM         : CXM (CIK 0001569345) | FY2021
+FILE         : 0001569345_CXM_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-3.0 ans | 3.0 ans
+
+[VERBATIM — Durée de vie]
+The Company continually monitors events and changes in circumstances that could indicate that the carrying amounts of its long-lived assets, including property, equipment, capitalized internal-use software and other assets, including identifiable definite-lived intangible assets, may not be recoverable. When such events or changes in circumstances occur, the Company assesses the recoverability of long-lived assets by determining whether the carrying value of such assets will be recovered through their undiscounted expected future cash flow. If the future undiscounted cash flow is less than the carrying amount of these assets, the Company recognizes an impairment loss based on the excess of the carrying amount over the fair value of the assets. If the useful life is shorter than originally estimated, the Company amortizes the remaining carrying value over the new shorter life.
+
+[VERBATIM — Infrastructure IA]
+Costs of subscription revenue consists primarily of expenses related to hosting the Company’s software platform, including data center operations costs and personnel and related expenses directly associated with delivering the Company’s cloud infrastructure, the costs associated with purchasing third-party data that is utilized in providing elements of the platform and costs to provide platform support to the Company’s customers, including personnel and related expenses. These costs include salaries, benefits, bonuses, stock-based compensation, as well as allocated overhead.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

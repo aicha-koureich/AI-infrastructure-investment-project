@@ -1,0 +1,23 @@
+FIRM         : EPC (CIK 0001096752) | FY2019
+FILE         : 0001096752_EPC_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 - Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in Property, plant and equipment, net. These costs are amortized using the straight-line method over periods of related benefit ranging from three to seven years . Expenditures related to capitalized software are included within Capital expenditures in the Consolidated Statements of Cash Flows. Amortization expense was $4.3 , $5.3 , and $6.0 in fiscal 2019 , 2018 and 2017 , respectively.
+
+[VERBATIM — Changement de politique]
+Estimated useful lives range from two to 25 years for machinery and equipment and three to 30 years for buildings and building improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

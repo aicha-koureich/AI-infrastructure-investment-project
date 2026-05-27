@@ -1,0 +1,21 @@
+FIRM         : ANF (CIK 0001018840) | FY2013
+FILE         : 0001018840_ANF_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 19. GILLY HICKS RESTRUCTURING
+ASSET CAT.   : buildings
+DURÉE        : 3.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization of property and equipment are computed for financial reporting purposes on a straight-line basis, using service lives which are principally: 30 years for buildings; from three to 15 years for leasehold improvements and furniture and fixtures; from three to seven years for information technology; and from three to 20 years for other property and equipment; or the applicable lease term, whichever is shorter.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

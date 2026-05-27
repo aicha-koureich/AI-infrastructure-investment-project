@@ -1,0 +1,21 @@
+FIRM         : JCI (CIK 0000833444) | FY2024
+FILE         : 0000833444_JCI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-09-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 21. Commitments and Contingencies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 3.0-15.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+As described in Notes 1, 3 and 4 to the consolidated financial statements, the Company recognized net sales of $22,952 million from continuing operations and $4,466 million from discontinued operations for the year ended September 30, 2024, of which a majority relates to certain over time and point in time contracts with customers. Revenue from certain long-term contracts to design, manufacture and install building products and systems as well as unscheduled repair or replacement services is recognized on an over time basis, with progress towards completion measured using a cost-to-cost input method based on the relationship between actual costs incurred and total estimated costs at completion. The cost-to-cost input method is used as it best depicts the transfer of control to the customer that occurs as the Company incurs costs. Changes to the original estimates may be required during the life of the contract and estimated losses are recorded when identified. The Company enters into extended warranties and long-term service and maintenance agreements with certain customers. For these arrangements, revenue is recognized over time on a straight-line basis over the respective contract term. Revenue associated with the sale of equipment and related installations are generally recognized over time on a cost-to-cost input method, while the revenue for monitoring and maintenance services are recognized over time as services are rendered. In other cases, the Company recognizes revenue at the point in time when control over the goods or services transfers to the customer.
+
+[VERBATIM — Infrastructure IA]
+The Company’s segments provide products and services primarily to commercial, institutional, industrial, data center, and governmental customers.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

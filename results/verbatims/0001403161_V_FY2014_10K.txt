@@ -1,0 +1,20 @@
+FIRM         : V (CIK 0001403161) | FY2014
+FILE         : 0001403161_V_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 21—Subsequent Events
+ASSET CAT.   : equipment, technology, furniture
+DURÉE        : 2.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, equipment and technology are recorded at historical cost less accumulated depreciation and amortization, which are computed on a straight-line basis over the asset’s estimated useful life. Depreciation and amortization of technology, furniture, fixtures and equipment are computed over estimated useful lives ranging from 2 to 7 years. Fully depreciated assets are retained in property, equipment and technology, net, until removed from service.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

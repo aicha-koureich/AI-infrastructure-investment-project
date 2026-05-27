@@ -1,0 +1,20 @@
+FIRM         : PANW (CIK 0001327567) | FY2022
+FILE         : 0001327567_PANW_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-08-22
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 9. Property and Equipment
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The following table presents details of our property and equipment, net (in millions): July 31, 2022 2021 Computers, equipment, and software $ 404.3 $ 352.1 Leasehold improvements 249.3 231.6 Land 87.2 49.6 Demonstration units 41.6 43.8 Furniture and fixtures 45.1 40.3 Total property and equipment, gross 827.5 717.4 Less: accumulated depreciation (469.7) (399.0) Total property and equipment, net $ 357.8 $ 318.4
+
+[VERBATIM — Infrastructure IA]
+Our product revenue grew to $1.4 billion or 24.8% of total revenue for fiscal 2022, representing year-over-year growth of 21.7%. Product revenue is primarily generated from sales of our appliances, primarily our ML-Powered Next-Generation Firewall, which is available in a number of form factors, including as physical, virtual, and containerized appliances. Our ML-Powered Next-Generation Firewall incorporates our PAN-OS operating system, which provides a consistent set of capabilities across our entire network security product line. Our products are designed for different performance requirements throughout an organization, ranging from our PA-410, which is designed for small organizations and remote or branch offices, to our top-of-the-line PA-7080, which is designed for large-scale data centers and service provider use. The same firewall functionality that is delivered in our physical appliances is also available in our VM-Series virtual firewalls, which secure virtualized and cloud-based computing environments, and in our CN-Series container firewalls, which secure container environments and traffic.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+• We enable cloud native security through our Prisma Cloud platform. As a comprehensive Cloud Native Application Protection Platform (“CNAPP”), Prisma Cloud secures hybrid and multi-cloud environments for applications, data, and the entire cloud native technology stack across the full development lifecycle; from code to runtime. For inline network security on multi and hybrid-cloud environments, we also offer our VM-Series and CN-Series Firewall offerings. ||| We enable cloud native security through our Prisma Cloud platform. As a comprehensive Cloud Native Application Protection Platform (“CNAPP”), Prisma Cloud secures hybrid and multi-cloud environments for applications, data, and the entire cloud native technology stack across the full development lifecycle; from code to runtime. For inline network security on multi and hybrid-cloud environments, we also offer our VM-Series and CN-Series Firewall offerings. ||| We continue to invest in innovation as we evolve and further extend the capabilities of our portfolio, as we believe that innovation and timely development of new features and products are essential to meeting the needs of our end-customers and improving our competitive position. During fiscal 2022, we introduced several new offerings, including: Prisma Cloud 3.0, Prisma Access 3.0, AIOps for NGFW, PAN-OS 10.2, and Cloud NGFW for AWS.

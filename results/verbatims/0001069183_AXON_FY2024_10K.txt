@@ -1,0 +1,20 @@
+FIRM         : AXON (CIK 0001069183) | FY2024
+FILE         : 0001069183_AXON_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-28
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Axon Evidence and Cloud Services ||| Additionally, in Q1 2025 we approved a plan to realign our business to better reflect our continued growth and expansion of product, software and service offerings. Previously reported within two reportable segments, TASER and Software and Sensors, we will prospectively reorganize our business in a manner that provides increased transparency and distinction between our hardware and software and services components. As a result of the reorganization, effective with the first quarter of fiscal year 2025, our financial results will be reported in two reportable segments, Connected Devices and Software & Services, which our CODM will use to regularly review information, allocate resources and assess performance. Connected Devices will include hardware products, such as CEDs, body cameras, and drones. Software & Services will include products that integrate with our suite of connected devices, such as Axon Evidence, RMS and other cloud services. ||| Year Ended December 31, Dollar Change Percent Change 2024 2023 TASER segment: TASER Devices (Professional) $ 453,055 21.8 % $ 333,923 21.4 % $ 119,132 35.7 % Cartridges 246,766 11.8 193,285 12.4 53,481 27.7 Axon Evidence and Cloud Services 54,913 2.6 35,680 2.3 19,233 53.9 Extended Warranties 37,515 1.8 31,689 2.0 5,826 18.4 Other (1) 26,424 1.3 18,933 1.2 7,491 39.6 TASER segment 818,673 39.3 613,510 39.3 205,163 33.4 Software and Sensors segment: Axon Evidence and Cloud Services 808,256 38.8 566,003 36.3 242,253 42.8 Axon Body Cameras and Accessories 246,855 11.9 183,023 11.7 63,832 34.9 Axon Fleet Systems 104,890 5.0 121,842 7.8 (16,952) (13.9) Extended Warranties 66,141 3.2 55,154 3.5 10,987 19.9 Other (2) 37,711 1.8 21,167 1.4 16,544 78.2 Software and Sensors segment 1,263,853 60.7 947,189 60.7 316,664 33.4 Total net sales $ 2,082,526 100.0 % $ 1,560,699 100.0 % $ 521,827 33.4 %

@@ -1,0 +1,20 @@
+FIRM         : BKU (CIK 0001504008) | FY2015
+FILE         : 0001504008_BKU_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment are carried at cost less accumulated depreciation and amortization and are included in other assets in the accompanying consolidated balance sheets. Direct costs of materials and services associated with developing or obtaining and implementing internal use computer software incurred during the application and development stage are capitalized and amortized over the estimated useful lives of the software. The estimated useful lives of premises and equipment are as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement. ||| The amendments in this ASU provide guidance regarding whether fees paid by a customer in a cloud computing arrangement are considered a software license or a service contract. The amendments in this ASU are effective for the Company for annual periods, including interim periods within those annual periods, beginning after December 15, 2015. The Company has elected to apply the amendment prospectively to all arrangements entered into or materially modified after the effective date. Management does not expect adoption will have a material impact on the Company's consolidated financial condition, results of operations or cash flows. ||| In April 2015, the FASB issued ASU No. 2015-05, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement. The amendments in this ASU provide guidance regarding whether fees paid by a customer in a cloud computing arrangement are considered a software license or a service contract. The amendments in this ASU are effective for the Company for annual periods, including interim periods within those annual periods, beginning after December 15, 2015. The Company has elected to apply the amendment prospectively to all arrangements entered into or materially modified after the effective date. Management does not expect adoption will have a material impact on the Company's consolidated financial condition, results of operations or cash flows.

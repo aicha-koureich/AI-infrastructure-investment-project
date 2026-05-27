@@ -1,0 +1,20 @@
+FIRM         : ONTO (CIK 0000704532) | FY2018
+FILE         : 0000704532_ONTO_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 29, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 15. Segment, Geographic, and Significant Customer Information
+ASSET CAT.   : equipment, Machinery and equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+At December 29, 2018 December 30, 2017 Inventories: Raw materials and sub-assemblies $ 31,434 $ 32,187 Work in process 22,383 13,498 Finished goods 8,098 7,175 Inventories 61,915 52,860 Inventories-delivered systems 180 1,534 Total inventories $ 62,095 $ 54,394 Property, plant and equipment, net: (1) Land $ 15,571 $ 15,573 Building and improvements 21,354 20,880 Machinery and equipment 39,898 36,380 Furniture and fixtures 2,551 2,420 Software 10,116 9,558 Capital in progress 6,027 4,418 Total property, plant and equipment, gross 95,517 89,229 Accumulated depreciation and amortization (47,617 ) (44,419 ) Total property, plant and equipment, net $ 47,900 $ 44,810 (1) Total depreciation and amortization expense for the years ended December 29, 2018, December 30, 2017 and December 31, 2016 was $6.5 million, $6.7 million, and $6.8 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued an accounting standard update to provide additional guidance on the accounting for costs of implementation activities performed in a cloud computing arrangement. The amendments in this update align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software and hosting arrangements that include an internal-use software license. The accounting for the service element of a hosting arrangement that is a service contract is not affected by the amendments in this update. The amendments in this update are effective for public business entities for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years. Early adoption is permitted. The amendments in this update should be applied retrospectively or prospectively to all implementation costs incurred after the date of adoption. The Company is currently evaluating the effect of this update on its consolidated financial condition and results of operations.

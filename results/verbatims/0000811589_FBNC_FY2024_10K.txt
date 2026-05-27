@@ -1,0 +1,20 @@
+FIRM         : FBNC (CIK 0000811589) | FY2024
+FILE         : 0000811589_FBNC_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5. Premises and Equipment
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense amounted to $7.8 million, $7.8 million, and $6.9 million for the years ended December 31, 2024, 2023, and 2022, respectively, and is recorded in occupancy and equipment expense.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

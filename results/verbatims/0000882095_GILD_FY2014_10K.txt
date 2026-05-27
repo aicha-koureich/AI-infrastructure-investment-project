@@ -1,0 +1,20 @@
+FIRM         : GILD (CIK 0000882095) | FY2014
+FILE         : 0000882095_GILD_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : computer equipment, capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Office and computer equipment includes capitalized software. We had unamortized capitalized software costs on our Consolidated Balance Sheets of $80 million as of December 31, 2014 and $84 million as of December 31, 2013 . Leasehold improvements are amortized over the shorter of the lease term or the asset's useful life. Capitalized interest on construction in-progress is included in property, plant and equipment. Interest capitalized in 2014 , 2013 and 2012 was not significant.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

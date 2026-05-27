@@ -1,0 +1,23 @@
+FIRM         : TRIP (CIK 0001526520) | FY2019
+FILE         : 0001526520_TRIP_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We record property and equipment at cost, net of accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+Intangible assets with estimable useful lives, or definite-lived intangibles, are carried at cost and are amortized on a straight-line basis over their estimated useful lives and reviewed for impairment upon certain triggering events. We routinely review the remaining estimated useful lives of definite-lived intangible assets. If we reduce the estimated useful life assumption, the remaining unamortized balance is amortized over the revised estimated useful life.
+
+[VERBATIM — Infrastructure IA]
+Company has also entered into data center and certain equipment leases, such as network equipment and other leases, which are not material to our consolidated financial statements.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued new accounting guidance which require a customer in a cloud computing arrangement (i.e., hosting arrangement) that is a service contract to follow the internal-use software guidance to determine which implementation costs to capitalize as assets or expense as incurred. The accounting for the cost of the hosting component of the arrangement (i.e., service costs the customer pays for the cloud computing service) is not affected by this new guidance. The Company uses both internally-developed software and third-party software to operate its business. This guidance is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019, with early adoption permitted, including adoption in any interim period. Entities have the option to apply the guidance retrospectively or prospectively to all implementation costs incurred after the date of adoption. We will adopt this new guidance as of January 1, 2020 on a prospective basis without adjusting the comparative periods presented. We do not expect the adoption of this new guidance will have a material impact on our consolidated financial statements.

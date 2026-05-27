@@ -1,0 +1,23 @@
+FIRM         : CMTL (CIK 0000023197) | FY2021
+FILE         : 0000023197_CMTL_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : July 31, 2021
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+The Credit Facility provides for, among other things: (i) no scheduled payments of principal until maturity; (ii) a maximum Secured Leverage Ratio of 3.75x trailing twelve months ("TTM") Adjusted Earnings Before Interest, Taxes, Depreciation and Amortization ("Adjusted EBITDA") and a Maximum Total Leverage Ratio of 4.50x TTM Adjusted EBITDA, each with no step downs; and (iii) a Minimum Interest Expense Coverage Ratio of 3.25x TTM Adjusted EBITDA.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

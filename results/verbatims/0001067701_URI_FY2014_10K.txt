@@ -1,0 +1,23 @@
+FIRM         : URI (CIK 0001067701) | FY2014
+FILE         : 0001067701_URI_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 10. Derivatives
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Cost of equipment rentals, excluding depreciation (2), (3)
+
+[VERBATIM — Changement de politique]
+(1) Depreciation of rental equipment and non-rental depreciation were adjusted for the fair value mark-ups of equipment acquired in the National Pump acquisition. The useful lives assigned to such equipment didn’t change significantly from the lives historically used by National Pump.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

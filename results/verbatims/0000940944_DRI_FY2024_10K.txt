@@ -1,0 +1,20 @@
+FIRM         : DRI (CIK 0000940944) | FY2024
+FILE         : 0000940944_DRI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-06-19
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Capitalized software
+DURÉE        : 1.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software, which is a component of other assets, is recorded at cost less accumulated amortization. Capitalized software is amortized using the straight-line method over estimated useful lives ranging from 1 to 10 years. The cost of capitalized software and related accumulated amortization was as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

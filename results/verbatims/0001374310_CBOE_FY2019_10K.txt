@@ -1,0 +1,21 @@
+FIRM         : CBOE (CIK 0001374310) | FY2019
+FILE         : 0001374310_CBOE_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 25. LEASES
+ASSET CAT.   : Not disclosed
+DURÉE        : 1.0-5.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+The Company currently leases office space, data centers and remote network operations centers under non-cancelable operating leases with third parties as of December 31, 2019. Leases with an initial term of 12 months or less are not recorded on the balance sheet and the Company recognizes lease expense for these leases on a straight-line basis over the lease term. Certain leases include one or more options to renew, with renewal terms that can extend the lease term from one to five years or more, and some of which include the Company’s option to terminate the leases within one year. As the implicit rate in the Company’s leases are generally not reasonably determinable, the Company applies an incremental borrowing rate based on the information available at the lease commencement date in determining the present value of lease payments. The Company applied an incremental borrowing rate as of January 1, 2019 for operating leases that commenced prior to that date. During the year ended December 31, 2019, an additional $22.1 million of right of use assets and lease liabilities were added related to new and modified operating leases.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

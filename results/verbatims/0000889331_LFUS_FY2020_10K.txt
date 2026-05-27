@@ -1,0 +1,20 @@
+FIRM         : LFUS (CIK 0000889331) | FY2020
+FILE         : 0000889331_LFUS_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+oxide-semiconductor field effect transistors (“MOSFETs”) and silicon carbide diodes; and insulated gate bipolar transistors (“IGBT”) technologies. The segment covers a broad range of end markets, including industrial motor drives and power conversion, automotive electronics, electric vehicle and related infrastructure, power supplies, data centers and telecommunications, medical devices, alternative energy, building and home automation, appliances, and mobile electronics.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic: 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force)." ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). The Company adopted the new standard on December 29, 2019. The adoption of ASU 2018-15 did not have a material impact on our Consolidated Financial Statements.

@@ -1,0 +1,20 @@
+FIRM         : WDAY (CIK 0001327811) | FY2024
+FILE         : 0001327811_WDAY_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-07-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 6. Property and Equipment, Net
+ASSET CAT.   : equipment, Furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of January 31, 2025 2024 Computers, equipment, and software $ 1,370 $ 1,387 Buildings 752 726 Leasehold improvements 252 213 Furniture, fixtures, and transportation equipment 108 99 Land and land improvements 81 81 Property and equipment, gross 2,563 2,506 Less accumulated depreciation and amortization (1,324) (1,272) Property and equipment, net $ 1,239 $ 1,234
+
+[VERBATIM — Infrastructure IA]
+We have entered into operating lease agreements for our office space, data centers, and other property and equipment. Operating lease right-of-use assets and operating lease liabilities are recognized at the lease commencement date based on the present value of the lease payments over the lease term. Right-of-use assets also include adjustments related to prepaid or deferred lease payments and lease incentives. As most of our leases do not provide an implicit interest rate, we use our incremental borrowing rate to determine the present value of lease payments.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Workday is the AI platform that helps organizations manage their most important assets – their people and money. We deliver cloud-based applications for financial management, HCM, planning, spend management, and analytics. Our diverse customer base includes emerging, medium-sized, and large global organizations within numerous industry categories, including professional and business services, financial services, healthcare, education, government, technology, media, retail, and hospitality. With Workday, our customers have an AI-powered platform that can help them deliver better employee experiences, increase productivity, improve operational efficiencies, and provide insights for faster, data-driven decision-making. ||| We have achieved significant growth since our inception in 2005, when we pioneered HCM in the cloud. As a result of our innovation and commitment to customer success, today we are a Fortune 500 company with more than 11,000 customers around the world. As we continue to grow, we are focused on driving sustainable, long-term subscription revenue growth by adding new customers and expanding our relationships with existing customers through increased adoption of our suite of solutions. Central to this effort is investing in strategic growth areas including leveraging the power of our platform to drive increased adoption of our full suite of applications, expanding internationally, developing innovative AI solutions, growing our partner ecosystem, deepening our industry verticals, and exploring strategic acquisitions to complement our organic innovation. Our investments across these targeted growth areas may require additional costs, but we remain committed to optimizing resource allocation and realizing a return on our investments. Over time, we believe these investments will support revenue growth and a more scalable business.

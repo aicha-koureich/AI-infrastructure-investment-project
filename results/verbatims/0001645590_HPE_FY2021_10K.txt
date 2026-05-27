@@ -1,0 +1,21 @@
+FIRM         : HPE (CIK 0001645590) | FY2021
+FILE         : 0001645590_HPE_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-10-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 20: Equity Method Investments
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+The Company states property, plant and equipment at cost less accumulated depreciation. Estimated useful lives are five to 40 years for buildings and improvements and three to 15 years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+In October 2021, we renamed the segment previously known as High Performance Computing and Mission Critical Solutions ("HPC & MCS") to High Performance Computing and Artificial Intelligence ("HPC & AI").  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The Company also believes that the pandemic has forced fundamental changes in businesses and communities that are aligned with the Company's edge-to-cloud platform delivered as-a-service strategy. Navigating through the pandemic and planning for a post-COVID world have increased customers' needs for as-a-service offerings, secure connectivity, remote work capabilities and analytics to unlock insights from data. Our solutions are aligned to these needs, and we see opportunity to help our customers drive digital transformations as they continue to adapt to operate in a new world. ||| In response to the aforementioned challenges and trends, we are accelerating growth in our areas of strategic focus, which include the Intelligent Edge and High Performance Computing and Artificial Intelligence ("HPC & AI") businesses while at the same time, we are strengthening our core Compute and Storage businesses, doubling down in key areas of growth, and accelerating our as-a-service pivot to become the edge-to-cloud platform-as-a-service choice for our customers and partners . ||| • HPC & AI - enterprises are running analytics on increasingly large data sets and are adopting new techniques, such as AI, deep learning, and machine learning. They now will have access to HPC technologies, including exascale supercomputing systems, that were historically prohibitive due to their cost and complexity. HPE GreenLake cloud services is a flexible as-a-service platform that customers can run on-premises or in a colocation facility.

@@ -1,0 +1,20 @@
+FIRM         : IEX (CIK 0000832101) | FY2020
+FILE         : 0000832101_IEX_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-01-08
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, with depreciation and amortization provided using the straight-line method over the following estimated useful lives:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : VAL (CIK 0000314808) | FY2013
+FILE         : 0000314808_VAL_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. DESCRIPTION OF THE BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Other equipment, including computer and communications hardware and software costs, is depreciated over estimated useful lives ranging from
+
+[VERBATIM — Changement de politique]
+The pro forma results include, among others, (i) the amortization associated with the acquired intangible assets and liabilities; (ii) interest expense associated with debt used to fund a portion of the Merger; and (iii) the impact of certain fair value adjustments such as additional depreciation expense for adjustments to property and equipment and reductions to interest expense for adjustments to debt.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

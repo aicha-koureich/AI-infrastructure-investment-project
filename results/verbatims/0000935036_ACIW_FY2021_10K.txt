@@ -1,0 +1,20 @@
+FIRM         : ACIW (CIK 0000935036) | FY2021
+FILE         : 0000935036_ACIW_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Our SaaS-based and PaaS-based arrangements represent a single promise to provide continuous access to its software solutions and their processing capabilities in the form of a service through one of our data centers. These arrangements may include fixed and/or variable consideration. Fixed consideration is recognized over the term of the arrangement and variable consideration, which is a function of transaction volume or another usage-based measure, generally meets the allocation objective and revenue is recognized as the usage occurs.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Adoption of cloud technology . To leverage lower-cost computing technologies, increase time to market, accelerate innovation, and ensure scalability and resiliency, banks and intermediaries, merchants, and billers are seeking to transition their systems to make use of cloud technology. Our investments and partnerships, as demonstrated by our product enablement and initial optimization onto Microsoft Azure, enable us to leverage the hybrid cloud technology benefits of automation and rapid deployment and delivery, while preserving the ACI fundamentals of resiliency and scalability, to deliver cloud capabilities now and in the future. Market sizing data from Ovum (now Omdia) indicates that spend on SaaS and PaaS payment systems is growing faster than spend on installed applications. ||| To leverage lower-cost computing technologies, increase time to market, accelerate innovation, and ensure scalability and resiliency, banks and intermediaries, merchants, and billers are seeking to transition their systems to make use of cloud technology. Our investments and partnerships, as demonstrated by our product enablement and initial optimization onto Microsoft Azure, enable us to leverage the hybrid cloud technology benefits of automation and rapid deployment and delivery, while preserving the ACI fundamentals of resiliency and scalability, to deliver cloud capabilities now and in the future. Market sizing data from Ovum (now Omdia) indicates that spend on SaaS and PaaS payment systems is growing faster than spend on installed applications.

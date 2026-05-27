@@ -1,0 +1,20 @@
+FIRM         : JBTM (CIK 0001433660) | FY2020
+FILE         : 0001433660_JBTM_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Capitalized software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+use software, the useful lives range from three to ten years. Capitalized software amortization expense was $3.4 million, $3.8 million, and $3.6 million for 2020, 2019 and 2018, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Segment operating profit is defined as total segment revenue less segment operating expenses. The following items have been excluded in computing segment operating profit: corporate expense, restructuring costs, interest income and expense, and income taxes. See the table below for further details on corporate expense.

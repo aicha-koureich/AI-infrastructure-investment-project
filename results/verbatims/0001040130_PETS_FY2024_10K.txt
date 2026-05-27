@@ -1,0 +1,20 @@
+FIRM         : PETS (CIK 0001040130) | FY2024
+FILE         : 0001040130_PETS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-04-29
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment, furniture, computer software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost and depreciated using the straight-line method over the estimated useful lives of the assets. The furniture, fixtures, equipment, and computer software are being depreciated over periods ranging from three to ten years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

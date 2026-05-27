@@ -1,0 +1,23 @@
+FIRM         : FIS (CIK 0001136893) | FY2021
+FILE         : 0001136893_FIS_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Software as of December 31, 2021 and 2020, consists of the following (in millions): 2021 2020 Software from acquisitions $ 2,181 $ 2,077 Capitalized software development costs 3,286 2,826 Purchased software 728 632 6,195 5,535 Accumulated amortization (2,896) (2,165) Total Software, net $ 3,299 $ 3,370
+
+[VERBATIM — Changement de politique]
+During the year ended December 31, 2021, the Company recorded $144 million of software asset impairments and $145 million of incremental software amortization expense driven by the Company's platform modernization.
+
+[VERBATIM — Infrastructure IA]
+The Company recorded acquisition and integration costs primarily related to the Worldpay acquisition as well as certain other costs, including cost associated with the Company's platform modernization totaling $139 million for the year ended December 31, 2021. The Company also recorded $202 million of asset impairments for certain software and deferred contract cost assets and $183 million of incremental amortization expense associated with shortened estimated useful lives and accelerated amortization methods for certain acquired software and deferred contract cost assets driven by the Company's platform modernization for the year ended December 31, 2021. The Company also recorded costs related to data center consolidation activities totaling $43 million, $88 million and $70 million, for the years ended December 31, 2021, 2020 and 2019, respectively. In addition, the Company recorded incremental costs directly related to COVID-19 of $44 million and $71 million for the years ended December 31, 2021 and 2020. For the year ended December 31, 2021, the Company also recorded $104 million in accelerated stock compensation expense to reflect the impact of establishing a Qualified Retirement Equity Program that modified unvested equity awards outstanding at January 1, 2021 (see Note 17).  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

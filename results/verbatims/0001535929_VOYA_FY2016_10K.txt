@@ -1,0 +1,20 @@
+FIRM         : VOYA (CIK 0001535929) | FY2016
+FILE         : 0001535929_VOYA_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Business, Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31, 2016 and 2015 , total cost basis of property and equipment was $373.2 and $366.6 , respectively. As of December 31, 2016 and 2015 , total accumulated depreciation was $260.9 and $241.5 , respectively. For the years ended December 31, 2016 , 2015 and 2014 , depreciation expense was $25.3 , $24.1 and $26.6 , respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : FNB (CIK 0000037808) | FY2017
+FILE         : 0000037808_FNB_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment are stated at cost less accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+If a contract includes the purchase or license to use software that should be accounted for separately as internal-use software, the contract is amortized over the software’s identified useful life in amortization of intangibles.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| Beginning in 2016, for new or materially modified contracts, we prospectively adopted new accounting principles to evaluate fees paid for cloud computing arrangements to determine if those arrangements include the purchase of or license to use software that should be accounted for separately as internal-use software. If a contract includes the purchase or license to use software that should be accounted for separately as internal-use software, the contract is amortized over the software’s identified useful life in amortization of intangibles. For contracts that do not include a software license, the contract is accounted for as a service contract with fees paid recorded in other non-interest expense.

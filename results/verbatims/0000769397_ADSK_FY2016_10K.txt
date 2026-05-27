@@ -1,0 +1,23 @@
+FIRM         : ADSK (CIK 0000769397) | FY2016
+FILE         : 0000769397_ADSK_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Computer equipment, furniture
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Computer equipment, software, and furniture are depreciated using the straight-line method over the estimated useful lives of the assets, which range from
+
+[VERBATIM — Changement de politique]
+Adjustments include the impact of change in estimates, computer equipment, software, furniture, straight-line rent and leasehold improvement write-offs, and foreign currency translation.
+
+[VERBATIM — Infrastructure IA]
+Cost of subscription revenue includes the labor costs of providing product support to our maintenance and new model subscription customers, including allocated IT and facilities costs, shipping and handling costs, professional services fees related to operating our network and cloud infrastructure, depreciation expense and operating lease payments associated with computer equipment, data center costs, salaries, related expenses of network operations, amortization of developed technologies, and stock-based compensation expense.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Effective in the first quarter of fiscal 2017, Autodesk adopted FABS's Accounting Standards Update No. 2015-16 ("ASU 2015-05") regarding Subtopic 350-40, “Intangibles - Goodwill and Other - Internal-Use Software: Customer's Accounting for Fees Paid in a Cloud Computing Arrangement.” The amendments in this ASU provide guidance about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, the customer should account for the software license element of the arrangement consistent with other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The amendments for ASU-2015-05 were prospectively applied and did not have a material impact on Autodesk's consolidated financial statements. ||| In terms of Autodesk's evaluation efforts, the Company has assigned internal resources in addition to the engagement of third party service providers to assist in the evaluation. The Company's preliminary assessment is that there should be no material change in the timing and amount of the recognition of revenue for the majority of the Company's product subscription offerings and enterprise arrangements. This preliminary assessment is based on the Company's analysis that the related software and cloud services in a majority of the product subscription and enterprise offerings are not distinct in the context of the contract as they are considered highly interrelated and represent a single combined performance obligation that should be recognized over time. Due to the complexity of certain of our contracts, the actual revenue recognition treatment required under the new standard for these arrangements may be dependent on contract-specific terms and vary in some instances. ||| A limited number of Autodesk's product subscriptions do not incorporate substantial cloud services, and under ASU 2014-09 will be recognized as distinct license and service performance obligations. Revenue allocated to the licenses in these offerings will be recognized at a point in time instead of over the contract term. Autodesk does not currently believe the impact of the change to timing of revenue recognition for these limited offerings will be material. The company is currently evaluating its other revenue streams, but does not believe ASU 2014-09 will have a material impact.

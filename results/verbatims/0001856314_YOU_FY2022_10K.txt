@@ -1,0 +1,21 @@
+FIRM         : YOU (CIK 0001856314) | FY2022
+FILE         : 0001856314_YOU_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-15.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+During the application development phase, costs are capitalized and amortized on a straight-line basis over such software’s estimated useful life, which is generally 3-5 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

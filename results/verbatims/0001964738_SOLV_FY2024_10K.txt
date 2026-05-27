@@ -1,0 +1,21 @@
+FIRM         : SOLV (CIK 0001964738) | FY2024
+FILE         : 0001964738_SOLV_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. Significant Accounting Policies
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-15.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Amounts capitalized are amortized over a period of three to seven years, generally on a straight-line basis, unless another systematic and rational basis is more representative of the software’s use.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+For cloud computing arrangements that are considered service contracts, our capitalization of implementation costs is aligned with the internal use software requirements. However, on the Company's consolidated balance sheets, these implementation costs are recognized in other assets. On our consolidated statement of cash flows, these implementation costs are recognized as cash flows from operating activities. The implementation costs are recognized on a straight-line basis over the expected term of the related service contract.

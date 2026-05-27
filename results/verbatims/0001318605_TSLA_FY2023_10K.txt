@@ -1,0 +1,20 @@
+FIRM         : TSLA (CIK 0001318605) | FY2023
+FILE         : 0001318605_TSLA_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 – Summary of Significant Accounting Policies
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We evaluate the useful lives of these assets on an annual basis, and we test for impairment whenever events or changes in circumstances occur that could impact the recoverability of these assets. For the years ended December 31, 2023, 2022, and 2021, we have recognized no impairments of capitalized software costs.
+
+[VERBATIM — Infrastructure IA]
+We have entered into various operating and finance lease agreements for certain of our offices, manufacturing and warehouse facilities, retail and service locations, data centers, equipment, vehicles, and solar energy systems, worldwide. We determine if an arrangement is a lease, or contains a lease, at inception and record the leases in our financial statements upon lease commencement, which is the date when the underlying asset is made available for use by the lessor.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

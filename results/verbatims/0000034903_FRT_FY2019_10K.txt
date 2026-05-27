@@ -1,0 +1,20 @@
+FIRM         : FRT (CIK 0000034903) | FY2019
+FILE         : 0000034903_FRT_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 —SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Minor improvements, furniture and equipment are capitalized and depreciated over useful lives ranging from
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15, August 2018, Intangibles - Goodwill and Other Internal Use Software: Customers Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| This ASU requires a customer in a cloud computing arrangement (i.e. hosting arrangement) that is a service contract to follow the internal-use software guidance in ASC 350-40 to determine which implementation costs to capitalize as assets. Capitalized implementation costs related to a hosting arrangement that is a service contract will be amortized over the term of the hosting arrangement. Entities will expense costs during the preliminary project and post-implementation stages as they are incurred. The guidance can be applied prospectively to all implementation costs incurred after the date of adoption or retrospectively in accordance with ASC 250-10-45-5 through ASC 250-10-45-10. ||| Standard Description Date of Adoption Effect on the financial statements or significant matters Adopted subsequent to December 31, 2019: Financial Instruments - Credit Losses (Topic 326) and related updates: ASU 2016-13, June 2016, Financial Instruments - Credit Losses (Topic 326) ASU 2018-19, November 2018, Codification improvements to Topic 326, Financial Instruments - Credit Losses This ASU changes the impairment model for most financial assets and certain other instruments, requiring the use of an "expected credit loss" model and adding more disclosure requirements. ASU 2018-19 clarifies that impairment of of receivables arising from operating leases should accounted for in accordance with Topic 842, Leases. January 2020 While our mortgage notes receivable and certain other accounts receivables are impacted by this standard, the adoption of this standard will not have a significant impact to our consolidated financial statements. ASU 2018-15, August 2018, Intangibles - Goodwill and Other Internal Use Software: Customers Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract This ASU requires a customer in a cloud computing arrangement (i.e. hosting arrangement) that is a service contract to follow the internal-use software guidance in ASC 350-40 to determine which implementation costs to capitalize as assets. Capitalized implementation costs related to a hosting arrangement that is a service contract will be amortized over the term of the hosting arrangement. Entities will expense costs during the preliminary project and post-implementation stages as they are incurred. The guidance can be applied prospectively to all implementation costs incurred after the date of adoption or retrospectively in accordance with ASC 250-10-45-5 through ASC 250-10-45-10. January 2020 The adoption of this standard will not have a significant impact to our consolidated financial statements.

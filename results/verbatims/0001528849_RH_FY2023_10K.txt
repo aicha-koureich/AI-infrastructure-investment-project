@@ -1,0 +1,20 @@
+FIRM         : RH (CIK 0001528849) | FY2023
+FILE         : 0001528849_RH_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 3, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 3—SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment is recorded at cost, net of accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Capitalized cloud computing amortization (3) ||| Represents amortization associated with capitalized cloud computing costs. ||| Table of Contents Reconciliation of GAAP Net Income to EBITDA and Adjusted EBITDA ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ YEAR ENDED ​ ​ FEBRUARY 3, ​ JANUARY 28, ​ JANUARY 29, ​ 2024 2023 2022 ​ ​ (in thousands) Net income ​ $ 127,561 ​ $ 528,642 ​ $ 688,546 Depreciation and amortization ​ 118,989 ​ 108,588 ​ 96,022 Interest expense—net ​ 198,296 ​ 113,210 ​ 64,947 Income tax expense (benefit) ​ 28,261 ​ (91,358) ​ 133,558 EBITDA ​ 473,107 ​ 659,082 ​ 983,073 Non-cash compensation (1) ​ 39,382 ​ 43,544 ​ ​ 48,478 Share of equity method investments loss (2) ​ ​ 10,875 ​ ​ 2,055 ​ ​ 8,214 Legal settlements (2) ​ ​ 8,500 ​ ​ (4,188) ​ ​ — Capitalized cloud computing amortization (3) ​ ​ 8,400 ​ ​ 6,566 ​ ​ 3,565 Reorganization related costs (2) ​ ​ 7,621 ​ ​ — ​ ​ 449 Asset impairments (2) ​ 3,531 ​ 24,186 ​ ​ 9,630 Other expense—net (2) ​ ​ 1,078 ​ ​ 30 ​ ​ 2,778 Recall accrual (2) ​ (1,576) ​ 560 ​ ​ 1,940 Loss on extinguishment of debt (2) ​ ​ — ​ ​ 169,578 ​ ​ 29,138 Employer payroll taxes on option exercises (2) ​ ​ — ​ ​ 14,392 ​ ​ — Professional fees (2) ​ ​ — ​ ​ 7,469 ​ ​ — Non-cash compensation related to consolidated VIEs (2) ​ ​ — ​ ​ 4,470 ​ ​ — Compensation settlements (2) ​ ​ — ​ ​ 3,483 ​ ​ — Gain on sale of building and land (2) ​ ​ — ​ ​ (775) ​ ​ — Adjusted EBITDA ​ $ 550,918 ​ $ 930,452 ​ $ 1,087,265 (1) Represents non-cash compensation related to equity awards granted to employees, including the amortization of the non-cash compensation charge related to an option grant made to Mr. Friedman in October 2020. (2) Refer to table titled “Reconciliation of GAAP Net Income to Operating Income and Adjusted Operating Income” and the related footnotes for additional information. (3) Represents amortization associated with capitalized cloud computing costs. ​ ​ ​ PART II FORM 10-K | 49 ​

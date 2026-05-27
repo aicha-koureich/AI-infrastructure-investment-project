@@ -1,0 +1,20 @@
+FIRM         : OSPN (CIK 0001044777) | FY2023
+FILE         : 0001044777_OSPN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-29
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• Digital Agreements. Digital Agreements consists of solutions that enable our clients to secure and automate business processes associated with their digital agreement and customer transaction lifecycles that require consent, non-repudiation and compliance. These solutions, which are largely cloud-based, include OneSpan Sign e-signature, OneSpan Notary and OneSpan Trust Vault. This segment also includes costs attributable to our transaction cloud platform. ||| Digital Agreements consists of solutions that enable our clients to secure and automate business processes associated with their digital agreement and customer transaction lifecycles that require consent, non-repudiation and compliance. These solutions, which are largely cloud-based, include OneSpan Sign e-signature, OneSpan Notary and OneSpan Trust Vault. This segment also includes costs attributable to our transaction cloud platform. ||| The cost of services and other revenue increased $3.4 million or 13% for the year ended December 31, 2023, compared to the year ended December 31, 2022. This increase was largely due to a one-time credit from a cloud service provider in the prior year period, along with higher cloud platform costs related to higher volume usage, higher depreciation of our capitalized software costs, and increased amortization associated with the ProvenDB acquisition.

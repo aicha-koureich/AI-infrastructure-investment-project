@@ -1,0 +1,20 @@
+FIRM         : PLD (CIK 0001045609) | FY2024
+FILE         : 0001045609_PLD_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+At December 31, 2024, the consolidated development portfolio, including properties under development and pre-stabilized properties, was expected to be completed before July 2027 with a TEI of $4.7 billion and was 31.9% leased. This includes the development of data centers with an aggregate TEI of $0.9 billion, on a consolidated basis. Our investment in the development portfolio was $2.8 billion at December 31, 2024. For additional information on our development portfolio at December 31, 2024, see Item 2. Properties.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

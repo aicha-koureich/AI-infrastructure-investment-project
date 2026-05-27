@@ -1,0 +1,20 @@
+FIRM         : DVN (CIK 0001090012) | FY2023
+FILE         : 0001090012_DVN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 20 – Supplemental Information on Oil and Gas Operations (Unaudited)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized costs of wells and related equipment and facilities, including estimated asset retirement costs, net of estimated salvage values and less accumulated amortization are depreciated over proved developed reserves associated with those capitalized costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

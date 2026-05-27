@@ -1,0 +1,20 @@
+FIRM         : AWR (CIK 0001056903) | FY2023
+FILE         : 0001056903_AWR_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense for regulated utilities, excluding amortization expense and depreciation on transportation equipment, totale d $38.3 million, $37.3 million and $35.5 million for the years ended December 31, 2023, 2022 and 2021, respectively. Depreciation computed on regulated utilities’ transportation equipment is recorded in other operating expenses and totaled $851,000 , $382,000 and $379,000 for the years 2023, 2022 and 2021, respectively. For the year ended December 31, 2023, approximately $212,000 of additional depreciation expense on GSWC's transportation equipment was recorded that relates to the cumulative retroactive impact for the full year of 2022 approved in the CPUC final decision in GSWC's general rate case that resulted from an increase to the transportation equipment composite depreciation rates that are retroactive to January 1, 2022.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : CBT (CIK 0000016040) | FY2016
+FILE         : 0000016040_CBT_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+The Company has recorded other pre-tax restructuring charges of approximately $1 million, $13 million and $8 million during fiscal 2016, 2015 and 2014, respectively, related to restructuring activities at several other locations. Fiscal 2016 activity is comprised mainly of non-cash accelerated depreciation and severance adjustments incurred primarily at the Company’s Specialty Fluids facility in Canada and corporate headquarters in Boston, Massachusetts. Fiscal 2015 charges are comprised of $7 million of cash severance charges, $4 million of non-cash asset write-offs and accelerated depreciation, and $2 million of other cash costs. Fiscal 2015 costs were incurred at the Company’s corporate headquarters in Boston, Massachusetts and Specialty Fluids facility in Bergen, Norway, as well as other locations. Fiscal 2014 charges are comprised of non-cash accelerated depreciation and asset write-offs of $5 million and severance charges of $3 million and were comprised of charges at the Company’s carbon black facilities in Port Dickson, Malaysia and Maua, Brazil, as well as other locations. No future charges related to these actions are expected.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : RH (CIK 0001528849) | FY2015
+FILE         : 0001528849_RH_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 30, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 3—SIGNIFICANT ACCOUNTI Basis of Presentation
+ASSET CAT.   : equipment
+DURÉE        : 7.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized costs are amortized on a straight-line basis over the estimated useful lives of the software, generally between three and seven years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Software Licenses in Cloud Computing Arrangements ||| In April 2015, the FASB issued Accounting Standards Update No. 2015-05—Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement . The amendments in ASU 2015-05 provide guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, the customer should account for the software license element of the arrangement consistent with other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The amendments in ASU 2015-05 are effective for fiscal years beginning after ||| Accounting Standards Update No. 2015-05—Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement

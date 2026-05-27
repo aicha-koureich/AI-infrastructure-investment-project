@@ -1,0 +1,20 @@
+FIRM         : SNX (CIK 0001177394) | FY2022
+FILE         : 0001177394_SNX_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 8—BALANCE SHEET COMPONENTS:
+ASSET CAT.   : Equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of November 30, 2022 2021 Land $ 27,311 $ 28,409 Equipment, computers and software 414,359 406,972 Furniture and fixtures 59,349 53,766 Buildings, building improvements and leasehold improvements 219,859 218,284 Construction-in-progress 6,859 1,045 Total property and equipment, gross $ 727,737 708,476 Total accumulated depreciation (306,673) (225,033) Property and equipment, net $ 421,064 $ 483,443
+
+[VERBATIM — Infrastructure IA]
+Our revenue is highly dependent on the end-market demand for IT products, and on our partners' strategic initiatives and business models. This end-market demand is influenced by many factors including the introduction of new IT products and software by OEMs, replacement cycles for existing IT products, trends toward cloud computing, seasonality, overall economic growth and general business activity. A difficult and challenging economic environment due to the continued impacts of increased inflation, rising interest rates and Russia's invasion of Ukraine, may also lead to consolidation or decline in the IT distribution industry and increased price-based competition. Our systems design and integration solutions business is highly dependent on the demand for cloud infrastructure, and the number of key customers and suppliers in the market. Our business includes operations in the Americas, Europe and APJ, so we are affected by demand for our products in those regions, and the weakening of local currencies relative to the U.S. Dollar which occurred during fiscal year 2022 may continue to adversely affect the operating results of our Europe and APJ segments.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Our revenue is highly dependent on the end-market demand for IT products, and on our partners' strategic initiatives and business models. This end-market demand is influenced by many factors including the introduction of new IT products and software by OEMs, replacement cycles for existing IT products, trends toward cloud computing, seasonality, overall economic growth and general business activity. A difficult and challenging economic environment due to the continued impacts of increased inflation, rising interest rates and Russia's invasion of Ukraine, may also lead to consolidation or decline in the IT distribution industry and increased price-based competition. Our systems design and integration solutions business is highly dependent on the demand for cloud infrastructure, and the number of key customers and suppliers in the market. Our business includes operations in the Americas, Europe and APJ, so we are affected by demand for our products in those regions, and the weakening of local currencies relative to the U.S. Dollar which occurred during fiscal year 2022 may continue to adversely affect the operating results of our Europe and APJ segments. ||| We recognize revenue on a net basis on certain contracts, where our performance obligation is to arrange for the products or services to be provided by another party or the rendering of logistics services for the delivery of inventory for which we do not assume the risks and rewards of ownership, by recognizing the margins earned in revenue with no associated cost of revenue. Such arrangements include supplier service contracts, post-contract software support services, cloud computing and software as a service arrangements, certain fulfillment contracts and extended warranty contracts.

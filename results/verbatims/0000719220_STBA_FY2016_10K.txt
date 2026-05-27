@@ -1,0 +1,21 @@
+FIRM         : STBA (CIK 0000719220) | FY2016
+FILE         : 0000719220_STBA_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 26. SELECTED FINANCIAL DATA
+ASSET CAT.   : Computer Equipment and Software
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+The estimated useful lives for the various asset categories are as follows: 1) Land and Land Improvements Non-depreciating assets 2) Buildings 25 years 3) Furniture and Fixtures 5 years 4) Computer Equipment and Software 5 years or term of license 5) Other Equipment 5 years 6) Vehicles 5 years 7) Leasehold Improvements Lesser of estimated useful life of the asset (generally 15 years unless established otherwise) or the remaining term of the lease, including renewal options in the lease that are reasonably assured of exercise
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles - Goodwill and Other - Internal-Use Software: Customer's Accounting for Fees Paid in a Cloud Computing Arrangement ||| In April 2015, the FASB issued ASU No. 2015-05, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement. The main provisions of ASU No. 2015-05 provide a basis for evaluating whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, then the arrangement should be accounted for as a service contract. The standard is effective for annual periods and interim periods beginning after December 15, 2015. The adoption of this ASU had no impact on our results of operations or financial position.

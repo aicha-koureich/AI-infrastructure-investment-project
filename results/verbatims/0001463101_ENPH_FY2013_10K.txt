@@ -1,0 +1,20 @@
+FIRM         : ENPH (CIK 0001463101) | FY2013
+FILE         : 0001463101_ENPH_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 4. PROPERTY AND EQUIPMENT, NET
+ASSET CAT.   : Equipment, machinery, Furniture and fixtures, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful Life (Years) December 31, 2013 2012 Equipment and machinery 5 $ 21,853 $ 18,723 Furniture and fixtures 5–7 2,837 2,788 Computer equipment 3 1,842 1,688 Capitalized software 3–5 7,343 5,760 Leasehold improvements 3–10 5,881 5,642 Construction in progress 1,703 1,419 Total 41,459 36,020 Less accumulated depreciation and amortization (16,606 ) (10,479 ) Property and equipment, net $ 24,853 $ 25,541
+
+[VERBATIM — Infrastructure IA]
+Enphase Energy, Inc. and subsidiaries (the “Company”) designs, develops, and sells microinverter systems for the solar photovoltaic industry. The Company was incorporated in 2006 and began selling its products in 2008. The Company’s microinverter system consists of (i) an Enphase microinverter and related accessories that convert direct current (“DC”) power to grid-compliant alternating current (“AC”) power; (ii) an Envoy communications gateway device that collects and transmits performance information from each solar module to the Company’s hosted data center; and (iii) the Enlighten web-based software platform that collects and processes this information to enable customers to monitor and manage their solar power systems. The Company sells microinverter systems primarily to distributors who resell them to solar installers. The Company also sells directly to large installers as well as through original equipment manufacturers (“OEMs”) and strategic partners.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

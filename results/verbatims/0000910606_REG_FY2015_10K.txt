@@ -1,0 +1,23 @@
+FIRM         : REG (CIK 0000910606) | FY2015
+FILE         : 0000910606_REG_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+On January 1, 2014, the Company prospectively adopted Financial Accounting Standards Board ("FASB") Accounting Standards Update ("ASU") No. 2014-08, Presentation of Financial Statements (Topic 205) and Property, Plant and Equipment (Topic 360): Reporting Discontinued Operations and Disclosures of Disposals of Components of an Entity, and all sales will be recorded in accordance with the ASU. The amendments in the ASU change the requirements for reporting discontinued operations. Under the guidance, only disposals representing a strategic shift in operations should be presented as discontinued operations.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

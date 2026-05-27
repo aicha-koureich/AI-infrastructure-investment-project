@@ -1,0 +1,21 @@
+FIRM         : RXO (CIK 0001929561) | FY2023
+FILE         : 0001929561_RXO_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Significant Accounting Policies Basis of Presentation
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans | 3.0-14.0 ans
+
+[VERBATIM — Durée de vie]
+Prior to the Separation, the historical results of operations included allocations of XPO costs and expenses including XPO’s corporate function which incurred a variety of expenses including, but not limited to, information technology, human resources, accounting, sales and sales operations, procurement, executive services, legal, corporate finance and communications. An allocation of these expenses is included to burden all business units comprising XPO’s historical results of operations, including RXO. The charges reflected have either been specifically identified or allocated using drivers including proportionally adjusted earnings before interest, taxes, depreciation and amortization, which includes adjustments for transaction and integration costs, as well as restructuring costs and other adjustments, or headcount. The Company believes the assumptions regarding allocations of XPO corporate expenses are reasonable. Nevertheless, the consolidated financial statements may not reflect the results of operations, cash flows and financial position had the Company been a standalone entity during the periods presented. The majority of these allocated costs are recorded within Sales, general and administrative expense; Depreciation and amortization expense; Transaction and integration costs; and Restructuring costs in the Consolidated Statements of Operations. All charges and allocations for facilities, functions and services performed by XPO organizations have been deemed settled in cash by RXO to XPO in the year in which the cost was recorded in the Consolidated Statements of Operations.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

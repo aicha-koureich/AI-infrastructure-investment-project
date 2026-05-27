@@ -1,0 +1,20 @@
+FIRM         : MTG (CIK 0000876437) | FY2014
+FILE         : 0000876437_MTG_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Home office and equipment is carried at cost net of depreciation. For financial statement reporting purposes, depreciation is determined on a straight-line basis for the home office, equipment and data processing hardware over estimated lives of 45, 5 and 3 years, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,27 @@
+FIRM         : SPSC (CIK 0001092699) | FY2014
+FILE         : 0001092699_SPSC_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Significant additions or improvements extending asset lives beyond one year are capitalized,
+while repairs and maintenance are charged to expense as incurred. The assets and related accumulated depreciation and amortization are adjusted for asset retirements and disposals with the resulting gain or loss included in our consolidated
+statements of comprehensive income.
+
+[VERBATIM — Infrastructure IA]
+Cost of Revenues. Cost of revenues consist primarily of personnel costs for our implementation teams,
+customer support personnel and application support personnel. Cost of revenues also includes our cost of network services, which is primarily data center costs for the locations where we keep the equipment that serves our customers, and connectivity
+costs that facilitate electronic data transmission between our customers and their trading partners.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

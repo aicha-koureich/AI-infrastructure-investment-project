@@ -1,0 +1,23 @@
+FIRM         : MCW (CIK 0001853513) | FY2021
+FILE         : 0001853513_MCW_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Other store operating expenses includes all other costs related to the operations of car wash and warehouse locations such as credit card fees, car damages, office and lobby supplies, information technology costs associated with the locations, telecommunications, advertising, non-healthcare related insurance, rent, repairs and maintenance related to held-for-use assets, utilities, property taxes, and depreciation on held-for-use assets at the car wash and warehouse locations.
+
+[VERBATIM — Changement de politique]
+The pro forma results presented above primarily include amortization charges for acquired intangible assets, depreciation adjustments for property and equipment that has been revalued, adjustments for certain acquisition-related charges, and the related tax effects.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

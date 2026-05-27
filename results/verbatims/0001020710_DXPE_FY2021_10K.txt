@@ -1,0 +1,20 @@
+FIRM         : DXPE (CIK 0001020710) | FY2021
+FILE         : 0001020710_DXPE_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-03-02
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING AND BUSINESS POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of property and equipment is computed using the straight-line method over their estimated useful lives.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

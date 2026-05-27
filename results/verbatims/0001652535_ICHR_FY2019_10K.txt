@@ -1,0 +1,21 @@
+FIRM         : ICHR (CIK 0001652535) | FY2019
+FILE         : 0001652535_ICHR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 27, 2019
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 14 – Discontinued Operations
+ASSET CAT.   : equipment Machinery
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Estimated useful lives of property & equipment Machinery 5-10 years Leasehold improvements 10 years Computer software, hardware, and equipment 3-5 years Office furniture, fixtures, and equipment 5-7 years Vehicles 5 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

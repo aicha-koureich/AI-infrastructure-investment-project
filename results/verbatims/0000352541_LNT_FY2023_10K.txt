@@ -1,0 +1,24 @@
+FIRM         : LNT (CIK 0000352541) | FY2023
+FILE         : 0000352541_LNT_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 10
+ASSET CAT.   : equipment, computer software
+DURÉE        : 5.0-30.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0 ans | 12.0 ans
+
+[VERBATIM — Durée de vie]
+The majority of the remaining software is amortized over a 5-year period. All Corporate Services and Other property, plant and equipment are depreciated using the straight-line method over periods ranging from 5 to 30 years.
+
+[VERBATIM — Changement de politique]
+In December 2022, the PSCW issued an order authorizing an additional annual base rate increase of $9 million for WPL’s retail gas customers, covering the 2023 forward-looking Test Period, which reflects changes in weighted average cost of capital, updated depreciation rates and modifications to certain regulatory asset and regulatory liability amortizations. These retail gas rate changes were effective on January 1, 2023 and extended through the end of 2023.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

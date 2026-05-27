@@ -1,0 +1,20 @@
+FIRM         : KEY (CIK 0000091576) | FY2016
+FILE         : 0000091576_KEY_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment, including leasehold improvements, are stated at cost less accumulated depreciation and amortization. We determine depreciation of premises and equipment using the straight-line method over the estimated useful lives of the particular assets. Accumulated depreciation and amortization on premises and equipment totaled
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud computing fees. ||| In April 2015, the FASB issued new accounting guidance that clarifies a customer’s accounting for fees paid in a cloud computing arrangement. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. This accounting guidance was effective for interim and annual reporting periods beginning after December 15, 2015 (effective January 1, 2016, for us) and could be implemented using either a prospective method or a retrospective method. Early adoption was permitted. We elected to implement this new accounting guidance using a prospective approach. The adoption of this accounting guidance did not affect our financial condition or results of operations. ||| Cloud computing fees. In April 2015, the FASB issued new accounting guidance that clarifies a customer’s accounting for fees paid in a cloud computing arrangement. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. This accounting guidance was effective for interim and annual reporting periods beginning after December 15, 2015 (effective January 1, 2016, for us) and could be implemented using either a prospective method or a retrospective method. Early adoption was permitted. We elected to implement this new accounting guidance using a prospective approach. The adoption of this accounting guidance did not affect our financial condition or results of operations.

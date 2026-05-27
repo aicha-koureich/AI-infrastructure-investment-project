@@ -1,0 +1,21 @@
+FIRM         : ADTN (CIK 0000926282) | FY2020
+FILE         : 0000926282_ADTN_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-03
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 22 – Subsequent Events
+ASSET CAT.   : Furniture and fixtures, Computer hardware, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+(In thousands) 2020 2019 Land $ 4,575 $ 4,575 Building and land improvements 35,142 34,797 Building 68,169 68,157 Furniture and fixtures 19,965 19,959 Computer hardware and software 70,942 68,777 Engineering and other equipment 132,920 130,430 Total Property, Plant and Equipment 331,713 326,695 Less: accumulated depreciation (269,314 ) (258,609 ) Total Property, Plant and Equipment, net $ 62,399 $ 68,086
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Services & Support Segment – A complete portfolio of maintenance, network implementation and solutions integration and managed services, which include hosted cloud services and subscription services to complement our Network Solutions segment. ||| – A complete portfolio of maintenance, network implementation and solutions integration and managed services, which include hosted cloud services and subscription services to complement our Network Solutions segment.

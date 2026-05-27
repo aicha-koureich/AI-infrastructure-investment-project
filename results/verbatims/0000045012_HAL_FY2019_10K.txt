@@ -1,0 +1,23 @@
+FIRM         : HAL (CIK 0000045012) | FY2019
+FILE         : 0000045012_HAL_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 17. New Accounting Pronouncements
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment (net of accumulated depreciation of $12,630 and $13,153)
+
+[VERBATIM — Changement de politique]
+Other than those assets that have been written down to their fair values due to impairment, property, plant and equipment are reported at cost less accumulated depreciation, which is generally provided on the straight-line method over the estimated useful lives of the assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

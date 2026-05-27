@@ -1,0 +1,39 @@
+FIRM         : AIG (CIK 0000005272) | FY2015
+FILE         : 0000005272_AIG_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: note 2. SUMMARY OF SIGNIFICANT
+ACCOUNTING POLICIES
+ASSET CAT.   : buildings
+DURÉE        : 10.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+The cost of buildings and furniture and equipment is
+depreciated principally on the straight-line basis over their estimated useful
+lives (maximum of 40 years for buildings and 10 years for furniture and
+equipment). Capitalized software costs, which represent
+costs directly related to obtaining, developing or upgrading internal use
+software, are capitalized and amortized using the straight-line method over a
+period generally not exceeding five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer’s
+Accounting for Fees Paid in a Cloud Computing Arrangement ||| In April 2015, the FASB
+issued an accounting standard that provides guidance to customers about whether
+a cloud computing arrangement includes a software license. If a cloud computing
+arrangement includes a software license the customer should account for the
+software license element of the arrangement consistent with the acquisition of
+other software licenses. If a cloud computing arrangement does not include a
+software license, the customer should account for the arrangement as a service
+contract. The guidance does not change generally accepted accounting principles
+applicable to a customer's accounting for service contracts. Consequently, all
+software licenses will be accounted for consistent with other licenses of
+intangible assets.

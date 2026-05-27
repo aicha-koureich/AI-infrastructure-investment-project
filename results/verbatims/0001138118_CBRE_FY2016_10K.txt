@@ -1,0 +1,22 @@
+FIRM         : CBRE (CIK 0001138118) | FY2016
+FILE         : 0001138118_CBRE_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 10.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property and equipment, which includes leasehold improvements, is stated at cost, net of accumulated depreciation. Depreciation and
+amortization of property and equipment is computed primarily using the straight-line method over estimated useful lives ranging up to 10 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

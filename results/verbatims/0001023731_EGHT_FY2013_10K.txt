@@ -1,0 +1,23 @@
+FIRM         : EGHT (CIK 0001023731) | FY2013
+FILE         : 0001023731_EGHT_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. THE COMPANY AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : furniture and fixtures
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation and amortization. Estimated useful lives of three years are used for equipment and software and five years for furniture and fixtures.
+
+[VERBATIM — Infrastructure IA]
+Fourth, we continued to build on our Global Reach initiative by acquiring Voicenet in the United Kingdom in November 2013. In addition, we installed our services infrastructure in a new
+Hong Kong data center in January 2014. We are in the process of migrating services for non-US customers to our new overseas infrastructure. Beyond serving the needs of existing
+customers, it is our intent to penetrate these markets through a variety of additional methods including strategic alliances, partners and acquisitions.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

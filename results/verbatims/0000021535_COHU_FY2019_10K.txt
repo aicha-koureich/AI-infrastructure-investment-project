@@ -1,0 +1,20 @@
+FIRM         : COHU (CIK 0000021535) | FY2019
+FILE         : 0000021535_COHU_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 28, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Operating Activities: Cash provided by operating activities consists of our net loss adjusted for non-cash expenses and changes in operating assets and liabilities. These adjustments include depreciation expense on property, plant and equipment, share-based compensation expense, amortization of intangible assets, deferred income taxes and amortization of inventory step-up and inventory related charges related to Xcerra. Our net cash flows provided by operating activities in 2019 totaled $17.3 million compared to $34.4 million in 2018. The decrease in cash provided by operating activities in the current year was a result of weaker business conditions and our net loss, but was also impacted by changes in current assets and liabilities which included decreases in accounts receivable, income taxes payable and accounts payable. Lower business volume in the fourth quarter of 2019 and the timing of the resulting cash conversion cycle drove the $21.2 million reduction in accounts receivable. Income taxes payable decreased $10.7 million a result of tax payments made in certain foreign jurisdictions. Excluding the impact of amounts accrued for fixed assets and cloud computing, our accounts payable decreased $3.1 million as a result of decreased business conditions and the timing of cash payments made to our suppliers. Cash provided by operating activities was also impacted by increases in other current assets of $6.0 million and accrued compensation, warranty and other liabilities of $2.1 million which was driven, primarily by increases in interest payable and customer advances, offset by lower accruals for incentive compensation and warranty due to decreased sales in 2019.

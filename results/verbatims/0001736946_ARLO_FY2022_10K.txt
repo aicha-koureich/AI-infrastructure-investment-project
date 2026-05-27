@@ -1,0 +1,21 @@
+FIRM         : ARLO (CIK 0001736946) | FY2022
+FILE         : 0001736946_ARLO_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2022
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Computer equipment
+DURÉE        : 2.0-5.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Asset Category: Range of Useful Lives Computer equipment 2 years Furniture and fixtures 5 years Software 2-5 years Machinery and equipment 2-3 years Leasehold improvements Shorter of remaining lease term or 7 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

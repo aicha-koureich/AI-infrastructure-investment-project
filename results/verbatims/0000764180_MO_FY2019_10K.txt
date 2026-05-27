@@ -1,0 +1,23 @@
+FIRM         : MO (CIK 0000764180) | FY2019
+FILE         : 0000764180_MO_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 . Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, Machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at historical costs and depreciated by the straight-line method over the estimated useful lives of the assets. Machinery and equipment are depreciated over periods up to
+
+[VERBATIM — Changement de politique]
+At December 31, 2019 , indefinite-lived intangible assets consist substantially of trademarks from Altria’s 2009 acquisition of UST ( $9.0 billion ) and 2007 acquisition of Middleton ( $2.6 billion ). Definite-lived intangible assets, which consist primarily of intellectual property, customer relationships and certain cigarette trademarks, are amortized over a weighted-average period of 20 years . Pre-tax amortization expense for definite-lived intangible assets during the years ended December 31, 2019 , 2018 and 2017 , was $44 million , $38 million and $21 million , respectively. In the fourth quarter of 2019, due to a change in estimated useful life, $170 million for an indefinite-lived intangible asset in the smokeable products segment was reclassified to a definite-lived intangible asset, due to an anticipated change in the way the asset will be utilized in the future. Annual amortization expense for each of the next five years is estimated to be approximately $70 million , assuming no additional transactions occur that require the amortization of intangible assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU No. 2018-15 Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (Subtopic 350-40) ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (Subtopic 350-40)

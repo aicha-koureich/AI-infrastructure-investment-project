@@ -1,0 +1,21 @@
+FIRM         : EGHT (CIK 0001023731) | FY2024
+FILE         : 0001023731_EGHT_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-04-11
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. The Company and Significant Accounting Policies
+ASSET CAT.   : equipment Useful Lives Computer equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property and equipment Useful Lives Computer equipment 3 years Furniture and fixtures 5 years Capitalized internal-use software 3 - 7 years Leasehold improvements Lesser of estimated useful life or remaining lease term
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

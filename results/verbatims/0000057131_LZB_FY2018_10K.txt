@@ -1,0 +1,21 @@
+FIRM         : LZB (CIK 0000057131) | FY2018
+FILE         : 0000057131_LZB_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : April 27, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 20: Fair Value Measurements (Continued)
+ASSET CAT.   : equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+(Amounts in thousands) Estimated Useful Lives 4/27/2019 4/28/2018 Buildings and building fixtures 3 - 40 years $ 223,505 $ 200,370 Machinery and equipment 3 - 15 years 148,760 147,542 Information systems and software 3 - 10 years 86,400 84,881 Land — 14,323 14,626 Land improvements 3 - 30 years 17,454 15,362 Transportation equipment 3 - 10 years 13,598 13,929 Furniture and fixtures 3 - 15 years 22,826 20,812 Construction in progress 20,722 23,250 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 547,588 520,772 Accumulated depreciation (347,065 ) (339,890 ) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Net property, plant and equipment $ 200,523 $ 180,882 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles—Goodwill and other—Internal-use software: Customer's accounting for implementation costs incurred in a cloud computing arrangement that is a service contract ||| ASU Description ASU 2016-16 Income Taxes: Intra-entity transfers of assets other than inventory ASU 2017-01 Clarifying the definition of a business ASU 2017-04 Simplifying the test for goodwill impairment ASU 2018-15 Intangibles—Goodwill and other—Internal-use software: Customer's accounting for implementation costs incurred in a cloud computing arrangement that is a service contract

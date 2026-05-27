@@ -1,0 +1,20 @@
+FIRM         : VTR (CIK 0000740260) | FY2020
+FILE         : 0000740260_VTR_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-18
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: NOTE 2–ACCOUNTING POLICIES
+ASSET CAT.   : furniture, equipment
+DURÉE        : 35.0-None ans
+POLICY CHANGE: No
+HARDWARE     : B100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+We determine the fair value of other fixed assets, such as site improvements and furniture, fixtures and equipment, based upon the replacement cost and depreciate such value over the assets’ estimated remaining useful lives as determined at the applicable acquisition date.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

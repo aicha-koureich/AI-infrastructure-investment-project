@@ -1,0 +1,24 @@
+FIRM         : SYY (CIK 0000096021) | FY2019
+FILE         : 0000096021_SYY_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-06-29
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 9. PLANT AND EQUIPMENT
+ASSET CAT.   : equipment, Computer hardware
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Jun. 29, 2019 Jun. 30, 2018 Estimated Useful Lives (In thousands) Plant and equipment at cost: Land $ 498,180 $ 495,909 Buildings and improvements 4,545,099 4,268,687 10-30 years Fleet and equipment 3,697,008 3,808,133 3-10 years Computer hardware and software 1,213,942 1,628,121 3-7 years Total plant and equipment at cost 9,954,229 10,200,850 Accumulated depreciation (5,452,524 ) (5,679,190 ) Total plant and equipment, net $ 4,501,705 $ 4,521,660
+
+[VERBATIM — Changement de politique]
+In fiscal 2019 , Sysco recognized $39.3 million in accelerated depreciation, including facilities and equipment, due to restructuring in Europe and certain ERP systems and software platforms that the company is no longer using in the U.S.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Implementation Costs Incurred in a Cloud Computing Arrangement ||| In August 2018, the FASB issued ASU 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract , which aligns the accounting for implementation costs incurred in a cloud computing arrangement that is a service contract with the guidance on capitalizing costs associated with developing or obtaining internal-use software. The guidance amends Accounting Standards Codification (ASC) 350 to include in its scope implementation costs of a cloud computing arrangement that is a service contract and clarifies that a customer should apply ASC 350 to determine which implementation costs should be capitalized in such a cloud computing arrangement. This guidance is effective for fiscal years and interim periods within those fiscal years beginning after December 15, 2019, which is the first quarter of fiscal 2021 for Sysco, with early adoption permitted. The company is currently reviewing the provisions of the new standard. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract

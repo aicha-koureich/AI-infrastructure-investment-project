@@ -1,0 +1,21 @@
+FIRM         : EZPW (CIK 0000876523) | FY2014
+FILE         : 0000876523_EZPW_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1: ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-7.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+years for furniture, equipment and software development costs. We depreciate leasehold improvements over the shorter of their estimated useful life (typically
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

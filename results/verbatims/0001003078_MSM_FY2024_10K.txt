@@ -1,0 +1,21 @@
+FIRM         : MSM (CIK 0001003078) | FY2024
+FILE         : 0001003078_MSM_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : AUGUST 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment and capitalized computer software are stated at cost less accumulated depreciation and amortization. At the time property and equipment are retired or otherwise disposed of, the cost and accumulated depreciation are eliminated from the asset and accumulated depreciation accounts and the gain or loss on such disposition is reflected in income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Amortization of cloud computing arrangements ||| Expenditures for cloud computing arrangements ||| Accrued cloud computing arrangement costs

@@ -1,0 +1,23 @@
+FIRM         : SEDG (CIK 0001419612) | FY2021
+FILE         : 0001419612_SEDG_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, furniture, Machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment: Property, plant and equipment are stated at cost, net of accumulated depreciation and government grants. Depreciation is calculated by the straight-line method over the estimated useful life of the assets, at the following rates: % Buildings and plants 2.5-5.7 (mainly 5.4) Computers and peripheral equipment 14.3-33.3 (mainly 33.3) Office furniture and equipment 7-25 (mainly 7) Machinery and equipment 10-20 (mainly 10) Laboratory and testing equipment 7-20 (mainly 10) Leasehold improvements over the shorter of the lease term or useful economic life
+
+[VERBATIM — Changement de politique]
+n. Intangible Assets: The Company evaluates the recoverability of finite-lived intangible assets for possible impairment whenever events or circumstances indicate that the carrying amount of such assets may not be recoverable. The evaluation is performed at the lowest level for which identifiable cash flows are largely independent of the cash flows of other assets and liabilities. Recoverability of these group of assets is measured by a comparison of the carrying amounts to the future undiscounted cash flows the group of assets is expected to generate. If such review indicates that the carrying amount of intangible assets is not recoverable, the carrying amount of such assets is reduced to fair value. Acquired identifiable finite-lived intangible assets are amortized on a straight-line basis or accelerated method over the estimated useful lives of the assets. The basis of amortization approximates the pattern in which the assets are utilized, over their estimated useful lives. The Company routinely reviews the remaining estimated useful lives of finite-lived intangible assets. In case the Company reduces the estimated useful life for any asset, the remaining unamortized balance is amortized or depreciated over the revised estimated useful life (see Note 8). For the years ended December 31, 2021, 2020 and 2019, no impairment losses have been identified.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

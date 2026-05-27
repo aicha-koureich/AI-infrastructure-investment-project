@@ -1,0 +1,23 @@
+FIRM         : RSG (CIK 0001060391) | FY2018
+FILE         : 0001060391_RSG_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+We revise the estimated useful lives of property and equipment acquired through business acquisitions to conform with our policies. The estimated useful lives of our property and equipment are as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| In August 2018, the FASB issued ASU 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40) No. 2018-15 Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (ASU 2018-15). ASU 2018-15 provides additional guidance on the accounting for costs of implementation activities performed in a cloud computing arrangement that is a service contract. The amendments in ASU 2018-15 align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal use software license). Costs for implementation activities in the application development stage are capitalized depending on the nature of the costs, while costs incurred during the preliminary project and post implementation stages are expensed as the activities are performed. ASU 2018-15 is effective for public business entities for fiscal years beginning after December 15, 2019, including interim periods within that fiscal year. Early adoption of the amendments in ASU 2018-15 is permitted, including adoption in any interim period, for all entities. The amendments in ASU 2018-15 should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. We are currently assessing the effect this guidance may have on our consolidated financial statements and may consider early adoption. ||| Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40) No. 2018-15 Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

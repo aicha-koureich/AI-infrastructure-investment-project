@@ -1,0 +1,21 @@
+FIRM         : CHEF (CIK 0001517175) | FY2022
+FILE         : 0001517175_CHEF_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-23
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 – Summary of Significant Accounting Policies
+ASSET CAT.   : computer software for internal use if it has a useful life in excess of
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 3.0-7.0 ans | 5.0-10.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+These costs were incurred in connection with developing or obtaining computer software for internal use if it has a useful life in excess of one year, in accordance with Accounting Standards Codification (“ASC”) 350-40 “Internal-Use Software.” Subsequent additions, modifications or upgrades to internal-use software are capitalized only to the extent that they allow the software to perform a task that it previously did not perform. Internal use software is amortized on a straight-line basis over a three to seven year period. Capitalized software purchases and related development costs, net of accumulated amortization, were $11,805 at December 30, 2022 and $14,780 at December 24, 2021.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

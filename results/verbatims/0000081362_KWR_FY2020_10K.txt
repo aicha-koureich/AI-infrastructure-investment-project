@@ -1,0 +1,24 @@
+FIRM         : KWR (CIK 0000081362) | FY2020
+FILE         : 0000081362_KWR_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Significant Accounting Policies
+ASSET CAT.   : equipment, machinery and equipment
+DURÉE        : 1.0-15.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-15.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment (“PP&E”) are stated at gross cost, less accumulated depreciation. Depreciation is computed using the straight-line method on an individual asset basis over the following estimated useful lives: building s and improvements, 10 to 45 years; and machinery and equipment, 1 to 15 years.
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment (“PP&E”) are stated at gross cost, less accumulated depreciation. Depreciation is computed using the straight-line method on an individual asset basis over the following estimated useful lives: building s and improvements, 10 to 45 years; and machinery and equipment, 1 to 15 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement ||| in August 2018 that clarifies the accounting for implementation costs incurred in a cloud computing

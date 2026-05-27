@@ -1,0 +1,20 @@
+FIRM         : CMP (CIK 0001227654) | FY2013
+FILE         : 0001227654_CMP_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 43.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment also includes mineral interests. The Company leases probable mineral reserves at several of its extraction facilities. These leases have varying terms, and many provide for a royalty payment to the lessor based on a specific amount per ton of mineral extracted or as a percentage of revenue. The Company’s rights to extract minerals are contractually limited by time. However, the Company believes it will be able to continue to extend lease agreements as it has in the past, at commercially reasonable terms, without incurring substantial costs or material modifications to the existing lease terms and conditions, and therefore, management believes that assigned lives are appropriate. The Company’s leased mineral interests are primarily depleted on a units-of-production basis over the respective estimated lives of mineral deposits not to exceed 99 years. The weighted average amortization period for these probable mineral reserves is 83 years as of December 31, 2013. The Company also owns other mineral properties. The weighted average life for these probable owned mineral reserves is 43 years as of December 31, 2013.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

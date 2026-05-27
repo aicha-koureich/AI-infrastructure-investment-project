@@ -1,0 +1,23 @@
+FIRM         : LUV (CIK 0000092380) | FY2019
+FILE         : 0000092380_LUV_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 9
+ASSET CAT.   : computer software, equipment
+DURÉE        : 5.0-15.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company amortizes these costs using the straight-line method over the estimated useful life of the software, which is typically five to fifteen years . Capitalized computer software, included as a component of Ground property and equipment in the accompanying Consolidated Balance Sheet, net of accumulated depreciation, was $630 million and $674 million at December 31, 2019 , and 2018 , respectively. Computer software depreciation expense was $177 million , $155 million , and $168 million for the years ended December 31, 2019 , 2018 , and 2017 , respectively, and is included as a component of Depreciation and amortization expense in the accompanying Consolidated Statement of Income.
+
+[VERBATIM — Changement de politique]
+In September 2017, the Company retired its remaining 61 Boeing 737-300 ("Classic") aircraft as part of an accelerated retirement schedule. This resulted in a change in anticipated retirement dates, which was considered a change in estimate and was accounted for on a prospective basis as of the dates the decisions were finalized. Therefore, the Company recorded accelerated depreciation expense over the remainder of the useful lives for each Classic aircraft and related parts. See Note 7 for further information regarding the Company's leased aircraft fleet. The impact on expense and earnings from the accelerated depreciation were as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+On August 29, 2018, the Financial Accounting Standards Board (the "FASB") issued ASU No. 2018-15, Intangibles—Goodwill and Other—Internal-Use Software. This new standard requires a customer in a cloud computing arrangement that is a service contract to follow the internal-use software guidance in ASC 350-40, Accounting for Internal-Use Software, to determine which implementation costs to (i) capitalize as assets and amortize over the term of the hosting arrangement or (ii) expense as incurred. This new standard is effective for public business entities in fiscal years beginning after December 15, 2019, and for interim periods within those fiscal years. Entities have the option to apply this standard prospectively to all implementation costs incurred after the date of adoption or retrospectively. The Company will be adopting this ASU prospectively as of January 1, 2020. The adoption of the new standard will impact the presentation of these costs as prepaid assets (versus Property and equipment under the existing guidance), however the impacts are not expected to be material.

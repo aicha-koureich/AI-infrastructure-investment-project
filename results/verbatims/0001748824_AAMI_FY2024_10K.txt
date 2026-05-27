@@ -1,0 +1,24 @@
+FIRM         : AAMI (CIK 0001748824) | FY2024
+FILE         : 0001748824_AAMI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : software, which is generally
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+The estimated useful lives of office equipment and furniture and fixtures range from three to ten years. Computer software developed or obtained for internal use capitalized during the application development stage is amortized using the straight-line method over the estimated useful life of the software, which is generally five years or less.
+
+[VERBATIM — Changement de politique]
+(e) Depreciation and amortization includes U.S. GAAP depreciation and amortization, adjusted for costs associated with the wind-down of the MACS business in the standalone format.
+
+[VERBATIM — Infrastructure IA]
+The Company has operating leases for corporate offices, data centers and certain equipment. The operating leases have remaining lease terms of less than 1 year to 9 years, some of which include options to extend the leases for up to 5 years.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

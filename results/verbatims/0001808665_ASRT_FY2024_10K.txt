@@ -1,0 +1,23 @@
+FIRM         : ASRT (CIK 0001808665) | FY2024
+FILE         : 0001808665_ASRT_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, less accumulated depreciation and amortization.
+
+[VERBATIM — Changement de politique]
+Effective April 1, 2024, the Company revised the remaining estimated useful life of the INDOCIN product rights intangible asset to 1.3 years, which the Company believes better reflects the realization of the economic benefit of the intangible asset. The impact of this change in estimate is reflected in the Company’s expected future amortization expense disclosed below.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

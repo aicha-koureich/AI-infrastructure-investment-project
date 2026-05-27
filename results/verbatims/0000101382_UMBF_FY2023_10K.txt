@@ -1,0 +1,20 @@
+FIRM         : UMBF (CIK 0000101382) | FY2023
+FILE         : 0000101382_UMBF_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 6. LOANS TO OFFICERS AND DIRECTORS Certain executive officers and directors of the Company and the Bank, including companies in which those persons ar
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment consisted of the following (in thousands): December 31, 2023 2022 Land $ 41,368 $ 41,368 Buildings and leasehold improvements 370,646 361,346 Equipment 194,171 187,208 Software 287,592 285,833 Total 893,777 875,755 Accumulated depreciation ( 394,892 ) ( 371,958 ) Accumulated amortization ( 257,185 ) ( 240,148 ) Premises and equipment, net $ 241,700 $ 263,649
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Processing fees expense increased $20.9 million, or 25.4%, in 2023 compared to 2022, and increased $14.7 million, or 21.7%, in 2022 compared to 2021. The increases in 2023 and 2022 were primarily driven by the transition to cloud computing solutions and ongoing investments in digital channel and integrated platform solutions to support business growth and the continued modernization of core systems.

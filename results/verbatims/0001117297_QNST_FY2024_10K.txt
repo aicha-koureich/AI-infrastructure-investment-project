@@ -1,0 +1,21 @@
+FIRM         : QNST (CIK 0001117297) | FY2024
+FILE         : 0001117297_QNST_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : JUNE 30, 2024
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies Principles of Consolidation The consolidated financial statements include the accounts of the Company an
+ASSET CAT.   : Computer equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property and Equipment Property and equipment are stated at cost less accumulated depreciation and amortization, and are depreciated on a straight-line basis over the estimated useful lives of the assets, as follows: Computer equipment 3 years Software 3 years Furniture and fixtures 3 to 5 years Leasehold improvements the shorter of the lease term or the estimated useful lives of the improvements 61
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

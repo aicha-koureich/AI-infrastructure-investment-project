@@ -1,0 +1,21 @@
+FIRM         : CDW (CIK 0001402057) | FY2018
+FILE         : 0001402057_CDW_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2018-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 3. Property and Equipment
+ASSET CAT.   : equipment, Machinery and equipment, Computer software, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+December 31, (in millions) 2018 2017 Building and leasehold improvements $ 129.1 $ 123.0 Computer and data processing equipment 105.4 116.4 Machinery and equipment 44.1 45.6 Land 27.7 27.7 Construction in progress 24.5 17.9 Computer software 22.2 9.6 Furniture and fixtures 18.9 22.7 Property and equipment, gross 371.9 362.9 Less: accumulated depreciation (215.8 ) (201.8 ) Property and equipment, net $ 156.1 $ 161.1
+
+[VERBATIM — Infrastructure IA]
+The Company sells cloud computing solutions which include Infrastructure as a Service ("IaaS"). IaaS solutions utilize third-party partners to enable customers to access data center functionality in a cloud-based solution, including storage, computing and networking. The Company recognizes revenue for cloud computing solutions for arrangements with one-time invoicing to the customer at the time of invoice on a net basis as the Company is acting as an agent in the transaction. For monthly subscription-based arrangements, the Company is acting as an agent in the transaction and recognizes revenue as it invoices the customer for its monthly usage on a net basis.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+ranges from discrete hardware and software products to integrated IT solutions such as mobility, security, data center optimization, cloud computing, virtualization and collaboration.

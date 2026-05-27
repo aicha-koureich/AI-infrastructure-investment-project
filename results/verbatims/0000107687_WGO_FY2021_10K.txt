@@ -1,0 +1,24 @@
+FIRM         : WGO (CIK 0000107687) | FY2021
+FILE         : 0000107687_WGO_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-08-27
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Basis of Presentation
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : AMD_Instinct (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-6.0 ans | 3.0-10.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation of property and equipment is computed using the straight-line method on the cost of the assets, less allowance for salvage value where appropriate, at rates based upon their estimated service lives as follows: Asset Class Asset Life Buildings 20-40 years Machinery and equipment 3-10 years Software 5-10 years Transportation equipment 3-6 years
+
+[VERBATIM — Changement de politique]
+We monitor and evaluate operating performance of our reportable segments based on Adjusted EBITDA. We believe disclosing Adjusted EBITDA is useful to securities analysts, investors and other interested parties when evaluating companies in our industries. EBITDA is defined as net income before interest expense, provision for income taxes, and depreciation and amortization expense. Adjusted EBITDA is defined as net income before interest expense, provision for income taxes, depreciation and amortization expense, and other pretax adjustments made in order to present comparable results period over period. Examples of items excluded from Adjusted EBITDA include acquisition-related fair-value inventory step-up, acquisition-related costs, restructuring expenses, gain or loss on sale of property, plant and equipment, and non-operating income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

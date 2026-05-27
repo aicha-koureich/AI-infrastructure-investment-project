@@ -1,0 +1,24 @@
+FIRM         : STBA (CIK 0000719220) | FY2014
+FILE         : 0000719220_STBA_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 26. SALE OF MERCHANT CARD SERVICING BUSINESS
+ASSET CAT.   : Computer Equipment and Software
+DURÉE        : 5.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+The estimated useful lives for the various asset categories are as follows: 1) Land and Land Improvements Non-depreciating assets 2) Buildings 25 years 3) Furniture and Fixtures 5 years 4) Computer Equipment and Software 5 years or term of license 5) Other Equipment 5 years 6) Vehicles 5 years 7) Leasehold Improvements Lesser of estimated useful life of the asset (generally 15 years unless established otherwise) or the remaining term of the lease, including renewal options in the lease that are reasonably assured of exercise
+
+[VERBATIM — Changement de politique]
+In April 2014, the FASB issued ASU No. 2014-08, Reporting Discontinued Operations and Disclosures of Disposals of Components of an Entity, which changes the criteria for determining which disposals can be presented as discontinued operations and modifies related disclosure requirements. The guidance applies to all entities that dispose of components. It will significantly change current practices for assessing discontinued operations and affect an entity’s income and earnings per share from continuing operations. An entity is required to reclassify assets and liabilities of a discontinued operation that are classified as held for sale or disposed of in the current period for all comparative periods presented. The ASU requires that an entity present in the statement of cash flows or disclose in a note either total operating and investing cash flows for discontinued operations, or depreciation, amortization, capital expenditures and significant operating and investing noncash items related to discontinued operations. Additional disclosures are required when an entity retains significant continuing involvement with a discontinued operation after its disposal, including the amount of cash flows to and from a discontinued operation. The new standard applies prospectively effective for annual periods beginning on or after December 15, 2014 and interim periods therein, and early adoption is permitted. We do not expect that this ASU will have a material impact on our results of operations or financial position.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

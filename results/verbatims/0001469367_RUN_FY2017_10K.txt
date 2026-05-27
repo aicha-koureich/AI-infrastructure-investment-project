@@ -1,0 +1,23 @@
+FIRM         : RUN (CIK 0001469367) | FY2017
+FILE         : 0001469367_RUN_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, furniture, computer hardware, machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+All property and equipment are stated at historical cost net of accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+. The Company revised the estimated useful life of solar energy systems in the fourth quarter of 2016, as the Company reviewed its assumptions and concluded that customers are more likely to renew their lease rather than purchase the solar energy system at the end of the lease term. The impact of the change in estimate was immaterial for 2016 and future periods. The Company periodically reviews its estimated useful life and recognizes changes in estimates by prospectively adjusting depreciation expense. Inverters and batteries are depreciated over their estimated useful life of
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : LPSN (CIK 0001102993) | FY2014
+FILE         : 0001102993_LPSN_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of Business and Summary of Accounting Policies (Continued)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+years for equipment and software. Leasehold improvements are depreciated using the straight-line method over the shorter of the lease term or the estimated useful life of the asset. Depreciation expense totaled
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : BFH (CIK 0001101215) | FY2013
+FILE         : 0001101215_BFH_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Within the Epsilon segment, cost of operations increased $124.8 million due to the acquisitions of HMI and Aspen, which added $26.7 million and $96.9 million, respectively. Cost of operations also increased as a result of enhancements to infrastructure and security as well as a relocation of a data center to support future growth, which were mitigated by cost-saving initiatives and operational efficiencies implemented in 2012.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

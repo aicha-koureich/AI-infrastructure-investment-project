@@ -1,0 +1,32 @@
+FIRM         : ORCL (CIK 0001341439) | FY2013
+FILE         : 0001341439_ORCL_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : May 31, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We are the world’s largest provider of enterprise software and a
+leading provider of computer hardware products and services that are engineered to work together in the cloud and in the data center. Our offerings include Oracle database and middleware software, application software, cloud infrastructure, hardware
+systems—including computer server, storage and networking products—and related services. We develop and maintain our products and services to be enterprise-grade, reliable, secure and interoperable while offering customers a choice in
+deployment models that best meet their information technology (IT) needs. Our customers can subscribe to use many Oracle software and hardware products through our Oracle Cloud offerings, or purchase our software and hardware products and related
+services to build their own internal clouds or on-premise IT environments.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Cloud computing IT environments, including those offered through
+our Oracle Cloud Software-as-a-Service (SaaS), Platform-as-a-Service (PaaS) and Infrastructure-as-a-Service offerings, are designed to be attractive and cost-effective options for our customers as we integrate the software and hardware on the
+customers’ behalf in IT environments that we deploy, support and manage on the customers’ behalf. We are a leader in the core technologies of cloud computing, including database and middleware software as well as web-based applications,
+virtualization, clustering, large-scale systems management and related infrastructure. Our products and services are the building blocks of our own cloud services, our partners’ cloud services and our customers’ cloud IT environments. An
+important element of our corporate strategy is to deliver reliable, secure and scalable products and services that are built upon industry standards and are engineered to work both together or independently, regardless of the deployment model
+selected. ||| Software and Cloud Business ||| Our software and cloud business, which represented 76%, 75% and 72% of our total revenues in fiscal 2014, 2013 and 2012, respectively, is comprised of three operating segments: (1) new software
+licenses and cloud software subscriptions, (2) cloud infrastructure-as-a-service and (3) software license updates and product support. On a constant currency basis, we expect that our software and cloud business’ total revenues
+generally will continue to increase due to continued demand for our software products and subscription offerings, our software license updates and product support offerings, including the high percentage of customers that renew their software
+license updates and product support contracts, and our acquisitions, which should allow us to grow our profits and continue to make investments in research and development.

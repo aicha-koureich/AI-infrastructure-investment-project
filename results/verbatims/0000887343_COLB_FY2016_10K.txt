@@ -1,0 +1,21 @@
+FIRM         : COLB (CIK 0000887343) | FY2016
+FILE         : 0000887343_COLB_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : ERROR | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 19. Accumulated Other Comprehensive Loss
+ASSET CAT.   : Furniture, equipment, Computer software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Buildings and building improvements 5 to 39 years Leasehold improvements Term of lease or useful life, whichever is shorter Furniture, fixtures and equipment 3 to 7 years Vehicles 5 years Computer software 3 to 5 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

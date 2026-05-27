@@ -1,0 +1,21 @@
+FIRM         : RMAX (CIK 0001581091) | FY2017
+FILE         : 0001581091_RMAX_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 6. Property and Equipment Property and equipment consist of the following (in thousands): As of December 31, Depreciable Life 2017 2016 Leasehold impr
+ASSET CAT.   : equipment
+DURÉE        : 1.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-10.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Property and Equipment Property and equipment consist of the following (in thousands): As of December 31, Depreciable Life 2017 2016 Leasehold improvements Shorter of estimated useful life or life of lease $ 3,227 $ 3,063 Office furniture, fixtures and equipment 1 - 10 years 12,004 11,824 15,231 14,887 Less accumulated depreciation (12,326) (12,196) $ 2,905 $ 2,691 Depreciation expense was $0.9 million, $0.9 million and $1.0 million for the years ended December 31, 2017, 2016 and 2015, respectively. 7. Intangible Assets and Goodwill The following table provides the components of the Company’s intangible assets (in thousands, except weighted average amortization period in years): Weighted Average As of December 31, 2017 As of December 31, 2016 Amortization Initial Accumulated Net Initial Accumulated Net Period Cost Amortization Balance Cost Amortization Balance Franchise agreements 12.5 $ 181,567 $ (62,218) $ 119,349 $ 224,167 $ (115,027) $ 109,140 Other intangible assets: Software (a) 4.6 $ 13,762 $ (8,111) $ 5,651 $ 13,207 $ (7,154) $ 6,053 Trademarks 10.2 1,539 (902) 637 3,102 (1,782) 1,320 Non-compete 10.0 2,500 (312) 2,188 2,500 (62) 2,438 Total other intangible assets 6.4 $ 17,801 $ (9,325) $ 8,476 $ 18,809 $ (8,998) $ 9,811 (a) As of December 31, 2017 and December 31, 2016, capitalized software development costs of $0.6 million and $0.4 million, respectively, were recorded in “Other intangible assets” in the accompanying Consolidated Balance Sheets. As of these dates, the associated information technology infrastructure projects were not complete and ready for their intended use and thus were not subject to amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

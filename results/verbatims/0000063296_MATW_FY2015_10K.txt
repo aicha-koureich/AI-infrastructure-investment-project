@@ -1,0 +1,20 @@
+FIRM         : MATW (CIK 0000063296) | FY2015
+FILE         : 0000063296_MATW_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued)
+ASSET CAT.   : buildings
+DURÉE        : 3.0-12.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is computed primarily on the straight-line method over the estimated useful lives of the assets, which generally range from 10 to 45 years for buildings and 3 to 12 years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

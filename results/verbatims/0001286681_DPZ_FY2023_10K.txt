@@ -1,0 +1,23 @@
+FIRM         : DPZ (CIK 0001286681) | FY2023
+FILE         : 0001286681_DPZ_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-21
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 2021. The Company paid dividends of
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : A100;B100;B200 (3 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31, 2023 and January 1, 2023, the significant components of net deferred income taxes were as follows: December 31, 2023 January 1, 2023 Deferred income tax assets Operating lease liabilities $ 53,720 $ 56,750 Accruals and reserves 16,176 11,330 Insurance reserves 12,592 13,039 Non-cash equity-based compensation expense 10,309 8,849 Foreign tax credit 16,798 13,464 Other 13,181 12,150 Deferred income tax assets before valuation allowance 122,776 115,582 Less, valuation allowance ( 18,166 ) ( 15,001 ) Deferred income tax assets, net 104,610 100,581 Deferred income tax liabilities Operating lease right-of-use assets 50,883 54,057 Capitalized software 14,523 27,443 Depreciation, amortization and asset basis differences 12,155 15,851 Unrealized gain on investments 13,369 9,065 Deferred income tax liabilities 90,930 106,416 Net deferred income taxes $ 13,680 $ ( 5,835 )
+
+[VERBATIM — Changement de politique]
+In the first quarter of 2023, the Company changed its allocation methodology for certain costs which support certain internally developed software used across the Company's franchise system. This allocation methodology change was implemented in order to reflect the way the chief operating decision maker allocates resources to the Company’s reportable segments and evaluates segment profitability, including the costs of internally developed software. The change in allocation methodology of certain software development costs resulted in an estimated increase in U.S. stores Segment Income of $ 65.7 million , an estimated increase in international franchise Segment Income of $ 8.9 million and an estimated decrease in other Segment Income of $ 74.6 million in 2023. The change in allocation methodology of certain software development costs had no impact on revenues, supply chain Segment Income or total Segment Income. The change in allocation methodology for certain software development costs is a prospective change and the comparative information has not been restated.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

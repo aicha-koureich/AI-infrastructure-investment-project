@@ -1,0 +1,20 @@
+FIRM         : NSIT (CIK 0000932696) | FY2022
+FILE         : 0000932696_NSIT_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+On March 11, 2020, the World Health Organization declared COVID-19 a pandemic. The pandemic has negatively impacted the global economy, disrupted global supply chains and reduced workforce participation. While we have experienced minimal negative impact of COVID-19 on our 2021 and 2022 financial results, prolonged supply constraints stemming from shortages of chips and displays resulted in sustained elevated bookings coming into and throughout the first half of 2022. While supply constraints for certain products, such as devices, have eased limitations on other products, such as data center and infrastructure products continue to result in elevated backlog. We expect our elevated backlog for data center and infrastructure products may benefit our results in the first half of 2023.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

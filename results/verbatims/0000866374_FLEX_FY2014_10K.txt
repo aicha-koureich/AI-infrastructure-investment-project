@@ -1,0 +1,34 @@
+FIRM         : FLEX (CIK 0000866374) | FY2014
+FILE         : 0000866374_FLEX_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 22. QUARTERLY FINANCIAL DATA (UNAUDITED)
+ASSET CAT.   : Machinery and equipment, Furniture, computer equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of March 31, Depreciable Life (In Years) 2015 2014 (In thousands) Machinery and equipment 3 - 10 $ 2,928,903 $ 2,929,449 Buildings 30 1,067,837 1,069,376 Leasehold improvements up to 30 459,926 470,960 Furniture, fixtures, computer equipment and software 3 - 7 440,878 427,038 Land — 123,633 127,567 Construction-in-progress — 140,786 88,687 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 5,161,963 5,113,077 Accumulated depreciation and amortization (3,069,796 ) (2,824,421 ) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Property and equipment, net $ 2,092,167 $ 2,288,656 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+electronics
+business, including connected living, wearable electronics, game consoles, and connectivity devices; and our high-volume computing business, including various supply chain solutions for
+notebook personal computing, tablets and printers; Industrial and Emerging Industries ("IEI"), which is comprised of semiconductor and capital equipment, office solutions, test and measurement,
+household industrial and lifestyle, industrial automation and kiosks, energy and metering, and lighting; and Integrated Network Solutions ("INS"), which includes radio access base stations, remote
+radio heads, and small cells for wireless infrastructure; optical, routing, broadcasting and switching products for the data and video network; server and storage platforms for both enterprise and
+cloud based deployments; next generation storage and security appliance products and rack level solutions, converged infrastructure and software defined product solutions. As of March 31, 2015
+the above described business groups comprise our reportable segments. Please refer to note 19 to the consolidated financial statements in Item 8, "Financial Statements and Supplementary
+Data." ||| Net
+sales during fiscal year 2015 increased $0.7 billion or 17.7% in the IEI business group and $0.3 billion or 8.6% in the HRS business group. The increase in revenue from
+our IEI business is primarily attributable to a broad increase across multiple product categories and customers, most notably in our energy and our household industrial and lifestyle businesses. The
+increased revenue from our HRS business is primarily due to a higher demand from our medical customers, and greater sales to our automotive customers as a result of an increased use of electronics
+throughout vehicles in areas such as in-car connectivity, LED lighting, and power management. The increase in these business groups was partially offset by a $0.5 billion or 5.1% decrease in
+sales from our INS business, and by a $0.4 billion or 4.5% decrease in sales from our CTG business. The decrease in revenue in our INS business is primarily attributable to broad
+softness in our telecom businesses directly due to decreased demand for our customer products from North American carriers. The decrease in revenue in our CTG business is primarily due to
+softness in our personal computing business.

@@ -1,0 +1,23 @@
+FIRM         : WGO (CIK 0000107687) | FY2015
+FILE         : 0000107687_WGO_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 5 : Property, Plant and Equipment and Assets Held for Sale
+ASSET CAT.   : Machinery and equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In thousands) August 29, 2015 August 30, 2014 Land $ 1,874 $ 738 Buildings and building improvements 53,388 47,273 Machinery and equipment 94,034 90,101 Software 8,033 4,356 Transportation 8,913 9,098 Total property, plant and equipment, gross 166,242 151,566 Less accumulated depreciation (128,992 ) (126,431 ) Total property, plant and equipment, net $ 37,250 $ 25,135
+
+[VERBATIM — Changement de politique]
+consisted of dealer network, trademarks and non-compete agreements and were fully amortized in Fiscal 2013 after identifying a decrease in the estimated useful lives. Amortization expense was
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

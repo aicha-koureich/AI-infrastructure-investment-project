@@ -1,0 +1,20 @@
+FIRM         : NI (CIK 0001111711) | FY2016
+FILE         : 0001111711_NI_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. Property, Plant and Equipment
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+NIPSCO’s common utility plant and associated accumulated depreciation and amortization are allocated between Gas Distribution Utility and Electric Utility Property, Plant and Equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

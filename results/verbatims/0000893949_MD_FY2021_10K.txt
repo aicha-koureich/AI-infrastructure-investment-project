@@ -1,0 +1,20 @@
+FIRM         : MD (CIK 0000893949) | FY2021
+FILE         : 0000893949_MD_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2027-02-11
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Summary of Significant Accounting Policies:
+ASSET CAT.   : buildings
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of property and equipment is computed using the straight-line method over the estimated useful lives of the underlying assets. Estimated useful lives are generally 30 years for buildings; three to seven years for medical equipment, computer equipment, software and furniture; and the lesser of the useful life or the remaining lease term for leasehold improvements and finance leases. Upon sale or retirement of property and equipment, the related cost and accumulated depreciation are eliminated from the respective accounts and any resulting gain or loss is included in earnings.
+
+[VERBATIM — Infrastructure IA]
+General and administrative expenses attributable to continuing operations primarily include all billing and collection functions and all other salaries, benefits, supplies and operating expenses not specifically identifiable to the day-to-day operations of our physician practices and services. General and administrative expenses were $263.4 million for the year ended December 31, 2021, as compared to $248.9 million for 2020. The net increase of $14.5 million is primarily related to increases in various information technology related expenses including systems fees, professional licenses, data center enhancements, and security as well as a net increase in compensation expense when comparing to the prior year that included decreases in compensation expense from COVID-19 mitigation efforts such as temporary salary reductions, furloughs and net staffing reductions. General and administrative expenses as a percentage of net revenue was 13.8% for the year ended December 31, 2021, as compared to 14.4% for the same period in 2020.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : MEDP (CIK 0001668397) | FY2016
+FILE         : 0001668397_MEDP_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : computer hardware, software, phone, and medical imaging equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Depreciation is provided on the straight-line method at rates adequate to allocate the cost of the applicable assets over their estimated useful lives, which is three to five years for computer hardware, software, phone, and medical imaging equipment, five to seven years for furniture and fixtures and other equipment, and thirty to forty years for buildings. The Company capitalizes costs of computer software developed for internal use and amortizes these costs on a straight-line basis over the estimated useful life, not to exceed three years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

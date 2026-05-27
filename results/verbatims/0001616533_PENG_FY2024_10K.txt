@@ -1,0 +1,21 @@
+FIRM         : PENG (CIK 0001616533) | FY2024
+FILE         : 0001616533_PENG_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-08-30
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment
+DURÉE        : 2.0-8.0 ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 2.0-8.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment is stated at cost and depreciated using the straight-line method over estimated useful lives of generally 2 to 8 years for equipment, 5 to 40 years for buildings and building improvements and 2 to 5 years for furniture, fixtures and software.
+
+[VERBATIM — Infrastructure IA]
+Company Name Change : On October 15, 2024, we changed our name from SMART Global Holdings, Inc. to Penguin Solutions, Inc. The change reflects our focus on key areas such as artificial intelligence infrastructure deployment, advanced memory enterprise solutions and high-performance computing.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Macro-Economic Demand Factors. Our business segments each have their own unique set of demand factors. Our Advanced Computing business is driven by demand for high-performance compute solutions across AI and machine learning initiatives, as well as traditional workload optimization and efficiency applications. Demand in our Integrated Memory segment is driven by end-market demand from OEMs for customer-specific solutions in vertical markets such as industrial, government, networking, high-performance compute and enterprise storage, ||| Our business segments each have their own unique set of demand factors. Our Advanced Computing business is driven by demand for high-performance compute solutions across AI and machine learning initiatives, as well as traditional workload optimization and efficiency applications. Demand in our Integrated Memory segment is driven by end-market demand from OEMs for customer-specific solutions in vertical markets such as industrial, government, networking, high-performance compute and enterprise storage, ||| Shifts in the Mix and Timing of Our Revenue. Shifts in the mix of revenue from our operating segments, and in the timing of revenue, which can vary significantly from period to period, can impact our business and operating results, including gross and operating margins. For example, our Advanced Computing segment has shown solid growth, but is subject to variability in its sales and margin profile from period to period for reasons such as: recognition of revenue is sometimes tied to customer decisions as to the completion of delivery and system go-live events, sales can be affected by the timing of customer deployments or customer budget considerations and margin is driven by the extent to which higher margin software and managed services comprise Advanced Computing sales. Our resource commitments and planning for each segment are relatively fixed in the short term, and as such, variability in expected revenue mix will have direct implications for our operating income and margins.

@@ -1,0 +1,23 @@
+FIRM         : JBLU (CIK 0001158463) | FY2023
+FILE         : 0001158463_JBLU_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-12
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 - Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated useful lives and residual values for property and equipment are summarized as follows:
+
+[VERBATIM — Changement de politique]
+(1) The estimated remaining useful life of our Embraer E190 fleet ranges from 0-2 years with an average residual value of 12%. In addition, five Airbus A320 airframe were extended to an estimated useful life of between 26 to 27 years with an average residual value of $1.5 million.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

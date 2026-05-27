@@ -1,0 +1,20 @@
+FIRM         : WTW (CIK 0001140536) | FY2024
+FILE         : 0001140536_WTW_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 8 — Fixed Assets The following table reflects changes in the net carrying amount of the components of fixed assets for the years ended December 3
+ASSET CAT.   : Furniture, equipment, technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Note 8 — Fixed Assets The following table reflects changes in the net carrying amount of the components of fixed assets for the years ended December 31, 2024 and 2023: Furniture, equipment and software Leasehold improvements Land and buildings Total Cost: at January 1, 2023 $ 1,452 $ 452 $ 83 $ 1,987 Additions 219 32 — 251 Disposals (i) ( 182 ) ( 34 ) — ( 216 ) Foreign exchange 38 9 2 49 Cost: at December 31, 2023 1,527 459 85 2,071 Additions 215 28 — 243 Disposals (i) ( 221 ) ( 66 ) — ( 287 ) Foreign exchange ( 29 ) ( 10 ) ( 1 ) ( 40 ) Cost: at December 31, 2024 $ 1,492 $ 411 $ 84 $ 1,987 Depreciation: at January 1, 2023 $ ( 933 ) $ ( 272 ) $ ( 64 ) $ ( 1,269 ) Depreciation expense ( 202 ) ( 37 ) ( 3 ) ( 242 ) Disposals 164 25 — 189 Foreign exchange ( 23 ) ( 5 ) ( 1 ) ( 29 ) Depreciation: at December 31, 2023 ( 994 ) ( 289 ) ( 68 ) ( 1,351 ) Depreciation expense ( 188 ) ( 39 ) ( 3 ) ( 230 ) Disposals 179 51 — 230 Foreign exchange 19 6 — 25 Depreciation: at December 31, 2024 $ ( 984 ) $ ( 271 ) $ ( 71 ) $ ( 1,326 ) Net book value: At December 31, 2023 $ 533 $ 170 $ 17 $ 720 At December 31, 2024 $ 508 $ 140 $ 13 $ 661 (i) For 2024 and 2023, includes $ 12 million and $ 17 million, respectively, of furniture, equipment and software costs and $ 8 million and $ 4 million, respectively, of leasehold improvements costs which have been written off as part of technology modernization and real estate rationalization, respectively, under the Transformation program (see Note 6 – Restructuring Costs).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : EWBC (CIK 0001069157) | FY2016
+FILE         : 0001069157_EWBC_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+— The Company’s premises and equipment are stated at cost less accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement. ||| ASU 2015-05 amends ASC 350-40 and requires the Company to determine whether a cloud computing arrangement contains a software license. If the arrangement contains a software license, the Company should account for the fees related to the software license element consistent with how the acquisitions of other software licenses are accounted for under ASC 350-40. If the arrangement does not contain a software license, the Company should account for the arrangement as a service contract. The Company adopted this guidance prospectively to all arrangements entered into or materially modified in the first quarter of 2016. The adoption of this guidance did not have a material impact on the Company’s Consolidated Financial Statements. ||| In April 2015, the FASB issued ASU 2015-05, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement. ASU 2015-05 amends ASC 350-40 and requires the Company to determine whether a cloud computing arrangement contains a software license. If the arrangement contains a software license, the Company should account for the fees related to the software license element consistent with how the acquisitions of other software licenses are accounted for under ASC 350-40. If the arrangement does not contain a software license, the Company should account for the arrangement as a service contract. The Company adopted this guidance prospectively to all arrangements entered into or materially modified in the first quarter of 2016. The adoption of this guidance did not have a material impact on the Company’s Consolidated Financial Statements.

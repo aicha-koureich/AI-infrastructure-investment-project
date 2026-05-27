@@ -1,0 +1,20 @@
+FIRM         : ANDE (CIK 0000821026) | FY2015
+FILE         : 0000821026_ANDE_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 13 - RELATED PARTIES
+ASSET CAT.   : equipment, Machinery and equipment, furniture, computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+(amounts in thousands) 2015 2014 (revised) ASSETS Current assets: Cash and cash equivalents $ 29,564 $ 26,708 Margin deposits, net 13,530 26,482 Accounts receivable (net of allowance for doubtful accounts of $15,533 and $11,653 at December 31, 2015 and 2014, respectively) 281,475 353,582 Commodity derivative assets - current 108,892 222,900 Inventories 314,555 391,187 Other current assets 13,348 8,433 Total current assets 761,364 1,029,292 Property and equipment: Grain facilities assets 126,978 113,566 Machinery and equipment 62,122 56,343 Office furniture and computer software and equipment 15,822 15,174 204,922 185,083 Accumulated depreciation (57,544 ) (42,141 ) 147,378 142,942 Other assets: Commodity derivative assets - long-term 172 419 Investments 53,940 55,378 Goodwill 21,728 21,200 Other intangibles, net 13,541 17,172 Related party notes receivable 6,391 9,828 Other assets 3,874 5,302 Total assets $ 1,008,388 $ 1,281,533 Assets of Consolidated VIE's Included in Total Assets Above (isolated to settle the liabilities of the VIE's) Cash and cash equivalents $ 62 $ 17 Other current assets 98 941 Property and equipment, net 21,995 23,612
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

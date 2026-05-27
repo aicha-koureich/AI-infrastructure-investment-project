@@ -1,0 +1,20 @@
+FIRM         : WOLF (CIK 0000895419) | FY2021
+FILE         : 0000895419_WOLF_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-06-27
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 6 – Financial Statement Details
+ASSET CAT.   : Machinery and equipment, Computer hardware, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B100 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Dollars) June 27, 2021 June 28, 2020 Machinery and equipment $988.6 $859.9 Land and buildings 383.9 363.1 Computer hardware/software 51.5 46.8 Furniture and fixtures 8.0 8.1 Leasehold improvements and other 9.6 9.7 Vehicles 0.7 0.6 Finance lease assets 15.5 15.4 Construction in progress 767.8 366.8 Property and equipment, gross 2,225.6 1,670.4 Accumulated depreciation (933.3) (899.6) Property and equipment, net $1,292.3 $770.8
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

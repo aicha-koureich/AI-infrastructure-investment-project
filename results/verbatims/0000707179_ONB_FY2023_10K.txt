@@ -1,0 +1,20 @@
+FIRM         : ONB (CIK 0000707179) | FY2023
+FILE         : 0000707179_ONB_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 6 – LEASES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Affected Line Item in the Statement of Income Years Ended December 31, (dollars in thousands) 2023 2022 2021 Operating lease cost Occupancy/Equipment expense $ 31,175 $ 29,368 $ 12,336 Finance lease cost: Amortization of right-of-use assets Occupancy expense 2,921 2,672 2,356 Interest on lease liabilities Interest expense 722 415 431 Sub-lease income Occupancy expense (387) (448) (438) Total $ 34,431 $ 32,007 $ 14,685
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

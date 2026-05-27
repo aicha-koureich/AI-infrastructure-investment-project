@@ -1,0 +1,20 @@
+FIRM         : BWXT (CIK 0001486957) | FY2016
+FILE         : 0001486957_BWXT_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 3 – DISCONTINUED OPERATIONS
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Year Ended December 31, 2015 2014 (In thousands) Non-cash items included in net income (loss): Depreciation and amortization $ 21,458 $ 30,661 Income (loss) of investees, net of dividends $ (2,293 ) $ (8,726 ) Losses on asset disposals and impairments, net $ 10,544 $ 5,989 Purchases of property, plant and equipment $ 11,494 $ 15,449
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

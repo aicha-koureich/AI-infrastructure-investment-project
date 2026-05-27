@@ -1,0 +1,23 @@
+FIRM         : AGO (CIK 0001273813) | FY2021
+FILE         : 0001273813_AGO_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+An allowance for credit loss is not established upon initial recognition of an available-for-sale debt security, except for purchased credit deteriorated (PCD) securities. PCD securities are defined as financial assets that, as of the date of acquisition, have experienced a more-than-insignificant deterioration in credit quality since origination, as determined by the Company’s assessment. An initial allowance for credit loss is recognized on the date of acquisition of PCD securities. The amortized cost of PCD securities on the date of acquisition is equal to the purchase price plus the allowance for credit loss, but no credit loss expense is recognized in the statement of operations on the date of acquisition. After the date of acquisition, deterioration (or improvement) in credit will result in an increase (or decrease) to the allowance and an offsetting credit loss expense (or benefit). To measure this, the Company performs a discounted cash flow analysis. For PCD securities that are also beneficial interests, favorable or adverse changes in expected cash flows are recognized as a decrease (or increase) to the allowance for credit losses. Those changes in expected cash flows that are not captured through the allowance are reflected as a prospective adjustment of the security’s yield within net investment income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : EPR (CIK 0001045450) | FY2016
+FILE         : 0001045450_EPR_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+years for furniture, fixtures and equipment. Tenant improvements, including allowances, are depreciated over the shorter of the base term of the lease or the estimated useful life. Expenditures for ordinary maintenance and repairs are charged to operations in the period incurred. Significant renovations and improvements, which improve or extend the useful life of the asset, are capitalized and depreciated over their estimated useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

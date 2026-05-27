@@ -1,0 +1,20 @@
+FIRM         : CRI (CIK 0001060822) | FY2017
+FILE         : 0001060822_CRI_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 30, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software is depreciated or amortized on the straight-line method over its estimated useful lives, from
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

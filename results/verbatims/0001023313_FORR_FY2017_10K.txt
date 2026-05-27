@@ -1,0 +1,24 @@
+FIRM         : FORR (CIK 0001023313) | FY2017
+FILE         : 0001023313_FORR_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment, Computer software, Furniture and fixtures
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated Useful Life Computers and equipment 3 to 10 Years Computer software 3 to 5 Years Furniture and fixtures 7 Years Leasehold improvements Shorter of asset life or lease term
+
+[VERBATIM — Changement de politique]
+The Company evaluates reportable segment performance and allocates resources based on segment revenues and expenses. Segment expenses include the direct expenses of each segment organization and exclude selling and marketing expenses, general and administrative expenses, stock-based compensation expense, depreciation expense, adjustments to incentive bonus compensation from target amounts, amortization of intangible assets, reorganization costs, other income and losses on investments. The accounting policies used by the segments are the same as those used in the consolidated financial statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

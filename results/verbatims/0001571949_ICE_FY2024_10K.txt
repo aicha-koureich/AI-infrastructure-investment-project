@@ -1,0 +1,21 @@
+FIRM         : ICE (CIK 0001571949) | FY2024
+FILE         : 0001571949_ICE_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 8. Property and Equipment
+ASSET CAT.   : network equipment, Equipment, furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+As of December 31, Depreciation Period (Years) 2024 2023 Software and internally developed software $ 2,061 $ 1,834 3 to 7 Computer and network equipment 1,073 1,033 3 to 5 Land 180 180 N/A Buildings and building improvements 436 389 15 to 30 Right-of-use lease assets 295 305 1 to 30 Leasehold improvements 455 372 4 to 15 Equipment, aircraft and office furniture 192 156 4 to 12 Total property and equipment 4,692 4,269 Less accumulated depreciation and amortization (2,539) (2,346) Property and equipment, net $ 2,153 $ 1,923
+
+[VERBATIM — Infrastructure IA]
+We have lease agreements for office space and data center facilities. All of our leases are classified as operating leases, and we do not have any significant leases classified as finance leases.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

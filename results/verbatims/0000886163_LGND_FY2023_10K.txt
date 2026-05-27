@@ -1,0 +1,23 @@
+FIRM         : LGND (CIK 0000886163) | FY2023
+FILE         : 0000886163_LGND_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 9. Balance Sheet Account Details
+ASSET CAT.   : equipment, office equipment, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost and consists of the following (in thousands): December 31, 2023 2022 Lab and office equipment $ 9,264 $ 14,172 Leasehold improvements 12,282 7,446 Computer equipment and software 716 989 22,262 22,607 Less accumulated depreciation and amortization (6,655) (10,125) $ 15,607 $ 12,482
+
+[VERBATIM — Changement de politique]
+For commercial license rights, we account them in accordance with ASC 310, Receivables, and are measured at amortized cost using the prospective effective interest method described in ASC 835-30, Imputation of Interest . If management determines it can reliably estimate future cash flows of the asset, we amortize the asset using the effective interest method whereby we forecast expected cash flows over the term of the arrangement to arrive at an annualized effective interest. If cash flows are not reliably estimable, the asset is accounted for using the non-accrual method.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : POR (CIK 0000784977) | FY2022
+FILE         : 0000784977_POR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Costs to purchase or develop software applications for internal use only are capitalized and amortized over the estimated useful life of the software.
+
+[VERBATIM — Infrastructure IA]
+Industrial energy deliveries increased 10.9% in 2022 due to continued strength in the high-tech manufacturing and digital service sector. Several large customers experienced continued growth in 2022 and new data center facilities came online.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : EGBN (CIK 0001050441) | FY2015
+FILE         : 0001050441_EGBN_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1—Summary of Significant Accounting Policies (Continued)
+ASSET CAT.   : computer software and hardware
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 3.0-5.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Premises and equipment are stated at cost less accumulated depreciation and amortization computed using the straight-line method for
+financial reporting purposes. Premises and equipment are depreciated over the useful lives of the assets, which generally range from five to seven years for furniture, fixtures and equipment, three to
+five years for computer software and hardware, and ten to forty years for buildings and
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

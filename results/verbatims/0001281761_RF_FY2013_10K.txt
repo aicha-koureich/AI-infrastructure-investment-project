@@ -1,0 +1,20 @@
+FIRM         : RF (CIK 0001281761) | FY2013
+FILE         : 0001281761_RF_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 24. PARENT COMPANY ONLY FINANCIAL STATEMENTS
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2013 2012 (In millions) Land $ 520 $ 525 Premises and improvements 1,745 1,727 Furniture and equipment 1,000 1,010 Software 393 303 Leasehold improvements 396 396 Construction in progress 141 175 4,195 4,136 Accumulated depreciation and amortization (1,979 ) (1,857 ) $ 2,216 $ 2,279
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

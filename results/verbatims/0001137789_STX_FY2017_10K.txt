@@ -1,0 +1,26 @@
+FIRM         : STX (CIK 0001137789) | FY2017
+FILE         : 0001137789_STX_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2017
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Hard disk drives are devices that store digitally encoded data on rapidly rotating disks with magnetic surfaces. Disk drives continue to
+be the primary medium of mass data storage due to their performance attributes, high quality and cost effectiveness. Complementing existing data center storage architecture, solid-state storage devices use integrated circuit assemblies as memory to
+store data, and most SSDs use NAND-based flash memory. In addition to HDDs and SSDs, SSHDs combine the features of SSDs and HDDs in the same unit, containing a large hard disk drive and an SSD cache to improve performance of frequently accessed
+data.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+The amount of data created as well as where and how data is stored continues to evolve with the proliferation of mobile
+devices, the growth of cloud computing, and the evolving IoT. In addition, the economics of storage infrastructure are also evolving with the utilization of public and private hyper-scale storage and open-source solutions reducing the total cost of
+ownership of storage while increasing the speed and efficiency with which customers can leverage massive computing and storage devices. Accordingly, we expect these trends will continue to create significant demand for data storage solutions going
+forward.

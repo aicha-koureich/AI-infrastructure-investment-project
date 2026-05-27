@@ -1,0 +1,20 @@
+FIRM         : UNFI (CIK 0001020859) | FY2013
+FILE         : 0001020859_UNFI_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 3, 2013
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 17. SUBSEQUENT EVENTS
+ASSET CAT.   : equipment, Office equipment, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Original Estimated Useful Lives (Years) 2013 2012 (In thousands, except years) Land $ 12,950 $ 13,311 Buildings and improvements 20-40 192,837 160,940 Leasehold improvements 5-20 97,749 85,648 Warehouse equipment 3-30 117,999 104,310 Office equipment 3-10 74,003 68,674 Computer software 3-7 63,333 50,998 Motor vehicles 3-7 4,461 4,562 Construction in progress 23,298 12,072 586,630 500,515 Less accumulated depreciation and amortization 248,036 222,060 Net property and equipment $ 338,594 $ 278,455
+
+[VERBATIM — Infrastructure IA]
+Under the Deferred Stock Plan, which was frozen to new deferrals effective January 1, 2007, each eligible participant could elect to defer between 0% and 100% of restricted stock awards granted during the election calendar year. Effective January 1, 2007, each participant may elect to defer up to 100% of their restricted share unit awards, performance shares and performance units under the Deferred Compensation Plan. Under the Deferred Compensation Plan, each participant may also elect to defer a minimum of $1,000 and a maximum of 90% of base salary and 100% of director fees, employee bonuses and commissions, as applicable, earned by the participants for the calendar year. From January 1, 2009 to July 31, 2010, participants' cash-derived deferrals under the Deferred Compensation Plan earned interest at the 5 -year certificate of deposit annual yield taken from the Wall Street Journal Market Data Center (as captured on the first and last business date of each calendar quarter and averaged) plus 3% credited and compounded quarterly. Beginning August 1, 2010, participants' cash-  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : AES (CIK 0000874761) | FY2014
+FILE         : 0000874761_AES_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 3. PROPERTY, PLANT AND EQUIPMENT
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The following table summarizes the components of the electric generation and distribution assets and other property, plant and equipment with their estimated useful lives.
+
+[VERBATIM — Changement de politique]
+DISCONTINUED OPERATIONS AND RECLASSIFICATIONS —Certain prior period amounts in the consolidated financial statements have been reclassified to conform to the current presentation. Effective July 1, 2014, the Company prospectively adopted Accounting Standards Update ("ASU") No. 2014-08, Presentation of Financial Statements (Topic 205) and Property, Plant, and Equipment (Topic 360) Reporting discontinued Operations and Disclosures of Disposals of Components of an Entity , which significantly changes the existing accounting guidance on discontinued operations. Under ASU No. 2014-08, only those disposals of components of an entity that represent a strategic shift that has (or will have) a major effect on an entity’s operations and financial results will be reported as discontinued operations. Amongst other changes: equity method investments that were previously scoped-out of the discontinued operations accounting guidance are now included in the scope; a business can meet the criteria to be classified as held-for-sale upon acquisition and can be reported in discontinued operations; and components where an entity retains significant continuing involvement or where operations and cash flows will not be eliminated from ongoing operations as a result of a disposal transaction can meet the definition of discontinued operations. Additionally, where summarized amounts are presented on the face of the financial statements, reconciliations of those amounts to major classes of line items are also required. ASU No. 2014-08 requires additional disclosures for individually material components that do not meet the definition of discontinued operations. Under the previous accounting guidance, the UK Wind and Ebute disposals would have met the discontinued operations criteria and would have been reclassified accordingly. See Note 24 — Dispositions for further information.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

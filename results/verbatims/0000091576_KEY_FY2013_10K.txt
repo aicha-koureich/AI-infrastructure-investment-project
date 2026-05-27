@@ -1,0 +1,21 @@
+FIRM         : KEY (CIK 0000091576) | FY2013
+FILE         : 0000091576_KEY_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment, including leasehold improvements, are
+stated at cost less accumulated depreciation and amortization. We determine depreciation of premises and equipment using the straight-line method over the estimated useful lives of the particular assets. Accumulated depreciation and amortization on premises and equipment totaled $1.2 billion at December 31, 2013, and 2012.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : CNA (CIK 0000021175) | FY2014
+FILE         : 0000021175_CNA_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The estimated lives for data processing equipment and software range from
+
+[VERBATIM — Changement de politique]
+Years ended December 31 (In millions) 2014 2013 2012 Cash Flows from Operating Activities Net income $ 691 $ 937 $ 628 Adjustments to reconcile net income to net cash flows provided by operating activities: Loss on sale of subsidiaries 251 — — Deferred income tax expense 3 77 147 Trading portfolio activity 16 (10 ) (23 ) Net realized investment gains (60 ) (31 ) (63 ) Equity method investees 83 (323 ) (89 ) Net amortization of investments 3 (24 ) (55 ) Depreciation and amortization 83 101 125 Changes in: Receivables, net 731 44 49 Accrued investment income — (9 ) 4 Deferred acquisition costs 44 2 (16 ) Insurance reserves (363 ) (68 ) 430 Other assets (48 ) (27 ) 144 Other liabilities (48 ) 525 (49 ) Other, net 54 10 18 Total adjustments 749 267 622 Net cash flows provided by operating activities 1,440 1,204 1,250 Cash Flows from Investing Activities Dispositions: Fixed maturity securities - sales 4,914 6,869 6,123 Fixed maturity securities - maturities, calls and redemptions 3,983 3,271 3,699 Equity securities 31 103 86 Limited partnerships 167 108 165 Mortgage loans 57 22 7 Purchases: Fixed maturity securities (9,365 ) (11,197 ) (10,299 ) Equity securities (67 ) (77 ) (54 ) Limited partnerships (271 ) (223 ) (228 ) Mortgage loans (137 ) (129 ) (174 ) Change in other investments 15 (22 ) 22 Change in short term investments (388 ) 425 (7 ) Purchase of Hardy — — (197 ) Purchases of property and equipment (71 ) (91 ) (94 ) Proceeds from sale of subsidiaries 198 — — Other dispositions — 32 1 Other, net 16 11 16 Net cash flows used by investing activities (918 ) (898 ) (934 )
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

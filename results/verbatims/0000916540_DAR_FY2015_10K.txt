@@ -1,0 +1,20 @@
+FIRM         : DAR (CIK 0000916540) | FY2015
+FILE         : 0000916540_DAR_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 2, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 12. INCOME TAXES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment depreciation
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+, a wholly-owned subsidiary of Darling, Darling AWS LLC, a Delaware limited liability company, acquired all of the shares of Terra Holding Company, a Delaware corporation, and its wholly owned subsidiaries, Terra Renewal Services, Inc., an Arkansas corporation (“TRS”), and EV Acquisition, Inc., an Arkansas corporation (the “Terra Transaction”). The Terra Transaction increased the Company's rendering portfolio by adding to the Company's existing rendering segments grease collection businesses and adds an industrial residuals business as a new line of service for the Company's rendering raw material suppliers within the Feed Ingredients segment. ||| Netherlands and wholly-owned indirect subsidiary of Darling and each of Darling, Griffin, Craig Protein, Darling AWS LLC, Terra Holding Company, Darling Global Holdings Inc., Darling National, Darling Northstar LLC, TRS, EV Acquisition, Inc., Rousselot Inc., Rousselot Dubuque Inc., Rousselot Peabody Inc. and Sonac USA LLC (together, the “Initial 4.75% Guarantors”) entered into a Purchase Agreement (the “4.75% Purchase Agreement”) with Goldman Sachs International (“Goldman Sachs”) and J.P. Morgan Securities plc (“J.P. Morgan”), for themselves and on behalf of the other several initial purchasers named therein (together with Goldman Sachs and J.P. Morgan, the “4.75% Initial Purchasers"), for the sale by the Note Issuer, and the purchase by the 4.75% Initial Purchasers, severally, of € ||| directly or indirectly owned subsidiary of Darling and which constitute all of Darling's existing restricted subsidiaries that are Credit Agreement Guarantors (other than Darling's foreign subsidiaries, Darling Global Finance B.V., which issued the 4.75% Notes and is discussed further below, or any receivables entity): Darling National, Griffin and its subsidiary Craig Protein, Darling AWS LLC, Terra Holding Company, Darling Global Holdings Inc., Darling Northstar LLC, TRS, EV Acquisition, Inc., Rousselot Inc., Rousselot Dubuque Inc., Sonac USA LLC and Rousselot Peabody Inc. In addition, the 4.75% Notes, which were issued by Darling Global Finance B.V., a wholly-owned indirect subsidiary of Darling, are guaranteed on a senior unsecured basis by Darling. The Notes Guarantors, and Darling in the case of the 4.75% Notes, fully and unconditionally guaranteed the 5.375% Notes and 4.75% Notes on a joint and several basis. The following financial statements present condensed consolidating financial data for (i) Darling, (ii) the combined Notes Guarantors, (iii) the combined other subsidiaries of the Company that did not guarantee the 5.375% Notes or the 4.75% Notes (the "Non-guarantors"), and (iv) eliminations necessary to arrive at the Company's consolidated financial statements, which include condensed consolidated balance sheets as of

@@ -1,0 +1,20 @@
+FIRM         : AXTI (CIK 0001051627) | FY2019
+FILE         : 0001051627_AXTI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+In 2014, our revenue from InP began to grow and, in 2014 and 2015, the InP annual growth rate exceeded 50% year on year. This mitigated the reduction in revenue from gallium arsenide and enabled us to return to annual growth in 2016. During this period, we believe our GaAs wafer business stabilized and our manufacturing yields improved. Our outlook for GaAs wafer substrates today is positive, as it is for InP and Ge substrates. The underlying end markets needing our wafer substrates are growing. For example, InP wafer substrates are used for silicon photonics/data centers, passive optical networks and, more recently, 5G. GaAs wafer substrates are used in LED lighting, industrial lasers and cell phones. We are continuing to improve our six-inch low defect density or low EPD GaAs substrates that are required for 3D-sensing using VCSELs. We believe the relocation of our GaAs manufacturing line will enable us to add capacity quickly for GaAs and InP in the future if market demands so require.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

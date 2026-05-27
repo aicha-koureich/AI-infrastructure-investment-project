@@ -1,0 +1,20 @@
+FIRM         : NWN (CIK 0001733998) | FY2021
+FILE         : 0001733998_NWN_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 12. PROPERTY, PLANT, AND EQUIPMENT
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The following table sets forth the major classifications of property, plant, and equipment and accumulated depreciation of continuing operations at December 31:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

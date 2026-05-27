@@ -1,0 +1,27 @@
+FIRM         : ADTN (CIK 0000926282) | FY2015
+FILE         : 0000926282_ADTN_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Nature of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, machinery and equipment, computer software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 3.0-5.0 ans | 3.0-7.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment, which is stated at cost, is depreciated using the straight-line method over the estimated useful lives of the assets. We
+depreciate building and land improvements from five to 39 years, office machinery and equipment from three to seven years, engineering machinery and equipment from three to seven years, and computer software from three to five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued Accounting Standards Update No. 2015-05, Intangibles – Goodwill and Other – Internal-Use Software (Subtopic
+350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement (ASU 2015-05), which provides guidance on accounting for fees paid by a customer in a cloud computing arrangement. If a cloud computing arrangement includes a
+software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer
+should account for the arrangement as a service contract. ASU 2015-05 is effective for annual reporting periods beginning after December 15, 2015, including interim periods within those years. Early adoption is permitted. The guidance may be
+applied either prospectively to all arrangements entered into or materially modified after the effective date or retrospectively. We do not believe the adoption of ASU 2015-05 will have a material impact on our financial position, results of
+operations and cash flows.

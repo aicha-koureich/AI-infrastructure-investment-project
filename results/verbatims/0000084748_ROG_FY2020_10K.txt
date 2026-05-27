@@ -1,0 +1,21 @@
+FIRM         : ROG (CIK 0000084748) | FY2020
+FILE         : 0000084748_ROG_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-18
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Basis of Presentation, Organization and Summary of Significant Accounting Policies
+ASSET CAT.   : computer software, capitalized software, equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+We amortize capitalized internal use software costs using the straight-line method over the estimated useful lives of the software, generally from three to five years. Capitalized software is included within “Property, plant and equipment, net of accumulated depreciation” in the consolidated statements of financial position.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

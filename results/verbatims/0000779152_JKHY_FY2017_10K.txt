@@ -1,0 +1,20 @@
+FIRM         : JKHY (CIK 0000779152) | FY2017
+FILE         : 0000779152_JKHY_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 14: SUBSEQUENT EVENTS
+ASSET CAT.   : EQUIPMENT, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+AND SUBSIDIARIES CONSOLIDATED BALANCE SHEETS (In Thousands, Except Share and Per Share Data) June 30, 2017 June 30, 2016 ASSETS CURRENT ASSETS: Cash and cash equivalents $ 114,765 $ 70,310 Receivables, net 276,923 253,923 Income tax receivable 20,135 15,636 Prepaid expenses and other 66,894 56,588 Deferred costs 41,314 35,472 Total current assets 520,031 431,929 PROPERTY AND EQUIPMENT, net 282,934 298,564 OTHER ASSETS: Non-current deferred costs 96,847 99,799 Computer software, net of amortization 247,317 222,115 Other non-current assets 82,525 70,461 Customer relationships, net of amortization 90,433 104,085 Other intangible assets, net of amortization 36,393 35,706 Goodwill 552,465 552,853 Total other assets 1,105,980 1,085,019 Total assets $ 1,908,945 $ 1,815,512 LIABILITIES AND STOCKHOLDERS' EQUITY CURRENT LIABILITIES: Accounts payable $ 6,841 $ 14,596 Accrued expenses 81,574 85,411 Notes payable and current maturities of long-term debt — 200 Deferred revenues 382,777 343,525 Total current liabilities 471,192 443,732 LONG-TERM LIABILITIES: Non-current deferred revenues 128,607 177,529 Non-current deferred income tax liability 219,541 188,601 Debt, net of current maturities 50,000 — Other long-term liabilities 7,554 9,440 Total long-term liabilities 405,702 375,570 Total liabilities 876,894 819,302 STOCKHOLDERS' EQUITY Preferred stock - $1 par value; 500,000 shares authorized, none issued — — Common stock - $0.01 par value; 250,000,000 shares authorized; 103,083,299 shares issued at June 30, 2017; 102,903,971 shares issued at June 30, 2016 1,031 1,029 Additional paid-in capital 452,016 440,123 Retained earnings 1,585,278 1,431,192 Less treasury stock at cost 25,660,212 shares at June 30, 2017; 24,208,517 shares at June 30, 2016 (1,006,274 ) (876,134 ) Total stockholders' equity 1,032,051 996,210 Total liabilities and equity $ 1,908,945 $ 1,815,512
+
+[VERBATIM — Infrastructure IA]
+, we sold the TeleWeb™ suite of Internet and mobile banking software products to Data Center Inc. (DCI), resulting in a gain of  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

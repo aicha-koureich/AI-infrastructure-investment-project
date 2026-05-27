@@ -1,0 +1,20 @@
+FIRM         : TRIP (CIK 0001526520) | FY2022
+FILE         : 0001526520_TRIP_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-03-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue consists of expenses that are directly related or closely correlated to revenue generation, including direct costs, such as credit card and other booking transaction payment fees, data center costs, costs associated with prepaid tour tickets, ad serving fees, flight search fees, and other transaction costs. In addition, cost of revenue includes personnel and overhead expenses, including salaries, benefits, stock-based compensation and bonuses for certain customer support personnel who are directly involved in revenue generation.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

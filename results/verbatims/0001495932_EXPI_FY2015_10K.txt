@@ -1,0 +1,34 @@
+FIRM         : EXPI (CIK 0001495932) | FY2015
+FILE         : 0001495932_EXPI_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Maintenance and repairs are expensed as incurred. Expenditures
+that substantially increase an asset’s useful life or improve an asset’s functionality are capitalized.
+
+[VERBATIM — Infrastructure IA]
+The proliferation of Cloud computing, digital and social
+media marketing; and mobile technologies has facilitated global reach, global connectivity and accessibility to cloud infrastructure
+from any location and at any time. Successful development of a Company platform infrastructure will yield us opportunity to scale
+the breadth and depth of our real estate brokerage operations without experiencing limitations on functionality specific to our
+organization. Moreover, successful platform development could potentially lead to opportunities for marketability and revenues
+from sources beyond the Company’s real estate agent and broker population.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+The proliferation of Cloud computing, digital and social
+media marketing; and mobile technologies has facilitated global reach, global connectivity and accessibility to cloud infrastructure
+from any location and at any time. Successful development of a Company platform infrastructure will yield us opportunity to scale
+the breadth and depth of our real estate brokerage operations without experiencing limitations on functionality specific to our
+organization. Moreover, successful platform development could potentially lead to opportunities for marketability and revenues
+from sources beyond the Company’s real estate agent and broker population.

@@ -1,0 +1,20 @@
+FIRM         : ABNB (CIK 0001559720) | FY2021
+FILE         : 0001559720_ABNB_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies Basis of Presentation
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200;Hopper (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are classified as property and equipment, net on the consolidated balance sheets and are amortized using the straight-line method over the estimated useful life of the applicable software.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue primarily consists of payment processing charges, including merchant fees and chargebacks, costs associated with third-party data centers used to host the Company’s platform, and amortization of internally developed software and acquired technology.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

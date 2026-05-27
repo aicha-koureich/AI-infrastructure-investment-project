@@ -1,0 +1,21 @@
+FIRM         : PI (CIK 0001114995) | FY2023
+FILE         : 0001114995_PI_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-07
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies Basis of Presentation and Principles of Consolidation The accompanying consolidated financial state
+ASSET CAT.   : Equipment, Machinery and equipment, Computer equipment, Furniture and fixtures
+DURÉE        : 1.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-10.0 ans | 3.0-5.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and Equipment We record property and equipment at cost and depreciate it using the straight-line method over the estimated useful lives of the related assets. The useful lives are as follows: Category Useful Life Machinery and equipment 1 to 10 years Computer equipment and software 3 to 5 years Furniture and fixtures 3 to 7 years Equipment acquired under finance leases 3 to 7 years Leasehold improvements Shorter of remaining lease term or expected useful life
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We and our partner ecosystem build item-visibility solutions using products that we design and either sell or license, including silicon RAIN radios; manufacturing, test, encoding and reading systems; and software and cloud services. Our platform comprises our products and supporting partner ecosystem. Our products include endpoint ICs that store a serialized number to wirelessly identify an item; reader ICs that our partners use in finished readers to wirelessly discover, inventory and engage endpoint ICs; manufacturing, test and encoding systems that enable partner products and facilitate enterprise deployments; finished readers and gateways for autonomous reading solutions; and software and cloud services for solutions enablement. We sell our products, either individually or as a whole platform offering, primarily with or through our partner ecosystem.

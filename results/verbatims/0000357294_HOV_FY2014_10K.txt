@@ -1,0 +1,21 @@
+FIRM         : HOV (CIK 0000357294) | FY2014
+FILE         : 0000357294_HOV_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : OCTOBER 31, 2014
+STATUS       : ITEM8_NOT_FOUND | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : Item 8 non trouvé (NO_ITEM8_FOUND).
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : WOR (CIK 0000108516) | FY2024
+FILE         : 0000108516_WOR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-06-03
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+SG&A - SG&A includes selling, marketing, customer service, product management and other administrative expenses not directly supporting the manufacturing process, as well as depreciation expense associated with non-manufacturing assets. In addition, SG&A includes corporate operating expenses for executive management, accounting, tax, treasury, corporate development, human resources, information technology, investor relations, legal, internal audit and risk management.
+
+[VERBATIM — Infrastructure IA]
+Non-residential Construction : Non-residential construction spending has shown consistent year-over-year growth. However, the near-term outlook is mixed due to a rise in on-hold projects and delayed bids. Commercial real estate remains generally weak, with notable softness for office buildings, partially offset by strong demand for data centers and manufacturing facilities. The ABI continued to decline through May 2024, signaling slowing growth in the months ahead. The higher cost of capital has made it difficult for buyers and sellers to agree on terms and the shift to hybrid work has created additional headwinds for offices, especially central business district properties in major markets. Despite these challenges, the fundamentals in this sector remain strong and are expected to improve if the Federal Reserve reduces interest rates in the second half of 2024.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

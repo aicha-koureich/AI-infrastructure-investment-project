@@ -1,0 +1,31 @@
+FIRM         : ORCL (CIK 0001341439) | FY2017
+FILE         : 0001341439_ORCL_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : May 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+cloud services revenues, which includes revenues from Oracle Cloud Software-as-a-Service (SaaS), Platform-as-a-Service (PaaS) and Infrastructure-as-a-Service (IaaS) offerings (collectively, Oracle Cloud Services), which deliver applications, platform and
+infrastructure technologies, respectively, via cloud-based deployment models that we develop functionality for, host, manage and support and that customers access by entering into a subscription agreement with us for a stated period. Our IaaS
+offerings also include Oracle Managed Cloud Services, which are designed to provide comprehensive software and hardware management, maintenance and security services for customer cloud-based, hybrid IT or other IT infrastructure for a fee for a
+stated term. The majority of our Oracle Cloud Services arrangements have durations of 12 to 36 months and are generally recognized as revenues ratably over the contractual period of the contract or, in the case of usage model contracts, as the cloud
+services are consumed. We strive to renew these cloud services contracts when they are eligible for renewal. ||| Cloud license and on-premise license revenues include revenues
+from the licensing of our software products including Oracle Applications, Oracle Database, Oracle Fusion Middleware and Java, among others which our customers use for cloud-based, on-premise and other IT
+environments. Our cloud license and on-premise license transactions are generally perpetual in nature and are generally recognized when unrestricted access to the license is granted to the customer provided
+all other revenue recognition criteria are met. The timing of a few large license transactions can substantially affect our quarterly license revenues, which is different than the typical revenue recognition pattern for our cloud services and
+license support revenues in which revenues are generally recognized ratably over the contractual periods. Cloud license and on-premise license customers have the option to purchase license support contracts,
+as described above. ||| Providing choice and flexibility to our customers as to when and how they deploy our applications, platform and infrastructure
+technologies is an important element of our corporate strategy. In recent periods, customer demand has increased for our Oracle Cloud Services. To address customer demand and enable customer choice, we have introduced certain programs for customers
+to pivot their applications, platform and infrastructure licenses and license support to the Oracle Cloud for new deployments and to migrate to and expand with the Oracle Cloud for their existing workloads. We expect these trends to continue.

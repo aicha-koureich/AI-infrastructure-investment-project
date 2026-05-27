@@ -1,0 +1,20 @@
+FIRM         : ABM (CIK 0000771497) | FY2020
+FILE         : 0000771497_ABM_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-10-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 8. PROPERTY, PLANT AND EQUIPMENT
+ASSET CAT.   : Machinery, equipment, Computer equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of October 31, (in millions) 2020 2019 Machinery and other equipment $ 137.0 $ 118.8 Computer equipment and software 101.2 91.7 Transportation equipment 57.7 57.4 Leasehold improvements 57.1 59.5 Furniture and fixtures 13.7 13.1 Buildings 7.6 8.2 Land 0.7 1.0 375.0 349.8 Less: Accumulated depreciation (1) 241.3 199.5 Total $ 133.7 $ 150.3
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

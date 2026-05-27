@@ -1,0 +1,20 @@
+FIRM         : SPGI (CIK 0000064040) | FY2019
+FILE         : 0000064040_SPGI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-01-29
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 1. Accounting Policies
+ASSET CAT.   : Capitalized software, technology
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized costs are amortized from the year the software is ready for its intended use over its estimated useful life, three to seven years, using the straight-line method. Capitalized software development and website implementation costs are included in other non-current assets and are presented net of accumulated amortization.
+
+[VERBATIM — Infrastructure IA]
+Operating profit increased 15% , with a 2 percentage point unfavorable impact from foreign exchange rates. Excluding the impact of higher legal settlement expenses in 2018 of 5 percentage points, operating profit increased 10%. This increase was primarily due to the increase in revenue discussed above combined with a reduction in legal expenses, lower professional fees from increased leverage on the Global Technology Center and internal resources, partially offset by an increase in incentive costs and AWS cloud infrastructure spend.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Operating profit increased 15% , with a 2 percentage point unfavorable impact from foreign exchange rates. Excluding the impact of higher legal settlement expenses in 2018 of 5 percentage points, operating profit increased 10%. This increase was primarily due to the increase in revenue discussed above combined with a reduction in legal expenses, lower professional fees from increased leverage on the Global Technology Center and internal resources, partially offset by an increase in incentive costs and AWS cloud infrastructure spend. ||| , with a 2 percentage point unfavorable impact from foreign exchange rates. Excluding the impact of higher legal settlement expenses in 2018 of 5 percentage points, operating profit increased 10%. This increase was primarily due to the increase in revenue discussed above combined with a reduction in legal expenses, lower professional fees from increased leverage on the Global Technology Center and internal resources, partially offset by an increase in incentive costs and AWS cloud infrastructure spend.

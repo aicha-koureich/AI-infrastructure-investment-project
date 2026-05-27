@@ -1,0 +1,20 @@
+FIRM         : IRM (CIK 0001020569) | FY2019
+FILE         : 0001020569_IRM_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Data Center Lease-Based Intangible Assets Amortization(3)  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Purchase commitments include obligations for future construction costs associated with the expansion of our Global Data Center Business, which represent a significant amount of the purchase commitments due in less than one year. ||| During the fourth quarter of 2019, as a result of the realignment of our global managerial structure and changes to our internal financial reporting associated with Project Summit, we reassessed the composition of our reportable operating segments and reporting units. As a result of the managerial structure changes associated with Project Summit, we now have the following reportable operating segments: (i) Global RIM Business (which consists of the former North American Records and Information Management Business (excluding our technology escrow services business, which is now included as a component of our Corporate and Other Business segment), North American Data Management Business, Western European Business and Other International Business); (ii) Global Data Center Business; and (iii) Corporate and Other Business (which includes our Adjacent Businesses and our technology escrow services business). As a result of these changes, previously reported segment information has been restated to conform to the current presentation. ||| Storage rental and service revenues are recognized in the month the respective storage rental or service is provided, and customers are generally billed on a monthly basis on contractually agreed-upon terms. Amounts related to future storage rental or prepaid service contracts for customers where storage rental fees or services are billed in advance are accounted for as deferred revenue and recognized ratably over the period the applicable storage rental or service is provided or performed. Revenues from the sales of products, which are included as a component of service revenues, are recognized when products are shipped and title has passed to the customer. Revenues from the sales of products, which represented less than 2% of consolidated revenues for the year ended December 31, 2019 , have historically not been significant. The performance obligation is a series of distinct services (as determined for purposes of ASU 2014-09, a “series”) that have the same pattern of transfer to the customer that is satisfied over time. For those contracts that qualify as a series, we have a right to consideration from the customer in an amount that corresponds directly with the value of the underlying performance obligation transferred to the customer to date. This concept is known as "right to invoice" and we are applying the "right to invoice" practical expedient to all revenues, with the exception of storage revenues in our Global Data Center Business.

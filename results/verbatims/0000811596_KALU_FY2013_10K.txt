@@ -1,0 +1,23 @@
+FIRM         : KALU (CIK 0000811596) | FY2013
+FILE         : 0000811596_KALU_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 9
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment held for future development are presented as idled assets. Such assets are evaluated for impairment on a held-and-used basis. Depreciation expense is not adjusted when assets are temporarily idled.
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment held for future development are presented as idled assets. Such assets are evaluated for impairment on a held-and-used basis. Depreciation expense is not adjusted when assets are temporarily idled.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

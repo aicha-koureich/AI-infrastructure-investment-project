@@ -1,0 +1,20 @@
+FIRM         : BKH (CIK 0001130464) | FY2020
+FILE         : 0001130464_BKH_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 11
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The cost of regulated utility property, plant and equipment retired, or otherwise disposed of in the ordinary course of business, less salvage plus retirement costs, is charged to accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract, ASU 2018-15 ||| In August 2018, the FASB issued ASU 2018-15, Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract , which aligns the requirements for recording implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. As a result, certain categories of implementation costs that previously would have been charged to expense as incurred are now capitalized as prepayments and amortized over the term of the arrangement. We adopted this standard prospectively on January 1, 2020. Adoption of this guidance did not have a material impact on our financial position, results of operations or cash flows. ||| Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

@@ -1,0 +1,24 @@
+FIRM         : GSHD (CIK 0001726978) | FY2020
+FILE         : 0001726978_GSHD_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 18. Selected quarterly financial data (unaudited)
+ASSET CAT.   : computer equipment
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation of property and equipment is calculated using the straight-line method over the estimated useful life of five years for furniture, fixtures and equipment and three years for computer equipment.
+
+[VERBATIM — Changement de politique]
+interest, income taxes, depreciation and amortization, adjusted to exclude equity-based compensation and other non-operating items, including, among other things, certain non-cash charges and certain non-recurring or non-operating gains or losses (“Adjusted EBITDA”) as a performance measure to manage resources and make decisions about the business. Summarized financial information concerning the Company’s reportable segments is shown in the following tables (in thousands). There are no intersegment sales, only interest income and interest expense related to an intersegment line of credit, all of which eliminate in consolidation. The “Other” column includes any income and expenses not allocated to reportable segments and corporate-related items, including equity-based compensation, certain legal expenses and interest related to the note payable.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

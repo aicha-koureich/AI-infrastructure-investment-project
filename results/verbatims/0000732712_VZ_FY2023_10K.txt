@@ -1,0 +1,20 @@
+FIRM         : VZ (CIK 0000732712) | FY2023
+FILE         : 0000732712_VZ_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+• Climate-Related Regulation and Policy – Due to the nature of our operations, we have been, and expect to continue to be impacted by regulatory developments related to climate change, including, for example, the direct regulation of greenhouse gas emissions or carbon policies that could result in a tax on such emissions. In addition, policy-driven changes in the prices of fuel or energy in geographies in which we operate could make it more expensive for us to purchase energy to power our networks and data centers, and any increase in taxes on fuel could increase our costs associated with operating those vehicles in our fleet that are dependent on traditional fuels.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+The wireless network technology platform that carries about half of our wireless traffic is 4G LTE. As of December 31, 2023, our 4G LTE network covers approximately 330 million people, excluding those in areas served by our LTE in Rural America partners. Under this program, we have collaborated with wireless carriers in rural areas to build and operate a 4G LTE network using each carrier’s network assets with our core 4G LTE equipment and 700 Megahertz (MHz) C Block and Advanced Wireless Services (AWS) spectrum. LTE Home Internet, our home broadband internet service leverages the Verizon 4G LTE network. ||| The spectrum licenses we hold can be used for mobile and fixed wireless voice, video and data communications services. We are licensed by the Federal Communications Commission (FCC) to provide these wireless services on the following low and mid-band spectrum in areas that collectively cover nearly all of the population of the U.S.: (i) the 700 MHz Upper C block, (ii) Cellular spectrum (850 MHz), (iii) Personal Communication Services (PCS) spectrum (1900 MHz), (iv) AWS 1 and AWS 3 bands (1700 MHz uplink and 2100 MHz downlink), and (v) the 3.7 GHz band ("C-Band"). We also hold spectrum licenses in the 28, Upper 37 and 39 GHz bands, known as millimeter wave spectrum, and utilize both Priority Access Licenses (PALs) and General Authorized Access (GAA) in the 3.5 GHz band (Citizens Broadband Radio Service). ||| In the Enterprise and Public Sector markets, competition levels remain high, primarily as a result of increased industry focus on technology convergence. We compete in this area with system integrators, carriers, and hardware and software providers. In addition, some of the largest information technology services companies are making strategic acquisitions, divesting non-strategic assets and forging new alliances to improve their cost structure. Many new alliances and acquisitions have focused on emerging fields, such as cloud computing, software defined networking, communication applications and other computing tasks via networks, rather than by the use of in-house machines.

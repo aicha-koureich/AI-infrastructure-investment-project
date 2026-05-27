@@ -1,0 +1,23 @@
+FIRM         : BRO (CIK 0000079282) | FY2021
+FILE         : 0000079282_BRO_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-20
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 7 Fi xed Assets Fixed assets at December 31 consisted of the following: (in thousands) 2021 2020 Furniture, fixtures, equipment and software $ 25
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+NOTE 7 Fi xed Assets Fixed assets at December 31 consisted of the following: (in thousands) 2021 2020 Furniture, fixtures, equipment and software $ 259,081 $ 259,524 Leasehold improvements 52,142 42,261 Construction in progress — 81,736 Land, buildings and improvements 97,200 8,428 Total cost 408,423 391,949 Less accumulated depreciation and amortization ( 196,390 ) ( 190,834 ) Total $ 212,033 $ 201,115 Depreciation expense for fixed assets amounted to $ 33.3 million in 2021, $ 26.3 million in 2020 and $ 23.4 million in 2019.
+
+[VERBATIM — Changement de politique]
+The excess of the purchase price of an acquisition over the fair value of the identifiable tangible and amortizable intangible assets is assigned to goodwill. While goodwill is not amortizable, it is subject to assessment at least annually, and more frequently in the presence of certain circumstances, for impairment by application of a fair value-based test. The Company compares the fair value of each reporting unit with its carrying amount to determine if there is potential impairment of goodwill. The Company may elect to first perform a qualitative assessment to determine whether it is more likely than not that a reporting unit is impaired. If the Company does not perform a qualitative assessment, or if it is determined that it is more likely than not that the fair value of a reporting unit exceeds its carrying amount, the Company will calculate the fair value of the reporting unit. If the fair value of the reporting unit is less than its carrying value, an impairment loss is recorded to the extent that the fair value of the goodwill within the reporting unit is less than its carrying value. Fair value is estimated based upon multiples of earnings before interest, income taxes, depreciation, amortization and change in estimated acquisition earn-out payables (“EBITDAC”), or on a discounted cash flow basis. The Company completed its most recent annual assessment as of November 30, 2021 and determined that the fair value of goodwill significantly exceeded the carrying value of such assets. In addition, as of December 31, 2021 , there are no accumulated impairment losses.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, “Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract,” which provides guidance for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). ASU 2018-15 became effective for public companies for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019. The Company adopted ASU 2018-15 effective January 1, 2020 . The impact of adoption of this standard on our consolidated financial statements, including accounting policies, processes and systems, was no t material.

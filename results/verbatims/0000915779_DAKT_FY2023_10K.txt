@@ -1,0 +1,20 @@
+FIRM         : DAKT (CIK 0000915779) | FY2023
+FILE         : 0000915779_DAKT_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : April 27, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5
+ASSET CAT.   : Machinery and equipment, furniture, equipment, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+April 27, 2024 April 29, 2023 Land $ 2,895 $ 1,996 Buildings 71,670 71,222 Machinery and equipment 131,983 126,164 Office furniture and equipment 3,765 4,112 Computer software and hardware 46,135 44,700 Construction in Process 5,064 2,805 Demonstration equipment 7,094 7,432 Transportation equipment 7,667 7,057 276,273 265,488 Less accumulated depreciation 204,521 193,341 $ 71,752 $ 72,147
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : OSG (CIK 0000874501) | FY2018
+FILE         : 0000874501_OSG_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2.	BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of furniture and fixtures and electronic data processing equipment is charged over the estimated useful lives of the respective assets, ranging from
+
+[VERBATIM — Infrastructure IA]
+made through September 2019 will result in the periodic reduction of junior surplus notes that were previously issued to the landlord, beginning in January 2016. Ambac leases additional space for its data center, disaster recovery site and for its international location under lease agreements that expire periodically through October 2020. An estimate of future net minimum lease payments in each of the next five years ending December 31, and the periods thereafter, is as follows:  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Intangibles—Goodwill and Other— Internal-Use Software (Subtopic 350-40) - Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. ||| The new guidance requires a customer in a cloud computing arrangement that is a service contract to capitalize certain implementation costs as if the arrangement was an internal-use software project. The internal-use software guidance requires the capitalization of certain costs incurred only during the application development stage (e.g., costs of integration with on-premises software, coding, configuration, customization). That guidance also requires entities to expense costs during the preliminary project and post-implementation stages (e.g., costs of project planning, training, maintenance after implementation, data conversion) as they are incurred. ASU 2018-15 is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019, with early adoption permitted. The ASU may be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. Ambac will adopt this ASU on January 1, 2020. The ASU is not expected to have a consequential impact on Ambac's financial statements. ||| Cloud Computing Arrangement Service Contracts

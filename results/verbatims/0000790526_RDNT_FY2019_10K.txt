@@ -1,0 +1,20 @@
+FIRM         : RDNT (CIK 0000790526) | FY2019
+FILE         : 0000790526_RDNT_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15 (“ASU 2018-15”), Intangibles-Goodwill and Other-Internal-Use Software. ASU 2018-15 aligns the requirements for deferring implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. This ASU is effective in the first quarter of 2020 with early adoption permitted and can be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. We are currently assessing the impact of the adoption of this ASU on our results of operations, financial position and cash flows. ||| ASU 2018-15 aligns the requirements for deferring implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. This ASU is effective in the first quarter of 2020 with early adoption permitted and can be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. We are currently assessing the impact of the adoption of this ASU on our results of operations, financial position and cash flows.

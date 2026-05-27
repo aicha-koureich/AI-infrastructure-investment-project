@@ -1,0 +1,23 @@
+FIRM         : RUN (CIK 0001469367) | FY2015
+FILE         : 0001469367_RUN_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, furniture, computer hardware, machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+All property and equipment are stated at historical cost net of accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+of the Company’s Customer Agreements. The Company has de termined that it is more likely that the customer will elect to purchase the solar energy system at the end of the initial lease period rather than renew their customer agreement, due to the cost of purchasing the solar energy system being significantly lo wer than it was at the initiation of the customer agreement, in order to reduce electricity costs, as well as increase the value and marketing attributes of their home. If a customer elects to renew their lease at the end of the initial lease term, the res idual value will be depreciated over a revised estimated remaining useful life to the Company. The Company periodically reviews its estimates of residual value and its estimated useful life and recognizes changes in estimates by prospectively adjusting dep reciation expense. Inverters are depreciated over their estimated useful life of 10 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

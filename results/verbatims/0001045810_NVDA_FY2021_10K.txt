@@ -1,0 +1,20 @@
+FIRM         : NVDA (CIK 0001045810) | FY2021
+FILE         : 0001045810_NVDA_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-05-01
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : DGX;HGX;NVIDIA (3 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+NVIDIA pioneered accelerated computing to help solve the most challenging computational problems. Since our original focus on PC graphics, we have expanded to several other large and important computationally intensive fields. Fueled by the sustained demand for exceptional 3D graphics and the scale of the gaming market, NVIDIA has leveraged its GPU architecture to create platforms for scientific computing, AI, data science, AV, robotics, AR and VR.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Data Center revenue was up 58% from a year ago primarily driven by sales of NVIDIA Ampere architecture GPUs across both training and inference for cloud computing and AI workloads such as natural language processing and deep recommender models. ||| We derive our revenue from product sales, including hardware and systems, license and development arrangements, software licensing, and cloud services. We determine revenue recognition through the following steps: (1) identification of the contract with a customer; (2) identification of the performance obligations in the contract; (3) determination of the transaction price; (4) allocation of the transaction price to the performance obligations in the contract (where revenue is ||| Compute & Networking - Compute & Networking segment revenue increased by 61% in fiscal year 2022 compared to fiscal year 2021, driven primarily by sales of NVIDIA Ampere architecture products to hyperscale customers for cloud computing and workloads such as natural language processing and deep recommender models, as well as to vertical industries. The increase compared to fiscal year 2021 also reflects the strong sales of networking products and that fiscal year 2022 includes a full year of networking revenue as Mellanox was acquired in April 2020. CMP contributed $550 million in fiscal year 2022 compared to an insignificant amount in the prior year.

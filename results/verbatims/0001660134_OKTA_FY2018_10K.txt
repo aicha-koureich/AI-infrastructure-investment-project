@@ -1,0 +1,20 @@
+FIRM         : OKTA (CIK 0001660134) | FY2018
+FILE         : 0001660134_OKTA_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment, net, is stated at cost less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+In order to reduce the risk of downtime of the Company’s subscription services, the Company utilizes data center facilities operated by third parties located in Virginia, Oregon, Germany and Ireland. The Company has internal procedures to restore services in the event of disaster at any of its current data center facilities. Even with these procedures for disaster recovery in place, the Company’s subscription services could be significantly interrupted during the time period following a disaster at one of its sites and the subsequent restoration of services at another site.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (ASU 2018-15), which requires a customer in a cloud computing arrangement that is a service contract to follow the internal-use software guidance in Accounting Standards Codification 350-40 to determine which implementation costs to defer and recognize as an asset. This guidance is effective for the Company on February 1, 2020 with early adoption permitted. The Company is currently evaluating the impact of the adoption of this standard on its consolidated financial statements.

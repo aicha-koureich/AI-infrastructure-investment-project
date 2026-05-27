@@ -1,0 +1,21 @@
+FIRM         : IOSP (CIK 0001054905) | FY2023
+FILE         : 0001054905_IOSP_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 1. Nature of Operations Innospec develops, manufactures, blends, markets and supplies a wide range of specialty chemicals to markets in the Ameri
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 5.0-10.0 ans | 9.0-10.0 ans | 10.0-15.0 ans | 11.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost less accumulated depreciation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

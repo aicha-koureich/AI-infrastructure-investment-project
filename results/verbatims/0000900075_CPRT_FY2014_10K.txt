@@ -1,0 +1,23 @@
+FIRM         : CPRT (CIK 0000900075) | FY2014
+FILE         : 0000900075_CPRT_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : July 31, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Included in yard operations cost was
+depreciation and amortization expenses, which were $36.2 million, $40.8 million, and $33.0 million for fiscal 2014, 2013, and 2012 respectively. The
+decrease in yard operation depreciation and amortization expense in fiscal 2014 was due primarily to our data center assets being
+fully  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

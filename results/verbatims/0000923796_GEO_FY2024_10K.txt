@@ -1,0 +1,23 @@
+FIRM         : GEO (CIK 0000923796) | FY2024
+FILE         : 0000923796_GEO_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2027-04-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Business Organization, Operations and Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Internal-Use Software Costs incurred to develop software for internal use are capitalized and amortized over the estimated useful lives of the software.
+
+[VERBATIM — Changement de politique]
+The Company performs ongoing evaluations of the estimated useful lives of the property and equipment for depreciation purposes.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

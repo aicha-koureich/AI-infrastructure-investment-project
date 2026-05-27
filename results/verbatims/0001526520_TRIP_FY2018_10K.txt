@@ -1,0 +1,23 @@
+FIRM         : TRIP (CIK 0001526520) | FY2018
+FILE         : 0001526520_TRIP_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We record property and equipment at cost, net of accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+Intangible assets with estimable useful lives, or definite-lived intangibles, are carried at cost and are amortized on a straight-line basis over their estimated useful lives and reviewed for impairment upon certain triggering events. We routinely review the remaining estimated useful lives of definite-lived intangible assets. If we reduce the estimated useful life assumption, the remaining unamortized balance is amortized over the revised estimated useful life.
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue consists of expenses that are directly related or closely correlated to revenue generation, including direct costs, such as credit card and other booking transaction payment fees, data center costs, costs associated with prepaid tour tickets, ad serving fees, flight search fees, and other transaction costs. In addition, cost of revenue includes personnel and overhead expenses, including salaries, benefits, stock-based compensation and bonuses for certain customer support personnel who are directly involved in revenue generation.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the Financial Accounting Standards Board (“FASB”) issued new accounting guidance which require a customer in a cloud computing arrangement (i.e., hosting arrangement) that is a service contract to follow the internal-use software guidance to determine which implementation costs to capitalize as assets or expense as incurred. The accounting for the cost of the hosting component of the arrangement (i.e., service costs the customer pays for the cloud computing service) is not affected by this new guidance. This guidance is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019, with early adoption permitted, including adoption in any interim period. Entities have the option to apply the guidance retrospectively or prospectively to all implementation costs incurred after the date of adoption. We are currently considering our timing of adoption and the transition application method. We are also in the process of evaluating the impact of adopting this guidance on our consolidated financial statements and related disclosures.

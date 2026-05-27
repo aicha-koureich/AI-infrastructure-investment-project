@@ -1,0 +1,21 @@
+FIRM         : AWI (CIK 0000007431) | FY2017
+FILE         : 0000007431_AWI_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment, Machinery and equipment, computer equipment, furniture
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans | 3.0-15.0 ans | 5.0-7.0 ans | 10.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Property plant and equipment is recorded at cost reduced by accumulated depreciation. Machinery and equipment includes manufacturing equipment (depreciated over 3 to 15 years), computer equipment (depreciated over 3 to 5 years) and office furniture and equipment (depreciated over 5 to 7 years). Within manufacturing equipment, assets that are subject to accelerated obsolescence or wear out quickly, such as dryer components, are depreciated over shorter periods (3 to 7 years). Heavy production equipment, such as conveyors and production presses, are depreciated over longer periods (10 to 15 years). Computer software is depreciated over 3 to 7 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

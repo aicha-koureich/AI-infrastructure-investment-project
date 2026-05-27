@@ -1,0 +1,23 @@
+FIRM         : SWK (CIK 0000093556) | FY2023
+FILE         : 0000093556_SWK_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-03-31
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 3. Exhibits
+ASSET CAT.   : EQUIPMENT, capitalized software, Machinery and equipment, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+PROPERTY, PLANT AND EQUIPMENT — The Company generally values property, plant and equipment (“PP&E”), including capitalized software, at historical cost less accumulated depreciation and amortization. Depreciation and amortization are provided using straight-line methods over the estimated useful lives of the assets as follows: Useful Life (Years) Land improvements 10 — 20 Buildings 40 Machinery and equipment 3 — 15 Computer software 3 — 7
+
+[VERBATIM — Changement de politique]
+The Company has an interest coverage covenant that must be maintained to permit continued access to its committed credit facilities described above. The interest coverage ratio tested for covenant compliance compares adjusted Earnings Before Interest, Taxes, Depreciation and Amortization to adjusted net Interest Expense ("Adjusted EBITDA"/"Adjusted Net Interest Expense"). In February 2023, the Company entered into an amendment to its 5-Year Credit Agreement to: (a) amend the definition of Adjusted EBITDA to allow for additional adjustment addbacks, not to exceed $500 million in the aggregate, for amounts incurred during each four fiscal quarter period beginning with the period ending in the third quarter of 2023 through the period ending in the second quarter of 2024, and (b) amend the minimum interest coverage ratio from 3.5 times to not less than 1.5 to 1.0 times computed quarterly, on a rolling twelve months (last twelve months) basis, for the period from and including the third quarter of 2023 through the second quarter of 2024. The minimum interest coverage ratio will revert back to
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

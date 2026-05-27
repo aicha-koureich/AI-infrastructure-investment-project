@@ -1,0 +1,20 @@
+FIRM         : STRL (CIK 0000874238) | FY2023
+FILE         : 0000874238_STRL_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES Basis of Presentation
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Contract costs include all direct material, labor, subcontract and other costs and those indirect costs determined to relate to contract performance, such as indirect salaries and wages, equipment repairs and depreciation, insurance and payroll taxes.
+
+[VERBATIM — Infrastructure IA]
+Sterling Infrastructure, Inc., (“Sterling,” “the Company,” “we,” “our” or “us”), a Delaware corporation, operates through a variety of subsidiaries within three segments specializing in E-Infrastructure, Transportation and Building Solutions in the United States, primarily across the Southern, Northeastern, Mid-Atlantic and Rocky Mountain regions and the Pacific Islands. E-Infrastructure Solutions provides advanced, large-scale site development services for manufacturing, data centers, e-commerce distribution centers, warehousing, power generation and more. Transportation Solutions includes infrastructure and rehabilitation projects for highways, roads, bridges, airports, ports, rail and storm drainage systems. Building Solutions includes residential and commercial concrete foundations for single-family and multi-family homes, parking structures, elevated slabs, other concrete work, and plumbing services for new single-family residential builds. From strategy to operations, we are committed to sustainability by operating responsibly to safeguard and improve society’s quality of life. Caring for our people and our communities, our customers and our investors – that is The Sterling Way.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

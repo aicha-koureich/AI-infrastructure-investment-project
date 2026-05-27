@@ -1,0 +1,20 @@
+FIRM         : MOH (CIK 0001179929) | FY2014
+FILE         : 0001179929_MOH_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2014
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : DGX (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+As discussed below, the costs associated with certain of our Molina Medicaid Solutions segment equipment and software are capitalized and recorded as deferred contract costs. Such costs are amortized on a straight-line basis over the shorter of the useful life or the contract period.
+
+[VERBATIM — Infrastructure IA]
+In 2011, our New Mexico data center subsidiary entered into a financing transaction with Wells Fargo Community Investment Holdings, LLC (Wells Fargo), its wholly owned subsidiary New Mexico Healthcare Data Center Investment Fund, LLC (Investment Fund), and certain of Wells Fargo's affiliated Community Development Entities (CDEs), in connection with our participation in the federal government's New Markets Tax Credit Program (NMTC). The NMTC was established by Congress in 2000 to facilitate new or increased investments in businesses and real estate projects in low-income communities. The NMTC attracts investment capital to low-income communities by permitting investors to receive a tax credit against their federal income tax return in exchange for equity investments in specialized financial institutions, called CDEs, which provide financing to qualified active businesses operating in low-income communities. The credit amounts to  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

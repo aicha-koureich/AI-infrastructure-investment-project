@@ -1,0 +1,20 @@
+FIRM         : DY (CIK 0000067215) | FY2021
+FILE         : 0000067215_DY_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-04-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies and Estimates
+ASSET CAT.   : Equipment, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost and depreciated on a straight-line basis over their estimated useful lives (see Note 8, Property and Equipment , for the range of useful lives). Capitalized software consists primarily of costs to purchase and develop internal-use software and is amortized over its
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

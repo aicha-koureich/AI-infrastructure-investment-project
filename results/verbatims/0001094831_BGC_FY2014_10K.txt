@@ -1,0 +1,25 @@
+FIRM         : BGC (CIK 0001094831) | FY2014
+FILE         : 0001094831_BGC_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We believe the
+combination of BGC and GFI will create a strong and diversified company, well positioned to capture future growth opportunities. Through this combination, we expect to deliver substantial benefits to customers of the combined company, and we
+expect to become the largest and most profitable wholesale brokerage company. We also believe this is a highly complementary combination, which will result in meaningful economies of scale. While the front office operations will remain
+separately branded companies, we plan on integrating the back office, technology, and infrastructure of these two companies in a smart and deliberate way. By the end of the first year, we expect to save at least $50 million annually on items
+including network infrastructure, telephone lines, data centers, vendors, disaster recovery, regulatory capital, and interest expense. We expect further cost savings in the second year and beyond. We also expect to generate increased
+productivity per broker and to continue converting voice and hybrid broking to more profitable fully electronic trading, all of which should lead to increased revenues, profitability and cash flows.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

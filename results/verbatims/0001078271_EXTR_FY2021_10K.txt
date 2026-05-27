@@ -1,0 +1,21 @@
+FIRM         : EXTR (CIK 0001078271) | FY2021
+FILE         : 0001078271_EXTR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, computer equipment, office equipment and furniture
+DURÉE        : 1.0-4.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-4.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation and amortization. Estimated useful lives of one to four years are used for computer equipment and purchased software. Estimated useful lives of three to seven years are used for office equipment and furniture and fixtures.
+
+[VERBATIM — Infrastructure IA]
+Extreme Networks, Inc., together with its subsidiaries (collectively referred to as “Extreme” and as “we”, “us” and “our”) is a leading provider of networking software, hardware and services and offers related maintenance contracts for extended warranty and maintenance to our enterprise, data center and service provider customers. We were incorporated in California in May 1996 and reincorporated in Delaware in March 1999. We recently changed our corporate headquarters from San Jose, California to Morrisville, North Carolina. We derive substantially all of our revenues from the sale of our networking software, hardware and services, and related maintenance contracts.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+A trend affecting the Enterprise Network Equipment market is the continued adoption of the cloud-managed enterprise WLAN in the enterprise market. Hybrid cloud is a cloud computing environment which uses a mix of on-premises, private cloud, and third-party, public cloud services with orchestration between the two platforms. We introduced our Cloud offering in 2016 and in August 2019 acquired Aerohive Networks, Inc to enhance our Cloud strategy with a 3 rd generation Cloud platform and to accelerate adoption of hybrid cloud networking solutions in the Enterprise. Extreme’s enhanced Cloud solution will be the only offering in the market that seamlessly integrates the cloud with on-premises infrastructures and enables visibility from the edge to everywhere. See Part 1, Item 1. Business, for additional discussion of our business. ||| For fiscal 2021 and 2020, our tax provision primarily related to taxes on our foreign operations, including foreign withholding taxes remitted to foreign tax authorities by customers on our behalf, tax expense related to the establishment of a U . S . deferred tax liability for amortizable goodwill resulting from the acquisition of Enterasys Networks, Inc., the WLAN Business, the Campus Fabric Business and the Data Center Business and state taxes in states where we have exhausted available Net Operating Losses (“NOLs”) or are subject to certain franchise taxes qualifying as income tax under the relevant tax accounting guidance. ||| Deferred payments represent Data Center Business consideration obligation of $1.0 million per quarter .

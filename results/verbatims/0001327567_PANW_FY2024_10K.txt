@@ -1,0 +1,21 @@
+FIRM         : PANW (CIK 0001327567) | FY2024
+FILE         : 0001327567_PANW_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : July 31, 2024
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : Computers, equipment, and software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Asset category Useful life Computers, equipment, and software 3 - 5 years Demonstration units 3 - 4 years Furniture and fixtures 5 years Leasehold improvements Lesser of 10 years or remaining lease term
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

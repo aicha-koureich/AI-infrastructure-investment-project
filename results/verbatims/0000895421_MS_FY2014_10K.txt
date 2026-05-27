@@ -1,0 +1,25 @@
+FIRM         : MS (CIK 0000895421) | FY2014
+FILE         : 0000895421_MS_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies.
+ASSET CAT.   : equipment, furniture, furniture and fixtures
+DURÉE        : 3.0-9.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-9.0 ans | 3.0-10.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Premises and equipment are stated at cost less accumulated depreciation and amortization. Estimated useful lives are generally as follows: buildings—39 years; furniture and fixtures—7 years; computer and communications equipment—3 to 9 years; power generation assets—15 to 29 years; and terminals, pipelines and
+equipment—3 to 25 years. Estimated useful lives for software costs are generally 3 to 10 years.
+
+[VERBATIM — Changement de politique]
+As a result of an analysis completed by the Company, effective April 1, 2014, the Company revised the estimated useful lives for software costs from generally 3 to 5 years to generally 3 to 10 years. The adoption of these revised estimated useful lives for software costs resulted in lower amortization expense of approximately $86 million in 2014.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

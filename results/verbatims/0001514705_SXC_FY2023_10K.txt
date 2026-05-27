@@ -1,0 +1,23 @@
+FIRM         : SXC (CIK 0001514705) | FY2023
+FILE         : 0001514705_SXC_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 19. Business Segment Information
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Properties, plants and equipment (net of accumulated depreciation of $1,383.6 and $1,276.0 at December 31, 2023 and 2022, respectively)
+
+[VERBATIM — Changement de politique]
+generally depreciated over 15 to 30 years. Depreciation and amortization is excluded from cost of products sold and operating expenses and is presented separately on the Consolidated Statements of Income. Gains and losses on the disposal or retirement of fixed assets are reflected in earnings when the assets are sold or retired. Amounts incurred that extend an asset’s useful life, increase its productivity or add production capacity are capitalized. Additionally, the Company generally capitalizes interest on capital projects with an expected construction period of one year or longer. The Company accounts for changes in useful lives, when appropriate, as a change in estimate, with prospective application only. Direct costs, such as outside labor, materials, internal payroll and benefits costs incurred during capital projects are capitalized; indirect costs are not capitalized. Normal repairs and maintenance costs are expensed as incurred. The amounts of accrued capital expenditures for the years ended December 31, 2023, 2022 and 2021 were $8.7 million, $15.6 million and $9.6 million, respectively. See Note 6 and the Consolidated Statements of Cash Flows.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

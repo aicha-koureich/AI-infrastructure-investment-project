@@ -1,0 +1,29 @@
+FIRM         : SKYW (CIK 0000793733) | FY2014
+FILE         : 0000793733_SKYW_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Consists
+primarily of impairment charges to write-down certain ERJ145 long-lived assets, which primarily consisted of spare engines and ERJ145 spare
+aircraft parts, to their estimated fair value of $11.4 million and accrued obligations on leased aircraft and related costs of $1.5 million. The estimated fair value of the long-lived
+assets was based on third-party valuations for similar assets, which is considered an unobservable input (Level 3) under the fair value hierarchy. In November 2014, the Company entered into an
+amended and restated contract with United that accelerated the lease terminations of certain ERJ145 aircraft and accelerated the termination date of the Company's flying contract to operate the
+ERJ145s with United from the year 2020 to 2017. The reduced term shortened the anticipated useful life of the ERJ145 long-lived assets which triggered the impairment evaluation. These special items
+are reflected in the ExpressJet operating expenses under Note 2
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

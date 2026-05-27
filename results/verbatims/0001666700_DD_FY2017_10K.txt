@@ -1,0 +1,20 @@
+FIRM         : DD (CIK 0001666700) | FY2017
+FILE         : 0001666700_DD_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : AMD_Instinct (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+As part of the Synergy Program, the Company has or will shut down a number of manufacturing, R&D and corporate facilities around the world. The manufacturing facilities and related assets (including intangible assets), corporate facilities and data centers associated with this plan were written down to  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

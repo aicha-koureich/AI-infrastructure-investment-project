@@ -1,0 +1,20 @@
+FIRM         : AKR (CIK 0000899629) | FY2019
+FILE         : 0000899629_AKR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15 Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract to provide guidance on implementation costs incurred in a cloud computing arrangement that is a service contract. The ASU aligns the accounting for such costs with the guidance on capitalizing costs associated with developing or obtaining internal-use software. Specifically, the ASU amends ASC 350 to include in its scope implementation costs of such arrangements that are service contracts and clarifies that a customer should apply ASC 350-40 to determine which implementation costs should be capitalized. This ASU, which is effective for fiscal years beginning after December 15, 2019, has been early adopted by the Company effective January 1, 2019. As of December 31, 2019, the Company has capitalized and deferred approximately $0.2 million related to the ongoing implementation of two separate software applications for internal use pursuant to this new guidance. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

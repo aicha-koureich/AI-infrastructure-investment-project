@@ -1,0 +1,20 @@
+FIRM         : ATR (CIK 0000896622) | FY2016
+FILE         : 0000896622_ATR_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Generally, the estimated useful lives are 10 to 40 years for buildings and improvements and 3 to 15 years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued new guidance on a customer's accounting for fees paid in a cloud computing arrangement (“CCA”). Previously, there was no specific U.S. GAAP guidance on accounting for such fees from the customer's perspective. Under the new standard, customers will apply the same criteria as vendors to determine whether a CCA contains a software license or is solely a service contract. This standard was effective for annual reporting periods beginning after December 15, 2015. The Company has adopted the requirements of the standard with respect to its current CCAs and has determined that the impact is not material to our current year financial statements.

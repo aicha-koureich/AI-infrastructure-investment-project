@@ -1,0 +1,21 @@
+FIRM         : HCI (CIK 0001400810) | FY2020
+FILE         : 0001400810_HCI_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-03-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 -- Summary of Significant Accounting Policies Basis of Presentation. The accompanying financial statements have been prepared in conformity with a
+ASSET CAT.   : computer hardware and software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property and equipment is stated at cost less accumulated depreciation and amortization, which is included in other operating expenses. Depreciation is calculated on a straight-line basis over the estimated useful lives as follows: building, 39 years; computer hardware and software, three years; and furniture and office equipment, three to seven years. Capitalized software costs are depreciated on a straight-line basis over the estimated useful life of seven years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

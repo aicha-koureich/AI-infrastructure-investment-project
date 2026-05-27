@@ -1,0 +1,20 @@
+FIRM         : MTH (CIK 0000833079) | FY2021
+FILE         : 0000833079_MTH_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 — BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment, office equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+At December 31, 2021 and 2020, property and equipment, net consisted of the following (in thousands): At December 31, 2021 2020 Computer and office equipment $ 62,806 $ 59,407 Model home furnishings and capitalized sales office costs 61,112 76,398 Gross property and equipment 123,918 135,805 Accumulated depreciation (86,578) (96,872) Total $ 37,340 $ 38,933
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

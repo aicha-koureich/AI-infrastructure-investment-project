@@ -1,0 +1,20 @@
+FIRM         : TEL (CIK 0001385157) | FY2019
+FILE         : 0001385157_TEL_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 27, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 15. Income Taxes Income Tax Expense (Benefit) Significant components of the income tax expense (benefit) were as follows: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization and capital expenditures were as follows: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Depreciation and ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Amortization ​ Capital Expenditures ​ ​ ​ Fiscal ​ Fiscal ​ ​ 2019 2018 2017 2019 2018 2017 ​ ​ ​ (in millions) ​ Transportation Solutions ​ $ 442 ​ $ 416 ​ $ 362 ​ $ 530 ​ $ 711 ​ $ 473 ​ Industrial Solutions ​ 181 ​ 178 ​ 165 ​ 145 ​ 145 ​ 123 ​ Communications Solutions ​ 67 ​ 73 ​ 84 ​ 74 ​ 79 ​ 83 ​ Total ​ $ 690 ​ $ 667 ​ $ 611 ​ $ 749 ​ $ 935 ​ $ 679 ​ ​ Segment assets and a reconciliation of segment assets to total assets were as follows: ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Segment Assets ​ ​ ​ Fiscal Year End ​ ​ 2019 2018 2017 ​ ​ (in millions) ​ Transportation Solutions ​ $ 4,781 ​ $ 4,707 ​ $ 4,084 ​ Industrial Solutions ​ 2,100 ​ 2,049 ​ 1,909 ​ Communications Solutions ​ 849 ​ 959 ​ 951 ​ Total segment assets (1) ​ 7,730 ​ 7,715 ​ 6,944 ​ Other current assets ​ 1,398 ​ 1,981 ​ 2,141 ​ Other non-current assets ​ 10,566 ​ 10,690 ​ 10,318 ​ Total assets ​ $ 19,694 ​ $ 20,386 ​ $ 19,403 ​ (1) Segment assets are composed of accounts receivable, inventories, and net property, plant, and equipment. ​ 96
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

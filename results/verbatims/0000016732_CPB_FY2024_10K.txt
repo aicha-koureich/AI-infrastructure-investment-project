@@ -1,0 +1,20 @@
+FIRM         : CPB (CIK 0000016732) | FY2024
+FILE         : 0000016732_CPB_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-07-27
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment are depreciated over periods not exceeding
+DURÉE        : 45.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment — Property, plant and equipment are recorded at historical cost and are depreciated over estimated useful lives using the straight-line method. Buildings and machinery and equipment are depreciated over periods not exceeding 45 years and 20 years, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

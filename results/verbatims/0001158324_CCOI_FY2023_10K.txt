@@ -1,0 +1,20 @@
+FIRM         : CCOI (CIK 0001158324) | FY2023
+FILE         : 0001158324_CCOI_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of the business and summary of significant accounting policies:
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Network operations expenses include the costs of personnel and related operating expenses associated with service delivery, network management, and customer support, network facilities costs, fiber and equipment maintenance fees, leased circuit costs, access fees paid to building owners and certain excise taxes and surcharges recorded on a gross basis. The Company estimates its accruals for any disputed leased circuit obligations based upon the nature and age of the dispute. Network operations costs are impacted by the timing and amounts of disputed circuit costs. The Company generally records these disputed amounts when billed by the vendor and reverses these amounts when the vendor credit has been received or the dispute has otherwise been resolved. The Company does not allocate depreciation and amortization expense to its network operations expense.
+
+[VERBATIM — Infrastructure IA]
+The Company is a facilities-based provider of low-cost, high-speed Internet access, private network services, and data center colocation space and power. The Company’s network is specifically designed and optimized to transmit packet routed data. The Company delivers its services primarily to businesses, large and small, communications service providers and other bandwidth-intensive organizations in 54 countries across North America, Europe, South America, Oceania and Africa. The Company is a Delaware corporation and is headquartered in Washington, DC.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

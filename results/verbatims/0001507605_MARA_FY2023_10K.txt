@@ -1,0 +1,23 @@
+FIRM         : MARA (CIK 0001507605) | FY2023
+FILE         : 0001507605_MARA_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, server
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, net of accumulated depreciation and impairment, as applicable. The Company’s property and equipment is primarily composed of bitcoin mining rigs, which are largely homogeneous and have approximately the same useful lives. The Company will update the estimated useful lives of its bitcoin mining server group periodically as information on the operations of the mining equipment indicates changes are required. The Company will assess and adjust the estimated useful lives of its mining equipment when there are indicators that the productivity of the mining assets is longer or shorter than the assigned estimated useful lives.
+
+[VERBATIM — Changement de politique]
+As a result of the impairment charge of its bitcoin mining rigs, the Company re-evaluated and reduced the estimated useful life for its asset group of mining rigs from 5 to 3 years, effective January 1, 2023. No impairment indicators were identified during the year ended December 31, 2023 .
+
+[VERBATIM — Infrastructure IA]
+The Company contracts with other service providers for hosting of its equipment and operational support in data centers where the Company’s equipment is deployed. These arrangements typically require advance payments to vendors pursuant to the contractual obligations associated with these services. The Company classifies these payments as “Deposits” or “Long-term deposits” on the Consolidated Balance Sheets.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

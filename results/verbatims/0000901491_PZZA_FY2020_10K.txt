@@ -1,0 +1,21 @@
+FIRM         : PZZA (CIK 0000901491) | FY2020
+FILE         : 0000901491_PZZA_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 27, 2020
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies
+ASSET CAT.   : technology and communication assets)
+DURÉE        : 5.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Depreciation is recorded using the straight-line method over the estimated useful lives of the assets (generally five to ten years for restaurant, commissary and other equipment, twenty to forty years for buildings and improvements, and five years for technology and communication assets).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

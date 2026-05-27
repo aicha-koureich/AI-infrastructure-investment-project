@@ -1,0 +1,20 @@
+FIRM         : TTEC (CIK 0001013880) | FY2021
+FILE         : 0001013880_TTEC_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-04-30
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The increase in revenue for the TTEC Digital segment was related to significant increases in the cloud platform and the systems integration practice including acquisitions of Avtex and VoiceFoundry, offset by reductions in a large multi-year governmental contract and the legacy facility based training business and Middle East consulting practice, both of which the Company has exited. Excluding this large multi-year government contract, the TTEC Digital revenue has increased 88% year over year.

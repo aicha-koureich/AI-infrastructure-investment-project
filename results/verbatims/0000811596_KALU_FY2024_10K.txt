@@ -1,0 +1,20 @@
+FIRM         : KALU (CIK 0000811596) | FY2024
+FILE         : 0000811596_KALU_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-31
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 17. Business, Product and Geographical Ar
+ASSET CAT.   : computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Year Ended December 31, 2024 2023 2022 Net sales $ 3,024.0 $ 3,087.0 $ 3,427.9 Less: Cost of products sold, excluding depreciation and amortization Hedged cost of alloyed metal 1 1,567.8 1,621.1 2,045.2 Manufacturing costs 2 805.2 809.9 773.0 Plant overhead 3 170.5 164.6 162.3 Freight costs 91.6 103.3 125.5 Other cost of products sold 4 56.0 56.0 74.2 Depreciation and amortization 116.4 108.6 106.9 Selling, general, administrative, research and development Research and development costs 2.2 2.9 1.9 Employee costs 5 83.3 80.0 69.9 Other selling, general and administrative costs 6 35.3 39.8 39.1 Goodwill impairment — — 20.5 Restructuring costs 7.6 5.0 2.2 Other operating charges, net 0.4 — 3.2 Interest expense 43.7 46.9 48.3 Other income, net – Note 13 ( 19.5 ) ( 7.4 ) ( 6.4 ) Income tax provision (benefit) 16.7 9.1 ( 8.3 ) Net income (loss) $ 46.8 $ 47.2 $ ( 29.6 ) 1. Hedged cost of alloyed metal includes cost of aluminum at the Midwest transaction price and the cost of alloying elements used in the production process. This metric also includes metal price exposure on shipments that we hedged with realized losses upon settlement of $ 0.2 m illion, $ 21.4 million, and $ 17.0 million in 2024, 2023, and 2022, respectively. 2. Manufacturing costs primarily includes labor, utilities, supplies and other materials, excluding alloys incurred at our various production facilities. 3. Plant overhead includes salaried employee costs, property taxes, and insurance associated with our various production facilities. 4. Other costs of products sold primarily includes lease expense, accretion expense related to CAROs, and major maintenance costs. 5. Employee costs include salaries, benefits, and incentive compensation. 6. Other selling, general and administrative costs primarily includes professional services, computer hardware and software costs, office rent, and utilities.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

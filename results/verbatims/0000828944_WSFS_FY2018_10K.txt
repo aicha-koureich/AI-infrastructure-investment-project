@@ -1,0 +1,20 @@
+FIRM         : WSFS (CIK 0000828944) | FY2018
+FILE         : 0000828944_WSFS_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 7
+ASSET CAT.   : equipment, computer equipment, furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment are stated at cost less accumulated depreciation and amortization. In general, computer equipment, furniture and equipment and building renovations are depreciated over
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The new guidance provides clarity on capitalizing and expensing implementation costs for cloud computing arrangements in a service contract. If an implementation cost is capitalized, the cost should be recognized over the noncancellable term and periodically assessed for impairment. The guidance is effective in annual and interim periods in fiscal years beginning after December 15, 2019. Early adoption is permitted. Adoption should be applied retrospectively or prospectively to all implementation costs incurred after the date of adoption. Our preliminary review of this guidance to date suggests that adoption may result in a material amount of implementation costs being deferred; however, the extent of the impact will depend on the cloud computing implementations occurring at the time of adoption. ||| In August 2018, the FASB issued ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Topic 350). The new guidance provides clarity on capitalizing and expensing implementation costs for cloud computing arrangements in a service contract. If an implementation cost is capitalized, the cost should be recognized over the noncancellable term and periodically assessed for impairment. The guidance is effective in annual and interim periods in fiscal years beginning after December 15, 2019. Early adoption is permitted. Adoption should be applied retrospectively or prospectively to all implementation costs incurred after the date of adoption. Our preliminary review of this guidance to date suggests that adoption may result in a material amount of implementation costs being deferred; however, the extent of the impact will depend on the cloud computing implementations occurring at the time of adoption.

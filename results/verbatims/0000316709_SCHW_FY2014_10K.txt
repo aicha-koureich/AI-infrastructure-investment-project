@@ -1,0 +1,21 @@
+FIRM         : SCHW (CIK 0000316709) | FY2014
+FILE         : 0000316709_SCHW_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Equipment, office facilities, and property are recorded at cost net of accumulated depreciation and amortization, except for land, which is recorded at cost. Equipment and office facilities are depreciated on a straight-line basis over an estimated useful life of five to ten years. Software and certain costs incurred for purchasing or developing software for internal use are amortized on a straight-line basis over an estimated useful life of three or five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

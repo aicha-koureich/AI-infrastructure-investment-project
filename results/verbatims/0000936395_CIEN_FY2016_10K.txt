@@ -1,0 +1,20 @@
+FIRM         : CIEN (CIK 0000936395) | FY2016
+FILE         : 0000936395_CIEN_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Types of expense incurred in research and development include employee compensation, prototype equipment, consulting and third party services, depreciation, facility costs and information technology.
+
+[VERBATIM — Infrastructure IA]
+While drivers of bandwidth growth and network evolution remain strong, in recent periods certain of our customers, including several of our larger communications service provider customers in North America and Europe, Middle East and Africa (EMEA), have taken steps to constrain their capital expenditure budgets. As a result of the measured spending environment and efforts to manage network costs, growth rates in some of our markets have slowed. Some of our market segments have been adversely impacted and we have experienced lower spending levels on networking equipment from some existing customers as compared to prior periods. Notwithstanding these market dynamics, during fiscal 2016 we continued to improve our financial results and increased our revenue. Revenue growth during fiscal 2016 benefited meaningfully from our continued efforts to diversify our business to include additional customer and geographic markets, and to take market share from or displace competitors. Specifically, we continue to diversify our customer base to include additional customer segments, such as Web-scale providers, cable and multiservice operators, data center operators and enterprise customers, which  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

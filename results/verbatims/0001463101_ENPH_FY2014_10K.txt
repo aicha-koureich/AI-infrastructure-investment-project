@@ -1,0 +1,20 @@
+FIRM         : ENPH (CIK 0001463101) | FY2014
+FILE         : 0001463101_ENPH_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 4. PROPERTY AND EQUIPMENT, NET
+ASSET CAT.   : Equipment, machinery, Furniture and fixtures, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful Life (Years) December 31, 2014 2013 Equipment and machinery 5 $ 28,923 $ 21,853 Furniture and fixtures 5–7 3,032 2,837 Computer equipment 3–5 2,194 1,842 Capitalized software 3–5 8,905 7,343 Leasehold improvements 4–10 6,636 5,881 Construction in progress 4,911 1,703 Total 54,601 41,459 Less accumulated depreciation and amortization (23,777 ) (16,606 ) Property and equipment, net $ 30,824 $ 24,853
+
+[VERBATIM — Infrastructure IA]
+Enphase Energy, Inc. and subsidiaries (the “Company”) designs, develops, and sells microinverter systems for the solar photovoltaic industry. The Company was incorporated in 2006 and began selling its products in 2008. The Company’s microinverter system consists of (i) an Enphase microinverter and related accessories that convert direct current (“DC”) power to grid-compliant alternating current (“AC”) power; (ii) an Envoy communications gateway device that collects and transmits performance information from each solar module to the Company’s hosted data center; and (iii) the Enlighten web-based software platform that collects and processes this information to enable customers to monitor and manage their solar power systems. The Company sells microinverter systems primarily to distributors who resell them to solar installers. The Company also sells directly to large installers as well as through original equipment manufacturers (“OEMs”) and strategic partners. The Company also offers operations and maintenance services for photovoltaic (“PV”) systems including preventive and corrective maintenance, solar panel cleaning and solar system commissioning.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

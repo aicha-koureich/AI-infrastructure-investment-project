@@ -1,0 +1,20 @@
+FIRM         : DCH (CIK 0001062231) | FY2021
+FILE         : 0001062231_DCH_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Costs for tooling used to make products sold on long-term supply arrangements for which we have either title to the assets or the noncancelable right to use the assets during the term of the supply arrangement are capitalized in property, plant and equipment. Reimbursable costs for tooling assets for which our customer has title and we do not have a noncancelable right to use during the term of the supply arrangement, are recorded in accounts receivable in our consolidated balance sheets. The reimbursement for the customer-owned tooling is recorded as a reduction of accounts receivable upon collection. Capitalized items and customer receipts in excess of tooling costs specifically related to a supply arrangement are amortized over the shorter of the term of the arrangement or over the estimated useful lives of the related assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

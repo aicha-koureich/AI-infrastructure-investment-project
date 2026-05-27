@@ -1,0 +1,21 @@
+FIRM         : FC (CIK 0000886206) | FY2015
+FILE         : 0000886206_FC_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : AUGUST 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. NATURE OF OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : 5.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Description Useful Lives Buildings 20 years Machinery and equipment 5–7 years Computer hardware and software 3–5 years Furniture, fixtures, and leasehold improvements 5–7 years Leasehold improvements are amortized over the lesser of the useful economic life of the asset or the contracted lease period.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

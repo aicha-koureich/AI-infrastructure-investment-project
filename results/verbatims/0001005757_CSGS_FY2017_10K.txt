@@ -1,0 +1,20 @@
+FIRM         : CSGS (CIK 0001005757) | FY2017
+FILE         : 0001005757_CSGS_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Service Agreements. We have an agreement with Infocrossing LLC (“Infocrossing”), a Wipro Limited company, to provide us outsourced computing services through June 30, 2022 . We outsource the computer processing and related services required for the operation of our outsourced ACP solutions. Our ACP proprietary software and other software applications are run in an outsourced data center environment in order to obtain the nec essary computer processing capacity and other computer support services without us having to make the substantial capital and infrastructure investments that would be necessary for us to provide these services internally. Our clients are connected to the o utsourced data center environment through a combination of private and commercially-provided networks. Our ACP cloud-based solutions are generally considered to be mission critical customer management systems by our clients. As a result, we are highly depe ndent upon Infocrossing for system availability, security, and response time.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : WDC (CIK 0000106040) | FY2019
+FILE         : 0000106040_WDC_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 28, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 18 .
+ASSET CAT.   : equipment, machinery and equipment, furniture and fixtures
+DURÉE        : 2.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are carried at cost less accumulated depreciation and amortization. The cost of property, plant and equipment is depreciated over the estimated useful lives of the respective assets. The majority of the Company’s machinery and equipment, software, and furniture and fixtures, are depreciated on a straight-line basis over a period of two to seven years.
+
+[VERBATIM — Infrastructure IA]
+Data Center Devices & Solutions  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The growth in computing complexity, cloud computing applications, connected mobile devices and Internet connected products is driving unabated growth in the volume of digital content to be stored. This growth has led to a creation of new form factors for data storage. The storage industry is increasingly utilizing tiered architectures with HDDs, SSDs and other non-volatile memory-based storage to address an expanding set of uses and applications. We continuously monitor the advantages, disadvantages and advances of the full array of storage technologies, including reviewing these technologies with our customers, to ensure we are appropriately resourced to meet our customers’ storage needs. Storage solutions that hold large amounts of data are key enablers of the trends seen in the evolution of a data driven economy, underpinned by the increase of digital content creation, consumption and monetization. Our investments in a range of early stage companies made possible through Western Digital Capital Global enables us to monitor and lead key trends within our ecosystem.

@@ -1,0 +1,20 @@
+FIRM         : CFG (CIK 0000759944) | FY2023
+FILE         : 0000759944_CFG_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 7 - PREMISES, EQUIPMENT AND SOFTWARE
+ASSET CAT.   : computer software, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The amortization of software commences when the asset, or identifiable component of the asset, is substantially complete and ready for its intended use.
+
+[VERBATIM — Infrastructure IA]
+Table 16: Commercial Real Estate by Property Type and State December 31, 2023 December 31, 2022 (dollars in millions) Balance % of Total CRE Balance % of Total CRE Property type Multi-family $9,367 32 % $8,696 30 % Office Credit tenant lease and life sciences (1) 2,268 8 2,205 8 Other general office 3,648 12 4,048 14 Retail 3,407 12 3,208 11 Industrial 3,981 14 3,344 12 Co-op 1,796 6 1,824 6 Data center 841 3 870 3 Hospitality 608 2 638 2 Other 3,555 11 4,032 14 Total commercial real estate $29,471 100 % $28,865 100 % State New York $7,035 24 % $7,224 25 % New Jersey 3,829 13 4,300 15 Pennsylvania 2,613 9 2,819 10 California 2,314 8 1,878 7 Texas 2,163 7 1,844 6 Massachusetts 1,897 6 1,688 6 Florida 1,087 4 799 3 Other Southeast (2) 3,056 10 3,042 10 Other 5,477 19 5,271 18 Total commercial real estate $29,471 100 % $28,865 100 %  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

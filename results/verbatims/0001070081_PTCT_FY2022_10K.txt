@@ -1,0 +1,21 @@
+FIRM         : PTCT (CIK 0001070081) | FY2022
+FILE         : 0001070081_PTCT_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 14. Income taxes
+ASSET CAT.   : Not disclosed
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Under the 2017 Tax Cuts and Jobs Act, the ability to currently deduct qualifying research and experimental costs under section 174, as well as software development costs, are eliminated for tax years beginning after December 31, 2021. Under the new rule, these costs must be capitalized and amortized over a five-year or fifteen-year period, depending on whether the research is conducted in the U.S. or abroad, respectively. The rule became effective for the Company during the year, and resulted in an increased current taxable income of the Company by $450.1 million for the tax year ended December 31, 2022.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : INTC (CIK 0000050863) | FY2014
+FILE         : 0000050863_INTC_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 27, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Intel_Xeon;NVIDIA (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+of which was allocated to goodwill and acquisition-related developed technology intangible assets. The operating results of the Axxia business are included in our Data Center Group (DCG) operating segment.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+, respectively. Our server platform revenue continued to benefit from growth in the Internet cloud computing and high-performance computing market segments with continued strengthening of the enterprise market segment. ||| , respectively. Our platform unit sales continued to benefit from growth in the Internet cloud computing and high performance computing market segments. ||| Net revenue for the DCG operating segment increased by $2.2 billion , or 18% , in 2014 compared to 2013 . DCG platform average selling prices and unit sales were up 10% and 8% , respectively. Our server platform revenue continued to benefit from growth in the Internet cloud computing and high-performance computing market segments with continued strengthening of the enterprise market segment.

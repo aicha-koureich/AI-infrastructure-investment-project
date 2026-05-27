@@ -1,0 +1,20 @@
+FIRM         : ACIC (CIK 0001401521) | FY2016
+FILE         : 0001401521_ACIC_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 20
+ASSET CAT.   : software costs related to our new data warehouse over its expected
+DURÉE        : 7.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We expect to amortize the capitalized software costs related to our new data warehouse over its expected seven year useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,25 @@
+FIRM         : AZO (CIK 0000866787) | FY2015
+FILE         : 0000866787_AZO_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 29, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In
+April 2015, the FASB issued ASU 2015-05, Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement. ASU 2015-05 clarifies the accounting treatment
+for fees paid by a customer in cloud computing arrangements. Under the revised guidance, if a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent
+with the acquisition of other software licenses. If the cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The revised guidance will not change a customer’s
+accounting for service contracts. Upon adoption, a reporting entity can elect to apply the new guidance prospectively after the effective date, or retrospectively. The Company does not expect the provision of ASU 2015-05 to have a material impact on
+its consolidated financial statements. This update will be effective for the Company beginning with its fiscal 2017 first quarter.

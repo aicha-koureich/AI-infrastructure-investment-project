@@ -1,0 +1,20 @@
+FIRM         : TKO (CIK 0001973266) | FY2023
+FILE         : 0001973266_TKO_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Some IT Systems used in our operations are legacy IT systems from businesses we have acquired which may remain separately managed from other IT Systems of our business. We own and manage some of these IT Systems but generally rely on third parties for a range of IT Systems and related products and services, including but not limited to cloud computing services, and ticketing services. We and certain of our third-party providers use these IT Systems to collect, maintain and process data about employees, consumers, event participants, business partners and others, including personal information, as well as proprietary information belonging to our business such as trade secrets (collectively, “Confidential Information”). Any of these IT Systems and Confidential Information are

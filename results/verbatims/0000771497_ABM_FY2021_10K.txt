@@ -1,0 +1,20 @@
+FIRM         : ABM (CIK 0000771497) | FY2021
+FILE         : 0000771497_ABM_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-10-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 8. PROPERTY, PLANT AND EQUIPMENT
+ASSET CAT.   : Machinery, equipment, Computer equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of October 31, (in millions) 2021 2020 Machinery and other equipment $ 148.9 $ 137.0 Computer equipment and software 97.2 101.2 Transportation equipment 57.9 57.7 Leasehold improvements 59.6 57.1 Furniture and fixtures 14.6 13.7 Buildings 7.7 7.6 Land 0.7 0.7 386.6 375.0 Less: Accumulated depreciation (1) 274.7 241.3 Total $ 111.9 $ 133.7
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. This accounting update aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The guidance also specifies that the presentation of capitalized implementation costs and the related amortization on the balance sheet, income statement, and statement of cash flows should align with the presentation of the hosting (service) element of the arrangement. We adopted this standard effective November 1, 2020, on a prospective basis. The adoption of the standard did not have a material impact on our consolidated financial statements. ||| Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.

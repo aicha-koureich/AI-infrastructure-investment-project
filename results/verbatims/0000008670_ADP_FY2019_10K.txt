@@ -1,0 +1,23 @@
+FIRM         : ADP (CIK 0000008670) | FY2019
+FILE         : 0000008670_ADP_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 . SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is stated at cost less accumulated depreciation on the Consolidated Balance Sheets.
+
+[VERBATIM — Changement de politique]
+Effective October 1, 2018, the Company prospectively adopted ASU 2018-15, “Intangibles - Goodwill and Other-Internal-Use Software.” ASU 2018-15 clarifies and aligns the accounting and capitalization of implementation costs in cloud computing arrangements that are service arrangements with the accounting for implementation costs incurred to develop or obtain internal-use software under ASC 350-40. The adoption of ASU 2018-15 did not have an impact on the Company’s consolidated results of operations, financial condition, or cash flows.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Effective October 1, 2018, the Company prospectively adopted ASU 2018-15, “Intangibles - Goodwill and Other-Internal-Use Software.” ASU 2018-15 clarifies and aligns the accounting and capitalization of implementation costs in cloud computing arrangements that are service arrangements with the accounting for implementation costs incurred to develop or obtain internal-use software under ASC 350-40. The adoption of ASU 2018-15 did not have an impact on the Company’s consolidated results of operations, financial condition, or cash flows.

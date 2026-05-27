@@ -1,0 +1,20 @@
+FIRM         : SNPS (CIK 0000883241) | FY2024
+FILE         : 0000883241_SNPS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-06-30
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We offer a broad portfolio of IP that has been optimized to address specific application requirements for the mobile, automotive, digital home, Internet of things and AI/data center markets, enabling designers to quickly develop SoCs in these areas .  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The rise of silicon-powered intelligent devices and AI has increased demand for chips and systems with greater functionality and performance, reduced size, and lower power consumption. Our customers, who design silicon and software-defined systems, are facing intense pressure to deliver innovative offerings in shorter timeframes and at lower prices. In other words, innovation in chip and systems design often hinges on providing products “better,” “sooner,” and “cheaper” than competitors. The design of these chips and systems is extremely complex and necessitates state-of-the-art solutions. Over the past several years, market verticals including AI, 5G, automotive and cloud computing infrastructure have contributed to the ongoing demand for our products and services. ||| As the availability and amount of cloud-based data storage grows, customer interest in accessing EDA on the cloud is also increasing as customers seek to benefit from the scalability and flexibility that cloud computing can offer to their flows and engineering teams. While many of our solutions have been used in cloud-based environments for years, such as in a customer’s own server and/or cloud environment, in fiscal 2022 we launched a Synopsys Cloud offering that provides customers additional options for accessing our EDA products in their own cloud environments and in the industry’s first EDA Software-as-a-Service solution developed in partnership with Microsoft Azure. ||| The industries in which we operate are highly competitive, with new competitors entering these markets both domestically and internationally. For example, China has implemented national policies favoring Chinese companies and has formed government-backed investment funds as it seeks to build independent EDA capabilities and compete internationally in the semiconductor industry. The demand for our products and services is dynamic and depends on a number of factors, including, among other things, demand for our customers’ products, design starts and our customers’ budgetary constraints. Technology in these industries evolves rapidly and is characterized by frequent product introductions and improvements as well as changes in industry standards and customer requirements. For example, the adoption of cloud computing and AI technologies may bring new demands and also challenges in terms of disruption to both our business models and existing technology offerings. Our efforts in

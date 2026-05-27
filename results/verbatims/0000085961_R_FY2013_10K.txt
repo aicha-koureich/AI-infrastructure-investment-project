@@ -1,0 +1,23 @@
+FIRM         : R (CIK 0000085961) | FY2013
+FILE         : 0000085961_R_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 30. Quarterly Information (unaudited)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Revenue earning equipment, net of accumulated depreciation of $3,596,102 and $3,514,910, respectively
+
+[VERBATIM — Changement de politique]
+At the end of each fiscal year, we review residual values and useful lives of revenue earning equipment. Based on the results of these analyses, we adjust the estimated residual values and useful lives of certain classes of revenue earning equipment effective January 1 of the following year.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

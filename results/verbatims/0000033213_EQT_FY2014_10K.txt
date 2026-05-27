@@ -1,0 +1,20 @@
+FIRM         : EQT (CIK 0000033213) | FY2014
+FILE         : 0000033213_EQT_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31, 2014 2013 (Thousands) Oil and gas producing properties, successful efforts method $ 10,263,547 $ 8,152,951 Accumulated depletion (2,874,257 ) (2,134,953 ) Net oil and gas producing properties 7,389,290 6,017,998 Midstream plant 3,234,370 2,807,165 Accumulated depreciation and amortization (606,998 ) (547,991 ) Net midstream plant 2,627,372 2,259,174 Other properties, at cost less accumulated depreciation 60,152 56,590 Net property, plant and equipment $ 10,076,814 $ 8,333,762
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,24 @@
+FIRM         : BA (CIK 0000012927) | FY2022
+FILE         : 0000012927_BA_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : software is included in Other assets and amortized using the straight line method over
+DURÉE        : 4.0-20.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 5.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are recorded at cost, including applicable construction-period interest, less accumulated depreciation and are depreciated principally over the following estimated useful lives: new buildings and land improvements, from 10 to 40 years; and new machinery and equipment, from 4 to 20 years. The principal methods of depreciation are as follows: buildings and land improvements, 150% declining balance; and machinery and equipment, sum-of-the-years’ digits. Capitalized internal use software is included in Other assets and amortized using the straight line method over 5 years. Capitalized software as a service is included in Other assets and amortized using the straight line method over the term of the hosting arrangement, which is typically no greater than 10 years.
+
+[VERBATIM — Changement de politique]
+For operating leases, revenue on leased aircraft and equipment is recorded on a straight-line basis over the term of the lease.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

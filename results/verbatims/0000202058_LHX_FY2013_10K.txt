@@ -1,0 +1,30 @@
+FIRM         : LHX (CIK 0000202058) | FY2013
+FILE         : 0000202058_LHX_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 28, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1: SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment, machinery and
+equipment, machinery and equipment
+DURÉE        : 10.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 7.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation of buildings, machinery and
+equipment is computed by the straight-line and accelerated methods. The estimated useful lives of machinery and equipment
+generally range between 2 and 10 years. Amortization of internal-use software begins when the software is put into service and is based on the expected useful life of the software. The useful lives over which we amortize internal-use software
+generally range between 3 and 7 years.
+
+[VERBATIM — Changement de politique]
+In the fourth quarter of fiscal 2013, we recorded a $17.8 million write-off of the capitalized software in Healthcare
+Solutions as a change in accounting estimate, resulting from high-risk development issues and substantial revisions to the logic of Carefx’s primary software product based on the realization that the software would require more features and
+better functionality. These changes to the software were such that the initial detail program design was no longer sufficient to establish technological feasibility.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : NOC (CIK 0001133421) | FY2017
+FILE         : 0001133421_NOC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 6. INVENTORIED COSTS, NET
+ASSET CAT.   : Machinery, equipment, Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31 Useful life in years, $ in millions Useful Life 2017 2016 Land and land improvements Up to 40 (1) $ 420 $ 415 Buildings and improvements Up to 40 1,834 1,798 Machinery and other equipment Up to 20 5,105 4,711 Capitalized software costs 3-5 537 439 Leasehold improvements Length of Lease (2) 1,395 1,056 Property, plant and equipment, at cost 9,291 8,419 Accumulated depreciation (5,066 ) (4,831 ) Property, plant and equipment, net $ 4,225 $ 3,588
+
+[VERBATIM — Changement de politique]
+for tax years beginning after December 31, 2017. The 2017 Tax Act also provides for a one-time transition tax on certain foreign earnings and the acceleration of depreciation for certain assets placed into service after September 27, 2017 as well as prospective changes beginning in 2018, including repeal of the domestic manufacturing deduction, acceleration of tax revenue recognition, capitalization of research and development expenditures, additional limitations on executive compensation and limitations on the deductibility of interest.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

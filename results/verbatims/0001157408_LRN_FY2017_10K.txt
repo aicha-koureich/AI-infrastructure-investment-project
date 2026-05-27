@@ -1,0 +1,20 @@
+FIRM         : LRN (CIK 0001157408) | FY2017
+FILE         : 0001157408_LRN_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Summary of Significant Accounting Policies
+ASSET CAT.   : software, which is generally
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company amortizes these costs over the estimated useful life of the software, which is generally three years. Capitalized software development costs are stated at cost less accumulated amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU 2015-05, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement (“ASU 2015-05”) , which provides guidance regarding whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the entity should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the entity should account for the arrangement as a service contract. ASU 2015-05 does not change the accounting for service contracts. ASU 2015-05 is effective for fiscal years, including interim periods within those fiscal years, beginning after December 15, 2015. The Company adopted this guidance during the first quarter ended September 30, 2016 prospectively to all arrangements entered into or materially modified after June 30, 2016. As a result of the adoption, during the year ended June 30, 2017, the Company expensed approximately $2.2 million of professional services fees that would have been capitalized previously. These costs are included in the product development expenses in the condensed consolidated statements of operations. ||| Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement (“ASU 2015-05”) ||| , which provides guidance regarding whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the entity should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the entity should account for the arrangement as a service contract. ASU 2015-05 does not change the accounting for service contracts. ASU 2015-05 is effective for fiscal years, including interim periods within those fiscal years, beginning after December 15, 2015. The Company adopted this guidance during the first quarter ended September 30, 2016 prospectively to all arrangements entered into or materially modified after June 30, 2016. As a result of the adoption, during the year ended June 30, 2017, the Company expensed approximately $2.2 million of professional services fees that would have been capitalized previously. These costs are included in the product development expenses in the condensed consolidated statements of operations.

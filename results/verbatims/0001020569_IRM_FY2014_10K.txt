@@ -1,0 +1,40 @@
+FIRM         : IRM (CIK 0001020569) | FY2014
+FILE         : 0001020569_IRM_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Beginning
+January 1, 2014, as a result of the changes in our reportable segments associated with our reorganization (see Note 9 to Notes to Consolidated Financial
+Statements included in this Annual Report for a description of our reportable operating segments), we now have 12 reporting units. Our North American Records and Information Management Business
+segment includes the following three reporting units: (1) North American Records and Information Management; (2) Intellectual Property Management; and (3) Fulfillment Services.
+The North American Data Management Business segment is a separate reporting unit. The Emerging Businesses reporting unit (which primarily relates to our data center business in the United States and
+which is a component of Corporate and Other) is also a reporting unit. Additionally, the International Business segment consists of the following seven
+reporting units: (1) United Kingdom, Ireland, Norway, Austria, Belgium, France, Germany, Luxembourg, Netherlands, Spain and Switzerland ("New Western Europe"); (2) the remaining
+countries in Europe in which we operate, excluding Russia, Ukraine and Denmark ("New Emerging Markets"); (3) Latin America; (4) Australia and Singapore; (5) China and Hong Kong
+("Greater China"); (6) India; and (7) Russia, Ukraine and Denmark. We have reassigned goodwill associated with the reporting units impacted by the reorganization among the new reporting
+units on a relative fair value basis. The fair value of each of our new reporting units was determined based on the application of a combined weighted average approach of fair value multiples of
+revenue and earnings and discounted cash flow techniques.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Beginning
+January 1, 2014, as a result of the changes in our reportable segments associated with our reorganization (see Note 9 to Notes to Consolidated Financial
+Statements included in this Annual Report for a description of our reportable operating segments), we now have 12 reporting units. Our North American Records and Information Management Business
+segment includes the following three reporting units: (1) North American Records and Information Management; (2) Intellectual Property Management; and (3) Fulfillment Services.
+The North American Data Management Business segment is a separate reporting unit. The Emerging Businesses reporting unit (which primarily relates to our data center business in the United States and
+which is a component of Corporate and Other) is also a reporting unit. Additionally, the International Business segment consists of the following seven
+reporting units: (1) United Kingdom, Ireland, Norway, Austria, Belgium, France, Germany, Luxembourg, Netherlands, Spain and Switzerland ("New Western Europe"); (2) the remaining
+countries in Europe in which we operate, excluding Russia, Ukraine and Denmark ("New Emerging Markets"); (3) Latin America; (4) Australia and Singapore; (5) China and Hong Kong
+("Greater China"); (6) India; and (7) Russia, Ukraine and Denmark. We have reassigned goodwill associated with the reporting units impacted by the reorganization among the new reporting
+units on a relative fair value basis. The fair value of each of our new reporting units was determined based on the application of a combined weighted average approach of fair value multiples of
+revenue and earnings and discounted cash flow techniques.

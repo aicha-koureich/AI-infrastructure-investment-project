@@ -1,0 +1,21 @@
+FIRM         : DSGR (CIK 0000703604) | FY2021
+FILE         : 0000703604_DSGR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 - Summary of Significant Accounting Policies
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment — Property, plant and equipment are stated at cost less accumulated depreciation and amortization. Depreciation expense is computed primarily by the straight-line method for buildings, machinery and equipment, furniture and fixtures and vehicles. The Company estimates useful lives of 20 to 40 years for buildings and improvements and 3 to 10 years for machinery and equipment, furniture and fixtures and vehicles.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : DTE (CIK 0000936340) | FY2024
+FILE         : 0000936340_DTE_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 22
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Amortization expense of capitalized software
+
+[VERBATIM — Infrastructure IA]
+DTE Energy's utilities are investing capital to support a modern, reliable grid and cleaner, affordable energy through investments in base infrastructure and new generation. Increasing intensity of windstorms and other weather events, coupled with increasing electric vehicle adoption and potential for data centers, will drive a continued need for substantial grid investment over the long-term.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Amortization expense of capitalized cloud computing costs ||| Gross value of capitalized cloud computing costs ||| Accumulated amortization of capitalized cloud computing costs

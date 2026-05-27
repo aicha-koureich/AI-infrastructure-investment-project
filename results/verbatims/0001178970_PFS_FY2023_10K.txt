@@ -1,0 +1,23 @@
+FIRM         : PFS (CIK 0001178970) | FY2023
+FILE         : 0001178970_PFS_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+In March 2020, the FASB issued ASU 2020-04, "Reference Rate Reform (Topic 848)," which provides optional expedients and exceptions for applying GAAP to loan and lease agreements, derivative contracts, and other transactions affected by the anticipated transition away from LIBOR toward new interest rate benchmarks. For transactions that are modified because of reference rate reform and that meet certain scope guidance: (i) modifications of loan agreements should be accounted for by prospectively adjusting the effective interest rate and the modification will be considered "minor" so that any existing unamortized origination fees/costs would carry forward and continue to be amortized; and (ii) modifications of lease agreements should be accounted for as a continuation of the existing agreement with no reassessments of the lease classification and the discount rate or re-measurements of lease payments that otherwise would be required for modifications not accounted for as separate contracts. ASU 2020-04 also provides numerous optional expedients for derivative accounting. In addition, in January 2021, the FASB issued ASU No. 2021-01 “Reference Rate Reform — Scope,” which clarified the scope of ASC 848 relating to contract modifications. The Company has reviewed all of its LIBOR-based products and all products have been adjusted to another index or are scheduled to be adjusted at their next repricing, as LIBOR ceased to be published after June 30, 2023. The Company adjusted its processes and procedures related to the amendments and it did not have a material impact to the Company’s financial position and results and operations.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

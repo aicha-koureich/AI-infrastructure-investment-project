@@ -1,0 +1,21 @@
+FIRM         : EXEL (CIK 0000939767) | FY2018
+FILE         : 0000939767_EXEL_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Capitalized software, computer software
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Leasehold improvements are depreciated over the lesser of their estimated useful lives or the remainder of the lease term. Capitalized software includes certain internal use computer software costs. Repairs and maintenance costs are charged to expense as incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

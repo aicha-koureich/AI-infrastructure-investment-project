@@ -1,0 +1,20 @@
+FIRM         : ALL (CIK 0000899051) | FY2022
+FILE         : 0000899051_ALL_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment is carried at cost less accumulated depreciation. Property and equipment depreciation is calculated using the straight-line method over the estimated useful lives of the assets, generally 3 to 10 years for equipment and 40 years for real property. Accumulated depreciation on property and equipment was $2.45 billion and $2.44 billion as of December 31, 2022 and 2021, respectively. Depreciation expense on property and equipment was $335 million, $411 million and $353 million in 2022, 2021 and 2020, respectively.
+
+[VERBATIM — Infrastructure IA]
+non-redeemable preferred stocks and real estate investment trust (“REIT”) equity investments. Certain exchange traded and mutual funds have fixed income securities as their underlying investments. Mortgage loans of $762 million mainly comprise loans secured by first mortgages on developed commercial real estate. Key considerations used to manage our exposure include property type and geographic diversification. For further detail on our mortgage loan portfolio, see Note 5 of the consolidated financial statements. Limited partnership interests include $6.59 billion of interests in private equity funds, $1.04 billion of interests in real estate funds and $483 million of interests in other funds as of December 31, 2022. We have commitments to invest additional amounts in limited partnership interests totaling $2.78 billion as of December 31, 2022. Private equity limited partnerships by sector (% of carrying value) December 31, 2022 Industrial 18.8 % Healthcare 12.1 Consumer discretionary 11.0 Information technology 11.0 Consumer staples 9.5 Other 37.6 Total 100.0 % Real estate limited partnerships by sector (% of carrying value) December 31, 2022 Industrial 27.7 % Residential 22.0 Data centers 14.2 Healthcare 11.1 Consumer staples 7.0 Other 18.0 Total 100.0 % Short-term investments of $4.17 billion primarily comprise money market funds, commercial paper, U.S. Treasury bills and other short-term investments, including securities lending collateral of $1.50 billion. Other investments primarily comprise $686 million of bank loans, $813 million of real estate, $120 million of policy loans and $1 million of derivatives as of December 31, 2022. For further detail on our use of derivatives, see Note 7 of the consolidated financial statements. Direct real estate investments by sector (% of carrying value) December 31, 2022 Residential 28.0 % Agriculture 22.3 Industrial 17.5 Retail 16.4 Other 15.8 Total 100.0 %  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

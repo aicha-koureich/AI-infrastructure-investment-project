@@ -1,0 +1,21 @@
+FIRM         : MRTN (CIK 0000799167) | FY2013
+FILE         : 0000799167_MRTN_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : tractors
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 4.5 ans | 5.0 ans | 5.5 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation expense calculated in this manner approximates the continuing declining value of the revenue equipment, and continues at a consistent straight-line rate for units held beyond the normal replacement cycle.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

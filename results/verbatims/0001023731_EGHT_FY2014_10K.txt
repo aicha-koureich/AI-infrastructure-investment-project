@@ -1,0 +1,26 @@
+FIRM         : EGHT (CIK 0001023731) | FY2014
+FILE         : 0001023731_EGHT_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. THE COMPANY AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : furniture and fixtures
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation and amortization. Estimated useful lives of three years are used for equipment and software and five years for furniture and fixtures.
+
+[VERBATIM — Infrastructure IA]
+Fourth, we continued to build on our Global Reach initiative by continuing to invest in our Voicenet United Kingdom subsidiary, establishing a branch in Canada, and opening
+data centers in Hong Kong and Australia during the year. We are in the process of migrating services for non-US customers to our new overseas infrastructure. Beyond serving the
+needs of existing customers, it is our intent to penetrate these markets through a variety of additional methods including strategic alliances, partners and acquisitions.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU 2015-05, Intangibles -Goodwill and Other -Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a
+Cloud Computing Arrangement . This ASU provide guidance to customers about whether a cloud computing arrangement includes a software license. For public business
+entities, the amendments will be effective for annual periods, including interim periods within those annual periods, beginning after December 15, 2015. The Company is currently
+assessing the impact of this pronouncement to its consolidated financial statements.

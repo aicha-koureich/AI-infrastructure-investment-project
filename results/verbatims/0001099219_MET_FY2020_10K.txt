@@ -1,0 +1,24 @@
+FIRM         : MET (CIK 0001099219) | FY2020
+FILE         : 0001099219_MET_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Business, Basis of Presentation and Summary of Significant Accounting Policies (continued)
+ASSET CAT.   : Computer software, capitalized software
+DURÉE        : 4.0-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 4.0 ans
+
+[VERBATIM — Durée de vie]
+Computer software, which is included in other assets, is stated at cost, less accumulated amortization. Accumulated amortization of capitalized software was $2.5 billion at both December 31, 2020 and 2019.
+
+[VERBATIM — Changement de politique]
+• Net investment income: (i) includes adjustments for earned income on derivatives and amortization of premium on derivatives that are hedges of investments or that are used to replicate certain investments, but do not qualify for hedge accounting treatment, (ii) excludes post-tax adjusted earnings adjustments relating to insurance joint ventures accounted for under the equity method, (iii) excludes certain amounts related to contractholder-directed equity securities, (iv) excludes certain amounts related to securitization entities that are VIEs consolidated under GAAP and (v) includes distributions of profits from certain other limited partnership interests that were previously accounted for under the cost method, but are now accounted for at estimated fair value, where the change in estimated fair value is recognized in net investment gains (losses) under GAAP; and
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

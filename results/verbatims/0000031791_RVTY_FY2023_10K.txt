@@ -1,0 +1,20 @@
+FIRM         : RVTY (CIK 0000031791) | FY2023
+FILE         : 0000031791_RVTY_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 10: Property, Plant and Equipment, Net
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense on property, plant and equipment for the fiscal years ended December 31, 2023, January 1, 2023 and January 2, 2022 was $66.7 million, $56.4 million and $54.9 million, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The revenue generated from the sale of licenses for software as a service, cloud services, subscriptions, and laboratory services and training is recognized over time. Term licenses, subscriptions and cloud services, are generally recognized ratably over the contract period. The Company sells its software subscriptions and cloud services with maintenance services and, in some cases, with consulting services. The Company recognizes revenue for the software commencing when the service is made available to the customer. For maintenance and consulting services, revenue is recognized over the period in which the services are provided. Revenue for laboratory services is recognized over the contract period or when the service is billable, based on time and materials.

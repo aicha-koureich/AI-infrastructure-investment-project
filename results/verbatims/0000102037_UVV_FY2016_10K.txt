@@ -1,0 +1,23 @@
+FIRM         : UVV (CIK 0000102037) | FY2016
+FILE         : 0000102037_UVV_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. NATURE OF OPERATIONS AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, Machinery and equipment, machinery, computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of plant and equipment is based upon historical cost and the estimated useful lives of the assets.
+
+[VERBATIM — Changement de politique]
+In April 2015, the FASB issued Accounting Standards Update 2015-05, “Intangibles - Goodwill and Other - Internal-Use Software - Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement” (“ASU 2015-05”). ASU 2015-05 requires customers who enter into a cloud computing arrangement that includes a software license to account for the arrangement as an intangible asset. If the cloud computing arrangement does not include a software license, the arrangement is accounted for as a service contract. The guidance was effective for fiscal years beginning after December 31, 2015, and allows for retrospective or prospective adoption. The Company prospectively adopted ASU 2015-05 effective as of April 1, 2016, the beginning of fiscal year 2017. The Company’s adoption of ASU 2015-05 did not have a material impact on its consolidated financial statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued Accounting Standards Update 2015-05, “Intangibles - Goodwill and Other - Internal-Use Software - Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement” (“ASU 2015-05”). ASU 2015-05 requires customers who enter into a cloud computing arrangement that includes a software license to account for the arrangement as an intangible asset. If the cloud computing arrangement does not include a software license, the arrangement is accounted for as a service contract. The guidance was effective for fiscal years beginning after December 31, 2015, and allows for retrospective or prospective adoption. The Company prospectively adopted ASU 2015-05 effective as of April 1, 2016, the beginning of fiscal year 2017. The Company’s adoption of ASU 2015-05 did not have a material impact on its consolidated financial statements.

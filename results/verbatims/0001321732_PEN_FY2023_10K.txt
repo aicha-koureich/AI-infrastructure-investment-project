@@ -1,0 +1,21 @@
+FIRM         : PEN (CIK 0001321732) | FY2023
+FILE         : 0001321732_PEN_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-06
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies Basis of Presentation and Consolidation
+ASSET CAT.   : equipment, Machinery and equipment, furniture and fixtures
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-7.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation. Machinery and equipment and furniture and fixtures are depreciated over a five to ten year period and computers and software are depreciated over two to seven years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| The Company capitalizes certain implementation costs incurred in agreements that qualify as cloud computing arrangements. The cost expenditures for implementation, set-up, and other upfront costs incurred in a cloud computing arrangement that is hosted by the vendor are capitalized and are recorded in prepaid expenses and other current assets and other non-current assets in our consolidated balance sheets. Such costs are amortized over the life of the related cloud computing arrangement.

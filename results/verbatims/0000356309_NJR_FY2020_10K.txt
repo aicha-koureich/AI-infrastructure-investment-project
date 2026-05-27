@@ -1,0 +1,23 @@
+FIRM         : NJR (CIK 0000356309) | FY2020
+FILE         : 0000356309_NJR_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-10-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3. Revenue
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : A100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Operations and maintenance expenses include operations and maintenance salaries and benefits, materials and supplies, usage of vehicles, tools and equipment, payments to contractors, utility plant maintenance, amortization of software costs for unregulated entities, customer service, professional fees and other outside services, insurance expense, accretion of cost of removal for future retirements of utility assets and other administrative expenses and are expensed as incurred.
+
+[VERBATIM — Changement de politique]
+Change in estimated useful life
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

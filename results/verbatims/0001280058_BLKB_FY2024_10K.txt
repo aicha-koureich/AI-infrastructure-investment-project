@@ -1,0 +1,20 @@
+FIRM         : BLKB (CIK 0001280058) | FY2024
+FILE         : 0001280058_BLKB_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 18. Subsequent Events
+ASSET CAT.   : capitalized software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Qualifying capitalized software and content development costs are amortized on a straight-line basis over the software asset's estimated useful life, which is generally three to seven years. We write off the gross carrying amount and accumulated amortization balances for all fully amortized capitalized software and content development cost assets.
+
+[VERBATIM — Infrastructure IA]
+• Continued IT consolidation as we migrate customers from legacy private data centers to leading public cloud service providers. We closed four legacy data centers during 2022 and two in 2023.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+• Renegotiated key vendor contracts including Microsoft Azure and AWS ||| Renegotiated key vendor contracts including Microsoft Azure and AWS ||| (1) Includes amortization expense related to software and content development costs and amortization expense from capitalized cloud computing implementation costs.

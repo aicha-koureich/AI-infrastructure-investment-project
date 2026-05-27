@@ -1,0 +1,20 @@
+FIRM         : NVRI (CIK 0000045876) | FY2016
+FILE         : 0000045876_NVRI_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is recorded at cost and depreciated over the estimated useful lives of the assets using, principally, the straight-line method. When property, plant and equipment is retired from service, the cost of the retirement is charged to the allowance for depreciation to the extent of the accumulated depreciation and the balance is charged to income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+On January 1, 2016, the Company adopted changes issued by the FASB related to the determination of whether a cloud computing arrangement includes a software license. If a cloud computing arrangement is determined to include a software license, then the customer accounts for the software license element consistent with the acquisition of other software licenses. If the arrangement is determined not to contain a software license, the customer should account for the arrangement as a service contract. The changes became effective for the Company on January 1, 2016. The adoption of these changes did not have a material impact on the Company's consolidated financial statements.

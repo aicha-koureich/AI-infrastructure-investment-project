@@ -1,0 +1,20 @@
+FIRM         : DXYN (CIK 0000029332) | FY2018
+FILE         : 0000029332_DXYN_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 29, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Provisions for depreciation and amortization of property, plant and equipment have been computed for financial reporting purposes using the straight-line method over the estimated useful lives of the related assets, ranging from
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,30 @@
+FIRM         : IOSP (CIK 0001054905) | FY2014
+FILE         : 0001054905_IOSP_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 7. Other Intangible Assets
+ASSET CAT.   : Not disclosed
+DURÉE        : 5.0-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+In 2014 we continued with the process of developing our new, company-wide,
+information system platform, following the successful deployment at the majority of our U.S. sites in the third quarter of 2013. Our next phase of implementation includes the majority of reporting units outside of the U.S.. At December 31,
+2014 we had capitalized $27.8 million (2013 – $19.5 million) in relation to this internally developed software. This asset has an expected life of 5 years and is being amortized on a straight-line basis over this period. No residual value is
+anticipated. An amortization expense of $3.8 million was recognized in 2014 (2013 – $1.0 million) in selling, general and administrative expenses.
+
+[VERBATIM — Changement de politique]
+An intangible asset of $28.4 million was recognized in the second quarter of
+2007 in respect of Ethyl Corporation foregoing their entitlement effective April 1, 2007 to a share of the future income stream under the sales and marketing agreements to market and sell TEL. In 2008, contract provisions no longer deemed
+necessary of $6.3 million were offset against the intangible asset. The amount attributed to the Octane Additives reporting segment was being amortized straight-line to December 31, 2012 and the amount attributed to the Fuel Specialties
+reporting segment is being amortized straight-line to December 31, 2017. Effective October 1, 2011, the Company extended its estimate for the future life of the Octane Additives segment from December 31, 2012 to December 31, 2013
+and therefore prospectively adjusted the amortization period for the amount attributed to the Octane Additives segment. An amortization expense of $1.0 million was recognized in 2014 (2013 – $1.7 million) in cost of goods sold.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

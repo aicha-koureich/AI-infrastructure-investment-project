@@ -1,0 +1,21 @@
+FIRM         : PINS (CIK 0001506293) | FY2023
+FILE         : 0001506293_PINS_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of business and summary of significant accounting policies
+ASSET CAT.   : Equipment Useful Life Computer and network equipment
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 4.0 ans
+
+[VERBATIM — Durée de vie]
+Property and Equipment Useful Life Computer and network equipment 3 years Furniture and fixtures 4 years Leasehold improvements Lesser of estimated useful life or remaining lease term
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We have an agreement with Amazon Web Services (“AWS”) to provide the cloud computing infrastructure we use to host our website, mobile application and many of the internal tools we use to operate our business. We are currently required to maintain a substantial majority of our monthly usage of certain compute, storage, data transfer and other services on AWS. Any transition of the cloud services currently provided by AWS to another cloud services provider would be difficult to implement and would cause us to incur significant time and expense. ||| In April 2021, we entered into a new private pricing addendum with AWS, which governs our use of cloud computing infrastructure provided by AWS. Under the new pricing addendum, we are required to purchase at least $3,250.0 million of cloud services from AWS through April 2029. If we fail to do so, we are required to pay the difference between the amount we spend and the required commitment amount. As of December 31, 2023, our remaining contractual commitment i s $1,754.6 million. W e expect to meet our remaining commitment.

@@ -1,0 +1,20 @@
+FIRM         : TRIP (CIK 0001526520) | FY2016
+FILE         : 0001526520_TRIP_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Cost of revenue consists of expenses that are directly related or closely correlated to revenue generation, including direct costs, such as ad serving fees, flight search fees, credit card fees and other transaction costs, and data center costs. In addition, cost of revenue includes personnel and overhead expenses, including salaries, benefits, stock-based compensation and bonuses for certain customer support personnel who are directly involved in revenue generation.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued new accounting guidance which clarifies the accounting for fees paid by a customer in a cloud computing arrangement. This standard clarified whether a customer should account for a cloud computing arrangement as an acquisition of a software license or as a service arrangement by providing characteristics that a cloud computing arrangement must have in order to be accounted for as a software license acquisition. If a cloud computing arrangement includes a software license, the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If the arrangement does not include a software license, the customer should account for a cloud computing arrangement as a service contract. The company prospectively adopted this guidance in the first quarter of 2016. The adoption of this guidance did not have a material impact on our consolidated financial statements and related disclosures.

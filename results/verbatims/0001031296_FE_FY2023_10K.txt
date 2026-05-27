@@ -1,0 +1,23 @@
+FIRM         : FE (CIK 0001031296) | FY2023
+FILE         : 0001031296_FE_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+On March 16, 2023, JCP&L filed a base rate case with the NJBPU, utilizing a test year based on six months of actual data for the second half of calendar year 2022, and six months of forecasted data for the first half of calendar year 2023. The rate case requested an annual net increase in base distribution revenues of approximately $185 million, plus a request to establish a regulatory asset (or liability) to recover (or refund) in a subsequent base rate case the net differences between the amount of pension and OPEB expense requested in the proceeding (based on 2023 expense) and the actual annual amount each year using the delayed recognition method. JCP&L updated its base rate case in filings made on June 2, 2023 and August 7, 2023 to provide actual test-year data for the twelve months ended June 30, 2023, and update its proposed annual net increase in base rate distribution revenues to approximately $192 million. In addition to the above, JCP&L’s request includes, among other things, approval of two new proposed programs to assist low-income customers, cost recovery of certain investments and expenses associated with its electric vehicle and AMI programs, an update of its depreciation rates, modifications to its storm cost recovery, and tariff modifications to update standard construction costs. A procedural schedule was adopted with evidentiary hearings to be held the week of January 8, 2024. On October 17, 2023, JCP&L requested a suspension of the procedural schedule to enter into
+
+[VERBATIM — Infrastructure IA]
+▪ Operational Flexibility Projects that build capacity and support evolving grid such as interconnection of New Jersey offshore wind and data center load  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

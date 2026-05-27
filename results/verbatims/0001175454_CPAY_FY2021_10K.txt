@@ -1,0 +1,20 @@
+FIRM         : CPAY (CIK 0001175454) | FY2021
+FILE         : 0001175454_CPAY_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : computer software, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Software development costs are amortized using the straight-line method over the estimated useful life of the software. Amortization expense for software totaled $46.7 million, $40.2 million and $37.2 million in 2021, 2020 and 2019, respectively.
+
+[VERBATIM — Infrastructure IA]
+The Company primarily leases office space, data centers, vehicles, and equipment. Some of our leases contain variable lease payments, typically payments based on an index. The Company’s leases have remaining lease terms of one year to thirty years, some of which include options to extend from one to five years or more. The exercise of lease renewal options is typically at the Company's sole discretion; therefore, the majority of renewals to extend the lease terms are not reasonably certain to exercise and are not included in Right of Use (ROU) assets and lease liabilities. Variable lease payments based on an index or rate are initially measured using the index or rate in effect at lease commencement, for the purposes of transition, the rate in effect at January 1, 2019. Additional payments based on the change in an index or rate are recorded as a period expense when incurred. Lease modifications result in remeasurement of the lease liability as of the modification date.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

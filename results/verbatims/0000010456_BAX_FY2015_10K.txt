@@ -1,0 +1,26 @@
+FIRM         : BAX (CIK 0000010456) | FY2015
+FILE         : 0000010456_BAX_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 SUMMARY OF SIGNIFICANT
+ACCOUNTING POLICIES
+ASSET CAT.   : buildings and improvements and from 3 to 15 years for machinery and equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense is calculated using the straight-line method over the estimated useful lives of the related assets,
+which range from 20 to 50 years for buildings and improvements and from three to 15 years for machinery and equipment. Capitalized software
+costs are amortized on a straight-line basis over the estimated useful lives of the software, and are included in depreciation expense.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU No. 2015-05,
+Intangibles — Goodwill and Other — Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement, which provides guidance to customers about how to account for cloud
+computing arrangements when such arrangements include software licenses. ASU No. 2015-05 will be effective for the company beginning on January 1, 2016. The standard may be applied retrospectively or prospectively. The company does not
+expect a material impact from the adoption of this standard.

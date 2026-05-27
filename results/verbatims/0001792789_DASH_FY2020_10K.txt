@@ -1,0 +1,24 @@
+FIRM         : DASH (CIK 0001792789) | FY2020
+FILE         : 0001792789_DASH_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Estimates include, but are not limited to, revenue recognition, allowances for credit losses, estimated useful lives of property and equipment, capitalized software and website development costs, intangible assets, stock-based compensation, valuation of investments and other financial instruments, valuation of acquired intangible assets and goodwill, the incremental borrowing rate applied in lease accounting, insurance reserves, loss contingencies, and income and indirect taxes.
+
+[VERBATIM — Changement de politique]
+As a result of the Company’s progress of integrating Caviar into its existing technology platform, the Company evaluated the remaining useful life of existing technology in February 2020 and determined there was a change in the estimated useful life of this asset that would require an acceleration of the amortization expense. The useful life of Caviar existing technology was reduced to 0.7 years at the time of the change in estimate, resulting in additional amortization expense of $15 million for the year ended December 31, 2020.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

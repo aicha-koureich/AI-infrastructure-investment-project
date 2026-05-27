@@ -1,0 +1,20 @@
+FIRM         : GOOGL (CIK 0001652044) | FY2016
+FILE         : 0001652044_GOOGL_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We continue to make significant research and development (R&D) investments in areas of strategic focus for Google, such as search, advertising, and machine learning, as well as in new products and services across both Google and Other Bets. The amount of our capital expenditures has fluctuated and may continue to fluctuate in the long term as we invest heavily in our systems, data centers, real estate and facilities, and information technology infrastructure.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Non-advertising revenues have grown over time. We expect this trend to continue as we focus on expanding our Google offerings to our users through products and services like Google Cloud, Google Play, and hardware products. Across these initiatives, we currently derive non-advertising revenues primarily from hardware sales, sales of apps, in-app purchases and digital content products, and service and licensing fees; the margins on these non-advertising businesses vary significantly and may be lower than the margins on our advertising business. A number of our Other Bets initiatives are in their initial development stages, and as such, the sources of revenues from these businesses could change over time and the revenues could be volatile. ||| Google – Google includes our main internet products such as Search, Ads, Commerce, Maps, YouTube, Google Cloud, Android, Chrome, and Google Play as well as our hardware initiatives. Our technical infrastructure and some newer efforts like virtual reality are also included in Google. Google generates revenues primarily from advertising, sales of digital content, apps and cloud offerings, and sales of hardware products. ||| Service fees received for our Google Cloud offerings.

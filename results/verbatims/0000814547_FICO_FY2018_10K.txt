@@ -1,0 +1,21 @@
+FIRM         : FICO (CIK 0000814547) | FY2018
+FILE         : 0000814547_FICO_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 20. Supplementary Financial Data (Unaudited)
+ASSET CAT.   : equipment, furniture
+DURÉE        : 3.0-6.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-6.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated Useful Life Data processing equipment and software 3 to 6 years Office furniture and equipment 3 to 7 years Leasehold improvements Shorter of estimated useful life or lease term
+
+[VERBATIM — Infrastructure IA]
+Applications. This segment includes pre-configured decision management applications designed for a specific type of business problem or process — such as marketing, account origination, customer management, fraud, collections and insurance claims management — as well as associated professional services. These applications are available to our customers as on-premises software, and many are available as hosted, software-as-a-service applications through the FICO ® Analytic Cloud and/or Amazon Web Services, Inc. (“AWS”), our primary cloud infrastructure provider.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Analytic Cloud, and starting fiscal 2017 we added AWS as our primary cloud infrastructure provider. We have migrated several core applications, including the Decision Management Suite, to AWS and will migrate additional applications over the next couple of years. Our cloud bookings accounted for 35% and 24% of our total bookings during fiscal 2018 and 2017, respectively, directly demonstrating the willingness among our customers to engage our cloud-based solutions. ||| to $342.6 million in fiscal 2018 from $266.4 million in fiscal 2017, and Scores operating income increased 32% to $279.2 million in fiscal 2018 from $211.9 million in fiscal 2017. For our Applications and Decision Management Software segments, our cloud business continues to grow both in the absolute dollar value and as a percentage of revenues as we pursue our cloud-first strategy. During fiscal 2018, cloud revenues accounted for $241.5 million, or 35% of non-Scores revenues, compared to $202.7 million, or 30% during fiscal 2017. ||| The fiscal 2018 over 2017 increase of $17.5 million in research and development expenses was primarily attributable to a $14.8 million increase in personnel and labor costs as a result of our continued investment in the areas of cloud computing and SaaS, as well as new products. Research and development expenses as a percentage of revenues were 12% during fiscal 2018, consistent with those incurred during fiscal 2017.

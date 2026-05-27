@@ -1,0 +1,20 @@
+FIRM         : TRU (CIK 0001552033) | FY2013
+FILE         : 0001552033_TRU_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 22. Financial Statements of Guarantors
+ASSET CAT.   : Computer equipment, furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(in millions) December 31, 2013 December 31, 2012 Computer equipment and furniture $ 107.8 $ 75.5 Building and building improvements 64.3 42.7 Purchased software 45.3 26.2 Land 3.2 3.2 Total cost of property, plant and equipment 220.6 147.6 Less: accumulated depreciation (70.2 ) (26.4 ) Total property, plant and equipment, net of accumulated depreciation $ 150.4 $ 121.2
+
+[VERBATIM — Infrastructure IA]
+For 2012, cost of services increased $48.7 million compared to 2011. The increase was due primarily to a $48.6 million increase in labor-related costs, including the $21.5 million of additional stock-based compensation expense and additional variable compensation costs resulting from the increase in revenue, a $21.7 million increase in variable product costs due to increased volumes primarily in our Interactive and USIS segments, and expansion costs including the incremental operating costs of FHS, Crivo and CRB. These increases were partially offset by a $20.7 million decrease in data center operating and maintenance costs in our USIS segment due to insourcing these operations and the impact of weakening foreign currencies on the 2012 expenses of our International segment.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

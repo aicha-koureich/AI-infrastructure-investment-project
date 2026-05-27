@@ -1,0 +1,21 @@
+FIRM         : SABR (CIK 0001597033) | FY2022
+FILE         : 0001597033_SABR_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-17
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Business and Significant Accounting Policies
+ASSET CAT.   : technology, information technology, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Technology costs consist of expenses related to third-party providers and employee-related costs to operate technology operations including data processing and hosting, third-party software, other costs associated with the maintenance and minor enhancement of our technology, and depreciation and amortization associated with software developed for internal use that supports our products, assets supporting our technology platform, businesses and systems and intangible assets related to technology. Selling, general and administrative expenses consist of professional service fees, certain settlement charges or reimbursements, costs to defend legal disputes, provision for expected credit losses, other overhead costs, personnel-related expenses, including stock-based compensation, for employees engaged in sales, sales support, account management and who administratively support the business in finance, legal, human resources, information technology and communications, and depreciation and amortization associated with property and equipment, acquired customer relationships, trademarks and brand names.
+
+[VERBATIM — Infrastructure IA]
+We expect to benefit from higher margins beginning in 2025 than would be realized had we not undertaken our technology transformation efforts as we believe the technology transformation will help enable us to avoid capital expenditures that would have otherwise been required and to yield lower cloud infrastructure costs. We believe that continued investment in our technology will help to provide us the necessary framework and infrastructure for a secure and stable architecture for our customers, grow our addressable market, provide new revenue opportunities, reduce costs and will help to improve sales of our software solutions. However, there are various risks associated with our technology transformation efforts, including not achieving the amount of anticipated cost savings, not completing the steps during their current projected time frame, or changing the approach leading to, among other things, additional changes in our mix of technology spend between operating expense and capitalization.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

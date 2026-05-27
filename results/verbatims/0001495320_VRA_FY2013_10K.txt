@@ -1,0 +1,23 @@
+FIRM         : VRA (CIK 0001495320) | FY2013
+FILE         : 0001495320_VRA_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+When a decision is made to abandon property, plant, and equipment prior to the end of the previously estimated useful life, depreciation or amortization estimates are revised to reflect the use of the asset over the shortened estimated useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

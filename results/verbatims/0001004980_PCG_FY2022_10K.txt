@@ -1,0 +1,20 @@
+FIRM         : PCG (CIK 0001004980) | FY2022
+FILE         : 0001004980_PCG_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 3: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment are reported at the lower of their historical cost less accumulated depreciation or fair value. The Utility’s estimated service lives of its property, plant, and equipment were as follows: Estimated Service Balance at December 31, (in millions, except estimated service lives) Lives (years) 2022 2021 Electricity generating facilities (1) 5 to 75 $ 11,781 $ 11,217 Electricity distribution facilities 10 to 70 41,061 37,723 Electricity transmission facilities 15 to 75 16,413 15,516 Natural gas distribution facilities 20 to 60 15,366 14,100 Natural gas transmission and storage facilities 5 to 66 9,859 9,067 Financing lease 18 18 Construction work in progress 4,137 3,480 General plant and other 5 to 50 8,518 7,838 Total property, plant, and equipment 107,153 98,959 Accumulated depreciation (30,946) (29,131) Net property, plant, and equipment (2) $ 76,207 $ 69,828
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

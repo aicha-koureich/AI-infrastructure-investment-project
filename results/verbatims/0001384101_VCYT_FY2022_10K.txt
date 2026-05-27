@@ -1,0 +1,20 @@
+FIRM         : VCYT (CIK 0001384101) | FY2022
+FILE         : 0001384101_VCYT_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies Basis of Presentation
+ASSET CAT.   : equipment, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+The components of the Company's cost of testing services are laboratory expenses, sample collection expenses, compensation expense, license fees and royalties, depreciation, other expenses such as equipment and laboratory supplies, and allocations of facility and information technology expenses.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : FOSL (CIK 0000883569) | FY2019
+FILE         : 0000883569_FOSL_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 28, 2019
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Significant Accounting Policies
+ASSET CAT.   : computer equipment and software
+DURÉE        : 2.0-7.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment is stated at cost less accumulated depreciation and amortization. Depreciation is calculated using the straight-line method over the estimated useful lives of the assets of 30 years for buildings, generally five years for machinery and equipment and furniture and fixtures and two to seven years for computer equipment and software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

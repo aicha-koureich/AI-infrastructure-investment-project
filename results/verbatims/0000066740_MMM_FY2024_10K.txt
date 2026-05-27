@@ -1,0 +1,20 @@
+FIRM         : MMM (CIK 0000066740) | FY2024
+FILE         : 0000066740_MMM_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. Significant Accounting Policies
+ASSET CAT.   : Equipment, machinery and equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Internal-use software elements of PPE are depreciated over a period of three to seven years. 3M records capital-related government grants earned as reductions to the cost of PPE and associated unpaid liabilities and grant proceeds receivable are considered non-cash changes in such balances for purposes of preparation of statement of cash flows.
+
+[VERBATIM — Infrastructure IA]
+Business Segment Representative revenue-generating activities, products or services Safety and Industrial • Industrial abrasives and finishing for metalworking applications • Autobody repair solutions • Industrial specialty products such as personal hygiene products, masking, and packaging materials • Electrical products and materials for construction and maintenance, power distribution and electrical original equipment manufacturers (OEMs) • Structural adhesives and tapes • Respiratory, hearing, eye and fall protection solutions • Natural and color-coated mineral granules for shingles Transportation and Electronics • Advanced ceramic solutions • Attachment/bonding, films, sound and temperature management for transportation vehicles • Premium large format graphic films for advertising and fleet signage • Reflective signage for highway, and vehicle safety • Light management films and electronics assembly solutions • Chip packaging and interconnection solutions • Semiconductor production materials • Solutions for data centers Consumer • Cleaning products for the home • Consumer air quality products • Picture hanging accessories • Retail abrasives, paint accessories and safety products • Stationery and office products • Automotive appearance products • Consumer bandages, tapes, braces and supports Some seasonality impacts this business segment, for example back-to-school and holiday  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

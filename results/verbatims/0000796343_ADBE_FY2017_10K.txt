@@ -1,0 +1,20 @@
+FIRM         : ADBE (CIK 0000796343) | FY2017
+FILE         : 0000796343_ADBE_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We record property and equipment at cost less accumulated depreciation and amortization. Property and equipment are depreciated using the straight-line method over their estimated useful lives ranging from
+
+[VERBATIM — Infrastructure IA]
+% Change 2017-2016 % Change 2016-2015 Media costs 9 — Hosting services and data center costs 7 9 Royalty costs 6 2 Base compensation and related benefits associated with headcount 6 2 Incentive compensation, cash and stock based 5 — Amortization of purchased intangibles 2 (4 ) Depreciation expense (1 ) 2 Various individually insignificant items 1 2 Total change 35 % 13 %  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Our total deferred revenue of $2.49 billion as of December 1, 2017 increased by $479.8 million , or 24% , from $2.01 billion as of December 2, 2016 . The increase was primarily due to increases in Creative Cloud team and individual subscriptions, and new contracts and the timing of renewals for our Adobe Experience Cloud services. ||| . The increase was primarily due to increases in Creative Cloud team and individual subscriptions, and new contracts and the timing of renewals for our Adobe Experience Cloud services. ||| Our subscription revenue is comprised primarily of fees we charge for our subscription and hosted service offerings including Creative Cloud and certain of our Adobe Experience Cloud and Document Cloud services. We recognize subscription revenue ratably over the term of agreements with our customers, beginning with commencement of the service.

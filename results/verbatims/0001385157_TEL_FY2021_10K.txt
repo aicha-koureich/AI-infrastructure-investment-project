@@ -1,0 +1,20 @@
+FIRM         : TEL (CIK 0001385157) | FY2021
+FILE         : 0001385157_TEL_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 24, 2021
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Data and devices (57% of segment’s net sales)— We deliver products and solutions that are used in a variety of equipment architectures within the networking equipment, data center equipment, and wireless infrastructure industries. Additionally, we deliver a range of connectivity solutions for the Internet of Things, smartphones, tablet computers, notebooks, and virtual reality applications to help our customers meet their current challenges and future innovations.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

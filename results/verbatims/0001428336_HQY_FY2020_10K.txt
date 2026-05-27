@@ -1,0 +1,20 @@
+FIRM         : HQY (CIK 0001428336) | FY2020
+FILE         : 0001428336_HQY_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-04-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of business and significant accounting policies
+ASSET CAT.   : capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Management has made estimates for the allowance for doubtful accounts, capitalized software development costs, evaluating goodwill and long-lived assets for impairment, useful lives of property and equipment and intangible assets, accrued compensation, accrued liabilities, grant date fair value of stock options and performance restricted stock units and restricted stock awards, and income taxes.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

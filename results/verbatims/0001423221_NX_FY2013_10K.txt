@@ -1,0 +1,23 @@
+FIRM         : NX (CIK 0001423221) | FY2013
+FILE         : 0001423221_NX_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Nature of Operations, Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : technology, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The software is then amortized over its estimated useful life.
+
+[VERBATIM — Changement de politique]
+related to our implementation of an enterprise resource planning system that had not yet been placed in service. This ERP project was placed into service in March 2013, with an initial useful life of 36 months assigned. In August 2013, our Board of Directors decided to cease the implementation of this ERP system for several reasons, but primarily in order to spend the resources on a number of organic growth opportunities that are available to us today which were not available when the implementation effort began in 2010. These opportunities will require capital but offer significantly higher returns on invested capital than a continued investment in the ERP system. We transitioned our operating facilities that were on the ERP system to legacy systems. We expensed costs associated with the most recent phase of the implementation which was in progress in August 2013 and totaled approximately $1.2 million. In addition, we incurred costs associated with one-time termination benefits, contract termination costs and other costs which were expensed as incurred prior to October 31, 2013. We used the ERP at these operating locations through October 31, 2013. As such, we recorded a change in accounting estimate related to the ERP assets capitalized and reduced the useful lives of the underlying assets, resulting in an accelerated depreciation charge of $15.3 million during the period from August 2013 to October 2013. The change in estimate resulted in an increase in net loss of $9.8 million, or $0.27 per share, for the year ended October 31, 2013. We expect to recognize approximately $0.5 million in depreciation expense associated with this asset during the first six months of fiscal 2014. We will continue to use this ERP for certain corporate functions and the underlying assets associated with these functions will continue to depreciate over the remainder of their original 36 month term.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

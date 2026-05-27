@@ -1,0 +1,20 @@
+FIRM         : PYPL (CIK 0001633917) | FY2021
+FILE         : 0001633917_PYPL_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-01-19
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+• Purchase obligation amounts include minimum purchase commitments for advertising, capital expenditures (computer equipment, software applications, engineering development services, and construction contracts), data center and cloud computing services, and other goods and services entered into in the ordinary course of business.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Technology and development expenses increased $396 million, or 15%, in 2021 compared to 2020 due primarily to increases in cloud computing services utilized in delivering our products, costs related to contractors and consultants, and, to a lesser extent, amortization expense associated with internally developed software. ||| • Purchase obligation amounts include minimum purchase commitments for advertising, capital expenditures (computer equipment, software applications, engineering development services, and construction contracts), data center and cloud computing services, and other goods and services entered into in the ordinary course of business. ||| Purchase obligation amounts include minimum purchase commitments for advertising, capital expenditures (computer equipment, software applications, engineering development services, and construction contracts), data center and cloud computing services, and other goods and services entered into in the ordinary course of business.

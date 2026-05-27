@@ -1,0 +1,24 @@
+FIRM         : APAM (CIK 0001517302) | FY2020
+FILE         : 0001517302_APAM_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies Basis of presentation
+ASSET CAT.   : Equipment Type Useful Life Computers and equipment
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : NVIDIA (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-14.0 ans | 3.0-5.0 ans | 5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and Equipment Type Useful Life Computers and equipment Five years Computer software Three to Five years Furniture and fixtures Seven years Leasehold improvements Two to 14 years
+
+[VERBATIM — Changement de politique]
+Deferred Tax Asset - Amortizable Basis Amounts Payable Under Tax Receivable Agreements December 31, 2018 $ 404,715 $ 369,355 2019 Holdings Common Unit Exchanges 13,424 11,410 Amortization (31,872) — Payments under TRAs (1) — (24,998) Change in estimate (2) 21,873 19,557 December 31, 2019 $ 408,140 $ 375,324 2020 Follow-On Offering 21,424 18,211 2020 Holdings Common Unit Exchanges 48,474 41,203 Amortization (34,686) — Payments under TRAs (1) — (26,943) Change in estimate (2) 3,602 4,673 December 31, 2020 $ 446,954 $ 412,468 (1) Interest payments of $60 thousand and $78 thousand were paid in addition to these TRA payments for the years ended December 31, 2020 and 2019, respectively. (2) Included in these totals are adjustments to the deferred tax assets for changes in the state deferred enacted tax rates of $3.7 million and $17.2 million for the years ended December 31, 2020 and 2019, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract , which aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The capitalized implementation costs will be expensed over the term of the hosting arrangement. The Company adopted the new guidance on January 1, 2020. The Company capitalized $1.3 million of software implementation costs and recorded $0.1 million of related amortization expense during the year ended December 31, 2020. ||| Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

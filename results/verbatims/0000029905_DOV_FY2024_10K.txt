@@ -1,0 +1,21 @@
+FIRM         : DOV (CIK 0000029905) | FY2024
+FILE         : 0000029905_DOV_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-17
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, machinery and equipment, furniture and fixtures
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+When property or equipment is sold or otherwise disposed of, the related cost and accumulated depreciation are removed from the respective accounts and the gain or loss realized on disposition is reflected in earnings. The Company depreciates its assets on a straight-line basis over their estimated useful lives as follows: buildings and improvements 5 to 31.5 years; machinery and equipment 3 to 15 years; furniture and fixtures 3 to 7 years; vehicles 3 to 7 years; and software 3 to 10 years.
+
+[VERBATIM — Infrastructure IA]
+The organic revenue growth was driven by robust shipment rates of single-use biopharma components and connectors used in liquid cooling of high performance computers and in data centers, as well as solid growth in precision components, partially offset by expected revenue declines in our plastics and polymer processing solutions business due to customers shifting focus to optimizing the significant capacity investments made over the last several years. We expect continued organic growth in 2025 primarily due to continued positive demand trends across most businesses and stable volumes in polymer processing.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

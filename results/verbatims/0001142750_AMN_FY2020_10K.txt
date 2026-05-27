@@ -1,0 +1,23 @@
+FIRM         : AMN (CIK 0001142750) | FY2020
+FILE         : 0001142750_AMN_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-02-26
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : furniture, equipment, capitalized software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company records furniture, equipment, leasehold improvements and capitalized software at cost less accumulated amortization and depreciation. The Company calculates depreciation on furniture, equipment and software using the straight-line method based on the estimated useful lives of the related assets ( three to ten years). The Company depreciates leasehold improvements and equipment obtained under finance leases over the shorter of the term of the lease or their estimated useful lives. The Company includes depreciation of equipment obtained under finance leases with depreciation expense in the accompanying consolidated financial statements.
+
+[VERBATIM — Changement de politique]
+During the third quarter of 2020, the Company revised the estimated useful lives for the tradenames and trademarks intangible assets as a result of its plan to rebrand the language interpretation business. Based on this change in circumstances since the date of acquisition, the Company determined that the remaining useful lives of the assets are five years and will amortize the remaining value on a straight-line basis over the remaining useful life. The Company will continue to evaluate the remaining useful lives of other intangible assets impacted by its brand consolidation efforts.
+
+[VERBATIM — Infrastructure IA]
+The Company leases certain office facilities, data centers, and equipment under various operating leases. The Company’s short-term leases (with initial lease terms of 12 months or less) are primarily related to housing arrangements for healthcare professionals on assignment. Most leases include one or more options to renew, with renewal terms that can extend the lease term up to 10 years. Certain leases also include options to terminate the leases within 3 years.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

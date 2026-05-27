@@ -1,0 +1,20 @@
+FIRM         : AME (CIK 0001037868) | FY2021
+FILE         : 0001037868_AME_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-09
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Significant Accounting Policies
+ASSET CAT.   : machinery and equipment
+DURÉE        : 5.0-27.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of plant and equipment is calculated principally on a straight-line basis over the estimated useful lives of the related assets. The range of lives for depreciable assets is generally three to 10 years for machinery and equipment, five to 27 years for leasehold improvements and 25 to 50 years for buildings.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

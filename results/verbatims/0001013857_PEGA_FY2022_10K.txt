@@ -1,0 +1,21 @@
+FIRM         : PEGA (CIK 0001013857) | FY2022
+FILE         : 0001013857_PEGA_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 6. PROPERTY AND EQUIPMENT (1) (in thousands) December 31, 2022 2021 Leasehold improvements $ 35,049 $ 31,203 Computer equipment 27,292 26,115 Furnitur
+ASSET CAT.   : EQUIPMENT, Computer equipment, Furniture and fixtures, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 3.0 ans | 4.5 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+PROPERTY AND EQUIPMENT (1) (in thousands) December 31, 2022 2021 Leasehold improvements $ 35,049 $ 31,203 Computer equipment 27,292 26,115 Furniture and fixtures 5,993 5,565 Computer software purchased 9,724 8,566 Computer software developed for internal use 19,869 19,463 Fixed assets in progress 37,342 4,262 135,269 95,174 Less: accumulated depreciation (80,213) (68,337) $ 55,056 $ 26,837
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

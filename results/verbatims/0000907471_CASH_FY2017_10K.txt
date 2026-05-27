@@ -1,0 +1,20 @@
+FIRM         : CASH (CIK 0000907471) | FY2017
+FILE         : 0000907471_CASH_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Buildings, furniture, fixtures, leasehold improvements and equipment are carried at cost, less accumulated depreciation and amortization. Capital leases, where we are the lessee, are included in premises and equipment at the capitalized amount less accumulated amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

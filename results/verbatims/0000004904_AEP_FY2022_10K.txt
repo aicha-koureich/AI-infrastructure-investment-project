@@ -1,0 +1,23 @@
+FIRM         : AEP (CIK 0000004904) | FY2022
+FILE         : 0000004904_AEP_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Electric utility property, plant and equipment for rate-regulated operations are stated at original cost. Additions, major replacements and betterments are added to the plant accounts. Under the group composite method of depreciation, continuous interim routine replacements of items such as boiler tubes, pumps, motors, etc. result in original cost retirements, less salvage, being charged to accumulated depreciation. The group composite method of depreciation assumes that on average, asset components are retired at the end of their useful lives and thus there is no gain or loss. The equipment in each primary electric plant account is identified as a separate group. The depreciation rates that are established take into account the past history of interim capital replacements and the amount of removal cost incurred and salvage received. These rates and the related lives are subject to periodic review. Removal costs accrued are typically recorded as regulatory liabilities when the revenue received for
+
+[VERBATIM — Changement de politique]
+In 2014, PSO received final approval from the Federal EPA to close Northeastern Plant, Unit 3, in 2026. The plant was originally scheduled to close in 2040. As a result of the early retirement date, PSO revised the useful life of Northeastern Plant, Unit 3, to the projected retirement date of 2026 and the incremental depreciation is being deferred as a regulatory asset. As part of the 2021 Oklahoma Base Rate Case, PSO will continue to recover Northeastern Plant, Unit 3 through 2040.
+
+[VERBATIM — Infrastructure IA]
+Critical cyber assets, such as data centers, power plants, transmission operations centers and business networks are protected using multiple layers of cyber security controls and authentication. Cyber hackers and other malicious actors have caused material disruption by successfully breaching a number of very secure facilities, including federal agencies and financial institutions. As understanding of these events develop, AEP has adopted a defense in depth approach to cyber security and continually assesses its cyber security tools and processes to determine where to strengthen its defenses. These strategies include monitoring, alerting and emergency response, forensic analysis, disaster recovery, threat sharing and criminal activity reporting. This approach has allowed AEP to deal with cyber and related threats, intrusions and attempted breaches in real-time and to limit their impact to levels that would be expected in the ordinary course of business in the absence of such malicious activity.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : HPE (CIK 0001645590) | FY2020
+FILE         : 0001645590_HPE_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-10-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 0 : Equity Method Investments
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+The Company states property, plant and equipment at cost less accumulated depreciation. Estimated useful lives are five to 40 years for buildings and improvements and three to 15 years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+In addition, the Intelligent Edge segment now includes the Data Center Networking ("DC Networking") operational services business that was previously a part of the Hybrid IT-HPE Pointnext business unit. The DC Networking business, other than operational services, had been transferred to the Intelligent Edge segment in a prior realignment.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The Company also believes that COVID-19 has forced fundamental changes in businesses and communities that are aligned with the Company's edge-to-cloud platform delivered as-a-service strategy. Navigating through the pandemic and planning for a post-COVID world have increased customers' needs for as-a-service offerings, secure connectivity, remote work capabilities and analytics to unlock insights from data. Our solutions are aligned to these needs, and we see opportunity to help our customers drive digital transformations as they continue to adapt to operate in a new world.

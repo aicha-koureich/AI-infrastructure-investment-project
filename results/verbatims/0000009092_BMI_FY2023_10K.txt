@@ -1,0 +1,21 @@
+FIRM         : BMI (CIK 0000009092) | FY2023
+FILE         : 0000009092_BMI_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 Basis of Presentation and Accounting Policies Profile With more than a century of water technology innovation, Badger Meter is a global provide
+ASSET CAT.   : Capitalized Software
+DURÉE        : 1.0-5.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+These amounts are amortized on a straight-line basis over the estimated useful lives of the software and/or hardware, ranging from 1 to 5 years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

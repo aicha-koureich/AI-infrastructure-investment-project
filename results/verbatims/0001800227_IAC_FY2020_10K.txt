@@ -1,0 +1,21 @@
+FIRM         : IAC (CIK 0001800227) | FY2020
+FILE         : 0001800227_IAC_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2—SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-3.0 ans | 3.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+On an ongoing basis, the Company evaluates its estimates, judgments and assumptions, including those related to: the fair values of cash equivalents and marketable debt and equity securities; the carrying value of accounts receivable, including the determination of the allowance for credit losses; the determination of revenue reserves; the determination of the customer relationship period for certain costs to obtain a contract with a customer; the carrying value of right-of-use assets ("ROU assets"); the useful lives and recoverability of building, capitalized software, leasehold improvements and equipment and definite-lived intangible assets; the recoverability of goodwill and indefinite-lived intangible assets; the fair value of equity securities without readily determinable fair values; contingencies; the fair value of acquisition-related contingent consideration arrangements; unrecognized tax benefits; the valuation allowance for deferred income tax assets; and the fair value of and forfeiture rates for stock-based awards, among others.
+
+[VERBATIM — Infrastructure IA]
+The Company leases land, office space, data center facilities and equipment used in connection with its operations under various operating leases, the majority of which contain escalation clauses.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Purchase obligations include (i) remaining payments of $14.4 million related to a two-year cloud computing contract that expires in April 2021, (ii) a remaining payment of $13.2 million related to the purchase of a 50% interest in a corporate aircraft that is expected to be made in 2021, (iii) remaining payment of $10.0 million related to the Company's allocable share of Old ||| IAC's cloud computing contract, and (iv) payments of $6.9 million related to advertising commitments to be made in 2021. Old IAC had a $150.0 million three-year cloud computing contract of which Old IAC paid $50.0 million in 2019, and $20.0 million and $80.0 million was assigned to the Company and Match Group, respectively, following the MTCH Separation. The Company paid $10.0 million in 2020 and had a related prepaid asset of $9.8 million at December 31, 2020 included in "Other current assets" on the balance sheet.

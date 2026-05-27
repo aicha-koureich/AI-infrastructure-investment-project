@@ -1,0 +1,23 @@
+FIRM         : CCK (CIK 0001219601) | FY2024
+FILE         : 0001219601_CCK_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-27
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment (“PP&E”) is carried at cost less accumulated depreciation and includes expenditures for new facilities and equipment and those costs which substantially increase the useful lives or capacity of existing PP&E.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

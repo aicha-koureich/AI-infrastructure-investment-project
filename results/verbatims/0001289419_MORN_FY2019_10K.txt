@@ -1,0 +1,23 @@
+FIRM         : MORN (CIK 0001289419) | FY2019
+FILE         : 0001289419_MORN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 5. Recognize revenue when (or as) performance obligations are satisfied.
+ASSET CAT.   : Capitalized software, equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of December 31 (in millions) 2019 2018 Capitalized software $ 328.3 $ 294.8 Capitalized equipment 70.1 83.5 Furniture and fixtures 33.7 29.6 Leasehold improvements 92.1 77.3 Telephone equipment 2.3 2.1 Construction in progress 5.5 7.9 Property, equipment, and capitalized software, at cost 532.0 495.2 Less accumulated depreciation (377.3 ) (351.7 ) Property, equipment, and capitalized software, net $ 154.7 $ 143.5
+
+[VERBATIM — Changement de politique]
+In calculating the pro forma information below, we included an estimate of amortization expense related to the intangible assets acquired, depreciation expense due to changes in estimated remaining useful lives of long-lived assets, reduction in revenue as a result of the fair value adjustments to deferred revenue, and interest expense incurred on the long-term debt. Unaudited Pro Forma Financial Information (in millions) 2019 2018 Revenue $ 1,259.2 $ 1,184.5 Operating income 190.3 223.6 Net income 148.2 179.7 Basic net income per share $ 3.47 $ 4.22 Diluted net income per share $ 3.43 $ 4.18
+
+[VERBATIM — Infrastructure IA]
+We expect to continue making capital expenditures in 2020 , primarily for computer hardware and software provided by third parties, internally developed software, and leasehold improvements for new and existing office locations. We continue to adopt more public cloud and software as a service applications for new initiatives and are in the process of migrating relevant parts of our data centers to the public cloud over the next several years. During this migration, we expect to run certain applications and infrastructure in parallel. These actions will have some transitional effects on our level of capital expenditures and operating expenses.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Compensation expense (which primarily consists of salaries, bonus, and other company-sponsored benefits) increased $80.3 million in 2019 . The addition of approximately 504 employees from the DBRS acquisition contributed $45.3 million of the total increase in compensation expense. The remaining increase reflects investments in headcount related to roles in data collection and analysis, product and software development, and sales and service support. Production expense increased $16.3 million, mainly due to the fees paid to sub-advisors and other costs related to the Morningstar Funds Trust as well as cloud computing costs. Amortization expense increased $15.8 million primarily from additional amortization related to intangibles from the acquisition of DBRS. Rent expense increased $13.6 million during 2019 in connection with planned expansion and office lease renewals in certain geographies. Stock-based compensation expense also increased $12.6 million in 2019 , primarily resulting from continued achievement of incentive targets under the PitchBook management bonus plan. ||| . The addition of approximately 504 employees from the DBRS acquisition contributed $45.3 million of the total increase in compensation expense. The remaining increase reflects investments in headcount related to roles in data collection and analysis, product and software development, and sales and service support. Production expense increased $16.3 million, mainly due to the fees paid to sub-advisors and other costs related to the Morningstar Funds Trust as well as cloud computing costs. Amortization expense increased ||| Cost of revenue increased $72.0 million , or 17.5% , in 2019 . Higher compensation expense of $46.9 million was the largest contributor to the increase. DBRS Morningstar contributed $31.9 million of the increase in compensation expense. Higher production expense of $16.3 million also contributed to the unfavorable variance in this category, mainly due to $9.5 million in fees paid to sub-advisors and other costs related to the Morningstar Funds Trust as well as cloud computing costs.

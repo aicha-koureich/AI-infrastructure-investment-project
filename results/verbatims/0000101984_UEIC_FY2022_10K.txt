@@ -1,0 +1,20 @@
+FIRM         : UEIC (CIK 0000101984) | FY2022
+FILE         : 0000101984_UEIC_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 6 — Property, Plant, and Equipment, Net
+ASSET CAT.   : Computer equipment, Furniture and fixtures, Machinery and equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, (In thousands) 2022 2021 Buildings $ 18,291 $ 19,830 Computer equipment 9,344 9,655 Furniture and fixtures 3,529 3,905 Leasehold and building improvements 39,761 41,437 Machinery and equipment 96,947 102,864 Software 23,607 23,993 Tooling 31,898 34,000 223,377 235,684 Accumulated depreciation (170,474) (165,906) 52,903 69,778 Construction in progress 9,888 4,869 Total property, plant, and equipment, net $ 62,791 $ 74,647
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

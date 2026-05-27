@@ -1,0 +1,20 @@
+FIRM         : GDDY (CIK 0001609711) | FY2019
+FILE         : 0001609711_GDDY_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Computer equipment
+DURÉE        : 3.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated Useful Lives December 31, 2019 2018 Computer equipment 3 years $ 434.8 $ 417.6 Software 3 years 55.9 40.5 Land Indefinite 9.0 9.0 Buildings, including improvements 5-40 years 145.5 175.0 Leasehold improvements Lesser of useful life or remaining lease term 99.4 70.8 Other 1-20 years 25.7 27.0 Total property and equipment 770.3 739.9 Less: accumulated depreciation and amortization (511.7) (440.9) Property and equipment, net $ 258.6 $ 299.0
+
+[VERBATIM — Infrastructure IA]
+We lease office and data center space in various locations. Prior to our adoption of the new lease standard on January 1, 2019, rent expense under operating leases was recognized on a straight-line basis over the lease term taking into consideration rent abatements, scheduled rent increases and any lease incentives.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued new guidance aligning the accounting for implementation costs incurred in cloud computing arrangements with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. We plan to adopt this guidance prospectively on January 1, 2020 and do not expect a material impact at adoption.

@@ -1,0 +1,20 @@
+FIRM         : AMD (CIK 0000002488) | FY2016
+FILE         : 0000002488_AMD_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : AMD_Radeon;B100;NVIDIA (3 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated useful lives for financial reporting purposes are as follows: equipment,
+
+[VERBATIM — Infrastructure IA]
+The WSA governs the terms by which the Company purchases products manufactured by GF. Pursuant to the WSA, the Company is required to purchase all of its microprocessor and APU product requirements and a certain portion of its GPU product requirements from GF with limited exceptions. If the Company acquires a third party business that manufactures microprocessor and APU products, the Company will have up to two years to transition the manufacture of such microprocessor and APU products to GF.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

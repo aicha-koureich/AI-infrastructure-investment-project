@@ -1,0 +1,25 @@
+FIRM         : CI (CIK 0001739940) | FY2018
+FILE         : 0001739940_CI_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 15
+ASSET CAT.   : furniture, equipment, computer equipment, capitalized software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+The
+Company calculates depreciation and amortization principally using the straight-line method generally based on the estimated useful life of each asset as follows: buildings and improvements, 10 to
+40 years; purchased software, three to five years; internally developed software, three to seven years; and furniture and equipment (including computer equipment), three to 10 years.
+
+[VERBATIM — Infrastructure IA]
+We
+leverage outsourced vendor services to provide certain disaster recovery services for systems located at our data centers. For systems not covered by a third-party vendor arrangement, such as our
+specialty pharmacy data centers, our corporate disaster recovery organization manages internal recovery services.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

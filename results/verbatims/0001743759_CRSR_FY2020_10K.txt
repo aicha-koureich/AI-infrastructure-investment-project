@@ -1,0 +1,20 @@
+FIRM         : CRSR (CIK 0001743759) | FY2020
+FILE         : 0001743759_CRSR_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-01-26
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 18. Selected Quarterly Financial data (unaudited)
+ASSET CAT.   : equipment, Computer equipment, office equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2020 2019 (In thousands) Manufacturing equipment $ 22,035 $ 15,291 Computer equipment, software and office equipment 9,407 6,958 Furniture and fixtures 3,675 2,602 Leasehold improvements 4,521 3,544 Total property and equipment $ 39,638 $ 28,395 Less: Accumulated depreciation and amortization (23,163 ) (13,030 ) Property and equipment, net $ 16,475 $ 15,365
+
+[VERBATIM — Infrastructure IA]
+Introduction of new high-performance computing hardware and sophisticated games . We believe that the introduction of more powerful CPUs and GPUs that place increased demands on other system components, such as memory, power supply or cooling, has a significant effect on increasing the demand for our gear. In addition, we believe that our business success depends in part on the introduction and success of games with sophisticated graphics that place increasing demands on system processing speed and capacity and therefore require more powerful CPUs or GPUs, which in turn drives demand for our high-performance gaming components and systems, such as PSUs and cooling solutions, and our gaming PC memory. As a result, our operating results may be materially affected by the timing of, and the rate at which computer hardware companies introduce, new and enhanced CPUs and GPUs, the timing of, and rate at which computer game companies and developers introduce, sophisticated new and improved games that require increasingly high levels of system and graphics processing power, and whether these new products and games are widely accepted by gamers.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. The amendments in ASU 2018-15 align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. As permitted by ASU 2018-15, we early-adopted this standard on a prospective basis beginning January 1, 2019. The adoption of this ASU did not have a material impact on our combined consolidated financial statements. ||| Our long-term non-cancelable purchase commitments consist primarily of multi-year contractual arrangements relating to subscriptions for cloud computing hosting arrangements for our enterprise resource planning (ERP) system and the related support services as well as marketing sponsorship. The total long-term non-cancelable purchase commitment as of December 31, 2020 were as follows: ||| Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.

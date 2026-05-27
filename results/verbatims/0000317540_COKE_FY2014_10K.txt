@@ -1,0 +1,25 @@
+FIRM         : COKE (CIK 0000317540) | FY2014
+FILE         : 0000317540_COKE_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 28, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are recorded at cost and depreciated using the straight-line method over the estimated useful lives of the
+assets.
+
+[VERBATIM — Changement de politique]
+In 2013, the
+Company changed the useful lives of certain cold drink dispensing equipment to reflect the estimated remaining useful lives.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

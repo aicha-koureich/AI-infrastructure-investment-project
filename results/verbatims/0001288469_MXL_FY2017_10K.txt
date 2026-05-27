@@ -1,0 +1,20 @@
+FIRM         : MXL (CIK 0001288469) | FY2017
+FILE         : 0001288469_MXL_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We are a provider of radio frequency, or RF, high-performance analog, and mixed-signal communications systems-on-chip solutions for the connected home, wired and wireless infrastructure, and industrial and multi-market applications. Our customers include electronics distributors, module makers, original equipment manufacturers, or OEMs, and original design manufacturers, or ODMs, who incorporate the Company’s products in a wide range of electronic devices including cable DOCSIS broadband modems and gateways; wireline connectivity devices for in-home networking applications; RF transceivers and modems for wireless carrier access and backhaul infrastructure; fiber-optic modules for data center, metro, and long-haul transport networks; video set-top boxes and gateways; hybrid analog and digital televisions, direct broadcast satellite outdoor and indoor units; and power management and interface products used in these and a range of other markets. We are a fabless integrated circuit design company whose products integrate all or substantial portions of a broadband communication system.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

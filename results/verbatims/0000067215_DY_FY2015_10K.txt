@@ -1,0 +1,20 @@
+FIRM         : DY (CIK 0000067215) | FY2015
+FILE         : 0000067215_DY_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : July 25, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Basis of Presentation and Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+, for the range of useful lives). Leasehold improvements are depreciated on a straight-line basis over the lesser of the estimated useful life of the asset or the remaining lease term. Maintenance and repairs are expensed as incurred and major improvements are capitalized. When assets are sold or retired, the cost and related accumulated depreciation are removed from the accounts and the resulting gain or loss is included in other income. Capitalized software is accounted for in accordance with Financial Accounting Standards Board ("FASB") Accounting Standard Codification ("ASC") Topic 350-40,
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) Customer's Accounting for Fees Paid in a Cloud Computing Arrangement ||| ("ASU 2015-05"), which provides guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The guidance does not change the current treatment for accounting for software licenses or service contracts. ASU 2015-05 will be effective for the Company in fiscal 2017 and interim reporting periods within that year, either (1) prospectively to all arrangements entered into or materially modified after the effective date or (2) retrospectively. The Company is currently evaluating the transition methods and the effect of the adoption of this guidance on the consolidated financial statements. ||| In April 2015, the FASB issued Accounting Standards Update No. 2015-05, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) Customer's Accounting for Fees Paid in a Cloud Computing Arrangement ("ASU 2015-05"), which provides guidance to customers about whether a cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a service contract. The guidance does not change the current treatment for accounting for software licenses or service contracts. ASU 2015-05 will be effective for the Company in fiscal 2017 and interim reporting periods within that year, either (1) prospectively to all arrangements entered into or materially modified after the effective date or (2) retrospectively. The Company is currently evaluating the transition methods and the effect of the adoption of this guidance on the consolidated financial statements.

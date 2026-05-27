@@ -1,0 +1,20 @@
+FIRM         : EIG (CIK 0001379041) | FY2015
+FILE         : 0001379041_EIG_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Basis of Presentation and Summary of Operations
+ASSET CAT.   : equipment, furniture
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Electronic data processing equipment, software, furniture and equipment, and automobiles are depreciated using the
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+(Subtopic 350-40). The update provides guidance to purchasers to assist in determining whether a cloud computing arrangement includes a software license and how to account for such an arrangement. This update becomes effective for annual reporting periods, including interim periods within those annual periods, beginning after December 15, 2015 and early adoption is permitted. We do not expect the adoption to have a material impact on our consolidated financial condition and results of operations. ||| In April 2015, the Financial Accounting Standards Board issued Accounting Standards Update (ASU) Number 2015-05, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40). The update provides guidance to purchasers to assist in determining whether a cloud computing arrangement includes a software license and how to account for such an arrangement. This update becomes effective for annual reporting periods, including interim periods within those annual periods, beginning after December 15, 2015 and early adoption is permitted. We do not expect the adoption to have a material impact on our consolidated financial condition and results of operations.

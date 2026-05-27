@@ -1,0 +1,24 @@
+FIRM         : SHAK (CIK 0001620533) | FY2022
+FILE         : 0001620533_SHAK_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES Basis of Presentation
+ASSET CAT.   : equipment, furniture and fixtures
+DURÉE        : 5.0-7.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment, net is stated at historical cost less accumulated depreciation. Property and equipment is depreciated using the straight-line method over the estimated useful lives of the assets, which generally range from five to seven years for equipment, furniture and fixtures, and two to five years for computer equipment and software.
+
+[VERBATIM — Changement de politique]
+The costs of obtaining non-transferable liquor licenses that are directly issued by local government agencies for nominal fees are expensed as incurred. The costs of purchasing transferable liquor licenses through open markets in jurisdictions with a limited number of authorized liquor licenses are capitalized as indefinite-lived intangible assets. Annual liquor license renewal fees, for both types of licenses, are expensed over the renewal term. As of December 28, 2022 and December 29, 2021, indefinite-lived intangible assets relating to transferable liquor licenses totaled $1,837 and $1,461, respectively. Indefinite-lived intangible assets are evaluated for impairment annually during the fourth quarter, and whenever events or circumstances indicate that an impairment may exist. When evaluating intangible assets for impairment, the Company first performs a qualitative assessment to determine whether it is more likely than not that an intangible asset group is impaired. If determined that it is more likely than not that the carrying value of the intangible asset group exceeds its fair value, the Company performs a quantitative assessment to derive the fair value of the intangible asset group. If the carrying value of the intangible asset group exceeds the estimated fair value, an impairment charge is recorded to reduce the carrying value to the estimated fair value. In addition, the Company continuously monitors and may revise the useful lives of intangible assets when facts and circumstances change.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Amortization of cloud computing asset ||| Other assets consist primarily of capitalized implementation costs from cloud computing arrangements, certain custom pre-ordered furniture, fixtures and equipment for future and existing Shacks, transferable liquor licenses, and security deposits. ||| Implementation costs associated with cloud computing arrangements hosted by third party vendors are capitalized when incurred during the application development phase. Amortization is calculated on a straight-line basis over the contractual term of the cloud computing arrangement and is recorded within General and administrative expenses on the Consolidated Statements of Loss. As of December 28, 2022 and December 29, 2021, capitalized implementation costs from cloud computing arrangements totaled $6,212 and $6,431, respectively, net of accumulated amortization.

@@ -1,0 +1,23 @@
+FIRM         : JEF (CIK 0000096223) | FY2023
+FILE         : 0000096223_JEF_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 7 . Related Party Transactions
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment are depreciated using the straight-line method over the estimated useful lives of the related assets (generally three to ten years). The carrying values of internally developed software ready for its intended use are depreciated over the remaining useful life.
+
+[VERBATIM — Changement de politique]
+In connection with the acquisition of the additional 50.1% interests in Stratos, we extinguished our senior secured term loan to Stratos of $39.2 million and recognized a gain of $5.6 million reflected in Principal transactions revenues. Additionally, we remeasured our previously existing 49.9% interest at fair value and recognized a loss of $4.7 million, in Other revenues, representing the excess of the carrying value of the 49.9% interest of our $47.9 million equity method investment over its fair value at the date of acquisition. The fair value of the previously existing equity interest was measured using an income approach based on estimates of future expected cash flows applying a risk-adjusted discount rate of 24.5%. Critical estimates to derive future expected cash flows includes the use of projected revenues and expenses, applicable tax rates and depreciation factors with the risk-adjusted discount rate based upon an estimated weighted average cost of capital for the acquired business.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Internal-Use Software. In August 2018, the FASB issued ASU No. 2018-15, Intangibles—Goodwill and Other—Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. The guidance amends the definition of a hosting arrangement and requires that the customer in a hosting arrangement that is a service contract capitalize certain implementation costs as if the arrangement was an internal-use software project. We adopted the guidance in the first quarter of fiscal 2021 and elected to apply the guidance prospectively to implementation costs incurred after the adoption date. The adoption did not have an impact on our consolidated financial statements on the adoption date. ||| In August 2018, the FASB issued ASU No. 2018-15, Intangibles—Goodwill and Other—Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. The guidance amends the definition of a hosting arrangement and requires that the customer in a hosting arrangement that is a service contract capitalize certain implementation costs as if the arrangement was an internal-use software project. We adopted the guidance in the first quarter of fiscal 2021 and elected to apply the guidance prospectively to implementation costs incurred after the adoption date. The adoption did not have an impact on our consolidated financial statements on the adoption date.

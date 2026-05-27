@@ -1,0 +1,21 @@
+FIRM         : BURL (CIK 0001579298) | FY2023
+FILE         : 0001579298_BURL_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-03
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 4. Property and Equipment Property and equipment consist of: (in thousands) Useful Lives February 3, 2024 January 28, 2023 Land N/A $ 105,645 $ 112,51
+ASSET CAT.   : equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment consist of: (in thousands) Useful Lives February 3, 2024 January 28, 2023 Land N/A $ 105,645 $ 112,513 Buildings 20 to 40 Years 413,634 394,798 Store fixtures and equipment 3 to 15 Years 1,575,798 1,414,220 Software 3 to 10 Years 365,899 332,509 Leasehold improvements Shorter of lease term or useful life 996,994 881,695 Construction in progress N/A 375,305 250,160 Total property and equipment at cost 3,833,275 3,385,895 Less: accumulated depreciation and amortization ( 1,952,950 ) ( 1,717,890 ) Total property and equipment, net of accumulated depreciation and amortization $ 1,880,325 $ 1,668,005
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

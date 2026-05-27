@@ -1,0 +1,23 @@
+FIRM         : MD (CIK 0000893949) | FY2016
+FILE         : 0000893949_MD_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies:
+ASSET CAT.   : equipment, computer equipment, furniture
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of property and equipment is
+computed using the straight-line method over the estimated useful lives of the underlying assets. Estimated useful lives are generally 20 years for buildings; three to seven years for medical equipment, computer equipment, software and furniture;
+and the lesser of the useful life or the remaining lease term for leasehold improvements and capital leases. Upon sale or retirement of property and equipment, the related cost and accumulated depreciation are eliminated from the respective accounts
+and any resulting gain or loss is included in earnings.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

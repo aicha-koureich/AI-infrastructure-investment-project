@@ -1,0 +1,23 @@
+FIRM         : TRIP (CIK 0001526520) | FY2020
+FILE         : 0001526520_TRIP_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-01-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We record property and equipment at cost, net of accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+Intangible assets with estimable useful lives, or definite-lived intangibles, are carried at cost and are amortized on a straight-line basis over their estimated useful lives and reviewed for impairment upon certain triggering events. We routinely review the remaining estimated useful lives of definite-lived intangible assets. If we reduce the estimated useful life assumption, the remaining unamortized balance is amortized over the revised estimated useful life.
+
+[VERBATIM — Infrastructure IA]
+We lease office space in a number of countries around the world, generally under non-cancelable operating lease agreements. Our Headquarters Lease is our most significant office space lease and is accounted for as a finance lease under GAAP. The Company has also entered into data center and certain equipment leases, such as network equipment and other leases, which are not material to our consolidated financial statements. Refer to “Note 7: Leases” for a discussion of our lease accounting policy and other financial disclosures.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

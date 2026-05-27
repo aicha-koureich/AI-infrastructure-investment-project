@@ -1,0 +1,23 @@
+FIRM         : APO (CIK 0001858681) | FY2023
+FILE         : 0001858681_APO_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : furniture, equipment, computer hardware
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Fixed assets consist primarily of leasehold improvements, furniture, fixtures, equipment, and computer hardware and are recorded at cost, net of accumulated depreciation and amortization.
+
+[VERBATIM — Changement de politique]
+Year ended December 31, 2022 (In millions) Reported Adoption Adjusted Net income (loss) $ (4,746) $ 1,239 $ (3,507) Adjustments to reconcile net income (loss) to net cash provided by operating activities: Depreciation and amortization 594 (65) 529 Changes in operating assets and liabilities: Interest sensitive contract liabilities (1,269) (68) (1,337) Future policy benefits, market risk benefits and reinsurance recoverable 5,339 (1,438) 3,901 Other assets and liabilities 3,049 332 3,381 Net cash provided by operating activities 3,789 — 3,789 Net cash used in investing activities (23,444) — (23,444) Net cash provided by financing activities 28,710 — 28,710 Effect of exchange rate changes on cash and cash equivalents (15) — (15) Net increase in cash and cash equivalents, restricted cash and cash equivalents, and cash and cash equivalents held at consolidated variable interest entities 9,040 — 9,040 Cash and cash equivalents, restricted cash and cash equivalents, and cash and cash equivalents held at consolidated variable interest entities, Beginning of Period 2,088 — 2,088 Cash and cash equivalents, restricted cash and cash equivalents, and cash and cash equivalents held at consolidated variable interest entities, End of Period $ 11,128 $ — $ 11,128
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

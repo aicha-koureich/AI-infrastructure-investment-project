@@ -1,0 +1,20 @@
+FIRM         : QRVO (CIK 0001604778) | FY2016
+FILE         : 0001604778_QRVO_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : April 1, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. PROPERTY AND EQUIPMENT
+ASSET CAT.   : Machinery and equipment, Furniture and fixtures, Computer equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+April 1, 2017 April 2, 2016 Land $ 25,025 $ 25,255 Building and leasehold improvements 384,784 337,875 Machinery and equipment 1,565,233 1,188,310 Furniture and fixtures 14,482 13,884 Computer equipment and software 79,689 51,641 2,069,213 1,616,965 Less accumulated depreciation (981,328 ) (751,898 ) 1,087,885 865,067 Construction in progress 304,047 181,821 Total property and equipment, net $ 1,391,932 $ 1,046,888
+
+[VERBATIM — Infrastructure IA]
+IDP is a leading global supplier of RF solutions with a diverse portfolio of solutions that "connect and protect," spanning communications, network infrastructure and defense applications. These applications include high performance defense systems such as radar, electronic warfare and communication systems, WiFi customer premises equipment for home and work, high speed connectivity in Long-Term Evolution and 5G base stations, cloud connectivity via data center communications and telecom transport, automotive connectivity and smart home solutions. IDP products include high power GaAs and GaN PAs, LNAs, switches, CMOS SoC solutions, premium BAW and SAW filter solutions and various multi-chip and hybrid assemblies.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+, "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement ||| " which provides additional guidance to customers about whether a cloud computing arrangement includes a software license. Under this guidance, if a cloud computing arrangement contains a software license, customers should account for the license element of the arrangement in a manner consistent with the acquisition of other software licenses. If the arrangement does not contain a software license, customers should account for the arrangement as a service contract. We adopted the provisions of this standard in the first quarter of fiscal 2017, and there was no impact on our consolidated financial statements. ||| In April 2015, the FASB issued ASU 2015-05 , "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud Computing Arrangement " which provides additional guidance to customers about whether a cloud computing arrangement includes a software license. Under this guidance, if a cloud computing arrangement contains a software license, customers should account for the license element of the arrangement in a manner consistent with the acquisition of other software licenses. If the arrangement does not contain a software license, customers should account for the arrangement as a service contract. We adopted the provisions of this standard in the first quarter of fiscal 2017, and there was no impact on our consolidated financial statements.

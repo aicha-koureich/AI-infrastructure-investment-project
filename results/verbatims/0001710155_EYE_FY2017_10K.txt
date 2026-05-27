@@ -1,0 +1,21 @@
+FIRM         : EYE (CIK 0001710155) | FY2017
+FILE         : 0001710155_EYE_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Guarantees and Restrictions
+ASSET CAT.   : hardware and software
+DURÉE        : 5.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 5.0-7.0 ans | 6.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Buildings 34 years Land improvements (a) 10 years Equipment (b) 5 - 7 years Information systems hardware and software 2 - 5 years Furniture and fixtures 6 years Leasehold improvements (a) 10 years P&E under capital leases Shorter of useful life or lease term ____________ (a) Depreciation of land and leasehold improvements is recognized over the shorter of the estimated useful life of the asset or the term of the lease.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

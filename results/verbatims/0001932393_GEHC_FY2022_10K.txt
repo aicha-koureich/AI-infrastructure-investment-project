@@ -1,0 +1,20 @@
+FIRM         : GEHC (CIK 0001932393) | FY2022
+FILE         : 0001932393_GEHC_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5, “Receivables”
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Loans represent term loans that are collateralized by equipment and other assets. Loans are classified as either held for sale or held for investment (“HFI”) based on management’s intent and ability to hold the loans for the foreseeable future. Loans which the Company does not have the ability and intent to hold for investment purposes and those which the Company intends to hold for sale in the foreseeable future are accounted for as loans held for sale. Loans held for sale are recorded at the lower of historical cost or current fair value with any fair value write-down (or change to the write-down) recorded as a valuation allowance through current period earnings in the period in which the change occurs. Loans classified as HFI are recorded at amortized cost.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,24 @@
+FIRM         : UPWK (CIK 0001627475) | FY2020
+FILE         : 0001627475_UPWK_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5—Balance Sheet Components
+ASSET CAT.   : Computer equipment, furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-3.0 ans | 2.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+2020 2019 Computer equipment and software $ 4,819 $ 3,613 Internal-use software and platform development costs 20,727 12,726 Leasehold improvements 14,613 10,576 Office furniture and fixtures 3,354 2,454 Total property and equipment 43,513 29,369 Less: Accumulated depreciation (15,374) (7,915) Property and equipment, net $ 28,139 $ 21,454
+
+[VERBATIM — Changement de politique]
+service contract with the requirements for capitalizing implementation costs incurred for an internal-use software license. ASU No. 2018-15 is effective for the Company beginning January 1, 2020. The Company adopted ASU No. 2018-15 on January 1, 2020 using the prospective adoption method. The adoption did not have a material impact on the Company’s consolidated financial statements.
+
+[VERBATIM — Infrastructure IA]
+We expect cost of revenue to increase in absolute dollars in future periods due to higher payment processing fees, third-party hosting fees, and personnel-related costs in order to support growth on our work marketplace. We expect third-party hosting fees to increase in 2021 as we complete our migration from the AWS data centers in California to the AWS data center in Oregon because we will need to use both AWS facilities during the migration period. We plan to complete this migration in the first quarter of 2021. Additionally, we are implementing disaster-relief protocols that will increase third-party hosting costs in future periods.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Cost of Revenue. Cost of revenue consists primarily of the cost of payment processing fees, amounts paid to freelancers to deliver services for clients under our managed services offering, personnel-related costs for our services and support personnel, third-party hosting fees for our use of AWS, and the amortization expense associated with capitalized internal-use software and platform development costs. We define personnel-related costs as salaries, bonuses, benefits, travel and entertainment, and stock-based compensation costs for employees and the costs related to other service providers we engage. ||| Cost of revenue consists primarily of the cost of payment processing fees, amounts paid to freelancers to deliver services for clients under our managed services offering, personnel-related costs for our services and support personnel, third-party hosting fees for our use of AWS, and the amortization expense associated with capitalized internal-use software and platform development costs. We define personnel-related costs as salaries, bonuses, benefits, travel and entertainment, and stock-based compensation costs for employees and the costs related to other service providers we engage. ||| We expect cost of revenue to increase in absolute dollars in future periods due to higher payment processing fees, third-party hosting fees, and personnel-related costs in order to support growth on our work marketplace. We expect third-party hosting fees to increase in 2021 as we complete our migration from the AWS data centers in California to the AWS data center in Oregon because we will need to use both AWS facilities during the migration period. We plan to complete this migration in the first quarter of 2021. Additionally, we are implementing disaster-relief protocols that will increase third-party hosting costs in future periods.

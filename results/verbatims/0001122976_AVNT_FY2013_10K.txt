@@ -1,0 +1,24 @@
+FIRM         : AVNT (CIK 0001122976) | FY2013
+FILE         : 0001122976_AVNT_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 21 — SELECTED QUARTERLY FINANCIAL DATA (UNAUDITED)
+ASSET CAT.   : machinery and equipment and up to 40 years for buildings
+DURÉE        : 40.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-15.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is carried at cost, net of depreciation and amortization that is computed using the straight-line method over the estimated useful lives of the assets, which ranges from 3 to 15 years for machinery and equipment and up to 40 years for buildings. Computer software is amortized over periods not exceeding 10 years. Property, plant and equipment is generally depreciated on accelerated methods for income tax purposes.
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment is generally depreciated on accelerated methods for income tax purposes.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

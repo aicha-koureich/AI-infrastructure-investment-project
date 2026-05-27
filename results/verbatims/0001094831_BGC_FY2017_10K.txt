@@ -1,0 +1,20 @@
+FIRM         : BGC (CIK 0001094831) | FY2017
+FILE         : 0001094831_BGC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 20. Fixed Assets, Net
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2017 December 31, 2016 Computer and communications equipment $ 151,499 $ 133,470 Software, including software development costs 164,011 130,397 Leasehold improvements and other fixed assets 179,178 154,602 494,688 418,469 Less: accumulated depreciation and amortization (305,341 ) (251,230 ) Fixed assets, net $ 189,347 $ 167,239
+
+[VERBATIM — Infrastructure IA]
+We provide clients with strategic solutions to address their real estate capital concerns. We offer a broad range of real estate capital markets services. These services include asset sales, sale leasebacks, mortgage and entity-level financing, equity-raising, underwriting and due diligence. The transactions we broker involve vacant land, new real estate developments and existing buildings. We specialize in arranging financing for most types of value-added commercial real estate, including land, condominium conversions, subdivisions, office, retail, industrial, multifamily, student housing, hotels, data center, healthcare, self-storage and special use. Through both our investment sales brokers and our mortgage brokers, we are able to offer multiple debt and equity alternatives to fund capital markets transactions through third-party banks, insurance companies and other capital providers. RCA figures suggest U.S. commercial real estate sales volumes across the industry declined 7% year-over-year in 2017, while commercial mortgage origination volumes were estimated to increase 15% during the year ended December 31, 2017, according to a February 2018 MBA forecast, which included updated backwards looking numbers for 2017. In comparison, our capital markets revenues, which are more heavily weighted to investment sales than commercial mortgage brokerage, increased by 18.5% year-over-year in 2017 to $397.7 million.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : RH (CIK 0001528849) | FY2014
+FILE         : 0001528849_RH_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 3—SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+During fiscal 2014, the Company identified an error related to its fiscal 2013 property and equipment footnote disclosure which resulted in an overstatement of both the property and equipment cost and
+related accumulated depreciation in the property and equipment footnote.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : DY (CIK 0000067215) | FY2018
+FILE         : 0000067215_DY_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 26, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies and Estimates
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+, for the range of useful lives). Leasehold improvements are depreciated on a straight-line basis over the lesser of the estimated useful life of the asset or the remaining lease term. Maintenance and repairs are expensed as incurred and major improvements are capitalized. When assets are sold or retired, the cost and related accumulated depreciation are removed from the accounts and the resulting gain or loss is included in other income. Capitalized software is accounted for in accordance with Financial Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC”) Topic 350-40,
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

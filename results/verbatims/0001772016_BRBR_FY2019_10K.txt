@@ -1,0 +1,21 @@
+FIRM         : BRBR (CIK 0001772016) | FY2019
+FILE         : 0001772016_BRBR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 14 — SUBSEQUENT EVENTS
+ASSET CAT.   : software. Total depreciation expense was $3.1 , $3.1 and $2.5 in fiscal 2019
+DURÉE        : 1.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 1.0-13.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated useful lives range from 1 to 13 years for machinery and equipment; 1 to 33 years for buildings, building improvements and leasehold improvements; and 1 to 5 years for software.
+
+[VERBATIM — Infrastructure IA]
+Prior to the IPO, Active Nutrition used certain functions and services performed by Post. These functions and services included legal, finance, internal audit, treasury, information technology support, insurance and tax matters, including assistance with certain public company reporting obligations; the use of office and/or data center space; payroll processing services; and tax compliance services. After the completion of the IPO, Post continues to provide these services and other services, to BellRing under a master services agreement. In addition to charges for these services, BellRing also incurs certain pass-through charges from Post, primarily relating to stock-based compensation for BellRing employees participating in Post’s stock-based compensation plans (see Note 11).  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, “Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract.” This ASU largely aligns the guidance for recognizing implementation costs incurred in a cloud computing arrangement that is a service

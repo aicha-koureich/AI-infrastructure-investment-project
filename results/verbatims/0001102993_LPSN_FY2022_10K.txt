@@ -1,0 +1,21 @@
+FIRM         : LPSN (CIK 0001102993) | FY2022
+FILE         : 0001102993_LPSN_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment and software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, net of accumulated depreciation, and amortization. Depreciation and amortization is calculated using the straight-line method over the estimated useful lives of the related assets, generally three to five years for equipment and software. Depreciation expense, which includes amortization of internal use software totaled $32.3 million, $27.4 million, and $22.8 million for the years ended December 31, 2022, 2021, and 2020, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+LivePerson’s Conversational AI platform enables what we call “the tango” of humans, AI and bots, whereby human agents act as bot managers, overseeing AI-powered conversations and seamlessly stepping into the flow when a personal touch is needed. Agents become ultra-efficient, leveraging the AI engine to serve up relevant content, define next-best actions and take over repetitive transactional work, so that the agent can focus on relationship building. By seamlessly integrating messaging with our proprietary Conversational AI, as well as third-party bots, the Conversational Cloud offers brands a comprehensive approach to scaling automations across their millions of customer conversations. ||| As a “cloud computing” or SaaS provider, LivePerson provides solutions on a hosted basis. This model offers significant benefits over premise-based software, including lower up-front costs, faster implementation, lower total cost of ownership, scalability, cost predictability, and simplified upgrades. Organizations that adopt a fully-hosted, multi-tenant architecture that is maintained by LivePerson eliminate the majority of the time, server infrastructure costs, and IT resources required to implement, maintain, and support traditional on-premise software. ||| Expand sales partnerships to broaden our presence and accelerate sales cycles. We are focused on broadening our market reach and accelerating sales cycles by partnering with systems integrators, technology providers, business process outsourcers, value added resellers and other sales partners. We formalized a relationship with IBM Global Business Services in 2017 and Accenture in 2018. In 2019, we announced strategic partnerships with TTEC, a leading BPO (Business Process Outsourcing) company focused on customer experience, and DMI, a digital transformation company, to redefine the customer experience with digital engagement, messaging, and AI-driven automation. In 2020, a digital services and consulting company joined LivePerson’s network with a first-of-its-kind 360-degree partnership focusing not only on capturing the global rising demand for conversational commerce and building a personalized experience for customers, but also driving the transformation for internal corporate messaging and the employee experience through Conversational AI. In 2021, we announced strategic integration partnerships with Google Cloud, Adobe and Medallia to help brands make contact center agents more efficient and effective, and empower and enrich the management of customer and employee experience through the power of AI. Our network also expanded with the Tech Mahindra partnership to help brands deliver personalized conversational experiences to consumers at scale. In 2022, we partnered with Afiniti and Celonis to help brands improve customer engagement and analytics, deepened our partnership with Cisco to strengthen our CRM capabilities, and began a strategic co-selling partnership with CBA to drive sales in the Asia-Pacific region.

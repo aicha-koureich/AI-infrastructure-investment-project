@@ -1,0 +1,22 @@
+FIRM         : SAIA (CIK 0001177702) | FY2014
+FILE         : 0001177702_SAIA_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2014
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 1. Description of Business and Summary of Accounting Policies
+ASSET CAT.   : technology equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Maintenance and repairs are charged to operations while replacements and improvements that extend the
+asset’s life are capitalized. The Company’s investment in technology equipment and software consists primarily of systems to support customer service and freight management. Depreciation was $58.4 million, $51.0 million and $47.5 million
+for the years ended December 31, 2014, 2013 and 2012, respectively. Depreciation and amortization expense includes amortization of assets under capital lease.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : PNC (CIK 0000713676) | FY2017
+FILE         : 0000713676_PNC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The following table includes depreciation expense on premises, equipment and leasehold improvements, as well as amortization expense, excluding intangible assets, primarily for capitalized internally developed software.
+
+[VERBATIM — Infrastructure IA]
+The Credit Risk Management portion of the Risk Management section of this Item 7 includes additional information regarding factors impacting the provision for credit losses. Noninterest Expense Table 3: Noninterest Expense Year ended December 31 Change Dollars in millions 2017 2016 $ % Noninterest expense Personnel $ 5,224 $ 4,841 $ 383 8 % Occupancy 868 861 7 1 % Equipment 1,065 974 91 9 % Marketing 244 247 (3 ) (1 )% Other 2,997 2,553 444 17 % Total noninterest expense $ 10,398 $ 9,476 $ 922 10 % Noninterest expense increased reflecting higher levels of business activity and ongoing investments in technology and business infrastructure. The increase in personnel expense also included the fourth quarter 2017 announcement of employee cash payments and pension account credits totaling $105 million. In addition, charges for real estate dispositions and exits, including data centers, totaled $197 million in the fourth quarter of 2017, primarily within other noninterest expense. Other noninterest expense for 2017 included the fourth quarter $200 million contribution of BlackRock common stock to the PNC Foundation. Contributions to the PNC Foundation in 2016 were $75 million.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

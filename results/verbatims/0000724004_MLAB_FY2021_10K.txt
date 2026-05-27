@@ -1,0 +1,23 @@
+FIRM         : MLAB (CIK 0000724004) | FY2021
+FILE         : 0000724004_MLAB_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Services: We generate service revenues from discrete or contracted calibration, testing, and maintenance services performed on our hardware products. Performance obligations arise when discrete services are contracted in advance and performed at a future time, often at the time of the customer’s choosing. In such cases, our performance obligation is satisfied and revenue is recognized upon completion of the specified work. Alternately, performance obligations arising from ongoing service contracts are satisfied by completing any service that is contractually required during the contract period, if requested by the customer, or simply by the passage of time if no services are requested. For ongoing service contracts, revenue is recognized on a straight-line basis over the life of the contract in a faithful depiction of our obligation to provide services over the contract period. Evidence of a service arrangement may be in the form of a formal contract or a purchase order.
+
+[VERBATIM — Changement de politique]
+At least annually, we evaluate and adjust as necessary the estimated lives of property, plant and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

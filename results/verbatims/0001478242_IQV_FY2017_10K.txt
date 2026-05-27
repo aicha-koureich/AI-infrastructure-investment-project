@@ -1,0 +1,21 @@
+FIRM         : IQV (CIK 0001478242) | FY2017
+FILE         : 0001478242_IQV_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2017
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : technology, information technology
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+Selling, general and administrative expenses include costs related to sales, marketing, and administrative functions (including human resources, legal, finance and general management) for compensation and benefits, travel, professional services, training and expenses for information technology (“IT”), facilities and depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

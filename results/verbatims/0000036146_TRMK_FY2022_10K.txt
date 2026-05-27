@@ -1,0 +1,21 @@
+FIRM         : TRMK (CIK 0000036146) | FY2022
+FILE         : 0000036146_TRMK_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Significant Accounting Policies
+ASSET CAT.   : buildings
+DURÉE        : 30.0-9.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 30.0-9.0 ans
+
+[VERBATIM — Durée de vie]
+Premises and equipment are reported at cost, less accumulated depreciation and amortization. Depreciation is charged to expense over the estimated useful lives of the assets, which are up to thirty-nine years for buildings and three to ten years for furniture and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

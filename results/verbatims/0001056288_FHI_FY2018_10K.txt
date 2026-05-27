@@ -1,0 +1,23 @@
+FIRM         : FHI (CIK 0001056288) | FY2018
+FILE         : 0001056288_FHI_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+On August 29, 2018, the FASB issued ASU 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force). The amendments in this update align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). The update is effective for Federated on January 1, 2020, with early adoption permitted, and allows for either the prospective or retrospective adoption method. Management plans to elect the prospective adoption approach, which does not require the restatement of prior years. Management is currently evaluating the potential impact of adoption to Federated's Consolidated Financial Statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Certain internal and external costs incurred in connection with developing or obtaining software for internal use, including software licenses in a cloud computing arrangement, are capitalized in accordance with the applicable accounting guidance relating to Intangibles - Goodwill and Other - Internal-Use Software. These capitalized costs are included in ||| (i) Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement ||| On August 29, 2018, the FASB issued ASU 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract (a consensus of the FASB Emerging Issues Task Force). The amendments in this update align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). The update is effective for Federated on January 1, 2020, with early adoption permitted, and allows for either the prospective or retrospective adoption method. Management plans to elect the prospective adoption approach, which does not require the restatement of prior years. Management is currently evaluating the potential impact of adoption to Federated's Consolidated Financial Statements.

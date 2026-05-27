@@ -1,0 +1,21 @@
+FIRM         : EFX (CIK 0000033185) | FY2016
+FILE         : 0000033185_EFX_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+years for data processing equipment and capitalized internal-use software and systems costs. Leasehold improvements are depreciated over the shorter of their estimated useful lives or lease terms that are reasonably assured. Buildings are depreciated over a
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements. ||| In April 2015, the FASB issued ASU 2015-05 “Intangibles—Goodwill and Other—Internal-Use Software: Customer's Accounting for Fees Paid in a Cloud Computing Arrangement.” The update provides criteria for customers in a cloud computing arrangement to use to determine whether the arrangement includes a license of software. The guidance becomes effective for fiscal years and interim reporting periods beginning after December 15, 2015. We have elected to adopt the standard prospectively. The adoption of this standard did not have a material impact on our consolidated financial position, results of operations and cash flows. ||| Cloud Computing Arrangements. In April 2015, the FASB issued ASU 2015-05 “Intangibles—Goodwill and Other—Internal-Use Software: Customer's Accounting for Fees Paid in a Cloud Computing Arrangement.” The update provides criteria for customers in a cloud computing arrangement to use to determine whether the arrangement includes a license of software. The guidance becomes effective for fiscal years and interim reporting periods beginning after December 15, 2015. We have elected to adopt the standard prospectively. The adoption of this standard did not have a material impact on our consolidated financial position, results of operations and cash flows.

@@ -1,0 +1,24 @@
+FIRM         : APAM (CIK 0001517302) | FY2023
+FILE         : 0001517302_APAM_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-02-07
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies Basis of presentation
+ASSET CAT.   : equipment, Computer software, Furniture and fixtures
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-14.0 ans | 3.0-5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+The estimated useful lives of property and equipment as of December 31, 2023 are as follows: Property and Equipment Type Useful Life Computers and equipment Three to Five years Computer software Three to Five years Furniture and fixtures Seven years Leasehold improvements Two to 14 years
+
+[VERBATIM — Changement de politique]
+The change in the Company’s deferred tax assets related to the tax benefits described above and the change in corresponding amounts payable under the TRAs for the years ended December 31, 2023 and 2022 is summarized as follows: Deferred Tax Asset - Amortizable Basis Amounts Payable Under Tax Receivable Agreements December 31, 2021 $ 459,893 $ 425,427 2022 Holdings Common Unit Exchanges 8,687 7,384 Amortization (42,122) — Payments under TRAs (1) — (33,109) Change in estimate 10 (913) December 31, 2022 $ 426,468 $ 398,789 2023 Holdings Common Unit Exchanges 1,789 1,521 Amortization (43,832) — Payments under TRAs (1) — (35,757) Change in estimate (2) (505) December 31, 2023 $ 384,423 $ 364,048 (1) Interest payments of $0.2 million and $0.1 million were paid in addition to these TRA payments for the years ended December 31, 2023 and 2022, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

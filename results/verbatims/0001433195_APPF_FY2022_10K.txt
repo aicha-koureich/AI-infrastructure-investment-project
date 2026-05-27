@@ -1,0 +1,20 @@
+FIRM         : APPF (CIK 0001433195) | FY2022
+FILE         : 0001433195_APPF_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Assets and liabilities which are subject to judgment and use of estimates include the fair value of financial instruments, capitalized software development costs, period of benefit associated with deferred costs, incremental borrowing rate used to measure operating lease liabilities, the recoverability of goodwill and long-lived assets, income taxes, useful lives associated with property and equipment and intangible assets, contingencies, assumptions underlying performance-based compensation (whether cash or stock-based), and assumptions underlying stock-based compensation.
+
+[VERBATIM — Infrastructure IA]
+Many of our Value Added Services are facilitated by third-party service providers. Cost of revenue paid to these third-party service providers includes the cost of electronic interchange and payment processing-related services to support our payments services, the cost of credit reporting services for our tenant screening services, and various costs associated with our risk mitigation service providers. These third-party costs vary both in amount and as a percent of revenue for each Value Added Service offering. Cost of revenue also consists of personnel-related costs for our employees focused on customer service and the support of our operations (including salaries, performance-based compensation, benefits, and stock-based compensation), platform infrastructure costs (such as data center operations and hosting-related costs), and allocated shared and other costs. Cost of revenue excludes depreciation of property and equipment, amortization of capitalized software development costs and amortization of intangible assets.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We are a leading provider of cloud business management solutions for the real estate industry. Our solutions are designed to enable our property manager customers to digitally transform their businesses, address critical business operations and deliver a better customer experience. Our products assist our customers with an interconnected and growing network of stakeholders in their business ecosystems, including property owners, real estate investment managers, rental prospects, residents, and service providers, and provide key functionality related to critical transactions across the real estate lifecycle, including screening potential tenants, sending and receiving payments and even providing insurance-related risk mitigation services. AppFolio’s intuitive interface, coupled with streamlined and automated workflows, make it easier for our customers to eliminate redundant and manual processes so they can deliver a great experience for their network of stakeholders while improving financial and operational performance.

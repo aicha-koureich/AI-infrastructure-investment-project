@@ -1,0 +1,20 @@
+FIRM         : HWKN (CIK 0000046250) | FY2015
+FILE         : 0000046250_HWKN_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : April 3, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — Nature of Business and Significant Accounting Policies
+ASSET CAT.   : equipment, furniture, computer systems
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+years for transportation equipment and office furniture and equipment including computer systems. Leasehold improvements are depreciated over the lesser of their estimated useful lives or the remaining lease term.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,24 @@
+FIRM         : WCC (CIK 0000929008) | FY2021
+FILE         : 0000929008_WCC_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2028-06-14
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 8. PROPERTY, BUILDINGS AND EQUIPMENT
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+As of December 31, 2021 2020 (1) (In thousands) Buildings and leasehold improvements $ 165,691 $ 169,873 Furniture, fixtures and equipment (2) 281,864 272,704 Software costs (2) 250,447 229,279 698,002 671,856 Accumulated depreciation and amortization (365,345) (312,106) 332,657 359,750 Land 25,600 26,409 Construction in progress 20,755 12,998 $ 379,012 $ 399,157
+
+[VERBATIM — Changement de politique]
+During the second quarter of 2021, the Company established a new corporate brand strategy that will result in migrating certain legacy sub-brands to a master brand architecture. The Company accounts for the trademarks associated with these sub-brands as intangible assets. As of December 31, 2020, $39.1 million of the trademarks impacted by the master brand strategy had indefinite lives and $9.5 million had remaining estimated useful lives ranging from 3 to 8 years. As disclosed further below, the Company continually evaluates whether events or circumstances have occurred that would require a change to the estimated useful lives of indefinite-lived and definite lived intangible assets. When such a change is warranted, the remaining carrying amount of the intangible asset is amortized prospectively over the revised remaining useful life. Accordingly, during the second quarter of 2021, the Company changed the estimated useful lives of the trademarks affected by the new corporate brand strategy to coincide with the expected period of time to migrate such sub-brands to the master brand architecture. The Company assigned remaining estimated useful lives to these trademarks, including those that previously had indefinite lives, ranging from less than one year to 5 years. The Company assessed these intangible assets for impairment prior to amortizing them over their revised estimated remaining useful lives. No impairment losses were identified as a result of these tests. For the year ended December 31, 2021, the Company recognized $32.0 million of amortization expense resulting from these changes in estimated useful lives.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The Company capitalizes costs associated with implementing its various cloud computing arrangements. Capitalized implementation costs, which are recorded as a component of other assets in the Consolidated Balance Sheets, were $39.6 million and $8.8 million as of December 31, 2021 and 2020, respectively, and the related accumulated amortization was $2.0 million and $1.1 million, respectively.

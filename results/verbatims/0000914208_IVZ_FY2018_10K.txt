@@ -1,0 +1,20 @@
+FIRM         : IVZ (CIK 0000914208) | FY2018
+FILE         : 0000914208_IVZ_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Equipment, Software and Depreciation
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued Accounting Standards Update 2018-15, “Intangibles-Goodwill and Other-Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract” (ASU 2018-15). The standard update aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. ASU 2018-15 is effective for fiscal years beginning after December 15, 2019 and interim periods within those years and early adoption is permitted. The amendments allow either a retrospective or prospective approach to all implementation costs incurred after adoption. The company does not anticipate a material impact upon the adoption of this amendment.

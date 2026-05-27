@@ -1,0 +1,21 @@
+FIRM         : TEL (CIK 0001385157) | FY2018
+FILE         : 0001385157_TEL_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 28, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+—Our organic net sales increased 9.5% in fiscal 2018 as a result of
+growth in all regions, primarily attributable to growth in high speed connectivity in data center applications.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,24 @@
+FIRM         : SMTC (CIK 0000088941) | FY2017
+FILE         : 0000088941_SMTC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 7 : Property, Plant and Equipment
+ASSET CAT.   : Machinery and equipment, Furniture, office equipment, equipment
+DURÉE        : 5.0-8.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 5.0-8.0 ans | 13.0 ans
+
+[VERBATIM — Durée de vie]
+(in thousands) Estimated Useful Lives January 28, 2018 January 29, 2017 Property $ 11,314 $ 11,314 Buildings 7 to 39 years 32,244 30,294 Leasehold improvements 7 to 39 years 10,050 9,566 Machinery and equipment 5 to 8 years 171,731 150,276 Enterprise resource planning systems 13 years 32,673 28,166 Furniture and office equipment 3 to 7 years 39,027 35,025 Construction in progress 7,151 5,505 Property, plant and equipment, gross 304,190 270,146 Less accumulated depreciation and amortization (179,604 ) (161,236 ) Property, plant and equipment, net $ 124,586 $ 108,910
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment are stated at cost. Depreciation is computed over the estimated useful lives of the related asset type or term of the operating lease using the straight-line method for financial statement purposes. Maintenance and repairs are charged to expense as incurred and the costs of additions and betterments that increase the useful lives of the assets are capitalized.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

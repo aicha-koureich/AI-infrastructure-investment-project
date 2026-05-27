@@ -1,0 +1,21 @@
+FIRM         : NATL (CIK 0001974138) | FY2023
+FILE         : 0001974138_NATL_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Capitalized Software
+DURÉE        : 4.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 4.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized Software Certain direct development costs associated with internal-use software are capitalized within Other assets and amortized over the estimated useful lives of the resulting software. Atleos typically amortizes capitalized internal-use software on a straight-line basis over four to seven years beginning when the asset is substantially ready for use, as this is considered to approximate the usage pattern of the software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,24 @@
+FIRM         : WAY (CIK 0001990354) | FY2024
+FILE         : 0001990354_WAY_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : computer hardware and office equipment
+DURÉE        : 5.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0 ans | 3.0-5.0 ans | 5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation of property and equipment is computed using the straight-line method for financial reporting purposes at rates based on the estimated useful lives and pattern of usage of the assets. The estimated useful lives of the assets are 5 years for computer hardware and office equipment , 7 years for furniture and fixtures, and 40 years for buildings. Purchased computer software is depreciated over the estimated useful life of 3–5 years.
+
+[VERBATIM — Changement de politique]
+There were no impairments of property and equipment for the years ended December 31, 2024, 2023, and 2022, respectively. For the year ended December 31, 2022, we recorded impairment expense of $4.6 million related to leasehold improvements at closed office locations as general and administrative expense in our consolidated statement of operations. Due to the relocation of one of our offices, we reduced the useful life of the related finance lease and leasehold improvement assets which represented $17.9 million of incremental depreciation in the year ended December 31, 2024. The aforementioned assets have been fully depreciated and disposed of as of December 31, 2024.
+
+[VERBATIM — Infrastructure IA]
+We lease office space and data center facilities with remaining lease terms ranging from one year to 10 years, some of which contain renewal options. The exercise of these options is at our sole discretion.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

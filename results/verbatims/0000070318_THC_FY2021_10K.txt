@@ -1,0 +1,21 @@
+FIRM         : THC (CIK 0000070318) | FY2021
+FILE         : 0000070318_THC_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-03-31
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment leases have terms of
+DURÉE        : 3.0-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'float' and 'NoneType'
+
+[VERBATIM — Durée de vie]
+The majority of our medical equipment leases have terms of three years with a bargain purchase option that is reasonably certain of exercise, so these assets are depreciated over their useful life, typically ranging from five to seven years. Similarly, some of our leases of information technology and telecommunications assets include a transfer of title and, therefore, have useful lives of 15 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

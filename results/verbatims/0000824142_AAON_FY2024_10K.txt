@@ -1,0 +1,23 @@
+FIRM         : AAON (CIK 0000824142) | FY2024
+FILE         : 0000824142_AAON_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The most significant estimates include, but are not limited to, inventory valuation, inventory reserves, warranty accrual, income taxes, useful lives of property, plant, and equipment, estimated future use of leased property, share-based compensation, revenue percentage of completion and estimated costs to complete.
+
+[VERBATIM — Changement de politique]
+During the first quarter of 2022, a review of the Company’s useful lives for certain sheet metal manufacturing equipment at our Longview, Texas facilities resulted in a change in estimate that increased the useful lives from between 10 and 12 years to 15 years.
+
+[VERBATIM — Infrastructure IA]
+Segment Brands Produced Brand Products AAON Oklahoma AAON Rooftop units and aftermarket parts AAON Coil Products AAON / BASX Condensing units, air handling products, data center cooling solutions, and geothermal/water-source heat pumps BASX BASX Data center cooling solutions, cleanroom products, and air handling products  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

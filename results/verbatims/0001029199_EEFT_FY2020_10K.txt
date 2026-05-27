@@ -1,0 +1,23 @@
+FIRM         : EEFT (CIK 0001029199) | FY2020
+FILE         : 0001029199_EEFT_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 13
+ASSET CAT.   : Equipment, office equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(8) Property and Equipment, Net The components of property and equipment, net of accumulated depreciation and amortization as of December 31, 2020 and 2019 are as follows: As of December 31, (in thousands) 2020 2019 ATMs $ 554,508 $ 474,611 POS terminals 33,258 38,235 Vehicles and office equipment 75,936 64,970 Computers and software 203,883 191,172 Land and buildings 1,285 1,235 868,870 770,223 Less accumulated depreciation (490,429 ) (410,243 ) Total $ 378,441 $ 359,980 Depreciation and amortization expense related to property and equipment, including property and equipment recorded under finance leases, for the years ended December 31, 2020, 2019 and 2018 was $ 96.1 million, $ 83.5 million and $ 75.1 million, respectively.
+
+[VERBATIM — Changement de politique]
+Acquired finite-lived intangible assets are amortized over their estimated useful lives. We evaluate the recoverability of our intangible assets for possible impairment whenever events or circumstances indicate that the carrying amount of such assets may not be recoverable. The evaluation is performed at the lowest level for which identifiable cash flows are largely independent of the cash flows of other assets and liabilities. Recoverability of these assets is measured by a comparison of the carrying amounts to the future undiscounted cash flows the assets are expected to generate. If such review indicates that the carrying amount of intangible assets is not recoverable, the carrying amount of such assets is reduced to its fair value. In addition to the recoverability assessment, we routinely review the remaining estimated useful lives of our finite-lived intangible assets. If we reduce the estimated useful life assumption for any asset, the remaining unamortized balance would be amortized over the revised estimated useful life. As of December 31, 2020 , the Consolidated Balance Sheet includes goodwill of $665.8 million and acquired intangible assets, net of accumulated amortization, of $121.9 million. The Company recorded $104.6 million of non-cash goodwill impairment charges and $2.0 million of acquired intangible asset impairment charges for the year ended December 31, 2020 . For more detail on the Company's impairment charges, see Note 9 , Goodwill and Acquired Intangible Assets, Net, to the accompanying Consolidated Financial Statements.
+
+[VERBATIM — Infrastructure IA]
+minals for the epay and Money Transfer Segments, and office, data center and company store computer equipment and software. Total capital expenditures for  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

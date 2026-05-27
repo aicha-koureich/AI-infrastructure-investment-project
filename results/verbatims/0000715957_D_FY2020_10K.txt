@@ -1,0 +1,20 @@
+FIRM         : D (CIK 0000715957) | FY2020
+FILE         : 0000715957_D_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 13. REGULATORY MATTERS
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+In 2011, East Ohio began CEP which enables East Ohio to defer depreciation expense, property tax expense and carrying costs at the debt rate of 6.5% on capital investments not covered by its PIR program to expand, upgrade or replace its pipeline system and information technology systems as well as investments necessary to comply with the Ohio Commission or other government regulation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

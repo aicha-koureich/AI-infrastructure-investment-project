@@ -1,0 +1,25 @@
+FIRM         : SLAB (CIK 0001038074) | FY2014
+FILE         : 0001038074_SLAB_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 3, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+In
+fiscal 2014, we introduced digital TV demodulators offering expanded support for emerging and established satellite, terrestrial and cable standards; a new family of PCI Express
+(PCIe) Gen1/2/3 fanout buffers designed for data center applications; next-generation EZRadio and EZRadioPRO® wireless ICs offering outstanding power efficiency, wireless range and
+flexibility; the sixth generation of our high-performance TV tuner ICs addressing global hybrid TV and digital TV markets; a small PCIe-compliant clock generator targeting consumer and embedded
+applications; sensor development kits to accelerate Internet of Things (IoT) system design; high-performance automotive tuner ICs designed to enhance AM/FM digital radio performance for car radio
+systems supporting broadcast  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

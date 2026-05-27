@@ -1,0 +1,20 @@
+FIRM         : SLB (CIK 0000087347) | FY2023
+FILE         : 0000087347_SLB_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. Fixed Assets
+ASSET CAT.   : Machinery, equipment
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The estimated useful lives of Machinery & equipment are primarily 5 to 10 years .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Digital & Integration revenue increased 4% year on year. This was led by digital, which continued strong growth momentum, delivering more than $2 billion in revenue. Our success in digital was driven by further adoption of Delfi technology and customers embracing our connected and autonomous drilling, data, and AI solutions.

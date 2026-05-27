@@ -1,0 +1,20 @@
+FIRM         : SYF (CIK 0001601712) | FY2016
+FILE         : 0001601712_SYF_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 18. SELECTED QUARTERLY FINANCIAL INFORMATION (UNAUDITED)
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2016 2015 At December 31 ($ in millions) Gross carrying amount Accumulated amortization Net Gross carrying amount Accumulated amortization Net Customer-related $ 1,069 $ (560 ) $ 509 $ 1,045 $ (505 ) $ 540 Capitalized software 318 (115 ) 203 253 (92 ) 161 Total $ 1,387 $ (675 ) $ 712 $ 1,298 $ (597 ) $ 701
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

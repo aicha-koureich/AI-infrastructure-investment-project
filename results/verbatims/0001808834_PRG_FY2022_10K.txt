@@ -1,0 +1,21 @@
+FIRM         : PRG (CIK 0001808834) | FY2022
+FILE         : 0001808834_PRG_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 6: PROPERTY AND EQUIPMENT
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-7.0 ans | 3.0-12.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+December 31, (In Thousands) 2022 2021 Leasehold Improvements $ 10,910 $ 12,115 Fixtures, Equipment and Vehicles 32,722 34,066 Internal-Use Software 31,163 22,692 Internal-Use Software - In Development 1,868 2,869 Property and Equipment, Gross 76,663 71,742 Less: Accumulated Depreciation and Amortization 1 (52,811) (46,094) Property and Equipment, Net $ 23,852 $ 25,648
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The Company incurs costs to implement cloud computing arrangements ("CCA") that are hosted by third-party vendors. Implementation costs associated with CCA are capitalized when incurred during the application development phase and are recorded within prepaid software expenses above. Amortization is calculated on a straight-line basis over the contractual term of the arrangement and is included within computer software expense as a component of operating expenses in the consolidated statements of earnings.

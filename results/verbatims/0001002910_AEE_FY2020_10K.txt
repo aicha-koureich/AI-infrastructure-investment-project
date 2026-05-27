@@ -1,0 +1,20 @@
+FIRM         : AEE (CIK 0001002910) | FY2020
+FILE         : 0001002910_AEE_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 3 – PROPERTY, PLANT, AND EQUIPMENT, NET
+ASSET CAT.   : Capitalized software, Equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are classified within “Property, Plant, and Equipment, Net” on the balance sheet and are amortized on a straight-line basis over the expected period of benefit, ranging from 3 to 10 years. The following table presents the amortization, gross carrying value, and related accumulated amortization of capitalized software by year:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• Technology-related expenditures increased $5 million, primarily because of costs associated with the implementation of cloud computing technology. ||| Technology-related expenditures increased $5 million, primarily because of costs associated with the implementation of cloud computing technology.

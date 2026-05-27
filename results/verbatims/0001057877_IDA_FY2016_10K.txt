@@ -1,0 +1,23 @@
+FIRM         : IDA (CIK 0001057877) | FY2016
+FILE         : 0001057877_IDA_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment and Depreciation
+
+[VERBATIM — Changement de politique]
+At the same time, Idaho Power also filed applications with the IPUC and the OPUC requesting authorization to (a) accelerate depreciation for the North Valmy coal-fired power plant, to allow the plant to be fully depreciated by December 31, 2025, (b) establish a balancing account to track the incremental costs and benefits associated with the accelerated depreciation date, and (c) adjust customer rates to recover the associated incremental annual levelized revenue requirement in the aggregate amount of
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

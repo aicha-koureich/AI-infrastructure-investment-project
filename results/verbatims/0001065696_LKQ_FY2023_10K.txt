@@ -1,0 +1,20 @@
+FIRM         : LKQ (CIK 0001065696) | FY2023
+FILE         : 0001065696_LKQ_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+For our salvage, remanufactured, refurbished and manufactured products, cost of goods sold also includes direct and indirect labor, equipment costs, depreciation, and other overhead to transform inventory into finished products suitable for sale.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

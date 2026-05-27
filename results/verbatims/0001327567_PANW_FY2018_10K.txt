@@ -1,0 +1,20 @@
+FIRM         : PANW (CIK 0001327567) | FY2018
+FILE         : 0001327567_PANW_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 17. Selected Quarterly Financial Data (Unaudited)
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+July 31, 2018 2017 Computers, equipment, and software $ 217.9 $ 156.6 Leasehold improvements 159.5 110.1 Demonstration units 33.0 26.3 Furniture and fixtures 24.6 20.4 Total property and equipment 435.0 313.4 Less: accumulated depreciation (161.9 ) (102.3 ) Total property and equipment, net $ 273.1 $ 211.1
+
+[VERBATIM — Infrastructure IA]
+Security for the cloud through our VM-Series for in-line protection of workloads in public and private clouds, Traps for host-based public cloud infrastructure protection, Evident for infrastructure monitoring and compliance in public clouds, and Aperture for protecting SaaS applications. These products are delivered as software or SaaS applications.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+’s cloud services infrastructure protection technology, and, in April 2018, we acquired ||| Consists of minimum purchase commitments of products and components with our manufacturing partners and component suppliers, as well as minimum purchase commitments for our use of certain cloud services with a third-party provider. Obligations under contracts that we can cancel without a significant penalty are not included in the table above. ||| We also expanded the capabilities of our platform with extended protections to the GCP and enhanced capabilities for AWS and Azure environments to enable customers to easily integrate with their cloud infrastructure and workloads in multi-cloud environments. Further, in March 2018, we acquired Evident.io , which has expanded our API-based security capabilities for the public cloud with the addition of Evident.io ’s cloud services infrastructure protection technology, and, in April 2018, we acquired Secdo , which expands the functionality of Traps, as well as other capabilities of our platform, by adding endpoint detection and response capabilities, including unique data collection and visualization.

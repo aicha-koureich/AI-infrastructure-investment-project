@@ -1,0 +1,20 @@
+FIRM         : WLY (CIK 0000107140) | FY2024
+FILE         : 0000107140_WLY_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-04-30
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+The unfavorable changes in other assets and liabilities noted in the table above was primarily due to higher employee related costs which was due t o higher annual incentive compensation paid in fiscal year 2025 related to fiscal year 2024 performance, and h igher costs related to cloud computing arrangements associated with targeted enterprise modernization work in fiscal year 2025. These cloud computing costs are capitalizable and amortized but included in cash flow from operations rather than cash flow from investing activities. These factors were partially offset by lower restructuring payments in fiscal year 2025. ||| igher costs related to cloud computing arrangements associated with targeted enterprise modernization work in fiscal year 2025. These cloud computing costs are capitalizable and amortized but included in cash flow from operations rather than cash flow from investing activities. These factors were partially offset by lower restructuring payments in fiscal year 2025.

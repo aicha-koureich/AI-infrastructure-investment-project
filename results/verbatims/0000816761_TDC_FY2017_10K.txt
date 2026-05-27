@@ -1,0 +1,20 @@
+FIRM         : TDC (CIK 0000816761) | FY2017
+FILE         : 0000816761_TDC_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 Description of Business, Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+These costs are included within capitalized software and are amortized over the estimated useful lives of
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud momentum is also driving new buying and consumption expectations, shifts in data importance or significance, and a move toward hybrid architectures. This trend puts pressure on our on-premises business, however, it opens opportunities for growth within our IntelliCloud offering family, which can be deployed on the Teradata cloud and on public clouds (AWS and Azure). IntelliCloud is a comprehensive as-a-service offering that is purchased with subscription-based pricing. All subscription-based Teradata software licenses enable portability of the software license between cloud and on-premises deployment options, which de-risks customer decisions, particularly for customers with future plans to move to the cloud.

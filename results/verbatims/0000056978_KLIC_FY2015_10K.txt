@@ -1,0 +1,24 @@
+FIRM         : KLIC (CIK 0000056978) | FY2015
+FILE         : 0000056978_KLIC_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : October 3, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 17: SUBSEQUENT EVENTS
+ASSET CAT.   : equipment, Machinery, furniture and fixtures
+DURÉE        : 1.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+As of (in thousands) October 3, 2015 September 27, 2014 Short term investments, available-for-sale: Deposits maturing within one year (1) $ — $ 9,105 Inventories, net: Raw materials and supplies $ 23,541 $ 22,184 Work in process 24,110 18,783 Finished goods 50,518 22,590 98,169 63,557 Inventory reserves (19,073 ) (13,863 ) $ 79,096 $ 49,694 Property, plant and equipment, net: Buildings and building improvements $ 33,760 $ 31,159 Leasehold improvements 19,512 13,962 Data processing equipment and software 28,861 27,538 Machinery, equipment, furniture and fixtures 52,106 45,442 134,239 118,101 Accumulated depreciation (81,005 ) (65,346 ) $ 53,234 $ 52,755 Accrued expenses and other current liabilities: Wages and benefits $ 19,166 $ 21,498 Accrued customer obligations (2) 9,215 8,999 Commissions and professional fees 3,880 1,961 Deferred Rent 2,450 2,161 Severance 1,645 1,067 Other 9,615 8,045 $ 45,971 $ 43,731
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment are carried at cost. The cost of additions and those improvements which increase the capacity or lengthen the useful lives of assets are capitalized while repair and maintenance costs are expensed as incurred. Depreciation and amortization are provided on a straight-line basis over the estimated useful lives as follows: buildings
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU 2015-05, which provides additional guidance to customers about whether a cloud computing arrangement includes a software license. Under ASU 2015-05, if a software cloud computing arrangement contains a software license, customers should account for the license element of the arrangement in a manner consistent with the acquisition of other software licenses. If the arrangement does not contain a software license, customers should account for the arrangement as a service contract. ASU 2015-05 also removes the requirement to analogize to ASC 840-10 – Leases to determine the asset acquired in a software licensing arrangement. This ASU will be effective for us beginning in our first quarter of 2017 and early adoption is permitted. We are evaluating the effects of the adoption of this ASU on our financial statements.

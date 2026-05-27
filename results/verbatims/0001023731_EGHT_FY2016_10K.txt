@@ -1,0 +1,32 @@
+FIRM         : EGHT (CIK 0001023731) | FY2016
+FILE         : 0001023731_EGHT_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. THE COMPANY AND SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : furniture and fixtures
+DURÉE        : 5.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation and amortization. Estimated useful lives of three years are used for equipment and software and five years for furniture and fixtures.
+
+[VERBATIM — Changement de politique]
+In April 2015, the FASB issued ASU No. 2015-05, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer's Accounting for Fees Paid in a Cloud
+Computing Arrangement. This update provides guidance in evaluating whether a cloud computing arrangement includes a software license. If a cloud computing arrangement
+includes a software license, then the software license element of the arrangement should be accounted for as an acquisition of a software license. If a cloud computing arrangement does not
+include a software license, the customer should account for the arrangement as a service contract. The guidance does not change generally accepted accounting principles for a customer's
+accounting for service contracts. This update is effective for annual periods, including interim periods within those annual periods, beginning after December 15, 2015. Therefore, the
+Company has prospectively adopted this new standard on April 1, 2016. The adoption of this standard did not have a material impact on our consolidated financial statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Second, we continued the advancement of our technology and product development work on several key platform infrastructure and product development initiatives. Initiatives include
+our new micro services platform, admin portal, desktop and mobile clients, and back office improvements to enable end-to-end quoting, ordering, provisioning, configuring, and billing our
+expanded mid-market and enterprise customer base. We also launched the 8x8 Communication Cloud Platform, an industry first solution which combines unified communications, team
+collaboration interoperability, contact center, and real time analytics in a single open platform.

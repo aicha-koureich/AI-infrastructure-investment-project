@@ -1,0 +1,20 @@
+FIRM         : NKE (CIK 0000320187) | FY2022
+FILE         : 0000320187_NKE_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-05-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 Summary of Significant Accounting Policies 62 Note 2 Inventories 67 Note 3 Property, Plant and Equipment 68 Note 4 Identifiable Intangible Asse
+ASSET CAT.   : Machinery and equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+MAY 31, (Dollars in millions) 2022 2021 Land and improvements $ 330 $ 363 Buildings 3,170 3,365 Machinery and equipment 2,870 3,023 Internal-use software 1,616 1,391 Leasehold improvements 1,712 1,608 Construction in process 399 311 Total property, plant and equipment, gross 10,097 10,061 Less accumulated depreciation 5,306 5,157 TOTAL PROPERTY, PLANT AND EQUIPMENT, NET $ 4,791 $ 4,904
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : PKE (CIK 0000076267) | FY2022
+FILE         : 0000076267_PKE_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 26, 2023
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 15. ACCOUNTING PRONOUNCEMENTS
+ASSET CAT.   : equipment, furniture and fixtures are generally depreciated over
+DURÉE        : 10.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment – Property, plant and equipment are stated at cost less accumulated depreciation and amortization. Machinery, equipment, furniture and fixtures are generally depreciated over 10 years. The depreciation and amortization expenses associated with property, plant and equipment were $1,129, $1,136 and $1,150 for the 2023, 2022 and 2021 fiscal years, respectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

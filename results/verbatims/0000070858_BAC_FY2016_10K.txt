@@ -1,0 +1,23 @@
+FIRM         : BAC (CIK 0000070858) | FY2016
+FILE         : 0000070858_BAC_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 Summary of Significant Accounting Principles
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment are carried at cost less accumulated depreciation and amortization.
+
+[VERBATIM — Changement de politique]
+are AUM and are typically held in diversified portfolios. The majority of client AUM have an investment strategy with a duration of greater than one year and are, therefore, considered long-term AUM. Fees earned on long-term AUM are calculated as a percentage of total AUM. The asset management fees charged to clients per year are dependent on various factors, but are generally driven by the breadth of the client’s relationship and generally range from 50 to 150 bps on their total AUM. The net client long-term AUM flows represent the net change in clients’ long-term AUM balances over a specified period of time, excluding market appreciation/depreciation and other adjustments.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

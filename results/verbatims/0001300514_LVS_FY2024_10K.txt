@@ -1,0 +1,20 @@
+FIRM         : LVS (CIK 0001300514) | FY2024
+FILE         : 0001300514_LVS_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-19
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 — Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, net of accumulated depreciation and amortization, and accumulated impairment losses, if any.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

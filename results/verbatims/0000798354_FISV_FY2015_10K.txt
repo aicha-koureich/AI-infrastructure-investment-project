@@ -1,0 +1,20 @@
+FIRM         : FISV (CIK 0000798354) | FY2015
+FILE         : 0000798354_FISV_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software development costs are amortized over their estimated useful lives, generally
+
+[VERBATIM — Infrastructure IA]
+, respectively. The increase in selling, general and administrative expenses as a percentage of total revenue in 2015 as compared to 2014 was largely due to increased share-based compensation and incremental costs associated with data center and real estate consolidation activities. Selling, general and administrative expenses as a percentage of total revenue was favorably impacted by reduced professional services expenses, including merger and integration costs, in 2014 as compared to 2013.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

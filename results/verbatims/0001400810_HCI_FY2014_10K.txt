@@ -1,0 +1,22 @@
+FIRM         : HCI (CIK 0001400810) | FY2014
+FILE         : 0001400810_HCI_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 — Summary of Significant Accounting Policies
+ASSET CAT.   : computer hardware and software
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property and equipment is stated at cost less accumulated depreciation and amortization, which is
+included in other operating expenses. Depreciation is calculated on a straight-line basis over the estimated useful lives as follows: building 39 years; computer hardware and software 3 years; office and furniture equipment 3 to 7 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

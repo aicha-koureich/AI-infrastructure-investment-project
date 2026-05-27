@@ -1,0 +1,20 @@
+FIRM         : AMD (CIK 0000002488) | FY2022
+FILE         : 0000002488_AMD_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2022
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 – Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 1.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : AMD_EPYC;AMD_Instinct;AMD_Radeon;AMD_Ryzen;B100;NVIDIA (6 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation and amortization are provided on a straight-line basis over the estimated useful lives of one to 15 years for equipment, 34 to 44 years for buildings, and leasehold improvements are measured by the shorter of the remaining terms of the leases or the estimated useful economic lives of the improvements.
+
+[VERBATIM — Infrastructure IA]
+• the Data Center segment, which primarily includes server CPUs and GPUs, DPUs, FPGAs and Adaptive SoC products for data centers;  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Our 2022 financial results reflect the strength of our diversified business model despite the challenging PC market conditions in the second half of 2022. Net revenue for 2022 was $23.6 billion, an increase of 44% compared to 2021 net revenue of $16.4 billion. The increase in net revenue was driven by a 64% increase in Data Center segment revenue primarily due to higher sales of our EPYC™ server processors, a 21% increase in Gaming segment revenue primarily due to higher semi-custom product sales, and a significant increase in Embedded segment revenue from the prior year period driven by the inclusion of Xilinx embedded product sales. This growth was partially offset by a 10% decrease in Client segment revenue primarily due to lower processor shipments driven by a weak PC market and significant inventory correction actions across the PC supply chain. Gross margin, as a percentage of net revenue for 2022, was 45%, compared to 48% in 2021. The decrease in gross margin was primarily due to amortization of intangible assets associated with the Xilinx acquisition. Operating income for 2022 was $1.3 billion compared to operating income of $3.6 billion for 2021. The decrease in operating income was primarily driven by amortization of intangible assets associated with the Xilinx acquisition. Net income for 2022 was $1.3 billion compared to $3.2 billion in the prior year. The decrease in net income was primarily driven by lower operating income.

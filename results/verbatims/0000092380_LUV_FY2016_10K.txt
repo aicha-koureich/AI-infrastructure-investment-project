@@ -1,0 +1,23 @@
+FIRM         : LUV (CIK 0000092380) | FY2016
+FILE         : 0000092380_LUV_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+During first quarter 2016, the Company made the decision to further simplify its operations and accelerate the retirement of its less-efficient Classic fleet to no later than third quarter 2017, versus the original scheduled retirement of this fleet that had extended out to 2021. This change in retirement dates is considered a change in estimate and has been accounted for on a prospective basis as of the dates the decisions were finalized. Therefore, the Company has recorded and will record accelerated depreciation expense over the remainder of the useful lives for each Classic aircraft and related parts. See Note 7 for further information regarding the Company's aircraft fleet.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

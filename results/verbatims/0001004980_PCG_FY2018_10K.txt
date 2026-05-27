@@ -1,0 +1,20 @@
+FIRM         : PCG (CIK 0001004980) | FY2018
+FILE         : 0001004980_PCG_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment are reported at the lower of their historical cost less accumulated depreciation or fair value. Historical costs include labor and materials, construction overhead, and AFUDC. (See “AFUDC” below.) The Utility’s total estimated useful lives and balances of its property, plant, and equipment were as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract ||| In August 2018, the FASB issued ASU No. 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract . This ASU will be effective for PG&E Corporation and the Utility on January 1, 2020 with early adoption permitted. PG&E Corporation and the Utility are currently evaluating the impact the guidance will have on their Consolidated Financial Statements and related disclosures.

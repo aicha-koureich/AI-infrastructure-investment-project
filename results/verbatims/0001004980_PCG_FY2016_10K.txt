@@ -1,0 +1,20 @@
+FIRM         : PCG (CIK 0001004980) | FY2016
+FILE         : 0001004980_PCG_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant, and equipment are reported at the lower of their historical cost less accumulated depreciation or fair value . Historical costs include labor and materials, construction overhead, and AFUDC. (See “AFUDC” below.) The Utility’s total estimated useful lives and balances of its property, plant, and equipment were as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Accounting for Fees Paid in a Cloud Computing Arrangement ||| In April 2015, the FASB issued ASU No. 2015-05, Intangibles – Goodwi ll and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement , which adds guidance to help entities evaluate the accounting treatment for cloud computing arrangements. PG&E Corporation and the Utility adopted this guidance effective January 1, 2016. The adoption of this guidance did not have a material impact on their C onsolidated Financial S tatements. ||| ll and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement

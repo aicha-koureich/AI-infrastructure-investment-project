@@ -1,0 +1,20 @@
+FIRM         : UNF (CIK 0000717954) | FY2024
+FILE         : 0000717954_UNF_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 31, 2024
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| Cloud Computing Arrangements The Company enters into certain cloud-based software hosting arrangements that are accounted for as service contracts. Costs incurred for these arrangements are capitalized for application development activities, if material, and immediately expensed for preliminary project activities and post-implementation activities. The Company amortizes the capitalized development costs straight-line over the fixed, non-cancellable term of the associated hosting arrangement plus any reasonably certain renewal periods. The capitalized costs are included in “Prepaid expenses and other current assets” and “Long-term other assets” on the Company's Consolidated Balance Sheets. Capitalized costs were $ 18.9 million and $ 2.2 million as of August 31, 2024, and August 26, 2023, respectively. The Company has not placed any modules of the applicable software in service as of August 31, 2024 .

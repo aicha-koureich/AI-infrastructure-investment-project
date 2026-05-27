@@ -1,0 +1,20 @@
+FIRM         : ZION (CIK 0000109380) | FY2018
+FILE         : 0000109380_ZION_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 16. REVENUE RECOGNITION
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In millions, shares in thousands) December 31, 2018 2017 ASSETS Cash and due from banks $ 614 $ 548 Money market investments: Interest-bearing deposits 619 782 Federal funds sold and security resell agreements 1,461 514 Investment securities: Held-to-maturity, at amortized cost (approximate fair value $767 and $762) 774 770 Available-for-sale, at fair value 14,737 15,161 Trading account, at fair value 106 148 Total investment securities 15,617 16,079 Loans held for sale 93 44 Loans and leases, net of unearned income and fees 46,714 44,780 Less allowance for loan losses 495 518 Loans, net of allowance 46,219 44,262 Other noninterest-bearing investments 1,046 1,029 Premises, equipment and software, net 1,124 1,094 Goodwill and intangibles 1,015 1,016 Other real estate owned 4 4 Other assets 934 916 Total assets $ 68,746 $ 66,288 LIABILITIES AND SHAREHOLDERS’ EQUITY Deposits: Noninterest-bearing demand $ 23,645 $ 23,886 Interest-bearing: Savings and money market 26,120 25,620 Time 4,336 3,115 Total deposits 54,101 52,621 Federal funds and other short-term borrowings 5,653 4,976 Long-term debt 724 383 Reserve for unfunded lending commitments 57 58 Other liabilities 633 571 Total liabilities 61,168 58,609 Shareholders’ equity: Preferred stock, without par value; authorized 4,400 shares 566 566 Common stock ($0.001 par value; authorized 350,000 shares; issued and outstanding 187,554 and 197,532 shares) — 4,445 Additional paid-in-capital 3,806 — Retained earnings 3,456 2,807 Accumulated other comprehensive income (loss) (250 ) (139 ) Total shareholders’ equity 7,578 7,679 Total liabilities and shareholders’ equity $ 68,746 $ 66,288
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2018-15, Intangibles – Goodwill and Other-Internal-Use Software (Topic 350-40): Customer’s Accounting for Implementation Cost Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| Intangibles – Goodwill and Other-Internal-Use Software (Topic 350-40): Customer’s Accounting for Implementation Cost Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| This ASU provides revised accounting guidance related to the accounting for implementation costs associated with Cloud Computing Arrangements that meet the criteria for a service contract. Some of the main provisions include: -Implementation costs for cloud computing arrangements will be capitalized as an asset or recognized as an expense when incurred on the basis of existing GAAP, specifically guidance already provided around internal-use software. -The amortization period for capitalized amounts will be the noncancelable hosting contract term plus any expected renewal periods. -Entities in a hosting arrangement that is a service contract must provide certain qualitative and quantitative disclosures. -For transition there is an option to either apply guidance retrospectively or prospectively.

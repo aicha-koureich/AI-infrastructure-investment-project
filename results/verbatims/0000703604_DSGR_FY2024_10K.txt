@@ -1,0 +1,21 @@
+FIRM         : DSGR (CIK 0000703604) | FY2024
+FILE         : 0000703604_DSGR_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 – Summary of Significant Accounting Policies
+ASSET CAT.   : buildings and improvements, the shorter of the useful life of the assets or term of the underlying leases for leasehold improvements
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Property, Plant and Equipment — Property, plant and equipment are stated at cost less accumulated depreciation and amortization. Depreciation expense is computed primarily by the straight-line method for buildings, machinery and equipment, furniture and fixtures and vehicles. The Company estimates useful lives of 10 to 40 years for buildings and improvements, the shorter of the useful life of the assets or term of the underlying leases for leasehold improvements, and 2 to 10 years for machinery and equipment, furniture and fixtures and vehicles. Capitalized software is amortized over estimated useful lives of 3 to 5 years using the straight-line method. When property, plant and equipment are retired, sold, or otherwise disposed of, the asset’s carrying amount and related accumulated depreciation are removed from the accounts and any gain or loss is included in the income from operations.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

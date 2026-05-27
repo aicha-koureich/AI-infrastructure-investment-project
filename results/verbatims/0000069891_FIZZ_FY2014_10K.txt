@@ -1,0 +1,20 @@
+FIRM         : FIZZ (CIK 0000069891) | FY2014
+FILE         : 0000069891_FIZZ_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : May 3, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. significant accounting policies
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is recorded using the straight-line method over estimated useful lives of 7 to 30 years for buildings and improvements and 3 to 15 years for machinery and equipment.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

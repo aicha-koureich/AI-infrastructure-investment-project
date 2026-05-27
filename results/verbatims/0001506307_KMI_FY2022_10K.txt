@@ -1,0 +1,20 @@
+FIRM         : KMI (CIK 0001506307) | FY2022
+FILE         : 0001506307_KMI_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-07
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 19.
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+• A gain or loss on the sale of property, plant and equipment is calculated as the difference between the cost of the asset disposed of, net of depreciation, and the sale proceeds received or when held for sale, the market value of the asset. • A gain on an asset disposal is recognized in income in the period that the sale is closed. • A loss is recognized when the asset is sold or when classified as held for sale. • Gains and losses are recorded in operating costs, expenses and other.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

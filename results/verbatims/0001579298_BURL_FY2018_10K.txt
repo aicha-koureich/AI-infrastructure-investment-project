@@ -1,0 +1,21 @@
+FIRM         : BURL (CIK 0001579298) | FY2018
+FILE         : 0001579298_BURL_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 2, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3. Stock-Based Compensation
+ASSET CAT.   : equipment
+DURÉE        : 3.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 3.0-15.0 ans
+
+[VERBATIM — Durée de vie]
+(in thousands) Useful Lives February 2, 2019 February 3, 2018 Land N/A $ 156,040 $ 159,465 Buildings 20 to 40 Years 485,265 465,207 Store fixtures and equipment 3 to 15 Years 927,081 831,963 Software 3 to 10 Years 256,610 235,799 Leasehold improvements Shorter of lease term or useful life 694,145 604,470 Construction in progress N/A 24,767 28,155 Total property and equipment at cost 2,543,908 2,325,059 Less: accumulated depreciation (1,290,203 ) (1,190,287 ) Total property and equipment, net of accumulated depreciation and amortization $ 1,253,705 $ 1,134,772
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, “Intangibles—Goodwill and Other—Internal-Use Software: Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.” This ASU requires that implementation costs incurred in a hosting arrangement that is a service contract be assessed in accordance with the existing guidance in Subtopic 350-40, “Internal-Use Software.” Accordingly, costs incurred during the preliminary project stage must be expensed as incurred, while costs incurred during the application development stage must be capitalized. Capitalized implementation costs associated with a hosting arrangement that is a service contract must be expensed over the term of the hosting arrangement. Additionally, the new guidance requires that the expense of these capitalized costs be presented in the same line item in the statement of income as the fees associated with the hosting element of the arrangement. The new guidance will be effective for annual reporting periods beginning after December 15, 2019, including interim periods. This ASU will be effective for the Company as of the beginning of Fiscal 2020. Early adoption is permitted for annual or interim periods. While t he Company is still in the process of determining the impact of the adoption of this guidance on its consolidated financial statements or notes thereto, it does not anticipate that the new guidance will have a significant impact on its consolidated financial statements.

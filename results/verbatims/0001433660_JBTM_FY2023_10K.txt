@@ -1,0 +1,20 @@
+FIRM         : JBTM (CIK 0001433660) | FY2023
+FILE         : 0001433660_JBTM_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2026-02-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : capitalized software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+For capitalized software, the useful lives range from three to ten years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud computing arrangement implementation costs ||| We capitalize costs incurred with the implementation of cloud computing arrangements that are service contracts, consistent with our policy for software developed or obtained for internal use. ||| 2023 2022 (In millions) Carrying Amount Accumulated Amortization Carrying Amount Accumulated Amortization Capitalized software $ 119.0 $ 49.9 $ 120.7 $ 34.9 Cloud computing arrangement implementation costs 31.6 9.4 11.8 4.8 Other 102.5 — 90.3 — Total other assets $ 253.1 $ 59.3 $ 222.8 $ 39.7

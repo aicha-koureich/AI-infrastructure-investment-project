@@ -1,0 +1,21 @@
+FIRM         : TSCO (CIK 0000916365) | FY2022
+FILE         : 0000916365_TSCO_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Significant Accounting Policies:
+ASSET CAT.   : equipment
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-7.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Estimated Useful Lives December 31, 2022 December 25, 2021 Land $ 100,129 $ 100,129 Buildings and improvements 1 – 35 years 1,753,601 1,517,052 Furniture, fixtures and equipment 5 – 10 years 1,086,013 900,272 Computer software and hardware 2 – 7 years 766,031 694,455 Construction in progress 394,143 211,486 Property and equipment, gross 4,099,917 3,423,394 Accumulated depreciation and amortization (2,016,301) (1,805,588) Property and equipment, net $ 2,083,616 $ 1,617,806
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

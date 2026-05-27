@@ -1,0 +1,23 @@
+FIRM         : DGII (CIK 0000854775) | FY2018
+FILE         : 0000854775_DGII_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, equipment and improvements are carried at cost, net of accumulated depreciation. Furniture and fixtures, purchased software and other equipment are depreciated over a period of
+
+[VERBATIM — Changement de politique]
+Expenditures for maintenance and repairs are charged to operations as incurred, while major renewals and betterments are capitalized. The assets and related accumulated depreciation accounts are adjusted for asset retirements and disposals with the resulting gain or loss included in operations.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Our IoT Products & Services segment consists primarily of distinct communications products and communication product development services. Among other things, these products and services help our customers create next-generation connected products and deploy and manage critical communications infrastructures in demanding environments with high levels of security and reliability. This segment creates secure, easy-to-implement embedded solutions and services to help customers build IoT connectivity. It also deploys ready-to-use, complete box solutions to connect remote equipment, including products from our January 2018 acquisition of Accelerated. The IoT Products & Services segment also offers dedicated professional services for the design of specialized wireless communications products for customers. Finally, this segment offers managed cloud services that enable customers to capture and manage data from devices they connect to networks. Our IoT products and services are used by a wide range of businesses and institutions.

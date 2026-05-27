@@ -1,0 +1,20 @@
+FIRM         : PATH (CIK 0001734722) | FY2023
+FILE         : 0001734722_PATH_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-03-12
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Cost of subscription services revenue consists of personnel-related expenses of our customer support and technical support teams, including salaries and bonuses, stock-based compensation expense, and employee benefit costs. Cost of subscription services revenue also includes third-party consulting services, hosting costs related to our SaaS products, amortization of acquired developed technology and capitalized software development costs related to SaaS products, depreciation, and allocated overhead. Overhead is allocated to cost of subscription services r evenue based on applicable headcount. We recognize these expenses as they are incurred. We expect cost of subscription services revenue to continue to increase in absolute dollars for the foreseeable future as our SaaS business grows. In the future, we expect further expansion of our cloud-based deployments. As sales of SaaS products become a larger percentage of our total revenue, we expect our gross margin to be impacted by increased hosting fees and cloud infrastructure costs.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

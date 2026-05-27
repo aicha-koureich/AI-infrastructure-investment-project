@@ -1,0 +1,20 @@
+FIRM         : EXC (CIK 0001109357) | FY2023
+FILE         : 0001109357_EXC_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 22 — Supplemental Financial Information for taxes that are presented on a gross basis.
+ASSET CAT.   : capitalized software
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Certain other capitalized software costs are being amortized over longer lives based on the expected life or pursuant to prescribed regulatory requirements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

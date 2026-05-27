@@ -1,0 +1,20 @@
+FIRM         : BEN (CIK 0000038777) | FY2013
+FILE         : 0000038777_BEN_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Significant Accounting Policies
+ASSET CAT.   : Not disclosed
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Internal and external costs incurred in connection with developing or obtaining software for internal use are capitalized and amortized over the estimated useful lives of the software, which range from three to five years, beginning when the software project is complete and the application is put into production.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

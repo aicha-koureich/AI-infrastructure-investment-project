@@ -1,0 +1,24 @@
+FIRM         : TMUS (CIK 0001283699) | FY2020
+FILE         : 0001283699_TMUS_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4 – Sales of Certain Receivables
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : A100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 5.0-15.0 ans | 10.0 ans | 12.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in Property and equipment, net in our Consolidated Balance Sheets and are amortized on a straight-line basis over the estimated useful life of the asset.
+
+[VERBATIM — Changement de politique]
+Our leasing programs (“Leasing Programs”), which include JUMP! On Demand and the Sprint Flex Lease Program acquired through the Merger, allow customers to lease a device (handset or tablet) over a period of, generally, 18 months and upgrade it for a new device when eligibility requirements are met. We depreciate leased devices to their estimated residual value, on a group basis, using the straight-line method over the estimated useful life of the device. The estimated useful life reflects the period for which we estimate the group of leased devices will provide utility to us, which may be longer than the initial lease term based on customer options in the Sprint Flex Lease program to renew the lease on a month-to-month basis after the initial lease term concludes. In determining the estimated useful life, we consider the lease term (e.g., 18 months and month-to-month renewal options for the Sprint Flex Lease Program), trade-in activity and write-offs for lost and stolen devices. Lost and stolen devices are incorporated into the estimates of depreciation expense and recognized as an adjustment to accumulated depreciation when the loss event occurs. Our policy of using the group method of depreciation has been applied to acquired leased devices as well as leases originated subsequent to the Merger. Acquired leased devices are grouped based on the age of the device. Revenues associated with the leased wireless devices, net of lease incentives, are generally recognized on a straight-line basis over the lease term.
+
+[VERBATIM — Infrastructure IA]
+Property and equipment consists of buildings and equipment, wireless communications systems, leasehold improvements, capitalized software, leased wireless devices and construction in progress. Buildings and equipment include certain network server equipment. Wireless communications systems include assets to operate our wireless network and IT data centers, including tower assets and leasehold improvements and assets related to the liability for the retirement of long-lived assets. Leasehold improvements include asset improvements other than those related to the wireless network.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| In August 2018, the FASB issued ASU 2018-15, “Intangibles - Goodwill and Other - Internal-Use Software (Topic 350): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract.” The standard aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. The standard also requires the presentation of the amortization of the capitalized implementation costs in the same line item in the Consolidated Statements of Comprehensive Income as the fees associated with the hosting arrangement. The standard became effective for us, and we adopted the standard, on January 1, 2020. We adopted the standard on a prospective basis applying it to implementation costs incurred subsequent to January 1, 2020 and, as a result, did not restate the prior periods presented in the consolidated financial statements. The adoption of the standard did not have a material impact on our consolidated financial statements for the year ended December 31, 2020. ||| In November 2020, we executed an agreement with a third party for the exchange of certain AWS spectrum licenses. Upon the execution of the agreement, the spectrum licenses were classified as assets held for sale, included within Other current assets, and measured at the lower of their carrying amount or fair value less cost to sell, which resulted in the recognition of a non-cash impairment loss of $35 million, included in Selling, general and administrative expenses in our Consolidated Statements of Comprehensive Income. We received approval for the transaction from the FCC and the transaction closed in the first quarter of 2021.

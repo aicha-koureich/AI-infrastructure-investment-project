@@ -1,0 +1,21 @@
+FIRM         : SCSC (CIK 0000918965) | FY2021
+FILE         : 0000918965_SCSC_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-06-30
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : furniture, equipment and computer software
+DURÉE        : 25.0-40.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation is computed using the straight-line method over estimated useful lives of 3 to 10 years for furniture, equipment and computer software, 25 to 40 years for buildings and 15 years for building improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ScanSource is at the center of the technological solution delivery channel, connecting businesses and institutions and providing solutions for their complex needs. We provide technology solutions and services from leading suppliers of mobility and barcode, point-of-sale (POS), payments, physical security, unified communications and collaboration, telecom and cloud services to our customers. We serve approximately 30,000 customers located in the United States, Canada, Brazil, and the UK and provide solutions and services from approximately 500 technology suppliers. ||| Our key suppliers include 8x8, ACC Business, AT&T, Aruba/HPE, AudioCodes, Avaya, Axis, Barco, Bematech, Cisco, Comcast Business, Datalogic, Dell, Elo, Epson, Equinix, Extreme, F5, Five9, Fortinet, Genesys, Hanwha, Honeywell, HID, Ingenico, Intrado, Jabra, LogMeIn, Lumen, March Networks, Masergy, Microsoft, Mitel, NCR, NICE inContact, Oracle, Palo Alto, Panasonic, Poly, RingCentral, Samsung, Sony, Spectralink, Spectrum, Toshiba Global Commerce Solutions, Ubiquiti, Verifone, Verizon, Windstream, Zebra Technologies and Zoom. We also offer customers significant choices in cloud services through our Intelisys business, including "as a service" offerings in contact center, infrastructure and unified communications.

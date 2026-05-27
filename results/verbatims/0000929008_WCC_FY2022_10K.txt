@@ -1,0 +1,21 @@
+FIRM         : WCC (CIK 0000929008) | FY2022
+FILE         : 0000929008_WCC_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2028-06-14
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 7. PROPERTY, BUILDINGS AND EQUIPMENT
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 3.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+As of December 31, 2022 2021 (In thousands) Buildings and leasehold improvements $ 169,461 $ 165,691 Furniture, fixtures and equipment 304,650 281,864 Software costs 272,569 250,447 746,680 698,002 Accumulated depreciation and amortization (425,782) (365,345) 320,898 332,657 Land 24,636 25,600 Construction in progress 57,140 20,755 $ 402,674 $ 379,012
+
+[VERBATIM — Infrastructure IA]
+On November 1, 2022, through its wholly-owned subsidiary WESCO Distribution, Inc. ("Wesco Distribution"), the Company acquired 100% of the equity securities of Rahi Systems Holdings, Inc. ("Rahi Systems" or "Rahi"). Headquartered in Fremont, California, Rahi Systems is a leading provider of global hyperscale data center solutions with over 900 employees in 25 countries. Rahi's expertise with complex information technology projects and global presence strengthen Wesco's data center solution offerings. Wesco Distribution funded the purchase price paid at closing with cash on hand as well as borrowings under its accounts receivable securitization and revolving credit facilities.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Net cash provided by operating activities for 2022 totaled $11.0 million, compared to $67.1 million of cash generated in 2021. Net cash provided by operating activities for 2022 included net income of $862.1 million and non-cash adjustments to net income totaling $243.1 million, which were primarily comprised of depreciation and amortization of $179.0 million, stock-based compensation expense of $46.4 million, amortization of debt discount and debt issuance costs of $15.2 million, and deferred income taxes of $1.2 million. Other sources of cash in 2022 included an increase in accounts payable of $552.9 million due to higher purchases of inventory and an increase in other current and noncurrent liabilities of $131.6 million, primarily due to increases in deferred revenue and accrued taxes. Primary uses of cash in 2022 included an increase in inventories of $817.0 million due to supply chain challenges and to support growth in our sales backlog, including project-based business, an increase in trade accounts receivable of $690.6 million resulting from significant sales growth, an increase in other current and noncurrent assets of $153.2 million primarily due to an increase in capitalized costs associated with developing cloud computing arrangements to support our digital transformation initiatives, an increase in other accounts receivable of $54.8 million associated with higher supplier volume rebate income accruals, and a decrease in accrued payroll and benefit costs of $63.1 million due to lower incentive compensation accruals.

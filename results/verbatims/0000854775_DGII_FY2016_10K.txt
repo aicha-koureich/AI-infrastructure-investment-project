@@ -1,0 +1,23 @@
+FIRM         : DGII (CIK 0000854775) | FY2016
+FILE         : 0000854775_DGII_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 19. SUBSEQUENT EVENT
+ASSET CAT.   : equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of September 30, 2016 2015 Accounts receivable, net: Accounts receivable $ 30,885 $ 29,890 Less allowance for doubtful accounts 209 285 Less reserve for future returns and pricing adjustments 1,991 1,817 Total accounts receivable, net $ 28,685 $ 27,788 Inventories: Raw materials $ 21,116 $ 26,037 Work in process 802 598 Finished goods 4,358 5,242 Total inventories $ 26,276 $ 31,877 Property, equipment and improvements, net: Land $ 1,800 $ 1,800 Buildings 10,522 10,522 Improvements 3,239 3,328 Equipment 15,778 15,691 Purchased software 3,377 3,458 Furniture and fixtures 2,803 2,720 Total property, equipment and improvements, gross 37,519 37,519 Less accumulated depreciation and amortization 23,478 23,180 Total property, equipment and improvements, net $ 14,041 $ 14,339
+
+[VERBATIM — Changement de politique]
+Expenditures for maintenance and repairs are charged to operations as incurred, while major renewals and betterments are capitalized. The assets and related accumulated depreciation accounts are adjusted for asset retirements and disposals with the resulting gain or loss included in operations.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We are a leading provider of Internet of Things (IoT) networking hardware products and solutions. We provide Machine-to-Machine (M2M) and IoT connections to solve business and mission-critical machine communication challenges for our customers that are reliable, secure, scalable and managed. We create secure, easy to implement embedded solutions and services to help customers build IoT connectivity. In addition, we deploy ready to use, complete box solutions to connect remote machinery. We also manage cloud services, offer professional services and complete IoT solutions. Our solutions are deployed by a wide range of businesses and institutions. Any business that utilizes a significant number of devices, whose operations could benefit from remote monitoring or control, may realize benefits from IoT networking. ||| In April 2015, FASB issued ASU 2015-05, “Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40) - Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement.” The new standard provides guidance to customers about whether a cloud computing arrangement includes a software license. If the arrangement does include a software license, the software license element of the arrangement should be accounted for in the same manner as the acquisition of other software licenses. This guidance is effective for fiscal years, and interim periods within those years, beginning after December 15, 2015, with early adoption permitted. We expect to adopt this guidance beginning with our fiscal quarter ending December 31, 2016. We do not expect this guidance to have a material impact on our consolidated financial statements. ||| Our service offerings include Cold Chain Solutions, wireless product design and development services, our PaaS recurring revenue generated from Device Cloud platform, and technical support services.

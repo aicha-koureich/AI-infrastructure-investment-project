@@ -1,0 +1,20 @@
+FIRM         : MZTI (CIK 0000057515) | FY2019
+FILE         : 0000057515_MZTI_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 14 – Selected Quarterly Financial Data (Unaudited)
+ASSET CAT.   : Machinery and equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+2019 Machinery and equipment $ 2,273 Less accumulated amortization (223 ) Net $ 2,050
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+We capitalize certain costs related to hosting arrangements that are service contracts (cloud computing arrangements). Costs incurred during the application development stage are capitalized. Costs related to preliminary project activities and post-implementation activities are expensed as incurred. Training costs are also expensed as incurred. Capitalized costs are included in Other Noncurrent Assets and are amortized on a straight-line basis over the estimated useful life. In ||| of deferred software costs related to cloud computing arrangements.

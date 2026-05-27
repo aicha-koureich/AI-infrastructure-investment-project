@@ -1,0 +1,20 @@
+FIRM         : CDW (CIK 0001402057) | FY2021
+FILE         : 0001402057_CDW_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 5. Property and Equipment
+ASSET CAT.   : equipment, Machinery and equipment, Computer software, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, Useful Lives (Years) 2021 2020 Computer and data processing equipment 3 - 5 $ 162.1 $ 126.5 Building and leasehold improvements 5 - 25 151.3 126.8 Machinery and equipment 5 - 10 44.4 43.3 Computer software 3 - 5 32.9 22.9 Furniture and fixtures 5 - 10 31.0 21.2 Land -* 27.7 27.7 Construction in progress -* 12.0 50.8 Property and equipment, gross 461.4 419.2 Less: accumulated depreciation (265.6) (243.7) Property and equipment, net $ 195.8 $ 175.5
+
+[VERBATIM — Infrastructure IA]
+The Company has operating leases primarily for real estate, data centers and equipment. Remaining lease terms range from 1 to 15 years.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The Company sells cloud computing solutions which include Infrastructure as a Service (“IaaS”). IaaS solutions utilize third-party partners to enable customers to access data center functionality in a cloud-based solution, including storage, computing and networking. The Company recognizes revenue for cloud computing solutions for arrangements with one-time invoicing to the customer at the time of invoice on a net basis as the Company is acting as an agent in the transaction. For monthly subscription-based arrangements, the Company is acting as an agent in the transaction and recognizes revenue as it invoices the customer for its monthly usage on a net basis. ||| The Company sells cloud computing solutions which include Software as a Service (“SaaS”). SaaS solutions utilize third-party partners to offer the Company’s customers access to software in the cloud that enhances office productivity, provides security or assists in collaboration. The Company recognizes revenue for cloud computing solutions for arrangements with one-time invoicing to the customer at the time of invoice on a net basis as the Company is acting as an agent in the transaction. For monthly subscription-based arrangements, the Company is acting as an agent in the transaction and recognizes revenue as it invoices the customer for its monthly usage on a net basis. ||| Revenues from the sale of data center services, such as managed and remote managed services, server co-location, internet connectivity and data backup and storage provided by the Company, are recognized over the period the service is provided. Most hosting and managed service obligations are based on the quantity and pricing parameters established in the agreement. As the customer receives the benefit of the service each month, the Company recognizes the respective revenue on a gross basis as the Company is acting as a principal in the transaction. Additionally, the Company’s managed services team provides project support to customers that are billed on a fixed fee basis. The Company is acting as the principal in the transaction and recognizes revenue on a gross basis based on the total number of hours incurred for the period over the total expected hours for the project. Total expected hours to complete the project is updated for each period and best represents the transfer of control of the service to the customer.

@@ -1,0 +1,20 @@
+FIRM         : WOLF (CIK 0000895419) | FY2019
+FILE         : 0000895419_WOLF_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 7 – Financial Statement Details
+ASSET CAT.   : Furniture and fixtures, Machinery and equipment, Computer hardware, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Dollars) June 30, 2019 June 24, 2018 Furniture and fixtures $9.7 $11.9 Land and buildings 416.5 389.5 Machinery and equipment 1,110.3 1,140.6 Vehicles 0.9 0.9 Computer hardware/software 48.6 42.5 Leasehold improvements and other 4.2 5.5 Construction in progress 231.7 207.2 Property and equipment, gross 1,821.9 1,798.1 Accumulated depreciation (1,196.7 ) (1,209.0 ) Property and equipment, net $625.2 $589.1
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| In August 2018, the FASB issued ASU 2018-15: Intangibles - Goodwill and Other - Internal-Use Software (Topic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement that is a Service Contract. The ASU allows companies to capitalize implementation costs incurred in a hosting arrangement that is a service contract over the term of the hosting arrangement, including periods covered by renewal options that are reasonably certain to be exercised. The Company early adopted this standard in the first quarter of fiscal 2019. There was no significant impact on the financial statements.

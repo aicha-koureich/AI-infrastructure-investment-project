@@ -1,0 +1,20 @@
+FIRM         : LKQ (CIK 0001065696) | FY2017
+FILE         : 0001065696_LKQ_FY2017_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 16.
+ASSET CAT.   : Machinery and equipment, Computer equipment, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2017 2016 Land and improvements $ 137,790 $ 127,211 Buildings and improvements 233,078 209,773 Machinery and equipment 521,526 429,446 Computer equipment and software 133,753 120,316 Vehicles and trailers 161,269 138,263 Furniture and fixtures 31,794 28,405 Leasehold improvements 257,506 152,356 1,476,716 1,205,770 Less—Accumulated depreciation (606,112 ) (495,644 ) Construction in progress 42,485 101,450 Total property, plant and equipment, net $ 913,089 $ 811,576
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

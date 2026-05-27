@@ -1,0 +1,20 @@
+FIRM         : ORLY (CIK 0000898173) | FY2015
+FILE         : 0000898173_ORLY_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are carried at cost. Depreciation is calculated using the straight-line method generally over the estimated useful lives of the assets. Leasehold improvements are amortized over the lesser of the lease term or the estimated economic life of the assets. The lease term includes renewal options determined by management at lease inception for which failure to execute renewal options would result in a substantial economic penalty to the Company. Maintenance and repairs are charged to expense as incurred. Upon retirement or sale, the cost and accumulated depreciation are eliminated and the gain or loss, if any, is recognized in the Company's Consolidated Statements of Income. The Company reviews long-lived assets for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be fully recoverable.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

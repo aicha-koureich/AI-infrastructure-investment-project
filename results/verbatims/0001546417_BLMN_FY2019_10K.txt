@@ -1,0 +1,23 @@
+FIRM         : BLMN (CIK 0001546417) | FY2019
+FILE         : 0001546417_BLMN_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 29, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Estimated useful lives are periodically reviewed and, where appropriate, changes are made prospectively. Effective September 30, 2019, the Company changed the estimated useful life of its leasehold improvements from 20 years to 30 years (or the reasonably certain lease term) for leasehold improvements associated with ground leases placed in service on or after that date. The change in useful life was adopted based on historical experience related to the use of leasehold improvements and the expectation of future usability considering the Company’s revised site selection strategy in recent years to focus on securing prime locations and ground leases for restaurant development and relocations. The change in estimated useful life did not have a material impact on the Company’s consolidated financial statements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, “Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract,” (“ASU No. 2018-15”), which clarifies the accounting for implementation costs in cloud computing arrangements. Under ASU No. 2018-15, implementation costs incurred by customers in cloud computing arrangements are deferred and recognized over the term of the arrangement similar to internal-use software guidance. The Company’s prospective adoption of ASU No. 2018-15 on December 30, 2019 did not have a material effect on its consolidated financial statements. The Company will defer and recognize allowable implementation costs for future cloud computing projects which may be material to future reporting periods.

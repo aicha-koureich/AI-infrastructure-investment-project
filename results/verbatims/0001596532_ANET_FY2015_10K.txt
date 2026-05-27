@@ -1,0 +1,20 @@
+FIRM         : ANET (CIK 0001596532) | FY2015
+FILE         : 0001596532_ANET_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 11. Selected Quarterly Financial Information (Unaudited)
+ASSET CAT.   : equipment, machinery, Computer hardware, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment, net consists of the following (in thousands): December 31, 2015 2014 Equipment and machinery $ 29,101 $ 18,265 Computer hardware and software 12,630 7,772 Furniture and fixtures 2,380 1,373 Leasehold improvements 24,372 19,420 Building 35,154 35,154 Construction-in-process 6,408 6,532 Property and equipment, gross 110,045 88,516 Less: accumulated depreciation (30,339 ) (16,958 ) Property and equipment, net $ 79,706 $ 71,558
+
+[VERBATIM — Infrastructure IA]
+We are a leading supplier of cloud networking solutions that use software innovations to address the needs of large-scale Internet companies, cloud service providers and next-generation data centers for enterprise support. Our cloud networking solutions consist of our Extensible Operating System, or EOS, a set of network applications and our Ethernet switches. Our cloud networking solutions deliver industry-leading performance, scalability, availability, programmability, automation and visibility. At the core of our cloud networking platform is EOS, which was purpose-built to be fully programmable and highly modular. The programmability of EOS has allowed us to create a set of software applications that address the requirements of cloud networking, including workflow automation, network visibility and analytics, and has also allowed us to rapidly integrate with a wide range of third-party applications for virtualization, management, automation, orchestration and network services.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+which clarifies the circumstances under which a cloud computing customer would account for the arrangement as a license of internal-use software. A cloud computing arrangement would include a software license if (1) the customer has a contractual right to take possession of the software at any time during the hosting period without significant penalty and (2) it is feasible for the customer to either run the software on its own hardware or contract with another party unrelated to the vendor to host the software. If the arrangement does not contain a software license, it would be accounted for as a service contract. The guidance is effective for fiscal years beginning after December 15, 2015. The standard is effective for us for our first quarter of fiscal 2016. Early adoption ||| In April 2015, the FASB issued ASU No. 2015-05, Intangibles—Goodwill and Other—Internal-Use Software, which clarifies the circumstances under which a cloud computing customer would account for the arrangement as a license of internal-use software. A cloud computing arrangement would include a software license if (1) the customer has a contractual right to take possession of the software at any time during the hosting period without significant penalty and (2) it is feasible for the customer to either run the software on its own hardware or contract with another party unrelated to the vendor to host the software. If the arrangement does not contain a software license, it would be accounted for as a service contract. The guidance is effective for fiscal years beginning after December 15, 2015. The standard is effective for us for our first quarter of fiscal 2016. Early adoption

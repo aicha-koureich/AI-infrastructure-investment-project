@@ -1,0 +1,21 @@
+FIRM         : DLB (CIK 0001308547) | FY2022
+FILE         : 0001308547_DLB_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 30, 2022
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment provided under operating leases
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Depreciation expense is recognized on a straight-line basis according to estimated useful lives assigned to each of our different categories of PP&E as summarized within the following table: PP&E Category Useful Life Computer equipment and software 3 to 5 years Machinery and equipment 3 to 8 years Furniture and fixtures 5 to 8 years Leasehold improvements Lesser of useful life or related lease term Equipment provided under operating leases 15 years Buildings and building improvements 20 to 40 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

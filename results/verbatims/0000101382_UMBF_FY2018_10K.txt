@@ -1,0 +1,20 @@
+FIRM         : UMBF (CIK 0000101382) | FY2018
+FILE         : 0000101382_UMBF_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 21. SUMMARY OF OPERATING RESULTS BY QUARTER (unaudited) (in thousands except per share data)
+ASSET CAT.   : Equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2018 2017 Land $ 44,580 $ 46,415 Buildings and leasehold improvements 344,267 328,384 Equipment 159,717 148,425 Software 209,877 186,269 Total 758,441 709,493 Accumulated depreciation (320,476 ) (300,103 ) Accumulated amortization (154,086 ) (133,448 ) Premises and equipment, net $ 283,879 $ 275,942
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

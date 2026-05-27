@@ -1,0 +1,20 @@
+FIRM         : NABL (CIK 0001834488) | FY2023
+FILE         : 0001834488_NABL_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+• Cost of Revenue. Cost of revenue consists of public cloud infrastructure and hosting fees, an allocation of overhead costs for our subscription revenue and maintenance services, royalty fees and technical support personnel costs. We allocate facilities, depreciation, IT and benefits costs based on headcount.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

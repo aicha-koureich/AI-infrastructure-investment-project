@@ -1,0 +1,20 @@
+FIRM         : DD (CIK 0001666700) | FY2021
+FILE         : 0001666700_DD_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-09-30
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Electronics & Industrial net sales were $5,554 million for the year ended December 31, 2021, up 19 percent from $4,674 million for the year ended December 31, 2020. Net sales increased due to a 12 percent increase in volume, a 6 percent portfolio and other increase and a 1 percent favorable currency impact. Local price and product mix were flat. Volume growth was driven by Industrial Solutions primarily due to increased demand in consumer electronics and healthcare markets. Semiconductor Technologies volume growth was led by new technology ramps at advanced nodes within logic and foundry and growth in high performance computing and 5G communications markets. Within Interconnect Solutions, the increase was driven by the July 1, 2021 acquisition of Laird PM, increases in consumer electronics, and continued volume recovery within industrial applications.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

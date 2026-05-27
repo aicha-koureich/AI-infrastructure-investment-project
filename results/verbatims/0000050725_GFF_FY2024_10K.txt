@@ -1,0 +1,23 @@
+FIRM         : GFF (CIK 0000050725) | FY2024
+FILE         : 0000050725_GFF_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-11-13
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 — DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, machinery and equipment
+DURÉE        : 25.0-40.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated useful lives for property, plant and equipment are as follows: buildings and building improvements, 25 to 40 years; machinery and equipment, 2 to 15 years; and leasehold improvements, over the term of the lease or life of the improvement, whichever is shorter.
+
+[VERBATIM — Changement de politique]
+For the Years Ended September 30, 2024 2023 2022 Segment Adjusted EBITDA: Home and Building Products $ 501,001 $ 510,876 $ 412,738 Consumer and Professional Products 72,632 50,343 99,308 Segment Adjusted EBITDA 573,633 561,219 512,046 Unallocated amounts, excluding depreciation (60,031) (55,887) (53,888) Adjusted EBITDA 513,602 505,332 458,158 Net interest expense (101,652) (99,351) (84,164) Depreciation and amortization (60,704) (65,445) (64,658) Goodwill and intangible impairments — (109,200) (517,027) Restructuring charges (41,309) (92,468) (16,782) Debt extinguishment, net (1,700) (437) (4,529) Acquisition costs (441) — (9,303) Strategic review - retention and other (10,594) (20,225) (9,683) Special dividend ESOP charges — (15,494) (10,538) Gain (loss) on sale of buildings (61) 12,655 — Proxy expenses — (2,685) (6,952) Fair value step-up of acquired inventory sold (491) — (5,401) Income (loss) before taxes from continuing operations $ 296,650 $ 112,682 $ (270,879)
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

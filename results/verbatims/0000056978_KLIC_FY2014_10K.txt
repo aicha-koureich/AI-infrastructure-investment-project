@@ -1,0 +1,24 @@
+FIRM         : KLIC (CIK 0000056978) | FY2014
+FILE         : 0000056978_KLIC_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 27, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 15: SUBSEQUENT EVENTS
+ASSET CAT.   : equipment, Machinery, furniture and fixtures
+DURÉE        : 1.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+As of (in thousands) September 27, 2014 September 28, 2013 Short term investments, available-for-sale: Deposits maturing within one year (1) $ 9,105 $ 3,252 Inventories, net: Raw materials and supplies $ 22,184 $ 19,703 Work in process 18,783 12,219 Finished goods 22,590 20,333 63,557 52,255 Inventory reserves (13,863 ) (14,120 ) $ 49,694 $ 38,135 Property, plant and equipment, net: Buildings and building improvements $ 31,159 $ 3,060 Leasehold improvements 13,962 15,763 Data processing equipment and software 27,538 24,549 Machinery, equipment, furniture and fixtures 45,442 48,998 Construction in progress (2) — 19,396 118,101 111,766 Accumulated depreciation (65,346 ) (64,225 ) $ 52,755 $ 47,541 Accrued expenses and other current liabilities: Wages and benefits $ 21,498 $ 19,779 Accrued customer obligations (3) 8,999 8,270 Commissions and professional fees 1,961 2,640 Deferred Rent 2,161 1,097 Severance 1,067 1,468 Other 8,045 5,614 $ 43,731 $ 38,868
+
+[VERBATIM — Changement de politique]
+Property, plant and equipment are carried at cost. The cost of additions and those improvements which increase the capacity or lengthen the useful lives of assets are capitalized while repair and maintenance costs are expensed as incurred. Depreciation and amortization are provided on a straight-line basis over the estimated useful lives as follows: buildings
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

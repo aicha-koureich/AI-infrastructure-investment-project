@@ -1,0 +1,20 @@
+FIRM         : FCF (CIK 0000712537) | FY2016
+FILE         : 0000712537_FCF_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: Note 27—Condensed Financial Information of First Commonwealth Financial Corporation (parent company only)
+ASSET CAT.   : equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Premises and equipment are described as follows: Estimated Useful Life 2016 2015 (dollars in thousands) Land Indefinite $ 13,679 $ 12,185 Buildings and improvements 10-50 years 80,364 77,086 Leasehold improvements 5-40 years 15,871 14,518 Furniture and equipment 3-7 years 61,324 59,463 Software 3-7 years 36,077 34,472 Subtotal 207,315 197,724 Less accumulated depreciation and amortization 139,781 134,270 Total premises and equipment $ 67,534 $ 63,454
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

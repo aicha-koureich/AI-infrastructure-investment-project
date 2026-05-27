@@ -1,0 +1,21 @@
+FIRM         : CRUS (CIK 0000772406) | FY2022
+FILE         : 0000772406_CRUS_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 25, 2023
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies
+ASSET CAT.   : software is amortized over a useful life of
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is recorded at cost, net of depreciation and amortization. Furniture, fixtures, machinery, and equipment are all depreciated over a useful life of 3 to 10 years, while buildings are depreciated over a period of up to 39 years. In general, our capitalized software is amortized over a useful life of 3 years, with capitalized enterprise resource planning software being amortized over a useful life of 10 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

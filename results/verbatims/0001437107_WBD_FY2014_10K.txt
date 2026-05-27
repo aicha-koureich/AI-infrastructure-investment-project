@@ -1,0 +1,24 @@
+FIRM         : WBD (CIK 0001437107) | FY2014
+FILE         : 0001437107_WBD_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-15.0 ans | 2.0-5.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost less accumulated depreciation and impairments.
+
+[VERBATIM — Changement de politique]
+The Company evaluates the operating performance of its segments based on financial measures such as revenues and adjusted operating income before depreciation and amortization (“Adjusted OIBDA”). Adjusted OIBDA is defined as revenues less costs of revenues and selling, general and administrative expenses excluding: (i) mark-to-market equity-based compensation, (ii) depreciation and amortization, (iii) amortization of deferred launch incentives, (iv) restructuring and other charges, (v) certain impairment charges and (vi) gains and losses on business and asset dispositions. The Company uses this measure to assess the operating results and performance of its segments, perform analytical comparisons, identify strategies to improve performance and allocate resources to each segment. The Company believes Adjusted OIBDA is relevant to investors because it allows them to analyze the operating performance of each segment using the same metric management uses. The Company excludes mark-to-market equity-based compensation, restructuring and other charges, certain impairment charges, and gains and losses on business and asset dispositions from the calculation of Adjusted OIBDA due to their volatility. The Company also excludes depreciation of fixed assets, amortization of intangible assets and deferred launch incentives, as these amounts do not represent cash payments in the current reporting period. Certain corporate expenses are excluded from segment results to enable executive management to evaluate segment performance based upon the decisions of segment executives. Adjusted OIBDA should be considered in addition to, but not a substitute for, operating income, net income and other measures of financial performance reported in accordance with GAAP. The tables below present summarized financial information for each of the Company’s reportable segments, other operating segments and corporate and inter-segment eliminations (in millions).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

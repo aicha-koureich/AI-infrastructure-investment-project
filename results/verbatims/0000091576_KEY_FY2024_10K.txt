@@ -1,0 +1,23 @@
+FIRM         : KEY (CIK 0000091576) | FY2024
+FILE         : 0000091576_KEY_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 11. Premises and Equipment
+ASSET CAT.   : computer software, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Eligible costs related to computer software developed or obtained for internal use that add functionality, improve efficiency or extend the useful life of a system are capitalized. Amortization of capitalized software begins when it is ready for its intended use, which is after all substantial testing is completed.
+
+[VERBATIM — Changement de politique]
+We use the proportional amortization method for LIHTC and certain NMTC investments, whereby the associated investment tax credits are recognized as a reduction to tax expense. Certain federal tax credits that are nonrefundable and transferable under applicable regulations are accounted for as government grants and recorded as a reduction to the amortized cost or net investment in the applicable asset generating the credit, generally within “Accrued income and other assets” or “Loans, net of unearned income”. Amounts are amortized through depreciation or as an adjustment to yield over the estimated life of the asset. Any gain or loss on the transfer of a tax credit is recorded within “Other income”.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Key had capitalized software assets, including internally-developed and purchased software and costs associated with certain cloud computing arrangements of $597 million and $520 million and related accumulated amortization of $308 million and $225 million as of December 31, 2024, and December 31, 2023, respectively. This includes in-process software that has not started amortizing. Amortization expense related to internal-use software for the years ended December 31, 2024, December 31, 2023, and December 31, 2022, was $84 million, $78 million, and $77 million, respectively.

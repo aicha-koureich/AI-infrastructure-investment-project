@@ -1,0 +1,20 @@
+FIRM         : FLR (CIK 0001124198) | FY2021
+FILE         : 0001124198_FLR_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-22
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Revenue in 2021 decreased due to the close out of data center projects in Europe and mining projects in South America and Australia as well as the cancellation of a rail project and a steel project that were in progress in the prior year periods. Revenue in 2020 declined due to a six-month suspension in 2020 of a large mining project in South America due to COVID and a decline in the volume of execution activities for a large life sciences project and two mining projects completed or nearing completion. The revenue decline in 2020 was partially offset by increased execution activities on two advanced technologies projects, a mining project and a metals project.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

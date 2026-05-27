@@ -1,0 +1,20 @@
+FIRM         : TILE (CIK 0000715787) | FY2020
+FILE         : 0000715787_TILE_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 3, 2021
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, furniture
+DURÉE        : 3.0-12.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is computed using the straight-line method over the following estimated useful lives: buildings and improvements – ten to forty years; and furniture and equipment – three to twelve years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+On December 30, 2019, the Company adopted ASU 2018-15, “ Internal-Use Software - Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement .” This ASU aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement service contract with the guidance to capitalize implementation costs of internal use software. The ASU also requires that the costs for implementation activities during the application development phase be capitalized in a hosting arrangement service contract, and costs during the preliminary and post implementation phase are expensed. The Company adopted this standard, which will be applied on a prospective basis, with no material impact to the Company’s consolidated financial statements. ||| Internal-Use Software - Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement

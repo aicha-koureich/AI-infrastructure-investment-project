@@ -1,0 +1,20 @@
+FIRM         : BSY (CIK 0001031308) | FY2021
+FILE         : 0001031308_BSY_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+• Learning benefits, Azure‑based cloud collaboration services, and mobility advantages; and ||| Learning benefits, Azure‑based cloud collaboration services, and mobility advantages; and ||| Monthly Term License (“MTL”) Subscription. Monthly term licenses are identical to QTL subscriptions, except for the term of the license, and the manner in which they are monetized. MTL subscriptions require a Cloud Services Subscription, which is discussed below.

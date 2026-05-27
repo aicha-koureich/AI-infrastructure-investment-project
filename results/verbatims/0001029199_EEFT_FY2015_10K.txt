@@ -1,0 +1,21 @@
+FIRM         : EEFT (CIK 0001029199) | FY2015
+FILE         : 0001029199_EEFT_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : equipment
+DURÉE        : 2.0-8.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-8.0 ans | 4.0 ans | 10.0 ans | 12.0 ans
+
+[VERBATIM — Durée de vie]
+(dollar amounts in thousands) Estimated Life Current assets $ 4,805 Property and equipment 2 - 8 years 331 Non-compete agreements 4 years 755 Proprietary software 10 years 11,912 Customer relationships 12 years 18,230 Trademarks and trade names 20 years 2,382 Goodwill Indefinite 27,917 Other non-current assets 402 Fair value of assets 66,734 Current liabilities (4,783 ) Other non-current liabilities (3,683 ) Net assets acquired $ 58,268
+
+[VERBATIM — Infrastructure IA]
+, respectively, incurred when the Company entered into leases primarily for new ATMs, to upgrade ATMs or for data center computer equipment.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

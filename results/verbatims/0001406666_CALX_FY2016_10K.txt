@@ -1,0 +1,20 @@
+FIRM         : CALX (CIK 0001406666) | FY2016
+FILE         : 0001406666_CALX_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 14. Quarterly Financial Data—Unaudited
+ASSET CAT.   : equipment, Computer equipment, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2016 December 31, 2015 Test equipment $ 43,580 $ 39,035 Computer equipment and purchased software 30,306 27,736 Furniture and fixtures 2,831 1,833 Leasehold improvements 6,898 6,554 Total 83,615 75,158 Accumulated depreciation and amortization (65,631 ) (58,009 ) Property and equipment, net $ 17,984 $ 17,149
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : SMCI (CIK 0001375365) | FY2014
+FILE         : 0001375365_SMCI_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 15. Quarterly Financial Data (Unaudited)
+ASSET CAT.   : Machinery and equipment, Furniture and fixtures, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Intel_Xeon;NVIDIA (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+June 30, 2014 2013 Land $ 63,962 $ 41,774 Buildings 51,959 43,979 Building and leasehold improvements 7,683 7,483 Buildings construction in progress (1) 587 — Machinery and equipment 34,342 26,941 Furniture and fixtures 5,892 4,731 Purchased software 3,606 5,380 Purchased software construction in progress (2) 2,548 — 170,579 130,288 Accumulated depreciation and amortization (39,990 ) (34,376 ) Property, plant and equipment, net $ 130,589 $ 95,912
+
+[VERBATIM — Infrastructure IA]
+We are a global leader in high-performance, high-efficiency server technology and innovation. We develop and provide end-to-end green computing solutions to the Data Center, Cloud Computing, Enterprise IT, Big Data, HPC and Embedded markets. Our solutions range from complete server, storage, blade and workstations to full racks, networking devices, server management software and technology support and services. For fiscal years  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+We are a global leader in high-performance, high-efficiency server technology and innovation. We develop and provide end-to-end green computing solutions to the Data Center, Cloud Computing, Enterprise IT, Big Data, HPC and Embedded markets. Our solutions range from complete server, storage, blade and workstations to full racks, networking devices, server management software and technology support and services. For fiscal years ||| was primarily due to increased sales of our products optimized for the storage, HPC, Cloud Computing, Data Center and OEM verticals. In addition, the percentage of our net sales represented by sales of complete server systems increased to 50.5% in fiscal year 2014 from 43.2% in fiscal year 2013. We also benefited from the technology transition from Intel's Sandybridge to Ivybridge processor in fiscal year 2014.

@@ -1,0 +1,24 @@
+FIRM         : CENTA (CIK 0000887733) | FY2015
+FILE         : 0000887733_CENTA_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : September 26, 2015
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Costs ||| In April 2015, the FASB issued ASU
+No. 2015-05(ASU 2015-05), Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement . This standard clarifies the circumstances under
+which a cloud computing customer would account for the arrangement as a license of internal-use software under ASC 350-40. ASU 2015-05 is effective for public entities for annual and interim periods therein beginning after December 15, 2015, or
+our first quarter of fiscal 2017. Early adoption is permitted. Entities may adopt the guidance either retrospectively or prospectively to arrangements entered into, or materially modified after the effective date. We are currently evaluating the
+impact the adoption of ASU 2015-05 will have on our consolidated financial statements.

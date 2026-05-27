@@ -1,0 +1,21 @@
+FIRM         : TNDM (CIK 0001438133) | FY2021
+FILE         : 0001438133_TNDM_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 4. Composition of Certain Financial Statement Items
+ASSET CAT.   : furniture, equipment, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0 ans | 3.0-7.0 ans | 12.0 ans
+
+[VERBATIM — Durée de vie]
+December 31, 2021 2020 Leasehold improvements $ 25,245 $ 22,834 Office furniture and equipment 9,943 9,876 Computer equipment and software 11,544 12,219 Manufacturing and scientific equipment 52,823 44,026 Total cost 99,555 88,955 Less: accumulated depreciation and amortization (49,169) (38,933) Total property and equipment, net $ 50,386 $ 50,022
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : DAR (CIK 0000916540) | FY2016
+FILE         : 0000916540_DAR_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 12. INCOME TAXES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment depreciation
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+directly or indirectly owned subsidiary of Darling and which constitute all of Darling's existing restricted subsidiaries that are Credit Agreement Guarantors (other than Darling's foreign subsidiaries, Darling Global Finance B.V., which issued the 4.75% Notes and is discussed further below, or any receivables entity): Darling National, Griffin and its subsidiary Craig Protein, Darling AWS LLC, Terra Holding Company, Darling Global Holdings Inc., Darling Northstar LLC, TRS, EV Acquisition, Inc., Rousselot Inc., Rousselot Dubuque Inc., Sonac USA LLC and Rousselot Peabody Inc. In addition, the 4.75% Notes, which were issued by Darling Global Finance B.V., a wholly-owned indirect subsidiary of Darling, are guaranteed on a senior unsecured basis by Darling. The Notes Guarantors, and Darling in the case of the 4.75% Notes, fully and unconditionally guaranteed the 5.375% Notes and 4.75% Notes on a joint and several basis. The following financial statements present condensed consolidating financial data for (i) Darling, (ii) the combined Notes Guarantors, (iii) the combined other subsidiaries of the Company that did not guarantee the 5.375% Notes or the 4.75% Notes (the “Non-guarantors”), and (iv) eliminations necessary to arrive at the Company's consolidated financial statements, which include condensed consolidated balance sheets as of

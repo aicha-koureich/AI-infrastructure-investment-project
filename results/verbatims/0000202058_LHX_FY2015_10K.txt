@@ -1,0 +1,29 @@
+FIRM         : LHX (CIK 0000202058) | FY2015
+FILE         : 0000202058_LHX_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : July 3, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1: SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Equipment, machinery and equipment
+DURÉE        : 10.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 7.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+Depreciation of buildings, machinery and equipment is computed by the straight-line and accelerated methods. The estimated useful lives of machinery and equipment generally range between 2 and 10 years. Amortization of internal-use
+software begins when the software is put into service and is based on the expected useful life of the software. The useful lives over which we amortize internal-use software generally range between 3 and 7 years.
+
+[VERBATIM — Changement de politique]
+Company-sponsored research and development costs are expensed as incurred. These costs were $277 million, $264
+million and $254 million in fiscal 2015, 2014 and 2013, respectively, and are included in the “Engineering, selling and administrative expenses” line item in our Consolidated Statement of Income. These costs in fiscal 2013 included an $18
+million write-off of capitalized software in our Integrated Network Solutions segment as a result of a change in accounting estimate. Customer-sponsored research and development costs are incurred pursuant to contractual arrangements, principally
+U.S. Government-sponsored contracts requiring us to provide a product or service meeting certain defined performance or other specifications (such as designs), and are accounted for principally by the cost-to-cost percentage-of-completion
+method. Customer-sponsored research and development is included in our revenue and cost of product sales and services.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

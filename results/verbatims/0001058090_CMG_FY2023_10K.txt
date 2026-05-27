@@ -1,0 +1,20 @@
+FIRM         : CMG (CIK 0001058090) | FY2023
+FILE         : 0001058090_CMG_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Description of Business and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Leasehold improvements, property and equipment are recorded at cost. Internal costs directly associated with the acquisition, development and construction of a restaurant are capitalized. During the years ended December 31, 2023, 2022 and 2021, we capitalized $ 15,385 , $ 12,695 , and $ 10,870 of internal costs, respectively. Expenditures for refurbishments and improvements that significantly add to the productivity capacity or extend the useful life are capitalized, while expenditures for maintenance and repairs are expensed as incurred. Depreciation is calculated using the straight-line method over the estimated useful lives of the assets. Leasehold improvements are amortized over the shorter of the lease term, which generally includes option periods that are reasonably certain, or the estimated useful lives of the assets. Upon retirement or disposal of assets, the accounts are relieved of cost and accumulated depreciation and any related gain or loss is reflected in impairment, closure costs, and asset disposals in the consolidated statements of income and comprehensive income . Assets to be disposed of are reported at the lower of their carrying amount or fair value less estimated costs to sell.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : SHAK (CIK 0001620533) | FY2021
+FILE         : 0001620533_SHAK_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES Basis of Presentation
+ASSET CAT.   : computer equipment and software
+DURÉE        : 2.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment, net is stated at historical cost less accumulated depreciation. Property and equipment is depreciated based on the straight-line method over the estimated useful lives of the assets, generally ranging from five to seven years for both equipment, and furniture and fixtures, and two to five years for computer equipment and software.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Amortization of cloud computing asset ||| Other assets consist primarily of capitalized implementation costs from cloud computing arrangements, certain custom pre-ordered furniture, fixtures and equipment for future and existing Shacks, transferable liquor licenses, and security deposits. ||| Implementation costs associated with cloud computing arrangements hosted by third party vendors are capitalized when incurred during the application development phase. Amortization is calculated on a straight-line basis over the contractual term of the cloud computing arrangement and is recorded within General and administrative expenses on the Consolidated Statements of Income (Loss). As of December 29, 2021 and December 30, 2020, capitalized implementation costs from cloud computing arrangements totaled $6,431 and $6,497, respectively, net of accumulated amortization.

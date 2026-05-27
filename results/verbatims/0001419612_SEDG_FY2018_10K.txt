@@ -1,0 +1,20 @@
+FIRM         : SEDG (CIK 0001419612) | FY2018
+FILE         : 0001419612_SEDG_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : NVIDIA (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, we were awarded the Straus Award in the Cloud Computing category for our grid services and virtual power plant solution. ||| • In August 2018, we were awarded the Straus Award in the Cloud Computing category for our grid services and virtual power plant solution.

@@ -1,0 +1,27 @@
+FIRM         : NWSA (CIK 0001564708) | FY2015
+FILE         : 0001564708_NWSA_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : computer software, capitalized software
+DURÉE        : 5.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Amortization of capitalized software development costs begins when the product is
+available for general release to customers and is computed on a product-by-product basis at a rate not less than the straight-line method over the remaining estimated useful life of the product, generally five years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April 2015, the FASB issued ASU 2015-05, “Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Fees Paid in a Cloud Computing
+Arrangement” (“ASU 2015-05”). ASU 2015-05 clarifies guidance about whether a customer’s cloud computing arrangement includes a software license. If a cloud computing arrangement includes a software license, then the customer
+should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, the customer should account for the arrangement as a
+service contract. The guidance will not change GAAP for customer’s accounting for service contracts. In addition, the guidance in this update supersedes paragraph 350-40-25-16. Consequently, all software licenses within the scope of Subtopic
+350-40 will be accounted for consistent with other licenses of intangible assets. The amendment can either be adopted prospectively for all arrangements entered into or materially modified after the effective date or retrospectively. ASU 2015-05 is
+effective for the Company for annual and interim periods beginning July 1, 2016, however, early adoption is permitted. The Company does not expect the adoption of ASU 2015-05 to have a significant impact on its Financial Statements.

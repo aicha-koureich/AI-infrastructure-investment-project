@@ -1,0 +1,21 @@
+FIRM         : LNN (CIK 0000836157) | FY2024
+FILE         : 0000836157_LNN_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-08-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Description of Business and Significant Accounting Policies
+ASSET CAT.   : equipment, computer hardware
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-7.0 ans | 5.0 ans | 8.0-10.0 ans | 12.0 ans
+
+[VERBATIM — Durée de vie]
+Provisions for depreciation and amortization have been computed principally on the straight-line method for property, plant, and equipment. Rates used for depreciation are based principally on the following expected lives: buildings – 15 to 40 years; equipment – 3 to 7 years; computer hardware and software – 3 to 5 years; leased barrier transfer machines -- 8 to 10 years; leased barriers – 12 years; other – 2 to 20 years and leasehold improvements – shorter of the economic life or term of the lease.
+
+[VERBATIM — Infrastructure IA]
+In the ordinary course of business, the Company relies upon information technology networks and systems to process, transmit and store electronic information, and to manage or support a variety of business functions, including supply chain, manufacturing, distribution, invoicing and collection of payments. The Company uses information technology systems to record, process and summarize financial information and results of operations for internal reporting purposes and to comply with regulatory financial reporting, legal and tax requirements. Additionally, the Company collects and stores sensitive data, including intellectual property, proprietary business information and the proprietary business information of customers and suppliers, as well as personally identifiable information of customers and employees, in data centers and on information technology networks. The secure operation of these networks and the processing and maintenance of this information is critical to the Company’s business operations and strategy. Despite security measures and business continuity plans, the Company’s information technology networks and infrastructure may be vulnerable to damage, disruptions or shutdowns due to, among other reasons, attacks by hackers or breaches due to employee error or malfeasance or other disruptions during the process of upgrading or replacing computer software or hardware, power outages, computer viruses, telecommunication or utility failures or natural disasters or other catastrophic events. The occurrence of any of these events could compromise the Company’s networks, and the information stored there could be accessed, publicly disclosed, lost or stolen. Any such access, disclosure or other loss of information could result in legal claims or proceedings, liability or regulatory penalties under laws protecting the privacy of personal information, disrupt operations, and damage the Company’s reputation, which could adversely affect the Company’s business.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+The Company also markets patented technology under the FieldNET Advisor ® product name which delivers information that helps farmers decide precisely when, where and how much to irrigate. This technology combines crop and irrigation science and expertise accumulated since 1955 with FieldNET’s cloud computing capabilities, remote sensing functionality and machine learning to provide farmers with field-specific and crop-specific irrigation recommendations. ||| cloud computing capabilities, remote sensing functionality and machine learning to provide farmers with field-specific and crop-specific irrigation recommendations.

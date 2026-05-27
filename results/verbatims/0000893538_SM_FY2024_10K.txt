@@ -1,0 +1,20 @@
+FIRM         : SM (CIK 0000893538) | FY2024
+FILE         : 0000893538_SM_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 8 – Fair Value Measurements
+ASSET CAT.   : equipment, furniture, computer hardware
+DURÉE        : 3.0-30.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+When other property and equipment is sold or retired, the capitalized costs and related accumulated depreciation are removed from the Company’s accounts.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

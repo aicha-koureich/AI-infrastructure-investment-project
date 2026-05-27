@@ -1,0 +1,21 @@
+FIRM         : DAN (CIK 0000026780) | FY2016
+FILE         : 0000026780_DAN_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 18
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 3.0-10.0 ans | 5.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+In February 2016, the FASB issued its new lease accounting standard. The primary focus of the standard is on the accounting by lessees. This standard requires lessees to recognize a right-of-use asset and a lease liability for virtually all leases (other than leases that meet the definition of a short-term lease) on the balance sheet. The recognition, measurement and presentation of expenses and cash flows arising from a lease by a lessee have not significantly changed from current GAAP. Operating leases will result in straight-line expense while finance leases will result in a front-loaded expense pattern in the income statement. Quantitative and qualitative disclosures are required to provide insight into the extent of revenue and expense recognized and expected to be recognized from leasing arrangements. Approximately three-fourths of our global lease portfolio represents leases of real estate, including manufacturing, assembly and office facilities, while the remainder represents leases of personal property, including manufacturing, material handling and IT equipment. Many factors will impact the ultimate measurement of the lease obligation to be recognized upon adoption, including our assessment of the likelihood of renewal of leases that provide such an option. We continue to evaluate the impact this guidance will have on our consolidated financial statements. This guidance becomes effective January 1, 2019 with early adoption permitted.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In April, 2015, the FASB issued an amendment to provide explicit guidance about a customer's accounting for fees paid in a cloud computing arrangement. If a cloud computing arrangement includes a software license, then the customer must account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, then the customer must account for the arrangement as a service contract. We adopted the new guidance effective January 1, 2016. Applying the amendment to all arrangements entered into or materially modified after the effective date did not have an impact on our consolidated financial statements.

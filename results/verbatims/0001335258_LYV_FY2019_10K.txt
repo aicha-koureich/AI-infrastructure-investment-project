@@ -1,0 +1,20 @@
+FIRM         : LYV (CIK 0001335258) | FY2019
+FILE         : 0001335258_LYV_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-02-29
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2—LONG-LIVED ASSETS
+ASSET CAT.   : Computer equipment, capitalized software, Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B200 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2019 2018 (in thousands) Land, buildings and improvements $ 1,181,876 $ 984,558 Computer equipment and capitalized software 800,990 742,737 Furniture and other equipment 380,174 329,607 Construction in progress 176,275 160,028 2,539,315 2,216,930 Less accumulated depreciation 1,421,383 1,270,337 $ 1,117,932 $ 946,593
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

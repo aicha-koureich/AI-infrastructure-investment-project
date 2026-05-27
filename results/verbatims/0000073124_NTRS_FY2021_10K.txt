@@ -1,0 +1,21 @@
+FIRM         : NTRS (CIK 0000073124) | FY2021
+FILE         : 0000073124_NTRS_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 11 – Goodwill and Other Intangibles
+ASSET CAT.   : Capitalized Software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+The gross carrying amount and accumulated amortization of capitalized software as of December 31, 2021 and 2020 were as follows.
+
+[VERBATIM — Infrastructure IA]
+Northern Trust’s operational resiliency mitigation and preventative measures include sophisticated physical security, resilient designs and peer capacity for its corporate data centers, a highly redundant global network, robust network security, resiliency centers that offer alternative workstations and transfer of work and work-from-home programs that provide further capability.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

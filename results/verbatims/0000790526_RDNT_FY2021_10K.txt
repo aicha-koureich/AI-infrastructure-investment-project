@@ -1,0 +1,23 @@
+FIRM         : RDNT (CIK 0000790526) | FY2021
+FILE         : 0000790526_RDNT_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-10-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+SOFTWARE DEVELOPMENT COSTS – When we develop our own software and artificial intelligence solutions we capitalize and amortize those costs over their useful life.
+
+[VERBATIM — Changement de politique]
+We define Adjusted EBITDA as earnings before interest, taxes, depreciation and amortization, as adjusted to exclude losses or gains on the disposal of equipment, other income or loss, loss on debt extinguishment, bargain purchase gains, loss on de-consolidation of joint ventures and non-cash equity compensation.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In addition, we have a software division which complements our imaging business. Through our subsidiary eRAD, Inc., we sell computerized systems that distribute, display, store and retrieve digital images. We have also established an Artificial Intelligence (AI) division, with the contributions from our acquisitions of Nulogix and DeepHealth plus our investment in Whiterabbit.ai, which develop and deploy AI suites to enhance radiologist interpretation of images initially in the field of mammography. Early in 2022, after the period covered by this annual report, we expanded the division by the acquisition of two companies in the Netherlands, Aidence Holding B.V. and Quantib B.V. that are developing AI solutions initially targeted for lung and prostate cancer. ||| Early in 2022, after the period covered by this annual report, we expanded the division by the acquisition of two companies in the Netherlands, Aidence Holding B.V. and Quantib B.V. that are developing AI solutions initially targeted for lung and prostate cancer. ||| In 2019, we created an Artificial Intelligence (AI) division that now hosts the combined efforts of our acquisitions of DeepHealth, Nulogix, and an equity investment in WhiteRabbit.ai. The division is currently focused on developing both improved medical interpretation of scans and patient management within the field of mammography. Early in 2022, after the period covered by this annual report, we expanded the division by the acquisition of two companies in the Netherlands, Aidence Holding B.V. and Quantib B.V. that are developing AI solutions initially targeted for lung and prostate cancer, respectively. Combined with our established eRad subsidiary, which develops and sells computerized imaging systems for the industry, we have assembled an industry leading team of software developers to create radiology workflow solutions that improve patient care.

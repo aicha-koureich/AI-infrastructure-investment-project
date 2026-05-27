@@ -1,0 +1,23 @@
+FIRM         : INN (CIK 0001497645) | FY2024
+FILE         : 0001497645_INN_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Changement de politique]
+Our lodging properties and related assets are recorded at cost, less accumulated depreciation. We capitalize development costs and the costs of significant additions and improvements that materially upgrade, increase the value or extend the useful life of the property. These costs may include development, refurbishment, renovation, and remodeling expenditures, as well as certain indirect internal costs related to construction projects. If an asset requires a period of time in which to carry out the activities necessary to bring it to the condition necessary for its intended use, the interest cost incurred during that period as a result of expenditures for the asset is capitalized as part of the cost of the asset. We expense the cost of repairs and maintenance as incurred.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

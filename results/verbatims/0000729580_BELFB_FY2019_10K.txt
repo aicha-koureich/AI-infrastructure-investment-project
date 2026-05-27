@@ -1,0 +1,20 @@
+FIRM         : BELFB (CIK 0000729580) | FY2019
+FILE         : 0000729580_BELFB_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 11. ACCRUED EXPENSES Accrued expenses consist of the following: December 31, 2019 2018 Sales commissions $ 2,542 $ 2,609 Subcontracting labor 990 1,55
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2019 Operating Leases: Operating lease right-of-use assets $ 18,504 Operating lease liability, current 7,377 Operating lease liability, long-term 11,751 Total operating lease liabilities 19,128 Finance Leases: Property, plant and equipment, gross $ 882 Accumulated depreciation (262 ) Property, plant and equipment, net 620 Other current liabilities 121 Other long-term liabilities 512 Total finance lease liabilities $ 633
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles – Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Cost . This guidance aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software. This guidance is effective for interim and annual reporting periods beginning after December 15, 2019, and early adoption is permitted. The Company is currently evaluating the impacts that adoption of this ASU will have on its consolidated financial statements.

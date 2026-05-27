@@ -1,0 +1,20 @@
+FIRM         : CFR (CIK 0000039263) | FY2019
+FILE         : 0000039263_CFR_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 4 - Premises and Equipment and Lease Commitments
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of premises and equipment totaled $41.0 million in 2019 , $37.2 million 2018 and $36.3 million in 2017 .
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Technology, Furniture and Equipment. Technology, furniture and equipment expense for 2019 increased $8.9 million , or 10.7% , compared to 2018 . The increase was primarily related to an increase in software maintenance/cloud services expense (up $9.3 million) due to new and renewed software and an increase in volume-based service payments. ||| . The increase was primarily related to an increase in software maintenance/cloud services expense (up $9.3 million) due to new and renewed software and an increase in volume-based service payments. ||| The increase in salaries and wages was primarily due to an increase in the number of employees and normal annual merit and market increases and, to a lesser extent, an increase in stock compensation. The increase in technology, furniture and equipment expense was primarily related to an increase in software maintenance/cloud services expense. The increase in employee benefits was primarily related to increases in expenses related to our defined benefit retirement plans, expenses related to our 401(k) plan, medical benefits expense and payroll taxes. The increase in net occupancy expense was primarily related to increases in lease expense and depreciation on leasehold improvements partly offset by decreases in property taxes and utilities expense. The increase in other non-interest expense included increases in advertising/promotions expense; professional services expense; and travel, meals and entertainment; among other things, partly offset by decreases in donations expense; sundry and other miscellaneous expense; and losses on the sale of foreclosed and other assets; among other things. The decrease in deposit insurance expense was primarily related to the termination of the quarterly Deposit Insurance Fund surcharge in the fourth quarter of 2018. See the analysis of these categories of non-interest expense included in the section captioned “Non-Interest Expense” included elsewhere in this discussion.

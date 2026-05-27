@@ -1,0 +1,20 @@
+FIRM         : CALM (CIK 0000016160) | FY2016
+FILE         : 0000016160_CALM_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Significant Accounting Policies
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-12.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation is provided by the straight-line method over the estimated useful lives, which are 15 to 25 years for buildings and improvements and 3 to 12 years for machinery and equipment. When property, plant, and equipment are retired, sold, or otherwise disposed of, the asset’s carrying amount and related accumulated depreciation are removed from the accounts and any gain or loss is included in operations. The Company capitalizes interest cost incurred on funds used to construct property, plant, and equipment as part of the asset to which it relates , and is amortized over the asset’s estimated useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

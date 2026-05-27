@@ -1,0 +1,20 @@
+FIRM         : MCHP (CIK 0000827054) | FY2018
+FILE         : 0000827054_MCHP_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-03-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+On May 29, 2018, we completed our acquisition of Microsemi Corporation, a publicly traded company headquartered in Aliso Viejo, California. We paid an aggregate of approximately $8.19 billion in cash to the stockholders of Microsemi. The total consideration transferred in the acquisition, including approximately $53.9 million of non-cash consideration for the exchange of certain share-based payment awards of Microsemi for stock awards of Microchip, was approximately $8.24 billion . In addition to the consideration transferred, we recognized in our consolidated financial statements $3.23 billion in liabilities of Microsemi consisting of debt, taxes payable and deferred, pension obligations, restructuring, and contingent and other liabilities of which $2.06 billion of existing debt was paid off. We financed the purchase price using approximately $8.10 billion of borrowings consisting of $3.10 billion of loans under our revolving line of credit (the "Revolving Credit Facility"), $3.00 billion of term loans ("Term Loan Facility") provided under our amended and restated Credit Agreement, and $2.00 billion in newly issued senior secured notes. We incurred $22.0 million in costs related to the acquisition. As a result of the acquisition, Microsemi became a wholly owned subsidiary of Microchip. Microsemi offers a comprehensive portfolio of semiconductor and system solutions for aerospace and defense, communications, data center and industrial markets. Our primary reason for this acquisition was to expand our range of solutions, products and capabilities by extending our served available market.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

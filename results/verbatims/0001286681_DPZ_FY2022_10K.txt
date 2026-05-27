@@ -1,0 +1,20 @@
+FIRM         : DPZ (CIK 0001286681) | FY2022
+FILE         : 0001286681_DPZ_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-21
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 2020. The Company paid dividends of
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100;B100 (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+As of January 1, 2023 and January 2, 2022, the significant components of net deferred income taxes were as follows: January 1, 2023 January 2, 2022 Deferred income tax assets Operating lease liabilities $ 56,750 $ 54,478 Accruals and reserves 11,330 15,207 Insurance reserves 13,039 12,867 Non-cash equity-based compensation expense 8,849 7,861 Foreign tax credit 13,464 10,206 Other 12,150 8,158 Deferred income tax assets before valuation allowance 115,582 108,777 Less, valuation allowance ( 15,001 ) ( 11,364 ) Deferred income tax assets, net 100,581 97,413 Deferred income tax liabilities Operating lease right-of-use assets 54,057 51,793 Capitalized software 27,443 19,828 Depreciation, amortization and asset basis differences 15,851 18,570 Unrealized gain on investments 9,065 9,035 Deferred income tax liabilities 106,416 99,226 Net deferred income taxes $ ( 5,835 ) $ ( 1,813 )
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

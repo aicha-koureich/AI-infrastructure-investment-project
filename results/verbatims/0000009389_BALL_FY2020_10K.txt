@@ -1,0 +1,23 @@
+FIRM         : BALL (CIK 0000009389) | FY2020
+FILE         : 0000009389_BALL_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Critical and Significant Accounting Policies
+ASSET CAT.   : buildings and improvements
+DURÉE        : 3.0-18.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Assets are depreciated and amortized using the straight-line method over their estimated useful lives, generally 5 to 40 years for buildings and improvements and 2 to 20 years for machinery and equipment. Finite-lived intangible assets, excluding capitalized software costs, are generally amortized over their estimated useful lives of 3 to 18 years. Capitalized software is generally amortized over estimated useful lives of 3 to 7 years.
+
+[VERBATIM — Changement de politique]
+This includes the estimated costs of employee severance, pension and related benefits; impairment of property and equipment and other assets, including estimates of net realizable value; accelerated depreciation; termination payments for contracts and leases; contractual obligations; and any other qualifying costs related to the exit plan.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing Arrangements ||| In August 2018, amendments to existing accounting guidance were issued to clarify the accounting for implementation costs related to cloud computing arrangements. The amendments specify that existing guidance for capitalizing implementation costs incurred to develop or obtain internal-use software also applies to capitalizing implementation costs incurred in a hosting arrangement that is a service contract. The guidance was applied prospectively on January 1, 2020, and did not have a material effect on the company’s consolidated financial statements.

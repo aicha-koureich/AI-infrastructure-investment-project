@@ -1,0 +1,24 @@
+FIRM         : AEO (CIK 0000919012) | FY2013
+FILE         : 0000919012_AEO_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : February 1, 2014
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : information technology, office
+equipment
+DURÉE        : 10.0-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company leases all store premises, some of its office space and certain information technology and office
+equipment. The store leases generally have initial terms of 10 years and are classified as operating leases. Most of these store leases provide for base rentals and the payment of a percentage of sales as additional contingent rent when sales exceed
+specified levels. Additionally, most leases contain construction allowances and/or rent holidays. In recognizing landlord incentives and minimum rent expense, the Company amortizes the items on a straight-line basis over the lease term (including
+the pre-opening build-out period).
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

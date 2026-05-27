@@ -1,0 +1,21 @@
+FIRM         : TISI (CIK 0000318833) | FY2023
+FILE         : 0000318833_TISI_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2023
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 11 - Debt
+ASSET CAT.   : equipment
+DURÉE        : 2.0-12.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 2.0-10.0 ans | 2.0-12.0 ans | 2.0-15.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Classification Useful Life Buildings 20-40 years Enterprise Resource Planning (“ERP”) System 15 years Leasehold improvements 2-15 years Machinery and equipment 2-12 years Furniture and fixtures 2-10 years Computers and computer software 2-5 years Automobiles 2-5 years
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

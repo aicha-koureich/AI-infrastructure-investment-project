@@ -1,0 +1,20 @@
+FIRM         : FE (CIK 0001031296) | FY2018
+FILE         : 0001031296_FE_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+FE was incorporated under Ohio law in 1996. FE’s principal business is the holding, directly or indirectly, of all of the outstanding equity of its principal subsidiaries: OE, CEI, TE, Penn (a wholly owned subsidiary of OE), JCP&L, ME, PN, FESC, AE Supply, MP, PE, WP, and FET and its principal subsidiaries (ATSI, MAIT and TrAIL). In addition, FE holds all of the outstanding equity of other direct subsidiaries including: FirstEnergy Properties, Inc., FEV, FELHC, Inc., GPU Nuclear, Inc., AESC and Allegheny Ventures, Inc.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| " (Issued August 2018): ASU 2018-15 requires implementation costs incurred by customers in cloud computing arrangements to be deferred and recognized over the term of the arrangement, if those costs would be capitalized by the customers in a software licensing arrangement. The guidance will be effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019, with early adoption permitted. ||| ASU 2018-15, " Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract " (Issued August 2018): ASU 2018-15 requires implementation costs incurred by customers in cloud computing arrangements to be deferred and recognized over the term of the arrangement, if those costs would be capitalized by the customers in a software licensing arrangement. The guidance will be effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019, with early adoption permitted.

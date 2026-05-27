@@ -1,0 +1,20 @@
+FIRM         : FLEX (CIK 0000866374) | FY2016
+FILE         : 0000866374_FLEX_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2017
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 21. QUARTERLY FINANCIAL DATA (UNAUDITED)
+ASSET CAT.   : Machinery and equipment, Furniture, computer equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciable Life (In Years) As of March 31, 2017 2016 (In thousands) Machinery and equipment 3 - 10 $ 3,233,392 $ 3,187,590 Buildings 30 1,237,739 1,144,798 Leasehold improvements up to 30 395,663 397,340 Furniture, fixtures, computer equipment and software 3 - 7 502,223 477,203 Land — 145,663 127,927 Construction-in-progress — 212,326 178,851 5,727,006 5,513,709 Accumulated depreciation and amortization (3,409,980 ) (3,256,076 ) Property and equipment, net $ 2,317,026 $ 2,257,633
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

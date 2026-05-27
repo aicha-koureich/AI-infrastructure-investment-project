@@ -1,0 +1,23 @@
+FIRM         : T (CIK 0000732717) | FY2020
+FILE         : 0000732717_T_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: NOTE 7. PROPERTY, PLANT AND EQUIPMENT
+ASSET CAT.   : office equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Lives (years) 2020 2019 Land - $ 2,571 $ 2,651 Buildings and improvements 2-44 39,418 38,924 Central office equipment 1 3-10 95,981 96,061 Cable, wiring and conduit 15-50 75,409 72,042 Satellites 14-17 908 2,489 Other equipment 3-20 90,883 94,951 Software 3-7 18,482 22,244 Under construction - 4,099 4,176 327,751 333,538 Accumulated depreciation and amortization 200,436 203,410 Property, plant and equipment - net $ 127,315 $ 130,128
+
+[VERBATIM — Changement de politique]
+Each of the credit agreements contains covenants that are customary for an issuer with an investment grade senior debt credit rating, as well as a net debt-to-EBITDA (earnings before interest, taxes, depreciation and amortization, and other modifications described in each agreement) financial ratio covenant requiring AT&T to maintain, as of the last day of each fiscal quarter, a ratio of not more than 3.5-to-1. The events of default are customary for agreements of this type and such events would result in the acceleration of, or would permit the lenders to accelerate, as applicable, required payments and would increase each agreement’s relevant Applicable Margin by 2.00% per annum.
+
+[VERBATIM — Infrastructure IA]
+Data Colocation Operations On December 31, 2018, we sold certain data centers to Brookfield Infrastructure Partners for $1,100 and recorded a pre-tax gain of $432. The sale included assets; primarily consisting of property, plant and equipment, of $298; and goodwill of $215.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

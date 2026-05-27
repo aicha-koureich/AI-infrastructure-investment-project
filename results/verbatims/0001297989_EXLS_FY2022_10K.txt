@@ -1,0 +1,20 @@
+FIRM         : EXLS (CIK 0001297989) | FY2022
+FILE         : 0001297989_EXLS_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-02-23
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+On December 16, 2021, we completed the acquisition of Clairvoyant, a global data, AI, ML, and cloud services firm that helps organizations in their business transformation by maximizing the value of data through actionable insights. It provides data engineering, analytics, AI, ML, product engineering, and cloud-based solutions. The acquisition strengthens our Analytics

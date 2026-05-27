@@ -1,0 +1,21 @@
+FIRM         : AORT (CIK 0000784199) | FY2018
+FILE         : 0000784199_AORT_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property
+and equipment is stated at cost. Depreciation is provided over the estimated useful lives of the assets, generally three to ten years, on a straight-line basis. Leasehold improvements are amortized on a straight-line basis over the remaining lease term at the time the assets are capitalized or the estimated useful lives of the assets, whichever is shorter.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

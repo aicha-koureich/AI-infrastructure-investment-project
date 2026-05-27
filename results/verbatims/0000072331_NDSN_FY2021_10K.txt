@@ -1,0 +1,20 @@
+FIRM         : NDSN (CIK 0000072331) | FY2021
+FILE         : 0000072331_NDSN_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-11-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 — Significant accounting policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment and depreciation — Property, plant and equipment are carried at cost. Plant and equipment are depreciated for financial reporting purposes using the straight-line method over the estimated useful lives of the assets or, in the case of property under finance leases, over the terms of the leases.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, “Intangibles – Goodwill and Other Internal – Use Software (Subtopic 350-40),” which is meant to help entities evaluate the accounting for fees paid by a customer in a cloud computing arrangement (hosting arrangement), by providing guidance in determining when the arrangement includes a software license. We adopted the new standard on November 1, 2020. Hosted arrangements deemed to be in scope will follow the capitalization criteria for implementation costs as though they were internal-use computer software. There may be multiple elements besides the software license (such as: training, future upgrades, data conversion, and other elements) which require the allocation of the contract price to each of the elements; entities are to capitalize only those elements which meet the capitalization criteria. Capitalized implementation costs are amortized over the term of the hosted arrangement including consideration for renewal or termination options. In addition, we reviewed our business processes and controls to support the recognition and disclosure as required under the new standard. The adoption of this new standard did not have a material impact on our Consolidated Financial Statements.

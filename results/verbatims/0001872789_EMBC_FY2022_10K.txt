@@ -1,0 +1,20 @@
+FIRM         : EMBC (CIK 0001872789) | FY2022
+FILE         : 0001872789_EMBC_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-09-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 3 — Summary of Accounting Policies
+ASSET CAT.   : buildings
+DURÉE        : 1.0-20.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost, less accumulated depreciation. Depreciation is principally provided on the straight-line basis over estimated useful lives, which range from 20 to 45 years for buildings, 4 to 13 years for machinery and equipment and 1 to 20 years for leasehold improvements.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

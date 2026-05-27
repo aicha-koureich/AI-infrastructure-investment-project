@@ -1,0 +1,21 @@
+FIRM         : VNT (CIK 0001786842) | FY2023
+FILE         : 0001786842_VNT_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-01-08
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2. BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are carried at cost. Provisions for depreciation have been computed principally by the straight-line method based on the estimated useful lives of the depreciable assets which are generally as follows:
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+On August 31, 2022, the Company acquired all of the outstanding equity interests of Invenco Group Ltd. (“Invenco”) for $83.1 million, net of cash received. The purchase price includes contingent consideration measured at $6.1 million, which can reach up to $100.0 million based on achieving certain revenue targets. Invenco, which is based in New Zealand, is a global provider of self-service payment and microservice solutions with a range of products including outdoor payment terminals, electronic payment servers, payment switches and cloud services. The acquisition of Invenco further advances the Company’s portfolio diversification and accelerates its digital strategy.

@@ -1,0 +1,20 @@
+FIRM         : VVV (CIK 0001674910) | FY2023
+FILE         : 0001674910_VVV_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-11-15
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 – SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, machinery and equipment
+DURÉE        : 5.0-7.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is recorded at cost and is depreciated using the straight-line method over the estimated useful lives of the assets. Buildings generally have useful lives of seven to 20 years and machinery and equipment typically have five to seven year useful lives, dependent on the nature and utility of the assets. Property, plant and equipment is relieved of the cost and related accumulated depreciation when assets are disposed of or otherwise retired.
+
+[VERBATIM — Infrastructure IA]
+(d) Consists of redundant expenses incurred from duplicative technology platforms required while implementing the Company’s stand-alone enterprise resource planning software system during fiscal 2023 and transitioning its data centers during fiscal 2022. These expenses are reflective of incremental costs directly associated with technology transitions and are not considered to be reflective of the ongoing expenses of operating the Company’s technology platforms.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Cloud computing arrangements ||| The Company periodically enters into cloud computing arrangements to access and use third-party software in support of its operations. The Company assesses its cloud computing arrangements to determine whether the contract meets the definition of a service contract or conveys a software license. For cloud computing arrangements that meet the definition of a service contract, the Company capitalizes implementation costs incurred during the application development stage and amortizes the costs on a straight-line basis over the term of the service contract.

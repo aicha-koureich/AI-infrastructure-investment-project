@@ -1,0 +1,20 @@
+FIRM         : CACI (CIK 0000016058) | FY2024
+FILE         : 0000016058_CACI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2024
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 – Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, equipment and furniture
+DURÉE        : 3.0-8.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation of equipment and furniture has been provided over the estimated useful life of the respective assets (ranging from three to eight years) using the straight-line method.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

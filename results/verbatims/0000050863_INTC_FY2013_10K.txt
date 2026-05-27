@@ -1,0 +1,20 @@
+FIRM         : INTC (CIK 0000050863) | FY2013
+FILE         : 0000050863_INTC_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 28, 2013
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Intel_Xeon;NVIDIA (2 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+In 2013, we completed a reorganization of IMC into our Multi-Comm and existing Phone Group operating segments. Goodwill related to the former IMC was allocated between Multi-Comm and the Phone Group within the Other IA operating segments. Also in 2013, we completed a reorganization that transferred a portion of our wired connectivity business formerly included within the Data Center Group (DCG) to the PC Client Group (PCCG). Due to this reorganization, goodwill was transferred from DCG to PCCG.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Revenue for 2013 was down 1% from 2012. PCCG experienced lower platform unit sales in the first half of the year, but saw offsetting growth in the back half as the PC market began to show signs of stabilization. DCG continued to benefit from the build out of Internet cloud computing and the strength of our product portfolio resulting in increased platform volumes for DCG for the year. Higher factory start-up costs for our next-generation 14nm process technology led to a decrease in gross margin compared to 2012. In response to the current business environment and to better align resources, management approved several restructuring actions including targeted workforce reductions as well as the exit of certain businesses and facilities. These actions resulted in restructuring and asset impairment charges of $240 million for 2013 ||| Net revenue for the DCG operating segment increased by $727 million, or 7%, in 2013 compared to 2012. DCG platform average selling prices and unit sales were up 4% and 3%, respectively. Our platform unit sales continued to benefit from growth in the Internet cloud computing and high performance computing market segments. ||| Net revenue for the DCG operating segment increased by $600 million, or 6%, in 2012 compared to 2011. The increase in revenue was due to 6% higher platform average selling prices, slightly offset by 1% lower platform unit sales. Our platform average selling prices benefited from significant growth in the Internet cloud computing and high performance computing market segments. This was offset by weakness in the enterprise server market segment.

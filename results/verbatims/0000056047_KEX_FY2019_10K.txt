@@ -1,0 +1,20 @@
+FIRM         : KEX (CIK 0000056047) | FY2019
+FILE         : 0000056047_KEX_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+The commercial and industrial market, which contributed 47% of distribution and services revenues for 2019, saw increased service levels and new engine sales in the marine repair business for much of the year, although activity levels in the inland market declined during the 2019 third quarter as many customers reduced maintenance activities following months of river flooding conditions and during the summer harvest season. The commercial and industrial market also experienced increased demand for power generation equipment compared to 2018, including the sale and installation of significant back-up power systems for major data centers in the 2019 first and second quarters. Activity levels for the Company’s specialty rental units, back-up power systems, and refrigeration equipment seasonally increased in anticipation of and as a result of summer storms and warm weather conditions in the 2019 second and third quarters. Demand in the nuclear power generation market was stable compared to 2018.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

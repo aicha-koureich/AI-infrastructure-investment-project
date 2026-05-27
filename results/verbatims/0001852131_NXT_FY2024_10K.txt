@@ -1,0 +1,20 @@
+FIRM         : NXT (CIK 0001852131) | FY2024
+FILE         : 0001852131_NXT_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-05-31
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 2. Summary of accounting policies
+ASSET CAT.   : Machinery and equipment, Furniture, computer equipment, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciable life (In years) As of March 31, 2025 2024 (In thousands) Machinery and equipment 3 - 8 $ 37,929 $ 10,623 Leasehold improvements Up to 5 10,854 5,168 Furniture, fixtures, computer equipment and software 3 - 7 13,515 11,783 Construction-in-progress — 18,942 3,051 81,240 30,625 Accumulated depreciation (20,845) (21,389) Property and equipment, net $ 60,395 $ 9,236
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

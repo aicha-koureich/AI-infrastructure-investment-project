@@ -1,0 +1,23 @@
+FIRM         : PRU (CIK 0001137774) | FY2019
+FILE         : 0001137774_PRU_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 25. Subsequent Events
+ASSET CAT.   : equipment
+DURÉE        : 3.0-40.0 ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are carried at cost less accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+In 2017, the Company recognized a charge of $237 million in the Individual Life segment, reflecting a change to a preferable accounting method for estimating reinsurance cash flows associated with universal life products and reflecting these cash flows in the financial statements. Under the previous method of accounting, with the exception of recoveries pertaining to no lapse guarantees, reinsurance cash flows (e.g., premiums and recoveries) were generally recognized as they occurred. Under the new method, the expected reinsurance cash flows are recognized more ratably over the life of the underlying reinsured policies. In conjunction with this change, the way in which reinsurance is reflected in estimated gross profits used for the amortization of unearned revenue reserves, DAC and VOBA was also revised. The change represents a change in accounting estimate effected by
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

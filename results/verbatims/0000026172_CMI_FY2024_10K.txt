@@ -1,0 +1,20 @@
+FIRM         : CMI (CIK 0000026172) | FY2024
+FILE         : 0000026172_CMI_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-01-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Lease expense for operating leases is recognized on a straight-line basis over the lease term. Lease expense for finance leases is generally front-loaded as the finance lease ROU asset is depreciated on a straight-line basis, but interest expense on the liability is recognized utilizing the interest method that results in more expense during the early years of the lease. We have lease agreements with lease and non-lease components, primarily related to real estate, vehicle and information technology (IT) assets. For vehicle and real estate leases, we account for the lease and non-lease components as a single lease component. For IT leases, we allocate the payment between the lease and non-lease components based on the relative value of each component. See NOTE 8, "LEASES," for additional information.
+
+[VERBATIM — Infrastructure IA]
+Worldwide revenues were flat in 2024 compared to 2023, as increased global power generation demand (mostly data center markets) and higher demand in North American medium-duty truck and bus markets were offset by the divestiture of Atmus, lower emission solutions demand (mainly in China), lower demand in North American heavy-duty truck and pick-up truck markets and weaker demand in global construction markets. Net sales in the U.S. and Canada improved by 1 percent primarily due to higher demand in power generation markets and medium-duty truck and bus markets, partially offset by the divestiture of Atmus and lower demand in North American pick-up truck and heavy-duty truck markets. International sales (excludes the U.S. and Canada) declined by 1 percent, primarily due to lower sales in China and Europe which were mostly offset with higher sales in Latin America and India. The decrease in international sales was primarily due to the divestiture of Atmus and lower emission solutions demand (mainly in China), largely offset by increased demand in power generation markets (mainly Europe, China, Asia Pacific and India). Unfavorable foreign currency fluctuations impacted international sales by 1 percent (mainly the Brazilian real and Chinese renminbi).  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

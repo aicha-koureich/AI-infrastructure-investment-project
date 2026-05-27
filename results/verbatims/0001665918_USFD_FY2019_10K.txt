@@ -1,0 +1,21 @@
+FIRM         : USFD (CIK 0001665918) | FY2019
+FILE         : 0001665918_USFD_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 28, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. OVERVIEW AND BASIS OF PRESENTATION
+ASSET CAT.   : equipment, Office equipment, furniture
+DURÉE        : 5.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 5.0-10.0 ans | 5.0-12.0 ans
+
+[VERBATIM — Durée de vie]
+December 28, 2019 December 29, 2018 Range of Useful Lives Land $ 378 $ 323 Buildings and building improvements 1,411 1,252 10–40 years Transportation equipment 1,137 1,031 5–10 years Warehouse equipment 481 418 5–12 years Office equipment, furniture and software 867 858 3–7 years Construction in process 99 77 4,373 3,959 Less accumulated depreciation and amortization (2,298 ) (2,117 ) Property and equipment—net $ 2,075 $ 1,842
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract , which provides new guidance on the accounting for implementation, set-up, and other upfront costs incurred in a hosted cloud computing arrangement. Under the new guidance, entities will apply the same criteria for capitalizing implementation costs as they would for an internal-use software license arrangement. This guidance is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019, with early adoption permitted. This ASU can be adopted prospectively to eligible costs incurred on or after the date of adoption or retrospectively. The Company adopted the provisions of this standard on a prospective basis at the beginning of fiscal year 2020. The Company's adoption of the provisions of the new standard did not materially affect its financial position or results of operations. ||| Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract ||| , which provides new guidance on the accounting for implementation, set-up, and other upfront costs incurred in a hosted cloud computing arrangement. Under the new guidance, entities will apply the same criteria for capitalizing implementation costs as they would for an internal-use software license arrangement. This guidance is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019, with early adoption permitted. This ASU can be adopted prospectively to eligible costs incurred on or after the date of adoption or retrospectively. The Company adopted the provisions of this standard on a prospective basis at the beginning of fiscal year 2020. The Company's adoption of the provisions of the new standard did not materially affect its financial position or results of operations.

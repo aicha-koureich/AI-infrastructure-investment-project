@@ -1,0 +1,20 @@
+FIRM         : LGND (CIK 0000886163) | FY2022
+FILE         : 0000886163_LGND_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 8. Balance Sheet Account Details
+ASSET CAT.   : equipment, office equipment, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost and consists of the following (in thousands): December 31, 2022 2021 Lab and office equipment $ 14,172 $ 13,417 Leasehold improvements 7,446 5,265 Computer equipment and software 989 924 22,607 19,606 Less accumulated depreciation and amortization (10,125) (6,415) $ 12,482 $ 13,191
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

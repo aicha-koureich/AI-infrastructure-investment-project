@@ -1,0 +1,23 @@
+FIRM         : FMC (CIK 0000037785) | FY2016
+FILE         : 0000037785_FMC_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: Note 19: Segment Information
+ASSET CAT.   : Capitalized software, computer software
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+We amortize capitalized software costs over expected useful lives ranging from three to 10 years .
+
+[VERBATIM — Changement de politique]
+Additionally, as part of these restructuring plans, write-downs of long-lived assets may occur. Two types of assets are impacted: assets to be disposed of by sale and assets to be abandoned. Assets to be disposed of by sale are measured at the lower of carrying amount or estimated net proceeds from the sale. Assets to be abandoned with no remaining future service potential are written down to amounts expected to be recovered. The useful life of assets to be abandoned that have a remaining future service potential are adjusted and depreciation is recorded over the adjusted useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Customer's Accounting for Fees Paid in Cloud Computing Arrangements ||| provides guidance to determine when a customer's fees paid in a cloud computing arrangement include a software license. If a cloud computing arrangement includes a software license, the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If the arrangement does not include a software license, the customer should account for a cloud computing arrangement as a service contract. The new standard was effective for annual reporting periods beginning after December 15, 2015 (i.e. January 1, 2016) and entities may elect to adopt the ASU prospectively or retrospectively. We have adopted the standard prospectively. There was no impact on our financial condition, results of operations or cash flows as a result of the adoption of this guidance. ||| In April 2015, the FASB issued ASU 2015-05, Customer's Accounting for Fees Paid in Cloud Computing Arrangements , which provides guidance to determine when a customer's fees paid in a cloud computing arrangement include a software license. If a cloud computing arrangement includes a software license, the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If the arrangement does not include a software license, the customer should account for a cloud computing arrangement as a service contract. The new standard was effective for annual reporting periods beginning after December 15, 2015 (i.e. January 1, 2016) and entities may elect to adopt the ASU prospectively or retrospectively. We have adopted the standard prospectively. There was no impact on our financial condition, results of operations or cash flows as a result of the adoption of this guidance.

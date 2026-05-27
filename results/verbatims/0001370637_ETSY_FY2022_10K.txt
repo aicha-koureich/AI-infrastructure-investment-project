@@ -1,0 +1,21 @@
+FIRM         : ETSY (CIK 0001370637) | FY2022
+FILE         : 0001370637_ETSY_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-01-02
+STATUS       : ERROR | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1—Basis of Presentation and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment, computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Not disclosed
+HARDWARE     : None (0 modèle(s))
+⚠ ERREUR     : '<' not supported between instances of 'NoneType' and 'float'
+
+[VERBATIM — Durée de vie]
+Property and equipment, consisting principally of capitalized website development and internal-use software, building, leasehold improvements, and computer equipment, are recorded at cost. Depreciation and amortization begin at the time the asset is placed into service and is recognized using the straight-line method in amounts sufficient to relate the cost of depreciable and amortizable assets to the Consolidated Statements of Operations over their estimated useful lives. Repairs and maintenance are charged to the Consolidated Statements of Operations as incurred. Upon sale or retirement of assets, the cost and related accumulated depreciation or amortization are removed from the Consolidated Balance Sheet and the resulting gain or loss is reflected in the Consolidated Statement of Operations.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,23 @@
+FIRM         : HOMB (CIK 0001331520) | FY2021
+FILE         : 0001331520_HOMB_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-04
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Nature of Operations and Summary of Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Bank premises and equipment are carried at cost or fair market value at the date of acquisition less accumulated depreciation.
+
+[VERBATIM — Changement de politique]
+For the year ended December 31, 2021, the Company had approximately $7.3 million in unrealized losses, which were in continuous loss positions for more than twelve months. The Company’s assessments indicated that the cause of the market depreciation was primarily the change in interest rates and not the issuer’s financial condition, or downgrades by rating agencies. In addition, approximately 55.7% of the Company’s investment portfolio will mature and be repaid to the Company within five years or less. As a result, the Company has the ability and intent to hold such securities until maturity.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+In August 2018, the FASB issued ASU 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract, that amends the definition of a hosting arrangement and requires a customer in a hosting arrangement that is a service contract to capitalize certain implementation costs as if the arrangement was an internal-use software project. The internal-use software guidance states that only qualifying costs incurred during the application development stage can be capitalized. The effective date is for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years. Entities have the option to apply the guidance prospectively to all implementation costs incurred after the date of adoption or retrospectively in accordance with the applicable guidance. The Company adopted the guidance effective January 1, 2020, and its adoption did not have a significant impact on our financial position or financial statement disclosures. ||| Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract,

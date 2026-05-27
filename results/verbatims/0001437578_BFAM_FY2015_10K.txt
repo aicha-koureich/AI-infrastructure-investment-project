@@ -1,0 +1,20 @@
+FIRM         : BFAM (CIK 0001437578) | FY2015
+FILE         : 0001437578_BFAM_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2015
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 18. QUARTERLY RESULTS (UNAUDITED)
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Estimated useful lives December 31, 2015 2014 (Years) Buildings 20 – 40 $ 140,177 $ 131,767 Furniture, equipment and software 3 – 10 159,433 144,040 Leasehold improvements Shorter of the lease term or the estimated useful life 318,852 271,757 Land — 53,050 50,604 Total fixed assets 671,512 598,168 Accumulated depreciation (241,776 ) (199,221 ) Fixed assets, net $ 429,736 $ 398,947
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

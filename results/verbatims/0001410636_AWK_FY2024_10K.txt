@@ -1,0 +1,20 @@
+FIRM         : AWK (CIK 0001410636) | FY2024
+FILE         : 0001410636_AWK_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-02-19
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2: Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Nonutility property consists primarily of buildings and equipment utilized by the Military Services Group (“MSG”) and for internal operations. This property is stated at cost, net of accumulated depreciation, which is calculated using the straight-line method over the useful lives of the assets.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

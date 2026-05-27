@@ -1,0 +1,24 @@
+FIRM         : XPO (CIK 0001166003) | FY2023
+FILE         : 0001166003_XPO_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2023-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of Presentation and Significant Accounting Policies
+ASSET CAT.   : Machinery and equipment, Computer software, equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 3.0-10.0 ans | 3.0-14.0 ans | 6.0 ans | 7.0 ans | 8.0 ans
+
+[VERBATIM — Durée de vie]
+Classification Estimated Useful Life Buildings and leasehold improvements Term of lease to 40 years Vehicles, tractors and trailers 3 to 14 years Machinery and equipment 3 to 10 years Computer software and equipment 1 to 5 years
+
+[VERBATIM — Changement de politique]
+Our chief operating decision maker (“CODM”) regularly reviews financial information at the operating segment level to allocate resources to the segments and to assess their performance. We include items directly attributable to a segment, and those that can be allocated on a reasonable basis, in segment results reported to the CODM. We do not provide asset information by segment to the CODM. Our CODM evaluates segment profit (loss) based on adjusted earnings before interest, taxes, depreciation and amortization (“Adjusted EBITDA”), which we define as income from continuing operations before debt extinguishment loss, interest expense, income tax, depreciation and amortization expense, goodwill impairment charges, litigation matters, transaction and integration costs, restructuring costs and other adjustments. Segment Adjusted EBITDA reflects an allocation of corporate costs.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

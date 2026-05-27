@@ -1,0 +1,23 @@
+FIRM         : LUMN (CIK 0000018926) | FY2018
+FILE         : 0000018926_LUMN_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1— Background and Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software, less accumulated amortization of $2,616 and $2,294
+
+[VERBATIM — Changement de politique]
+change in estimate of our asset retirement obligation. The 2018 and 2017 change in estimates are offset to gross property, plant and equipment.
+
+[VERBATIM — Infrastructure IA]
+Includes primarily broadband, private line (including business data services), colocation and data centers, wavelength and ancillary revenue.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Business Segment. Under our business segment, we provide our products and services to large domestic and global enterprises, small and medium businesses, federal, state and local governments and wholesale customers, including other communication providers. Our products and services offered to these customers include our IP and Data Services suite of products, which includes VPN and hybrid networking, Ethernet and IP services; Transport and Infrastructure, which includes wavelengths and private line, dark fiber, colocation and data center services, and professional services; Voice Services, which includes local, long-distance, toll-free and unified communications services; and IT and Managed services, all of which are described further under "Products and Services"; and ||| Under our business segment, we provide our products and services to large domestic and global enterprises, small and medium businesses, federal, state and local governments and wholesale customers, including other communication providers. Our products and services offered to these customers include our IP and Data Services suite of products, which includes VPN and hybrid networking, Ethernet and IP services; Transport and Infrastructure, which includes wavelengths and private line, dark fiber, colocation and data center services, and professional services; Voice Services, which includes local, long-distance, toll-free and unified communications services; and IT and Managed services, all of which are described further under "Products and Services"; and

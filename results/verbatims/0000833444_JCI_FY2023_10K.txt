@@ -1,0 +1,21 @@
+FIRM         : JCI (CIK 0000833444) | FY2023
+FILE         : 0000833444_JCI_FY2023_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-09-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 22. Subsequent Events
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 3.0-15.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+As described in Notes 1 and 4 to the consolidated financial statements, the Company recognized $26,793 million of net sales for the year ended September 30, 2023, of which a majority relates to certain over time and point in time contracts with customers. Revenue from certain long-term contracts to design, manufacture and install building products and systems as well as unscheduled repair or replacement services is recognized on an over time basis, with progress towards completion measured using a cost-to-cost input method based on the relationship between actual costs incurred and total estimated costs at completion. The cost-to-cost input method is used as it best depicts the transfer of control to the customer that occurs as the Company incurs costs. Changes to the original estimates may be required during the life of the contract and estimated losses are recorded when identified. The Company enters into extended warranties and long-term service and maintenance agreements with certain customers. For these arrangements, revenue is recognized over time on a straight-line basis over the respective contract term. Revenue associated with the sale of equipment and related installations are recognized over time on a cost-to-cost input method, while the revenue for monitoring and maintenance services are recognized over time as services are rendered. In other cases, the Company recognizes revenue at the point in time when control over the goods or services transfers to the customer.
+
+[VERBATIM — Infrastructure IA]
+In May 2021, the Company completed its acquisition of Silent-Aire, a global leader in hyperscale data center cooling and modular critical infrastructure solutions, for approximately $755 million, net of cash acquired, which was comprised of an upfront net cash payment of approximately $661 million, the estimated fair value of contingent earn-out liabilities at the acquisition date of approximately $86 million and a working capital adjustment of $8 million. The contingent earn-out liabilities are based upon the achievement of certain defined operating results in each of the three years following the acquisition, with a maximum payout of approximately $250 million. The Company recorded reductions in the fair value of the contingent earn-out liability of $30 million and $43 million during the years ended September 30, 2023 and 2022, respectively. No earn-out payments were made for the twelve-month earn-out periods ended April 30, 2023 and 2022, as the performance measures for the periods were not achieved.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : GSHD (CIK 0001726978) | FY2022
+FILE         : 0001726978_GSHD_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Basis of presentation and significant accounting policies
+ASSET CAT.   : equipment, Furniture, Computer equipment, Network equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 5.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment consisted of the following at (in thousands) : December 31, 2022 2021 Furniture & fixtures $ 9,772 $ 7,283 Computer equipment 4,041 3,369 Network equipment 423 514 Phone system 326 937 Leasehold improvements 36,009 25,115 Total 50,571 37,218 Less accumulated depreciation (15,224) (12,285) Property and equipment, net $ 35,347 $ 24,933
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

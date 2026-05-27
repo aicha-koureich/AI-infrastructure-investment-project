@@ -1,0 +1,20 @@
+FIRM         : DT (CIK 0001773383) | FY2019
+FILE         : 0001773383_DT_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : March 31, 2020
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+We offer the market-leading software intelligence platform, purpose-built for multi-cloud environments. As enterprises embrace the cloud to effect their digital transformation, our all-in-one intelligence platform is designed to address the growing complexity faced by technology and digital business teams. Our platform utilizes artificial intelligence at its core and continuous automation to provide answers, not just data, about the performance of applications, the underlying multi-cloud infrastructure and the experience of our customers’ users. We designed our software intelligence platform to allow our customers to modernize and automate IT operations, develop and release high quality software faster, and improve user experiences for better business outcomes. As a result, as of March 31, 2020 , our products are trusted by more than 2,700 customers in over 80 countries in diverse industries such as banking, insurance, retail, manufacturing, travel and software.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Enhance our strategic partner ecosystem. Our strategic partners include industry-leading system integrators, software vendors, and cloud and technology providers. We intend to continue to invest in our partner ecosystem, with a particular emphasis on expanding our strategic alliances and cloud-focused partnerships, such as AWS, Azure, Google Cloud Platform, Red Hat OpenShift, and VMware Tanzu. ||| Our strategic partners include industry-leading system integrators, software vendors, and cloud and technology providers. We intend to continue to invest in our partner ecosystem, with a particular emphasis on expanding our strategic alliances and cloud-focused partnerships, such as AWS, Azure, Google Cloud Platform, Red Hat OpenShift, and VMware Tanzu. ||| Cost of subscription . Cost of subscription revenue includes all direct costs to deliver and support our subscription products, including salaries, benefits, share-based compensation and related expenses such as employer taxes, allocated overhead for facilities, IT, third-party hosting fees related to our cloud services, and amortization of internally developed capitalized software technology. We recognize these expenses as they are incurred.

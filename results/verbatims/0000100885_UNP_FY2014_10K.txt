@@ -1,0 +1,25 @@
+FIRM         : UNP (CIK 0000100885) | FY2014
+FILE         : 0000100885_UNP_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Significant Accounting Policies
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0 ans | 6.0 ans
+
+[VERBATIM — Durée de vie]
+Property and Depreciation – Properties and equipment are carried at cost and are depreciated on a straight-line basis over their estimated service lives, which are measured in years, except for rail in
+high-density traffic corridors (i.e., all rail lines except for those subject to abandonment, yard and switching tracks, and electronic yards), for which lives are measured in millions of gross tons per mile of track.
+
+[VERBATIM — Changement de politique]
+the analysis of our depreciation studies. Changes in the estimated service lives of our assets and their related depreciation rates are implemented prospectively.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

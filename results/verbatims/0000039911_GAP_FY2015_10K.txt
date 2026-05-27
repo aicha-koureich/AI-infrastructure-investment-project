@@ -1,0 +1,20 @@
+FIRM         : GAP (CIK 0000039911) | FY2015
+FILE         : 0000039911_GAP_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : January 30, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 . Additional Financial Statement Information
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+($ in millions) January 30, 2016 January 31, 2015 Leasehold improvements $ 3,252 $ 3,220 Furniture and equipment 2,603 2,560 Software 1,433 1,349 Land, buildings, and building improvements 1,019 1,009 Construction-in-progress 187 167 Property and equipment, at cost 8,494 8,305 Less: Accumulated depreciation (5,644 ) (5,532 ) Property and equipment, net of accumulated depreciation $ 2,850 $ 2,773
+
+[VERBATIM — Infrastructure IA]
+and to reduce the scope of services provided by IBM as we opted to take back certain services related to our mainframe services, our data centers, and our corporate network. We pay IBM a combination of fixed and variable charges, with the variable charges fluctuating based on our actual consumption of services, and we have various options to terminate the agreement. IBM also has certain termination rights in the event of our material breach of the agreement and failure to cure. We paid  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

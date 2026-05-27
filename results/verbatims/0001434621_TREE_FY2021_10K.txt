@@ -1,0 +1,21 @@
+FIRM         : TREE (CIK 0001434621) | FY2021
+FILE         : 0001434621_TREE_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2—SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 1.0-5.0 ans | 5.0-10.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment, including internally-developed software and significant improvements, are recorded at cost less accumulated depreciation. Due to the rapid advancements in technology and evolution of company products, all internally-developed software is written off at the end of its useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

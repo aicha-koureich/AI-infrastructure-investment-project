@@ -1,0 +1,21 @@
+FIRM         : TMUS (CIK 0001283699) | FY2014
+FILE         : 0001283699_TMUS_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1 – Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 7.0 ans | 12.0 ans
+
+[VERBATIM — Durée de vie]
+Capitalized software costs are included in property and equipment, net and amortized on a straight-line basis over the estimated useful life of the asset.
+
+[VERBATIM — Infrastructure IA]
+Property and equipment consists of buildings and equipment, wireless communication systems, leasehold improvements, capitalized software and construction in progress. Buildings and equipment include certain network server equipment. Wireless communication systems include assets to operate the Company’s wireless network and IT data centers, including tower asset leaseholds, assets related to the liability for the retirement of long-lived assets and capital leases. Leasehold improvements include asset improvements other than those related to the wireless network.  [Source: Item 8]
+
+[VERBATIM — Segments (Task 6)]
+We provide mobile communication services using spectrum licenses, consisting of 700 MHz A-Block, AWS and PCS licenses. In 2014, we completed transactions for the acquisition of 700 MHz A-Block, AWS and PCS spectrum licenses, primarily from Verizon, with an aggregate fair value of ||| , which covers approximately 150 million people, in exchange for cash and the transfer of certain AWS and PCS spectrum. In addition, in 2014, we entered into agreements, which are expected to close in 2015, for the acquisition of 700 MHz A-Block, AWS and PCS spectrum licenses with an estimated aggregate fair value of approximately ||| people, for cash and the exchange of certain AWS and PCS spectrum licenses, which cover approximately

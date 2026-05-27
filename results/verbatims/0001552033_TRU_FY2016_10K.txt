@@ -1,0 +1,24 @@
+FIRM         : TRU (CIK 0001552033) | FY2016
+FILE         : 0001552033_TRU_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : ppe_note
+SECTION TITLE: 22. Subsequent Events
+ASSET CAT.   : equipment, Computer equipment
+DURÉE        : 3.0-7.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-7.0 ans | 5.0-7.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment is depreciated primarily using the straight-line method over the estimated useful lives of the assets. Computer equipment and purchased software are depreciated over three to seven years .
+
+[VERBATIM — Changement de politique]
+As our business continues to evolve, and in connection with the completion of our strategic initiative to transform our technology infrastructure, we reviewed the remaining estimated useful lives for all of our internally developed software assets during the fourth quarter of 2016. Subsequent to the completion of our review, we continue to amortize our internal use software assets on a straight-line basis over their estimated useful lives, generally
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : OPCH (CIK 0001014739) | FY2019
+FILE         : 0001014739_OPCH_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Blackwell (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Major repairs, which extend the useful life of an asset, are capitalized in the property and equipment accounts. Once the software is ready for its intended use, these costs are amortized on a straight‑line basis over the software’s estimated useful life, generally
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

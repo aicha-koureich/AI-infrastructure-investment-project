@@ -1,0 +1,23 @@
+FIRM         : TBRG (CIK 0001169445) | FY2021
+FILE         : 0001169445_TBRG_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2025-03-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : computer equipment, furniture, and fixtures
+DURÉE        : 5.0-None ans
+POLICY CHANGE: Yes
+HARDWARE     : B100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Depreciation expense is computed using the straight-line method over the asset’s useful life, which is generally 5 years for computer equipment, furniture, and fixtures and 30 years for buildings.
+
+[VERBATIM — Changement de politique]
+During the second quarter of 2021, our ongoing monitoring activities associated with the capitalization of software development costs and the related correlation between capitalization rates and operational metrics designed to reflect the distribution of work revealed that our then-current labor capitalization methodology did not fully reflect all of the critical activities necessary to develop software assets. Consequently, during the second quarter of 2021, we elected to change our method of estimating the labor costs incurred in developing software assets. Prior to this change, we estimated the associated labor costs using an estimated time-equivalent for workload metrics commonly utilized within agile software development environments. With this change, we now estimate these labor costs using the distribution of these agile workload metrics between capitalizable and non-capitalizable units of work. We believe this change is preferable as the new methodology better estimates capitalizable labor costs and is consistent with industry best practices. We have determined that this change in accounting for software development costs is a change in accounting estimate effected by a change in accounting principle and, as such, has been accounted for on a prospective basis. In connection with this change, we capitalized software development costs of $8.8 million during the year ended December 31, 2021. We estimate that the effect of this change was to increase capitalized amounts by approximately $4.6 million for the year ended December 31, 2021, with a corresponding decrease to product development costs.
+
+[VERBATIM — Infrastructure IA]
+Net cash used in investing activities increased from $6.7 million in 2020 to $69.9 million during 2021. Most notably, we used $59.6 million of cash during 2021 to fund our acquisition of TruCode, with no such acquisitions occurring during 2020. Cash outflows for purchases of property and equipment decreased from $3.3 million in 2020 to $0.9 million during 2021. This decrease in cash outflows is mostly due to the addition of a West Coast data center to enhance our remote hosting capabilities in 2020 without similar capital expenditures during 2021. Lastly, cash outflows related to capitalized internal software development efforts increased by $6.0 million due to the aforementioned change in methodology for estimating labor costs eligible for capitalization.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

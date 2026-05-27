@@ -1,0 +1,20 @@
+FIRM         : PPL (CIK 0000922224) | FY2018
+FILE         : 0000922224_PPL_FY2018_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2018
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 5
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+In August 2018, the FASB issued accounting guidance that requires a customer in a cloud computing hosting arrangement that is a service contract to capitalize implementation costs consistent with internal-use software guidance for non-service arrangements. Prior guidance had not addressed these implementation costs. The guidance requires these capitalized implementation costs to be amortized over the term of the hosting arrangement to the statement of income line item where the service arrangement costs are recorded. The guidance also prescribes the financial statement classification of the capitalized implementation costs and cash flows associated with the arrangement. Additional quantitative and qualitative disclosures are also required.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Accounting for Implementation Costs in a Cloud Computing Service Arrangement ||| In August 2018, the FASB issued accounting guidance that requires a customer in a cloud computing hosting arrangement that is a service contract to capitalize implementation costs consistent with internal-use software guidance for non-service arrangements. Prior guidance had not addressed these implementation costs. The guidance requires these capitalized implementation costs to be amortized over the term of the hosting arrangement to the statement of income line item where the service arrangement costs are recorded. The guidance also prescribes the financial statement classification of the capitalized implementation costs and cash flows associated with the arrangement. Additional quantitative and qualitative disclosures are also required.

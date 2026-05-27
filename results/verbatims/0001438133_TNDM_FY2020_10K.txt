@@ -1,0 +1,20 @@
+FIRM         : TNDM (CIK 0001438133) | FY2020
+FILE         : 0001438133_TNDM_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2020-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 3. Financial Statement Information
+ASSET CAT.   : Computer equipment, furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+December 31, 2020 2019 Leasehold improvements $ 22,834 $ 13,100 Computer equipment and software 12,219 9,899 Office furniture and equipment 9,876 6,367 Manufacturing and scientific equipment 44,026 33,422 Total cost 88,955 62,788 Less: accumulated depreciation and amortization (38,933) (29,865) Total property and equipment, net $ 50,022 $ 32,923
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

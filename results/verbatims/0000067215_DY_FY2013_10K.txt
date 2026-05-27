@@ -1,0 +1,20 @@
+FIRM         : DY (CIK 0000067215) | FY2013
+FILE         : 0000067215_DY_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : July 27, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Accounting Policies Basis of Presentation –
+ASSET CAT.   : Capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+, for the range of useful lives). Amortization of capital lease assets is included in depreciation expense. Maintenance and repairs are expensed as incurred and major improvements are capitalized. When assets are sold or retired, the cost and related accumulated depreciation are removed from the accounts and the resulting gain or loss is included in other income. Capitalized software is accounted for in accordance with Financial Accounting Standards Board ("FASB") Accounting Standard Codification ("ASC") Topic 350-40,
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

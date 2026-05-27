@@ -1,0 +1,20 @@
+FIRM         : COF (CIK 0000927628) | FY2019
+FILE         : 0000927628_COF_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2019-12-31
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud Computing ASU No. 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract Issued August 2018 ||| Standard Guidance Adoption Timing and Financial Statements Impacts Cloud Computing ASU No. 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract Issued August 2018 Aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). We adopted this guidance in the first quarter of 2020 using the prospective method of adoption. Our adoption of this standard did not have a material impact on our consolidated financial statements. Goodwill Impairment Test Simplification ASU No. 2017-04, Intangibles—Goodwill and Other (Topic 350): Simplifying the Test for Goodwill Impairment Issued January 2017 Eliminates the second step from the current goodwill impairment test. Under the current guidance, the first step compares a reporting unit’s carrying value to its fair value. If the carrying value exceeds fair value, an entity performs the second step, which assigns the reporting unit’s fair value to its assets and liabilities, including unrecognized assets and liabilities, in the same manner as required in purchase accounting. Under the new guidance, any impairment of a reporting unit’s goodwill is determined based on the amount by which the reporting unit’s carrying value exceeds its fair value, limited to the amount of goodwill allocated to the reporting unit. We adopted this guidance in the first quarter of 2020 using the prospective method of adoption. Our adoption of this standard did not have a material impact on our consolidated financial statements. ||| ASU No. 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract

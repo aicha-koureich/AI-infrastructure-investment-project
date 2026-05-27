@@ -1,0 +1,20 @@
+FIRM         : AMCX (CIK 0001514991) | FY2020
+FILE         : 0001514991_AMCX_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2020
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Cloud computing amortization ||| We evaluate segment performance based on several factors, of which the primary financial measure is operating segment AOI. We define AOI, which is a financial measure that is not calculated in accordance with generally accepted accounting principles ("GAAP"), as operating income (loss) before depreciation and amortization, cloud computing amortization, share-based compensation expense or benefit, impairment charges (including gains or losses on sales or dispositions of businesses), restructuring and other related charges and including the Company’s proportionate share of adjusted operating income (loss) from majority-owned equity method investees. From time to time, we may exclude the impact of certain events, gains, losses or other charges (such as significant legal settlements) from AOI that affect our operating performance. ||| (In thousands) Years Ended December 31, 2020 2019 2018 Operating income $ 442,644 $ 625,277 $ 726,909 Share-based compensation expense 52,908 64,133 60,979 Depreciation and amortization 104,606 101,098 91,281 Impairment charges 122,227 106,603 4,486 Restructuring and other related charges 35,068 40,914 45,847 Cloud computing amortization 200 — — Majority-owned equity investees AOI 8,958 5,965 3,043 Adjusted operating income $ 766,611 $ 943,990 $ 932,545

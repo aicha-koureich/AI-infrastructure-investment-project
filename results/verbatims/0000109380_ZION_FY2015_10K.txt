@@ -1,0 +1,20 @@
+FIRM         : ZION (CIK 0000109380) | FY2015
+FILE         : 0000109380_ZION_FY2015_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In thousands) December 31, 2015 2014 Land $ 229,693 $ 233,300 Buildings 598,643 551,603 Furniture and equipment 459,975 458,703 Leasehold improvements 138,765 133,624 Software 295,428 239,670 Total 1,722,504 1,616,900 Less accumulated depreciation and amortization 817,042 787,091 Net book value $ 905,462 $ 829,809
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+ASU 2015-05, Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement (Subtopic 350-40) ||| Customer’s Accounting for Fees Paid in a Cloud Computing Arrangement

@@ -1,0 +1,23 @@
+FIRM         : MANH (CIK 0001056696) | FY2013
+FILE         : 0001056696_MANH_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 1. Organization, Consolidation and Summary of Significant Accounting Policies
+ASSET CAT.   : computer software
+DURÉE        : 3.0-5.0 ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-5.0 ans | 5.0 ans | 7.0 ans
+
+[VERBATIM — Durée de vie]
+The Company depreciates the cost of furniture, computers, other office equipment, and internal use software on a straight-line basis over their estimated useful lives (three to five years for computer software, five years for office
+equipment, seven years for furniture and fixtures). Depreciation and amortization expense for property and equipment for the years ended
+December 31, 2013, 2012, and 2011 was approximately $5.8 million, $5.6 million, and $6.1 million, respectively, and was included in “Depreciation and amortization” in the Consolidated Statements of Income.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,20 @@
+FIRM         : COHR (CIK 0000820318) | FY2016
+FILE         : 0000820318_COHR_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : June 30, 2016
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+Net earnings for fiscal year 2016 were $65.5 million ($1.04 per-share diluted), compared to $66.0 million ($1.05 per-share diluted) for the same period last fiscal year. The acquisitions of EpiWorks and ANADIGICS contributed approximately $13.9 million in revenues but were dilutive to earnings. Including the operating losses of these two acquisitions, as well as acquisition related expenses and one-time severance expenses, the negative impact of these acquisitions to the Company’s results of operations during the fiscal year ended June 30, 2016 was $20.2 million, or $0.32 per share diluted. Offsetting the losses from the recent acquisitions were strong financial results experienced by the Company’s II-VI Photonics segment. This segment realized revenue increases of over 25% during the current fiscal year compared to last fiscal year which drove stronger earnings from the incremental margins realized. The revenue increase for this segment was driven by broad-based demand across the whole spectrum of optical communication markets, including data center infrastructure build-outs, China broadband initiatives and continued expansion of undersea network deployment. The current year operating results included increased income tax expense as the Company recorded a valuation allowance of approximately $8.5 million or $0.14 per share diluted on certain U.S. based deferred income tax assets.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

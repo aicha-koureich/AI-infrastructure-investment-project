@@ -1,0 +1,21 @@
+FIRM         : KBH (CIK 0000795266) | FY2021
+FILE         : 0000795266_KBH_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-11-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 1. Summary of Significant Accounting Policies
+ASSET CAT.   : Equipment, computer software, furniture
+DURÉE        : 2.0-15.0 ans
+POLICY CHANGE: No
+HARDWARE     : B100 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-3.0 ans | 2.0-15.0 ans | 3.0-10.0 ans
+
+[VERBATIM — Durée de vie]
+Property and Equipment and Depreciation. Property and equipment are recorded at cost and are depreciated using the straight-line method over their estimated useful lives as follows: computer software and equipment – two to 15 years; model furnishings and sales office improvements – two to three years; office furniture and equipment – three to 10 years; and leasehold improvements – life of the lease.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

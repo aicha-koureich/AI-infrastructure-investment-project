@@ -1,0 +1,20 @@
+FIRM         : NBHC (CIK 0001475841) | FY2022
+FILE         : 0001475841_NBHC_FY2022_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-12-31
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2 Summary of Significant Accounting Policies
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company utilizes a DCF model developed within a third-party software tool to establish expected lifetime credit losses for the loan portfolio. The ACL is calculated as the difference between the amortized cost basis and the projections from the DCF analysis. The DCF model allows for individual life of loan cash flow modeling, excluding extensions and renewals, using loan-specific interest rates and repayment schedules adjusted for estimated prepayment rates and loss recovery timing delays. The model incorporates forecasts of certain national macroeconomic factors, including unemployment rates, HPI, retail sales and GDP, which drive correlated probability of default (“PD”) and loss given default (“LGD”) rates. PD and LGD, in turn, drive the losses predicted in establishing our ACL. PD and LGD rates along with prepayment rates and loss recovery time delays are determined at a loan class level making use of both internal and peer historical loss rate data. The determination and application of the ACL accounting policy involves judgments, estimates, and uncertainties that are subject to change. For periods beyond the reasonable and supportable forecast period, we revert to historical long-term average loss rates on a straight-line basis. The length of the forecast period spans four quarters. The length of the reversion period is based
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

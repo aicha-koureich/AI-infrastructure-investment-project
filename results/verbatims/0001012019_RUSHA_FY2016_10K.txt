@@ -1,0 +1,20 @@
+FIRM         : RUSHA (CIK 0001012019) | FY2016
+FILE         : 0001012019_RUSHA_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2016
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. SIGNIFICANT ACCOUNTING POLICIES :
+ASSET CAT.   : computer software, capitalized software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+The Company has capitalized software costs, including capitalized interest, of approximately $33.0 million at December 31, 2016, net of accumulated amortization of $16.5 million, and had $36.1 million, net of accumulated amortization of $13.4 million at December 31, 2015.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

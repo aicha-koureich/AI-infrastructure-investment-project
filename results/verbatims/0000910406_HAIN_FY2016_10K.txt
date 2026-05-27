@@ -1,0 +1,20 @@
+FIRM         : HAIN (CIK 0000910406) | FY2016
+FILE         : 0000910406_HAIN_FY2016_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 19. QUARTERLY FINANCIAL DATA (UNAUDITED) Description of Business and Basis of Presentation
+ASSET CAT.   : Machinery and equipment, Computer hardware, Furniture and fixtures
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+June 30, 2016 June 30, 2015 (Revised) Land $ 35,825 $ 36,386 Buildings and improvements 102,086 88,507 Machinery and equipment 358,362 330,573 Computer hardware and software 48,829 36,346 Furniture and fixtures 14,165 10,272 Leasehold improvements 28,471 25,752 Construction in progress 14,495 10,340 602,233 538,176 Less: Accumulated depreciation and amortization 212,392 184,512 $ 389,841 $ 353,664
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

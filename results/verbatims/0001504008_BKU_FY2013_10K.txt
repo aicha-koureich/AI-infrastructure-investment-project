@@ -1,0 +1,20 @@
+FIRM         : BKU (CIK 0001504008) | FY2013
+FILE         : 0001504008_BKU_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : DECEMBER 31, 2013
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 21 Quarterly Financial Information (Unaudited) (Continued)
+ASSET CAT.   : Furniture, equipment, Computer equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : Hopper (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+2013 2012 Branch buildings and improvements $ 18,049 $ 17,440 Leasehold improvements 47,912 30,491 Construction in progress 3,293 7,816 Furniture, fixtures and equipment 29,880 25,644 Computer equipment 11,212 10,356 Software and software licensing rights 26,855 22,363 ​ ​ ​ ​ ​ ​ ​ ​ 137,201 114,110 Less: accumulated depreciation (42,923 ) (25,507 ) ​ ​ ​ ​ ​ ​ ​ ​ Premises and equipment, net $ 94,278 $ 88,603 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

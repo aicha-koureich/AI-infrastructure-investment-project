@@ -1,0 +1,20 @@
+FIRM         : ESI (CIK 0001590714) | FY2021
+FILE         : 0001590714_ESI_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-23
+STATUS       : OK | Confiance : 0/3
+SECTION      : unknown
+SECTION TITLE: 
+ASSET CAT.   : Not disclosed
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : A100 (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Not disclosed
+
+[VERBATIM — Infrastructure IA]
+• Circuitry Solutions : net sales increased 13% on a reported basis and 10% on an organic basis. Foreign exchange had a positive impact of 4% on reported net sales. The increase in organic net sales was primarily due to robust demand in telecommunications, computing, data center markets and new business wins in Asia.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

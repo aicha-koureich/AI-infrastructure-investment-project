@@ -1,0 +1,20 @@
+FIRM         : UNFI (CIK 0001020859) | FY2014
+FILE         : 0001020859_UNFI_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : August 2, 2014
+STATUS       : OK | Confiance : 2/3
+SECTION      : notes_to_financials
+SECTION TITLE: 15. SUBSEQUENT EVENTS
+ASSET CAT.   : equipment, Office equipment, Computer software
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Original Estimated Useful Lives (Years) 2014 2013 (In thousands, except years) Land $ 31,324 $ 12,950 Buildings and improvements 20-40 215,172 192,837 Leasehold improvements 5-20 130,739 97,749 Warehouse equipment 3-30 128,121 117,999 Office equipment 3-10 71,524 74,003 Computer software 3-7 97,196 63,333 Motor vehicles 3-7 4,520 4,461 Construction in progress 79,002 23,298 757,598 586,630 Less accumulated depreciation and amortization 273,638 248,036 Net property and equipment $ 483,960 $ 338,594
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

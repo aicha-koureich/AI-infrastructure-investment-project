@@ -1,0 +1,23 @@
+FIRM         : ZION (CIK 0000109380) | FY2013
+FILE         : 0000109380_ZION_FY2013_10K.html
+FILING DATE  : N/A
+PERIOD END   : N/A
+STATUS       : OK | Confiance : 1/3
+SECTION      : item_8_other
+SECTION TITLE: 
+ASSET CAT.   : Furniture, equipment
+DURÉE        : None-None ans
+POLICY CHANGE: Unclear
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+(In thousands) December 31, 2013 2012 Land $ 185,119 $ 184,762 Buildings 509,151 497,449 Furniture, equipment and software 664,556 622,170 Leasehold improvements 129,056 121,953 Total 1,487,882 1,426,334 Less accumulated depreciation and amortization 761,510 717,452 Net book value $ 726,372 $ 708,882
+
+[VERBATIM — Changement de politique]
+Any changes to the amortization rate of the FDIC IA are recognized immediately in the quarterly period the change in estimated cash flows is determined. All claims submitted to the FDIC have been reimbursed in a timely manner.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

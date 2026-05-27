@@ -1,0 +1,24 @@
+FIRM         : FIX (CIK 0001035983) | FY2014
+FILE         : 0001035983_FIX_FY2014_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2014
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 2. Summary of Significant Accounting Policies (Continued)
+ASSET CAT.   : equipment
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+
+[VERBATIM — Durée de vie]
+Property and equipment are stated at cost, and depreciation is computed using the straight-line method over the estimated useful lives
+of the assets.
+
+[VERBATIM — Infrastructure IA]
+Revenue —Revenue increased $26.1 million, or 2.0% to $1,357.3 million in 2013 compared to 2012. The increase is primarily due to our
+Arizona operation ($23.5 million) and our EAS operation ($47.3 million) which performed a significant amount of project work during 2013. This increase was partially offset by lower
+revenue in our large operation headquartered in Virginia ($53.1 million), which had a fast-paced, large data center project in the first half of 2012 which did not reoccur in 2013 due to its
+completion in the prior year.  [Source: MD&A (Item 7)]
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

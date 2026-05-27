@@ -1,0 +1,23 @@
+FIRM         : NGVT (CIK 0001653477) | FY2021
+FILE         : 0001653477_NGVT_FY2021_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2022-02-01
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: Note 2: Summary of Significant Accounting Policies
+ASSET CAT.   : Capitalized software
+DURÉE        : 1.0-15.0 ans
+POLICY CHANGE: Yes
+HARDWARE     : Blackwell (1 modèle(s))
+
+[VERBATIM — Durée de vie]
+Capitalized software is amortized using the straight-line over the estimated useful lives ranging from 1 to 15 years. Amortization is recorded to Costs of sales on our consolidated statements of operations for software directly used in the production of inventory and Selling, general, and administrative expenses on our consolidated statements of operations for software used for non-production related activities.
+
+[VERBATIM — Changement de politique]
+We record an accrual for severance and other non-recurring costs under the provisions of the relevant accounting guidance. Additionally, in some restructuring plans, write-downs of long-lived assets may occur. Two types of assets are impacted: assets to be disposed of by sale and assets to be abandoned. Assets to be disposed of by sale are measured at the lower of carrying amount or estimated net proceeds from the sale. Assets to be abandoned with no remaining future service potential are written down to amounts expected to be recovered. The useful lives of assets to be abandoned that have a remaining future service potential are adjusted and depreciation is recorded over the adjusted useful life.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Not disclosed

@@ -1,0 +1,21 @@
+FIRM         : RJF (CIK 0000720005) | FY2020
+FILE         : 0000720005_RJF_FY2020_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2021-09-30
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : equipment, furniture, technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-10.0 ans | 3.0-5.0 ans
+
+[VERBATIM — Durée de vie]
+Property and equipment on our Consolidated Statements of Financial Condition are stated at cost less accumulated depreciation and amortization.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Internal use software (cloud computing) - In August 2018, the FASB issued guidance on the accounting for implementation costs incurred by customers in cloud computing arrangements (ASU 2018-15). This guidance requires implementation costs incurred by customers in cloud computing arrangements that are service contracts to be deferred and recognized over the non-cancelable term of the service contract plus any optional renewal periods (1) that are reasonably certain to be exercised by the customer or (2) for which exercise of the renewal option is controlled by the cloud service provider. We adopted this new guidance on October 1, 2020 using a prospective approach as of the adoption date. The impact of this amended guidance is dependent on implementation costs incurred subsequent to adoption. The adoption did not have an impact on our financial position, results of operations, or cash flows. ||| Internal use software (cloud computing) - ||| In August 2018, the FASB issued guidance on the accounting for implementation costs incurred by customers in cloud computing arrangements (ASU 2018-15). This guidance requires implementation costs incurred by customers in cloud computing arrangements that are service contracts to be deferred and recognized over the non-cancelable term of the service contract plus any optional renewal periods (1) that are reasonably certain to be exercised by the customer or (2) for which exercise of the renewal option is controlled by the cloud service provider. We adopted this new guidance on October 1, 2020 using a prospective approach as of the adoption date. The impact of this amended guidance is dependent on implementation costs incurred subsequent to adoption. The adoption did not have an impact on our financial position, results of operations, or cash flows.

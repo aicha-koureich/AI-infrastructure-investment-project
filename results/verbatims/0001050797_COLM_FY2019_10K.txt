@@ -1,0 +1,21 @@
+FIRM         : COLM (CIK 0001050797) | FY2019
+FILE         : 0001050797_COLM_FY2019_10K.html
+FILING DATE  : N/A
+PERIOD END   : December 31, 2019
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: NOTE 2—SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ASSET CAT.   : software and equipment
+DURÉE        : 3.0-10.0 ans
+POLICY CHANGE: No
+HARDWARE     : B200 (1 modèle(s))
+⚠ AMBIGUÏTÉ  : 3.0-10.0 ans | 15.0 ans
+
+[VERBATIM — Durée de vie]
+Property, plant and equipment are stated at cost, net of accumulated depreciation. The principal estimated useful lives are: land improvements, 15 years; buildings and building improvements, 15-30 years; furniture and fixtures, 3-10 years; and machinery, software and equipment, 3-10 years.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Effective January 1, 2020, the Company adopted ASU No. 2018-15, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40) issued by the FASB in August 2018, which clarifies certain aspects of accounting for implementation costs incurred in a cloud computing arrangement ("CCA") that is a service contract. Under the ASU, an entity would expense costs incurred in the preliminary-project and post-implementation-operation stages. The entity would also capitalize certain costs incurred during the application-development stage, as well as certain costs related to enhancements. The ASU does not change the accounting for the service component of a CCA. The Company adopted the standard using the prospective method and anticipates an increase in cloud-specific implementation assets as specific cloud initiatives are developed at the Company. These assets will amortize over their assessed useful lives or the term of the underlying cloud computing hosting contract, whichever is shorter. ||| an increase in cloud-specific implementation assets as specific cloud initiatives are developed at the Company. These assets will amortize over their assessed useful lives or the term of the underlying cloud computing hosting contract, whichever is shorter.

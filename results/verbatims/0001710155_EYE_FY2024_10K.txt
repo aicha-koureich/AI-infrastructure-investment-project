@@ -1,0 +1,21 @@
+FIRM         : EYE (CIK 0001710155) | FY2024
+FILE         : 0001710155_EYE_FY2024_10K.html
+FILING DATE  : N/A
+PERIOD END   : 2024-12-28
+STATUS       : OK | Confiance : 3/3
+SECTION      : significant_accounting_policies
+SECTION TITLE: 18. Quarterly Financial Information
+ASSET CAT.   : information technology
+DURÉE        : None-None ans
+POLICY CHANGE: No
+HARDWARE     : None (0 modèle(s))
+⚠ AMBIGUÏTÉ  : 2.0-5.0 ans | 3.0-10.0 ans | 5.0-10.0 ans | 6.0 ans | 10.0 ans
+
+[VERBATIM — Durée de vie]
+(a) Costs of developing or obtaining software for internal use, such as direct costs of materials or services and internal payroll costs related to the software development projects, are capitalized to information technology hardware and software. (b) Depreciation of leasehold improvements is recognized over the shorter of the estimated useful life of the asset or the term of the lease.
+
+[VERBATIM — Infrastructure IA]
+Not disclosed
+
+[VERBATIM — Segments (Task 6)]
+Amortization of cloud computing implementation costs ||| Cloud Computing Arrangements ||| The Company capitalizes certain costs related to the acquisition and development of internal use software, including implementation costs incurred in a cloud computing arrangement during the application development stages of projects. Capitalized implementation costs are amortized on a straight-line basis over the expected term of the hosting arrangement, which includes consideration of the non-cancellable contractual term and reasonably certain renewals. Costs incurred during the preliminary project or the post-implementation stages of the project are expensed as incurred. Implementation costs are included in Other assets in our Consolidated Balance Sheets. Amortization of capitalized implementation costs is included in Selling, general and administrative expenses in the Consolidated Statements of Operations and Comprehensive (Loss) Income.
