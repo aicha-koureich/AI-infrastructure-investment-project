@@ -76,11 +76,11 @@ rendu/           ← Final deliverables for submission
 
 | Requirement | File |
 |---|---|
-| Structured datasets | `results/extraction_results_global.csv` + `synthesis/synthesis_results.csv` |
+| Structured datasets | `rendu/extraction_results_global.csv` + `synthesis/synthesis_results.csv` |
 | Archive of source filings | Google Drive (`raw_filings/batch_*.zip`) |
-| Verbatim excerpts | `results/verbatim_global.txt` |
-| Source log | `results/source_log.csv` |
-| Replication log | `results/replication_log_global.csv` |
+| Verbatim excerpts | `rendu/verbatim_global.txt` |
+| Source log | `rendu/source_log.csv` |
+| Replication log | `rendu/replication_log_global.csv` |
 
 ---
 
