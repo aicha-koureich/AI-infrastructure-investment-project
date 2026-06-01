@@ -1,78 +1,59 @@
-AI Infrastructure Investment Project - SEC 10-K Extractor
+# AI Infrastructure Investment Project
 
-Ce dépôt contient les outils d'extraction automatisée pour le projet de recherche sur l'investissement dans les infrastructures IA, basé sur le AI Infrastructure Data Construction Handbook.
-### Fonctionnalités
+Research project on AI infrastructure investment disclosure by S&P 1500 companies between 2013 and 2024, based on SEC 10-K annual filings.
 
-Le script extract_10k_v5.py traite les rapports SEC Form 10-K (iXBRL) à grande échelle :
+**Instructor:** Chang Gong — *AI Infrastructure Data Construction Handbook*
 
-    Useful-Life (Task 2) : Durées de vie des actifs IT (serveurs, hardware, software).
+---
 
-    Policy Changes (Task 3) : Détection des changements de méthodes d'amortissement.
+## How it works
 
-    AI Infrastructure (Task 5) : Verbatims sur les GPU, le Machine Learning et les Data Centers.
+### Step 1 — Extraction (`extract_10k_v5.py`)
 
-### Installation et Prérequis
-1. Dépendances Python
-Bash
+Reads raw HTML 10-K filings from Google Drive (151 ZIP batches, ~18,000 firm-years) and extracts structured data for each company and fiscal year.
 
-pip install pandas beautifulsoup4 lxml
+- **Task 2** — Finds the depreciation sentence in the accounting policies note and extracts the useful life range for IT assets (e.g. "3 to 10 years for equipment and capitalized software"). Outputs `useful_life_min_years`, `useful_life_max_years`, `asset_category`, and the verbatim sentence.
+- **Task 3** — Searches for explicit mentions of policy changes ("revised useful lives", "change in estimate"). Outputs `policy_change` (Yes / No) and the verbatim paragraph if found.
+- **Task 5** — Extracts full paragraphs containing AI-related keywords (GPU, data center, machine learning, NVIDIA, etc.) from Item 8 and MD&A. Outputs `ai_infra_text` and its source location.
+- **Task 6** — Identifies segment-level mentions of cloud or AI business units. Outputs `segment_ai_text`.
+- **Task 7** — Scans the full document for specific hardware models (H100, A100, AMD Instinct, TPU, etc.). Outputs `hardware_mentions` and `hardware_count`.
 
-2. Configuration Rclone
+Produces `results/extraction_results_global.csv` — one row per firm-year, all variables above included — along with individual verbatim `.txt` files in `results/verbatims/`.
 
-Le script utilise directement l'outil système rclone pour communiquer avec Google Drive.
+---
 
-    Assurez-vous que rclone est installé et configuré (nom du remote conseillé : gdrive).
+### Step 2 — Synthesis (`synthesize_10k.py`)
 
-    Plus besoin de monter le Drive (rclone mount), le script gère les transferts un par un.
+Reads the extraction CSV and runs two types of analysis.
 
-### Utilisation
+- **Algorithmic pass (Tasks 3-4)** — Compares useful life values year over year for each company. If the max or min changes by more than 0.5 years, it flags a policy change and records the year. Distinguishes real changes from first-time disclosures. Outputs `task3_algo`, `task4_date`, `delta_min`, `delta_max`.
+- **LLM pass (Task 5)** — Sends each AI verbatim to Google Gemini (free API) and asks it to classify the disclosure as `detailed` (specific hardware, investment figures), `vague` (generic AI mentions), or `not_relevant` (ERP, cybersecurity, etc.). Also extracts use cases and specific products mentioned. Outputs `llm_disclosure_level`, `llm_justification`, `llm_specific_products`.
 
-Le script propose trois modes d'exécution. Le mode Production est optimisé pour éviter de saturer l'espace disque local.
-1. Mode Test (Fichier unique)
-Bash
+Produces `synthesis/synthesis_results.csv` — the final analytical dataset — along with one summary report per company in `synthesis/firm_reports/` and a global trends report in `synthesis/rapport_global.txt`.
 
-python extract_10k_v5.py --input 0000001750_AIR_FY2025_10K.html
+---
 
-2. Mode Local (Dossier HTML)
-Bash
+## Repository structure
 
-python extract_10k_v5.py --folder ./filings/ --output ./results/
+```
+script/          ← Python scripts (extract_10k_v5.py, synthesize_10k.py, download_10K.py)
+results/         ← Extraction outputs (CSVs, verbatims, logs)
+synthesis/       ← Synthesis outputs (analytical dataset, firm reports, global report)
+rendu/           ← Final deliverables for submission
+```
 
-3. Mode Production (Auto-Download & Checkpoint)
+---
 
-C'est le mode recommandé pour traiter les 68 batches du S&P 1500. Le script télécharge un ZIP, le traite, puis le supprime avant de passer au suivant.
+## Deliverables
 
-    Exécution globale :
+| Requirement | File |
+|---|---|
+| Structured datasets | `results/extraction_results_global.csv` + `synthesis/synthesis_results.csv` |
+| Archive of source filings | Google Drive (`raw_filings/batch_*.zip`) |
+| Verbatim excerpts | `results/verbatim_global.txt` |
+| Source log | `results/source_log.csv` |
+| Replication log | `results/replication_log_global.csv` |
 
-Bash
+---
 
-python extract_10k_v5.py --drive "gdrive:AI_Infrastructure_Investment_Project/raw_filings" --output ./results/
-
-    Reprise après interruption (Checkpoint) :
-    Si le script s'arrête (coupure internet, crash), relancez simplement la même commande. Le script détecte les fichiers extraction_results_batch_X.csv déjà présents et ne traite que les batches manquants.
-
-    Batch spécifique :
-
-Bash
-
-python extract_10k_v5.py --drive "gdrive:..." --batch batch_12.zip --output ./results/
-
-### Structure des sorties
-
-Le dossier ./results/ est organisé pour garantir l'intégrité des données :
-
-    extraction_results_global.csv : Fusion finale de tous les batches.
-
-    extraction_results_batch_X.csv : Données brutes par batch (sert de checkpoint).
-
-    replication_log_global.csv : Journal centralisant les erreurs (Task 13).
-
-    verbatims/ : Un fichier .txt par firme-année (ex: 0000002488_AMD_FY2024.txt) pour vérification manuelle.
-
-### Robustesse et Sécurité
-
-    Gestion de l'espace disque : Chaque fichier ZIP est supprimé immédiatement après traitement.
-
-    Tolérance aux pannes : Utilisation de --retries 3 via rclone pour les téléchargements.
-
-    Mémoire optimisée : Les fichiers HTML sont lus directement depuis l'archive locale sans extraction massive sur le disque.
+## For setup and usage instructions, see [GUIDE.md](GUIDE.md)
